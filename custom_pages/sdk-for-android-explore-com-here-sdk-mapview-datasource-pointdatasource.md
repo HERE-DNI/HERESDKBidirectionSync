@@ -64,33 +64,33 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#add(com.here.sdk.mapview.datasource.PointData)">add</a><wbr/>(<a href="sdk-for-android-explore-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a> point)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource#add(com.here.sdk.mapview.datasource.PointData)">add</a><wbr/>(<a href="sdk-for-android-explore-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a> point)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a new point to the data source.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#add(java.util.List)">add</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a>&gt; points)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource#add(java.util.List)">add</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a>&gt; points)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds new points to the data source.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#destroy()">destroy</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource#destroy()">destroy</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Frees all internally used resources.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#forEach(com.here.sdk.mapview.datasource.PointDataSource.PointDataProcessor)">forEach</a><wbr/>(<a href="sdk-for-android-explore-pointdatasource.pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a> processor)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource#forEach(com.here.sdk.mapview.datasource.PointDataSource.PointDataProcessor)">forEach</a><wbr/>(<a href="sdk-for-android-explore-pointdatasource.pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a> processor)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Iterates through all the points from the data source and passes them to the
  given processor, one by one.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#removeAll()">removeAll</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource#removeAll()">removeAll</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes all points from the data source.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#removeIf(com.here.sdk.mapview.datasource.PointDataSource.PointDataProcessor)">removeIf</a><wbr/>(<a href="sdk-for-android-explore-pointdatasource.pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a> processor)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource#removeIf(com.here.sdk.mapview.datasource.PointDataSource.PointDataProcessor)">removeIf</a><wbr/>(<a href="sdk-for-android-explore-pointdatasource.pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a> processor)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Iterates through all the points from the data source and passes them to the
  given inspector, one by one.</div>

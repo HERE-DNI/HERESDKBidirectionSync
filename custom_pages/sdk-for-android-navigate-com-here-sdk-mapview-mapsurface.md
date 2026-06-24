@@ -65,20 +65,20 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">MapSurface</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#%3Cinit%3E()">MapSurface</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(android.content.Context)">MapSurface</a><wbr/>(android.content.Context context)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#%3Cinit%3E(android.content.Context)">MapSurface</a><wbr/>(android.content.Context context)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(android.content.Context,com.here.sdk.mapview.MapViewOptions)">MapSurface</a><wbr/>(android.content.Context context,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#%3Cinit%3E(android.content.Context,com.here.sdk.mapview.MapViewOptions)">MapSurface</a><wbr/>(android.content.Context context,
  <a href="sdk-for-android-navigate-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.MapViewOptions)">MapSurface</a><wbr/>(<a href="sdk-for-android-navigate-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#%3Cinit%3E(com.here.sdk.mapview.MapViewOptions)">MapSurface</a><wbr/>(<a href="sdk-for-android-navigate-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -97,12 +97,12 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">addLifecycleListener</a><wbr/>(<a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">addLifecycleListener</a><wbr/>(<a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a <a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to this map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#attachSurface(android.content.Context,android.view.Surface,int,int)">attachSurface</a><wbr/>(android.content.Context context,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#attachSurface(android.content.Context,android.view.Surface,int,int)">attachSurface</a><wbr/>(android.content.Context context,
  android.view.Surface surface,
  int width,
  int height)</code></div>
@@ -110,7 +110,7 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
 <div class="block">Sets the surface on which the map will be rendered.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#attachSurface(android.content.Context,android.view.Surface,int,int,com.here.sdk.mapview.MapSurface.RenderListener)">attachSurface</a><wbr/>(android.content.Context context,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#attachSurface(android.content.Context,android.view.Surface,int,int,com.here.sdk.mapview.MapSurface.RenderListener)">attachSurface</a><wbr/>(android.content.Context context,
  android.view.Surface surface,
  int width,
  int height,
@@ -119,131 +119,131 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
 <div class="block">Sets the surface on which the map will be rendered.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#destroy()">destroy</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#destroy()">destroy</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Destroys the map renderer and render surface, making this <code>MapSurface</code> invalid.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#destroySurface()">destroySurface</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#destroySurface()">destroySurface</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Destroys the rendering surface.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">geoToViewCoordinates</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">geoToViewCoordinates</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Converts geographical coordinates to view coordinates (in pixels).</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getCamera()">getCamera</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#getCamera()">getCamera</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the camera control object for the map</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getFrameRate()">getFrameRate</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#getFrameRate()">getFrameRate</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets maximum render frame rate in frames per second.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-gestures" title="class in com.here.sdk.gestures">Gestures</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getGestures()">getGestures</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#getGestures()">getGestures</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the gestures control object.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview">HereMap</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getHereMap()">getHereMap</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#getHereMap()">getHereMap</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the HereMap associated with this map view.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getMapContext()">getMapContext</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#getMapContext()">getMapContext</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the map context associated with this map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapscene" title="class in com.here.sdk.mapview">MapScene</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getMapScene()">getMapScene</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#getMapScene()">getMapScene</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the map scene associated with this map view.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPixelScale()">getPixelScale</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#getPixelScale()">getPixelScale</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the pixel scale factor used by this MapView.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getShadowQuality()">getShadowQuality</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#getShadowQuality()">getShadowQuality</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Gets the currently set shadow quality.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getViewportSize()">getViewportSize</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#getViewportSize()">getViewportSize</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the viewport size of this MapView in physical pixels.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getWatermarkSize()">getWatermarkSize</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#getWatermarkSize()">getWatermarkSize</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the watermark size in physical pixels.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isValid()">isValid</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#isValid()">isValid</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns whether this <code>MapSurface</code> is valid.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onPause()">onPause</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#onPause()">onPause</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Call this method in the onPause() method of the lifecycle owner.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onResume()">onResume</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#onResume()">onResume</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Call this method in the onResume() method of the lifecycle owner.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">pick</a><wbr/>(<a href="sdk-for-android-navigate-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">pick</a><wbr/>(<a href="sdk-for-android-navigate-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter,
  <a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
  <a href="sdk-for-android-navigate-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns all map content located inside the specified pick area.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#redraw(java.lang.Runnable)">redraw</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Runnable.html" title="class or interface in java.lang">Runnable</a> redrawFinished)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#redraw(java.lang.Runnable)">redraw</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Runnable.html" title="class or interface in java.lang">Runnable</a> redrawFinished)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Redraws the map and reports back on completion.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">removeLifecycleListener</a><wbr/>(<a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">removeLifecycleListener</a><wbr/>(<a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a <a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from this map view.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setFrameRate(int)">setFrameRate</a><wbr/>(int value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#setFrameRate(int)">setFrameRate</a><wbr/>(int value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets maximum render frame rate in frames per second.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)">setOnReadyListener</a><wbr/>(<a href="sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> readyListener)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)">setOnReadyListener</a><wbr/>(<a href="sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> readyListener)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the OnReadyListener, which will be notified once MapView initialization has
  been finished.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setShadowQuality(com.here.sdk.mapview.ShadowQuality)">setShadowQuality</a><wbr/>(<a href="sdk-for-android-navigate-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a> shadowQuality)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#setShadowQuality(com.here.sdk.mapview.ShadowQuality)">setShadowQuality</a><wbr/>(<a href="sdk-for-android-navigate-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a> shadowQuality)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Set desired shadow quality for all instances of MapSurface/MapView.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">setWatermarkLocation</a><wbr/>(<a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">setWatermarkLocation</a><wbr/>(<a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor,
  <a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the position of the HERE logo watermark within the map view.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)">takeScreenshot</a><wbr/>(<a href="sdk-for-android-navigate-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> callback)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)">takeScreenshot</a><wbr/>(<a href="sdk-for-android-navigate-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously retrieves screenshot of current map view</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#viewToGeoCoordinates(com.here.sdk.core.Point2D)">viewToGeoCoordinates</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#viewToGeoCoordinates(com.here.sdk.core.Point2D)">viewToGeoCoordinates</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Converts view coordinates to geographical coordinates.</div>
 </div>
@@ -319,7 +319,7 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
 <h3>isValid</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isValid</span>()</div>
 <div class="block">Returns whether this <code>MapSurface</code> is valid. An invalid <code>MapSurface</code> is
- non-functional. A <code>MapSurface</code> is considered valid only after <a href="sdk-for-android-navigate-index#attachSurface(android.content.Context,android.view.Surface,int,int)"><code>attachSurface(Context, Surface, int, int)</code></a> and before <a href="sdk-for-android-navigate-index#destroy()"><code>destroy()</code></a> is called.
+ non-functional. A <code>MapSurface</code> is considered valid only after <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#attachSurface(android.content.Context,android.view.Surface,int,int)"><code>attachSurface(Context, Surface, int, int)</code></a> and before <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#destroy()"><code>destroy()</code></a> is called.
  <code>MapSurface</code> is also invalidated when the
  <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> it is using is destroyed.</div>
 <dl class="notes">
@@ -336,9 +336,9 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">destroy</span>()</div>
 <div class="block">Destroys the map renderer and render surface, making this <code>MapSurface</code> invalid.
  Call this method only when the render surface will no longer be used.
- <a href="sdk-for-android-navigate-index#isValid()"><code>isValid()</code></a> will return <code>false</code> after this is called.
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#isValid()"><code>isValid()</code></a> will return <code>false</code> after this is called.
  It can be made valid again by setting render surface using
- <a href="sdk-for-android-navigate-index#attachSurface(android.content.Context,android.view.Surface,int,int)"><code>attachSurface(Context, Surface, int, int)</code></a>.</div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#attachSurface(android.content.Context,android.view.Surface,int,int)"><code>attachSurface(Context, Surface, int, int)</code></a>.</div>
 </section>
 </li>
 <li>
@@ -397,7 +397,7 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
 <dd><code>width</code> - The width of the render surface in pixels.</dd>
 <dd><code>height</code> - The height of the render surface in pixels.</dd>
 <dd><code>renderListener</code> - A listener for render events. The listener will be released
-                      once <a href="sdk-for-android-navigate-index#destroySurface()"><code>destroySurface()</code></a> gets called.</dd>
+                      once <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapsurface#destroySurface()"><code>destroySurface()</code></a> gets called.</dd>
 <dt>Throws:</dt>
 <dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" title="class or interface in java.lang">NullPointerException</a></code> - if surface is invalid and cannot be used.</dd>
 </dl>

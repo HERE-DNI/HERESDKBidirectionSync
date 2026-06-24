@@ -44,58 +44,58 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-busoptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-allowoptions" title="class in com.here.sdk.routing">AllowOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#allowOptions">allowOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#allowOptions">allowOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">The options explicitly allowed by user for route calculations.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#avoidanceOptions">avoidanceOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#avoidanceOptions">avoidanceOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Options to specify restrictions for route calculations.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-busspecifications" title="class in com.here.sdk.transport">BusSpecifications</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#busSpecifications">busSpecifications</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#busSpecifications">busSpecifications</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Detailed bus specifications such as dimensions and weight.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lastCharacterOfLicensePlate">lastCharacterOfLicensePlate</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#lastCharacterOfLicensePlate">lastCharacterOfLicensePlate</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies the last character of a vehicle's license plate, typically used to
  evaluate traffic restrictions in certain environmental or low-emission zones.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxSpeedOnSegments">maxSpeedOnSegments</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#maxSpeedOnSegments">maxSpeedOnSegments</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Segments with restriction on maximum baseSpeed.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#occupantsNumber">occupantsNumber</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#occupantsNumber">occupantsNumber</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies the number of occupants in the vehicle, including driver,
  can affect the vehicle's ability to use HOV/carpool restricted lanes.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#routeOptions">routeOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#routeOptions">routeOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies the common route calculation options.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#textOptions">textOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#textOptions">textOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Customize textual content returned from the route calculation, such
  as localization, format, and unit system.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#tollOptions">tollOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#tollOptions">tollOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Options to specify how the tolls should be calculated,
@@ -112,7 +112,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-busoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">BusOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#%3Cinit%3E()">BusOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Creates a new instance.</div>
@@ -132,12 +132,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-busoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
  </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
  </div>
@@ -215,7 +215,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-busoptions"
 <div class="block"><p>Specifies the number of occupants in the vehicle, including driver,
  can affect the vehicle's ability to use HOV/carpool restricted lanes.
  Shouldn't be less than 1 or greater than 255. Defaults to 1.
- </p><p><strong>Note:</strong> This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-android-navigate-index#allowOptions"><code>allowOptions</code></a> and such lanes are available in the selected country.</p></div>
+ </p><p><strong>Note:</strong> This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-android-navigate-com-here-sdk-routing-busoptions#allowOptions"><code>allowOptions</code></a> and such lanes are available in the selected country.</p></div>
 </section>
 </li>
 <li>

@@ -53,15 +53,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-dimensionrestrictiontype
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCK_HEIGHT">TRUCK_HEIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dimensionrestrictiontype#TRUCK_HEIGHT">TRUCK_HEIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A height restriction.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCK_LENGTH">TRUCK_LENGTH</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dimensionrestrictiontype#TRUCK_LENGTH">TRUCK_LENGTH</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A length restriction.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCK_WIDTH">TRUCK_WIDTH</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dimensionrestrictiontype#TRUCK_WIDTH">TRUCK_WIDTH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A width restriction.</div>
 </div>
@@ -80,12 +80,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-dimensionrestrictiontype
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-dimensionrestrictiontype" title="enum class in com.here.sdk.navigation">DimensionRestrictionType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dimensionrestrictiontype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-dimensionrestrictiontype" title="enum class in com.here.sdk.navigation">DimensionRestrictionType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dimensionrestrictiontype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

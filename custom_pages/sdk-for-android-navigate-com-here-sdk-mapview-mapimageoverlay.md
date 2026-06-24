@@ -46,12 +46,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage)">MapImageOverlay</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay#%3Cinit%3E(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage)">MapImageOverlay</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates,
  <a href="sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of an overlay at given view coordinates, represented by specified image.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)">MapImageOverlay</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay#%3Cinit%3E(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)">MapImageOverlay</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates,
  <a href="sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
  <a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</code></div>
 <div class="col-last odd-row-color">
@@ -73,43 +73,43 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getAnchor()">getAnchor</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay#getAnchor()">getAnchor</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets current anchor point for the overlay image.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDrawOrder()">getDrawOrder</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay#getDrawOrder()">getDrawOrder</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets draw order of this <code>MapImageOverlay</code>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview">MapImage</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getImage()">getImage</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay#getImage()">getImage</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets currently used map image.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getViewCoordinates()">getViewCoordinates</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay#getViewCoordinates()">getViewCoordinates</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the view point in pixels on the map viewport where the overlay is drawn.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setAnchor(com.here.sdk.core.Anchor2D)">setAnchor</a><wbr/>(<a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay#setAnchor(com.here.sdk.core.Anchor2D)">setAnchor</a><wbr/>(<a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets anchor point of the overlay image which specifies the position offset relative
  to the overlay's view coordinates.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setDrawOrder(int)">setDrawOrder</a><wbr/>(int value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay#setDrawOrder(int)">setDrawOrder</a><wbr/>(int value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets draw order of this <code>MapImageOverlay</code>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setImage(com.here.sdk.mapview.MapImage)">setImage</a><wbr/>(<a href="sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview">MapImage</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay#setImage(com.here.sdk.mapview.MapImage)">setImage</a><wbr/>(<a href="sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview">MapImage</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the image overlayed on map.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setViewCoordinates(com.here.sdk.core.Point2D)">setViewCoordinates</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay#setViewCoordinates(com.here.sdk.core.Point2D)">setViewCoordinates</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the view point in pixels on the map viewport where the overlay is drawn.</div>
 </div>

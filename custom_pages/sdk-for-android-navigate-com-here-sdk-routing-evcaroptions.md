@@ -33,8 +33,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-evcaroptions"
 <div class="block"><p>All the options to specify how a route for an electric car should be calculated.
  At minimum, a valid <a href="sdk-for-android-navigate-evconsumptionmodel" title="class in com.here.sdk.routing"><code>EVConsumptionModel</code></a> must be set or the route calculation will fail.
  <br/>
- Note: <a href="sdk-for-android-navigate-index#ensureReachability"><code>ensureReachability</code></a> must be <code>true</code> to make sure that all stopovers are reachable. For this,
- charging stations may be added to the route. If <a href="sdk-for-android-navigate-index#ensureReachability"><code>ensureReachability</code></a> is true, you need to
+ Note: <a href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#ensureReachability"><code>ensureReachability</code></a> must be <code>true</code> to make sure that all stopovers are reachable. For this,
+ charging stations may be added to the route. If <a href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#ensureReachability"><code>ensureReachability</code></a> is true, you need to
  specify the required route options and battery specifications that include the current charge level
  of the battery (<a href="sdk-for-android-navigate-batteryspecifications#initialChargeInKilowattHours"><code>BatterySpecifications.initialChargeInKilowattHours</code></a>).
  See the parameter description below for more details.</p></div>
@@ -51,83 +51,83 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-evcaroptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-allowoptions" title="class in com.here.sdk.routing">AllowOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#allowOptions">allowOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#allowOptions">allowOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">The options explicitly allowed by user for route calculations.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#avoidanceOptions">avoidanceOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#avoidanceOptions">avoidanceOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Options to specify restrictions for route calculations.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing">BatterySpecifications</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#batterySpecifications">batterySpecifications</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#batterySpecifications">batterySpecifications</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Parameters that describe the electric vehicle's battery.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-carspecifications" title="class in com.here.sdk.transport">CarSpecifications</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#carSpecifications">carSpecifications</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#carSpecifications">carSpecifications</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Detailed car specifications such as dimensions and weight.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-evconsumptionmodel" title="class in com.here.sdk.routing">EVConsumptionModel</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#consumptionModel">consumptionModel</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#consumptionModel">consumptionModel</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Vehicle specific parameters, which are then used to calculate energy consumption
  for the vehicle on a given route.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ensureReachability">ensureReachability</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#ensureReachability">ensureReachability</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Ensure that the vehicle does not run out of energy along the way.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-evmobilityserviceproviderpreferences" title="class in com.here.sdk.routing">EVMobilityServiceProviderPreferences</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#evMobilityServiceProviderPreferences">evMobilityServiceProviderPreferences</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#evMobilityServiceProviderPreferences">evMobilityServiceProviderPreferences</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Defines the preferred E-Mobility Service Providers.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lastCharacterOfLicensePlate">lastCharacterOfLicensePlate</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#lastCharacterOfLicensePlate">lastCharacterOfLicensePlate</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies the last character of a vehicle's license plate, typically used to
  evaluate traffic restrictions in certain environmental or low-emission zones.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxSpeedOnSegments">maxSpeedOnSegments</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#maxSpeedOnSegments">maxSpeedOnSegments</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Segments with restriction on maximum <a href="sdk-for-android-navigate-dynamicspeedinfo#baseSpeedInMetersPerSecond"><code>DynamicSpeedInfo.baseSpeedInMetersPerSecond</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#occupantsNumber">occupantsNumber</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#occupantsNumber">occupantsNumber</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies the number of occupants in the vehicle, including driver,
  can affect the vehicle's ability to use HOV/carpool restricted lanes.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#routeOptions">routeOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#routeOptions">routeOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies the common route calculation options.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#textOptions">textOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#textOptions">textOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Customize textual content returned from the route calculation, such
  as localization, format, and unit system.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#tollOptions">tollOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#tollOptions">tollOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Options to specify how the tolls should be calculated,
@@ -144,7 +144,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-evcaroptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">EVCarOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#%3Cinit%3E()">EVCarOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Creates a new instance.</div>
@@ -164,12 +164,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-evcaroptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
  </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
  </div>
@@ -247,7 +247,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-evcaroptions"
 <div class="block"><p>Specifies the number of occupants in the vehicle, including driver,
  can affect the vehicle's ability to use HOV/carpool restricted lanes.
  Shouldn't be less than 1 or greater than 255. Defaults to 1.
- </p><p><strong>Note:</strong> This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-android-navigate-index#allowOptions"><code>allowOptions</code></a> and such lanes are available in the selected country.</p></div>
+ </p><p><strong>Note:</strong> This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#allowOptions"><code>allowOptions</code></a> and such lanes are available in the selected country.</p></div>
 </section>
 </li>
 <li>
@@ -282,7 +282,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-evcaroptions"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">ensureReachability</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Ensure that the vehicle does not run out of energy along the way.
- Requires valid <a href="sdk-for-android-navigate-index#batterySpecifications"><code>batterySpecifications</code></a>.
+ Requires valid <a href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions#batterySpecifications"><code>batterySpecifications</code></a>.
  It also requires that
  <a href="sdk-for-android-navigate-routeoptions#optimizationMode"><code>RouteOptions.optimizationMode</code></a> = <a href="sdk-for-android-navigate-optimizationmode#FASTEST"><code>OptimizationMode.FASTEST</code></a>,
  <a href="sdk-for-android-navigate-routeoptions#speedCapInMetersPerSecond"><code>RouteOptions.speedCapInMetersPerSecond</code></a> is not set, and

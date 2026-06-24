@@ -46,11 +46,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">AdministrativeRulesLoader</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader#%3Cinit%3E()">AdministrativeRulesLoader</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">AdministrativeRulesLoader</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">AdministrativeRulesLoader</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -69,13 +69,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getAdministrativeRules(com.here.sdk.core.CountryCode,java.lang.String)">getAdministrativeRules</a><wbr/>(<a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader#getAdministrativeRules(com.here.sdk.core.CountryCode,java.lang.String)">getAdministrativeRules</a><wbr/>(<a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> stateCode)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Synchronously load the administrative rules for the specified country and state.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getStateCodes(com.here.sdk.core.CountryCode)">getStateCodes</a><wbr/>(<a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativerulesloader#getStateCodes(com.here.sdk.core.CountryCode)">getStateCodes</a><wbr/>(<a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Synchronously loads the list of state codes from a specified country for which
  administrative rules are availabe.</div>

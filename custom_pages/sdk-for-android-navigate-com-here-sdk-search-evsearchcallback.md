@@ -46,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evsearchcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onEVCP3SearchCompleted(com.here.sdk.search.EVSearchError,java.util.List)">onEVCP3SearchCompleted</a><wbr/>(<a href="sdk-for-android-navigate-evsearcherror" title="enum class in com.here.sdk.search">EVSearchError</a> error,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evsearchcallback#onEVCP3SearchCompleted(com.here.sdk.search.EVSearchError,java.util.List)">onEVCP3SearchCompleted</a><wbr/>(<a href="sdk-for-android-navigate-evsearcherror" title="enum class in com.here.sdk.search">EVSearchError</a> error,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-evcharginglocation" title="class in com.here.sdk.search">EVChargingLocation</a>&gt; chargingLocations)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method that will be called on the main thread when a search operation in <code>EVSearchEngine</code>

@@ -57,27 +57,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INTERNAL_ERROR">INTERNAL_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine-starterror#INTERNAL_ERROR">INTERNAL_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An internal issue occurred.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INVALID_REFRESH_ROUTE_OPTIONS">INVALID_REFRESH_ROUTE_OPTIONS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine-starterror#INVALID_REFRESH_ROUTE_OPTIONS">INVALID_REFRESH_ROUTE_OPTIONS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Invalid RefreshRouteOptions passed.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MISSING_LISTENER">MISSING_LISTENER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine-starterror#MISSING_LISTENER">MISSING_LISTENER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The listener is not valid.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MISSING_ROUTE">MISSING_ROUTE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine-starterror#MISSING_ROUTE">MISSING_ROUTE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The passed route object is invalid/<code>null</code>.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MISSING_ROUTE_HANDLE">MISSING_ROUTE_HANDLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine-starterror#MISSING_ROUTE_HANDLE">MISSING_ROUTE_HANDLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The passed route has no route handle.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TOO_FEW_WAYPOINTS">TOO_FEW_WAYPOINTS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine-starterror#TOO_FEW_WAYPOINTS">TOO_FEW_WAYPOINTS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Too few waypoints where passed.</div>
 </div>
@@ -96,12 +96,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-dynamicroutingengine.starterror" title="enum class in com.here.sdk.trafficawarenavigation">DynamicRoutingEngine.StartError</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine-starterror#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-dynamicroutingengine.starterror" title="enum class in com.here.sdk.trafficawarenavigation">DynamicRoutingEngine.StartError</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine-starterror#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

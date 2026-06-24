@@ -42,12 +42,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspeedlimit"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedLimitInMeterPerSeconds">speedLimitInMeterPerSeconds</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentspeedlimit#speedLimitInMeterPerSeconds">speedLimitInMeterPerSeconds</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Speed limit in meter per seconds.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedLimitIsUnlimited">speedLimitIsUnlimited</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentspeedlimit#speedLimitIsUnlimited">speedLimitIsUnlimited</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indication that speed limit is unlimited.</div>
 </div>
@@ -62,7 +62,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspeedlimit"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(boolean)">SegmentSpeedLimit</a><wbr/>(boolean speedLimitIsUnlimited)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentspeedlimit#%3Cinit%3E(boolean)">SegmentSpeedLimit</a><wbr/>(boolean speedLimitIsUnlimited)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with default values.</div>
 </div>
@@ -81,10 +81,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspeedlimit"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentspeedlimit#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentspeedlimit#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

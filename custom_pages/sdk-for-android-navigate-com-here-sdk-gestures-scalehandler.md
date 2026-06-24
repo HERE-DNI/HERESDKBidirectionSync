@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-scalehandler"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onScale(float,float,float)">onScale</a><wbr/>(float originX,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-scalehandler#onScale(float,float,float)">onScale</a><wbr/>(float originX,
  float originY,
  float factor)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">

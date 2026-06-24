@@ -43,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">SegmentReferenceConverter</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">SegmentReferenceConverter</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -62,7 +62,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata">DirectedOCMSegmentId</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getOCMSegmentId(com.here.sdk.routing.SegmentReference)">getOCMSegmentId</a><wbr/>(<a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segmentReference)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter#getOCMSegmentId(com.here.sdk.routing.SegmentReference)">getOCMSegmentId</a><wbr/>(<a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segmentReference)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The <a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata"><code>DirectedOCMSegmentId</code></a> for provided <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a>.</div>
 </div>

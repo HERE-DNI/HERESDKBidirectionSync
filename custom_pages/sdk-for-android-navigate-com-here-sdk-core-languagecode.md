@@ -58,451 +58,451 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-languagecode"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AF_ZA">AF_ZA</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#AF_ZA">AF_ZA</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Afrikaans</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AM_ET">AM_ET</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#AM_ET">AM_ET</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Amharic (Ethiopia)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AR_SA">AR_SA</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#AR_SA">AR_SA</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Arabic (Saudi Arabia)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AS_IN">AS_IN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#AS_IN">AS_IN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Assamese (India)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AZ_LATN_AZ">AZ_LATN_AZ</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#AZ_LATN_AZ">AZ_LATN_AZ</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Azeri - Latin</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BE_BY">BE_BY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#BE_BY">BE_BY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Belarusian</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BG_BG">BG_BG</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#BG_BG">BG_BG</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Bulgarian</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BN_BD">BN_BD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#BN_BD">BN_BD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Bangla (Bangladesh)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BN_IN">BN_IN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#BN_IN">BN_IN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Bangla (India)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BS_LATN_BA">BS_LATN_BA</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#BS_LATN_BA">BS_LATN_BA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Bosnian - Latin</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CA_ES">CA_ES</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#CA_ES">CA_ES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Catalan (Spain)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CAT_ES">CAT_ES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#CAT_ES">CAT_ES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Valencian (Spain)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CS_CZ">CS_CZ</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#CS_CZ">CS_CZ</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Czech</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CY_GB">CY_GB</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#CY_GB">CY_GB</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Welsh</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DA_DK">DA_DK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#DA_DK">DA_DK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Danish</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DE_DE">DE_DE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#DE_DE">DE_DE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">German</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EL_GR">EL_GR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#EL_GR">EL_GR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Greek</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EN_GB">EN_GB</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#EN_GB">EN_GB</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">English (British)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EN_US">EN_US</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#EN_US">EN_US</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">English (United States)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ES_AR">ES_AR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#ES_AR">ES_AR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Spanish (Argentina)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ES_ES">ES_ES</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#ES_ES">ES_ES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Spanish (Spain)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ES_MX">ES_MX</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#ES_MX">ES_MX</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Spanish (Mexico)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ET_EE">ET_EE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#ET_EE">ET_EE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Estonian</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EU_ES">EU_ES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#EU_ES">EU_ES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Basque</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FA_IR">FA_IR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#FA_IR">FA_IR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Farsi (Iran)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FI_FI">FI_FI</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#FI_FI">FI_FI</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Finnish</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FIL_PH">FIL_PH</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#FIL_PH">FIL_PH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Filipino</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FR_CA">FR_CA</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#FR_CA">FR_CA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">French (Canada)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FR_FR">FR_FR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#FR_FR">FR_FR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">French</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GA_IE">GA_IE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#GA_IE">GA_IE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Irish</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GD_LATN_GB">GD_LATN_GB</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#GD_LATN_GB">GD_LATN_GB</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Scottish Gaelic - Latin</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GL_ES">GL_ES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#GL_ES">GL_ES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Galician</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GU_IN">GU_IN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#GU_IN">GU_IN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Gujarati (India)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HA_LATN_NG">HA_LATN_NG</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#HA_LATN_NG">HA_LATN_NG</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Hausa - Latin (Nigeria)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HE_IL">HE_IL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#HE_IL">HE_IL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Hebrew</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HI_IN">HI_IN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#HI_IN">HI_IN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Hindi</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HR_HR">HR_HR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#HR_HR">HR_HR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Croatian</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HU_HU">HU_HU</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#HU_HU">HU_HU</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Hungarian</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HY_AM">HY_AM</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#HY_AM">HY_AM</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Armenian</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ID_ID">ID_ID</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#ID_ID">ID_ID</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indonesian (Bahasa)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#IG_LATN_NG">IG_LATN_NG</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#IG_LATN_NG">IG_LATN_NG</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Igbo - Latin (Nigera)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#IS_IS">IS_IS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#IS_IS">IS_IS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Icelandic</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#IT_IT">IT_IT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#IT_IT">IT_IT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Italian</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#JA_JP">JA_JP</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#JA_JP">JA_JP</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Japanese</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#KA_GE">KA_GE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#KA_GE">KA_GE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Georgian</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#KK_KZ">KK_KZ</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#KK_KZ">KK_KZ</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Kazakh</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#KM_KH">KM_KH</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#KM_KH">KM_KH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Khmer (Cambodia)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#KN_IN">KN_IN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#KN_IN">KN_IN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Kannada (India)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#KO_KR">KO_KR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#KO_KR">KO_KR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Korean</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#KOK_IN">KOK_IN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#KOK_IN">KOK_IN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Konkani (India)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#KU_ARAB">KU_ARAB</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#KU_ARAB">KU_ARAB</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Central Kurdish - Arabic</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#KY_CYRL_KG">KY_CYRL_KG</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#KY_CYRL_KG">KY_CYRL_KG</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Kyrgyz - Cyrillic</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LB_LU">LB_LU</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#LB_LU">LB_LU</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Luxembourgish</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LT_LT">LT_LT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#LT_LT">LT_LT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Lithuanian</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LV_LV">LV_LV</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#LV_LV">LV_LV</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Latvian</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MI_LATN_NZ">MI_LATN_NZ</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#MI_LATN_NZ">MI_LATN_NZ</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Maori - Latin (New Zealand)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MK_MK">MK_MK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#MK_MK">MK_MK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Macedonian</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ML_IN">ML_IN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#ML_IN">ML_IN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Malayalam (India)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MN_CYRL_MN">MN_CYRL_MN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#MN_CYRL_MN">MN_CYRL_MN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Mongolian - Cyrillic</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MR_IN">MR_IN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#MR_IN">MR_IN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Marathi (India)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MS_MY">MS_MY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#MS_MY">MS_MY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Malay (Bahasa)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MT_MT">MT_MT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#MT_MT">MT_MT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Maltese  (Malta)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NB_NO">NB_NO</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#NB_NO">NB_NO</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Norwegian (Bokmal)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NE_NP">NE_NP</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#NE_NP">NE_NP</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Nepali (Nepal)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NL_BE">NL_BE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#NL_BE">NL_BE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Flemish Dutch (Belgium)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NL_NL">NL_NL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#NL_NL">NL_NL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Dutch</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NN_NO">NN_NO</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#NN_NO">NN_NO</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Norwegian (Nynorsk)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NSO_ZA">NSO_ZA</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#NSO_ZA">NSO_ZA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Sesotho Sa Leboa (South Africa)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OR_IN">OR_IN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#OR_IN">OR_IN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Odia (India)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PA_ARAB">PA_ARAB</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#PA_ARAB">PA_ARAB</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Punjabi - Arabic</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PA_GURU">PA_GURU</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#PA_GURU">PA_GURU</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Punjabi - Gurmukhi</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PL_PL">PL_PL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#PL_PL">PL_PL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Polish</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PRS_ARAB_AF">PRS_ARAB_AF</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#PRS_ARAB_AF">PRS_ARAB_AF</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Dari - Arabic (Afghanistan)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PT_BR">PT_BR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#PT_BR">PT_BR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Portuguese (Brazil)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PT_PT">PT_PT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#PT_PT">PT_PT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Portuguese (Portugal)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#QU_LATN_PE">QU_LATN_PE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#QU_LATN_PE">QU_LATN_PE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Quechua - Latin (Peru)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#QUC_LATN_GT">QUC_LATN_GT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#QUC_LATN_GT">QUC_LATN_GT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">K'iche' - Latin (Guatemala)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RO_RO">RO_RO</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#RO_RO">RO_RO</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Romanian</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RU_RU">RU_RU</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#RU_RU">RU_RU</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Russian</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RW_RW">RW_RW</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#RW_RW">RW_RW</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Kinyarwanda (Rwanda)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SD_ARAB">SD_ARAB</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#SD_ARAB">SD_ARAB</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Sindhi - Arabic</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SI_LK">SI_LK</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#SI_LK">SI_LK</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Sinhala (Sri Lanka)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SK_SK">SK_SK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#SK_SK">SK_SK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Slovak</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SL_SI">SL_SI</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#SL_SI">SL_SI</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Slovenian</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SQ_AL">SQ_AL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#SQ_AL">SQ_AL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Albanian</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SR_CYRL_BA">SR_CYRL_BA</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#SR_CYRL_BA">SR_CYRL_BA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Serbian - Cyrillic (Bosnia)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SR_CYRL_RS">SR_CYRL_RS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#SR_CYRL_RS">SR_CYRL_RS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Serbian - Cyrillic (Serbia)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SR_LATN_RS">SR_LATN_RS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#SR_LATN_RS">SR_LATN_RS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Serbian - Latin (Serbia)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SV_SE">SV_SE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#SV_SE">SV_SE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Swedish</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SW">SW</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#SW">SW</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">KiSwahili</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TA">TA</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#TA">TA</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tamil</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TE_IN">TE_IN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#TE_IN">TE_IN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Telugu (India)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TG_CYRL_TJ">TG_CYRL_TJ</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#TG_CYRL_TJ">TG_CYRL_TJ</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tajik - Cyrillic</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TH_TH">TH_TH</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#TH_TH">TH_TH</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Thai</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TI_ET">TI_ET</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#TI_ET">TI_ET</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tigrinya (Ethiopia)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TK_LATN_TM">TK_LATN_TM</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#TK_LATN_TM">TK_LATN_TM</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Turkmen - Latin</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TN">TN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#TN">TN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Setswana</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TR_TR">TR_TR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#TR_TR">TR_TR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Turkish</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TT_CYRL_RU">TT_CYRL_RU</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#TT_CYRL_RU">TT_CYRL_RU</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tatar - Cyrillic (Russia)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UG_ARAB">UG_ARAB</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#UG_ARAB">UG_ARAB</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Uyghur - Arabic</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UK_UA">UK_UA</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#UK_UA">UK_UA</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Ukrainian</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UR">UR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#UR">UR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Urdu</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UZ_CYRL_UZ">UZ_CYRL_UZ</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#UZ_CYRL_UZ">UZ_CYRL_UZ</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Uzbek - Cyrillic</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UZ_LATN_UZ">UZ_LATN_UZ</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#UZ_LATN_UZ">UZ_LATN_UZ</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Uzbek - Latin</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#VI_VN">VI_VN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#VI_VN">VI_VN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Vietnamese</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WO_LATN">WO_LATN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#WO_LATN">WO_LATN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Wolof - Latin</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#XH">XH</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#XH">XH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">IsiXhosa</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#YO_LATN">YO_LATN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#YO_LATN">YO_LATN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Yoruba - Latin</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ZH_CN">ZH_CN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#ZH_CN">ZH_CN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Chinese (Simplified China)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ZH_HK">ZH_HK</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#ZH_HK">ZH_HK</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Chinese (Traditional Hong Kong)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ZH_TW">ZH_TW</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#ZH_TW">ZH_TW</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Chinese (Traditional Taiwan)</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ZU_ZA">ZU_ZA</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#ZU_ZA">ZU_ZA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">IsiZulu (South Africa)</div>
 </div>
@@ -521,12 +521,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-languagecode"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-languagecode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

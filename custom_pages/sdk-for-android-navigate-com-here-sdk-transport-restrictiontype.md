@@ -55,55 +55,55 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-restrictiontype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DISTANCE_BETWEEN_AXLES">DISTANCE_BETWEEN_AXLES</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#DISTANCE_BETWEEN_AXLES">DISTANCE_BETWEEN_AXLES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Distance between axles, in centimeters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EMPTY_WEIGHT">EMPTY_WEIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#EMPTY_WEIGHT">EMPTY_WEIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Empty vehicle weight (tare weight), in kilograms.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GROSS_WEIGHT">GROSS_WEIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#GROSS_WEIGHT">GROSS_WEIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Gross vehicle mass, in kilograms.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HEIGHT">HEIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#HEIGHT">HEIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A height, in centimeters.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#KINGPIN_TO_REAR_AXLE_DISTANCE_IN_CENTIMETERS">KINGPIN_TO_REAR_AXLE_DISTANCE_IN_CENTIMETERS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#KINGPIN_TO_REAR_AXLE_DISTANCE_IN_CENTIMETERS">KINGPIN_TO_REAR_AXLE_DISTANCE_IN_CENTIMETERS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Distance from kingpin to rear axle, in centimeters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LENGTH">LENGTH</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#LENGTH">LENGTH</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A length, in centimeters.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PAYLOAD_CAPACITY">PAYLOAD_CAPACITY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#PAYLOAD_CAPACITY">PAYLOAD_CAPACITY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Payload capacity weight, in kilograms.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WEIGHT">WEIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#WEIGHT">WEIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Actual weight, in kilograms.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WEIGHT_PER_AXLE">WEIGHT_PER_AXLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#WEIGHT_PER_AXLE">WEIGHT_PER_AXLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Weight per axle, in kilograms.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WEIGHT_PER_AXLE_COUNT">WEIGHT_PER_AXLE_COUNT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#WEIGHT_PER_AXLE_COUNT">WEIGHT_PER_AXLE_COUNT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Weight per number of axles, in kilograms.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WEIGHT_PER_AXLE_GROUP">WEIGHT_PER_AXLE_GROUP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#WEIGHT_PER_AXLE_GROUP">WEIGHT_PER_AXLE_GROUP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Weight per axle group, in kilograms.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WHEELS_PER_AXLE">WHEELS_PER_AXLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#WHEELS_PER_AXLE">WHEELS_PER_AXLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Wheels per axle.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WIDTH">WIDTH</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#WIDTH">WIDTH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A width, in centimeters.</div>
 </div>
@@ -122,12 +122,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-restrictiontype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

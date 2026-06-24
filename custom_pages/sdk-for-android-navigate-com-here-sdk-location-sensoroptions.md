@@ -40,12 +40,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-sensoroptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#enabled">enabled</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-sensoroptions#enabled">enabled</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Controls sensor usage in positioning.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#vdrEnabled">vdrEnabled</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-sensoroptions#vdrEnabled">vdrEnabled</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Controls VDR (Vehicle Dead Reckoning) usage with GNSS and HD GNSS.</div>
 </div>
@@ -60,7 +60,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-sensoroptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">SensorOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-sensoroptions#%3Cinit%3E()">SensorOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>

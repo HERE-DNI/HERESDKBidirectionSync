@@ -45,121 +45,121 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-span"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getBaseDuration()">getBaseDuration</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getBaseDuration()">getBaseDuration</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the time duration necessary to traverse the span, using the speed provided
- in <a href="sdk-for-android-navigate-index#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a> without taking into consideration
+ in <a href="sdk-for-android-navigate-com-here-sdk-routing-span#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a> without taking into consideration
  the delays caused by the traffic.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-accessattributes" title="enum class in com.here.sdk.routing">AccessAttributes</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getCarAttributes()">getCarAttributes</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getCarAttributes()">getCarAttributes</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The list of car access attributes on the span.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getConsumptionInKilowattHours()">getConsumptionInKilowattHours</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getConsumptionInKilowattHours()">getConsumptionInKilowattHours</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the power consumption in kilowatt per hour necessary to traverse the span.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getCountryCode()">getCountryCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getCountryCode()">getCountryCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the country code of the span.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDuration()">getDuration</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getDuration()">getDuration</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the time duration necessary to traverse the span, using the speed provided
- in <a href="sdk-for-android-navigate-index#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a>.</div>
+ in <a href="sdk-for-android-navigate-com-here-sdk-routing-span#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-dynamicspeedinfo" title="class in com.here.sdk.routing">DynamicSpeedInfo</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDynamicSpeedInfo()">getDynamicSpeedInfo</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getDynamicSpeedInfo()">getDynamicSpeedInfo</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The dynamic speed information on the span.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getFunctionalRoadClass()">getFunctionalRoadClass</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getFunctionalRoadClass()">getFunctionalRoadClass</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the functional road class of the span.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getGeometry()">getGeometry</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getGeometry()">getGeometry</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the <a href="sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this span.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getLengthInMeters()">getLengthInMeters</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getLengthInMeters()">getLengthInMeters</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the length of this span in meters.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getNoThroughRestrictionsIndexes()">getNoThroughRestrictionsIndexes</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getNoThroughRestrictionsIndexes()">getNoThroughRestrictionsIndexes</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Get the list of indexes to <a href="sdk-for-android-navigate-section#getNoThroughRestrictions()"><code>Section.getNoThroughRestrictions()</code></a> the parent section owns.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getNoticeIndexes()">getNoticeIndexes</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getNoticeIndexes()">getNoticeIndexes</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the list of indexes to <a href="sdk-for-android-navigate-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> the parent section owns.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-localizedroadnumbers" title="class in com.here.sdk.routing">LocalizedRoadNumbers</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRoadNumbers()">getRoadNumbers</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getRoadNumbers()">getRoadNumbers</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the road numbers on the span enriched with information specific to <em>route numbers</em>
  of a road such as I-10, US-50, or A3, and cardinal direction, if available, and a road level classification (<code>RouteType</code>).</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-accessattributes" title="enum class in com.here.sdk.routing">AccessAttributes</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getScooterAttributes()">getScooterAttributes</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getScooterAttributes()">getScooterAttributes</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The list of scooter access attributes on the span.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSectionPolylineOffset()">getSectionPolylineOffset</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getSectionPolylineOffset()">getSectionPolylineOffset</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the position of the span inside the section's geometry, given as an offset.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSegmentReference()">getSegmentReference</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getSegmentReference()">getSegmentReference</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the segment reference of this span.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getShieldText(com.here.sdk.routing.LocalizedRoadNumber)">getShieldText</a><wbr/>(<a href="sdk-for-android-navigate-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a> roadNumber)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getShieldText(com.here.sdk.routing.LocalizedRoadNumber)">getShieldText</a><wbr/>(<a href="sdk-for-android-navigate-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a> roadNumber)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Converts full route number to the value to be displayed on the road shield.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSpeedLimitInMetersPerSecond()">getSpeedLimitInMetersPerSecond</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getSpeedLimitInMetersPerSecond()">getSpeedLimitInMetersPerSecond</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the speed limit in meters per second on the span.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getStateCode()">getStateCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getStateCode()">getStateCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the state code of the span.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getStreetAttributes()">getStreetAttributes</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getStreetAttributes()">getStreetAttributes</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The list of street attributes on the span.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getStreetNames()">getStreetNames</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getStreetNames()">getStreetNames</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The street names on the span.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTrafficIncidentIndexes()">getTrafficIncidentIndexes</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getTrafficIncidentIndexes()">getTrafficIncidentIndexes</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The indexes of traffic incidents from the field <a href="sdk-for-android-navigate-section#getTrafficIncidents()"><code>Section.getTrafficIncidents()</code></a> of the parent <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-accessattributes" title="enum class in com.here.sdk.routing">AccessAttributes</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTruckAttributes()">getTruckAttributes</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getTruckAttributes()">getTruckAttributes</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The list of truck access attributes on the span.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getWalkAttributes()">getWalkAttributes</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-span#getWalkAttributes()">getWalkAttributes</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The list of walk attributes on the span.</div>
 </div>
@@ -253,12 +253,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-span"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</span> <span class="element-name">getTrafficIncidentIndexes</span>()</div>
 <div class="block"><p>The indexes of traffic incidents from the field <a href="sdk-for-android-navigate-section#getTrafficIncidents()"><code>Section.getTrafficIncidents()</code></a> of the parent <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>.
- Each matching incident takes at least a whole <a href="sdk-for-android-navigate-index#getGeometry()"><code>getGeometry()</code></a>.
+ Each matching incident takes at least a whole <a href="sdk-for-android-navigate-com-here-sdk-routing-span#getGeometry()"><code>getGeometry()</code></a>.
  The same incident can take other spans and an area out of the built route as well.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The indexes of traffic incidents from the field <a href="sdk-for-android-navigate-section#getTrafficIncidents()"><code>Section.getTrafficIncidents()</code></a> of the parent <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>.
-     Each matching incident takes at least a whole <a href="sdk-for-android-navigate-index#getGeometry()"><code>getGeometry()</code></a>.
+     Each matching incident takes at least a whole <a href="sdk-for-android-navigate-com-here-sdk-routing-span#getGeometry()"><code>getGeometry()</code></a>.
      The same incident can take other spans and an area out of the built route as well.</p></dd>
 </dl>
 </section>
@@ -418,12 +418,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-span"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()</div>
 <div class="block"><p>Gets the time duration necessary to traverse the span, using the speed provided
- in <a href="sdk-for-android-navigate-index#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a>. This duration takes also into
+ in <a href="sdk-for-android-navigate-com-here-sdk-routing-span#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a>. This duration takes also into
  consideration the delays caused by the traffic.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The time duration necessary to traverse the span, using the speed provided
-     in <a href="sdk-for-android-navigate-index#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a>. This duration takes also into
+     in <a href="sdk-for-android-navigate-com-here-sdk-routing-span#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a>. This duration takes also into
      consideration the delays caused by the traffic.</p></dd>
 </dl>
 </section>
@@ -434,12 +434,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-span"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getBaseDuration</span>()</div>
 <div class="block"><p>Gets the time duration necessary to traverse the span, using the speed provided
- in <a href="sdk-for-android-navigate-index#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a> without taking into consideration
+ in <a href="sdk-for-android-navigate-com-here-sdk-routing-span#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a> without taking into consideration
  the delays caused by the traffic.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The time duration necessary to traverse the span, using the speed provided
-     in <a href="sdk-for-android-navigate-index#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a> without taking into consideration
+     in <a href="sdk-for-android-navigate-com-here-sdk-routing-span#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a> without taking into consideration
      the delays caused by the traffic.</p></dd>
 </dl>
 </section>

@@ -43,51 +43,51 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-roaddivider" title="enum class in com.here.sdk.mapdata">RoadDivider</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#divider">divider</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#divider">divider</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the presence of a road divider.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isBoatFerry">isBoatFerry</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#isBoatFerry">isBoatFerry</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Identifies a generalised route of a boat ferry for passengers or vehicles over water.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isBridge">isBridge</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#isBridge">isBridge</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Identifies a structure that allows a road, railway, or walkway
  to pass over another road, railway, waterway, or valley serving
  map display and route guidance functionalities.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isDirtRoad">isDirtRoad</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#isDirtRoad">isDirtRoad</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates whether the navigable segment is paved.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isMultiplyDigitized">isMultiplyDigitized</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#isMultiplyDigitized">isMultiplyDigitized</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Identifies separately digitised roads, i.e., roads that are digitised with one line per
  direction of traffic instead of one line per road.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isPrivate">isPrivate</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#isPrivate">isPrivate</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Private identifies roads that are not maintained by an organization
  responsible for maintenance of public roads.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isRailFerry">isRailFerry</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#isRailFerry">isRailFerry</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Identifies a generalised route of a ferry for passengers or vehicles via rail.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isRoundabout">isRoundabout</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#isRoundabout">isRoundabout</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates the presence of a roundabout.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isTunnel">isTunnel</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#isTunnel">isTunnel</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Identifies an enclosed (on all sides) passageway through or under an obstruction.</div>
 </div>
@@ -102,7 +102,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">PhysicalAttributes</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#%3Cinit%3E()">PhysicalAttributes</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with default values.</div>
 </div>
@@ -121,10 +121,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

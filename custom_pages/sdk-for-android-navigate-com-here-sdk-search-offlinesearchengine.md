@@ -66,11 +66,11 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">OfflineSearchEngine</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#%3Cinit%3E()">OfflineSearchEngine</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">OfflineSearchEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">OfflineSearchEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -89,34 +89,34 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#attach(com.here.sdk.search.MyPlaces,com.here.sdk.core.threading.OnTaskCompleted)">attach</a><wbr/>(<a href="sdk-for-android-navigate-myplaces" title="class in com.here.sdk.search">MyPlaces</a> dataSource,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#attach(com.here.sdk.search.MyPlaces,com.here.sdk.core.threading.OnTaskCompleted)">attach</a><wbr/>(<a href="sdk-for-android-navigate-myplaces" title="class in com.here.sdk.search">MyPlaces</a> dataSource,
  <a href="sdk-for-android-navigate-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Attach data source into SearchEngine instance.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#search(com.here.sdk.search.StructuredQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">search</a><wbr/>(<a href="sdk-for-android-navigate-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a> query,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#search(com.here.sdk.search.StructuredQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">search</a><wbr/>(<a href="sdk-for-android-navigate-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a> query,
  <a href="sdk-for-android-navigate-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
  <a href="sdk-for-android-navigate-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Performs an asynchronous request to search for places.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#searchByAddress(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByAddress</a><wbr/>(<a href="sdk-for-android-navigate-addressquery" title="class in com.here.sdk.search">AddressQuery</a> query,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#searchByAddress(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByAddress</a><wbr/>(<a href="sdk-for-android-navigate-addressquery" title="class in com.here.sdk.search">AddressQuery</a> query,
  <a href="sdk-for-android-navigate-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
  <a href="sdk-for-android-navigate-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Performs an asynchronous address query search for <a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search"><code>Place</code></a> instances.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#searchByCategory(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByCategory</a><wbr/>(<a href="sdk-for-android-navigate-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a> query,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#searchByCategory(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByCategory</a><wbr/>(<a href="sdk-for-android-navigate-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a> query,
  <a href="sdk-for-android-navigate-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
  <a href="sdk-for-android-navigate-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Performs an asynchronous category search for <a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search"><code>Place</code></a> instances.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#searchByCoordinates(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByCoordinates</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#searchByCoordinates(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByCoordinates</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  <a href="sdk-for-android-navigate-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
  <a href="sdk-for-android-navigate-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
@@ -124,14 +124,14 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
  geographic coordinates.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#searchByPickedPlace(com.here.sdk.core.PickedPlace,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)">searchByPickedPlace</a><wbr/>(<a href="sdk-for-android-navigate-pickedplace" title="class in com.here.sdk.core">PickedPlace</a> pickedPlace,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#searchByPickedPlace(com.here.sdk.core.PickedPlace,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)">searchByPickedPlace</a><wbr/>(<a href="sdk-for-android-navigate-pickedplace" title="class in com.here.sdk.core">PickedPlace</a> pickedPlace,
  <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
  <a href="sdk-for-android-navigate-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Performs an asynchronous search for a <a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search"><code>Place</code></a> based on the content found in <a href="sdk-for-android-navigate-pickedplace" title="class in com.here.sdk.core"><code>PickedPlace</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#searchByPlaceId(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)">searchByPlaceId</a><wbr/>(<a href="sdk-for-android-navigate-placeidquery" title="class in com.here.sdk.search">PlaceIdQuery</a> query,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#searchByPlaceId(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)">searchByPlaceId</a><wbr/>(<a href="sdk-for-android-navigate-placeidquery" title="class in com.here.sdk.search">PlaceIdQuery</a> query,
  <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
  <a href="sdk-for-android-navigate-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
@@ -139,21 +139,21 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
  <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core"><code>LanguageCode</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByText</a><wbr/>(<a href="sdk-for-android-navigate-textquery" title="class in com.here.sdk.search">TextQuery</a> query,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByText</a><wbr/>(<a href="sdk-for-android-navigate-textquery" title="class in com.here.sdk.search">TextQuery</a> query,
  <a href="sdk-for-android-navigate-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
  <a href="sdk-for-android-navigate-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Performs an asynchronous text query search for <a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search"><code>Place</code></a> instances within a given <a href="sdk-for-android-navigate-textquery.area" title="class in com.here.sdk.search"><code>TextQuery.Area</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-offlinesearchindex.error" title="enum class in com.here.sdk.search">OfflineSearchIndex.Error</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setIndexOptions(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.search.OfflineSearchIndex.Options,com.here.sdk.search.OfflineSearchIndexListener)">setIndexOptions</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#setIndexOptions(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.search.OfflineSearchIndex.Options,com.here.sdk.search.OfflineSearchIndexListener)">setIndexOptions</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
  <a href="sdk-for-android-navigate-offlinesearchindex.options" title="class in com.here.sdk.search">OfflineSearchIndex.Options</a> options,
  <a href="sdk-for-android-navigate-offlinesearchindexlistener" title="interface in com.here.sdk.search">OfflineSearchIndexListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Enables or disables indexing.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#suggest(com.here.sdk.search.StructuredQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)">suggest</a><wbr/>(<a href="sdk-for-android-navigate-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a> query,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#suggest(com.here.sdk.search.StructuredQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)">suggest</a><wbr/>(<a href="sdk-for-android-navigate-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a> query,
  <a href="sdk-for-android-navigate-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
  <a href="sdk-for-android-navigate-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
@@ -161,7 +161,7 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
  returns candidate suggestions sorted by relevance.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)">suggestByText</a><wbr/>(<a href="sdk-for-android-navigate-textquery" title="class in com.here.sdk.search">TextQuery</a> query,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchengine#suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)">suggestByText</a><wbr/>(<a href="sdk-for-android-navigate-textquery" title="class in com.here.sdk.search">TextQuery</a> query,
  <a href="sdk-for-android-navigate-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
  <a href="sdk-for-android-navigate-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">

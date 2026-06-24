@@ -39,12 +39,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueservicelistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onInitializationCompleted(com.here.sdk.venue.service.VenueServiceInitStatus)">onInitializationCompleted</a><wbr/>(<a href="sdk-for-android-navigate-venueserviceinitstatus" title="enum class in com.here.sdk.venue.service">VenueServiceInitStatus</a> result)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-service-venueservicelistener#onInitializationCompleted(com.here.sdk.venue.service.VenueServiceInitStatus)">onInitializationCompleted</a><wbr/>(<a href="sdk-for-android-navigate-venueserviceinitstatus" title="enum class in com.here.sdk.venue.service">VenueServiceInitStatus</a> result)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when a service initialization has been completed.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onVenueServiceStopped()">onVenueServiceStopped</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-service-venueservicelistener#onVenueServiceStopped()">onVenueServiceStopped</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when the venue service stops.</div>
 </div>

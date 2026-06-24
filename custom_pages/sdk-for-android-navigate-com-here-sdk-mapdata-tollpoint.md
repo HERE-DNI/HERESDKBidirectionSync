@@ -40,12 +40,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-tollpoint"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#offsetInMeters">offsetInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-tollpoint#offsetInMeters">offsetInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The offset of the toll point in meters from the beginning of the segment relative to requested direction.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-tollstructuremaneuver" title="class in com.here.sdk.mapdata">TollStructureManeuver</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#structureManeuvers">structureManeuvers</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-tollpoint#structureManeuvers">structureManeuvers</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Describes the features of the toll point.</div>
 </div>
@@ -60,7 +60,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-tollpoint"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(int,java.util.List)">TollPoint</a><wbr/>(int offsetInMeters,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-tollpoint#%3Cinit%3E(int,java.util.List)">TollPoint</a><wbr/>(int offsetInMeters,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-tollstructuremaneuver" title="class in com.here.sdk.mapdata">TollStructureManeuver</a>&gt; structureManeuvers)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>

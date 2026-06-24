@@ -45,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-engine-initprovider"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">InitProvider</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-engine-initprovider#%3Cinit%3E()">InitProvider</a>()</code></div>
 
 </div>
 </section>
@@ -62,7 +62,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-engine-initprovider"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#initialize(android.content.Context)">initialize</a><wbr/>(android.content.Context appContext)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-engine-initprovider#initialize(android.content.Context)">initialize</a><wbr/>(android.content.Context appContext)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Loads HERE dynamic libraries and sets up initial and global states.</div>
 </div>

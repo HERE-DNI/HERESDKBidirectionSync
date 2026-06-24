@@ -53,51 +53,51 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-streetattributes"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BRIDGE">BRIDGE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#BRIDGE">BRIDGE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The street goes over a bridge.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BUILT_UP_AREA">BUILT_UP_AREA</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#BUILT_UP_AREA">BUILT_UP_AREA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The street is most likely in a built-up area.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CONTROLLED_ACCESS_HIGHWAY">CONTROLLED_ACCESS_HIGHWAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#CONTROLLED_ACCESS_HIGHWAY">CONTROLLED_ACCESS_HIGHWAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The street is either a controlled access or a limited access road or both.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DIRT_ROAD">DIRT_ROAD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#DIRT_ROAD">DIRT_ROAD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The street is a dirt road.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DIVIDED_ROAD">DIVIDED_ROAD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#DIVIDED_ROAD">DIVIDED_ROAD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The street is a divided road.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MOTORWAY">MOTORWAY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#MOTORWAY">MOTORWAY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The street is a motorway.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PRIVATE_ROAD">PRIVATE_ROAD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#PRIVATE_ROAD">PRIVATE_ROAD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The street is a private road.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RAMP">RAMP</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#RAMP">RAMP</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The street contains a ramp.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RIGHT_DRIVING_SIDE">RIGHT_DRIVING_SIDE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#RIGHT_DRIVING_SIDE">RIGHT_DRIVING_SIDE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The driving on the street is done on the right side.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ROUNDABOUT">ROUNDABOUT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#ROUNDABOUT">ROUNDABOUT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The street contains a roundabout.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TUNNEL">TUNNEL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#TUNNEL">TUNNEL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The street goes through a tunnel.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNDER_CONSTRUCTION">UNDER_CONSTRUCTION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#UNDER_CONSTRUCTION">UNDER_CONSTRUCTION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The street is under construction.</div>
 </div>
@@ -116,12 +116,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-streetattributes"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-streetattributes#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

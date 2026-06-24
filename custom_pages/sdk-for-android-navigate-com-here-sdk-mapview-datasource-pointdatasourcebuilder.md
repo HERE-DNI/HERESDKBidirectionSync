@@ -42,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasourceb
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.MapContext)">PointDataSourceBuilder</a><wbr/>(<a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasourcebuilder#%3Cinit%3E(com.here.sdk.mapview.MapContext)">PointDataSourceBuilder</a><wbr/>(<a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a data source builder instance in the given context.</div>
 </div>
@@ -61,22 +61,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasourceb
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-pointdatasource" title="class in com.here.sdk.mapview.datasource">PointDataSource</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#build()">build</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasourcebuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Builds a PointDataSource instance and resets the builder instance.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PointDataSourceBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withName(java.lang.String)">withName</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> dataSourceName)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasourcebuilder#withName(java.lang.String)">withName</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> dataSourceName)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to use the given name for data source.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PointDataSourceBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withPoint(com.here.sdk.mapview.datasource.PointData)">withPoint</a><wbr/>(<a href="sdk-for-android-navigate-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a> point)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasourcebuilder#withPoint(com.here.sdk.mapview.datasource.PointData)">withPoint</a><wbr/>(<a href="sdk-for-android-navigate-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a> point)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to insert the given point in the data source.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PointDataSourceBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withPoints(java.util.List)">withPoints</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a>&gt; points)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasourcebuilder#withPoints(java.util.List)">withPoints</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a>&gt; points)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to insert the given points in the data source.</div>
 </div>

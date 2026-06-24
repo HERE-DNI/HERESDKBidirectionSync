@@ -53,30 +53,30 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CHADEMO">CHADEMO</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#CHADEMO">CHADEMO</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">CHAdeMO connector.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#GBT_DC">GBT_DC</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#GBT_DC">GBT_DC</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Guobiao GB/T 20234.3 DC connector, commonly called "GB/T DC".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IEC_62196_TYPE_1_COMBO">IEC_62196_TYPE_1_COMBO</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#IEC_62196_TYPE_1_COMBO">IEC_62196_TYPE_1_COMBO</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type 1 Combo connector, commonly called "CCS1".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IEC_62196_TYPE_2_COMBO">IEC_62196_TYPE_2_COMBO</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#IEC_62196_TYPE_2_COMBO">IEC_62196_TYPE_2_COMBO</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type 2 Combo connector, commonly called "CCS2".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SAE_J3400">SAE_J3400</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#SAE_J3400">SAE_J3400</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">SAE J3400 - North American Charging Standard (NACS) for Electric Vehicles</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TESLA">TESLA</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#TESLA">TESLA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
-<div class="deprecation-comment">Will be removed in v4.28.0, use <a href="sdk-for-android-explore-index#SAE_J3400"><code>SAE_J3400</code></a> instead.</div>
+<div class="deprecation-comment">Will be removed in v4.28.0, use <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#SAE_J3400"><code>SAE_J3400</code></a> instead.</div>
 </div>
 </div>
 </div>
@@ -94,12 +94,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -151,7 +151,7 @@ the order they are declared.</div>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 </span><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a></span> <span class="element-name">TESLA</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
-<div class="deprecation-comment"><p>Will be removed in v4.28.0, use <a href="sdk-for-android-explore-index#SAE_J3400"><code>SAE_J3400</code></a> instead.</p></div>
+<div class="deprecation-comment"><p>Will be removed in v4.28.0, use <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectortype#SAE_J3400"><code>SAE_J3400</code></a> instead.</p></div>
 </div>
 <div class="block"><p>Tesla connector.</p></div>
 </section>

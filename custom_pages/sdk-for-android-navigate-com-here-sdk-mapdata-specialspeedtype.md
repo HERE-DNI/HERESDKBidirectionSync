@@ -55,46 +55,46 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ADVISORY_SPEED">ADVISORY_SPEED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype#ADVISORY_SPEED">ADVISORY_SPEED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">These posted speeds are not the legal limit, but rather serve to warn a driver that road conditions
  indicate a lower speed is practical.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#APPROXIMATE_SEASONAL_TIME">APPROXIMATE_SEASONAL_TIME</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype#APPROXIMATE_SEASONAL_TIME">APPROXIMATE_SEASONAL_TIME</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Speed limit that is in effect considering the season</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FOG">FOG</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype#FOG">FOG</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LANE_DEPENDENT">LANE_DEPENDENT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype#LANE_DEPENDENT">LANE_DEPENDENT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">These are situations where a road has different speed limits per lane.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RAIN">RAIN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype#RAIN">RAIN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SCHOOL">SCHOOL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype#SCHOOL">SCHOOL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">School zone signs are often placed to slow drivers before reaching an intersection where children are
  crossing.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SNOW">SNOW</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype#SNOW">SNOW</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SPEED_BUMPS_PRESENT">SPEED_BUMPS_PRESENT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype#SPEED_BUMPS_PRESENT">SPEED_BUMPS_PRESENT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">This indicates that for a stretch of road, speed bumps are
  present or chicanes are present that effectively reduce the posted speed.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TIME_DEPENDENT">TIME_DEPENDENT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype#TIME_DEPENDENT">TIME_DEPENDENT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNKNOWN">UNKNOWN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype#UNKNOWN">UNKNOWN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Unknown special speed type</div>
 </div>
@@ -113,12 +113,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

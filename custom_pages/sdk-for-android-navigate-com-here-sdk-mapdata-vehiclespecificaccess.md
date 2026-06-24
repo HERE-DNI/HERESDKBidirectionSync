@@ -42,22 +42,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificaccess"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#condition">condition</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificaccess#condition">condition</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Conditions under which this access regulation is active.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isPermitBased">isPermitBased</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificaccess#isPermitBased">isPermitBased</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If true, access is only permitted with a special permit.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#noTruckInnermostLane">noTruckInnermostLane</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificaccess#noTruckInnermostLane">noTruckInnermostLane</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If true, trucks are prohibited from using the innermost lane.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#physicalStructure">physicalStructure</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificaccess#physicalStructure">physicalStructure</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Physical structure (e.g.</div>
 </div>
@@ -72,7 +72,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificaccess"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(boolean,com.here.sdk.mapdata.PhysicalStructure,com.here.sdk.mapdata.VehicleRestrictionCondition)">VehicleSpecificAccess</a><wbr/>(boolean isPermitBased,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificaccess#%3Cinit%3E(boolean,com.here.sdk.mapdata.PhysicalStructure,com.here.sdk.mapdata.VehicleRestrictionCondition)">VehicleSpecificAccess</a><wbr/>(boolean isPermitBased,
  <a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a> physicalStructure,
  <a href="sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a> condition)</code></div>
 <div class="col-last even-row-color">
@@ -93,10 +93,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificaccess"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificaccess#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificaccess#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

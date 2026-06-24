@@ -65,33 +65,33 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#add(com.here.sdk.mapview.datasource.LineData)">add</a><wbr/>(<a href="sdk-for-android-navigate-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a> line)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource#add(com.here.sdk.mapview.datasource.LineData)">add</a><wbr/>(<a href="sdk-for-android-navigate-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a> line)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a new line to the data source.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#add(java.util.List)">add</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a>&gt; lines)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource#add(java.util.List)">add</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a>&gt; lines)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds new lines to the data source.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#destroy()">destroy</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource#destroy()">destroy</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Frees all internally used resources.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#forEach(com.here.sdk.mapview.datasource.LineDataSource.LineDataProcessor)">forEach</a><wbr/>(<a href="sdk-for-android-navigate-linedatasource.linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a> processor)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource#forEach(com.here.sdk.mapview.datasource.LineDataSource.LineDataProcessor)">forEach</a><wbr/>(<a href="sdk-for-android-navigate-linedatasource.linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a> processor)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Iterates through all the lines from the data source and passes them to the
  given processor, one by one.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeAll()">removeAll</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource#removeAll()">removeAll</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes all lines from the data source.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeIf(com.here.sdk.mapview.datasource.LineDataSource.LineDataProcessor)">removeIf</a><wbr/>(<a href="sdk-for-android-navigate-linedatasource.linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a> inspector)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource#removeIf(com.here.sdk.mapview.datasource.LineDataSource.LineDataProcessor)">removeIf</a><wbr/>(<a href="sdk-for-android-navigate-linedatasource.linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a> inspector)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Iterates through all the lines from the data source and passes them to the
  given inspector, one by one.</div>

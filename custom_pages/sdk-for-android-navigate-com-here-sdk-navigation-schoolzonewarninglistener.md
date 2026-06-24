@@ -38,7 +38,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-schoolzonewarninglistene
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onSchoolZoneWarningUpdated(java.util.List)">onSchoolZoneWarningUpdated</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-schoolzonewarning" title="class in com.here.sdk.navigation">SchoolZoneWarning</a>&gt; schoolZoneWarning)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-schoolzonewarninglistener#onSchoolZoneWarningUpdated(java.util.List)">onSchoolZoneWarningUpdated</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-schoolzonewarning" title="class in com.here.sdk.navigation">SchoolZoneWarning</a>&gt; schoolZoneWarning)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new school zone warning is available.</div>
 </div>

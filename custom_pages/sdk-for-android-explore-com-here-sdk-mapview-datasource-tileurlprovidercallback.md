@@ -45,7 +45,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderca
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onTileUrlRequest(int,int,int)">onTileUrlRequest</a><wbr/>(int x,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback#onTileUrlRequest(int,int,int)">onTileUrlRequest</a><wbr/>(int x,
  int y,
  int level)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">

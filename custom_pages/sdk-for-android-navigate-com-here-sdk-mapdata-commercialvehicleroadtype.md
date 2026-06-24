@@ -55,51 +55,51 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DUAL_CARRIAGEWAY">DUAL_CARRIAGEWAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#DUAL_CARRIAGEWAY">DUAL_CARRIAGEWAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Dual carriageway road.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EXPRESS_ROAD">EXPRESS_ROAD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#EXPRESS_ROAD">EXPRESS_ROAD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Express road.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EXPRESSWAY">EXPRESSWAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#EXPRESSWAY">EXPRESSWAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Expressway.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FREEWAY">FREEWAY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#FREEWAY">FREEWAY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Freeway.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HIGHWAY">HIGHWAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#HIGHWAY">HIGHWAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Highway road type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INTERSTATE">INTERSTATE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#INTERSTATE">INTERSTATE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Interstate highway.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LIMITED_ACCESS">LIMITED_ACCESS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#LIMITED_ACCESS">LIMITED_ACCESS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Limited access road.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MOTORISED_VEHICLES_ONLY">MOTORISED_VEHICLES_ONLY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#MOTORISED_VEHICLES_ONLY">MOTORISED_VEHICLES_ONLY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roads restricted to motorised vehicles only.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MOTORWAY">MOTORWAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#MOTORWAY">MOTORWAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Motorway road type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NON_MOTORWAY">NON_MOTORWAY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#NON_MOTORWAY">NON_MOTORWAY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Non-motorway road type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OTHER">OTHER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#OTHER">OTHER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Other road type not covered by specific categories.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SINGLE_CARRIAGEWAY">SINGLE_CARRIAGEWAY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#SINGLE_CARRIAGEWAY">SINGLE_CARRIAGEWAY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Single carriageway road.</div>
 </div>
@@ -118,12 +118,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

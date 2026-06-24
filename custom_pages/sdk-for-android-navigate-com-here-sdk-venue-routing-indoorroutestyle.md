@@ -42,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">IndoorRouteStyle</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#%3Cinit%3E()">IndoorRouteStyle</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -61,54 +61,54 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDestinationMarker()">getDestinationMarker</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#getDestinationMarker()">getDestinationMarker</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The destination map marker of the resulting route.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDriveMarker()">getDriveMarker</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#getDriveMarker()">getDriveMarker</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The drive map marker of the resulting route.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getIndoorMarkerFor(com.here.sdk.routing.IndoorLevelChangeFeatures,int)">getIndoorMarkerFor</a><wbr/>(<a href="sdk-for-android-navigate-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">IndoorLevelChangeFeatures</a> feature,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#getIndoorMarkerFor(com.here.sdk.routing.IndoorLevelChangeFeatures,int)">getIndoorMarkerFor</a><wbr/>(<a href="sdk-for-android-navigate-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">IndoorLevelChangeFeatures</a> feature,
  int deltaZ)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns a <a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> for a given indoor feature and
  the number of levels to change.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getIndoorPolylineColor()">getIndoorPolylineColor</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#getIndoorPolylineColor()">getIndoorPolylineColor</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The color of polylines for indoor route sections.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getIndoorPolylineWidth()">getIndoorPolylineWidth</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#getIndoorPolylineWidth()">getIndoorPolylineWidth</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The width in pixels of polylines for indoor route sections.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getStartMarker()">getStartMarker</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#getStartMarker()">getStartMarker</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The start map marker of the resulting route.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getWalkMarker()">getWalkMarker</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#getWalkMarker()">getWalkMarker</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The walk map marker of the resulting route.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setDestinationMarker(com.here.sdk.mapview.MapMarker)">setDestinationMarker</a><wbr/>(<a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#setDestinationMarker(com.here.sdk.mapview.MapMarker)">setDestinationMarker</a><wbr/>(<a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The destination map marker of the resulting route.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setDriveMarker(com.here.sdk.mapview.MapMarker)">setDriveMarker</a><wbr/>(<a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#setDriveMarker(com.here.sdk.mapview.MapMarker)">setDriveMarker</a><wbr/>(<a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The drive map marker of the resulting route.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setIndoorMarkersFor(com.here.sdk.routing.IndoorLevelChangeFeatures,com.here.sdk.mapview.MapMarker,com.here.sdk.mapview.MapMarker,com.here.sdk.mapview.MapMarker)">setIndoorMarkersFor</a><wbr/>(<a href="sdk-for-android-navigate-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">IndoorLevelChangeFeatures</a> feature,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#setIndoorMarkersFor(com.here.sdk.routing.IndoorLevelChangeFeatures,com.here.sdk.mapview.MapMarker,com.here.sdk.mapview.MapMarker,com.here.sdk.mapview.MapMarker)">setIndoorMarkersFor</a><wbr/>(<a href="sdk-for-android-navigate-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">IndoorLevelChangeFeatures</a> feature,
  <a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> upMarker,
  <a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> downMarker,
  <a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> exitMarker)</code></div>
@@ -116,22 +116,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle"
 <div class="block">Sets map markers for the given indoor feature.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setIndoorPolylineColor(com.here.sdk.core.Color)">setIndoorPolylineColor</a><wbr/>(<a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#setIndoorPolylineColor(com.here.sdk.core.Color)">setIndoorPolylineColor</a><wbr/>(<a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The color of polylines for indoor route sections.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setIndoorPolylineWidth(double)">setIndoorPolylineWidth</a><wbr/>(double value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#setIndoorPolylineWidth(double)">setIndoorPolylineWidth</a><wbr/>(double value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The width in pixels of polylines for indoor route sections.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setStartMarker(com.here.sdk.mapview.MapMarker)">setStartMarker</a><wbr/>(<a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#setStartMarker(com.here.sdk.mapview.MapMarker)">setStartMarker</a><wbr/>(<a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The start map marker of the resulting route.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setWalkMarker(com.here.sdk.mapview.MapMarker)">setWalkMarker</a><wbr/>(<a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle#setWalkMarker(com.here.sdk.mapview.MapMarker)">setWalkMarker</a><wbr/>(<a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The walk map marker of the resulting route.</div>
 </div>

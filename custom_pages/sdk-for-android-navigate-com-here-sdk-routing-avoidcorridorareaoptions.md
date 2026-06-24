@@ -40,22 +40,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidcorridorareaoptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#avoidCorridorArea">avoidCorridorArea</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-avoidcorridorareaoptions#avoidCorridorArea">avoidCorridorArea</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Area of corridor shape which routes must not cross.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#boundingBoxExceptionAreas">boundingBoxExceptionAreas</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-avoidcorridorareaoptions#boundingBoxExceptionAreas">boundingBoxExceptionAreas</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Areas of rectangular shape to exclude from avoidance.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#corridorExceptionAreas">corridorExceptionAreas</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-avoidcorridorareaoptions#corridorExceptionAreas">corridorExceptionAreas</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Areas of corridor shape to exclude from avoidance.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#polygonExceptionAreas">polygonExceptionAreas</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-avoidcorridorareaoptions#polygonExceptionAreas">polygonExceptionAreas</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Areas of polygon shape to exclude from avoidance.</div>
 </div>
@@ -70,7 +70,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidcorridorareaoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCorridor)">AvoidCorridorAreaOptions</a><wbr/>(<a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> avoidCorridorArea)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-avoidcorridorareaoptions#%3Cinit%3E(com.here.sdk.core.GeoCorridor)">AvoidCorridorAreaOptions</a><wbr/>(<a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> avoidCorridorArea)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -89,10 +89,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-avoidcorridorareaoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-avoidcorridorareaoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-avoidcorridorareaoptions#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

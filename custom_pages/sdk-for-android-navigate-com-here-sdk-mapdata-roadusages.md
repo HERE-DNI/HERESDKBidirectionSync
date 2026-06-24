@@ -43,23 +43,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadusages"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isControlledAccess">isControlledAccess</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadusages#isControlledAccess">isControlledAccess</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Controlled access roads are roads with limited entrances and exits
  that allow uninterrupted high-speed traffic flow.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isPriorityRoad">isPriorityRoad</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadusages#isPriorityRoad">isPriorityRoad</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates road stretches that have signs indicating priority on the road.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isRamp">isRamp</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadusages#isRamp">isRamp</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Range is a ramp: connects roads that do not intersect at grade.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isTollway">isTollway</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadusages#isTollway">isTollway</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Identifies a road for which a fee must be paid to use the road.</div>
 </div>
@@ -74,7 +74,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadusages"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">RoadUsages</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadusages#%3Cinit%3E()">RoadUsages</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with default values.</div>
 </div>
@@ -93,10 +93,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadusages"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadusages#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadusages#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

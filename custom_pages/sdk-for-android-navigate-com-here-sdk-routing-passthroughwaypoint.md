@@ -27,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-passthroughwaypoint"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PassThroughWaypoint</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>This structure provides all the information for a passthrough waypoint. The location information and offset of the waypoint are stored in
- <a href="sdk-for-android-navigate-index#place"><code>place</code></a> and <a href="sdk-for-android-navigate-index#offset"><code>offset</code></a> respectively.</p></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-passthroughwaypoint#place"><code>place</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-routing-passthroughwaypoint#offset"><code>offset</code></a> respectively.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -41,12 +41,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-passthroughwaypoint"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#offset">offset</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-passthroughwaypoint#offset">offset</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Index over <a href="sdk-for-android-navigate-section#getGeometry()"><code>Section.getGeometry()</code></a> where the passthrough waypoint is located.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#place">place</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-passthroughwaypoint#place">place</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The location information of passthrough waypoint.</div>
 </div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-passthroughwaypoint"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.RoutePlace)">PassThroughWaypoint</a><wbr/>(<a href="sdk-for-android-navigate-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> place)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-passthroughwaypoint#%3Cinit%3E(com.here.sdk.routing.RoutePlace)">PassThroughWaypoint</a><wbr/>(<a href="sdk-for-android-navigate-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> place)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -80,10 +80,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-passthroughwaypoint"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-passthroughwaypoint#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-passthroughwaypoint#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

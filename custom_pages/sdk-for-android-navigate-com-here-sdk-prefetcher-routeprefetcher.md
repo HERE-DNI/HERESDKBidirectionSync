@@ -46,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">RoutePrefetcher</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">RoutePrefetcher</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a RoutePrefetcher instance for a given <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</div>
 </div>
@@ -65,12 +65,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPrefetchCorridorLengthMeters()">getPrefetchCorridorLengthMeters</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher#getPrefetchCorridorLengthMeters()">getPrefetchCorridorLengthMeters</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the length of the corridor along the route in front of the car which will be used to prefetch data.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-index#prefetchAroundLocationWithRadius(com.here.sdk.core.GeoCoordinates,java.lang.Double)">prefetchAroundLocationWithRadius</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> currentLocation,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher#prefetchAroundLocationWithRadius(com.here.sdk.core.GeoCoordinates,java.lang.Double)">prefetchAroundLocationWithRadius</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> currentLocation,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> radiusInMeters)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
@@ -78,26 +78,26 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher"
 </div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#prefetchAroundRouteOnIntervals(com.here.sdk.navigation.NavigatorInterface)">prefetchAroundRouteOnIntervals</a><wbr/>(<a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a> navigator)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher#prefetchAroundRouteOnIntervals(com.here.sdk.navigation.NavigatorInterface)">prefetchAroundRouteOnIntervals</a><wbr/>(<a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a> navigator)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Prefetches map data within a corridor along the route, that is currently set for the
  provided <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> instance.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#prefetchGeoCorridor(com.here.sdk.core.GeoCorridor,com.here.sdk.prefetcher.PrefetchStatusListener)">prefetchGeoCorridor</a><wbr/>(<a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridor,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher#prefetchGeoCorridor(com.here.sdk.core.GeoCorridor,com.here.sdk.prefetcher.PrefetchStatusListener)">prefetchGeoCorridor</a><wbr/>(<a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridor,
  <a href="sdk-for-android-navigate-prefetchstatuslistener" title="interface in com.here.sdk.prefetcher">PrefetchStatusListener</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Prefetch tiles for a given geo-corridor.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setPrefetchCorridorLengthMeters(int)">setPrefetchCorridorLengthMeters</a><wbr/>(int value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher#setPrefetchCorridorLengthMeters(int)">setPrefetchCorridorLengthMeters</a><wbr/>(int value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the length of the corridor along the route in front of the car which will be used to prefetch data.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#stopPrefetchAroundRoute()">stopPrefetchAroundRoute</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher#stopPrefetchAroundRoute()">stopPrefetchAroundRoute</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Stops listening <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> passed to <a href="sdk-for-android-navigate-index#prefetchAroundRouteOnIntervals(com.here.sdk.navigation.NavigatorInterface)"><code>prefetchAroundRouteOnIntervals(com.here.sdk.navigation.NavigatorInterface)</code></a>
+<div class="block">Stops listening <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> passed to <a href="sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher#prefetchAroundRouteOnIntervals(com.here.sdk.navigation.NavigatorInterface)"><code>prefetchAroundRouteOnIntervals(com.here.sdk.navigation.NavigatorInterface)</code></a>
  for route progress events and stops prefetching data along the current route.</div>
 </div>
 </div>
@@ -169,7 +169,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher"
 <div class="block"><p>Prefetches map data within a corridor along the route, that is currently set for the
  provided <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> instance. If no route is set, no data will be prefetched.
  The route corridor defaults to a length of 10 km and a width of 5 km.
- To prefetch the whole route before navigation has been started see <a href="sdk-for-android-navigate-index#prefetchGeoCorridor(com.here.sdk.core.GeoCorridor,com.here.sdk.prefetcher.PrefetchStatusListener)"><code>prefetchGeoCorridor(com.here.sdk.core.GeoCorridor, com.here.sdk.prefetcher.PrefetchStatusListener)</code></a>.
+ To prefetch the whole route before navigation has been started see <a href="sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher#prefetchGeoCorridor(com.here.sdk.core.GeoCorridor,com.here.sdk.prefetcher.PrefetchStatusListener)"><code>prefetchGeoCorridor(com.here.sdk.core.GeoCorridor, com.here.sdk.prefetcher.PrefetchStatusListener)</code></a>.
  Map data is prefetched only in discrete intervals. Prefetching starts 1 km before reaching the
  end of the current corridor. Prefetching happens based on the current map-matched location - as
  indicated by the <a href="sdk-for-android-navigate-routeprogress" title="class in com.here.sdk.navigation"><code>RouteProgress</code></a> event.
@@ -187,7 +187,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher"
 <section class="detail" id="stopPrefetchAroundRoute()">
 <h3>stopPrefetchAroundRoute</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">stopPrefetchAroundRoute</span>()</div>
-<div class="block"><p>Stops listening <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> passed to <a href="sdk-for-android-navigate-index#prefetchAroundRouteOnIntervals(com.here.sdk.navigation.NavigatorInterface)"><code>prefetchAroundRouteOnIntervals(com.here.sdk.navigation.NavigatorInterface)</code></a>
+<div class="block"><p>Stops listening <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> passed to <a href="sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher#prefetchAroundRouteOnIntervals(com.here.sdk.navigation.NavigatorInterface)"><code>prefetchAroundRouteOnIntervals(com.here.sdk.navigation.NavigatorInterface)</code></a>
  for route progress events and stops prefetching data along the current route.</p></div>
 </section>
 </li>

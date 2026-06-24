@@ -48,84 +48,84 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSelectedDrawing()">getSelectedDrawing</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#getSelectedDrawing()">getSelectedDrawing</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the currently selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> of the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSelectedLevel()">getSelectedLevel</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#getSelectedLevel()">getSelectedLevel</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the currently selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSelectedLevelIndex()">getSelectedLevelIndex</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#getSelectedLevelIndex()">getSelectedLevelIndex</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the index of the currently selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> in the level array
  of the related <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSelectedLevelZIndex()">getSelectedLevelZIndex</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#getSelectedLevelZIndex()">getSelectedLevelZIndex</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the Z index of the currently selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getVenueModel()">getVenueModel</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#getVenueModel()">getVenueModel</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> controlled by this object.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getVenueStyle()">getVenueStyle</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#getVenueStyle()">getVenueStyle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the <a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style"><code>VenueStyle</code></a> associated with the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
  controlled by this object.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isTopologyVisible()">isTopologyVisible</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#isTopologyVisible()">isTopologyVisible</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current status of topology visibility.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setCustomStyle(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle,com.here.sdk.venue.style.VenueLabelStyle)">setCustomStyle</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a>&gt; geometries,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#setCustomStyle(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle,com.here.sdk.venue.style.VenueLabelStyle)">setCustomStyle</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a>&gt; geometries,
  <a href="sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style,
  <a href="sdk-for-android-navigate-venuelabelstyle" title="class in com.here.sdk.venue.style">VenueLabelStyle</a> labelStyle)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a custom style for geometries and related labels.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setCustomStyle(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle)">setCustomStyle</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuetopology" title="class in com.here.sdk.venue.data">VenueTopology</a>&gt; topologies,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#setCustomStyle(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle)">setCustomStyle</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuetopology" title="class in com.here.sdk.venue.data">VenueTopology</a>&gt; topologies,
  <a href="sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a custom style for topologies.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setCustomStyleToCrosswalk(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle)">setCustomStyleToCrosswalk</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-crosswalk" title="class in com.here.sdk.venue.data">Crosswalk</a>&gt; crosswalks,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#setCustomStyleToCrosswalk(java.util.List,com.here.sdk.venue.style.VenueGeometryStyle)">setCustomStyleToCrosswalk</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-crosswalk" title="class in com.here.sdk.venue.data">Crosswalk</a>&gt; crosswalks,
  <a href="sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a> style)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a custom style for crosswalk.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSelectedDrawing(com.here.sdk.venue.data.VenueDrawing)">setSelectedDrawing</a><wbr/>(<a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#setSelectedDrawing(com.here.sdk.venue.data.VenueDrawing)">setSelectedDrawing</a><wbr/>(<a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSelectedLevel(com.here.sdk.venue.data.VenueLevel)">setSelectedLevel</a><wbr/>(<a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#setSelectedLevel(com.here.sdk.venue.data.VenueLevel)">setSelectedLevel</a><wbr/>(<a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the currently selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSelectedLevelIndex(int)">setSelectedLevelIndex</a><wbr/>(int value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#setSelectedLevelIndex(int)">setSelectedLevelIndex</a><wbr/>(int value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified index from the level array
  of the <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> as selected.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSelectedLevelZIndex(int)">setSelectedLevelZIndex</a><wbr/>(int value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#setSelectedLevelZIndex(int)">setSelectedLevelZIndex</a><wbr/>(int value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified Z index as selected.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTopologyVisible(boolean)">setTopologyVisible</a><wbr/>(boolean value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venue#setTopologyVisible(boolean)">setTopologyVisible</a><wbr/>(boolean value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the topology visibility.</div>
 </div>

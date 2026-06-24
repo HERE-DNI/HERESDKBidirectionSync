@@ -46,7 +46,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-calculatetrafficonroutecallb
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onTrafficOnRouteCalculated(com.here.sdk.routing.RoutingError,com.here.sdk.routing.TrafficOnRoute)">onTrafficOnRouteCalculated</a><wbr/>(<a href="sdk-for-android-explore-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-calculatetrafficonroutecallback#onTrafficOnRouteCalculated(com.here.sdk.routing.RoutingError,com.here.sdk.routing.TrafficOnRoute)">onTrafficOnRouteCalculated</a><wbr/>(<a href="sdk-for-android-explore-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError,
  <a href="sdk-for-android-explore-trafficonroute" title="class in com.here.sdk.routing">TrafficOnRoute</a> trafficOnRoute)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">A function which is called by the RoutingEngine after route traffic calculation has completed.</div>

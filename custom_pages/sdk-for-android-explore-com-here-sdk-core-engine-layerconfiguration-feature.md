@@ -40,12 +40,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-featu
  See <a href="sdk-for-android-explore-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>
 </p><p>Following features are enabled by default:
  <ul>
-<li><a href="sdk-for-android-explore-index#DETAIL_RENDERING"><code>DETAIL_RENDERING</code></a></li>
-<li><a href="sdk-for-android-explore-index#LANDMARKS_3D"><code>LANDMARKS_3D</code></a></li>
-<li><a href="sdk-for-android-explore-index#NAVIGATION"><code>NAVIGATION</code></a></li>
-<li><a href="sdk-for-android-explore-index#OFFLINE_SEARCH"><code>OFFLINE_SEARCH</code></a></li>
-<li><a href="sdk-for-android-explore-index#OFFLINE_ROUTING"><code>OFFLINE_ROUTING</code></a></li>
-<li><a href="sdk-for-android-explore-index#RENDERING"><code>RENDERING</code></a></li>
+<li><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#DETAIL_RENDERING"><code>DETAIL_RENDERING</code></a></li>
+<li><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#LANDMARKS_3D"><code>LANDMARKS_3D</code></a></li>
+<li><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#NAVIGATION"><code>NAVIGATION</code></a></li>
+<li><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_SEARCH"><code>OFFLINE_SEARCH</code></a></li>
+<li><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_ROUTING"><code>OFFLINE_ROUTING</code></a></li>
+<li><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#RENDERING"><code>RENDERING</code></a></li>
 </ul>
 </p><p>All other features are disabled, by default.
  </p><p>Each feature enables a set of OCM layer groups to be downloaded by <code>sdk.maploader.MapDownloader</code>.
@@ -53,15 +53,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-featu
  <a href="https://www.here.com/docs/bundle/optimized-client-map-developer-guide/page/README.html">HERE Optimized Client Map Developer Guide</a>
 </p><p>Following features are enabled by default for implicit prefetch:
  <ul>
-<li><a href="sdk-for-android-explore-index#NAVIGATION"><code>NAVIGATION</code></a></li>
+<li><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#NAVIGATION"><code>NAVIGATION</code></a></li>
 </ul>
 </p><p>Implicit prefetch downloads map content for implicit prefetch features within a view port currently showed by MapView.
  Explicit prefetching is done using <code>sdk.prefetcher.RoutePrefetcher</code> and <code>sdk.prefetcher.PolygonPrefetcher</code>.
  </p><p>Feature might have more than one layer group predefined to enable full experience. For example,
- <a href="sdk-for-android-explore-index#NAVIGATION"><code>NAVIGATION</code></a> requires routing attributes, visual-friendly
+ <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#NAVIGATION"><code>NAVIGATION</code></a> requires routing attributes, visual-friendly
  street names, maneuvers data and ability to interconnect those data sets.
- </p><p>The same map data is useful for different features, for example <a href="sdk-for-android-explore-index#RENDERING"><code>RENDERING</code></a>
- uses Places data to present it on the MapView, while <a href="sdk-for-android-explore-index#OFFLINE_SEARCH"><code>OFFLINE_SEARCH</code></a> uses
+ </p><p>The same map data is useful for different features, for example <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#RENDERING"><code>RENDERING</code></a>
+ uses Places data to present it on the MapView, while <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_SEARCH"><code>OFFLINE_SEARCH</code></a> uses
  the same data to enable discoverability by name or category. Hence, features might have overlapping sets of enabled layer groups.</p></div>
 </section>
 <section class="summary">
@@ -83,101 +83,101 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-featu
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ADAS">ADAS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#ADAS">ADAS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map data which provides ADAS information which includes slope,
  elevation and curvature information.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DETAIL_RENDERING">DETAIL_RENDERING</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#DETAIL_RENDERING">DETAIL_RENDERING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Additional rendering details like buildings.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DETAILED_TERRAIN">DETAILED_TERRAIN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#DETAILED_TERRAIN">DETAILED_TERRAIN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map data that provides detailed topography information.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#EHORIZON">EHORIZON</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EHORIZON">EHORIZON</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Map data which provides information about the parts of foreign segments in a tile,
  where a foreign segment is a segment that is stored in another tile but intersects the current tile.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#EV">EV</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV">EV</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Offline map data for <code>EVChargingStation</code>.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#FUEL_STATION_ATTRIBUTES">FUEL_STATION_ATTRIBUTES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES">FUEL_STATION_ATTRIBUTES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Enables fuel attributes to be returned by Offline Search engine.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#JUNCTION_SIGN_16X9">JUNCTION_SIGN_16X9</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_16X9">JUNCTION_SIGN_16X9</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map data that provides junction sign images with aspect ratio 16x9.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#JUNCTION_SIGN_3X4">JUNCTION_SIGN_3X4</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_3X4">JUNCTION_SIGN_3X4</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Map data that provides junction sign images with aspect ratio 3x4.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#JUNCTION_SIGN_3X5">JUNCTION_SIGN_3X5</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_3X5">JUNCTION_SIGN_3X5</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map data that provides junction sign images with aspect ratio 3x5.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#JUNCTION_SIGN_4X3">JUNCTION_SIGN_4X3</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_4X3">JUNCTION_SIGN_4X3</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Map data that provides junction sign images with aspect ratio 4x3.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#JUNCTION_SIGN_5X3">JUNCTION_SIGN_5X3</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_5X3">JUNCTION_SIGN_5X3</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map data that provides junction sign images with aspect ratio 5x3.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#JUNCTION_VIEW_16X9">JUNCTION_VIEW_16X9</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_VIEW_16X9">JUNCTION_VIEW_16X9</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Map data that provides junction view images and assets with aspect ratio 16x9.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#JUNCTION_VIEW_3X4">JUNCTION_VIEW_3X4</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_VIEW_3X4">JUNCTION_VIEW_3X4</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map data that provides junction view images and assets with aspect ratio 3x4.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LANDMARKS_3D">LANDMARKS_3D</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#LANDMARKS_3D">LANDMARKS_3D</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Map data that is used to render 3D landmarks.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#NAVIGATION">NAVIGATION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#NAVIGATION">NAVIGATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map data that is used for map matching during navigation.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OFFLINE_BUS_ROUTING">OFFLINE_BUS_ROUTING</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_BUS_ROUTING">OFFLINE_BUS_ROUTING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Map data that is used to calculate bus routes.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OFFLINE_ROUTING">OFFLINE_ROUTING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_ROUTING">OFFLINE_ROUTING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map data that is used to calculate routes.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OFFLINE_SEARCH">OFFLINE_SEARCH</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_SEARCH">OFFLINE_SEARCH</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Map data that is used to search.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OFFLINE_SEARCH_GLOBAL">OFFLINE_SEARCH_GLOBAL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_SEARCH_GLOBAL">OFFLINE_SEARCH_GLOBAL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map data used for global search indexing.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RDS_TRAFFIC">RDS_TRAFFIC</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#RDS_TRAFFIC">RDS_TRAFFIC</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Map data that provides traffic broadcast functionality using RDS-TMC format.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RENDERING">RENDERING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#RENDERING">RENDERING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A basic set of rendering features such as carto POIs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TERRAIN">TERRAIN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TERRAIN">TERRAIN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Map data that provides topography information.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRUCK">TRUCK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK">TRUCK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map data that is used to calculate truck routes.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRUCK_SERVICE_ATTRIBUTES">TRUCK_SERVICE_ATTRIBUTES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES">TRUCK_SERVICE_ATTRIBUTES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Enables truck related attributes to be returned by Offline Search engine.</div>
 </div>
@@ -196,12 +196,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-featu
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

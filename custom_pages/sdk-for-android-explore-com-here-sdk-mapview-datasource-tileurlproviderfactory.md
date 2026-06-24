@@ -44,7 +44,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderfa
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#fromXyzUrlTemplate(java.lang.String)">fromXyzUrlTemplate</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> urlTemplate)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderfactory#fromXyzUrlTemplate(java.lang.String)">fromXyzUrlTemplate</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> urlTemplate)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates <a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource"><code>TileUrlProviderCallback</code></a> for the given URL template.</div>
 </div>

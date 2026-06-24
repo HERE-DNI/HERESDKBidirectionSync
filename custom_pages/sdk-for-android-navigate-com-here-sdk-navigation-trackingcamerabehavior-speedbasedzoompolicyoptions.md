@@ -45,13 +45,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-s
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#delayBetweenThresholdChanges">delayBetweenThresholdChanges</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-speedbasedzoompolicyoptions#delayBetweenThresholdChanges">delayBetweenThresholdChanges</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Minimum time interval that must pass before the zoom level is
  allowed to switch to a new speed threshold.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-roadclassification" title="enum class in com.here.sdk.navigation">RoadClassification</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trackingcamerabehavior.speedthreshold" title="class in com.here.sdk.navigation">TrackingCameraBehavior.SpeedThreshold</a>&gt;&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#roadClassificationToSpeedThreshold">roadClassificationToSpeedThreshold</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-speedbasedzoompolicyoptions#roadClassificationToSpeedThreshold">roadClassificationToSpeedThreshold</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines, per road classification, how the zoom level should change in
  response to different vehicle speeds.</div>
@@ -67,7 +67,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-s
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">SpeedBasedZoomPolicyOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-speedbasedzoompolicyoptions#%3Cinit%3E()">SpeedBasedZoomPolicyOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>

@@ -40,47 +40,47 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#areSpareLightBulbsRequired">areSpareLightBulbsRequired</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning#areSpareLightBulbsRequired">areSpareLightBulbsRequired</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The attribute specifies if local regulations require spare light bulbs to be carried in the vehicle.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#areWinterTiresRequired">areWinterTiresRequired</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning#areWinterTiresRequired">areWinterTiresRequired</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The attribute specifies if local regulations require winter tires used during winter season.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isAlcoholTesterRequired">isAlcoholTesterRequired</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning#isAlcoholTesterRequired">isAlcoholTesterRequired</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The attribute specifies if local regulations require an alcohol tester to be carried in the vehicle.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isFireExtinguisherRequired">isFireExtinguisherRequired</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning#isFireExtinguisherRequired">isFireExtinguisherRequired</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The attribute specifies if local regulations require a fire extinguisher to be carried in the vehicle.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isFirstAidKitRequired">isFirstAidKitRequired</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning#isFirstAidKitRequired">isFirstAidKitRequired</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The attribute specifies if local regulations require a first aid kit to be carried in the vehicle.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isSafetyVestRequired">isSafetyVestRequired</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning#isSafetyVestRequired">isSafetyVestRequired</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The attribute specifies if local regulations require a safety vest to be carried in the vehicle.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isTowRopeRequired">isTowRopeRequired</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning#isTowRopeRequired">isTowRopeRequired</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The attribute specifies if local regulations require a tow rope to be carried in the vehicle.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isWarningTriangleRequired">isWarningTriangleRequired</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning#isWarningTriangleRequired">isWarningTriangleRequired</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The attribute specifies if local regulations require a warning triangle to be carried in the vehicle.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#winterSeasonPeriod">winterSeasonPeriod</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning#winterSeasonPeriod">winterSeasonPeriod</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the start date and end date of a winter season in traffic regulations of the administrative area.</div>
 </div>
@@ -95,7 +95,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">PreTripPlanning</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning#%3Cinit%3E()">PreTripPlanning</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -114,10 +114,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-pretripplanning#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

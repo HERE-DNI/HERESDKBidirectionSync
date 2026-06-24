@@ -42,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasourcebu
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.MapContext)">LineDataSourceBuilder</a><wbr/>(<a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasourcebuilder#%3Cinit%3E(com.here.sdk.mapview.MapContext)">LineDataSourceBuilder</a><wbr/>(<a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a data source builder instance in the given context.</div>
 </div>
@@ -61,22 +61,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasourcebu
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-linedatasource" title="class in com.here.sdk.mapview.datasource">LineDataSource</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#build()">build</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasourcebuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Builds instance of LineDataSource.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">LineDataSourceBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withName(java.lang.String)">withName</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> dataSourceName)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasourcebuilder#withName(java.lang.String)">withName</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> dataSourceName)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to use the given name for data source.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">LineDataSourceBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withPolyline(com.here.sdk.mapview.datasource.LineData)">withPolyline</a><wbr/>(<a href="sdk-for-android-navigate-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a> polyline)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasourcebuilder#withPolyline(com.here.sdk.mapview.datasource.LineData)">withPolyline</a><wbr/>(<a href="sdk-for-android-navigate-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a> polyline)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to insert the given polyline in the data source.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">LineDataSourceBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withPolylines(java.util.List)">withPolylines</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a>&gt; polylines)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasourcebuilder#withPolylines(java.util.List)">withPolylines</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a>&gt; polylines)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to insert the given polylines in the data source.</div>
 </div>

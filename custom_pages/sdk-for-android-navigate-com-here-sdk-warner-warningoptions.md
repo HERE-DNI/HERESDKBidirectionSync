@@ -42,42 +42,42 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warningoptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-bordercrossingwarningoptions" title="class in com.here.sdk.navigation">BorderCrossingWarningOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#borderCrossingWarningOptions">borderCrossingWarningOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warningoptions#borderCrossingWarningOptions">borderCrossingWarningOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Border crossing warning options.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-lanedecreasewarningoptions" title="class in com.here.sdk.warner">LaneDecreaseWarningOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#laneDecreaseWarningOptions">laneDecreaseWarningOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warningoptions#laneDecreaseWarningOptions">laneDecreaseWarningOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A struct that provides lane decrease warning options.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-realisticviewwarningoptions" title="class in com.here.sdk.navigation">RealisticViewWarningOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#realisticViewWarningOptions">realisticViewWarningOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warningoptions#realisticViewWarningOptions">realisticViewWarningOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Realistic view warning options.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-roadsignwarningoptions" title="class in com.here.sdk.navigation">RoadSignWarningOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#roadSignWarningOptions">roadSignWarningOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warningoptions#roadSignWarningOptions">roadSignWarningOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A struct that provides road sign warning options.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-safetycamerawarningoptions" title="class in com.here.sdk.navigation">SafetyCameraWarningOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#safetyCameraWarningOptions">safetyCameraWarningOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warningoptions#safetyCameraWarningOptions">safetyCameraWarningOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Safety camera warning options.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-schoolzonewarningoptions" title="class in com.here.sdk.navigation">SchoolZoneWarningOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#schoolZoneWarningOptions">schoolZoneWarningOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warningoptions#schoolZoneWarningOptions">schoolZoneWarningOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">School zone warning options.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-trafficmergewarningoptions" title="class in com.here.sdk.navigation">TrafficMergeWarningOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#trafficMergeWarningOptions">trafficMergeWarningOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warningoptions#trafficMergeWarningOptions">trafficMergeWarningOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A struct that provides traffic merge warning options.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-truckrestrictionswarningoptions" title="class in com.here.sdk.navigation">TruckRestrictionsWarningOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#truckRestrictionsWarningOptions">truckRestrictionsWarningOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warningoptions#truckRestrictionsWarningOptions">truckRestrictionsWarningOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Truck restrictions warning options.</div>
 </div>
@@ -92,7 +92,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warningoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.navigation.SafetyCameraWarningOptions,com.here.sdk.navigation.TruckRestrictionsWarningOptions,com.here.sdk.navigation.RoadSignWarningOptions,com.here.sdk.navigation.RealisticViewWarningOptions,com.here.sdk.navigation.SchoolZoneWarningOptions,com.here.sdk.navigation.BorderCrossingWarningOptions,com.here.sdk.navigation.TrafficMergeWarningOptions,com.here.sdk.warner.LaneDecreaseWarningOptions)">WarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-safetycamerawarningoptions" title="class in com.here.sdk.navigation">SafetyCameraWarningOptions</a> safetyCameraWarningOptions,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warningoptions#%3Cinit%3E(com.here.sdk.navigation.SafetyCameraWarningOptions,com.here.sdk.navigation.TruckRestrictionsWarningOptions,com.here.sdk.navigation.RoadSignWarningOptions,com.here.sdk.navigation.RealisticViewWarningOptions,com.here.sdk.navigation.SchoolZoneWarningOptions,com.here.sdk.navigation.BorderCrossingWarningOptions,com.here.sdk.navigation.TrafficMergeWarningOptions,com.here.sdk.warner.LaneDecreaseWarningOptions)">WarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-safetycamerawarningoptions" title="class in com.here.sdk.navigation">SafetyCameraWarningOptions</a> safetyCameraWarningOptions,
  <a href="sdk-for-android-navigate-truckrestrictionswarningoptions" title="class in com.here.sdk.navigation">TruckRestrictionsWarningOptions</a> truckRestrictionsWarningOptions,
  <a href="sdk-for-android-navigate-roadsignwarningoptions" title="class in com.here.sdk.navigation">RoadSignWarningOptions</a> roadSignWarningOptions,
  <a href="sdk-for-android-navigate-realisticviewwarningoptions" title="class in com.here.sdk.navigation">RealisticViewWarningOptions</a> realisticViewWarningOptions,
@@ -118,10 +118,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warningoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warningoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warningoptions#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

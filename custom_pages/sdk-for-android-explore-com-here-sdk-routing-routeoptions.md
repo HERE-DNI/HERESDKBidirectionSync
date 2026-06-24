@@ -40,54 +40,54 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#alternatives">alternatives</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#alternatives">alternatives</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maximum number of alternative routes that will be calculated, in addition
  to the best one.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#arrivalTime">arrivalTime</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime">arrivalTime</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional time when travel is expected to end.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#departureTime">departureTime</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime">departureTime</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Optional time when travel is expected to start.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#enableRouteHandle">enableRouteHandle</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteHandle">enableRouteHandle</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#enableRouteLabels">enableRouteLabels</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteLabels">enableRouteLabels</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies whether route labels should be included in the route response.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#enableTolls">enableTolls</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableTolls">enableTolls</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A flag that indicates whether the resulting route <a href="sdk-for-android-explore-section#getTolls()"><code>Section.getTolls()</code></a> properties should contain
  tolls data.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#optimizationMode">optimizationMode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#optimizationMode">optimizationMode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The optimization mode to be used for route calculation.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#optimizeWaypointsOrder">optimizeWaypointsOrder</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#optimizeWaypointsOrder">optimizeWaypointsOrder</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A flag that indicates whether the order of waypoints that is passed to <code>calculateRoute()</code> should be optimized in the best order.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#speedCapInMetersPerSecond">speedCapInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#speedCapInMetersPerSecond">speedCapInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies the maximum speed in meters per second, which the user wishes not to exceed.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#trafficOptimizationMode">trafficOptimizationMode</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">trafficOptimizationMode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The traffic optimization mode to be used for route calculation.</div>
 </div>
@@ -102,33 +102,33 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">RouteOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E()">RouteOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.OptimizationMode)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime,
@@ -136,7 +136,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime,
@@ -145,7 +145,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime,
@@ -155,7 +155,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime,
@@ -166,7 +166,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime,
@@ -178,7 +178,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime,
@@ -206,10 +206,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -255,13 +255,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></span> <span class="element-name">departureTime</span></div>
 <div class="block"><p>Optional time when travel is expected to start. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both departure time and <a href="sdk-for-android-explore-index#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
+<li>Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></div>
@@ -273,13 +273,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></span> <span class="element-name">arrivalTime</span></div>
 <div class="block"><p>Optional time when travel is expected to end. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both <a href="sdk-for-android-explore-index#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
+<li>Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></div>
@@ -417,13 +417,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  Defaults to 0, which means there are no alternatives, i.e. only the best route is returned.
  Must be 0 for isoline calculation.</p></dd>
 <dd><code>departureTime</code> - <p>Optional time when travel is expected to start. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both departure time and <a href="sdk-for-android-explore-index#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
+<li>Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
@@ -452,24 +452,24 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  Defaults to 0, which means there are no alternatives, i.e. only the best route is returned.
  Must be 0 for isoline calculation.</p></dd>
 <dd><code>departureTime</code> - <p>Optional time when travel is expected to start. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both departure time and <a href="sdk-for-android-explore-index#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
+<li>Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
 <dd><code>arrivalTime</code> - <p>Optional time when travel is expected to end. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both <a href="sdk-for-android-explore-index#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
+<li>Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
@@ -500,24 +500,24 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  Defaults to 0, which means there are no alternatives, i.e. only the best route is returned.
  Must be 0 for isoline calculation.</p></dd>
 <dd><code>departureTime</code> - <p>Optional time when travel is expected to start. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both departure time and <a href="sdk-for-android-explore-index#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
+<li>Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
 <dd><code>arrivalTime</code> - <p>Optional time when travel is expected to end. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both <a href="sdk-for-android-explore-index#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
+<li>Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
@@ -555,24 +555,24 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  Defaults to 0, which means there are no alternatives, i.e. only the best route is returned.
  Must be 0 for isoline calculation.</p></dd>
 <dd><code>departureTime</code> - <p>Optional time when travel is expected to start. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both departure time and <a href="sdk-for-android-explore-index#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
+<li>Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
 <dd><code>arrivalTime</code> - <p>Optional time when travel is expected to end. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both <a href="sdk-for-android-explore-index#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
+<li>Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
@@ -615,24 +615,24 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  Defaults to 0, which means there are no alternatives, i.e. only the best route is returned.
  Must be 0 for isoline calculation.</p></dd>
 <dd><code>departureTime</code> - <p>Optional time when travel is expected to start. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both departure time and <a href="sdk-for-android-explore-index#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
+<li>Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
 <dd><code>arrivalTime</code> - <p>Optional time when travel is expected to end. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both <a href="sdk-for-android-explore-index#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
+<li>Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
@@ -677,24 +677,24 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  Defaults to 0, which means there are no alternatives, i.e. only the best route is returned.
  Must be 0 for isoline calculation.</p></dd>
 <dd><code>departureTime</code> - <p>Optional time when travel is expected to start. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both departure time and <a href="sdk-for-android-explore-index#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
+<li>Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
 <dd><code>arrivalTime</code> - <p>Optional time when travel is expected to end. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both <a href="sdk-for-android-explore-index#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
+<li>Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
@@ -746,24 +746,24 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  Defaults to 0, which means there are no alternatives, i.e. only the best route is returned.
  Must be 0 for isoline calculation.</p></dd>
 <dd><code>departureTime</code> - <p>Optional time when travel is expected to start. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both departure time and <a href="sdk-for-android-explore-index#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
+<li>Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
 <dd><code>arrivalTime</code> - <p>Optional time when travel is expected to end. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both <a href="sdk-for-android-explore-index#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
+<li>Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
@@ -824,24 +824,24 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  Defaults to 0, which means there are no alternatives, i.e. only the best route is returned.
  Must be 0 for isoline calculation.</p></dd>
 <dd><code>departureTime</code> - <p>Optional time when travel is expected to start. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both departure time and <a href="sdk-for-android-explore-index#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
+<li>Both departure time and <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>
 <dd><code>arrivalTime</code> - <p>Optional time when travel is expected to end. Traffic speed and
- incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-index#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
+ incidents shall be taken into account in the calculation of the route, per <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"><code>trafficOptimizationMode</code></a>.
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
  </p><p><strong>Note</strong>:
  <ul>
-<li>Both <a href="sdk-for-android-explore-index#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
+<li>Both <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
  when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:00+07:00</li>
 </ul></p></dd>

@@ -40,37 +40,37 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxSpeedHighwaysInMetersPerSecond">maxSpeedHighwaysInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedHighwaysInMetersPerSecond">maxSpeedHighwaysInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The general speed limit on highways for the country / state.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxSpeedNightInMetersPerSecond">maxSpeedNightInMetersPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedNightInMetersPerSecond">maxSpeedNightInMetersPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The general speed limit at night for the country / state.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxSpeedRainingInMetersPerSecond">maxSpeedRainingInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedRainingInMetersPerSecond">maxSpeedRainingInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The general speed limit when raining for the country / state.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxSpeedRuralInMetersPerSecond">maxSpeedRuralInMetersPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedRuralInMetersPerSecond">maxSpeedRuralInMetersPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The general speed limit on rural roads for the country / state.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxSpeedSnowingInMetersPerSecond">maxSpeedSnowingInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedSnowingInMetersPerSecond">maxSpeedSnowingInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The general speed limit when snowing for the country / state.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxSpeedUrbanInMetersPerSecond">maxSpeedUrbanInMetersPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedUrbanInMetersPerSecond">maxSpeedUrbanInMetersPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The general speed limit on urban roads for the country / state.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#minSpeedHighwaysInMetersPerSecond">minSpeedHighwaysInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits#minSpeedHighwaysInMetersPerSecond">minSpeedHighwaysInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The minimum speed on highways for the country / state.</div>
 </div>
@@ -85,7 +85,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">GeneralVehicleSpeedLimits</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits#%3Cinit%3E()">GeneralVehicleSpeedLimits</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -104,10 +104,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-generalvehiclespeedlimits#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

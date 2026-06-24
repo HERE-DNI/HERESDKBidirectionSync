@@ -42,11 +42,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversi
  Regardless of the set policy, during an update, the previous region data is kept
  until the new region data is committed successfully to the persisted storage.
  This allows to revert to the previous version in case the update fails.
- With <a href="sdk-for-android-navigate-index#ON_COMPLETE"><code>ON_COMPLETE</code></a>, more data has to be kept until
- the update process finishes, while <a href="sdk-for-android-navigate-index#ON_FIRST_REGION"><code>ON_FIRST_REGION</code></a>
+ With <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversioncommitpolicy#ON_COMPLETE"><code>ON_COMPLETE</code></a>, more data has to be kept until
+ the update process finishes, while <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversioncommitpolicy#ON_FIRST_REGION"><code>ON_FIRST_REGION</code></a>
  allows to make faster use of the downloaded region and requires less disk space as only the
  currently updated region is kept until the process completes.
- However, with an <a href="sdk-for-android-navigate-index#ON_FIRST_REGION"><code>ON_FIRST_REGION</code></a> policy the overall
+ However, with an <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversioncommitpolicy#ON_FIRST_REGION"><code>ON_FIRST_REGION</code></a> policy the overall
  process can be less reliable and bears a higher risk of errors.</p></div>
 </section>
 <section class="summary">
@@ -68,12 +68,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversi
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ON_COMPLETE">ON_COMPLETE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversioncommitpolicy#ON_COMPLETE">ON_COMPLETE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Commits the new map version to the cache and the persisted storage once all previously
  installed regions have been updated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ON_FIRST_REGION">ON_FIRST_REGION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversioncommitpolicy#ON_FIRST_REGION">ON_FIRST_REGION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Updates the cache and the persisted storage once the first region was fully downloaded.</div>
 </div>
@@ -92,12 +92,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversi
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversioncommitpolicy#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversioncommitpolicy#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -127,7 +127,7 @@ the order they are declared.</div>
 <h3>ON_FIRST_REGION</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a></span> <span class="element-name">ON_FIRST_REGION</span></div>
 <div class="block"><p>Updates the cache and the persisted storage once the first region was fully downloaded.
- If only one region was requested, this setting is equivalent to <a href="sdk-for-android-navigate-index#ON_COMPLETE"><code>ON_COMPLETE</code></a>.
+ If only one region was requested, this setting is equivalent to <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversioncommitpolicy#ON_COMPLETE"><code>ON_COMPLETE</code></a>.
  If more regions or subregions are requested, then the policy will apply.
  For example, if Germany is requested to be updated, then the cache and the persisted
  storage will be updated as soon as any contained subregion such as Berlin or Brandenburg
@@ -146,7 +146,7 @@ the order they are declared.</div>
 <div class="block"><p>Commits the new map version to the cache and the persisted storage once all previously
  installed regions have been updated. For example, if Germany needs an update, then
  all previous data is kept until Germany including all subregions has been downloaded.
- This update process is more reliable than <a href="sdk-for-android-navigate-index#ON_FIRST_REGION"><code>ON_FIRST_REGION</code></a>,
+ This update process is more reliable than <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater-mapupdateversioncommitpolicy#ON_FIRST_REGION"><code>ON_FIRST_REGION</code></a>,
  but requires more free storage space until the process completes. Besides, users need to wait longer until
  they can use all updated regions.</p></div>
 </section>

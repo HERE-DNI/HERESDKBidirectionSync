@@ -46,51 +46,51 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-taxioptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#allowDriveThroughTaxiRoads">allowDriveThroughTaxiRoads</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#allowDriveThroughTaxiRoads">allowDriveThroughTaxiRoads</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies if a vehicle is allowed to drive through the taxi-only roads and lanes.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#avoidanceOptions">avoidanceOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#avoidanceOptions">avoidanceOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Options to specify restrictions for route calculations.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-carspecifications" title="class in com.here.sdk.transport">CarSpecifications</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#carSpecifications">carSpecifications</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#carSpecifications">carSpecifications</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Detailed car specifications such as dimensions and weight.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#lastCharacterOfLicensePlate">lastCharacterOfLicensePlate</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#lastCharacterOfLicensePlate">lastCharacterOfLicensePlate</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies the last character of a vehicle's license plate, typically used to
  evaluate traffic restrictions in certain environmental or low-emission zones.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxSpeedOnSegments">maxSpeedOnSegments</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#maxSpeedOnSegments">maxSpeedOnSegments</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Segments with restriction on maximum <a href="sdk-for-android-explore-dynamicspeedinfo#baseSpeedInMetersPerSecond"><code>DynamicSpeedInfo.baseSpeedInMetersPerSecond</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#routeOptions">routeOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#routeOptions">routeOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies the common route calculation options.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#textOptions">textOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#textOptions">textOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Customize textual content returned from the route calculation, such
  as localization, format, and unit system.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#tollOptions">tollOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#tollOptions">tollOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Options to specify how the tolls should be calculated,
@@ -107,12 +107,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-taxioptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">TaxiOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#%3Cinit%3E()">TaxiOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.RouteOptions,com.here.sdk.routing.RouteTextOptions,com.here.sdk.routing.AvoidanceOptions)">TaxiOptions</a><wbr/>(<a href="sdk-for-android-explore-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a> routeOptions,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#%3Cinit%3E(com.here.sdk.routing.RouteOptions,com.here.sdk.routing.RouteTextOptions,com.here.sdk.routing.AvoidanceOptions)">TaxiOptions</a><wbr/>(<a href="sdk-for-android-explore-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a> routeOptions,
  <a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a> textOptions,
  <a href="sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a> avoidanceOptions)</code></div>
 <div class="col-last odd-row-color">
@@ -134,12 +134,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-taxioptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
  </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#hashCode()">hashCode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
  </div>

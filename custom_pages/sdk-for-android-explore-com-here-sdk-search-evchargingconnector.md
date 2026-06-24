@@ -42,47 +42,47 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingconnector"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#connectorType">connectorType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#connectorType">connectorType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Standardized type of the connector.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-evchargingconnectorformat" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#format">format</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#format">format</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Format of the connector, whether it is a socket or a cable.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#id">id</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#id">id</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Identifier of the connector within the EVSE.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxCurrentInAmperes">maxCurrentInAmperes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#maxCurrentInAmperes">maxCurrentInAmperes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Max current (in amperes) of the connector.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxPowerInWatts">maxPowerInWatts</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#maxPowerInWatts">maxPowerInWatts</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Max power (in watts) of the connector, if available.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxVoltageInVolts">maxVoltageInVolts</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#maxVoltageInVolts">maxVoltageInVolts</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Max voltage (in volts) of the connector.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-powertype" title="enum class in com.here.sdk.core">PowerType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#powerType">powerType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#powerType">powerType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of electrical power used by the connector.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#tariffIndexes">tariffIndexes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#tariffIndexes">tariffIndexes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tariffs for the connector, presented by indexes to the charging station's tariffs-list.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#termsAndConditionsUrl">termsAndConditionsUrl</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#termsAndConditionsUrl">termsAndConditionsUrl</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">URL to the operator’s terms and conditions, if available.</div>
 </div>
@@ -97,7 +97,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingconnector"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">EVChargingConnector</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#%3Cinit%3E()">EVChargingConnector</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -116,10 +116,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingconnector"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

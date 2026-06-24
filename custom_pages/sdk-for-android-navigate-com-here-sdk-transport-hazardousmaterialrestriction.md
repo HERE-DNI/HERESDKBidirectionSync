@@ -44,12 +44,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-hazardousmaterialrestrict
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hazardousMaterial">hazardousMaterial</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-hazardousmaterialrestriction#hazardousMaterial">hazardousMaterial</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Restricted hazardous material.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#tunnelCategory">tunnelCategory</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-hazardousmaterialrestriction#tunnelCategory">tunnelCategory</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tunnel category to restrict transport of specific goods.</div>
 </div>
@@ -64,11 +64,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-hazardousmaterialrestrict
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.transport.HazardousMaterial)">HazardousMaterialRestriction</a><wbr/>(<a href="sdk-for-android-navigate-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a> hazardousMaterial)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-hazardousmaterialrestriction#%3Cinit%3E(com.here.sdk.transport.HazardousMaterial)">HazardousMaterialRestriction</a><wbr/>(<a href="sdk-for-android-navigate-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a> hazardousMaterial)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates hazardous material restriction for specified material.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.transport.TunnelCategory)">HazardousMaterialRestriction</a><wbr/>(<a href="sdk-for-android-navigate-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a> tunnelCategory)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-hazardousmaterialrestriction#%3Cinit%3E(com.here.sdk.transport.TunnelCategory)">HazardousMaterialRestriction</a><wbr/>(<a href="sdk-for-android-navigate-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a> tunnelCategory)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates hazardous material restriction for specified tunnel category.</div>
 </div>
@@ -87,10 +87,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-hazardousmaterialrestrict
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-hazardousmaterialrestriction#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-hazardousmaterialrestriction#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

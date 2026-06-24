@@ -98,27 +98,27 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#pedestrianSpecification">pedestrianSpecification</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#pedestrianSpecification">pedestrianSpecification</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The pedestrian specification for the transport mode.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#scooterSpecification">scooterSpecification</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#scooterSpecification">scooterSpecification</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The scooter specification for the transport mode.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#taxiSpecification">taxiSpecification</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#taxiSpecification">taxiSpecification</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The taxi specification for the transport mode.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#transportMode">transportMode</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#transportMode">transportMode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Transport mode.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#vehicleSpecification">vehicleSpecification</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#vehicleSpecification">vehicleSpecification</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The vehicle specification for the transport mode.</div>
 </div>
@@ -133,7 +133,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">TransportSpecification</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#%3Cinit%3E()">TransportSpecification</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -152,10 +152,10 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-transportspecification#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

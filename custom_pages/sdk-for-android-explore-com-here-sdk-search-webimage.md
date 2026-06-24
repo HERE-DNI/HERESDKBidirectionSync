@@ -40,7 +40,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webimage"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-websource" title="class in com.here.sdk.search">WebSource</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#source">source</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-webimage#source">source</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Detailed information about image source.</div>
 </div>
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webimage"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.search.WebSource)">WebImage</a><wbr/>(<a href="sdk-for-android-explore-websource" title="class in com.here.sdk.search">WebSource</a> source)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-webimage#%3Cinit%3E(com.here.sdk.search.WebSource)">WebImage</a><wbr/>(<a href="sdk-for-android-explore-websource" title="class in com.here.sdk.search">WebSource</a> source)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -74,10 +74,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webimage"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-webimage#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-webimage#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -118,7 +118,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webimage"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">WebImage</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-websource" title="class in com.here.sdk.search">WebSource</a> source)</span></div>
 <div class="block"><p>Creates a new instance.
- Sets <a href="sdk-for-android-explore-index#source"><code>source</code></a> to the given source.</p></div>
+ Sets <a href="sdk-for-android-explore-com-here-sdk-search-webimage#source"><code>source</code></a> to the given source.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>source</code> - <p>Detailed information about image source.</p></dd>

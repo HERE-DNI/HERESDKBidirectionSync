@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venuemaplistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onGetVenueCompleted(java.lang.String,com.here.sdk.venue.data.VenueModel,boolean,com.here.sdk.venue.style.VenueStyle)">onGetVenueCompleted</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> venueIdentifier,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-service-venuemaplistener#onGetVenueCompleted(java.lang.String,com.here.sdk.venue.data.VenueModel,boolean,com.here.sdk.venue.style.VenueStyle)">onGetVenueCompleted</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> venueIdentifier,
  <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a> venueModel,
  boolean online,
  <a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a> venueStyle)</code></div>

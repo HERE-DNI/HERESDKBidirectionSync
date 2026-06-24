@@ -55,107 +55,107 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ANY_HAZARDOUS_MATERIAL">ANY_HAZARDOUS_MATERIAL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#ANY_HAZARDOUS_MATERIAL">ANY_HAZARDOUS_MATERIAL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Any type of hazardous material (composite restriction).</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#B">B</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#B">B</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Category B.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#B_D">B_D</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#B_D">B_D</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tunnel restriction category B/D</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#B_E">B_E</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#B_E">B_E</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tunnel restriction category B/E</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#B1000C">B1000C</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#B1000C">B1000C</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tunnel restriction category B/1000C</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#C">C</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#C">C</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Category C.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#C_D">C_D</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#C_D">C_D</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tunnel restriction category C/D</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#C_E">C_E</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#C_E">C_E</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tunnel restriction category C/E</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#C5000D">C5000D</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#C5000D">C5000D</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tunnel restriction category C/5000D</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#COMBUSTIBLE">COMBUSTIBLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#COMBUSTIBLE">COMBUSTIBLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Combustible material.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CORROSIVE">CORROSIVE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#CORROSIVE">CORROSIVE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Corrosive material.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#D">D</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#D">D</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Category D.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#D_E">D_E</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#D_E">D_E</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tunnel restriction category D/E</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#E">E</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#E">E</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Category E.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EXPLOSIVE_AND_FLAMMABLE">EXPLOSIVE_AND_FLAMMABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#EXPLOSIVE_AND_FLAMMABLE">EXPLOSIVE_AND_FLAMMABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Explosive and flammable materials combined (composite restriction).</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EXPLOSIVES">EXPLOSIVES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#EXPLOSIVES">EXPLOSIVES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Explosive material.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FLAMMABLE">FLAMMABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#FLAMMABLE">FLAMMABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Flammable material.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FLAMMABLE_SOLID_COMBUSTIBLE">FLAMMABLE_SOLID_COMBUSTIBLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#FLAMMABLE_SOLID_COMBUSTIBLE">FLAMMABLE_SOLID_COMBUSTIBLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Flammable solids and combustible materials.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GAS">GAS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#GAS">GAS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Gas.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HARMFUL_TO_WATER">HARMFUL_TO_WATER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#HARMFUL_TO_WATER">HARMFUL_TO_WATER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Materials that are harmful to water.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ORGANIC">ORGANIC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#ORGANIC">ORGANIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Organic material.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OTHER">OTHER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#OTHER">OTHER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Any other hazardous material.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POISON">POISON</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#POISON">POISON</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Poisonous material.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POISONOUS_INHALATION">POISONOUS_INHALATION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#POISONOUS_INHALATION">POISONOUS_INHALATION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Materials that are poisonous upon inhalation.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RADIOACTIVE">RADIOACTIVE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#RADIOACTIVE">RADIOACTIVE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Radioactive material.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNKNOWN">UNKNOWN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#UNKNOWN">UNKNOWN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Unknown hazardous material classification.</div>
 </div>
@@ -174,12 +174,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

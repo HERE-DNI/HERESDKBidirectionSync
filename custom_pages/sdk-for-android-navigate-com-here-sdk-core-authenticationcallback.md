@@ -45,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-authenticationcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onTokenReceived(com.here.sdk.core.AuthenticationError,com.here.sdk.core.AuthenticationData)">onTokenReceived</a><wbr/>(<a href="sdk-for-android-navigate-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a> authenticationError,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-authenticationcallback#onTokenReceived(com.here.sdk.core.AuthenticationError,com.here.sdk.core.AuthenticationData)">onTokenReceived</a><wbr/>(<a href="sdk-for-android-navigate-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a> authenticationError,
  <a href="sdk-for-android-navigate-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a> authenticationData)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback passed to <a href="sdk-for-android-navigate-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine)"><code>Authentication.authenticate(SDKNativeEngine)</code></a>.</div>

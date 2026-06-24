@@ -43,12 +43,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-electronichorizondataloadererrorcode" title="enum class in com.here.sdk.electronichorizon">ElectronicHorizonDataLoaderErrorCode</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#errorCode">errorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloaderresult#errorCode">errorCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The error code if the data could not be loaded, otherwise <code>null</code>.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#segmentData">segmentData</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloaderresult#segmentData">segmentData</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The loaded segment data if it is available, otherwise <code>null</code>.</div>
 </div>
@@ -63,7 +63,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">ElectronicHorizonDataLoaderResult</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizondataloaderresult#%3Cinit%3E()">ElectronicHorizonDataLoaderResult</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>

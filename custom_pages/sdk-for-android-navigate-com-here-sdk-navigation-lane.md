@@ -40,32 +40,32 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lane"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#access">access</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lane#access">access</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates which vehicle types can access this lane.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#directions">directions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lane#directions">directions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates all the lane directions that are available for this lane.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#directionsOnRoute">directionsOnRoute</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lane#directionsOnRoute">directionsOnRoute</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the lane directions that are on the route.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-lanemarkings" title="class in com.here.sdk.navigation">LaneMarkings</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#laneMarkings">laneMarkings</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lane#laneMarkings">laneMarkings</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates the lane markings between the lanes.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-lanerecommendationstate" title="enum class in com.here.sdk.navigation">LaneRecommendationState</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#recommendationState">recommendationState</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lane#recommendationState">recommendationState</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates if this lane leads to the upcoming maneuvers.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-lanetype" title="class in com.here.sdk.navigation">LaneType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lane#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates the properties of this lane.</div>
 </div>
@@ -80,7 +80,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lane"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.navigation.LaneType,com.here.sdk.navigation.LaneAccess,com.here.sdk.navigation.LaneMarkings,java.util.List,java.util.List)">Lane</a><wbr/>(<a href="sdk-for-android-navigate-lanetype" title="class in com.here.sdk.navigation">LaneType</a> type,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lane#%3Cinit%3E(com.here.sdk.navigation.LaneType,com.here.sdk.navigation.LaneAccess,com.here.sdk.navigation.LaneMarkings,java.util.List,java.util.List)">Lane</a><wbr/>(<a href="sdk-for-android-navigate-lanetype" title="class in com.here.sdk.navigation">LaneType</a> type,
  <a href="sdk-for-android-navigate-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a> access,
  <a href="sdk-for-android-navigate-lanemarkings" title="class in com.here.sdk.navigation">LaneMarkings</a> laneMarkings,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt; directions,
@@ -88,7 +88,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lane"
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.navigation.LaneType,com.here.sdk.navigation.LaneRecommendationState,com.here.sdk.navigation.LaneAccess,com.here.sdk.navigation.LaneMarkings,java.util.List,java.util.List)">Lane</a><wbr/>(<a href="sdk-for-android-navigate-lanetype" title="class in com.here.sdk.navigation">LaneType</a> type,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lane#%3Cinit%3E(com.here.sdk.navigation.LaneType,com.here.sdk.navigation.LaneRecommendationState,com.here.sdk.navigation.LaneAccess,com.here.sdk.navigation.LaneMarkings,java.util.List,java.util.List)">Lane</a><wbr/>(<a href="sdk-for-android-navigate-lanetype" title="class in com.here.sdk.navigation">LaneType</a> type,
  <a href="sdk-for-android-navigate-lanerecommendationstate" title="enum class in com.here.sdk.navigation">LaneRecommendationState</a> recommendationState,
  <a href="sdk-for-android-navigate-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a> access,
  <a href="sdk-for-android-navigate-lanemarkings" title="class in com.here.sdk.navigation">LaneMarkings</a> laneMarkings,
@@ -112,10 +112,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lane"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lane#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lane#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -183,7 +183,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lane"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</span> <span class="element-name">directionsOnRoute</span></div>
 <div class="block"><p>Indicates the lane directions that are on the route.
  Following these directions keeps the driver on the route.
- This is a subset of <a href="sdk-for-android-navigate-index#directions"><code>directions</code></a>.</p></div>
+ This is a subset of <a href="sdk-for-android-navigate-com-here-sdk-navigation-lane#directions"><code>directions</code></a>.</p></div>
 </section>
 </li>
 </ul>
@@ -221,7 +221,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lane"
 <dd><code>directions</code> - <p>Indicates all the lane directions that are available for this lane.</p></dd>
 <dd><code>directionsOnRoute</code> - <p>Indicates the lane directions that are on the route.
  Following these directions keeps the driver on the route.
- This is a subset of <a href="sdk-for-android-navigate-index#directions"><code>directions</code></a>.</p></dd>
+ This is a subset of <a href="sdk-for-android-navigate-com-here-sdk-navigation-lane#directions"><code>directions</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -249,7 +249,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lane"
 <dd><code>directions</code> - <p>Indicates all the lane directions that are available for this lane.</p></dd>
 <dd><code>directionsOnRoute</code> - <p>Indicates the lane directions that are on the route.
  Following these directions keeps the driver on the route.
- This is a subset of <a href="sdk-for-android-navigate-index#directions"><code>directions</code></a>.</p></dd>
+ This is a subset of <a href="sdk-for-android-navigate-com-here-sdk-navigation-lane#directions"><code>directions</code></a>.</p></dd>
 </dl>
 </section>
 </li>

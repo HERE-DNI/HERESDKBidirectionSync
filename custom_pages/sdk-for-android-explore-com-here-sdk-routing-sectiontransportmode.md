@@ -55,47 +55,47 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#BICYCLE">BICYCLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#BICYCLE">BICYCLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Bicycle mode of transport.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#BUS">BUS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#BUS">BUS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Bus mode of transport.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CAR">CAR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#CAR">CAR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Car mode of transport.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CAR_SHUTTLE_TRAIN">CAR_SHUTTLE_TRAIN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#CAR_SHUTTLE_TRAIN">CAR_SHUTTLE_TRAIN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Mode of transport representing a shuttle train for cars.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#FERRY">FERRY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#FERRY">FERRY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Ferry mode of transport.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PEDESTRIAN">PEDESTRIAN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#PEDESTRIAN">PEDESTRIAN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Pedestrian mode of transport.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PRIVATE_BUS">PRIVATE_BUS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#PRIVATE_BUS">PRIVATE_BUS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Private bus mode of transport.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PUBLIC_TRANSIT">PUBLIC_TRANSIT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#PUBLIC_TRANSIT">PUBLIC_TRANSIT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A section with this mode is part of a public transit route.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SCOOTER">SCOOTER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#SCOOTER">SCOOTER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Scooter mode of transport.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TAXI">TAXI</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#TAXI">TAXI</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Taxi mode of transport.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRUCK">TRUCK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#TRUCK">TRUCK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Truck mode of transport.</div>
 </div>
@@ -114,12 +114,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectiontransportmode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

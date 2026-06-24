@@ -41,7 +41,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onMatchedLocationUpdated(com.here.sdk.mapmatcher.MatchedLocation)">onMatchedLocationUpdated</a><wbr/>(<a href="sdk-for-android-navigate-matchedlocation" title="class in com.here.sdk.mapmatcher">MatchedLocation</a> matchedLocation)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener#onMatchedLocationUpdated(com.here.sdk.mapmatcher.MatchedLocation)">onMatchedLocationUpdated</a><wbr/>(<a href="sdk-for-android-navigate-matchedlocation" title="class in com.here.sdk.mapmatcher">MatchedLocation</a> matchedLocation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever the current map-matched location has been updated.</div>
 </div>

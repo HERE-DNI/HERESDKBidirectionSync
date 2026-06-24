@@ -53,35 +53,35 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-roadfeatures"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CAR_SHUTTLE_TRAIN">CAR_SHUTTLE_TRAIN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures#CAR_SHUTTLE_TRAIN">CAR_SHUTTLE_TRAIN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This part of the route is for transit with a car shuttle train.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CONTROLLED_ACCESS_HIGHWAY">CONTROLLED_ACCESS_HIGHWAY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures#CONTROLLED_ACCESS_HIGHWAY">CONTROLLED_ACCESS_HIGHWAY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">This part of the route is a controlled-access highway, i.e.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DIRT_ROAD">DIRT_ROAD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures#DIRT_ROAD">DIRT_ROAD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This part of the route has an un-paved surface.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#FERRY">FERRY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures#FERRY">FERRY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">This part of the route is for transit with a ferry.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SEASONAL_CLOSURE">SEASONAL_CLOSURE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures#SEASONAL_CLOSURE">SEASONAL_CLOSURE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This part of the route is subject to seasonal closure.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TOLL_ROAD">TOLL_ROAD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures#TOLL_ROAD">TOLL_ROAD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Access to this part of the route is restricted with a fee or toll.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TUNNEL">TUNNEL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures#TUNNEL">TUNNEL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This part of the route is a tunnel.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#U_TURNS">U_TURNS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures#U_TURNS">U_TURNS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">This part of the route has a u-turns.</div>
 </div>
@@ -100,12 +100,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-roadfeatures"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

@@ -42,19 +42,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#highSpeedBoundaryInMetersPerSecond">highSpeedBoundaryInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset#highSpeedBoundaryInMetersPerSecond">highSpeedBoundaryInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The boundary that defines higher and lower speed limits.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#highSpeedOffsetInMetersPerSecond">highSpeedOffsetInMetersPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset#highSpeedOffsetInMetersPerSecond">highSpeedOffsetInMetersPerSecond</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">A speed limit offset for speed limits above the <a href="sdk-for-android-navigate-index#highSpeedBoundaryInMetersPerSecond"><code>highSpeedBoundaryInMetersPerSecond</code></a>.</div>
+<div class="block">A speed limit offset for speed limits above the <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset#highSpeedBoundaryInMetersPerSecond"><code>highSpeedBoundaryInMetersPerSecond</code></a>.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lowSpeedOffsetInMetersPerSecond">lowSpeedOffsetInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset#lowSpeedOffsetInMetersPerSecond">lowSpeedOffsetInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">A speed limit offset for speed limits below the <a href="sdk-for-android-navigate-index#highSpeedBoundaryInMetersPerSecond"><code>highSpeedBoundaryInMetersPerSecond</code></a>.</div>
+<div class="block">A speed limit offset for speed limits below the <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset#highSpeedBoundaryInMetersPerSecond"><code>highSpeedBoundaryInMetersPerSecond</code></a>.</div>
 </div>
 </div>
 </section>
@@ -67,7 +67,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">SpeedLimitOffset</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset#%3Cinit%3E()">SpeedLimitOffset</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -86,10 +86,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -112,14 +112,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset"
 <section class="detail" id="lowSpeedOffsetInMetersPerSecond">
 <h3>lowSpeedOffsetInMetersPerSecond</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">lowSpeedOffsetInMetersPerSecond</span></div>
-<div class="block"><p>A speed limit offset for speed limits below the <a href="sdk-for-android-navigate-index#highSpeedBoundaryInMetersPerSecond"><code>highSpeedBoundaryInMetersPerSecond</code></a>.</p></div>
+<div class="block"><p>A speed limit offset for speed limits below the <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset#highSpeedBoundaryInMetersPerSecond"><code>highSpeedBoundaryInMetersPerSecond</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="highSpeedOffsetInMetersPerSecond">
 <h3>highSpeedOffsetInMetersPerSecond</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">highSpeedOffsetInMetersPerSecond</span></div>
-<div class="block"><p>A speed limit offset for speed limits above the <a href="sdk-for-android-navigate-index#highSpeedBoundaryInMetersPerSecond"><code>highSpeedBoundaryInMetersPerSecond</code></a>.</p></div>
+<div class="block"><p>A speed limit offset for speed limits above the <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimitoffset#highSpeedBoundaryInMetersPerSecond"><code>highSpeedBoundaryInMetersPerSecond</code></a>.</p></div>
 </section>
 </li>
 <li>

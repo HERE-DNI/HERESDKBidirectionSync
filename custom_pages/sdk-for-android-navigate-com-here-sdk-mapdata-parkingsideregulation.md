@@ -53,11 +53,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-parkingsideregulation"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BOTH_SIDES_ONE_WAY_ROAD">BOTH_SIDES_ONE_WAY_ROAD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-parkingsideregulation#BOTH_SIDES_ONE_WAY_ROAD">BOTH_SIDES_ONE_WAY_ROAD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Parking is allowed on both sides of one-way road.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OPPOSITE_LANE_TWO_WAY_ROAD">OPPOSITE_LANE_TWO_WAY_ROAD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-parkingsideregulation#OPPOSITE_LANE_TWO_WAY_ROAD">OPPOSITE_LANE_TWO_WAY_ROAD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Parking is allowed on opposite lane when a road is bi-directional, one
  lane in each.</div>
@@ -77,12 +77,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-parkingsideregulation"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-parkingsideregulation" title="enum class in com.here.sdk.mapdata">ParkingSideRegulation</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-parkingsideregulation#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-parkingsideregulation" title="enum class in com.here.sdk.mapdata">ParkingSideRegulation</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-parkingsideregulation#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

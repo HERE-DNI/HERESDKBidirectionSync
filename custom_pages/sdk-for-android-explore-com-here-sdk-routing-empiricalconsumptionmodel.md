@@ -32,9 +32,9 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel"
  relying on a full physical simulation, this model uses observed consumption behavior to produce realistic
  and efficient energy estimates suitable for routing, range prediction, and navigation use cases.
  </p><p>Parameters specific to the electric vehicle are used to calculate energy consumption on a given route.
- At minimum, you must provide <a href="sdk-for-android-explore-index#ascentConsumptionInWattHoursPerMeter"><code>ascentConsumptionInWattHoursPerMeter</code></a>,
- <a href="sdk-for-android-explore-index#descentRecoveryInWattHoursPerMeter"><code>descentRecoveryInWattHoursPerMeter</code></a> and a
- <a href="sdk-for-android-explore-index#freeFlowSpeedTable"><code>freeFlowSpeedTable</code></a>.
+ At minimum, you must provide <a href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#ascentConsumptionInWattHoursPerMeter"><code>ascentConsumptionInWattHoursPerMeter</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#descentRecoveryInWattHoursPerMeter"><code>descentRecoveryInWattHoursPerMeter</code></a> and a
+ <a href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#freeFlowSpeedTable"><code>freeFlowSpeedTable</code></a>.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -50,28 +50,28 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ascentConsumptionInWattHoursPerMeter">ascentConsumptionInWattHoursPerMeter</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#ascentConsumptionInWattHoursPerMeter">ascentConsumptionInWattHoursPerMeter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Rate of energy consumed per meter rise in elevation (in Wh/m, i.e., Watt-hours per meter).</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#auxiliaryConsumptionInWattHoursPerSecond">auxiliaryConsumptionInWattHoursPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#auxiliaryConsumptionInWattHoursPerSecond">auxiliaryConsumptionInWattHoursPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Rate of energy (in Wh/s) consumed by the vehicle's auxiliary systems
  (e.g., air conditioning, lights) per second of travel.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#descentRecoveryInWattHoursPerMeter">descentRecoveryInWattHoursPerMeter</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#descentRecoveryInWattHoursPerMeter">descentRecoveryInWattHoursPerMeter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Rate of energy recovered per meter fall in elevation (in Wh/m, i.e., Watt-hours per meter).</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#freeFlowSpeedTable">freeFlowSpeedTable</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#freeFlowSpeedTable">freeFlowSpeedTable</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Free flow speed table describes energy consumption when traveling at constant speed.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#trafficSpeedTable">trafficSpeedTable</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#trafficSpeedTable">trafficSpeedTable</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Traffic speed table describes energy consumption when traveling under heavy traffic
  conditions, i.e.</div>
@@ -87,7 +87,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">EmpiricalConsumptionModel</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#%3Cinit%3E()">EmpiricalConsumptionModel</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -106,10 +106,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -177,8 +177,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel"
  For values after the last list value, the last list value is used.
  If only one key/value pair is set, the consumption value is
  used for all possible traffic speed keys.
- If <a href="sdk-for-android-explore-index#trafficSpeedTable"><code>trafficSpeedTable</code></a> is empty then only
- <a href="sdk-for-android-explore-index#freeFlowSpeedTable"><code>freeFlowSpeedTable</code></a> is used for calculating speed-related
+ If <a href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#trafficSpeedTable"><code>trafficSpeedTable</code></a> is empty then only
+ <a href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#freeFlowSpeedTable"><code>freeFlowSpeedTable</code></a> is used for calculating speed-related
  energy consumption.</p></div>
 </section>
 </li>

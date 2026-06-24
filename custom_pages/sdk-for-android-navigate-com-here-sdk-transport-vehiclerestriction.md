@@ -46,48 +46,48 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#appliesToDelivery">appliesToDelivery</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#appliesToDelivery">appliesToDelivery</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Flag indicating whether this restriction applies to delivery vehicles.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#axleCount">axleCount</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#axleCount">axleCount</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The axle count for which the current restriction applies.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#axleCountInGroup">axleCountInGroup</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#axleCountInGroup">axleCountInGroup</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Number of axles in a group for which the current restriction applies.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-hazardousmaterialrestriction" title="class in com.here.sdk.transport">HazardousMaterialRestriction</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hazmatRestriction">hazmatRestriction</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#hazmatRestriction">hazmatRestriction</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Restriction on transport of hazardous materials and max allowed tunnel category.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-specificrestriction" title="class in com.here.sdk.transport">SpecificRestriction</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#restriction">restriction</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#restriction">restriction</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A <code>SpecificRestriction</code> defines what type of restriction applies (weight, height, etc.)
  and the range of allowed values.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-timerestriction" title="class in com.here.sdk.transport">TimeRestriction</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#timeRestriction">timeRestriction</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#timeRestriction">timeRestriction</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Restriction applies during specific time.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#trailerCount">trailerCount</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#trailerCount">trailerCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Number of trailers for which the restriction applies.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#truckCategory">truckCategory</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#truckCategory">truckCategory</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Restriction applies to a specific truck category.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-weathertype" title="enum class in com.here.sdk.navigation">WeatherType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#weather">weather</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#weather">weather</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of weather in which restriction applies.</div>
 </div>
@@ -102,11 +102,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">VehicleRestriction</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#%3Cinit%3E()">VehicleRestriction</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an uncoditional general restriction.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.transport.SpecificRestriction)">VehicleRestriction</a><wbr/>(<a href="sdk-for-android-navigate-specificrestriction" title="class in com.here.sdk.transport">SpecificRestriction</a> restriction)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#%3Cinit%3E(com.here.sdk.transport.SpecificRestriction)">VehicleRestriction</a><wbr/>(<a href="sdk-for-android-navigate-specificrestriction" title="class in com.here.sdk.transport">SpecificRestriction</a> restriction)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates an unconditional restriction.</div>
 </div>
@@ -125,10 +125,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

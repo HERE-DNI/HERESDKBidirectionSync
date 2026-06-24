@@ -40,12 +40,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcastpa
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#location">location</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcastparameters#location">location</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Current location to determine the country code and LTNs.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-tmcserviceinterface" title="interface in com.here.sdk.trafficbroadcast">TMCServiceInterface</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#tmcService">tmcService</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcastparameters#tmcService">tmcService</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Contains all outgoing dependencies to the client side.</div>
 </div>
@@ -60,7 +60,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcastpa
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.trafficbroadcast.TMCServiceInterface,com.here.sdk.core.Location)">TrafficBroadcastParameters</a><wbr/>(<a href="sdk-for-android-navigate-tmcserviceinterface" title="interface in com.here.sdk.trafficbroadcast">TMCServiceInterface</a> tmcService,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcastparameters#%3Cinit%3E(com.here.sdk.trafficbroadcast.TMCServiceInterface,com.here.sdk.core.Location)">TrafficBroadcastParameters</a><wbr/>(<a href="sdk-for-android-navigate-tmcserviceinterface" title="interface in com.here.sdk.trafficbroadcast">TMCServiceInterface</a> tmcService,
  <a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>

@@ -102,7 +102,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">TrackingCameraBehavior</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#%3Cinit%3E()">TrackingCameraBehavior</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -121,126 +121,126 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-trackingcamerabehavior.functionalroadclasszoompolicyoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#defaultFunctionalRoadClassZoomPolicyOptions()">defaultFunctionalRoadClassZoomPolicyOptions</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#defaultFunctionalRoadClassZoomPolicyOptions()">defaultFunctionalRoadClassZoomPolicyOptions</a>()</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverModeConfiguration</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#defaultManeuverModeConfiguration()">defaultManeuverModeConfiguration</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#defaultManeuverModeConfiguration()">defaultManeuverModeConfiguration</a>()</code></div>
 
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-trackingcamerabehavior.speedbasedzoompolicyoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.SpeedBasedZoomPolicyOptions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#defaultSpeedBasedZoomPolicyOptions()">defaultSpeedBasedZoomPolicyOptions</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#defaultSpeedBasedZoomPolicyOptions()">defaultSpeedBasedZoomPolicyOptions</a>()</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#flagFixedDurationForNextAnimation()">flagFixedDurationForNextAnimation</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#flagFixedDurationForNextAnimation()">flagFixedDurationForNextAnimation</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Enables fixed-duration animation mode for the next property change.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getBearingInDegrees()">getBearingInDegrees</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#getBearingInDegrees()">getBearingInDegrees</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the bearing in degrees.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverModeConfiguration</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getManeuverModeConfiguration()">getManeuverModeConfiguration</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#getManeuverModeConfiguration()">getManeuverModeConfiguration</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current maneuver mode configuration, or <code>null</code> if not set.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getMaxRotationSpeedInDegreesPerSecond()">getMaxRotationSpeedInDegreesPerSecond</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#getMaxRotationSpeedInDegreesPerSecond()">getMaxRotationSpeedInDegreesPerSecond</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the maximum rotation speed.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getNormalizedPrincipalPoint()">getNormalizedPrincipalPoint</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#getNormalizedPrincipalPoint()">getNormalizedPrincipalPoint</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the currently set normalized principal point to be used during navigation.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPrincipalPointAnimationDuration()">getPrincipalPointAnimationDuration</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#getPrincipalPointAnimationDuration()">getPrincipalPointAnimationDuration</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current principal point animation duration in milliseconds.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRecenterAnimationDuration()">getRecenterAnimationDuration</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#getRecenterAnimationDuration()">getRecenterAnimationDuration</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the recenter animation duration in milliseconds.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTiltInDegrees()">getTiltInDegrees</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#getTiltInDegrees()">getTiltInDegrees</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the camera tilt in degrees.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getViewRectangle()">getViewRectangle</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#getViewRectangle()">getViewRectangle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current view rectangle, if it's set.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getZoomPolicy()">getZoomPolicy</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#getZoomPolicy()">getZoomPolicy</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current zoom computation strategy.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getZoomSpeedInLevelsPerSecond()">getZoomSpeedInLevelsPerSecond</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#getZoomSpeedInLevelsPerSecond()">getZoomSpeedInLevelsPerSecond</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the zoom level transition speed.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isManeuverDetectionEnabled()">isManeuverDetectionEnabled</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#isManeuverDetectionEnabled()">isManeuverDetectionEnabled</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets whether maneuver detection is enabled.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setBearingInDegrees(java.lang.Double)">setBearingInDegrees</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setBearingInDegrees(java.lang.Double)">setBearingInDegrees</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the bearing in degrees.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setManeuverDetectionEnabled(boolean)">setManeuverDetectionEnabled</a><wbr/>(boolean value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setManeuverDetectionEnabled(boolean)">setManeuverDetectionEnabled</a><wbr/>(boolean value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets whether maneuver detection is enabled.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setManeuverModeConfiguration(com.here.sdk.navigation.TrackingCameraBehavior.ManeuverModeConfiguration)">setManeuverModeConfiguration</a><wbr/>(<a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverModeConfiguration</a> maneuverModeConfiguration)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setManeuverModeConfiguration(com.here.sdk.navigation.TrackingCameraBehavior.ManeuverModeConfiguration)">setManeuverModeConfiguration</a><wbr/>(<a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverModeConfiguration</a> maneuverModeConfiguration)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the configuration for camera behavior near maneuvers.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setMaxRotationSpeedInDegreesPerSecond(double)">setMaxRotationSpeedInDegreesPerSecond</a><wbr/>(double value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setMaxRotationSpeedInDegreesPerSecond(double)">setMaxRotationSpeedInDegreesPerSecond</a><wbr/>(double value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the maximum rotation speed.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setNormalizedPrincipalPoint(com.here.sdk.core.Anchor2D)">setNormalizedPrincipalPoint</a><wbr/>(<a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setNormalizedPrincipalPoint(com.here.sdk.core.Anchor2D)">setNormalizedPrincipalPoint</a><wbr/>(<a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a normalized principal point to be used during navigation.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setPrincipalPointAnimationDuration(com.here.time.Duration)">setPrincipalPointAnimationDuration</a><wbr/>(<a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setPrincipalPointAnimationDuration(com.here.time.Duration)">setPrincipalPointAnimationDuration</a><wbr/>(<a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the current principal point animation in milliseconds.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRecenterAnimationDuration(com.here.time.Duration)">setRecenterAnimationDuration</a><wbr/>(<a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setRecenterAnimationDuration(com.here.time.Duration)">setRecenterAnimationDuration</a><wbr/>(<a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the recenter animation duration in milliseconds.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTiltInDegrees(double)">setTiltInDegrees</a><wbr/>(double value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setTiltInDegrees(double)">setTiltInDegrees</a><wbr/>(double value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the camera tilt in degrees.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setViewRectangle(com.here.sdk.core.Rectangle2D)">setViewRectangle</a><wbr/>(<a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setViewRectangle(com.here.sdk.core.Rectangle2D)">setViewRectangle</a><wbr/>(<a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a view rectangle.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setZoomPolicy(com.here.sdk.navigation.TrackingCameraBehavior.ZoomPolicy)">setZoomPolicy</a><wbr/>(<a href="sdk-for-android-navigate-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setZoomPolicy(com.here.sdk.navigation.TrackingCameraBehavior.ZoomPolicy)">setZoomPolicy</a><wbr/>(<a href="sdk-for-android-navigate-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the current zoom computation strategy.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setZoomSpeedInLevelsPerSecond(double)">setZoomSpeedInLevelsPerSecond</a><wbr/>(double value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setZoomSpeedInLevelsPerSecond(double)">setZoomSpeedInLevelsPerSecond</a><wbr/>(double value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the zoom level transition speed.</div>
 </div>
@@ -293,7 +293,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
  <a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverModeConfiguration</a> maneuverModeConfiguration)</span></div>
 <div class="block"><p>Sets the configuration for camera behavior near maneuvers.
  Defines how the camera reacts to nearby maneuvers when
- <a href="sdk-for-android-navigate-index#isManeuverDetectionEnabled()"><code>isManeuverDetectionEnabled()</code></a> is <code>true</code>. When set to <code>null</code>, the camera does
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#isManeuverDetectionEnabled()"><code>isManeuverDetectionEnabled()</code></a> is <code>true</code>. When set to <code>null</code>, the camera does
  not react to maneuvers. The configuration must contain at least one rule to be valid.
  Defaults to <code>null</code>.</p></div>
 <dl class="notes">
@@ -591,7 +591,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isManeuverDetectionEnabled</span>()</div>
 <div class="block"><p>Gets whether maneuver detection is enabled.
  </p><p>When <code>true</code>, the camera detects adjacent maneuvers and reacts according to
- the <a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverModeConfiguration</code></a> set via <a href="sdk-for-android-navigate-index#setManeuverModeConfiguration(com.here.sdk.navigation.TrackingCameraBehavior.ManeuverModeConfiguration)"><code>setManeuverModeConfiguration(com.here.sdk.navigation.TrackingCameraBehavior.ManeuverModeConfiguration)</code></a>.
+ the <a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverModeConfiguration</code></a> set via <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setManeuverModeConfiguration(com.here.sdk.navigation.TrackingCameraBehavior.ManeuverModeConfiguration)"><code>setManeuverModeConfiguration(com.here.sdk.navigation.TrackingCameraBehavior.ManeuverModeConfiguration)</code></a>.
  A valid <a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverModeConfiguration</code></a> must be set for the camera to react. Defaults to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -605,7 +605,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setManeuverDetectionEnabled</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets whether maneuver detection is enabled.
  </p><p>When <code>true</code>, the camera detects adjacent maneuvers and reacts according to
- the <a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverModeConfiguration</code></a> set via <a href="sdk-for-android-navigate-index#setManeuverModeConfiguration(com.here.sdk.navigation.TrackingCameraBehavior.ManeuverModeConfiguration)"><code>setManeuverModeConfiguration(com.here.sdk.navigation.TrackingCameraBehavior.ManeuverModeConfiguration)</code></a>.
+ the <a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverModeConfiguration</code></a> set via <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior#setManeuverModeConfiguration(com.here.sdk.navigation.TrackingCameraBehavior.ManeuverModeConfiguration)"><code>setManeuverModeConfiguration(com.here.sdk.navigation.TrackingCameraBehavior.ManeuverModeConfiguration)</code></a>.
  A valid <a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverModeConfiguration</code></a> must be set for the camera to react. Defaults to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

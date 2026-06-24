@@ -40,17 +40,17 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routetextoptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#language">language</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions#language">language</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The language for all textual information.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#textUsageOptions">textUsageOptions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions#textUsageOptions">textUsageOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An option whether street name, road number and sign post direction should be used when generating notification.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#unitSystem">unitSystem</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions#unitSystem">unitSystem</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the measurement system used in instruction text.</div>
 </div>
@@ -65,7 +65,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routetextoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">RouteTextOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions#%3Cinit%3E()">RouteTextOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -84,10 +84,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routetextoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

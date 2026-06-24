@@ -41,7 +41,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#transportSpecification">transportSpecification</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration#transportSpecification">transportSpecification</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Stores default values related to pedestrian, vehicle, scooter and taxi specifications.</div>
 </div>
@@ -56,7 +56,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">ParameterConfiguration</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration#%3Cinit%3E()">ParameterConfiguration</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of <a href="sdk-for-android-explore-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.</div>
 </div>
@@ -75,10 +75,10 @@ slug: "sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

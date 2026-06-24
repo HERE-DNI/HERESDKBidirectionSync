@@ -53,16 +53,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-directioninformationusag
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NONE">NONE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-directioninformationusageoption#NONE">NONE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">No direction information is included in the notification.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ROAD_INFORMATION_AND_SIGNPOST_DIRECTION">ROAD_INFORMATION_AND_SIGNPOST_DIRECTION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-directioninformationusageoption#ROAD_INFORMATION_AND_SIGNPOST_DIRECTION">ROAD_INFORMATION_AND_SIGNPOST_DIRECTION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Both Road information (either street name or road number based on the maneuver action) and signpost direction are
  included in the notification, or either one, if available.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ROAD_INFORMATION_ONLY">ROAD_INFORMATION_ONLY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-directioninformationusageoption#ROAD_INFORMATION_ONLY">ROAD_INFORMATION_ONLY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Road information (either street name or road number based on the maneuver action) is included in the notification,
  if available.</div>
@@ -82,12 +82,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-directioninformationusag
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-directioninformationusageoption" title="enum class in com.here.sdk.navigation">DirectionInformationUsageOption</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-directioninformationusageoption#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-directioninformationusageoption" title="enum class in com.here.sdk.navigation">DirectionInformationUsageOption</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-directioninformationusageoption#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

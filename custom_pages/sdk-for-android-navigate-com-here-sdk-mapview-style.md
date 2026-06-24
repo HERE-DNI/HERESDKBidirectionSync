@@ -47,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-style"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#update(com.here.sdk.mapview.Style)">update</a><wbr/>(<a href="sdk-for-android-navigate-style" title="class in com.here.sdk.mapview">Style</a> style)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-style#update(com.here.sdk.mapview.Style)">update</a><wbr/>(<a href="sdk-for-android-navigate-style" title="class in com.here.sdk.mapview">Style</a> style)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Updates this style with content from another style.</div>
 </div>

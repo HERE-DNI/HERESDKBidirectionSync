@@ -46,22 +46,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayer"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#destroy()">destroy</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayer#destroy()">destroy</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Frees all internally used resources.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setEnabled(boolean)">setEnabled</a><wbr/>(boolean enable)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayer#setEnabled(boolean)">setEnabled</a><wbr/>(boolean enable)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets whether or not the layer is enabled to be drawn.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setPriority(com.here.sdk.mapview.MapLayerPriority)">setPriority</a><wbr/>(<a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayer#setPriority(com.here.sdk.mapview.MapLayerPriority)">setPriority</a><wbr/>(<a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the render priority for the layer which replaces any previously defined priorities.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setStyle(com.here.sdk.mapview.Style)">setStyle</a><wbr/>(<a href="sdk-for-android-navigate-style" title="class in com.here.sdk.mapview">Style</a> style)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayer#setStyle(com.here.sdk.mapview.Style)">setStyle</a><wbr/>(<a href="sdk-for-android-navigate-style" title="class in com.here.sdk.mapview">Style</a> style)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the style to be used by the layer.</div>
 </div>

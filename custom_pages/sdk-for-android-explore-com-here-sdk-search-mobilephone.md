@@ -40,12 +40,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-mobilephone"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#categories">categories</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-mobilephone#categories">categories</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Categories associated with phone number.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#phoneNumber">phoneNumber</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-mobilephone#phoneNumber">phoneNumber</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The phone number.</div>
 </div>
@@ -60,11 +60,11 @@ slug: "sdk-for-android-explore-com-here-sdk-search-mobilephone"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">MobilePhone</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-mobilephone#%3Cinit%3E()">MobilePhone</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String,java.util.List)">MobilePhone</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> phoneNumber,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-mobilephone#%3Cinit%3E(java.lang.String,java.util.List)">MobilePhone</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> phoneNumber,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt; categories)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
@@ -84,10 +84,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-mobilephone"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-mobilephone#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-mobilephone#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -120,8 +120,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-mobilephone"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt;</span> <span class="element-name">categories</span></div>
 <div class="block"><p>Categories associated with phone number.
- Note: In case <a href="sdk-for-android-explore-index#categories"><code>categories</code></a> are not empty, then <a href="sdk-for-android-explore-index#phoneNumber"><code>phoneNumber</code></a> should be used according to given categories.
- Otherwise, <a href="sdk-for-android-explore-index#phoneNumber"><code>phoneNumber</code></a> is meant for general use.</p></div>
+ Note: In case <a href="sdk-for-android-explore-com-here-sdk-search-mobilephone#categories"><code>categories</code></a> are not empty, then <a href="sdk-for-android-explore-com-here-sdk-search-mobilephone#phoneNumber"><code>phoneNumber</code></a> should be used according to given categories.
+ Otherwise, <a href="sdk-for-android-explore-com-here-sdk-search-mobilephone#phoneNumber"><code>phoneNumber</code></a> is meant for general use.</p></div>
 </section>
 </li>
 </ul>
@@ -151,8 +151,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-mobilephone"
 <dt>Parameters:</dt>
 <dd><code>phoneNumber</code> - <p>The phone number.</p></dd>
 <dd><code>categories</code> - <p>Categories associated with phone number.
- Note: In case <a href="sdk-for-android-explore-index#categories"><code>categories</code></a> are not empty, then <a href="sdk-for-android-explore-index#phoneNumber"><code>phoneNumber</code></a> should be used according to given categories.
- Otherwise, <a href="sdk-for-android-explore-index#phoneNumber"><code>phoneNumber</code></a> is meant for general use.</p></dd>
+ Note: In case <a href="sdk-for-android-explore-com-here-sdk-search-mobilephone#categories"><code>categories</code></a> are not empty, then <a href="sdk-for-android-explore-com-here-sdk-search-mobilephone#phoneNumber"><code>phoneNumber</code></a> should be used according to given categories.
+ Otherwise, <a href="sdk-for-android-explore-com-here-sdk-search-mobilephone#phoneNumber"><code>phoneNumber</code></a> is meant for general use.</p></dd>
 </dl>
 </section>
 </li>

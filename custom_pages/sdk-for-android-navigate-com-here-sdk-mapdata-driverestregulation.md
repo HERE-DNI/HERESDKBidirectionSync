@@ -42,22 +42,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#dailyRestMinInMinutes">dailyRestMinInMinutes</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation#dailyRestMinInMinutes">dailyRestMinInMinutes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Minimum daily rest duration in minutes that must be taken.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxDailyDriveTimeInMinutes">maxDailyDriveTimeInMinutes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation#maxDailyDriveTimeInMinutes">maxDailyDriveTimeInMinutes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Maximum continuous or accumulated daily driving time in minutes before a rest is required.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#midDriveRestInMinutes">midDriveRestInMinutes</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation#midDriveRestInMinutes">midDriveRestInMinutes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maximum driving time in minutes allowed before a mid-drive rest must be taken.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#midDriveRestMinInMinutes">midDriveRestMinInMinutes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation#midDriveRestMinInMinutes">midDriveRestMinInMinutes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Minimum duration in minutes of the required mid-drive rest.</div>
 </div>
@@ -72,7 +72,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">DriveRestRegulation</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation#%3Cinit%3E()">DriveRestRegulation</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with default values.</div>
 </div>
@@ -91,10 +91,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

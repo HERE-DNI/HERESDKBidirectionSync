@@ -26,9 +26,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">BorderCrossingWarning</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>A border crossing. The main field describing the border crossing is <a href="sdk-for-android-navigate-index#type"><code>type</code></a> specifying whether the border crossing
- is given for a country border or a state border. The <a href="sdk-for-android-navigate-index#type"><code>type</code></a> must be known.
- The country and state codes are contained in <a href="sdk-for-android-navigate-index#administrativeRules"><code>administrativeRules</code></a> along with other information such as speed
+<div class="block"><p>A border crossing. The main field describing the border crossing is <a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#type"><code>type</code></a> specifying whether the border crossing
+ is given for a country border or a state border. The <a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#type"><code>type</code></a> must be known.
+ The country and state codes are contained in <a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#administrativeRules"><code>administrativeRules</code></a> along with other information such as speed
  limits, u-turn regulations or pre-trip planning information contained by the <a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata"><code>AdministrativeRules</code></a>.
  </p><p>Use <code>BorderCrossingWarningListener</code> to get notifications about upcoming country or state border crossings.</p></div>
 </section>
@@ -44,32 +44,32 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#administrativeRules">administrativeRules</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#administrativeRules">administrativeRules</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The administrative rules for the country or state after the border crossing.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-administrativecommercialvehiclerules" title="class in com.here.sdk.mapdata">AdministrativeCommercialVehicleRules</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#commercialVehicleRegulations">commercialVehicleRegulations</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#commercialVehicleRegulations">commercialVehicleRegulations</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Commercial vehicle regulations for the administrative region after the border crossing.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceToBorderCrossingInMeters">distanceToBorderCrossingInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#distanceToBorderCrossingInMeters">distanceToBorderCrossingInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Distance to the border crossing in meters.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceType">distanceType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The distance type for the warning, e.g.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#id">id</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#id">id</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Unique identifier for this specific border crossing warning instance.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-bordercrossingtype" title="enum class in com.here.sdk.navigation">BorderCrossingType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of border crossing.</div>
 </div>
@@ -84,7 +84,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,com.here.sdk.navigation.BorderCrossingType,com.here.sdk.mapdata.AdministrativeRules,com.here.sdk.navigation.DistanceType)">BorderCrossingWarning</a><wbr/>(double distanceToBorderCrossingInMeters,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#%3Cinit%3E(double,com.here.sdk.navigation.BorderCrossingType,com.here.sdk.mapdata.AdministrativeRules,com.here.sdk.navigation.DistanceType)">BorderCrossingWarning</a><wbr/>(double distanceToBorderCrossingInMeters,
  <a href="sdk-for-android-navigate-bordercrossingtype" title="enum class in com.here.sdk.navigation">BorderCrossingType</a> type,
  <a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a> administrativeRules,
  <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
@@ -106,10 +106,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

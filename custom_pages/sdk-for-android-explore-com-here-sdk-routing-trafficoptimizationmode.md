@@ -53,15 +53,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DISABLED">DISABLED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#DISABLED">DISABLED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Traffic optimization is completely disabled, including long-term road closures.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LONG_TERM_CLOSURES_ONLY">LONG_TERM_CLOSURES_ONLY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#LONG_TERM_CLOSURES_ONLY">LONG_TERM_CLOSURES_ONLY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Only long-term road closures are taken into account.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TIME_DEPENDENT">TIME_DEPENDENT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#TIME_DEPENDENT">TIME_DEPENDENT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Traffic optimization is enabled, the shape of the route will be adjusted according to the traffic situation that
  depends on the <a href="sdk-for-android-explore-routeoptions#departureTime"><code>RouteOptions.departureTime</code></a> or <a href="sdk-for-android-explore-routeoptions#arrivalTime"><code>RouteOptions.arrivalTime</code></a>.</div>
@@ -81,12 +81,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

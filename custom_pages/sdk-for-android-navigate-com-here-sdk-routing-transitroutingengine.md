@@ -34,7 +34,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitroutingengine"
  online connection. The resulting route contains various
  information such as the polyline, route length in meters,
  estimated time to traverse along the route and maneuver data.
- </p><p><strong>Note</strong>: Clients need to explicitly call <a href="sdk-for-android-navigate-index#dispose()"><code>dispose()</code></a> in order to prevent a possible, though
+ </p><p><strong>Note</strong>: Clients need to explicitly call <a href="sdk-for-android-navigate-com-here-sdk-routing-transitroutingengine#dispose()"><code>dispose()</code></a> in order to prevent a possible, though
  unlikely, deadlock on destruction.</p></div>
 </section>
 <section class="summary">
@@ -47,11 +47,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitroutingengine"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">TransitRoutingEngine</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitroutingengine#%3Cinit%3E()">TransitRoutingEngine</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">TransitRoutingEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitroutingengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">TransitRoutingEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of TransitRoutingEngine.</div>
 </div>
@@ -70,7 +70,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitroutingengine"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#calculateRoute(com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitRouteOptions,com.here.sdk.routing.CalculateRouteCallback)">calculateRoute</a><wbr/>(<a href="sdk-for-android-navigate-transitwaypoint" title="class in com.here.sdk.routing">TransitWaypoint</a> startingPoint,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitroutingengine#calculateRoute(com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitRouteOptions,com.here.sdk.routing.CalculateRouteCallback)">calculateRoute</a><wbr/>(<a href="sdk-for-android-navigate-transitwaypoint" title="class in com.here.sdk.routing">TransitWaypoint</a> startingPoint,
  <a href="sdk-for-android-navigate-transitwaypoint" title="class in com.here.sdk.routing">TransitWaypoint</a> destination,
  <a href="sdk-for-android-navigate-transitrouteoptions" title="class in com.here.sdk.routing">TransitRouteOptions</a> routeOptions,
  <a href="sdk-for-android-navigate-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</code></div>
@@ -78,7 +78,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitroutingengine"
 <div class="block">Asynchronously calculates a public transit route from the origin to the destination.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#dispose()">dispose</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitroutingengine#dispose()">dispose</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Cancels pending requests and closes the background worker thread.</div>
 </div>

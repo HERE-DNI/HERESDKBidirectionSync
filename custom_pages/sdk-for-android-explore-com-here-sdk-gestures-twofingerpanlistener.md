@@ -40,7 +40,7 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onTwoFingerPan(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D,com.here.sdk.core.Point2D,double)">onTwoFingerPan</a><wbr/>(<a href="sdk-for-android-explore-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-twofingerpanlistener#onTwoFingerPan(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D,com.here.sdk.core.Point2D,double)">onTwoFingerPan</a><wbr/>(<a href="sdk-for-android-explore-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
  <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> origin,
  <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> translation,
  double velocity)</code></div>

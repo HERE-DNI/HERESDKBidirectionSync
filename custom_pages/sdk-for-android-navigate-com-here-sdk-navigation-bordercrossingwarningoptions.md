@@ -40,12 +40,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarningopt
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#filterOutStateBorderWarnings">filterOutStateBorderWarnings</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarningoptions#filterOutStateBorderWarnings">filterOutStateBorderWarnings</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If set to <code>true</code>, all the state border crossing notifications will not be given.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#includeCommercialVehicleRegulations">includeCommercialVehicleRegulations</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarningoptions#includeCommercialVehicleRegulations">includeCommercialVehicleRegulations</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If set to <code>true</code>, commercial vehicle regulations data will be included in border crossing warnings
  when available.</div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarningopt
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">BorderCrossingWarningOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarningoptions#%3Cinit%3E()">BorderCrossingWarningOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -80,10 +80,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarningopt
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarningoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarningoptions#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -109,7 +109,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarningopt
 <div class="block"><p>If set to <code>true</code>, all the state border crossing notifications will not be given.
  If the value is <code>false</code>, all border crossing notifications will be given for
  both country borders and state borders. By default, the
- <a href="sdk-for-android-navigate-index#filterOutStateBorderWarnings"><code>filterOutStateBorderWarnings</code></a> is set to <code>true</code>.</p></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarningoptions#filterOutStateBorderWarnings"><code>filterOutStateBorderWarnings</code></a> is set to <code>true</code>.</p></div>
 </section>
 </li>
 <li>

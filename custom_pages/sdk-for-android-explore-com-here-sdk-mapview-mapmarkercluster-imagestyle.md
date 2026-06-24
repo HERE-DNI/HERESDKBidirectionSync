@@ -44,13 +44,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#anchor">anchor</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle#anchor">anchor</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The anchor point for the marker image which specifies the position offset relative
  to the cluster's position.</div>
 </div>
 <div class="col-first odd-row-color"><code>final <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#image">image</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle#image">image</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The map image for the cluster marker.</div>
 </div>
@@ -65,11 +65,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.MapImage)">ImageStyle</a><wbr/>(<a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle#%3Cinit%3E(com.here.sdk.mapview.MapImage)">ImageStyle</a><wbr/>(<a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a marker cluster image representation with default anchor.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)">ImageStyle</a><wbr/>(<a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle#%3Cinit%3E(com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)">ImageStyle</a><wbr/>(<a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
  <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a cluster marker image style using a map image with anchor.</div>

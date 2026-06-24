@@ -56,19 +56,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ENGINE_NOT_AVAILABLE">ENGINE_NOT_AVAILABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonerrorcode#ENGINE_NOT_AVAILABLE">ENGINE_NOT_AVAILABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Electronic horizon engine state is not available.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PATH_TREE_INCONSISTENT">PATH_TREE_INCONSISTENT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonerrorcode#PATH_TREE_INCONSISTENT">PATH_TREE_INCONSISTENT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Path tree is inconsistent.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITION_NOT_FOUND">POSITION_NOT_FOUND</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonerrorcode#POSITION_NOT_FOUND">POSITION_NOT_FOUND</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Current position cannot be resolved in the current electronic horizon tree.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITION_OFF_ROAD">POSITION_OFF_ROAD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonerrorcode#POSITION_OFF_ROAD">POSITION_OFF_ROAD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Current position cannot be matched to a road segment.</div>
 </div>
@@ -87,12 +87,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-electronichorizonerrorcode" title="enum class in com.here.sdk.electronichorizon">ElectronicHorizonErrorCode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonerrorcode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-electronichorizonerrorcode" title="enum class in com.here.sdk.electronichorizon">ElectronicHorizonErrorCode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonerrorcode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogresslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRouteProgressUpdated(com.here.sdk.navigation.RouteProgress)">onRouteProgressUpdated</a><wbr/>(<a href="sdk-for-android-navigate-routeprogress" title="class in com.here.sdk.navigation">RouteProgress</a> routeProgress)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogresslistener#onRouteProgressUpdated(com.here.sdk.navigation.RouteProgress)">onRouteProgressUpdated</a><wbr/>(<a href="sdk-for-android-navigate-routeprogress" title="class in com.here.sdk.navigation">RouteProgress</a> routeProgress)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever route progress has been updated.</div>
 </div>

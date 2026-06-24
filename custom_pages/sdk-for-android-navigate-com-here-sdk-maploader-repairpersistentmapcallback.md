@@ -45,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-repairpersistentmapcallba
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onCompleted(com.here.sdk.maploader.PersistentMapRepairError)">onCompleted</a><wbr/>(<a href="sdk-for-android-navigate-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a> persistentMapRepairError)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-repairpersistentmapcallback#onCompleted(com.here.sdk.maploader.PersistentMapRepairError)">onCompleted</a><wbr/>(<a href="sdk-for-android-navigate-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a> persistentMapRepairError)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#repairPersistentMap(com.here.sdk.maploader.RepairPersistentMapCallback)"><code>MapDownloader.repairPersistentMap(com.here.sdk.maploader.RepairPersistentMapCallback)</code></a> has been completed.</div>
 </div>

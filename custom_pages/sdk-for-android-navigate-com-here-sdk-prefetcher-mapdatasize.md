@@ -40,12 +40,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-mapdatasize"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>long</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#diskSizeInBytes">diskSizeInBytes</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-mapdatasize#diskSizeInBytes">diskSizeInBytes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Size on the disk that is needed to store the data.</div>
 </div>
 <div class="col-first odd-row-color"><code>long</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#networkSizeInBytes">networkSizeInBytes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-mapdatasize#networkSizeInBytes">networkSizeInBytes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Size of the data that will be transferred over the internet.</div>
 </div>
@@ -60,7 +60,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-mapdatasize"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">MapDataSize</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-mapdatasize#%3Cinit%3E()">MapDataSize</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>

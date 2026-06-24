@@ -40,12 +40,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venuelifecyclelistene
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onVenueAdded(com.here.sdk.venue.control.Venue)">onVenueAdded</a><wbr/>(<a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> venue)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venuelifecyclelistener#onVenueAdded(com.here.sdk.venue.control.Venue)">onVenueAdded</a><wbr/>(<a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> venue)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Indicates that a <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> was added to the <a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onVenueRemoved(int)">onVenueRemoved</a><wbr/>(int venueId)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venuelifecyclelistener#onVenueRemoved(int)">onVenueRemoved</a><wbr/>(int venueId)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Indicates that a <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> was removed from the <a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a>.</div>
 </div>

@@ -62,11 +62,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-easing"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.animation.EasingFunction)">Easing</a><wbr/>(<a href="sdk-for-android-navigate-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a> easingFunction)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-animation-easing#%3Cinit%3E(com.here.sdk.animation.EasingFunction)">Easing</a><wbr/>(<a href="sdk-for-android-navigate-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a> easingFunction)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a predefined easing function.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.util.List)">Easing</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a>&gt; points)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-animation-easing#%3Cinit%3E(java.util.List)">Easing</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a>&gt; points)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates an instance of customized <a href="sdk-for-android-navigate-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a specified number of points describing an
  easing function.</div>

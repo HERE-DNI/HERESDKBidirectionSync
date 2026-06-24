@@ -33,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype"
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">RoadSignType</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-roadsigntype" title="enum class in com.here.sdk.navigation">RoadSignType</a>&gt;</span></div>
 <div class="block"><p>A road sign type classifying road signs that can appear along a road.
- Some signs are standardized and look the same in all countries, e.g. <a href="sdk-for-android-navigate-index#STOP_SIGN"><code>STOP_SIGN</code></a>.
+ Some signs are standardized and look the same in all countries, e.g. <a href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#STOP_SIGN"><code>STOP_SIGN</code></a>.
  In general, the visual appearance of the road signs can differ across countries.
  Some road signs can be combined with other signs, like <code>WeatherType</code> signs. The road sign will be always shown topmost.</p></div>
 </section>
@@ -56,265 +56,265 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ACCIDENT_HAZARD">ACCIDENT_HAZARD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#ACCIDENT_HAZARD">ACCIDENT_HAZARD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating accident hazard.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ANIMAL_CROSSING">ANIMAL_CROSSING</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#ANIMAL_CROSSING">ANIMAL_CROSSING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating animal crossing.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BICYCLE_CROSSING">BICYCLE_CROSSING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#BICYCLE_CROSSING">BICYCLE_CROSSING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating bicycles crossing.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CONGESTION_HAZARD">CONGESTION_HAZARD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#CONGESTION_HAZARD">CONGESTION_HAZARD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating congestion hazard.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CROSSING_WITH_PRIORITY_FROM_THE_RIGHT">CROSSING_WITH_PRIORITY_FROM_THE_RIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#CROSSING_WITH_PRIORITY_FROM_THE_RIGHT">CROSSING_WITH_PRIORITY_FROM_THE_RIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating crossing with priority from the right.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DOUBLE_HAIRPIN">DOUBLE_HAIRPIN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#DOUBLE_HAIRPIN">DOUBLE_HAIRPIN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating a double hairpin.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EMBANKMENT">EMBANKMENT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#EMBANKMENT">EMBANKMENT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating embankment.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#END_OF_ALL_RESTRICTIONS">END_OF_ALL_RESTRICTIONS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#END_OF_ALL_RESTRICTIONS">END_OF_ALL_RESTRICTIONS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating the end of all restrictions.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#END_OF_LOW_GEAR">END_OF_LOW_GEAR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#END_OF_LOW_GEAR">END_OF_LOW_GEAR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating the use of low gear.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#END_OF_NO_ENGINE_BRAKE">END_OF_NO_ENGINE_BRAKE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#END_OF_NO_ENGINE_BRAKE">END_OF_NO_ENGINE_BRAKE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating the end of no engine brake zone.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#END_OF_NO_OVERTAKING">END_OF_NO_OVERTAKING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#END_OF_NO_OVERTAKING">END_OF_NO_OVERTAKING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating the ending of a no overtaking zone.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#END_OF_NO_OVERTAKING_TRUCKS">END_OF_NO_OVERTAKING_TRUCKS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#END_OF_NO_OVERTAKING_TRUCKS">END_OF_NO_OVERTAKING_TRUCKS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating the end of no overtaking trucks zone.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FALLING_ROCKS">FALLING_ROCKS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#FALLING_ROCKS">FALLING_ROCKS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating falling rocks.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FLOOD_AREA">FLOOD_AREA</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#FLOOD_AREA">FLOOD_AREA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating a flood area.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GENERAL_CURVE">GENERAL_CURVE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#GENERAL_CURVE">GENERAL_CURVE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating a general curve.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GENERAL_HILL">GENERAL_HILL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#GENERAL_HILL">GENERAL_HILL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating a general hill.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GENERAL_WARNING_SIGN">GENERAL_WARNING_SIGN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#GENERAL_WARNING_SIGN">GENERAL_WARNING_SIGN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating a general warning.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HORN_SIGN">HORN_SIGN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#HORN_SIGN">HORN_SIGN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating restriction for horning.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HUMP_BRIDGE">HUMP_BRIDGE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#HUMP_BRIDGE">HUMP_BRIDGE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating a hump bridge.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ICY_CONDITIONS">ICY_CONDITIONS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#ICY_CONDITIONS">ICY_CONDITIONS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating icy conditions.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LANE_MERGE_CENTER">LANE_MERGE_CENTER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#LANE_MERGE_CENTER">LANE_MERGE_CENTER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating merging of the center lane.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LANE_MERGE_LEFT">LANE_MERGE_LEFT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#LANE_MERGE_LEFT">LANE_MERGE_LEFT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating merging of the left lane.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LANE_MERGE_RIGHT">LANE_MERGE_RIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#LANE_MERGE_RIGHT">LANE_MERGE_RIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating merging of the right lane.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LATERAL_WIND">LATERAL_WIND</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#LATERAL_WIND">LATERAL_WIND</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating lateral winds.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LOW_GEAR">LOW_GEAR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#LOW_GEAR">LOW_GEAR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating the use of low gear.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_CAMPER_OR_MOTORHOME_ALLOWED">NO_CAMPER_OR_MOTORHOME_ALLOWED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#NO_CAMPER_OR_MOTORHOME_ALLOWED">NO_CAMPER_OR_MOTORHOME_ALLOWED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating no camper or motorhome allowed.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_ENGINE_BRAKE">NO_ENGINE_BRAKE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#NO_ENGINE_BRAKE">NO_ENGINE_BRAKE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating no engine brake.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_IDLING">NO_IDLING</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#NO_IDLING">NO_IDLING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating no idling.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_TOWED_CARAVAN_ALLOWED">NO_TOWED_CARAVAN_ALLOWED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#NO_TOWED_CARAVAN_ALLOWED">NO_TOWED_CARAVAN_ALLOWED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating no towed caravan allowed.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_TOWED_TRAILER_ALLOWED">NO_TOWED_TRAILER_ALLOWED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#NO_TOWED_TRAILER_ALLOWED">NO_TOWED_TRAILER_ALLOWED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating no towed trailer allowed.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_TURN_ON_RED">NO_TURN_ON_RED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#NO_TURN_ON_RED">NO_TURN_ON_RED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating no turning on red permitted.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OBSTACLE">OBSTACLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#OBSTACLE">OBSTACLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating an obstacle.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PEDESTRIAN_CROSSING">PEDESTRIAN_CROSSING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#PEDESTRIAN_CROSSING">PEDESTRIAN_CROSSING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating pedestrian crossing.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PRIORITY_OVER_ONCOMING_TRAFFIC">PRIORITY_OVER_ONCOMING_TRAFFIC</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#PRIORITY_OVER_ONCOMING_TRAFFIC">PRIORITY_OVER_ONCOMING_TRAFFIC</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating priority over oncoming traffic.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PROTECTED_OVERTAKING_EXTRA_LANE">PROTECTED_OVERTAKING_EXTRA_LANE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#PROTECTED_OVERTAKING_EXTRA_LANE">PROTECTED_OVERTAKING_EXTRA_LANE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating an extra lane for overtaking.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PROTECTED_OVERTAKING_EXTRA_LANE_LEFT_SIDE">PROTECTED_OVERTAKING_EXTRA_LANE_LEFT_SIDE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#PROTECTED_OVERTAKING_EXTRA_LANE_LEFT_SIDE">PROTECTED_OVERTAKING_EXTRA_LANE_LEFT_SIDE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating an extra lane for overtaking on the left side.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PROTECTED_OVERTAKING_EXTRA_LANE_RIGHT_SIDE">PROTECTED_OVERTAKING_EXTRA_LANE_RIGHT_SIDE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#PROTECTED_OVERTAKING_EXTRA_LANE_RIGHT_SIDE">PROTECTED_OVERTAKING_EXTRA_LANE_RIGHT_SIDE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating an extra lane for overtaking on the right side.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RAILWAY_CROSSING_PROTECTED">RAILWAY_CROSSING_PROTECTED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#RAILWAY_CROSSING_PROTECTED">RAILWAY_CROSSING_PROTECTED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating a protected railway crossing.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RAILWAY_CROSSING_UNPROTECTED">RAILWAY_CROSSING_UNPROTECTED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#RAILWAY_CROSSING_UNPROTECTED">RAILWAY_CROSSING_UNPROTECTED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating an unprotected railway crossing.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RISK_OF_GROUNDING">RISK_OF_GROUNDING</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#RISK_OF_GROUNDING">RISK_OF_GROUNDING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating risk of grounding.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ROAD_NARROWS">ROAD_NARROWS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#ROAD_NARROWS">ROAD_NARROWS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating a narrowing road.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SCHOOL_ZONE">SCHOOL_ZONE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#SCHOOL_ZONE">SCHOOL_ZONE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating school zone.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SHARP_CURVE_LEFT">SHARP_CURVE_LEFT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#SHARP_CURVE_LEFT">SHARP_CURVE_LEFT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating a sharp curve to the left.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SHARP_CURVE_RIGHT">SHARP_CURVE_RIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#SHARP_CURVE_RIGHT">SHARP_CURVE_RIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating a sharp curve to the right.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SLIPPERY_ROAD">SLIPPERY_ROAD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#SLIPPERY_ROAD">SLIPPERY_ROAD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating slippery road.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#START_OF_NO_OVERTAKING">START_OF_NO_OVERTAKING</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#START_OF_NO_OVERTAKING">START_OF_NO_OVERTAKING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating the starting of a no overtaking zone.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#START_OF_NO_OVERTAKING_TRUCKS">START_OF_NO_OVERTAKING_TRUCKS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#START_OF_NO_OVERTAKING_TRUCKS">START_OF_NO_OVERTAKING_TRUCKS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating no overtaking trucks.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#STEEP_HILL_DOWNWARDS">STEEP_HILL_DOWNWARDS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#STEEP_HILL_DOWNWARDS">STEEP_HILL_DOWNWARDS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating a steep hill downward.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#STEEP_HILL_UPWARDS">STEEP_HILL_UPWARDS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#STEEP_HILL_UPWARDS">STEEP_HILL_UPWARDS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating a steep hill upwards.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#STOP_SIGN">STOP_SIGN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#STOP_SIGN">STOP_SIGN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating a stop.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRAMWAY_CROSSING">TRAMWAY_CROSSING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#TRAMWAY_CROSSING">TRAMWAY_CROSSING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating a tramway crossing.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRIPLE_HAIRPIN">TRIPLE_HAIRPIN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#TRIPLE_HAIRPIN">TRIPLE_HAIRPIN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating a triple hairpin.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCK_ROLLOVER">TRUCK_ROLLOVER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#TRUCK_ROLLOVER">TRUCK_ROLLOVER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating truck rollover.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TURN_PERMITTED_ON_RED">TURN_PERMITTED_ON_RED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#TURN_PERMITTED_ON_RED">TURN_PERMITTED_ON_RED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating turning on red permitted.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TWO_STAGE_LEFT">TWO_STAGE_LEFT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#TWO_STAGE_LEFT">TWO_STAGE_LEFT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating that turning left requires a two-stage maneuver,
  also known as a hook turn or Copenhagen Left, which is a special maneuver to safely
  make a left turn at an intersection without crossing oncoming traffic.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TWO_STAGE_RIGHT">TWO_STAGE_RIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#TWO_STAGE_RIGHT">TWO_STAGE_RIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating turning right with the specified vehicle type requires a two stage maneuver.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TWO_WAY_TRAFFIC">TWO_WAY_TRAFFIC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#TWO_WAY_TRAFFIC">TWO_WAY_TRAFFIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating two way traffic.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNEVEN_ROAD">UNEVEN_ROAD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#UNEVEN_ROAD">UNEVEN_ROAD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating uneven road.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNKNOWN">UNKNOWN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#UNKNOWN">UNKNOWN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Unknown road sign type</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#URBAN_AREA">URBAN_AREA</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#URBAN_AREA">URBAN_AREA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating urban area.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WINDING_ROAD_STARTING_LEFT">WINDING_ROAD_STARTING_LEFT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#WINDING_ROAD_STARTING_LEFT">WINDING_ROAD_STARTING_LEFT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating a winding road starting left.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WINDING_ROAD_STARTING_RIGHT">WINDING_ROAD_STARTING_RIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#WINDING_ROAD_STARTING_RIGHT">WINDING_ROAD_STARTING_RIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating a winding road starting right.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#YIELD">YIELD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#YIELD">YIELD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating yielding.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#YIELD_TO_BICYCLES">YIELD_TO_BICYCLES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#YIELD_TO_BICYCLES">YIELD_TO_BICYCLES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A sign indicating yielding to bicycles.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#YIELD_TO_ONCOMING_TRAFFIC">YIELD_TO_ONCOMING_TRAFFIC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#YIELD_TO_ONCOMING_TRAFFIC">YIELD_TO_ONCOMING_TRAFFIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A sign indicating yielding to oncoming traffic.</div>
 </div>
@@ -333,12 +333,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-roadsigntype" title="enum class in com.here.sdk.navigation">RoadSignType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-roadsigntype" title="enum class in com.here.sdk.navigation">RoadSignType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsigntype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

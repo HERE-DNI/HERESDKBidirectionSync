@@ -27,8 +27,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-timeofdayrange"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TimeOfDayRange</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Time period when the tariff element is valid, in local time. The time period wraps around to
- the next day, when end time of the period <a href="sdk-for-android-explore-index#to"><code>to</code></a>
- is smaller than the beginning <a href="sdk-for-android-explore-index#from"><code>from</code></a>.
+ the next day, when end time of the period <a href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange#to"><code>to</code></a>
+ is smaller than the beginning <a href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange#from"><code>from</code></a>.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -44,12 +44,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-timeofdayrange"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#from">from</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange#from">from</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Start time of day, in hh:mm:ss format.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#to">to</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange#to">to</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">End time of day, in hh:mm:ss format.</div>
 </div>
@@ -64,7 +64,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-timeofdayrange"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">TimeOfDayRange</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange#%3Cinit%3E()">TimeOfDayRange</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -83,10 +83,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-timeofdayrange"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-timeofdayrange#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

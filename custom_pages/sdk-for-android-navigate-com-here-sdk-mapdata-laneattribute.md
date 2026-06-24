@@ -43,28 +43,28 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-laneattribute"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#access">access</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-laneattribute#access">access</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Access characteristics of the lane that identifies the vehicle type(s) allowed to access a lane.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-lanemarkings" title="class in com.here.sdk.navigation">LaneMarkings</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#markings">markings</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-laneattribute#markings">markings</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicate the markings on the road</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#startOffsetInMeters">startOffsetInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-laneattribute#startOffsetInMeters">startOffsetInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The start offset of the lane in meters from the beginning of the segment</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-tollstructure" title="class in com.here.sdk.mapdata">TollStructure</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#tollStructures">tollStructures</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-laneattribute#tollStructures">tollStructures</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of Toll Structure that identifies the presence of physical toll structures or automatic controls on the lane
  at entry and exit points along a toll road which requires payment (cash, electronic, etc.) or ticket</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-lanetype" title="class in com.here.sdk.navigation">LaneType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-laneattribute#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies the functional and regulatory roles a lane may serve, such as turn, express, HOV, or bike use</div>
 </div>
@@ -79,7 +79,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-laneattribute"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(int,com.here.sdk.navigation.LaneMarkings,com.here.sdk.navigation.LaneAccess,java.util.List)">LaneAttribute</a><wbr/>(int startOffsetInMeters,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-laneattribute#%3Cinit%3E(int,com.here.sdk.navigation.LaneMarkings,com.here.sdk.navigation.LaneAccess,java.util.List)">LaneAttribute</a><wbr/>(int startOffsetInMeters,
  <a href="sdk-for-android-navigate-lanemarkings" title="class in com.here.sdk.navigation">LaneMarkings</a> markings,
  <a href="sdk-for-android-navigate-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a> access,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-tollstructure" title="class in com.here.sdk.mapdata">TollStructure</a>&gt; tollStructures)</code></div>
@@ -101,10 +101,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-laneattribute"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-laneattribute#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-laneattribute#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

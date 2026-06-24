@@ -58,27 +58,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationaccuracy"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BEST_AVAILABLE">BEST_AVAILABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationaccuracy#BEST_AVAILABLE">BEST_AVAILABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The best accuracy available, using all possible sources: satellite, WiFi and Cell positioning.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HUNDREDS_OF_METERS">HUNDREDS_OF_METERS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationaccuracy#HUNDREDS_OF_METERS">HUNDREDS_OF_METERS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Accurate to within hundreds of meters of the desired target.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#KILOMETERS">KILOMETERS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationaccuracy#KILOMETERS">KILOMETERS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Accurate to within kilometers of the desired target.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NAVIGATION">NAVIGATION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationaccuracy#NAVIGATION">NAVIGATION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The default accuracy when navigation is needed, using satellite and WiFi positioning.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SUB_METER_NAVIGATION">SUB_METER_NAVIGATION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationaccuracy#SUB_METER_NAVIGATION">SUB_METER_NAVIGATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Decimeter accurate navigation using satellite and WiFi positioning.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TENS_OF_METERS">TENS_OF_METERS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationaccuracy#TENS_OF_METERS">TENS_OF_METERS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Accurate to within tens of meters of the desired target.</div>
 </div>
@@ -97,12 +97,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationaccuracy"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationaccuracy#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationaccuracy#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -133,8 +133,8 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a></span> <span class="element-name">BEST_AVAILABLE</span></div>
 <div class="block"><p>The best accuracy available, using all possible sources: satellite, WiFi and Cell positioning.
  Additional sensor data may be used for improving positioning accuracy.
- Update frequency may vary between 1 second to about 30 seconds, so this is not the best option for navigation purposes, see <a href="sdk-for-android-navigate-index#NAVIGATION"><code>NAVIGATION</code></a>
- and <a href="sdk-for-android-navigate-index#SUB_METER_NAVIGATION"><code>SUB_METER_NAVIGATION</code></a>.</p></div>
+ Update frequency may vary between 1 second to about 30 seconds, so this is not the best option for navigation purposes, see <a href="sdk-for-android-navigate-com-here-sdk-location-locationaccuracy#NAVIGATION"><code>NAVIGATION</code></a>
+ and <a href="sdk-for-android-navigate-com-here-sdk-location-locationaccuracy#SUB_METER_NAVIGATION"><code>SUB_METER_NAVIGATION</code></a>.</p></div>
 </section>
 </li>
 <li>

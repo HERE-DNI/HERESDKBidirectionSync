@@ -49,7 +49,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <li>the distance of the camera from the look-at target, given as <code>distance</code> in meters or as <code>zoom-level</code></li>
 </ul>
 </p><p><i>Getting the current camera state</i>
-</p><p>The current camera state can be obtained by the <a href="sdk-for-android-navigate-index#getState()"><code>getState()</code></a> call. It contains information about the camera look-at target (geo-coordinates and orientation) in geodetic space.
+</p><p>The current camera state can be obtained by the <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#getState()"><code>getState()</code></a> call. It contains information about the camera look-at target (geo-coordinates and orientation) in geodetic space.
  The values are returned for the current <code>principal point</code>. This can lead to surprising or unexpected values in cases where the camera position/orientation was specified for another screen point,
  e.g. when using <a href="sdk-for-android-navigate-mapcameraupdatefactory#lookAt(com.here.sdk.core.GeoBox)"><code>MapCameraUpdateFactory.lookAt(GeoBox)</code></a> with a view rectangle, whose center does not coincide with the <code>principal point</code>.  In this case, the geo-coordinates of the
  look-at target will differ from the center of the geo-box used in the <code>lookAt</code> call.
@@ -107,15 +107,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 </ul>
 </p><p><i>Changing the Camera</i>
 </p><p>All changes to the camera are encapsulated in camera updates that are created using the methods in the <a href="sdk-for-android-navigate-mapcameraupdatefactory" title="class in com.here.sdk.mapview"><code>MapCameraUpdateFactory</code></a> class.
- </p><p>These updates can then be applied to the <a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a> using <a href="sdk-for-android-navigate-index#applyUpdate(com.here.sdk.mapview.MapCameraUpdate)"><code>applyUpdate(com.here.sdk.mapview.MapCameraUpdate)</code></a>.
+ </p><p>These updates can then be applied to the <a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a> using <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#applyUpdate(com.here.sdk.mapview.MapCameraUpdate)"><code>applyUpdate(com.here.sdk.mapview.MapCameraUpdate)</code></a>.
  </p><p>Camera updates are queued and executed when the next frame is rendered. They are executed in the order in which they were applied.
  </p><p><i>Animating the Camera</i>
 </p><p>Camera updates can be animated by first creating a camera animation using the methods in the <a href="sdk-for-android-navigate-mapcameraanimationfactory" title="class in com.here.sdk.mapview"><code>MapCameraAnimationFactory</code></a> class and then applying this
- animation to the <a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a> using <a href="sdk-for-android-navigate-index#startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)"><code>startAnimation(MapCameraAnimation, AnimationListener)</code></a>.
+ animation to the <a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a> using <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)"><code>startAnimation(MapCameraAnimation, AnimationListener)</code></a>.
  </p><p>Only one camera animation for one camera component at a time is supported. Applying a new animation will cancel the active animation before the new one is started.
  The start position in this case is where ever the active animation happened to be at the time. Different components are camera state (<code>target pose</code> and <code>distance/zoom level/scale</code>)
  and camera projection (<code>field of view</code>, <code>focal length</code> and <code>principal point</code>).
- </p><p>The running animations can also be canceled using <a href="sdk-for-android-navigate-index#cancelAnimations()"><code>cancelAnimations()</code></a> or individual ones using <a href="sdk-for-android-navigate-index#cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)"><code>cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)</code></a>.</p></div>
+ </p><p>The running animations can also be canceled using <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#cancelAnimations()"><code>cancelAnimations()</code></a> or individual ones using <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)"><code>cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -158,60 +158,60 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addListener(com.here.sdk.mapview.MapCameraListener)">addListener</a><wbr/>(<a href="sdk-for-android-navigate-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#addListener(com.here.sdk.mapview.MapCameraListener)">addListener</a><wbr/>(<a href="sdk-for-android-navigate-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a listener to this camera that will be notified on the main thread
  every time the map is redrawn with new camera parameters.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#applyUpdate(com.here.sdk.mapview.MapCameraUpdate)">applyUpdate</a><wbr/>(<a href="sdk-for-android-navigate-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#applyUpdate(com.here.sdk.mapview.MapCameraUpdate)">applyUpdate</a><wbr/>(<a href="sdk-for-android-navigate-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Applies camera update to the map camera.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)">cancelAnimation</a><wbr/>(<a href="sdk-for-android-navigate-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)">cancelAnimation</a><wbr/>(<a href="sdk-for-android-navigate-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Cancels an ongoing camera animation.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#cancelAnimations()">cancelAnimations</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#cancelAnimations()">cancelAnimations</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Cancels any ongoing camera animation.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#dryApplyUpdate(com.here.sdk.mapview.MapCameraUpdate,com.here.sdk.mapview.MapCamera.DryCameraUpdateCallback)">dryApplyUpdate</a><wbr/>(<a href="sdk-for-android-navigate-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#dryApplyUpdate(com.here.sdk.mapview.MapCameraUpdate,com.here.sdk.mapview.MapCamera.DryCameraUpdateCallback)">dryApplyUpdate</a><wbr/>(<a href="sdk-for-android-navigate-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate,
  <a href="sdk-for-android-navigate-mapcamera.drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Computes result of applying camera update without changing state of the map camera.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getBoundingBox()">getBoundingBox</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#getBoundingBox()">getBoundingBox</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current visible map area encompassed in a GeoBox.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapcameralimits" title="class in com.here.sdk.mapview">MapCameraLimits</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getLimits()">getLimits</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#getLimits()">getLimits</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a MapCameraLimits instance that controls limits for the camera settings.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPrincipalPoint()">getPrincipalPoint</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#getPrincipalPoint()">getPrincipalPoint</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the pixel point that determines where the target is placed within the map view.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getState()">getState</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#getState()">getState</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets state of the camera that reflects what is currently drawn inside the map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate)">lookAt</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> target,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate)">lookAt</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> target,
  <a href="sdk-for-android-navigate-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Makes the camera look at the specified geodetic area.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)">lookAt</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> target,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)">lookAt</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> target,
  <a href="sdk-for-android-navigate-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
  <a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewRectangle)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
@@ -219,80 +219,80 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
  where the area should appear inside of the map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lookAt(com.here.sdk.core.GeoCoordinates)">lookAt</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#lookAt(com.here.sdk.core.GeoCoordinates)">lookAt</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Makes the camera look at a new geodetic target, while
  preserving the current orientation and distance to the target.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)">lookAt</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)">lookAt</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target,
  <a href="sdk-for-android-navigate-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
  <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Makes the camera look at the geodetic target with the given zoom and orientation.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMeasure)">lookAt</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMeasure)">lookAt</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target,
  <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Makes the camera look at the geodetic target with the given zoom.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)">orbitBy</a><wbr/>(<a href="sdk-for-android-navigate-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> delta,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)">orbitBy</a><wbr/>(<a href="sdk-for-android-navigate-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> delta,
  <a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Orbits the camera around a specified view point by increasing tilt and bearing by specified
  delta values.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeListener(com.here.sdk.mapview.MapCameraListener)">removeListener</a><wbr/>(<a href="sdk-for-android-navigate-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a> observer)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#removeListener(com.here.sdk.mapview.MapCameraListener)">removeListener</a><wbr/>(<a href="sdk-for-android-navigate-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a> observer)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes the listener from the camera.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeListeners()">removeListeners</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#removeListeners()">removeListeners</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes all registered listeners.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setDistanceToTarget(double)">setDistanceToTarget</a><wbr/>(double distanceInMeters)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#setDistanceToTarget(double)">setDistanceToTarget</a><wbr/>(double distanceInMeters)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Makes the camera look at current target from certain distance</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setFarPlaneConfiguration(java.util.Map)">setFarPlaneConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a href="sdk-for-android-navigate-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a>&gt; configs)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#setFarPlaneConfiguration(java.util.Map)">setFarPlaneConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a href="sdk-for-android-navigate-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a>&gt; configs)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets far plane distance configs per zoom level.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setOrientationAtTarget(com.here.sdk.core.GeoOrientationUpdate)">setOrientationAtTarget</a><wbr/>(<a href="sdk-for-android-navigate-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#setOrientationAtTarget(com.here.sdk.core.GeoOrientationUpdate)">setOrientationAtTarget</a><wbr/>(<a href="sdk-for-android-navigate-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Changes camera orientation in relation to target location.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setPrincipalPoint(com.here.sdk.core.Point2D)">setPrincipalPoint</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#setPrincipalPoint(com.here.sdk.core.Point2D)">setPrincipalPoint</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the pixel point that determines where the target appears within the map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#startAnimation(com.here.sdk.mapview.MapCameraAnimation)">startAnimation</a><wbr/>(<a href="sdk-for-android-navigate-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#startAnimation(com.here.sdk.mapview.MapCameraAnimation)">startAnimation</a><wbr/>(<a href="sdk-for-android-navigate-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Starts a given camera animation.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)">startAnimation</a><wbr/>(<a href="sdk-for-android-navigate-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)">startAnimation</a><wbr/>(<a href="sdk-for-android-navigate-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation,
  <a href="sdk-for-android-navigate-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Starts a given camera animation.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#zoomBy(double,com.here.sdk.core.Point2D)">zoomBy</a><wbr/>(double factor,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#zoomBy(double,com.here.sdk.core.Point2D)">zoomBy</a><wbr/>(double factor,
  <a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Zooms in or out by a specified factor.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#zoomTo(double)">zoomTo</a><wbr/>(double zoomLevel)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#zoomTo(double)">zoomTo</a><wbr/>(double zoomLevel)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Zooms to the specified zoom level.</div>
 </div>

@@ -43,18 +43,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexcept
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#closed">closed</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexception#closed">closed</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">True if the charging location is closed on particular date, in which case
- <a href="sdk-for-android-navigate-index#periods"><code>periods</code></a> is empty.</div>
+ <a href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexception#periods"><code>periods</code></a> is empty.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#date">date</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexception#date">date</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Date of special opening hours.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#periods">periods</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexception#periods">periods</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A list of time periods when the charging location is open on the specified date.</div>
 </div>
@@ -69,7 +69,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexcept
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">EVChargingOpeningHoursException</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexception#%3Cinit%3E()">EVChargingOpeningHoursException</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -88,10 +88,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexcept
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexception#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexception#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -134,7 +134,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexcept
 <h3>closed</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">closed</span></div>
 <div class="block"><p>True if the charging location is closed on particular date, in which case
- <a href="sdk-for-android-navigate-index#periods"><code>periods</code></a> is empty.</p></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexception#periods"><code>periods</code></a> is empty.</p></div>
 </section>
 </li>
 </ul>

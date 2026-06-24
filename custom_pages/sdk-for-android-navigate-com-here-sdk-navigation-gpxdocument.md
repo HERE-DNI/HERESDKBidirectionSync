@@ -45,12 +45,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-gpxdocument"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.navigation.GPXOptions)">GPXDocument</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> gpxFilePath,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-gpxdocument#%3Cinit%3E(java.lang.String,com.here.sdk.navigation.GPXOptions)">GPXDocument</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> gpxFilePath,
  <a href="sdk-for-android-navigate-gpxoptions" title="class in com.here.sdk.navigation">GPXOptions</a> options)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Create a GPX document from a file.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.util.List)">GPXDocument</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation">GPXTrack</a>&gt; tracks)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-gpxdocument#%3Cinit%3E(java.util.List)">GPXDocument</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation">GPXTrack</a>&gt; tracks)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Create a GPX document from a list of GPX tracks.</div>
 </div>
@@ -69,23 +69,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-gpxdocument"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addTrack(com.here.sdk.navigation.GPXTrack)">addTrack</a><wbr/>(<a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation">GPXTrack</a> trackToAdd)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-gpxdocument#addTrack(com.here.sdk.navigation.GPXTrack)">addTrack</a><wbr/>(<a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation">GPXTrack</a> trackToAdd)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Add track to GPX document.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-gpxdocument" title="class in com.here.sdk.navigation">GPXDocument</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#fromString(java.lang.String,com.here.sdk.navigation.GPXOptions)">fromString</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> content,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-gpxdocument#fromString(java.lang.String,com.here.sdk.navigation.GPXOptions)">fromString</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> content,
  <a href="sdk-for-android-navigate-gpxoptions" title="class in com.here.sdk.navigation">GPXOptions</a> options)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Create a GPX document from a string.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation">GPXTrack</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTracks()">getTracks</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-gpxdocument#getTracks()">getTracks</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the tracks stored in this GPX document.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#save(java.lang.String)">save</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> gpxFilePath)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-gpxdocument#save(java.lang.String)">save</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> gpxFilePath)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Saves the document to a file.</div>
 </div>
@@ -171,7 +171,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-gpxdocument"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">save</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> gpxFilePath)</span></div>
 <div class="block"><p>Saves the document to a file.
- For saving the <a href="sdk-for-android-navigate-index#getTracks()"><code>getTracks()</code></a> modification before writing to a file, use <a href="sdk-for-android-navigate-gpxtrackwriter" title="class in com.here.sdk.navigation"><code>GPXTrackWriter</code></a>.</p></div>
+ For saving the <a href="sdk-for-android-navigate-com-here-sdk-navigation-gpxdocument#getTracks()"><code>getTracks()</code></a> modification before writing to a file, use <a href="sdk-for-android-navigate-gpxtrackwriter" title="class in com.here.sdk.navigation"><code>GPXTrackWriter</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>gpxFilePath</code> - <p>The file path where the GPX document will be saved.</p></dd>

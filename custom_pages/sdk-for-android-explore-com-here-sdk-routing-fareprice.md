@@ -40,32 +40,32 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fareprice"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#currency">currency</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-fareprice#currency">currency</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Local currency of the price compliant to ISO 4217.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#estimated">estimated</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-fareprice#estimated">estimated</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><code>True</code> when the fare price is estimated based on best guess and the actual price may differ.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maximum">maximum</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-fareprice#maximum">maximum</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maximum price when the price is of <a href="sdk-for-android-explore-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#minimum">minimum</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-fareprice#minimum">minimum</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Minimum price when the price is of <a href="sdk-for-android-explore-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-farepricetype" title="enum class in com.here.sdk.routing">FarePriceType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#type">type</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-fareprice#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of price represented by this object.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#validityPeriod">validityPeriod</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-fareprice#validityPeriod">validityPeriod</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">When set, the price is paid for a specific duration.</div>
 </div>
@@ -80,7 +80,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fareprice"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">FarePrice</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-fareprice#%3Cinit%3E()">FarePrice</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -99,10 +99,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fareprice"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-fareprice#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-fareprice#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -152,7 +152,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fareprice"
 <h3>minimum</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">minimum</span></div>
 <div class="block"><p>Minimum price when the price is of <a href="sdk-for-android-explore-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type. Otherwise, it is
- equal to <a href="sdk-for-android-explore-index#maximum"><code>maximum</code></a>.
+ equal to <a href="sdk-for-android-explore-com-here-sdk-routing-fareprice#maximum"><code>maximum</code></a>.
  Defaults to 0.</p></div>
 </section>
 </li>
@@ -161,7 +161,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fareprice"
 <h3>maximum</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">maximum</span></div>
 <div class="block"><p>Maximum price when the price is of <a href="sdk-for-android-explore-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type. Otherwise, it is
- equal to <a href="sdk-for-android-explore-index#minimum"><code>minimum</code></a>.
+ equal to <a href="sdk-for-android-explore-com-here-sdk-routing-fareprice#minimum"><code>minimum</code></a>.
  Defaults to 0.</p></div>
 </section>
 </li>

@@ -40,7 +40,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venuedrawingselection
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onDrawingSelected(com.here.sdk.venue.control.Venue,com.here.sdk.venue.data.VenueDrawing,com.here.sdk.venue.data.VenueDrawing)">onDrawingSelected</a><wbr/>(<a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> venue,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venuedrawingselectionlistener#onDrawingSelected(com.here.sdk.venue.control.Venue,com.here.sdk.venue.data.VenueDrawing,com.here.sdk.venue.data.VenueDrawing)">onDrawingSelected</a><wbr/>(<a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> venue,
  <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> deselectedDrawing,
  <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> selectedDrawing)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">

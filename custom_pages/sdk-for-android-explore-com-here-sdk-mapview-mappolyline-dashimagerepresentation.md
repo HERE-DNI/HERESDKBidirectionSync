@@ -42,11 +42,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagereprese
  points along the polyline. For rendering them without any distortions, polyline gets sliced into
  series of straight segments that are multiple of sum of dash and gap lengths. For this
  reason, the new polyline geometry might not align fully with original geometry.
- </p><p>The <a href="sdk-for-android-explore-index#getDashImage()"><code>getDashImage()</code></a> is stretched according to <a href="sdk-for-android-explore-index#getDashLength()"><code>getDashLength()</code></a>
- and <a href="sdk-for-android-explore-index#getDashWidth()"><code>getDashWidth()</code></a>, with image's width matched to <code>dashLength</code> and
+ </p><p>The <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation#getDashImage()"><code>getDashImage()</code></a> is stretched according to <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation#getDashLength()"><code>getDashLength()</code></a>
+ and <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation#getDashWidth()"><code>getDashWidth()</code></a>, with image's width matched to <code>dashLength</code> and
  image's height matched to <code>dashWidth</code>. The image is oriented so that its bottom is on the
  left-hand side between vertices <code>n</code> and <code>n+1</code>.
- </p><p>The spacing between images is specified by <a href="sdk-for-android-explore-index#getGapLength()"><code>getGapLength()</code></a>.
+ </p><p>The spacing between images is specified by <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation#getGapLength()"><code>getGapLength()</code></a>.
  </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -69,14 +69,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagereprese
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)">DashImageRepresentation</a><wbr/>(<a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> dashLength,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)">DashImageRepresentation</a><wbr/>(<a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> dashLength,
  <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> dashWidth,
  <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a uniform dash pattern in which the length of a gap is the same as the length of
  a dash.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)">DashImageRepresentation</a><wbr/>(<a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> dashLength,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)">DashImageRepresentation</a><wbr/>(<a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> dashLength,
  <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> gapLength,
  <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> dashWidth,
  <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</code></div>
@@ -98,22 +98,22 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagereprese
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getDashImage()">getDashImage</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation#getDashImage()">getDashImage</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the image that is rendered in place of dash space.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getDashLength()">getDashLength</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation#getDashLength()">getDashLength</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the map measure dependent length of a dash, to which image width is stretched.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getDashWidth()">getDashWidth</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation#getDashWidth()">getDashWidth</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the map measure dependent width of a dash, to which image height is stretched.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getGapLength()">getGapLength</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation#getGapLength()">getGapLength</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the map measure dependent length of a gap between dash images.</div>
 </div>

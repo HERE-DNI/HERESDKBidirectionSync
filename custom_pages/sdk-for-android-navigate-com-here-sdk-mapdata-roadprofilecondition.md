@@ -42,72 +42,72 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isControlledAccess">isControlledAccess</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#isControlledAccess">isControlledAccess</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If true, applies only to controlled access roads.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isLimitedAccessRoad">isLimitedAccessRoad</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#isLimitedAccessRoad">isLimitedAccessRoad</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If true, applies only to limited access roads.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isMotorisedVehiclesOnly">isMotorisedVehiclesOnly</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#isMotorisedVehiclesOnly">isMotorisedVehiclesOnly</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If true, applies only to motorised vehicles only roads.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isMultiplyDigitilized">isMultiplyDigitilized</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#isMultiplyDigitilized">isMultiplyDigitilized</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If true, applies only to multiply digitized roads.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isPriorityRoad">isPriorityRoad</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#isPriorityRoad">isPriorityRoad</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If true, applies only to priority roads.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isRoadLegallyDivided">isRoadLegallyDivided</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#isRoadLegallyDivided">isRoadLegallyDivided</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If true, applies only to legally divided roads.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isRoadPhysicallyDivided">isRoadPhysicallyDivided</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#isRoadPhysicallyDivided">isRoadPhysicallyDivided</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If true, applies only to physically divided roads.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isRural">isRural</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#isRural">isRural</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If true, applies only to rural roads.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isUnpaved">isUnpaved</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#isUnpaved">isUnpaved</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If true, applies only to unpaved roads.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isUrban">isUrban</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#isUrban">isUrban</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If true, applies only to urban roads.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#requiredFunctionalClasses">requiredFunctionalClasses</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#requiredFunctionalClasses">requiredFunctionalClasses</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Functional road classes on which the regulation applies.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#requiredNumberOfLanes">requiredNumberOfLanes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#requiredNumberOfLanes">requiredNumberOfLanes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Range of lane counts for which the regulation applies.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-routetype" title="enum class in com.here.sdk.core">RouteType</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#requiredRouteLevels">requiredRouteLevels</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#requiredRouteLevels">requiredRouteLevels</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Route levels on which the regulation applies.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#roadType">roadType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#roadType">roadType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Required road type for the regulation to apply.</div>
 </div>
@@ -122,7 +122,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapdata.CommercialVehicleRoadType,com.here.sdk.core.IntegerRange)">RoadProfileCondition</a><wbr/>(<a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a> roadType,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#%3Cinit%3E(com.here.sdk.mapdata.CommercialVehicleRoadType,com.here.sdk.core.IntegerRange)">RoadProfileCondition</a><wbr/>(<a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a> roadType,
  <a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredNumberOfLanes)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with specified parameters.</div>
@@ -142,10 +142,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification-scoo
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">ScooterBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification-scooterbuilder#%3Cinit%3E()">ScooterBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -63,18 +63,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification-scoo
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#build()">build</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification-scooterbuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Builds the <a href="sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> object for <a href="sdk-for-android-navigate-transportmode#SCOOTER"><code>TransportMode.SCOOTER</code></a> with the specifications taken
  from the <a href="sdk-for-android-navigate-vehiclespecification.scooterbuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.ScooterBuilder</code></a> object.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-vehiclespecification.scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters</a><wbr/>(int engineSizeInCubicCentimeters)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification-scooterbuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters</a><wbr/>(int engineSizeInCubicCentimeters)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle engine size in cubic centimeters.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-vehiclespecification.scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withOccupancy(int)">withOccupancy</a><wbr/>(int occupancy)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification-scooterbuilder#withOccupancy(int)">withOccupancy</a><wbr/>(int occupancy)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle occupants number.</div>
 </div>

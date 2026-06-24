@@ -44,32 +44,32 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#airDragCoefficient">airDragCoefficient</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#airDragCoefficient">airDragCoefficient</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The drag coefficient of an vehicle defines the way the vehicle is expected to pass through the surrounding air.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#auxiliaryPowerConsumptionInWatts">auxiliaryPowerConsumptionInWatts</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#auxiliaryPowerConsumptionInWatts">auxiliaryPowerConsumptionInWatts</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Power (in W) consumed by the vehicle's auxiliary systems (for example, air conditioning, lights).</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#driveTrainEfficiency">driveTrainEfficiency</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#driveTrainEfficiency">driveTrainEfficiency</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The proportion of the energy drawn from the battery that is used to move the vehicle.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#frontalAreaInSquareMeters">frontalAreaInSquareMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#frontalAreaInSquareMeters">frontalAreaInSquareMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#recuperationEfficiency">recuperationEfficiency</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#recuperationEfficiency">recuperationEfficiency</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The proportion of the energy gained when braking or going downhill that can be recuperated and restored as battery charge.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#rollingResistanceCoefficient">rollingResistanceCoefficient</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#rollingResistanceCoefficient">rollingResistanceCoefficient</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Rolling resistance refers to the resistance experienced by your vehicle tire as it rolls over a surface.</div>
 </div>
@@ -84,7 +84,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">PhysicalConsumptionModel</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#%3Cinit%3E()">PhysicalConsumptionModel</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -103,10 +103,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-physicalconsumptionmodel#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

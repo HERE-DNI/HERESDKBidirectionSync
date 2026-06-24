@@ -33,7 +33,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d"
  <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a>.
  </p><p>By default, a 3D marker is drawn on top of all map content, including
  3D map elements like extruded buildings or 3D landmarks. This can be
- changed by enabling depth check using <a href="sdk-for-android-explore-index#setDepthCheckEnabled(boolean)"><code>setDepthCheckEnabled(boolean)</code></a>.
+ changed by enabling depth check using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setDepthCheckEnabled(boolean)"><code>setDepthCheckEnabled(boolean)</code></a>.
  </p><p>The display of a 3D marker is only guaranteed in case its origin is within
  the viewport. At the moment, this is a known limitation that mostly affects
  a 3D marker that is visually large and covers a sizeable part of the viewport.
@@ -57,20 +57,20 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d"
  the same regardless of the size or resolution of the display.
  </p><p>The second aspect that determines size of <code>MapMarker3D</code> is scale.
  It can be specified at construction time and can be changed later
- at any time using <a href="sdk-for-android-explore-index#setScale(double)"><code>setScale(double)</code></a>.
+ at any time using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setScale(double)"><code>setScale(double)</code></a>.
  
 </p><p>A 3D marker can be moved around a map by updating its coordinates using
- <a href="sdk-for-android-explore-index#setCoordinates(com.here.sdk.core.GeoCoordinates)"><code>setCoordinates(com.here.sdk.core.GeoCoordinates)</code></a>.
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setCoordinates(com.here.sdk.core.GeoCoordinates)"><code>setCoordinates(com.here.sdk.core.GeoCoordinates)</code></a>.
  </p><p>Altitude component of the coordinates, if set, controls 3D marker's elevation
  above ground. If not set, the 3D marker is placed at ground level.
  </p><p>Its orientation is specified by bearing, pitch and roll and can be changed
- by using <a href="sdk-for-android-explore-index#setBearing(double)"><code>setBearing(double)</code></a>, <a href="sdk-for-android-explore-index#setPitch(double)"><code>setPitch(double)</code></a>
- and <a href="sdk-for-android-explore-index#setRoll(double)"><code>setRoll(double)</code></a>.
+ by using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setBearing(double)"><code>setBearing(double)</code></a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setPitch(double)"><code>setPitch(double)</code></a>
+ and <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setRoll(double)"><code>setRoll(double)</code></a>.
  
 </p><p>A flat marker is a special case of a 3D marker, where the 3D shape being drawn
  is a simple textured rectangle. In essence it's an image drawn "on the ground".
  Such 3D marker can be conveniently created using
- <a href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,double,com.here.sdk.mapview.RenderSize.Unit)"><code>MapMarker3D(GeoCoordinates, MapImage, double, RenderSize.Unit)</code></a>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,double,com.here.sdk.mapview.RenderSize.Unit)"><code>MapMarker3D(GeoCoordinates, MapImage, double, RenderSize.Unit)</code></a>
  constructor. Of course, once created, it can be rotated to face any direction.</p></div>
 </section>
 <section class="summary">
@@ -83,25 +83,25 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,double,com.here.sdk.mapview.RenderSize.Unit)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,double,com.here.sdk.mapview.RenderSize.Unit)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
  <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
  double scale,
  <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> unit)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a flat marker from provided map image.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
  <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates an instance of a 3D marker.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
  <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
  double scale)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of a 3D marker with scale factor.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.RenderSize.Unit)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.RenderSize.Unit)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
  <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
  double scale,
  <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> unit)</code></div>
@@ -123,106 +123,106 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getBearing()">getBearing</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getBearing()">getBearing</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the bearing of the 3D model in degrees.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getCoordinates()">getCoordinates</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getCoordinates()">getCoordinates</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the 3D marker's position on the map corresponding to the origin of the 3D marker model
  coordinate system.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getMetadata()">getMetadata</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getMetadata()">getMetadata</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getOpacity()">getOpacity</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getOpacity()">getOpacity</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns an opacity factor which specifies the translucency of a 3D map marker.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getPitch()">getPitch</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getPitch()">getPitch</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the pitch of the 3D model in degrees.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getRoll()">getRoll</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getRoll()">getRoll</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the roll of the 3D model in degrees.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getScale()">getScale</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getScale()">getScale</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the scale factor applied to the 3D model before rendering.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getVisibilityRanges()">getVisibilityRanges</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getVisibilityRanges()">getVisibilityRanges</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the list of visibility ranges.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#isDepthCheckEnabled()">isDepthCheckEnabled</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#isDepthCheckEnabled()">isDepthCheckEnabled</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns <code>true</code> if depth check is enabled.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#isRenderInternalsEnabled()">isRenderInternalsEnabled</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#isRenderInternalsEnabled()">isRenderInternalsEnabled</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns a flag indicating whether to render internal geometry of a 3D marker occluded by its front
  facing polygons.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setBearing(double)">setBearing</a><wbr/>(double value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setBearing(double)">setBearing</a><wbr/>(double value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the bearing of the 3D model in degrees.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setCoordinates(com.here.sdk.core.GeoCoordinates)">setCoordinates</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setCoordinates(com.here.sdk.core.GeoCoordinates)">setCoordinates</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the 3D marker's position on the map corresponding to the origin of the 3D marker model
  coordinate system.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setDepthCheckEnabled(boolean)">setDepthCheckEnabled</a><wbr/>(boolean value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setDepthCheckEnabled(boolean)">setDepthCheckEnabled</a><wbr/>(boolean value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Set whether the depth of the 3D marker's vertices is considered during rendering.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setMetadata(com.here.sdk.core.Metadata)">setMetadata</a><wbr/>(<a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setMetadata(com.here.sdk.core.Metadata)">setMetadata</a><wbr/>(<a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setOpacity(double)">setOpacity</a><wbr/>(double value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setOpacity(double)">setOpacity</a><wbr/>(double value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets an opacity factor which specifies the translucency of a 3D map marker.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setPitch(double)">setPitch</a><wbr/>(double value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setPitch(double)">setPitch</a><wbr/>(double value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the pitch of the 3D model in degrees.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setRenderInternalsEnabled(boolean)">setRenderInternalsEnabled</a><wbr/>(boolean value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setRenderInternalsEnabled(boolean)">setRenderInternalsEnabled</a><wbr/>(boolean value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a flag indicating whether to render internal geometry of a 3D marker occluded by its front
  facing polygons.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setRoll(double)">setRoll</a><wbr/>(double value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setRoll(double)">setRoll</a><wbr/>(double value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the roll of the 3D model in degrees.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setScale(double)">setScale</a><wbr/>(double value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setScale(double)">setScale</a><wbr/>(double value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the scale factor, to be applied to the 3D model before rendering.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setVisibilityRanges(java.util.List)">setVisibilityRanges</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setVisibilityRanges(java.util.List)">setVisibilityRanges</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets visibility ranges for this 3D marker.</div>
 </div>
@@ -543,7 +543,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d"
  </p><p>If set to <code>false</code>, the 3D marker will always appear in front of any other map objects.
  If set to <code>true</code> the 3D marker might be occluded by other map objects like extruded buildings.
  </p><p>By default depth check is set to <code>false</code>.
- </p><p>Use the altitude of the <a href="sdk-for-android-explore-index#getCoordinates()"><code>getCoordinates()</code></a> to position the 3D marker sufficiently high above the
+ </p><p>Use the altitude of the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getCoordinates()"><code>getCoordinates()</code></a> to position the 3D marker sufficiently high above the
  surface. Setting depth check to <code>true</code> will fix visual glitches where components of the marker
  3D model unexpectedly shine through.</p></div>
 <dl class="notes">
@@ -560,7 +560,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d"
  </p><p>If set to <code>false</code>, the 3D marker will always appear in front of any other map objects.
  If set to <code>true</code> the 3D marker might be occluded by other map objects like extruded buildings.
  </p><p>By default depth check is set to <code>false</code>.
- </p><p>Use the altitude of the <a href="sdk-for-android-explore-index#getCoordinates()"><code>getCoordinates()</code></a> to position the 3D marker sufficiently high above the
+ </p><p>Use the altitude of the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getCoordinates()"><code>getCoordinates()</code></a> to position the 3D marker sufficiently high above the
  surface. Setting depth check to <code>true</code> will fix visual glitches where components of the marker
  3D model unexpectedly shine through.</p></div>
 <dl class="notes">

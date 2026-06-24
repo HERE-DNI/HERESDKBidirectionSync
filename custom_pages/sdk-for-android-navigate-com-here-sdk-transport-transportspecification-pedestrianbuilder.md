@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pe
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">PedestrianBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pedestrianbuilder#%3Cinit%3E()">PedestrianBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -63,13 +63,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pe
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#build()">build</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pedestrianbuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Builds the <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a pedestrian profile with the specifications taken
  from the <a href="sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a> object.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withPedestrianSpecification(com.here.sdk.transport.PedestrianSpecification)">withPedestrianSpecification</a><wbr/>(<a href="sdk-for-android-navigate-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a> pedestrianSpecification)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-pedestrianbuilder#withPedestrianSpecification(com.here.sdk.transport.PedestrianSpecification)">withPedestrianSpecification</a><wbr/>(<a href="sdk-for-android-navigate-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a> pedestrianSpecification)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the pedestrian specification.</div>
 </div>

@@ -42,32 +42,32 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-segmentreference"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#localId">localId</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#localId">localId</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Local ID of the segment inside the OCM tile.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#offsetEnd">offsetEnd</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#offsetEnd">offsetEnd</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The end offset is a non-negative number between 0 and 1, representing the end of the referenced range using a proportion of the length of the segment.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#offsetStart">offsetStart</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#offsetStart">offsetStart</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The start offset is a non-negative number between 0 and 1, representing the start of the referenced range using a proportion of the length of the segment.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#segmentId">segmentId</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#segmentId">segmentId</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Topology segment id representing a unique identifier within the HERE platform catalogs.</div>
 </div>
 <div class="col-first even-row-color"><code>long</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#tilePartitionId">tilePartitionId</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#tilePartitionId">tilePartitionId</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">HERE tile partition id (Morton-encoding + level indicator) of the segment.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#travelDirection">travelDirection</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#travelDirection">travelDirection</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Travel direction of the segment.</div>
 </div>
@@ -82,33 +82,33 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-segmentreference"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">SegmentReference</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#%3Cinit%3E()">SegmentReference</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#%3Cinit%3E(java.lang.String)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
  <a href="sdk-for-android-explore-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
  <a href="sdk-for-android-explore-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
  double offsetStart)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double,double)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double,double)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
  <a href="sdk-for-android-explore-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
  double offsetStart,
  double offsetEnd)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
  <a href="sdk-for-android-explore-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
  double offsetStart,
  double offsetEnd,
@@ -116,7 +116,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-segmentreference"
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long,java.lang.Long)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#%3Cinit%3E(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long,java.lang.Long)">SegmentReference</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentId,
  <a href="sdk-for-android-explore-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection,
  double offsetStart,
  double offsetEnd,
@@ -140,15 +140,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-segmentreference"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#fromString(java.lang.String)">fromString</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentRef)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#fromString(java.lang.String)">fromString</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> segmentRef)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an instance of this struct from a string if it's well-formatted, <code>null</code> otherwise.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-segmentreference#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

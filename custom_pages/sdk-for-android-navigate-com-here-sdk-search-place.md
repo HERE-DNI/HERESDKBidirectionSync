@@ -44,72 +44,72 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-place"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search">Place</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#deserialize(java.lang.String)">deserialize</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> serializedPlace)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#deserialize(java.lang.String)">deserialize</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> serializedPlace)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns a <a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search"><code>Place</code></a> created from serialized string.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getAccessPoints()">getAccessPoints</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#getAccessPoints()">getAccessPoints</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the access points to the place, such as the points on a road or in a parking lot.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-address" title="class in com.here.sdk.search">Address</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getAddress()">getAddress</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#getAddress()">getAddress</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the address of the place.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-areatype" title="enum class in com.here.sdk.search">AreaType</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getAreaType()">getAreaType</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#getAreaType()">getAreaType</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the area type.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getBoundingBox()">getBoundingBox</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#getBoundingBox()">getBoundingBox</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the geographic coordinates of the bounding box containing the place.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-details" title="class in com.here.sdk.search">Details</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDetails()">getDetails</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#getDetails()">getDetails</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the place's detailed information.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDistanceInMeters()">getDistanceInMeters</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#getDistanceInMeters()">getDistanceInMeters</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the distance from the search center to the place in meters.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getGeoCoordinates()">getGeoCoordinates</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#getGeoCoordinates()">getGeoCoordinates</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the geographic coordinates of the place.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getId()">getId</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#getId()">getId</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the unique id of this resource.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-placetype" title="enum class in com.here.sdk.search">PlaceType</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPlaceType()">getPlaceType</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#getPlaceType()">getPlaceType</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the place type.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPoliticalView()">getPoliticalView</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#getPoliticalView()">getPoliticalView</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the geopolitical view, defined as a three letter country code, each disputed territory has international and alternative views.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTitle()">getTitle</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#getTitle()">getTitle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the localized title for the resource.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isCoordinatesInterpolated()">isCoordinatesInterpolated</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#isCoordinatesInterpolated()">isCoordinatesInterpolated</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the flag saying whether the coordinates of the house number were interpolated or not.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#serializeCompact()">serializeCompact</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-place#serializeCompact()">serializeCompact</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Serializes <a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search"><code>Place</code></a> to persist or transfer.</div>
 </div>
@@ -137,12 +137,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-place"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">serializeCompact</span>()</div>
 <div class="block"><p>Serializes <a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search"><code>Place</code></a> to persist or transfer. Preserves limited amount of data:
  <ul>
-<li><a href="sdk-for-android-navigate-index#getTitle()"><code>getTitle()</code></a></li>
-<li><a href="sdk-for-android-navigate-index#getId()"><code>getId()</code></a></li>
-<li><a href="sdk-for-android-navigate-index#getGeoCoordinates()"><code>getGeoCoordinates()</code></a></li>
-<li><a href="sdk-for-android-navigate-index#getAccessPoints()"><code>getAccessPoints()</code></a></li>
-<li><a href="sdk-for-android-navigate-index#getPlaceType()"><code>getPlaceType()</code></a></li>
-<li><a href="sdk-for-android-navigate-index#getBoundingBox()"><code>getBoundingBox()</code></a></li>
+<li><a href="sdk-for-android-navigate-com-here-sdk-search-place#getTitle()"><code>getTitle()</code></a></li>
+<li><a href="sdk-for-android-navigate-com-here-sdk-search-place#getId()"><code>getId()</code></a></li>
+<li><a href="sdk-for-android-navigate-com-here-sdk-search-place#getGeoCoordinates()"><code>getGeoCoordinates()</code></a></li>
+<li><a href="sdk-for-android-navigate-com-here-sdk-search-place#getAccessPoints()"><code>getAccessPoints()</code></a></li>
+<li><a href="sdk-for-android-navigate-com-here-sdk-search-place#getPlaceType()"><code>getPlaceType()</code></a></li>
+<li><a href="sdk-for-android-navigate-com-here-sdk-search-place#getBoundingBox()"><code>getBoundingBox()</code></a></li>
 <li><a href="sdk-for-android-navigate-details#getPrimaryCategories()"><code>Details.getPrimaryCategories()</code></a></li>
 <li><a href="sdk-for-android-navigate-address#addressText"><code>Address.addressText</code></a></li>
 <li><a href="sdk-for-android-navigate-address#countryCode"><code>Address.countryCode</code></a></li>
@@ -214,10 +214,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-place"
 <h3>getAreaType</h3>
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-areatype" title="enum class in com.here.sdk.search">AreaType</a></span> <span class="element-name">getAreaType</span>()</div>
-<div class="block"><p>Gets the area type. It is available only when the <a href="sdk-for-android-navigate-index#getPlaceType()"><code>getPlaceType()</code></a> is <a href="sdk-for-android-navigate-placetype#AREA"><code>PlaceType.AREA</code></a>.</p></div>
+<div class="block"><p>Gets the area type. It is available only when the <a href="sdk-for-android-navigate-com-here-sdk-search-place#getPlaceType()"><code>getPlaceType()</code></a> is <a href="sdk-for-android-navigate-placetype#AREA"><code>PlaceType.AREA</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The area type. It is available only when the <a href="sdk-for-android-navigate-index#getPlaceType()"><code>getPlaceType()</code></a> is <a href="sdk-for-android-navigate-placetype#AREA"><code>PlaceType.AREA</code></a>.</p></dd>
+<dd><p>The area type. It is available only when the <a href="sdk-for-android-navigate-com-here-sdk-search-place#getPlaceType()"><code>getPlaceType()</code></a> is <a href="sdk-for-android-navigate-placetype#AREA"><code>PlaceType.AREA</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -270,7 +270,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-place"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isCoordinatesInterpolated</span>()</div>
 <div class="block"><p>Gets the flag saying whether the coordinates of the house number were interpolated or not.
  </p><p>This property is valid only for house number results retrieved using online search.
- When false, it means <a href="sdk-for-android-navigate-index#getGeoCoordinates()"><code>getGeoCoordinates()</code></a> point to an accurate position of the house. Otherwise
+ When false, it means <a href="sdk-for-android-navigate-com-here-sdk-search-place#getGeoCoordinates()"><code>getGeoCoordinates()</code></a> point to an accurate position of the house. Otherwise
  coordinates are slightly less accurate, but are based on a highly optimized interpolation algorithm.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

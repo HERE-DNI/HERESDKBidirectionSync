@@ -36,7 +36,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-onreadylistener"
  a map.
 
  </p><p>Whenever there is a need to call any map view related functions directly after
- the <code>Activity</code> resumes, <a href="sdk-for-android-navigate-index#onMapViewReady()"><code>onMapViewReady()</code></a> should be used for this purpose,
+ the <code>Activity</code> resumes, <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview-onreadylistener#onMapViewReady()"><code>onMapViewReady()</code></a> should be used for this purpose,
  as it guarantees that those operations will work. It is not recommended to call
  map view functionality directly from <code>Activity</code>'s <code>onResume()</code>.
 
@@ -76,7 +76,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-onreadylistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onMapViewReady()">onMapViewReady</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapview-onreadylistener#onMapViewReady()">onMapViewReady</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback to be called when MapView is fully initialized and ready to handle all
  operations.</div>

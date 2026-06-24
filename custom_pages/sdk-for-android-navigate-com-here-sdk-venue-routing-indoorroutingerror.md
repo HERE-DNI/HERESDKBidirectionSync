@@ -53,67 +53,67 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BAD_GATEWAY">BAD_GATEWAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#BAD_GATEWAY">BAD_GATEWAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Bad Gateway.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BAD_REQUEST">BAD_REQUEST</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#BAD_REQUEST">BAD_REQUEST</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Bad request.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#COULD_NOT_MATCH_DESTINATION">COULD_NOT_MATCH_DESTINATION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#COULD_NOT_MATCH_DESTINATION">COULD_NOT_MATCH_DESTINATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Could not match destination.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#COULD_NOT_MATCH_ORIGIN">COULD_NOT_MATCH_ORIGIN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#COULD_NOT_MATCH_ORIGIN">COULD_NOT_MATCH_ORIGIN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Could not match origin.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FORBIDDEN">FORBIDDEN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#FORBIDDEN">FORBIDDEN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Forbidden.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INTERNAL_SERVER_ERROR">INTERNAL_SERVER_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#INTERNAL_SERVER_ERROR">INTERNAL_SERVER_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Internal server error.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MAP_NOT_FOUND">MAP_NOT_FOUND</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#MAP_NOT_FOUND">MAP_NOT_FOUND</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Venue ID not found.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_ERROR">NO_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#NO_ERROR">NO_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Default</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_NETWORK">NO_NETWORK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#NO_NETWORK">NO_NETWORK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">No network.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_ROUTE_FOUND">NO_ROUTE_FOUND</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#NO_ROUTE_FOUND">NO_ROUTE_FOUND</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">No route found.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NOT_FOUND">NOT_FOUND</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#NOT_FOUND">NOT_FOUND</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Resource unavailable</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PARSING_ERROR">PARSING_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#PARSING_ERROR">PARSING_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Response output not as expected.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SERVICE_UNAVAILABLE">SERVICE_UNAVAILABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#SERVICE_UNAVAILABLE">SERVICE_UNAVAILABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Service unavailable.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TOO_MANY_REQUESTS">TOO_MANY_REQUESTS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#TOO_MANY_REQUESTS">TOO_MANY_REQUESTS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Too many requests.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNAUTHORIZED_ACCESS">UNAUTHORIZED_ACCESS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#UNAUTHORIZED_ACCESS">UNAUTHORIZED_ACCESS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Unauthorized access.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNKNOWN_ERROR">UNKNOWN_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#UNKNOWN_ERROR">UNKNOWN_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Unknown error.</div>
 </div>
@@ -132,12 +132,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-indoorroutingerror" title="enum class in com.here.sdk.venue.routing">IndoorRoutingError</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-indoorroutingerror" title="enum class in com.here.sdk.venue.routing">IndoorRoutingError</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingerror#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

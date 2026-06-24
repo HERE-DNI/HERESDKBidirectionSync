@@ -48,7 +48,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-tollstopwarninglistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onTollStopWarning(com.here.sdk.navigation.TollStop)">onTollStopWarning</a><wbr/>(<a href="sdk-for-android-navigate-tollstop" title="class in com.here.sdk.navigation">TollStop</a> tollStop)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-tollstopwarninglistener#onTollStopWarning(com.here.sdk.navigation.TollStop)">onTollStopWarning</a><wbr/>(<a href="sdk-for-android-navigate-tollstop" title="class in com.here.sdk.navigation">TollStop</a> tollStop)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new <code>TollStop</code> is available.</div>
 </div>

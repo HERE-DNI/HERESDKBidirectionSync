@@ -40,67 +40,67 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#chargingCurve">chargingCurve</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#chargingCurve">chargingCurve</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Function curve describing the maximum battery charging rate (in kW) at a given charge
  level (in kWh).</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#chargingSetupDuration">chargingSetupDuration</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#chargingSetupDuration">chargingSetupDuration</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Time in seconds spent after arriving at a charging station, but before actually charging,
  e.g., time spent for payment processing.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#connectorTypes">connectorTypes</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#connectorTypes">connectorTypes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of available charging connector types.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#initialChargeInKilowattHours">initialChargeInKilowattHours</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#initialChargeInKilowattHours">initialChargeInKilowattHours</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Charge level of the vehicle's battery at the start of the route (in kWh).</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxChargingCurrentInAmperes">maxChargingCurrentInAmperes</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#maxChargingCurrentInAmperes">maxChargingCurrentInAmperes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maximum charging current supported by the vehicle's battery in Amperes.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxChargingVoltageInVolts">maxChargingVoltageInVolts</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#maxChargingVoltageInVolts">maxChargingVoltageInVolts</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Maximum charging voltage supported by the vehicle's battery in Volts.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxPowerAtLowVoltageInKilowatts">maxPowerAtLowVoltageInKilowatts</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#maxPowerAtLowVoltageInKilowatts">maxPowerAtLowVoltageInKilowatts</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The maximum power in kilowatts at which a vehicle can charge under given these conditions:
  
  The charging station connector's maximum supply voltage is less than 800 V.
- <a href="sdk-for-android-navigate-index#maxChargingVoltageInVolts"><code>maxChargingVoltageInVolts</code></a> is greater than or equal to 800 V.</div>
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#maxChargingVoltageInVolts"><code>maxChargingVoltageInVolts</code></a> is greater than or equal to 800 V.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours">minChargeAtChargingStationInKilowattHours</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours">minChargeAtChargingStationInKilowattHours</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Minimum charge when arriving at a charging station in kWh.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#minChargeAtDestinationInKilowattHours">minChargeAtDestinationInKilowattHours</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtDestinationInKilowattHours">minChargeAtDestinationInKilowattHours</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Minimum charge at the final route destination in kWh.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#minChargeAtFirstChargingStationInKilowattHours">minChargeAtFirstChargingStationInKilowattHours</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtFirstChargingStationInKilowattHours">minChargeAtFirstChargingStationInKilowattHours</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Minimum charge when arriving at first charging station in kWh.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#targetChargeInKilowattHours">targetChargeInKilowattHours</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours">targetChargeInKilowattHours</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maximum charge to which the battery should be charged at a charging station (in kWh).</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#totalCapacityInKilowattHours">totalCapacityInKilowattHours</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours">totalCapacityInKilowattHours</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Total capacity of the vehicle's battery (in kWh).</div>
 </div>
@@ -115,33 +115,33 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">BatterySpecifications</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E()">BatterySpecifications</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E(double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E(double,double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
  double initialChargeInKilowattHours)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double,double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E(double,double,double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
  double initialChargeInKilowattHours,
  double targetChargeInKilowattHours)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double,double,java.util.Map)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E(double,double,double,java.util.Map)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
  double initialChargeInKilowattHours,
  double targetChargeInKilowattHours,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; chargingCurve)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double,double,java.util.Map,java.util.List)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E(double,double,double,java.util.Map,java.util.List)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
  double initialChargeInKilowattHours,
  double targetChargeInKilowattHours,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; chargingCurve,
@@ -149,7 +149,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
  double initialChargeInKilowattHours,
  double targetChargeInKilowattHours,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; chargingCurve,
@@ -158,7 +158,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double,java.lang.Double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double,java.lang.Double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
  double initialChargeInKilowattHours,
  double targetChargeInKilowattHours,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; chargingCurve,
@@ -168,7 +168,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
  double initialChargeInKilowattHours,
  double targetChargeInKilowattHours,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; chargingCurve,
@@ -179,7 +179,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
  double initialChargeInKilowattHours,
  double targetChargeInKilowattHours,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; chargingCurve,
@@ -191,7 +191,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double,java.lang.Double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double,java.lang.Double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
  double initialChargeInKilowattHours,
  double targetChargeInKilowattHours,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; chargingCurve,
@@ -204,7 +204,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double,java.lang.Double,com.here.time.Duration)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double,java.lang.Double,com.here.time.Duration)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
  double initialChargeInKilowattHours,
  double targetChargeInKilowattHours,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; chargingCurve,
@@ -218,7 +218,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double,java.lang.Double,com.here.time.Duration,java.lang.Double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#%3Cinit%3E(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double,java.lang.Double,com.here.time.Duration,java.lang.Double)">BatterySpecifications</a><wbr/>(double totalCapacityInKilowattHours,
  double initialChargeInKilowattHours,
  double targetChargeInKilowattHours,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; chargingCurve,
@@ -248,10 +248,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -288,7 +288,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">initialChargeInKilowattHours</span></div>
 <div class="block"><p>Charge level of the vehicle's battery at the start of the route (in kWh).
  It must be non-negative and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.
  <strong>Note:</strong>
@@ -302,7 +302,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">targetChargeInKilowattHours</span></div>
 <div class="block"><p>Maximum charge to which the battery should be charged at a charging station (in kWh).
  It must be positive and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></div>
 </section>
@@ -319,7 +319,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Map values represent charging rate values that are positive floating point values
  in units of (kW).
  Given charge levels must cover the entire range of
- [0, <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
+ [0, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  The charging curve is considered piecewise constant instead of being interpolated.
  Defaults to an empty container.
@@ -345,7 +345,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">minChargeAtChargingStationInKilowattHours</span></div>
 <div class="block"><p>Minimum charge when arriving at a charging station in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></div>
 </section>
@@ -356,12 +356,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">minChargeAtFirstChargingStationInKilowattHours</span></div>
 <div class="block"><p>Minimum charge when arriving at first charging station in kWh.
- This overrides <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
- If not specified, <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
+ This overrides <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
+ If not specified, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
  for all charging stations, including the first one.
  Defaults to <code>null</code>.
  When initialized, it must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  This is usually used when the current charge is too low to reach a charging station within <code>minChargeAtChargingStation</code> limits.</p></div>
 </section>
@@ -372,7 +372,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">minChargeAtDestinationInKilowattHours</span></div>
 <div class="block"><p>Minimum charge at the final route destination in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></div>
 </section>
@@ -417,7 +417,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <div class="block"><p>The maximum power in kilowatts at which a vehicle can charge under given these conditions:
  <ul>
 <li>The charging station connector's maximum supply voltage is less than 800 V.</li>
-<li><a href="sdk-for-android-navigate-index#maxChargingVoltageInVolts"><code>maxChargingVoltageInVolts</code></a> is greater than or equal to 800 V.
+<li><a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#maxChargingVoltageInVolts"><code>maxChargingVoltageInVolts</code></a> is greater than or equal to 800 V.
  The provided value must be greater than or equal to 0. By default, it is not set.
  <strong>Note:</strong> The feature is not supported by the <code>OfflineRoutingEngine</code>.</li>
 </ul></p></div>
@@ -470,7 +470,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an invalid parameter error.</p></dd>
 <dd><code>initialChargeInKilowattHours</code> - <p>Charge level of the vehicle's battery at the start of the route (in kWh).
  It must be non-negative and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.
  <strong>Note:</strong>
@@ -496,7 +496,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an invalid parameter error.</p></dd>
 <dd><code>initialChargeInKilowattHours</code> - <p>Charge level of the vehicle's battery at the start of the route (in kWh).
  It must be non-negative and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.
  <strong>Note:</strong>
@@ -504,7 +504,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an an invalid parameter error.</p></dd>
 <dd><code>targetChargeInKilowattHours</code> - <p>Maximum charge to which the battery should be charged at a charging station (in kWh).
  It must be positive and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 </dl>
@@ -529,7 +529,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an invalid parameter error.</p></dd>
 <dd><code>initialChargeInKilowattHours</code> - <p>Charge level of the vehicle's battery at the start of the route (in kWh).
  It must be non-negative and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.
  <strong>Note:</strong>
@@ -537,7 +537,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an an invalid parameter error.</p></dd>
 <dd><code>targetChargeInKilowattHours</code> - <p>Maximum charge to which the battery should be charged at a charging station (in kWh).
  It must be positive and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>chargingCurve</code> - <p>Function curve describing the maximum battery charging rate (in kW) at a given charge
@@ -547,7 +547,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Map values represent charging rate values that are positive floating point values
  in units of (kW).
  Given charge levels must cover the entire range of
- [0, <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
+ [0, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  The charging curve is considered piecewise constant instead of being interpolated.
  Defaults to an empty container.
@@ -578,7 +578,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an invalid parameter error.</p></dd>
 <dd><code>initialChargeInKilowattHours</code> - <p>Charge level of the vehicle's battery at the start of the route (in kWh).
  It must be non-negative and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.
  <strong>Note:</strong>
@@ -586,7 +586,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an an invalid parameter error.</p></dd>
 <dd><code>targetChargeInKilowattHours</code> - <p>Maximum charge to which the battery should be charged at a charging station (in kWh).
  It must be positive and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>chargingCurve</code> - <p>Function curve describing the maximum battery charging rate (in kW) at a given charge
@@ -596,7 +596,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Map values represent charging rate values that are positive floating point values
  in units of (kW).
  Given charge levels must cover the entire range of
- [0, <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
+ [0, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  The charging curve is considered piecewise constant instead of being interpolated.
  Defaults to an empty container.
@@ -632,7 +632,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an invalid parameter error.</p></dd>
 <dd><code>initialChargeInKilowattHours</code> - <p>Charge level of the vehicle's battery at the start of the route (in kWh).
  It must be non-negative and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.
  <strong>Note:</strong>
@@ -640,7 +640,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an an invalid parameter error.</p></dd>
 <dd><code>targetChargeInKilowattHours</code> - <p>Maximum charge to which the battery should be charged at a charging station (in kWh).
  It must be positive and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>chargingCurve</code> - <p>Function curve describing the maximum battery charging rate (in kW) at a given charge
@@ -650,7 +650,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Map values represent charging rate values that are positive floating point values
  in units of (kW).
  Given charge levels must cover the entire range of
- [0, <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
+ [0, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  The charging curve is considered piecewise constant instead of being interpolated.
  Defaults to an empty container.
@@ -663,7 +663,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Defaults to an empty container.</p></dd>
 <dd><code>minChargeAtChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at a charging station in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 </dl>
@@ -693,7 +693,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an invalid parameter error.</p></dd>
 <dd><code>initialChargeInKilowattHours</code> - <p>Charge level of the vehicle's battery at the start of the route (in kWh).
  It must be non-negative and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.
  <strong>Note:</strong>
@@ -701,7 +701,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an an invalid parameter error.</p></dd>
 <dd><code>targetChargeInKilowattHours</code> - <p>Maximum charge to which the battery should be charged at a charging station (in kWh).
  It must be positive and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>chargingCurve</code> - <p>Function curve describing the maximum battery charging rate (in kW) at a given charge
@@ -711,7 +711,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Map values represent charging rate values that are positive floating point values
  in units of (kW).
  Given charge levels must cover the entire range of
- [0, <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
+ [0, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  The charging curve is considered piecewise constant instead of being interpolated.
  Defaults to an empty container.
@@ -724,16 +724,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Defaults to an empty container.</p></dd>
 <dd><code>minChargeAtChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at a charging station in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>minChargeAtFirstChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at first charging station in kWh.
- This overrides <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
- If not specified, <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
+ This overrides <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
+ If not specified, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
  for all charging stations, including the first one.
  Defaults to <code>null</code>.
  When initialized, it must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  This is usually used when the current charge is too low to reach a charging station within <code>minChargeAtChargingStation</code> limits.</p></dd>
 </dl>
@@ -764,7 +764,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an invalid parameter error.</p></dd>
 <dd><code>initialChargeInKilowattHours</code> - <p>Charge level of the vehicle's battery at the start of the route (in kWh).
  It must be non-negative and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.
  <strong>Note:</strong>
@@ -772,7 +772,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an an invalid parameter error.</p></dd>
 <dd><code>targetChargeInKilowattHours</code> - <p>Maximum charge to which the battery should be charged at a charging station (in kWh).
  It must be positive and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>chargingCurve</code> - <p>Function curve describing the maximum battery charging rate (in kW) at a given charge
@@ -782,7 +782,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Map values represent charging rate values that are positive floating point values
  in units of (kW).
  Given charge levels must cover the entire range of
- [0, <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
+ [0, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  The charging curve is considered piecewise constant instead of being interpolated.
  Defaults to an empty container.
@@ -795,21 +795,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Defaults to an empty container.</p></dd>
 <dd><code>minChargeAtChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at a charging station in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>minChargeAtFirstChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at first charging station in kWh.
- This overrides <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
- If not specified, <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
+ This overrides <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
+ If not specified, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
  for all charging stations, including the first one.
  Defaults to <code>null</code>.
  When initialized, it must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  This is usually used when the current charge is too low to reach a charging station within <code>minChargeAtChargingStation</code> limits.</p></dd>
 <dd><code>minChargeAtDestinationInKilowattHours</code> - <p>Minimum charge at the final route destination in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 </dl>
@@ -842,7 +842,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an invalid parameter error.</p></dd>
 <dd><code>initialChargeInKilowattHours</code> - <p>Charge level of the vehicle's battery at the start of the route (in kWh).
  It must be non-negative and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.
  <strong>Note:</strong>
@@ -850,7 +850,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an an invalid parameter error.</p></dd>
 <dd><code>targetChargeInKilowattHours</code> - <p>Maximum charge to which the battery should be charged at a charging station (in kWh).
  It must be positive and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>chargingCurve</code> - <p>Function curve describing the maximum battery charging rate (in kW) at a given charge
@@ -860,7 +860,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Map values represent charging rate values that are positive floating point values
  in units of (kW).
  Given charge levels must cover the entire range of
- [0, <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
+ [0, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  The charging curve is considered piecewise constant instead of being interpolated.
  Defaults to an empty container.
@@ -873,21 +873,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Defaults to an empty container.</p></dd>
 <dd><code>minChargeAtChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at a charging station in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>minChargeAtFirstChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at first charging station in kWh.
- This overrides <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
- If not specified, <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
+ This overrides <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
+ If not specified, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
  for all charging stations, including the first one.
  Defaults to <code>null</code>.
  When initialized, it must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  This is usually used when the current charge is too low to reach a charging station within <code>minChargeAtChargingStation</code> limits.</p></dd>
 <dd><code>minChargeAtDestinationInKilowattHours</code> - <p>Minimum charge at the final route destination in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>maxChargingVoltageInVolts</code> - <p>Maximum charging voltage supported by the vehicle's battery in Volts.
@@ -926,7 +926,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an invalid parameter error.</p></dd>
 <dd><code>initialChargeInKilowattHours</code> - <p>Charge level of the vehicle's battery at the start of the route (in kWh).
  It must be non-negative and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.
  <strong>Note:</strong>
@@ -934,7 +934,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an an invalid parameter error.</p></dd>
 <dd><code>targetChargeInKilowattHours</code> - <p>Maximum charge to which the battery should be charged at a charging station (in kWh).
  It must be positive and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>chargingCurve</code> - <p>Function curve describing the maximum battery charging rate (in kW) at a given charge
@@ -944,7 +944,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Map values represent charging rate values that are positive floating point values
  in units of (kW).
  Given charge levels must cover the entire range of
- [0, <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
+ [0, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  The charging curve is considered piecewise constant instead of being interpolated.
  Defaults to an empty container.
@@ -957,21 +957,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Defaults to an empty container.</p></dd>
 <dd><code>minChargeAtChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at a charging station in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>minChargeAtFirstChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at first charging station in kWh.
- This overrides <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
- If not specified, <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
+ This overrides <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
+ If not specified, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
  for all charging stations, including the first one.
  Defaults to <code>null</code>.
  When initialized, it must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  This is usually used when the current charge is too low to reach a charging station within <code>minChargeAtChargingStation</code> limits.</p></dd>
 <dd><code>minChargeAtDestinationInKilowattHours</code> - <p>Minimum charge at the final route destination in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>maxChargingVoltageInVolts</code> - <p>Maximum charging voltage supported by the vehicle's battery in Volts.
@@ -1016,7 +1016,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an invalid parameter error.</p></dd>
 <dd><code>initialChargeInKilowattHours</code> - <p>Charge level of the vehicle's battery at the start of the route (in kWh).
  It must be non-negative and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.
  <strong>Note:</strong>
@@ -1024,7 +1024,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an an invalid parameter error.</p></dd>
 <dd><code>targetChargeInKilowattHours</code> - <p>Maximum charge to which the battery should be charged at a charging station (in kWh).
  It must be positive and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>chargingCurve</code> - <p>Function curve describing the maximum battery charging rate (in kW) at a given charge
@@ -1034,7 +1034,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Map values represent charging rate values that are positive floating point values
  in units of (kW).
  Given charge levels must cover the entire range of
- [0, <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
+ [0, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  The charging curve is considered piecewise constant instead of being interpolated.
  Defaults to an empty container.
@@ -1047,21 +1047,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Defaults to an empty container.</p></dd>
 <dd><code>minChargeAtChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at a charging station in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>minChargeAtFirstChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at first charging station in kWh.
- This overrides <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
- If not specified, <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
+ This overrides <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
+ If not specified, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
  for all charging stations, including the first one.
  Defaults to <code>null</code>.
  When initialized, it must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  This is usually used when the current charge is too low to reach a charging station within <code>minChargeAtChargingStation</code> limits.</p></dd>
 <dd><code>minChargeAtDestinationInKilowattHours</code> - <p>Minimum charge at the final route destination in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>maxChargingVoltageInVolts</code> - <p>Maximum charging voltage supported by the vehicle's battery in Volts.
@@ -1111,7 +1111,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an invalid parameter error.</p></dd>
 <dd><code>initialChargeInKilowattHours</code> - <p>Charge level of the vehicle's battery at the start of the route (in kWh).
  It must be non-negative and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.
  <strong>Note:</strong>
@@ -1119,7 +1119,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  If not set greater than 0, the route calculation will fail as an an invalid parameter error.</p></dd>
 <dd><code>targetChargeInKilowattHours</code> - <p>Maximum charge to which the battery should be charged at a charging station (in kWh).
  It must be positive and less than or equal to the value of
- <a href="sdk-for-android-navigate-index#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#totalCapacityInKilowattHours"><code>totalCapacityInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>chargingCurve</code> - <p>Function curve describing the maximum battery charging rate (in kW) at a given charge
@@ -1129,7 +1129,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Map values represent charging rate values that are positive floating point values
  in units of (kW).
  Given charge levels must cover the entire range of
- [0, <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
+ [0, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>],
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  The charging curve is considered piecewise constant instead of being interpolated.
  Defaults to an empty container.
@@ -1142,21 +1142,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
  Defaults to an empty container.</p></dd>
 <dd><code>minChargeAtChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at a charging station in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>minChargeAtFirstChargingStationInKilowattHours</code> - <p>Minimum charge when arriving at first charging station in kWh.
- This overrides <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
- If not specified, <a href="sdk-for-android-navigate-index#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
+ This overrides <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> for the first charging station.
+ If not specified, <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#minChargeAtChargingStationInKilowattHours"><code>minChargeAtChargingStationInKilowattHours</code></a> will be used
  for all charging stations, including the first one.
  Defaults to <code>null</code>.
  When initialized, it must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  This is usually used when the current charge is too low to reach a charging station within <code>minChargeAtChargingStation</code> limits.</p></dd>
 <dd><code>minChargeAtDestinationInKilowattHours</code> - <p>Minimum charge at the final route destination in kWh.
  It must be non-negative and less than the value of
- <a href="sdk-for-android-navigate-index#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>,
  otherwise the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a> instance is considered invalid.
  Defaults to 0.</p></dd>
 <dd><code>maxChargingVoltageInVolts</code> - <p>Maximum charging voltage supported by the vehicle's battery in Volts.
@@ -1173,7 +1173,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications"
 <dd><code>maxPowerAtLowVoltageInKilowatts</code> - <p>The maximum power in kilowatts at which a vehicle can charge under given these conditions:
  <ul>
 <li>The charging station connector's maximum supply voltage is less than 800 V.</li>
-<li><a href="sdk-for-android-navigate-index#maxChargingVoltageInVolts"><code>maxChargingVoltageInVolts</code></a> is greater than or equal to 800 V.
+<li><a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications#maxChargingVoltageInVolts"><code>maxChargingVoltageInVolts</code></a> is greater than or equal to 800 V.
  The provided value must be greater than or equal to 0. By default, it is not set.
  <strong>Note:</strong> The feature is not supported by the <code>OfflineRoutingEngine</code>.</li>
 </ul></p></dd>

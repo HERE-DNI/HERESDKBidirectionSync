@@ -44,22 +44,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-categoryquery-area"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>final <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#areaCenter">areaCenter</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#areaCenter">areaCenter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Geographic coordinates of the center around which to provide the most relevant places.</div>
 </div>
 <div class="col-first odd-row-color"><code>final <a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#boxArea">boxArea</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#boxArea">boxArea</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Geographic rectangle area in which to provide the most relevant places.</div>
 </div>
 <div class="col-first even-row-color"><code>final <a href="sdk-for-android-navigate-geocircle" title="class in com.here.sdk.core">GeoCircle</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#circleArea">circleArea</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#circleArea">circleArea</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Geographic circle area in which to provide the most relevant places.</div>
 </div>
 <div class="col-first odd-row-color"><code>final <a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#corridorArea">corridorArea</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#corridorArea">corridorArea</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Geographic corridor area in which to provide the most relevant places.</div>
 </div>
@@ -74,21 +74,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-categoryquery-area"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Area</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Area</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoBox)">Area</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoBox)">Area</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
  <a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCircle)">Area</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCircle)">Area</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
  <a href="sdk-for-android-navigate-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCorridor,com.here.sdk.core.GeoCoordinates)">Area</a><wbr/>(<a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#%3Cinit%3E(com.here.sdk.core.GeoCorridor,com.here.sdk.core.GeoCoordinates)">Area</a><wbr/>(<a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
  <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
@@ -108,10 +108,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-categoryquery-area"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -170,9 +170,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-categoryquery-area"
  For example: Route between New York and Chicago with half-width 800 will be added to request
  without removing the far away part, but route of the same length (around 360km) between
  Milan (Italy) and Konstanz (Germany) will have the far away part removed due to its complexity.
- </p><p>When <a href="sdk-for-android-navigate-index#corridorArea"><code>corridorArea</code></a> is provided,
- <a href="sdk-for-android-navigate-index#areaCenter"><code>areaCenter</code></a> has to be within it, otherwise
- <a href="sdk-for-android-navigate-index#areaCenter"><code>areaCenter</code></a> is ignored when searching.</p></div>
+ </p><p>When <a href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#corridorArea"><code>corridorArea</code></a> is provided,
+ <a href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#areaCenter"><code>areaCenter</code></a> has to be within it, otherwise
+ <a href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#areaCenter"><code>areaCenter</code></a> is ignored when searching.</p></div>
 </section>
 </li>
 </ul>

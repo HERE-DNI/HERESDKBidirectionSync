@@ -48,7 +48,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuelistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onLocationIssueChanged(java.util.List)">onLocationIssueChanged</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt; issues)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuelistener#onLocationIssueChanged(java.util.List)">onLocationIssueChanged</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt; issues)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when the snapshot of currently active location issues changes.</div>
 </div>

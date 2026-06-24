@@ -38,7 +38,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logappender"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#log(com.here.sdk.core.engine.LogLevel,java.lang.String)">log</a><wbr/>(<a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-logappender#log(com.here.sdk.core.engine.LogLevel,java.lang.String)">log</a><wbr/>(<a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
 
 </div>

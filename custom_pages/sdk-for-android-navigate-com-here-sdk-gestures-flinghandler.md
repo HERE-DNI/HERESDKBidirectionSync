@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-flinghandler"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">FlingHandler</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>This class handles fling events by performing a kinetic move on the map. Initial velocity of
- kinetic move is the one provided to <a href="sdk-for-android-navigate-index#onFling(float,float)"><code>onFling(float, float)</code></a>. Subsequently, velocity
+ kinetic move is the one provided to <a href="sdk-for-android-navigate-com-here-sdk-gestures-flinghandler#onFling(float,float)"><code>onFling(float, float)</code></a>. Subsequently, velocity
  decays exponentially.</p></div>
 </section>
 <section class="summary">
@@ -46,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-flinghandler"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onFling(float,float)">onFling</a><wbr/>(float velocityX,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-flinghandler#onFling(float,float)">onFling</a><wbr/>(float velocityX,
  float velocityY)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">To be called to trigger fling gesture handling.</div>

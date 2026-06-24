@@ -53,59 +53,59 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-dividermarker"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CENTER_TURN_LANE">CENTER_TURN_LANE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#CENTER_TURN_LANE">CENTER_TURN_LANE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The lanes have a center turn lane.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CROSSING_ALERT">CROSSING_ALERT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#CROSSING_ALERT">CROSSING_ALERT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The lanes contain a crossing alert.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DASHED_BLOCKS">DASHED_BLOCKS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#DASHED_BLOCKS">DASHED_BLOCKS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The lanes are divided by dashed blocks.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DOUBLE_DASHED">DOUBLE_DASHED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#DOUBLE_DASHED">DOUBLE_DASHED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The lanes are divided by a double dashed line.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DOUBLE_SOLID_LINE">DOUBLE_SOLID_LINE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#DOUBLE_SOLID_LINE">DOUBLE_SOLID_LINE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The lanes are divided by a double solid line.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INNER_DASHED_OUTER_SOLID">INNER_DASHED_OUTER_SOLID</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#INNER_DASHED_OUTER_SOLID">INNER_DASHED_OUTER_SOLID</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The lanes are divided by a single dashed line next to a solid line.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INNER_SOLID_OUTER_DASHED">INNER_SOLID_OUTER_DASHED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#INNER_SOLID_OUTER_DASHED">INNER_SOLID_OUTER_DASHED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The lanes are divided by a single solid line next to a dashed line.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LONG_DASHED_LINE">LONG_DASHED_LINE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#LONG_DASHED_LINE">LONG_DASHED_LINE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The lanes are divided by a long dashed line.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_DIVIDER">NO_DIVIDER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#NO_DIVIDER">NO_DIVIDER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">No divider between the lanes.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_MARKER">NO_MARKER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#NO_MARKER">NO_MARKER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The lanes have no markings.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PHYSICAL_DIVIDER_SMALL">PHYSICAL_DIVIDER_SMALL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#PHYSICAL_DIVIDER_SMALL">PHYSICAL_DIVIDER_SMALL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The lanes are divided by a small physical divider.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SHADED_AREA_MARKING">SHADED_AREA_MARKING</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#SHADED_AREA_MARKING">SHADED_AREA_MARKING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The lanes are divided by an area marking.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SHORT_DASHED">SHORT_DASHED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#SHORT_DASHED">SHORT_DASHED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The lanes are divided by a short dashed line.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SINGLE_SOLID_LINE">SINGLE_SOLID_LINE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#SINGLE_SOLID_LINE">SINGLE_SOLID_LINE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The lanes are divided by a single solid line.</div>
 </div>
@@ -124,12 +124,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-dividermarker"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

@@ -47,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
  <a href="sdk-for-android-navigate-routeoptions#departureTime"><code>RouteOptions.departureTime</code></a> as then the current time is used by default.
  </p><p>The poll interval is defined by
  <a href="sdk-for-android-navigate-dynamicroutingengineoptions#pollInterval"><code>DynamicRoutingEngineOptions.pollInterval</code></a> and
- triggered by <a href="sdk-for-android-navigate-index#updateCurrentLocation(com.here.sdk.navigation.MapMatchedLocation,int)"><code>updateCurrentLocation(com.here.sdk.navigation.MapMatchedLocation, int)</code></a>.</p></div>
+ triggered by <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine#updateCurrentLocation(com.here.sdk.navigation.MapMatchedLocation,int)"><code>updateCurrentLocation(com.here.sdk.navigation.MapMatchedLocation, int)</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -81,12 +81,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.trafficawarenavigation.DynamicRoutingEngineOptions)">DynamicRoutingEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.trafficawarenavigation.DynamicRoutingEngineOptions)">DynamicRoutingEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
  <a href="sdk-for-android-navigate-dynamicroutingengineoptions" title="class in com.here.sdk.trafficawarenavigation">DynamicRoutingEngineOptions</a> options)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.trafficawarenavigation.DynamicRoutingEngineOptions)">DynamicRoutingEngine</a><wbr/>(<a href="sdk-for-android-navigate-dynamicroutingengineoptions" title="class in com.here.sdk.trafficawarenavigation">DynamicRoutingEngineOptions</a> options)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine#%3Cinit%3E(com.here.sdk.trafficawarenavigation.DynamicRoutingEngineOptions)">DynamicRoutingEngine</a><wbr/>(<a href="sdk-for-android-navigate-dynamicroutingengineoptions" title="class in com.here.sdk.trafficawarenavigation">DynamicRoutingEngineOptions</a> options)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -105,7 +105,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-index#start(com.here.sdk.routing.RouteHandle,java.util.List,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.trafficawarenavigation.DynamicRoutingListener)">start</a><wbr/>(<a href="sdk-for-android-navigate-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine#start(com.here.sdk.routing.RouteHandle,java.util.List,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.trafficawarenavigation.DynamicRoutingListener)">start</a><wbr/>(<a href="sdk-for-android-navigate-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-waypoint" title="class in com.here.sdk.routing">Waypoint</a>&gt; waypoints,
  <a href="sdk-for-android-navigate-refreshrouteoptions" title="class in com.here.sdk.routing">RefreshRouteOptions</a> refreshRouteOptions,
  <a href="sdk-for-android-navigate-dynamicroutinglistener" title="interface in com.here.sdk.trafficawarenavigation">DynamicRoutingListener</a> listener)</code></div>
@@ -115,7 +115,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 </div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#start(com.here.sdk.routing.RouteHandle,java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.trafficawarenavigation.DynamicRoutingListener)">start</a><wbr/>(<a href="sdk-for-android-navigate-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine#start(com.here.sdk.routing.RouteHandle,java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.trafficawarenavigation.DynamicRoutingListener)">start</a><wbr/>(<a href="sdk-for-android-navigate-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-waypoint" title="class in com.here.sdk.routing">Waypoint</a>&gt; waypoints,
  <a href="sdk-for-android-navigate-routingoptions" title="class in com.here.sdk.routing">RoutingOptions</a> routingOptions,
  <a href="sdk-for-android-navigate-dynamicroutinglistener" title="interface in com.here.sdk.trafficawarenavigation">DynamicRoutingListener</a> listener)</code></div>
@@ -124,19 +124,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
  as defined by the <a href="sdk-for-android-navigate-dynamicroutingengineoptions" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngineOptions</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#start(com.here.sdk.routing.Route,com.here.sdk.trafficawarenavigation.DynamicRoutingListener)">start</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> route,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine#start(com.here.sdk.routing.Route,com.here.sdk.trafficawarenavigation.DynamicRoutingListener)">start</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> route,
  <a href="sdk-for-android-navigate-dynamicroutinglistener" title="interface in com.here.sdk.trafficawarenavigation">DynamicRoutingListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Starts polling the HERE backend services to find a better route,
  as defined by the DynamicRoutingEngineOptions.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#stop()">stop</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine#stop()">stop</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Stops polling the HERE backend services.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#updateCurrentLocation(com.here.sdk.navigation.MapMatchedLocation,int)">updateCurrentLocation</a><wbr/>(<a href="sdk-for-android-navigate-mapmatchedlocation" title="class in com.here.sdk.navigation">MapMatchedLocation</a> mapMatchedLocation,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine#updateCurrentLocation(com.here.sdk.navigation.MapMatchedLocation,int)">updateCurrentLocation</a><wbr/>(<a href="sdk-for-android-navigate-mapmatchedlocation" title="class in com.here.sdk.navigation">MapMatchedLocation</a> mapMatchedLocation,
  int sectionIndex)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Updates the current location.</div>

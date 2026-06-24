@@ -47,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarninglistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRoadSignWarningUpdated(com.here.sdk.navigation.RoadSignWarning)">onRoadSignWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-roadsignwarning" title="class in com.here.sdk.navigation">RoadSignWarning</a> roadSignWarning)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarninglistener#onRoadSignWarningUpdated(com.here.sdk.navigation.RoadSignWarning)">onRoadSignWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-roadsignwarning" title="class in com.here.sdk.navigation">RoadSignWarning</a> roadSignWarning)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new road sign warning is available.</div>
 </div>

@@ -40,37 +40,37 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceprovider
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#countryCode">countryCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#countryCode">countryCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Service provider country code.</div>
 </div>
 <div class="col-first odd-row-color"><code>short</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#encryptionId">encryptionId</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#encryptionId">encryptionId</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Encryption key index.</div>
 </div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#encryptionTestMode">encryptionTestMode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#encryptionTestMode">encryptionTestMode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Encryption mode test flag.</div>
 </div>
 <div class="col-first odd-row-color"><code>short</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ltnBeforeEncryption">ltnBeforeEncryption</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#ltnBeforeEncryption">ltnBeforeEncryption</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Location table number before encryption.</div>
 </div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ltnNumber">ltnNumber</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#ltnNumber">ltnNumber</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Location table number.</div>
 </div>
 <div class="col-first odd-row-color"><code>short</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#sid">sid</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#sid">sid</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Service id.</div>
 </div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#status">status</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#status">status</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Service provider status.</div>
 </div>
@@ -85,7 +85,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceprovider
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(short,short,short,short,short,short,short)">TMCServiceProviderInfo</a><wbr/>(short status,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcserviceproviderinfo#%3Cinit%3E(short,short,short,short,short,short,short)">TMCServiceProviderInfo</a><wbr/>(short status,
  short countryCode,
  short sid,
  short ltnNumber,

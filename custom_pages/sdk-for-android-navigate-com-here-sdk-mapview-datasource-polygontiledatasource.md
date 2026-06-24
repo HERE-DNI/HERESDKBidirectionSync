@@ -47,14 +47,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygontiledatas
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-polygontiledatasource" title="class in com.here.sdk.mapview.datasource">PolygonTileDataSource</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#create(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.PolygonTileSource)">create</a><wbr/>(<a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygontiledatasource#create(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.PolygonTileSource)">create</a><wbr/>(<a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  <a href="sdk-for-android-navigate-polygontilesource" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource</a> tileSource)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a named <a href="sdk-for-android-navigate-polygontiledatasource" title="class in com.here.sdk.mapview.datasource"><code>PolygonTileDataSource</code></a> in the given context over a given <a href="sdk-for-android-navigate-polygontilesource" title="interface in com.here.sdk.mapview.datasource"><code>PolygonTileSource</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#destroy()">destroy</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygontiledatasource#destroy()">destroy</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Frees all internally used resources.</div>
 </div>

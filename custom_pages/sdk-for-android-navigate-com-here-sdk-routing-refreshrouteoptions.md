@@ -54,57 +54,57 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.BicycleOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-bicycleoptions" title="class in com.here.sdk.routing">BicycleOptions</a> bicycleOptions)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.routing.BicycleOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-bicycleoptions" title="class in com.here.sdk.routing">BicycleOptions</a> bicycleOptions)</code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-navigate-bicycleoptions" title="class in com.here.sdk.routing"><code>BicycleOptions</code></a>.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.BusOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-busoptions" title="class in com.here.sdk.routing">BusOptions</a> busOptions)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.routing.BusOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-busoptions" title="class in com.here.sdk.routing">BusOptions</a> busOptions)</code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-navigate-busoptions" title="class in com.here.sdk.routing"><code>BusOptions</code></a>.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.CarOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-caroptions" title="class in com.here.sdk.routing">CarOptions</a> carOptions)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.routing.CarOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-caroptions" title="class in com.here.sdk.routing">CarOptions</a> carOptions)</code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-navigate-caroptions" title="class in com.here.sdk.routing"><code>CarOptions</code></a>.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.EVCarOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-evcaroptions" title="class in com.here.sdk.routing">EVCarOptions</a> evCarOptions)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.routing.EVCarOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-evcaroptions" title="class in com.here.sdk.routing">EVCarOptions</a> evCarOptions)</code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-navigate-evcaroptions" title="class in com.here.sdk.routing"><code>EVCarOptions</code></a>.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.EVTruckOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-evtruckoptions" title="class in com.here.sdk.routing">EVTruckOptions</a> evTruckOptions)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.routing.EVTruckOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-evtruckoptions" title="class in com.here.sdk.routing">EVTruckOptions</a> evTruckOptions)</code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-navigate-evtruckoptions" title="class in com.here.sdk.routing"><code>EVTruckOptions</code></a>.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.PedestrianOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-pedestrianoptions" title="class in com.here.sdk.routing">PedestrianOptions</a> pedestrianOptions)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.routing.PedestrianOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-pedestrianoptions" title="class in com.here.sdk.routing">PedestrianOptions</a> pedestrianOptions)</code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-navigate-pedestrianoptions" title="class in com.here.sdk.routing"><code>PedestrianOptions</code></a>.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.PrivateBusOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-privatebusoptions" title="class in com.here.sdk.routing">PrivateBusOptions</a> privateBusOptions)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.routing.PrivateBusOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-privatebusoptions" title="class in com.here.sdk.routing">PrivateBusOptions</a> privateBusOptions)</code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-navigate-privatebusoptions" title="class in com.here.sdk.routing"><code>PrivateBusOptions</code></a>.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.ScooterOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-scooteroptions" title="class in com.here.sdk.routing">ScooterOptions</a> scooterOptions)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.routing.ScooterOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-scooteroptions" title="class in com.here.sdk.routing">ScooterOptions</a> scooterOptions)</code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-navigate-scooteroptions" title="class in com.here.sdk.routing"><code>ScooterOptions</code></a>.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.TaxiOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-taxioptions" title="class in com.here.sdk.routing">TaxiOptions</a> taxiOptions)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.routing.TaxiOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-taxioptions" title="class in com.here.sdk.routing">TaxiOptions</a> taxiOptions)</code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-navigate-taxioptions" title="class in com.here.sdk.routing"><code>TaxiOptions</code></a>.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.TruckOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-truckoptions" title="class in com.here.sdk.routing">TruckOptions</a> truckOptions)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.routing.TruckOptions)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-truckoptions" title="class in com.here.sdk.routing">TruckOptions</a> truckOptions)</code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-navigate-truckoptions" title="class in com.here.sdk.routing"><code>TruckOptions</code></a>.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.transport.TransportMode)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.transport.TransportMode)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode)</code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport"><code>TransportMode</code></a>.</div>

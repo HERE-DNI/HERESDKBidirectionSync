@@ -43,7 +43,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onPlaceIdSearchCompleted(com.here.sdk.search.SearchError,com.here.sdk.search.Place)">onPlaceIdSearchCompleted</a><wbr/>(<a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback#onPlaceIdSearchCompleted(com.here.sdk.search.SearchError,com.here.sdk.search.Place)">onPlaceIdSearchCompleted</a><wbr/>(<a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
  <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search">Place</a> place)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method will be called on the main thread when a search by id call has been completed.</div>

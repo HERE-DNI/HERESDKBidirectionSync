@@ -45,34 +45,34 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstop"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#currentInAmperes">currentInAmperes</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-chargingstop#currentInAmperes">currentInAmperes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The value of rated current of the connector (in A).</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxDuration">maxDuration</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-chargingstop#maxDuration">maxDuration</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The maximum duration the user plans to charge at the station,
  including <a href="sdk-for-android-navigate-batteryspecifications#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#minDuration">minDuration</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-chargingstop#minDuration">minDuration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The minimum duration the user expects to charge at the station,
  including <a href="sdk-for-android-navigate-batteryspecifications#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#powerInKilowatts">powerInKilowatts</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-chargingstop#powerInKilowatts">powerInKilowatts</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The value of rated power of the connector (in kW).</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#supplyType">supplyType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-chargingstop#supplyType">supplyType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Supply type of the suggested connector.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#voltageInVolts">voltageInVolts</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-chargingstop#voltageInVolts">voltageInVolts</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The value of rated voltage of the connector (in V).</div>
 </div>
@@ -87,11 +87,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstop"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">ChargingStop</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-chargingstop#%3Cinit%3E()">ChargingStop</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,double,double,com.here.sdk.routing.ChargingSupplyType,com.here.time.Duration,com.here.time.Duration)">ChargingStop</a><wbr/>(double powerInKilowatts,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-chargingstop#%3Cinit%3E(double,double,double,com.here.sdk.routing.ChargingSupplyType,com.here.time.Duration,com.here.time.Duration)">ChargingStop</a><wbr/>(double powerInKilowatts,
  double currentInAmperes,
  double voltageInVolts,
  <a href="sdk-for-android-navigate-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
@@ -115,10 +115,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-chargingstop"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-chargingstop#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-chargingstop#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

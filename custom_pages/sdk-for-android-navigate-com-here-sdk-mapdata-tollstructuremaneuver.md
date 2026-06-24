@@ -40,24 +40,24 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-tollstructuremaneuver"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata">DirectedOCMSegmentId</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#destinations">destinations</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-tollstructuremaneuver#destinations">destinations</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Optional destinations segment references.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-filereference" title="class in com.here.sdk.mapdata">FileReference</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#etcGuidanceFile">etcGuidanceFile</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-tollstructuremaneuver#etcGuidanceFile">etcGuidanceFile</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional image providing guidance through an electronic toll collection (ETC) point.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isCheckpoint">isCheckpoint</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-tollstructuremaneuver#isCheckpoint">isCheckpoint</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Vehicle Checkpoint identifies locations on the through route, where vehicles
  are required to slow down/stop with the intended purpose of inspecting vehicles to deter illegal immigration
  and smuggling activities, to perform customs/passport checks, toll payment, etc.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-tollstructure" title="class in com.here.sdk.mapdata">TollStructure</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#tollStructure">tollStructure</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-tollstructuremaneuver#tollStructure">tollStructure</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Toll structure properties
  Could be empty for checkpoint not related to toll.</div>
@@ -73,7 +73,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-tollstructuremaneuver"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.util.List)">TollStructureManeuver</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata">DirectedOCMSegmentId</a>&gt; destinations)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-tollstructuremaneuver#%3Cinit%3E(java.util.List)">TollStructureManeuver</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata">DirectedOCMSegmentId</a>&gt; destinations)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>

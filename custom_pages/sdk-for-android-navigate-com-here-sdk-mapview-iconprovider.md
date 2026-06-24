@@ -61,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-iconprovider"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.MapContext)">IconProvider</a><wbr/>(<a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> mapContext)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-iconprovider#%3Cinit%3E(com.here.sdk.mapview.MapContext)">IconProvider</a><wbr/>(<a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> mapContext)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an IconProvider.</div>
 </div>
@@ -80,7 +80,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-iconprovider"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#createRoadShieldIcon(com.here.sdk.mapview.RoadShieldIconProperties,com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.IconProviderAssetType,long,long,com.here.sdk.mapview.IconProvider.IconCallback)">createRoadShieldIcon</a><wbr/>(<a href="sdk-for-android-navigate-roadshieldiconproperties" title="class in com.here.sdk.mapview">RoadShieldIconProperties</a> properties,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-iconprovider#createRoadShieldIcon(com.here.sdk.mapview.RoadShieldIconProperties,com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.IconProviderAssetType,long,long,com.here.sdk.mapview.IconProvider.IconCallback)">createRoadShieldIcon</a><wbr/>(<a href="sdk-for-android-navigate-roadshieldiconproperties" title="class in com.here.sdk.mapview">RoadShieldIconProperties</a> properties,
  <a href="sdk-for-android-navigate-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme,
  <a href="sdk-for-android-navigate-iconproviderassettype" title="enum class in com.here.sdk.mapview">IconProviderAssetType</a> assetType,
  long widthConstraintInPixels,
@@ -90,7 +90,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-iconprovider"
 <div class="block">Creates an image displaying a road shield according to the given parameters.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#createVehicleRestrictionIcon(com.here.sdk.mapview.PickMapContentResult.VehicleRestrictionResult,com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.IconProviderAssetType,com.here.sdk.core.Size2D,com.here.sdk.mapview.IconProvider.IconCallback)">createVehicleRestrictionIcon</a><wbr/>(<a href="sdk-for-android-navigate-pickmapcontentresult.vehiclerestrictionresult" title="class in com.here.sdk.mapview">PickMapContentResult.VehicleRestrictionResult</a> pickingResult,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-iconprovider#createVehicleRestrictionIcon(com.here.sdk.mapview.PickMapContentResult.VehicleRestrictionResult,com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.IconProviderAssetType,com.here.sdk.core.Size2D,com.here.sdk.mapview.IconProvider.IconCallback)">createVehicleRestrictionIcon</a><wbr/>(<a href="sdk-for-android-navigate-pickmapcontentresult.vehiclerestrictionresult" title="class in com.here.sdk.mapview">PickMapContentResult.VehicleRestrictionResult</a> pickingResult,
  <a href="sdk-for-android-navigate-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme,
  <a href="sdk-for-android-navigate-iconproviderassettype" title="enum class in com.here.sdk.mapview">IconProviderAssetType</a> assetType,
  <a href="sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a> sizeConstraintsInPixels,
@@ -100,7 +100,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-iconprovider"
  picking result.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#createVehicleRestrictionIcon(com.here.sdk.mapview.VehicleRestrictionIconProperties,com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.IconProviderAssetType,com.here.sdk.core.Size2D,com.here.sdk.mapview.IconProvider.IconCallback)">createVehicleRestrictionIcon</a><wbr/>(<a href="sdk-for-android-navigate-vehiclerestrictioniconproperties" title="class in com.here.sdk.mapview">VehicleRestrictionIconProperties</a> iconProperties,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-iconprovider#createVehicleRestrictionIcon(com.here.sdk.mapview.VehicleRestrictionIconProperties,com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.IconProviderAssetType,com.here.sdk.core.Size2D,com.here.sdk.mapview.IconProvider.IconCallback)">createVehicleRestrictionIcon</a><wbr/>(<a href="sdk-for-android-navigate-vehiclerestrictioniconproperties" title="class in com.here.sdk.mapview">VehicleRestrictionIconProperties</a> iconProperties,
  <a href="sdk-for-android-navigate-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme,
  <a href="sdk-for-android-navigate-iconproviderassettype" title="enum class in com.here.sdk.mapview">IconProviderAssetType</a> assetType,
  <a href="sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a> sizeConstraintsInPixels,

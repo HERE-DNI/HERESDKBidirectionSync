@@ -35,7 +35,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast"
 implements <a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></span></div>
 <div class="block"><p>A <code>TrafficBroadcast</code> is expecting the <a href="https://en.wikipedia.org/wiki/Traffic_message_channel">RDS-TMC</a>
  format and it can be used when there is no internet connection, so that the <code>OfflineRoutingEngine</code>
- can utilize traffic data coming over a radio channel. The <a href="sdk-for-android-navigate-index#activate()"><code>activate()</code></a> method needs to be called to
+ can utilize traffic data coming over a radio channel. The <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast#activate()"><code>activate()</code></a> method needs to be called to
  receive traffic data events.
  </p><p><strong>Note:</strong> In order to adopt the <code>TrafficDataProvider</code> interface special hardware is required. Talk
  to your HERE representative for more details. Only by adopting the <code>TrafficDataProvider</code> interface
@@ -43,7 +43,7 @@ implements <a href="sdk-for-android-navigate-locationlistener" title="interface 
  to be used <em>independently</em> from the already included traffic on routes, on the map and from the
  HERE backends (when using the <code>TrafficEngine</code>).
  </p><p>This class continuously reacts to new locations provided from a location source and acts as a
- <a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core"><code>LocationListener</code></a>. The location must be updated regardless of calling <a href="sdk-for-android-navigate-index#activate()"><code>activate()</code></a>.
+ <a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core"><code>LocationListener</code></a>. The location must be updated regardless of calling <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast#activate()"><code>activate()</code></a>.
  </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -57,12 +57,12 @@ implements <a href="sdk-for-android-navigate-locationlistener" title="interface 
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.trafficbroadcast.TrafficBroadcastParameters)">TrafficBroadcast</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.trafficbroadcast.TrafficBroadcastParameters)">TrafficBroadcast</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
  <a href="sdk-for-android-navigate-trafficbroadcastparameters" title="class in com.here.sdk.trafficbroadcast">TrafficBroadcastParameters</a> parameters)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.trafficbroadcast.TrafficBroadcastParameters)">TrafficBroadcast</a><wbr/>(<a href="sdk-for-android-navigate-trafficbroadcastparameters" title="class in com.here.sdk.trafficbroadcast">TrafficBroadcastParameters</a> parameters)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast#%3Cinit%3E(com.here.sdk.trafficbroadcast.TrafficBroadcastParameters)">TrafficBroadcast</a><wbr/>(<a href="sdk-for-android-navigate-trafficbroadcastparameters" title="class in com.here.sdk.trafficbroadcast">TrafficBroadcastParameters</a> parameters)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -81,30 +81,30 @@ implements <a href="sdk-for-android-navigate-locationlistener" title="interface 
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#activate()">activate</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast#activate()">activate</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Activates the reception of traffic data over the radio channel.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#deactivate()">deactivate</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast#deactivate()">deactivate</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Deactivates the reception of traffic data over the radio channel.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-trafficdataprovider" title="class in com.here.sdk.traffic">TrafficDataProvider</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTrafficDataProvider()">getTrafficDataProvider</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast#getTrafficDataProvider()">getTrafficDataProvider</a>()</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onLocationUpdated(com.here.sdk.core.Location)">onLocationUpdated</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast#onLocationUpdated(com.here.sdk.core.Location)">onLocationUpdated</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Called each time a new location is available.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onTMCDataUpdated(com.here.sdk.trafficbroadcast.TMCData)">onTMCDataUpdated</a><wbr/>(<a href="sdk-for-android-navigate-tmcdata" title="class in com.here.sdk.trafficbroadcast">TMCData</a> tmcData)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast#onTMCDataUpdated(com.here.sdk.trafficbroadcast.TMCData)">onTMCDataUpdated</a><wbr/>(<a href="sdk-for-android-navigate-tmcdata" title="class in com.here.sdk.trafficbroadcast">TMCData</a> tmcData)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Must be called on every TMC data update.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onTMCServiceProviderInfoUpdated(com.here.sdk.trafficbroadcast.TMCServiceProviderInfo)">onTMCServiceProviderInfoUpdated</a><wbr/>(<a href="sdk-for-android-navigate-tmcserviceproviderinfo" title="class in com.here.sdk.trafficbroadcast">TMCServiceProviderInfo</a> tmcServiceProdiverInfo)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast#onTMCServiceProviderInfoUpdated(com.here.sdk.trafficbroadcast.TMCServiceProviderInfo)">onTMCServiceProviderInfoUpdated</a><wbr/>(<a href="sdk-for-android-navigate-tmcserviceproviderinfo" title="class in com.here.sdk.trafficbroadcast">TMCServiceProviderInfo</a> tmcServiceProdiverInfo)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Must be called on every TMC service prodiver info update.</div>
 </div>

@@ -42,57 +42,57 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evseinfo"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#capabilities">capabilities</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#capabilities">capabilities</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Capabilities of the EVSE.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingconnector" title="class in com.here.sdk.search">EVChargingConnector</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#connectors">connectors</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#connectors">connectors</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of available connectors on the EVSE.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#coordinates">coordinates</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#coordinates">coordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The geographic coordinates of the EVSE.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#evseID">evseID</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#evseID">evseID</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Identifier compliant with the EVSE ID from eMI3 standard version V1.0.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#floorLevel">floorLevel</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#floorLevel">floorLevel</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Floor level on which the EVSE is located.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#id">id</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#id">id</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Human-readable globally unique identifier for the EVSE.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#lastUpdated">lastUpdated</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#lastUpdated">lastUpdated</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Timestamp when the status of this EVSE was last updated.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evsepaymentsupport" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#paymentSupports">paymentSupports</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#paymentSupports">paymentSupports</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of payment support functionalities on EVSE for ad-hoc customers (without pre-registration).</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#physicalReference">physicalReference</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#physicalReference">physicalReference</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A number or string printed on the outside of the EVSE for visual identification.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#status">status</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#status">status</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Status of the EVSE.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#uid">uid</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#uid">uid</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Uniquely identifies the EVSE within the CPOs platform (and suboperator platforms).</div>
 </div>
@@ -107,7 +107,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evseinfo"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">EVSEInfo</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#%3Cinit%3E()">EVSEInfo</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -126,10 +126,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evseinfo"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evseinfo#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -155,7 +155,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evseinfo"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">uid</span></div>
 <div class="block"><p>Uniquely identifies the EVSE within the CPOs platform (and suboperator platforms).
  For example a database ID or the actual "EVSE ID". This field can never be changed, modified or renamed.
- This is the 'technical' identification of the EVSE, not to be used as 'human readable' identification, use the field <a href="sdk-for-android-explore-index#id"><code>id</code></a> for that.</p></div>
+ This is the 'technical' identification of the EVSE, not to be used as 'human readable' identification, use the field <a href="sdk-for-android-explore-com-here-sdk-search-evseinfo#id"><code>id</code></a> for that.</p></div>
 </section>
 </li>
 <li>

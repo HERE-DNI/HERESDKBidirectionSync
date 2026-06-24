@@ -44,37 +44,37 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#bicycleAllowed">bicycleAllowed</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes#bicycleAllowed">bicycleAllowed</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><code>True</code> if bicycles can access the segment in the given direction</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#busAllowed">busAllowed</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes#busAllowed">busAllowed</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><code>True</code> if buses can access the segment in the given direction</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#carAllowed">carAllowed</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes#carAllowed">carAllowed</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><code>True</code> if cars can access the segment in the given direction</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pedestrianAllowed">pedestrianAllowed</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes#pedestrianAllowed">pedestrianAllowed</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><code>True</code> if pedestrians can access the segment in the given direction</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#scooterAllowed">scooterAllowed</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes#scooterAllowed">scooterAllowed</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><code>True</code> if scooters can access the segment in the given direction</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#taxiAllowed">taxiAllowed</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes#taxiAllowed">taxiAllowed</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><code>True</code> if taxis can access the segment in the given direction</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#truckAllowed">truckAllowed</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes#truckAllowed">truckAllowed</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><code>True</code> if trucks can access the segment in the given direction</div>
 </div>
@@ -89,7 +89,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">AllowedTransportModes</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes#%3Cinit%3E()">AllowedTransportModes</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with default values.</div>
 </div>
@@ -108,10 +108,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-allowedtransportmodes#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

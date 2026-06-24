@@ -40,47 +40,47 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-trafficonspan"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#baseSpeedInMetersPerSecond">baseSpeedInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#baseSpeedInMetersPerSecond">baseSpeedInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The speed, in meters per second, without taking traffic into consideration.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#consumptionInKilowattHours">consumptionInKilowattHours</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#consumptionInKilowattHours">consumptionInKilowattHours</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The power consumption in kilowatt-hours (kWh) necessary to traverse the span.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#duration">duration</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#duration">duration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The time duration necessary to traverse the traffic span.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#incidentIndices">incidentIndices</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#incidentIndices">incidentIndices</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The indices of traffic incidents from the field <a href="sdk-for-android-navigate-trafficonsection#trafficIncidents"><code>TrafficOnSection.trafficIncidents</code></a>.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#jamFactor">jamFactor</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#jamFactor">jamFactor</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The traffic jam factor shows the traffic condition in a numeric way.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lengthInMeters">lengthInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#lengthInMeters">lengthInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Length of the traffic span, in meters.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#trafficDelay">trafficDelay</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#trafficDelay">trafficDelay</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The estimated extra time in seconds spent due to traffic delays along this traffic span.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#trafficSectionPolylineOffset">trafficSectionPolylineOffset</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#trafficSectionPolylineOffset">trafficSectionPolylineOffset</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Index over <a href="sdk-for-android-navigate-trafficonsection#geometry"><code>TrafficOnSection.geometry</code></a> where this span starts.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#trafficSpeedInMetersPerSecond">trafficSpeedInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#trafficSpeedInMetersPerSecond">trafficSpeedInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The speed, in meters per second, considering traffic.</div>
 </div>
@@ -95,7 +95,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-trafficonspan"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">TrafficOnSpan</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#%3Cinit%3E()">TrafficOnSpan</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -114,10 +114,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-trafficonspan"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

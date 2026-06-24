@@ -50,7 +50,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloaderconstruction
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onMapDownloaderConstructedCompleted(com.here.sdk.maploader.MapDownloader)">onMapDownloaderConstructedCompleted</a><wbr/>(<a href="sdk-for-android-navigate-mapdownloader" title="class in com.here.sdk.maploader">MapDownloader</a> mapDownloader)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloaderconstructioncallback#onMapDownloaderConstructedCompleted(com.here.sdk.maploader.MapDownloader)">onMapDownloaderConstructedCompleted</a><wbr/>(<a href="sdk-for-android-navigate-mapdownloader" title="class in com.here.sdk.maploader">MapDownloader</a> mapDownloader)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)"><code>MapDownloader.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapDownloaderConstructionCallback)</code></a> has been completed.</div>
 </div>

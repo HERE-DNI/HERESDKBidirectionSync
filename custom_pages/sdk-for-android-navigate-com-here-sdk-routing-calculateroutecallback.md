@@ -46,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-calculateroutecallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRouteCalculated(com.here.sdk.routing.RoutingError,java.util.List)">onRouteCalculated</a><wbr/>(<a href="sdk-for-android-navigate-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-calculateroutecallback#onRouteCalculated(com.here.sdk.routing.RoutingError,java.util.List)">onRouteCalculated</a><wbr/>(<a href="sdk-for-android-navigate-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a>&gt; routeList)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">A function which is called by the RoutingEngine after route calculation has completed.</div>

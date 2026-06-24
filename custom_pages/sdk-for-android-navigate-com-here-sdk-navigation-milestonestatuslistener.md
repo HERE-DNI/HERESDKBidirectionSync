@@ -40,7 +40,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-milestonestatuslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onMilestoneStatusUpdated(com.here.sdk.navigation.Milestone,com.here.sdk.navigation.MilestoneStatus)">onMilestoneStatusUpdated</a><wbr/>(<a href="sdk-for-android-navigate-milestone" title="class in com.here.sdk.navigation">Milestone</a> milestone,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-milestonestatuslistener#onMilestoneStatusUpdated(com.here.sdk.navigation.Milestone,com.here.sdk.navigation.MilestoneStatus)">onMilestoneStatusUpdated</a><wbr/>(<a href="sdk-for-android-navigate-milestone" title="class in com.here.sdk.navigation">Milestone</a> milestone,
  <a href="sdk-for-android-navigate-milestonestatus" title="enum class in com.here.sdk.navigation">MilestoneStatus</a> status)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when a milestone status has been changed.</div>

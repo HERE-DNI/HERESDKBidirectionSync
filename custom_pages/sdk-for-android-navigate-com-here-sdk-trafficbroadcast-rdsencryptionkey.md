@@ -41,22 +41,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkey"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#encryptionId">encryptionId</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkey#encryptionId">encryptionId</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Id of encryption key within the list.</div>
 </div>
 <div class="col-first odd-row-color"><code>short</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#rotateRight">rotateRight</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkey#rotateRight">rotateRight</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Rotate Right used for bit manipulations as a part of encryption process.</div>
 </div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#startBit">startBit</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkey#startBit">startBit</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Start Bit used for bit manipulations as a part of encryption process.</div>
 </div>
 <div class="col-first odd-row-color"><code>short</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#xorValue">xorValue</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkey#xorValue">xorValue</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">XOR Value used for bit manipulations as a part of encryption process.</div>
 </div>
@@ -71,7 +71,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkey"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(short,short,short,short)">RDSEncryptionKey</a><wbr/>(short encryptionId,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkey#%3Cinit%3E(short,short,short,short)">RDSEncryptionKey</a><wbr/>(short encryptionId,
  short rotateRight,
  short startBit,
  short xorValue)</code></div>

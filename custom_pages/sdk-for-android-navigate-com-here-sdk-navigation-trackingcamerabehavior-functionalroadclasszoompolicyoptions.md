@@ -45,12 +45,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-f
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#defaultZoom">defaultZoom</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-functionalroadclasszoompolicyoptions#defaultZoom">defaultZoom</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Default zoom returned when the functional road class is missing or unmapped.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a>,<wbr/><a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#functionalRoadClassToZoom">functionalRoadClassToZoom</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-functionalroadclasszoompolicyoptions#functionalRoadClassToZoom">functionalRoadClassToZoom</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Maps each functional road class to the zoom that should be used for it.</div>
 </div>
@@ -65,7 +65,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-f
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">FunctionalRoadClassZoomPolicyOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-functionalroadclasszoompolicyoptions#%3Cinit%3E()">FunctionalRoadClassZoomPolicyOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>

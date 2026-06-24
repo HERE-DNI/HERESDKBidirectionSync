@@ -45,12 +45,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maxZoom">maxZoom</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverzoomrange#maxZoom">maxZoom</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maximum camera zoom.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#minZoom">minZoom</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverzoomrange#minZoom">minZoom</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Minimum camera zoom.</div>
 </div>
@@ -65,7 +65,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">ManeuverZoomRange</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverzoomrange#%3Cinit%3E()">ManeuverZoomRange</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -105,7 +105,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a></span> <span class="element-name">maxZoom</span></div>
 <div class="block"><p>Maximum camera zoom. Valid range is 0.0 to 22.0. Must be greater than or equal
- to <a href="sdk-for-android-navigate-index#minZoom"><code>minZoom</code></a>.
+ to <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverzoomrange#minZoom"><code>minZoom</code></a>.
  Defaults to a <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> with kind <a href="sdk-for-android-navigate-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> and value 20.0.</p></div>
 </section>
 </li>

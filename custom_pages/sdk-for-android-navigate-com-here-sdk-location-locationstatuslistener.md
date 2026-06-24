@@ -39,13 +39,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationstatuslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onFeaturesNotAvailable(java.util.List)">onFeaturesNotAvailable</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-locationfeature" title="enum class in com.here.sdk.location">LocationFeature</a>&gt; features)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationstatuslistener#onFeaturesNotAvailable(java.util.List)">onFeaturesNotAvailable</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-locationfeature" title="enum class in com.here.sdk.location">LocationFeature</a>&gt; features)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called after start() if any requested location feature is not available
  for the application.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onStatusChanged(com.here.sdk.location.LocationEngineStatus)">onStatusChanged</a><wbr/>(<a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a> locationEngineStatus)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationstatuslistener#onStatusChanged(com.here.sdk.location.LocationEngineStatus)">onStatusChanged</a><wbr/>(<a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a> locationEngineStatus)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called each time the status of the LocationEngine has changed.</div>
 </div>

@@ -53,39 +53,39 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-paymentmethod"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BANK_CARD">BANK_CARD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod#BANK_CARD">BANK_CARD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Payment with a bank card.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CASH">CASH</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod#CASH">CASH</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Payment with cash money.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CASH_EXACT">CASH_EXACT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod#CASH_EXACT">CASH_EXACT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Payment with exact cash money, i.e.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CREDIT_CARD">CREDIT_CARD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod#CREDIT_CARD">CREDIT_CARD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Payment with a credit card.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PASS_SUBSCRIPTION">PASS_SUBSCRIPTION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod#PASS_SUBSCRIPTION">PASS_SUBSCRIPTION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Payment with a pass subscription.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRANSPONDER">TRANSPONDER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod#TRANSPONDER">TRANSPONDER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Payment with a transponder.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRAVEL_CARD">TRAVEL_CARD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod#TRAVEL_CARD">TRAVEL_CARD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Payment with a travel card.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNKNOWN">UNKNOWN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod#UNKNOWN">UNKNOWN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Payment with an unknown method.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#VIDEO_TOLL">VIDEO_TOLL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod#VIDEO_TOLL">VIDEO_TOLL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Payment with a video toll, i.e.</div>
 </div>
@@ -104,12 +104,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-paymentmethod"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

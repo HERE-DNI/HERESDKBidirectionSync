@@ -45,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-searchcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onSearchCompleted(com.here.sdk.search.SearchError,java.util.List)">onSearchCompleted</a><wbr/>(<a href="sdk-for-android-navigate-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searchcallback#onSearchCompleted(com.here.sdk.search.SearchError,java.util.List)">onSearchCompleted</a><wbr/>(<a href="sdk-for-android-navigate-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search">Place</a>&gt; places)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method will be called on the main thread when a search call has been completed.</div>

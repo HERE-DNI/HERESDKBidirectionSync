@@ -42,17 +42,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-electronichorizon" title="class in com.here.sdk.electronichorizon">ElectronicHorizon</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#electronicHorizon">electronicHorizon</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate#electronicHorizon">electronicHorizon</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The full electronic horizon recomputed for the current vehicle state.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-electronichorizonposition" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPosition</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#position">position</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate#position">position</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The vehicle’s updated position relative to the electronic horizon.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-electronichorizonsegmentchanges" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentChanges</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#segmentChanges">segmentChanges</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate#segmentChanges">segmentChanges</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The difference between the previously emitted horizon and the newly computed one.</div>
 </div>
@@ -67,7 +67,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.electronichorizon.ElectronicHorizonPosition)">ElectronicHorizonUpdate</a><wbr/>(<a href="sdk-for-android-navigate-electronichorizonposition" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPosition</a> position)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate#%3Cinit%3E(com.here.sdk.electronichorizon.ElectronicHorizonPosition)">ElectronicHorizonUpdate</a><wbr/>(<a href="sdk-for-android-navigate-electronichorizonposition" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPosition</a> position)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -86,10 +86,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

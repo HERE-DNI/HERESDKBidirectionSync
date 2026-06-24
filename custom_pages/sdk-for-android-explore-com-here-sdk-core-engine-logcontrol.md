@@ -65,29 +65,29 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logcontrol"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#disableLoggingToConsole()">disableLoggingToConsole</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol#disableLoggingToConsole()">disableLoggingToConsole</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Disables SDK logging messages to console.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#enableLoggingToConsole(com.here.sdk.core.engine.LogLevel)">enableLoggingToConsole</a><wbr/>(<a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol#enableLoggingToConsole(com.here.sdk.core.engine.LogLevel)">enableLoggingToConsole</a><wbr/>(<a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Enables SDK logging messages to console that can be
  viewed using logcat tool.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#removeAppender()">removeAppender</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol#removeAppender()">removeAppender</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Removes previously added custom log appender.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setAppender(com.here.sdk.core.engine.LogLevel,com.here.sdk.core.engine.LogAppender)">setAppender</a><wbr/>(<a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol#setAppender(com.here.sdk.core.engine.LogLevel,com.here.sdk.core.engine.LogAppender)">setAppender</a><wbr/>(<a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  <a href="sdk-for-android-explore-logappender" title="interface in com.here.sdk.core.engine">LogAppender</a> appender)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Sets a custom log appender to receive log messages from the SDK.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setAppender(com.here.sdk.core.engine.LogLevel,java.lang.String)">setAppender</a><wbr/>(<a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol#setAppender(com.here.sdk.core.engine.LogLevel,java.lang.String)">setAppender</a><wbr/>(<a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> path)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Sets a custom log appender that will write SDK log messages to a file.</div>
@@ -140,7 +140,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logcontrol"
 <div class="block"><p>Sets a custom log appender to receive log messages from the SDK.
  This overwrites a previous custom log appender set by user.
  Note, that setting the custom appender does not disable logging to the console made by SDK,
- in order to do that use <a href="sdk-for-android-explore-index#disableLoggingToConsole()"><code>disableLoggingToConsole()</code></a> API.</p></div>
+ in order to do that use <a href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol#disableLoggingToConsole()"><code>disableLoggingToConsole()</code></a> API.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>level</code> - <p>Log level.</p></dd>
@@ -159,7 +159,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logcontrol"
 <div class="block"><p>Sets a custom log appender that will write SDK log messages to a file.
  This overwrites a previous custom log appender set by user.
  Note, that setting the custom appender does not disable logging to the console made by SDK,
- in order to do that use <a href="sdk-for-android-explore-index#disableLoggingToConsole()"><code>disableLoggingToConsole()</code></a> API.</p></div>
+ in order to do that use <a href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol#disableLoggingToConsole()"><code>disableLoggingToConsole()</code></a> API.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>level</code> - <p>Log level.</p></dd>

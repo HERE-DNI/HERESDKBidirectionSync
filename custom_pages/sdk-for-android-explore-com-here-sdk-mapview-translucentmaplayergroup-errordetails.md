@@ -44,12 +44,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-err
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-translucentmaplayergroup.errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#errorCode">errorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-errordetails#errorCode">errorCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The error code.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#errorDescription">errorDescription</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-errordetails#errorDescription">errorDescription</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A description of the error, if available.</div>
 </div>
@@ -64,7 +64,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-err
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.TranslucentMapLayerGroup.ErrorCode,java.lang.String)">ErrorDetails</a><wbr/>(<a href="sdk-for-android-explore-translucentmaplayergroup.errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a> errorCode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup-errordetails#%3Cinit%3E(com.here.sdk.mapview.TranslucentMapLayerGroup.ErrorCode,java.lang.String)">ErrorDetails</a><wbr/>(<a href="sdk-for-android-explore-translucentmaplayergroup.errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a> errorCode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> errorDescription)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>

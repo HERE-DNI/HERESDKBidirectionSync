@@ -41,12 +41,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#baseSpeedInMetersPerSecond">baseSpeedInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment#baseSpeedInMetersPerSecond">baseSpeedInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">New maximum value in m/s of baseSpeed on segment.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#segment">segment</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment#segment">segment</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A segment for which the new base speed is specified.</div>
 </div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.SegmentReference,double)">MaxSpeedOnSegment</a><wbr/>(<a href="sdk-for-android-explore-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segment,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment#%3Cinit%3E(com.here.sdk.routing.SegmentReference,double)">MaxSpeedOnSegment</a><wbr/>(<a href="sdk-for-android-explore-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segment,
  double baseSpeedInMetersPerSecond)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -81,10 +81,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

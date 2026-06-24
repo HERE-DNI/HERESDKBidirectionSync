@@ -57,31 +57,31 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ARRAY">ARRAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype#ARRAY">ARRAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Value of array type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#BOOLEAN">BOOLEAN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype#BOOLEAN">BOOLEAN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Value of boolean type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#COLOR">COLOR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype#COLOR">COLOR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Value of color type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DOUBLE">DOUBLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype#DOUBLE">DOUBLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Value of double precision float type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#FLOAT">FLOAT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype#FLOAT">FLOAT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Value of single precision float type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#INT64">INT64</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype#INT64">INT64</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Value of 64-bit integer type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#STRING">STRING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype#STRING">STRING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Value of string type.</div>
 </div>
@@ -100,12 +100,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

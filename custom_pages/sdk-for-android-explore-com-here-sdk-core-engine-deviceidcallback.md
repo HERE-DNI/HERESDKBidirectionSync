@@ -43,7 +43,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-deviceidcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onDeviceIdCallbackCompleted(java.lang.String)">onDeviceIdCallbackCompleted</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> deviceId)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-deviceidcallback#onDeviceIdCallbackCompleted(java.lang.String)">onDeviceIdCallbackCompleted</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> deviceId)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">This method will be called on the main thread when <a href="sdk-for-android-explore-sdknativeengine#getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)"><code>SDKNativeEngine.getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)</code></a> has been completed.</div>
 </div>

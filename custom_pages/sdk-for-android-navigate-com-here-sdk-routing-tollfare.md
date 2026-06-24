@@ -46,32 +46,32 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-tollfare"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#currency">currency</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-tollfare#currency">currency</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The currency in which the toll is to be paid in ISO 4217 format, e.g.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-tollfarepass" title="class in com.here.sdk.routing">TollFarePass</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pass">pass</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-tollfare#pass">pass</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies whether this <a href="sdk-for-android-navigate-tollfare" title="class in com.here.sdk.routing"><code>TollFare</code></a> is a multi-travel pass, and its characteristics.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#paymentMethods">paymentMethods</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-tollfare#paymentMethods">paymentMethods</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of accepted payment methods like cash and credit card.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#price">price</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-tollfare#price">price</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The amount of the toll be paid.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#timeRule">timeRule</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-tollfare#timeRule">timeRule</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The time domain when this fare is valid.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#transponders">transponders</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-tollfare#transponders">transponders</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The list of available transponders.</div>
 </div>
@@ -86,20 +86,20 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-tollfare"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,double,java.util.List)">TollFare</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> currency,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-tollfare#%3Cinit%3E(java.lang.String,double,java.util.List)">TollFare</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> currency,
  double price,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt; paymentMethods)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule)">TollFare</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> currency,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-tollfare#%3Cinit%3E(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule)">TollFare</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> currency,
  double price,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt; paymentMethods,
  <a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a> timeRule)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule,java.util.List)">TollFare</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> currency,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-tollfare#%3Cinit%3E(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule,java.util.List)">TollFare</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> currency,
  double price,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt; paymentMethods,
  <a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a> timeRule,
@@ -107,7 +107,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-tollfare"
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule,java.util.List,com.here.sdk.routing.TollFarePass)">TollFare</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> currency,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-tollfare#%3Cinit%3E(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule,java.util.List,com.here.sdk.routing.TollFarePass)">TollFare</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> currency,
  double price,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt; paymentMethods,
  <a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a> timeRule,
@@ -131,10 +131,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-tollfare"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-tollfare#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-tollfare#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

@@ -46,18 +46,18 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-heremap"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#addMapIdleListener(com.here.sdk.mapview.MapIdleListener)">addMapIdleListener</a><wbr/>(<a href="sdk-for-android-explore-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-heremap#addMapIdleListener(com.here.sdk.mapview.MapIdleListener)">addMapIdleListener</a><wbr/>(<a href="sdk-for-android-explore-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a listener for receiving idle state
  notifications and notifies it of the current state.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getStyle()">getStyle</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-heremap#getStyle()">getStyle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the style that the map uses to customize the visual appearance of rendered features.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)">removeMapIdleListener</a><wbr/>(<a href="sdk-for-android-explore-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-heremap#removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)">removeMapIdleListener</a><wbr/>(<a href="sdk-for-android-explore-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a listener from receiving idle state notifications.</div>
 </div>
@@ -89,7 +89,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-heremap"
  </p><p>The new listener is appended to the set
  of <code>HereMap</code> idle listeners as a strong reference.
  The caller is responsible for releasing the strong reference by calling
- <a href="sdk-for-android-explore-index#removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)"><code>removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)</code></a>.</p></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-heremap#removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)"><code>removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>listener</code> - <p>The listener</p></dd>

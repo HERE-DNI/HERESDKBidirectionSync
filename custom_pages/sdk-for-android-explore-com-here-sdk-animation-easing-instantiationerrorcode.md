@@ -57,23 +57,23 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorc
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SAMPLED_DATA_POINT_COUNT_TOO_SMALL">SAMPLED_DATA_POINT_COUNT_TOO_SMALL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode#SAMPLED_DATA_POINT_COUNT_TOO_SMALL">SAMPLED_DATA_POINT_COUNT_TOO_SMALL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Number of sampled data points in the list that defines an easing function is too small (i.e.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID">SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode#SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID">SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Invalid first value of X in the list of sampled data points that define an easing function.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID">SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode#SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID">SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Invalid last value of X in the list of sampled data points that define an easing function.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SAMPLED_DATA_X_VALUE_OUT_OF_RANGE">SAMPLED_DATA_X_VALUE_OUT_OF_RANGE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode#SAMPLED_DATA_X_VALUE_OUT_OF_RANGE">SAMPLED_DATA_X_VALUE_OUT_OF_RANGE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Sampled data point X values that define an easing function are out of range [0, 1].</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SAMPLED_DATA_X_VALUES_NON_MONOTONIC">SAMPLED_DATA_X_VALUES_NON_MONOTONIC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode#SAMPLED_DATA_X_VALUES_NON_MONOTONIC">SAMPLED_DATA_X_VALUES_NON_MONOTONIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Sampled data point X values in the list that defines an easing function don't increase monotonically.</div>
 </div>
@@ -92,12 +92,12 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorc
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

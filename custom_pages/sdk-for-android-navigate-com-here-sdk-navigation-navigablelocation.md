@@ -40,12 +40,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-navigablelocation"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-mapmatchedlocation" title="class in com.here.sdk.navigation">MapMatchedLocation</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#mapMatchedLocation">mapMatchedLocation</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigablelocation#mapMatchedLocation">mapMatchedLocation</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The map-matched location on a road.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#originalLocation">originalLocation</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigablelocation#originalLocation">originalLocation</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The original location that was passed in via <a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core"><code>LocationListener</code></a>.</div>
 </div>
@@ -60,7 +60,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-navigablelocation"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.Location,com.here.sdk.navigation.MapMatchedLocation)">NavigableLocation</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> originalLocation,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigablelocation#%3Cinit%3E(com.here.sdk.core.Location,com.here.sdk.navigation.MapMatchedLocation)">NavigableLocation</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> originalLocation,
  <a href="sdk-for-android-navigate-mapmatchedlocation" title="class in com.here.sdk.navigation">MapMatchedLocation</a> mapMatchedLocation)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -80,10 +80,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-navigablelocation"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigablelocation#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigablelocation#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -115,7 +115,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-navigablelocation"
 <h3>mapMatchedLocation</h3>
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapmatchedlocation" title="class in com.here.sdk.navigation">MapMatchedLocation</a></span> <span class="element-name">mapMatchedLocation</span></div>
-<div class="block"><p>The map-matched location on a road. It is calculated from the passed in <a href="sdk-for-android-navigate-index#originalLocation"><code>originalLocation</code></a>.</p></div>
+<div class="block"><p>The map-matched location on a road. It is calculated from the passed in <a href="sdk-for-android-navigate-com-here-sdk-navigation-navigablelocation#originalLocation"><code>originalLocation</code></a>.</p></div>
 </section>
 </li>
 </ul>
@@ -137,7 +137,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-navigablelocation"
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>originalLocation</code> - <p>The original location that was passed in via <a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core"><code>LocationListener</code></a>.</p></dd>
-<dd><code>mapMatchedLocation</code> - <p>The map-matched location on a road. It is calculated from the passed in <a href="sdk-for-android-navigate-index#originalLocation"><code>originalLocation</code></a>.</p></dd>
+<dd><code>mapMatchedLocation</code> - <p>The map-matched location on a road. It is calculated from the passed in <a href="sdk-for-android-navigate-com-here-sdk-navigation-navigablelocation#originalLocation"><code>originalLocation</code></a>.</p></dd>
 </dl>
 </section>
 </li>

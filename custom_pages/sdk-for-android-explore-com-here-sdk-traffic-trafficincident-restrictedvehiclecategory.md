@@ -38,7 +38,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedve
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a>&gt;</span></div>
 <div class="block"><p>The vehicle categories that can be restricted.
  Note, a vehicle can belong to several categories (e.g. a passenger motor car
- belongs to <a href="sdk-for-android-explore-index#CAR"><code>CAR</code></a>, <a href="sdk-for-android-explore-index#MOTOR_VEHICLE"><code>MOTOR_VEHICLE</code></a>, and <a href="sdk-for-android-explore-index#ALL"><code>ALL</code></a>).
+ belongs to <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#CAR"><code>CAR</code></a>, <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#MOTOR_VEHICLE"><code>MOTOR_VEHICLE</code></a>, and <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#ALL"><code>ALL</code></a>).
  A vehicle is restricted if it belongs to the category presented in the map <a href="sdk-for-android-explore-trafficincident#getVehicleRestrictions()"><code>TrafficIncident.getVehicleRestrictions()</code></a>
  and at least one of the vehicle properties is under the matching <a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic"><code>TrafficIncident.VehicleRestriction</code></a>.</p></div>
 </section>
@@ -61,55 +61,55 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedve
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ALL">ALL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#ALL">ALL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">All the vehicles are applicable for this category.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#BUS">BUS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#BUS">BUS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Bus.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CAR">CAR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#CAR">CAR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Car.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#HEAVY_GOODS_VEHICLE">HEAVY_GOODS_VEHICLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#HEAVY_GOODS_VEHICLE">HEAVY_GOODS_VEHICLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Heavy goods vehicle (or large goods vehicle).</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MOTOR_VEHICLE">MOTOR_VEHICLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#MOTOR_VEHICLE">MOTOR_VEHICLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Motor vehicle.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MOTORCYCLE">MOTORCYCLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#MOTORCYCLE">MOTORCYCLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Motorcycle.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OTHER">OTHER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#OTHER">OTHER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Other vehicles.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TAXI">TAXI</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TAXI">TAXI</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Taxi.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAIN">TRAIN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TRAIN">TRAIN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Train.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRANSPORTING_ABNORMAL_SIZE_LOAD">TRANSPORTING_ABNORMAL_SIZE_LOAD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TRANSPORTING_ABNORMAL_SIZE_LOAD">TRANSPORTING_ABNORMAL_SIZE_LOAD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Transporting an abnormal size load.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRANSPORTING_HAZARDOUS_GOODS">TRANSPORTING_HAZARDOUS_GOODS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TRANSPORTING_HAZARDOUS_GOODS">TRANSPORTING_HAZARDOUS_GOODS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Transporting hazardous goods.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRUCK">TRUCK</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TRUCK">TRUCK</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Truck.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#VEHICLE_WITH_TRAILER">VEHICLE_WITH_TRAILER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#VEHICLE_WITH_TRAILER">VEHICLE_WITH_TRAILER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Vehicle with trailer.</div>
 </div>
@@ -128,12 +128,12 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedve
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

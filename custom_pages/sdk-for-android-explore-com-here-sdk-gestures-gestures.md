@@ -48,98 +48,98 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-gestures"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#disableDefaultAction(com.here.sdk.gestures.GestureType)">disableDefaultAction</a><wbr/>(<a href="sdk-for-android-explore-gesturetype" title="enum class in com.here.sdk.gestures">GestureType</a> gestureType)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#disableDefaultAction(com.here.sdk.gestures.GestureType)">disableDefaultAction</a><wbr/>(<a href="sdk-for-android-explore-gesturetype" title="enum class in com.here.sdk.gestures">GestureType</a> gestureType)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Disables default action for a specified gesture.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#enableDefaultAction(com.here.sdk.gestures.GestureType)">enableDefaultAction</a><wbr/>(<a href="sdk-for-android-explore-gesturetype" title="enum class in com.here.sdk.gestures">GestureType</a> gestureType)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#enableDefaultAction(com.here.sdk.gestures.GestureType)">enableDefaultAction</a><wbr/>(<a href="sdk-for-android-explore-gesturetype" title="enum class in com.here.sdk.gestures">GestureType</a> gestureType)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Enables default action to be performed for a specified
  gesture.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-doubletaplistener" title="interface in com.here.sdk.gestures">DoubleTapListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getDoubleTapListener()">getDoubleTapListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#getDoubleTapListener()">getDoubleTapListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a <a href="sdk-for-android-explore-doubletaplistener" title="interface in com.here.sdk.gestures"><code>DoubleTapListener</code></a> that notifies when a double-tap gesture occurs.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-flinghandler" title="class in com.here.sdk.gestures">FlingHandler</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getFlingHandler()">getFlingHandler</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#getFlingHandler()">getFlingHandler</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns fling handler.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-longpresslistener" title="interface in com.here.sdk.gestures">LongPressListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getLongPressListener()">getLongPressListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#getLongPressListener()">getLongPressListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a <a href="sdk-for-android-explore-longpresslistener" title="interface in com.here.sdk.gestures"><code>LongPressListener</code></a> that notifies when a long-press gesture occurs.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-panlistener" title="interface in com.here.sdk.gestures">PanListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getPanListener()">getPanListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#getPanListener()">getPanListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a <a href="sdk-for-android-explore-panlistener" title="interface in com.here.sdk.gestures"><code>PanListener</code></a> that notifies when a pan gesture occurs.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-pinchrotatelistener" title="interface in com.here.sdk.gestures">PinchRotateListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getPinchRotateListener()">getPinchRotateListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#getPinchRotateListener()">getPinchRotateListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a <a href="sdk-for-android-explore-pinchrotatelistener" title="interface in com.here.sdk.gestures"><code>PinchRotateListener</code></a> that notifies when a pinch-rotate gesture occurs.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-scalehandler" title="class in com.here.sdk.gestures">ScaleHandler</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getScaleHandler()">getScaleHandler</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#getScaleHandler()">getScaleHandler</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns scale handler.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-scrollhandler" title="class in com.here.sdk.gestures">ScrollHandler</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getScrollHandler()">getScrollHandler</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#getScrollHandler()">getScrollHandler</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns scroll handler.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-taplistener" title="interface in com.here.sdk.gestures">TapListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getTapListener()">getTapListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#getTapListener()">getTapListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a <a href="sdk-for-android-explore-taplistener" title="interface in com.here.sdk.gestures"><code>TapListener</code></a> that notifies when a tap gesture occurs.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-twofingerpanlistener" title="interface in com.here.sdk.gestures">TwoFingerPanListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getTwoFingerPanListener()">getTwoFingerPanListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#getTwoFingerPanListener()">getTwoFingerPanListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a <a href="sdk-for-android-explore-twofingerpanlistener" title="interface in com.here.sdk.gestures"><code>TwoFingerPanListener</code></a> that notifies when a two-finger pan gesture occurs.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-twofingertaplistener" title="interface in com.here.sdk.gestures">TwoFingerTapListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getTwoFingerTapListener()">getTwoFingerTapListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#getTwoFingerTapListener()">getTwoFingerTapListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a <a href="sdk-for-android-explore-twofingertaplistener" title="interface in com.here.sdk.gestures"><code>TwoFingerTapListener</code></a> that notifies when a two-finger tap gesture occurs.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setDoubleTapListener(com.here.sdk.gestures.DoubleTapListener)">setDoubleTapListener</a><wbr/>(<a href="sdk-for-android-explore-doubletaplistener" title="interface in com.here.sdk.gestures">DoubleTapListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#setDoubleTapListener(com.here.sdk.gestures.DoubleTapListener)">setDoubleTapListener</a><wbr/>(<a href="sdk-for-android-explore-doubletaplistener" title="interface in com.here.sdk.gestures">DoubleTapListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a <a href="sdk-for-android-explore-doubletaplistener" title="interface in com.here.sdk.gestures"><code>DoubleTapListener</code></a> that notifies when a double-tap gesture occurs.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setLongPressListener(com.here.sdk.gestures.LongPressListener)">setLongPressListener</a><wbr/>(<a href="sdk-for-android-explore-longpresslistener" title="interface in com.here.sdk.gestures">LongPressListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#setLongPressListener(com.here.sdk.gestures.LongPressListener)">setLongPressListener</a><wbr/>(<a href="sdk-for-android-explore-longpresslistener" title="interface in com.here.sdk.gestures">LongPressListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a <a href="sdk-for-android-explore-longpresslistener" title="interface in com.here.sdk.gestures"><code>LongPressListener</code></a> that notifies when a long-press gesture occurs.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setPanListener(com.here.sdk.gestures.PanListener)">setPanListener</a><wbr/>(<a href="sdk-for-android-explore-panlistener" title="interface in com.here.sdk.gestures">PanListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#setPanListener(com.here.sdk.gestures.PanListener)">setPanListener</a><wbr/>(<a href="sdk-for-android-explore-panlistener" title="interface in com.here.sdk.gestures">PanListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a <a href="sdk-for-android-explore-panlistener" title="interface in com.here.sdk.gestures"><code>PanListener</code></a> that notifies when a pan gesture occurs.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setPinchRotateListener(com.here.sdk.gestures.PinchRotateListener)">setPinchRotateListener</a><wbr/>(<a href="sdk-for-android-explore-pinchrotatelistener" title="interface in com.here.sdk.gestures">PinchRotateListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#setPinchRotateListener(com.here.sdk.gestures.PinchRotateListener)">setPinchRotateListener</a><wbr/>(<a href="sdk-for-android-explore-pinchrotatelistener" title="interface in com.here.sdk.gestures">PinchRotateListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a <a href="sdk-for-android-explore-pinchrotatelistener" title="interface in com.here.sdk.gestures"><code>PinchRotateListener</code></a> that notifies when a pinch-rotate gesture occurs.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setTapListener(com.here.sdk.gestures.TapListener)">setTapListener</a><wbr/>(<a href="sdk-for-android-explore-taplistener" title="interface in com.here.sdk.gestures">TapListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#setTapListener(com.here.sdk.gestures.TapListener)">setTapListener</a><wbr/>(<a href="sdk-for-android-explore-taplistener" title="interface in com.here.sdk.gestures">TapListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a <a href="sdk-for-android-explore-taplistener" title="interface in com.here.sdk.gestures"><code>TapListener</code></a> that notifies when a tap gesture occurs.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setTwoFingerPanListener(com.here.sdk.gestures.TwoFingerPanListener)">setTwoFingerPanListener</a><wbr/>(<a href="sdk-for-android-explore-twofingerpanlistener" title="interface in com.here.sdk.gestures">TwoFingerPanListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#setTwoFingerPanListener(com.here.sdk.gestures.TwoFingerPanListener)">setTwoFingerPanListener</a><wbr/>(<a href="sdk-for-android-explore-twofingerpanlistener" title="interface in com.here.sdk.gestures">TwoFingerPanListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a <a href="sdk-for-android-explore-twofingerpanlistener" title="interface in com.here.sdk.gestures"><code>TwoFingerPanListener</code></a> that notifies when a two-finger pan gesture occurs.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setTwoFingerTapListener(com.here.sdk.gestures.TwoFingerTapListener)">setTwoFingerTapListener</a><wbr/>(<a href="sdk-for-android-explore-twofingertaplistener" title="interface in com.here.sdk.gestures">TwoFingerTapListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-gestures#setTwoFingerTapListener(com.here.sdk.gestures.TwoFingerTapListener)">setTwoFingerTapListener</a><wbr/>(<a href="sdk-for-android-explore-twofingertaplistener" title="interface in com.here.sdk.gestures">TwoFingerTapListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a <a href="sdk-for-android-explore-twofingertaplistener" title="interface in com.here.sdk.gestures"><code>TwoFingerTapListener</code></a> that notifies when a two-finger tap gesture occurs.</div>
 </div>

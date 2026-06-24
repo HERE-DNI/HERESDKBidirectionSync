@@ -55,27 +55,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-ev-evsecapability"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CHARGING_PREFERENCES">CHARGING_PREFERENCES</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evsecapability#CHARGING_PREFERENCES">CHARGING_PREFERENCES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The EVSE supports charging preferences.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CHARGING_PROFILE">CHARGING_PROFILE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evsecapability#CHARGING_PROFILE">CHARGING_PROFILE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The EVSE supports charging profiles.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REMOTE_START_STOP">REMOTE_START_STOP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evsecapability#REMOTE_START_STOP">REMOTE_START_STOP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The EVSE can remotely be started/stopped.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RESERVABLE">RESERVABLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evsecapability#RESERVABLE">RESERVABLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The EVSE can be reserved.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TOKEN_GROUP">TOKEN_GROUP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evsecapability#TOKEN_GROUP">TOKEN_GROUP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This EVSE supports token groups, two or more tokens work as one, so that a session can be started with one token and stopped with another.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNLOCK">UNLOCK</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evsecapability#UNLOCK">UNLOCK</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Connectors have mechanical lock that can be requested by the eMSP to be unlocked.</div>
 </div>
@@ -94,12 +94,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-ev-evsecapability"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evsecapability#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-ev-evsecapability#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

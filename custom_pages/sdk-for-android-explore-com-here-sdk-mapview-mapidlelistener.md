@@ -42,12 +42,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onMapBusy()">onMapBusy</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener#onMapBusy()">onMapBusy</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when map becomes invalidated and is about to be updated.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onMapIdle()">onMapIdle</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener#onMapIdle()">onMapIdle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when map finishes all state updates.</div>
 </div>
@@ -70,7 +70,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener"
 <h3>onMapBusy</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onMapBusy</span>()</div>
 <div class="block"><p>Called when map becomes invalidated and is about to be updated. One or more
- redraws will happen afterwards, until <a href="sdk-for-android-explore-index#onMapIdle()"><code>onMapIdle()</code></a> is called.</p></div>
+ redraws will happen afterwards, until <a href="sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener#onMapIdle()"><code>onMapIdle()</code></a> is called.</p></div>
 </section>
 </li>
 <li>
@@ -78,7 +78,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener"
 <h3>onMapIdle</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onMapIdle</span>()</div>
 <div class="block"><p>Called when map finishes all state updates. No state changes or redraws
- will happen aftrwards until <a href="sdk-for-android-explore-index#onMapBusy()"><code>onMapBusy()</code></a> is called.</p></div>
+ will happen aftrwards until <a href="sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener#onMapBusy()"><code>onMapBusy()</code></a> is called.</p></div>
 </section>
 </li>
 </ul>

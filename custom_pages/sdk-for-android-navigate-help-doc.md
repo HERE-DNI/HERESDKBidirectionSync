@@ -19,24 +19,24 @@ slug: "sdk-for-android-navigate-help-doc"
 
 
 <ul class="help-toc">
-<li><a href="sdk-for-android-navigate-index#help-navigation">Navigation</a>: 
+<li><a href="sdk-for-android-navigate-help-doc#help-navigation">Navigation</a>: 
 <ul class="help-subtoc">
-<li><a href="sdk-for-android-navigate-index#help-search">Search</a></li>
+<li><a href="sdk-for-android-navigate-help-doc#help-search">Search</a></li>
 </ul>
 </li>
-<li><a href="sdk-for-android-navigate-index#help-pages">Kinds of Pages</a>: 
+<li><a href="sdk-for-android-navigate-help-doc#help-pages">Kinds of Pages</a>: 
 <ul class="help-subtoc">
-<li><a href="sdk-for-android-navigate-index#overview">Overview</a></li>
-<li><a href="sdk-for-android-navigate-index#package">Package</a></li>
-<li><a href="sdk-for-android-navigate-index#class">Class or Interface</a></li>
-<li><a href="sdk-for-android-navigate-index#doc-file">Other Files</a></li>
-<li><a href="sdk-for-android-navigate-index#tree">Tree (Class Hierarchy)</a></li>
-<li><a href="sdk-for-android-navigate-index#deprecated">Deprecated API</a></li>
-<li><a href="sdk-for-android-navigate-index#constant-values">Constant Field Values</a></li>
-<li><a href="sdk-for-android-navigate-index#serialized-form">Serialized Form</a></li>
-<li><a href="sdk-for-android-navigate-index#all-packages">All Packages</a></li>
-<li><a href="sdk-for-android-navigate-index#all-classes">All Classes and Interfaces</a></li>
-<li><a href="sdk-for-android-navigate-index#index">Index</a></li>
+<li><a href="sdk-for-android-navigate-help-doc#overview">Overview</a></li>
+<li><a href="sdk-for-android-navigate-help-doc#package">Package</a></li>
+<li><a href="sdk-for-android-navigate-help-doc#class">Class or Interface</a></li>
+<li><a href="sdk-for-android-navigate-help-doc#doc-file">Other Files</a></li>
+<li><a href="sdk-for-android-navigate-help-doc#tree">Tree (Class Hierarchy)</a></li>
+<li><a href="sdk-for-android-navigate-help-doc#deprecated">Deprecated API</a></li>
+<li><a href="sdk-for-android-navigate-help-doc#constant-values">Constant Field Values</a></li>
+<li><a href="sdk-for-android-navigate-help-doc#serialized-form">Serialized Form</a></li>
+<li><a href="sdk-for-android-navigate-help-doc#all-packages">All Packages</a></li>
+<li><a href="sdk-for-android-navigate-help-doc#all-classes">All Classes and Interfaces</a></li>
+<li><a href="sdk-for-android-navigate-help-doc#index">Index</a></li>
 </ul>
 </li>
 </ul>

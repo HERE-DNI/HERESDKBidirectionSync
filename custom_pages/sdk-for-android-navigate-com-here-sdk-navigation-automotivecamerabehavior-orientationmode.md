@@ -57,15 +57,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MODE_2D">MODE_2D</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior-orientationmode#MODE_2D">MODE_2D</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Displays the map in 2D view with the camera perpendicular to the Earth's surface.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MODE_3D">MODE_3D</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior-orientationmode#MODE_3D">MODE_3D</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Displays the map in 3D view with a tilted camera perspective.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MODE_NORTH_UP">MODE_NORTH_UP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior-orientationmode#MODE_NORTH_UP">MODE_NORTH_UP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Displays the map in north-up orientation where the top of the screen always points north,
  regardless of the vehicle's heading.</div>
@@ -85,12 +85,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode" title="enum class in com.here.sdk.navigation">AutomotiveCameraBehavior.OrientationMode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior-orientationmode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode" title="enum class in com.here.sdk.navigation">AutomotiveCameraBehavior.OrientationMode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior-orientationmode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

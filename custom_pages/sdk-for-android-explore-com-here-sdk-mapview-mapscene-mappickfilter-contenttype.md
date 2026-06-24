@@ -57,11 +57,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-conte
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CUSTOM_LAYER_DATA">CUSTOM_LAYER_DATA</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype#CUSTOM_LAYER_DATA">CUSTOM_LAYER_DATA</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Custom user map content added using custom datasources e.g.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MAP_CONTENT">MAP_CONTENT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype#MAP_CONTENT">MAP_CONTENT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Pickable map content currently consists of:
  
@@ -70,7 +70,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-conte
  with <a href="sdk-for-android-explore-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>.
  Vehicle restrictions are only available for the Navigate license.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MAP_ITEMS">MAP_ITEMS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype#MAP_ITEMS">MAP_ITEMS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map items added through a <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> like <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>, <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>, <a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview"><code>MapPolygon</code></a>.</div>
 </div>
@@ -89,12 +89,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-conte
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapscene.mappickfilter.contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapscene.mappickfilter.contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

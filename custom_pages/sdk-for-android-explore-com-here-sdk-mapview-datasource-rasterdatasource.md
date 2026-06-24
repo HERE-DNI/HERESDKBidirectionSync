@@ -51,25 +51,25 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.MapContext,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration)">RasterDataSource</a><wbr/>(<a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource#%3Cinit%3E(com.here.sdk.mapview.MapContext,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration)">RasterDataSource</a><wbr/>(<a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context,
  <a href="sdk-for-android-explore-rasterdatasourceconfiguration" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a> configuration)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a RasterDataSource instance with the provided data source configuration.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.MapContext,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration,com.here.sdk.mapview.datasource.RasterDataSourceListener)">RasterDataSource</a><wbr/>(<a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource#%3Cinit%3E(com.here.sdk.mapview.MapContext,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration,com.here.sdk.mapview.datasource.RasterDataSourceListener)">RasterDataSource</a><wbr/>(<a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context,
  <a href="sdk-for-android-explore-rasterdatasourceconfiguration" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a> configuration,
  <a href="sdk-for-android-explore-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a> listener)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a RasterDataSource instance with the provided data source configuration and
  registers a listener.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.RasterTileSource)">RasterDataSource</a><wbr/>(<a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource#%3Cinit%3E(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.RasterTileSource)">RasterDataSource</a><wbr/>(<a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  <a href="sdk-for-android-explore-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a> tileSource)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a RasterDataSource instance with the provided raster tile source.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.RasterTileSource,com.here.sdk.mapview.datasource.RasterDataSourceListener)">RasterDataSource</a><wbr/>(<a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource#%3Cinit%3E(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.RasterTileSource,com.here.sdk.mapview.datasource.RasterDataSourceListener)">RasterDataSource</a><wbr/>(<a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  <a href="sdk-for-android-explore-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a> tileSource,
  <a href="sdk-for-android-explore-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a> listener)</code></div>
@@ -92,27 +92,27 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#addListener(com.here.sdk.mapview.datasource.RasterDataSourceListener)">addListener</a><wbr/>(<a href="sdk-for-android-explore-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource#addListener(com.here.sdk.mapview.datasource.RasterDataSourceListener)">addListener</a><wbr/>(<a href="sdk-for-android-explore-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Add listener for receiving state notifications.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#changeConfiguration(com.here.sdk.mapview.datasource.RasterDataSourceConfigurationUpdate)">changeConfiguration</a><wbr/>(<a href="sdk-for-android-explore-rasterdatasourceconfigurationupdate" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfigurationUpdate</a> configuration)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource#changeConfiguration(com.here.sdk.mapview.datasource.RasterDataSourceConfigurationUpdate)">changeConfiguration</a><wbr/>(<a href="sdk-for-android-explore-rasterdatasourceconfigurationupdate" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfigurationUpdate</a> configuration)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Applies the configuration update to the data source.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#destroy()">destroy</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource#destroy()">destroy</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Frees all internally used resources.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#removeListener(com.here.sdk.mapview.datasource.RasterDataSourceListener)">removeListener</a><wbr/>(<a href="sdk-for-android-explore-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a> listener)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource#removeListener(com.here.sdk.mapview.datasource.RasterDataSourceListener)">removeListener</a><wbr/>(<a href="sdk-for-android-explore-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a> listener)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Remove a listener from receiving state notifications.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#removeListeners()">removeListeners</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource#removeListeners()">removeListeners</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Remove all listeners from receiving state notifications.</div>
 </div>
@@ -247,7 +247,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource"
 <div class="block"><p>Add listener for receiving state notifications. The new listener is
  appended to the set of data source listeners as a strong reference and will receive only
  the notifications occurring after the registration. Caller is responsible for releasing
- the strong reference by calling <a href="sdk-for-android-explore-index#removeListener(com.here.sdk.mapview.datasource.RasterDataSourceListener)"><code>removeListener(com.here.sdk.mapview.datasource.RasterDataSourceListener)</code></a>.</p></div>
+ the strong reference by calling <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource#removeListener(com.here.sdk.mapview.datasource.RasterDataSourceListener)"><code>removeListener(com.here.sdk.mapview.datasource.RasterDataSourceListener)</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>listener</code> - <p>Listener to be added for receiving state notifications.</p></dd>

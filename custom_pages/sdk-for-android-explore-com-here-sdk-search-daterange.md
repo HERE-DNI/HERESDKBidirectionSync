@@ -44,14 +44,14 @@ slug: "sdk-for-android-explore-com-here-sdk-search-daterange"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#from">from</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-daterange#from">from</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">First date when the element is valid.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#to">to</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-daterange#to">to</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">First date when the element is no longer valid, exclusive and later than <a href="sdk-for-android-explore-index#from"><code>from</code></a>.</div>
+<div class="block">First date when the element is no longer valid, exclusive and later than <a href="sdk-for-android-explore-com-here-sdk-search-daterange#from"><code>from</code></a>.</div>
 </div>
 </div>
 </section>
@@ -64,7 +64,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-daterange"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">DateRange</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-daterange#%3Cinit%3E()">DateRange</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -83,10 +83,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-daterange"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-daterange#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-daterange#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -119,7 +119,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-daterange"
 <h3>to</h3>
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></span> <span class="element-name">to</span></div>
-<div class="block"><p>First date when the element is no longer valid, exclusive and later than <a href="sdk-for-android-explore-index#from"><code>from</code></a>.
+<div class="block"><p>First date when the element is no longer valid, exclusive and later than <a href="sdk-for-android-explore-com-here-sdk-search-daterange#from"><code>from</code></a>.
  If absent the element is valid until some other element takes over.</p></div>
 </section>
 </li>

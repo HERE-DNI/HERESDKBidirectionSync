@@ -47,7 +47,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource-p
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#process(com.here.sdk.mapview.datasource.PointDataAccessor)">process</a><wbr/>(<a href="sdk-for-android-explore-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a> pointAccessor)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource-pointdataprocessor#process(com.here.sdk.mapview.datasource.PointDataAccessor)">process</a><wbr/>(<a href="sdk-for-android-explore-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a> pointAccessor)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called for each point, allowing inspection, removal or update of coordinates and attributes.</div>
 </div>

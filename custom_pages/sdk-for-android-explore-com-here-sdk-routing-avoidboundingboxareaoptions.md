@@ -40,22 +40,22 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#avoidBoundingBoxArea">avoidBoundingBoxArea</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#avoidBoundingBoxArea">avoidBoundingBoxArea</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Area of rectangular shape which routes must not cross.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#boundingBoxExceptionAreas">boundingBoxExceptionAreas</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#boundingBoxExceptionAreas">boundingBoxExceptionAreas</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Areas of rectangular shape to exclude from avoidance.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#corridorExceptionAreas">corridorExceptionAreas</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#corridorExceptionAreas">corridorExceptionAreas</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Areas of corridor shape to exclude from avoidance.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#polygonExceptionAreas">polygonExceptionAreas</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#polygonExceptionAreas">polygonExceptionAreas</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Areas of polygon shape to exclude from avoidance.</div>
 </div>
@@ -70,7 +70,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.GeoBox)">AvoidBoundingBoxAreaOptions</a><wbr/>(<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> avoidBoundingBoxArea)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#%3Cinit%3E(com.here.sdk.core.GeoBox)">AvoidBoundingBoxAreaOptions</a><wbr/>(<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> avoidBoundingBoxArea)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -89,10 +89,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

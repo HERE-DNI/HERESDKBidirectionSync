@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-scrollhandler"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onScroll(float,float)">onScroll</a><wbr/>(float translationX,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-scrollhandler#onScroll(float,float)">onScroll</a><wbr/>(float translationX,
  float translationY)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">To be called to trigger scroll gesture handling.</div>

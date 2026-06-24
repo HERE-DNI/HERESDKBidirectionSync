@@ -55,123 +55,123 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-fueltype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BIO_DIESEL">BIO_DIESEL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#BIO_DIESEL">BIO_DIESEL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Bio-Diesel fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CNG">CNG</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#CNG">CNG</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Compressed natural gas fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DIESEL">DIESEL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#DIESEL">DIESEL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Diesel fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DIESEL_WITH_ADDITIVES">DIESEL_WITH_ADDITIVES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#DIESEL_WITH_ADDITIVES">DIESEL_WITH_ADDITIVES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Diesel with additives fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#E10">E10</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#E10">E10</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">10% Ethanol and 90% Gasoline fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#E20">E20</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#E20">E20</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">20% Ethanol and 80% Gasoline fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#E85">E85</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#E85">E85</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">85% Ethanol and 15% Gasoline fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ETHANOL">ETHANOL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#ETHANOL">ETHANOL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Ethanol fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ETHANOL_WITH_ADDITIVES">ETHANOL_WITH_ADDITIVES</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#ETHANOL_WITH_ADDITIVES">ETHANOL_WITH_ADDITIVES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Ethanol with additives fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GASOHOL_91">GASOHOL_91</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#GASOHOL_91">GASOHOL_91</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Gasohol 91 fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GASOHOL_95">GASOHOL_95</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#GASOHOL_95">GASOHOL_95</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Gasohol 95 fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#GASOLINE">GASOLINE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#GASOLINE">GASOLINE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Gasoline fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HVO">HVO</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#HVO">HVO</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Hydrotreated vegetable oil fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HYDROGEN">HYDROGEN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#HYDROGEN">HYDROGEN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Hydrogen fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LNG">LNG</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#LNG">LNG</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Liquefied natural gas fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LPG">LPG</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#LPG">LPG</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Liquified petroleum gas fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MIDGRADE">MIDGRADE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#MIDGRADE">MIDGRADE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Midgrade fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OCTANE_100">OCTANE_100</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#OCTANE_100">OCTANE_100</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Octane 100 fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OCTANE_87">OCTANE_87</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#OCTANE_87">OCTANE_87</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Octane 87 fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OCTANE_89">OCTANE_89</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#OCTANE_89">OCTANE_89</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Octane 89 fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OCTANE_90">OCTANE_90</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#OCTANE_90">OCTANE_90</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Octane 90 fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OCTANE_91">OCTANE_91</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#OCTANE_91">OCTANE_91</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Octane 91 fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OCTANE_92">OCTANE_92</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#OCTANE_92">OCTANE_92</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Octane 92 fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OCTANE_93">OCTANE_93</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#OCTANE_93">OCTANE_93</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Octane 93 fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OCTANE_95">OCTANE_95</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#OCTANE_95">OCTANE_95</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Octane 95 fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OCTANE_98">OCTANE_98</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#OCTANE_98">OCTANE_98</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Octane 98 fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PREMIUM">PREMIUM</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#PREMIUM">PREMIUM</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Premium fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PREMIUM_WITH_ADDITIVES">PREMIUM_WITH_ADDITIVES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#PREMIUM_WITH_ADDITIVES">PREMIUM_WITH_ADDITIVES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Premium with additives fuel type.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REGULAR">REGULAR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#REGULAR">REGULAR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Regular fuel type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REGULAR_WITH_ADDITIVES">REGULAR_WITH_ADDITIVES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#REGULAR_WITH_ADDITIVES">REGULAR_WITH_ADDITIVES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Regular with additives fuel type.</div>
 </div>
@@ -190,12 +190,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-fueltype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-fueltype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

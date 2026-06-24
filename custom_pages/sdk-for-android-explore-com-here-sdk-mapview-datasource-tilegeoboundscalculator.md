@@ -43,7 +43,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalc
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.datasource.TilingScheme)">TileGeoBoundsCalculator</a><wbr/>(<a href="sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalculator#%3Cinit%3E(com.here.sdk.mapview.datasource.TilingScheme)">TileGeoBoundsCalculator</a><wbr/>(<a href="sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a> tilingScheme)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of <a href="sdk-for-android-explore-tilegeoboundscalculator" title="class in com.here.sdk.mapview.datasource"><code>TileGeoBoundsCalculator</code></a>.</div>
 </div>
@@ -62,7 +62,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalc
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#boundsOf(com.here.sdk.mapview.datasource.TileKey)">boundsOf</a><wbr/>(<a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalculator#boundsOf(com.here.sdk.mapview.datasource.TileKey)">boundsOf</a><wbr/>(<a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Computes the geodetic bounds (as <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>) for a tile identified by <a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a>.</div>
 </div>

@@ -48,7 +48,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-takescreenshotcallba
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onScreenshotTaken(android.graphics.Bitmap)">onScreenshotTaken</a><wbr/>(android.graphics.Bitmap bitmap)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapview-takescreenshotcallback#onScreenshotTaken(android.graphics.Bitmap)">onScreenshotTaken</a><wbr/>(android.graphics.Bitmap bitmap)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback to be called when screenshot is ready.</div>
 </div>

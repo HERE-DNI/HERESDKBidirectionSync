@@ -44,12 +44,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-s
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedInMetersPerSecond">speedInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-speedthreshold#speedInMetersPerSecond">speedInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Speed that activates the threshold.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#zoom">zoom</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-speedthreshold#zoom">zoom</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Zoom applied once the threshold is reached.</div>
 </div>
@@ -64,7 +64,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-s
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">SpeedThreshold</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-speedthreshold#%3Cinit%3E()">SpeedThreshold</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>

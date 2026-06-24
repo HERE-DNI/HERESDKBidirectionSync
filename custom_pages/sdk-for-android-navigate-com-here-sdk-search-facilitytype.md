@@ -55,107 +55,107 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-facilitytype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AIRPORT">AIRPORT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#AIRPORT">AIRPORT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An airport.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BIKE_SHARING">BIKE_SHARING</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#BIKE_SHARING">BIKE_SHARING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A bike/e-bike/e-scooter sharing location.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BUS_STOP">BUS_STOP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#BUS_STOP">BUS_STOP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A bus stop.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BUSINESS">BUSINESS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#BUSINESS">BUSINESS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Business facilities.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CAFE">CAFE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#CAFE">CAFE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A place to have a coffee or other drinks.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CARPOOL_PARKING">CARPOOL_PARKING</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#CARPOOL_PARKING">CARPOOL_PARKING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A parking lot for carpooling.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EDUCATION">EDUCATION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#EDUCATION">EDUCATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Educational facilities.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FINANCE">FINANCE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#FINANCE">FINANCE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Financial facilities.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FUEL_STATION">FUEL_STATION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#FUEL_STATION">FUEL_STATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A fuel station.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HEALTH">HEALTH</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#HEALTH">HEALTH</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Health facilities.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HOTEL">HOTEL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#HOTEL">HOTEL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A place to stay overnight.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MALL">MALL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#MALL">MALL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A shopping mall.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#METRO_STATION">METRO_STATION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#METRO_STATION">METRO_STATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A metro station.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MUSEUM">MUSEUM</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#MUSEUM">MUSEUM</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A museum or other cultural facility.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NATURE">NATURE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#NATURE">NATURE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Located in, or close to, a park, nature reserve etc.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PARKING_LOT">PARKING_LOT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#PARKING_LOT">PARKING_LOT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A parking lot.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RECREATION_AREA">RECREATION_AREA</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#RECREATION_AREA">RECREATION_AREA</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A place for recreation, like a park, beach etc.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RESTAURANT">RESTAURANT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#RESTAURANT">RESTAURANT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A place to eat.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SERVICE">SERVICE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#SERVICE">SERVICE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Service facilities.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SPORT">SPORT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#SPORT">SPORT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Sport facilities: gym, field etc.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#STORE">STORE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#STORE">STORE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A store.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SUPERMARKET">SUPERMARKET</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#SUPERMARKET">SUPERMARKET</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A place to buy groceries.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TAXI_STAND">TAXI_STAND</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#TAXI_STAND">TAXI_STAND</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A taxi stand.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRAIN_STATION">TRAIN_STATION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#TRAIN_STATION">TRAIN_STATION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A train station.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRAM_STOP">TRAM_STOP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#TRAM_STOP">TRAM_STOP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A tram stop.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WIFI">WIFI</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#WIFI">WIFI</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Wifi or other type of internet available.</div>
 </div>
@@ -174,12 +174,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-facilitytype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

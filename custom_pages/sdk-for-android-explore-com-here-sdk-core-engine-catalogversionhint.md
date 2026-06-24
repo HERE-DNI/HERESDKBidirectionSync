@@ -31,11 +31,11 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
 <div class="block"><p>This is a class for capturing user's intent for the
  desired catalog version to use in <a href="sdk-for-android-explore-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a> class.
  </p><p>You can request a specific or latest version of a catalog by calling the
- static functions <a href="sdk-for-android-explore-index#specific(long)"><code>specific(long)</code></a> and
- <a href="sdk-for-android-explore-index#latest(boolean)"><code>latest(boolean)</code></a> respectively. The HERE platform will make the
+ static functions <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint#specific(long)"><code>specific(long)</code></a> and
+ <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint#latest(boolean)"><code>latest(boolean)</code></a> respectively. The HERE platform will make the
  best effort to provide an appropriate version for the catalog based on this
  version hint.
- Please take note that for the API <a href="sdk-for-android-explore-index#specific(long)"><code>specific(long)</code></a> to function properly,
+ Please take note that for the API <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint#specific(long)"><code>specific(long)</code></a> to function properly,
  it is essential that the mutable and persistent storage should be cleaned.</p></div>
 </section>
 <section class="summary">
@@ -52,14 +52,14 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#latest(boolean)">latest</a><wbr/>(boolean ignoreCachedData)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint#latest(boolean)">latest</a><wbr/>(boolean ignoreCachedData)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">This static method can be called when you are interested in getting the most latest version of
  a catalog when initializing the HERE SDK with <code>SDKOptions</code> where you can specify the
  catalog(s) you want to use.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#specific(long)">specific</a><wbr/>(long version)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint#specific(long)">specific</a><wbr/>(long version)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">This static method is used when you are interested in a
  specific version of a catalog, that you want to specify manually.</div>

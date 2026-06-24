@@ -48,7 +48,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.electronichorizon.ElectronicHorizonOptions,com.here.sdk.transport.TransportMode,com.here.sdk.routing.Route)">ElectronicHorizonEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.electronichorizon.ElectronicHorizonOptions,com.here.sdk.transport.TransportMode,com.here.sdk.routing.Route)">ElectronicHorizonEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
  <a href="sdk-for-android-navigate-electronichorizonoptions" title="class in com.here.sdk.electronichorizon">ElectronicHorizonOptions</a> options,
  <a href="sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode,
  <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> route)</code></div>
@@ -70,28 +70,28 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addElectronicHorizonListener(com.here.sdk.electronichorizon.ElectronicHorizonListener)">addElectronicHorizonListener</a><wbr/>(<a href="sdk-for-android-navigate-electronichorizonlistener" title="interface in com.here.sdk.electronichorizon">ElectronicHorizonListener</a> electronicHorizonListener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonengine#addElectronicHorizonListener(com.here.sdk.electronichorizon.ElectronicHorizonListener)">addElectronicHorizonListener</a><wbr/>(<a href="sdk-for-android-navigate-electronichorizonlistener" title="interface in com.here.sdk.electronichorizon">ElectronicHorizonListener</a> electronicHorizonListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds an <a href="sdk-for-android-navigate-electronichorizonlistener" title="interface in com.here.sdk.electronichorizon"><code>ElectronicHorizonListener</code></a> to the subscription list.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRoute()">getRoute</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonengine#getRoute()">getRoute</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the instance of <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing"><code>Route</code></a> or <code>null</code> if <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing"><code>Route</code></a> is not set.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeElectronicHorizonListener(com.here.sdk.electronichorizon.ElectronicHorizonListener)">removeElectronicHorizonListener</a><wbr/>(<a href="sdk-for-android-navigate-electronichorizonlistener" title="interface in com.here.sdk.electronichorizon">ElectronicHorizonListener</a> electronicHorizonListener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonengine#removeElectronicHorizonListener(com.here.sdk.electronichorizon.ElectronicHorizonListener)">removeElectronicHorizonListener</a><wbr/>(<a href="sdk-for-android-navigate-electronichorizonlistener" title="interface in com.here.sdk.electronichorizon">ElectronicHorizonListener</a> electronicHorizonListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes an <a href="sdk-for-android-navigate-electronichorizonlistener" title="interface in com.here.sdk.electronichorizon"><code>ElectronicHorizonListener</code></a> from the subscription list.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRoute(com.here.sdk.routing.Route)">setRoute</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonengine#setRoute(com.here.sdk.routing.Route)">setRoute</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the instance of <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing"><code>Route</code></a> to be used by <a href="sdk-for-android-navigate-electronichorizonengine" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonEngine</code></a>
  or <code>null</code> if no route should be used.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#update(com.here.sdk.navigation.MapMatchedLocation)">update</a><wbr/>(<a href="sdk-for-android-navigate-mapmatchedlocation" title="class in com.here.sdk.navigation">MapMatchedLocation</a> mapMatchedLocation)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonengine#update(com.here.sdk.navigation.MapMatchedLocation)">update</a><wbr/>(<a href="sdk-for-android-navigate-mapmatchedlocation" title="class in com.here.sdk.navigation">MapMatchedLocation</a> mapMatchedLocation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Updates the electronic horizon paths based on the provided map-matched location.</div>
 </div>

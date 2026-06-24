@@ -56,15 +56,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-distancetype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AHEAD">AHEAD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype#AHEAD">AHEAD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The warning is given for the first time for a new warner data ahead.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PASSED">PASSED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype#PASSED">PASSED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The warning is given when a warner data was passed.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REACHED">REACHED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype#REACHED">REACHED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The warning is given when a warner data was reached.</div>
 </div>
@@ -83,12 +83,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-distancetype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -118,7 +118,7 @@ the order they are declared.</div>
 <h3>AHEAD</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">AHEAD</span></div>
 <div class="block"><p>The warning is given for the first time for a new warner data ahead. In case the distance
- to the warner data is 0, then a warning with distance type <a href="sdk-for-android-navigate-index#REACHED"><code>REACHED</code></a> will also
+ to the warner data is 0, then a warning with distance type <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype#REACHED"><code>REACHED</code></a> will also
  be given at the same moment.</p></div>
 </section>
 </li>
@@ -134,8 +134,8 @@ the order they are declared.</div>
 <h3>REACHED</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">REACHED</span></div>
 <div class="block"><p>The warning is given when a warner data was reached. In case the distance
- to the warner data is 0 when the warning with distance type <a href="sdk-for-android-navigate-index#AHEAD"><code>AHEAD</code></a> is given,
- then a warning with distance type <a href="sdk-for-android-navigate-index#REACHED"><code>REACHED</code></a> will be given at the same moment.</p></div>
+ to the warner data is 0 when the warning with distance type <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype#AHEAD"><code>AHEAD</code></a> is given,
+ then a warning with distance type <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype#REACHED"><code>REACHED</code></a> will be given at the same moment.</p></div>
 </section>
 </li>
 </ul>

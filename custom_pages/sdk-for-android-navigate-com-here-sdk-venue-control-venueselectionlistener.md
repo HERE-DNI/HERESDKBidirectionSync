@@ -40,7 +40,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueselectionlistene
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onSelectedVenueChanged(com.here.sdk.venue.control.Venue,com.here.sdk.venue.control.Venue)">onSelectedVenueChanged</a><wbr/>(<a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> deselectedVenue,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueselectionlistener#onSelectedVenueChanged(com.here.sdk.venue.control.Venue,com.here.sdk.venue.control.Venue)">onSelectedVenueChanged</a><wbr/>(<a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> deselectedVenue,
  <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> selectedVenue)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Indicates that the current selected <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> changed.</div>

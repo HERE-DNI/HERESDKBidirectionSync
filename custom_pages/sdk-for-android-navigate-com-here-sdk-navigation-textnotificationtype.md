@@ -53,19 +53,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-textnotificationtype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LANE_DECREASE_WARNING">LANE_DECREASE_WARNING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-textnotificationtype#LANE_DECREASE_WARNING">LANE_DECREASE_WARNING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Notifications which contain information about the next lane decrease warner.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MANEUVER">MANEUVER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-textnotificationtype#MANEUVER">MANEUVER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Notifications which contain information about the next maneuver.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SAFETY_CAMERA_WARNING">SAFETY_CAMERA_WARNING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-textnotificationtype#SAFETY_CAMERA_WARNING">SAFETY_CAMERA_WARNING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Notifications which contain information about the next safety camera warner.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRAFFIC_MERGE_WARNING">TRAFFIC_MERGE_WARNING</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-textnotificationtype#TRAFFIC_MERGE_WARNING">TRAFFIC_MERGE_WARNING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Notifications which contain information about the next traffic merge warner.</div>
 </div>
@@ -84,12 +84,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-textnotificationtype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-textnotificationtype" title="enum class in com.here.sdk.navigation">TextNotificationType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-textnotificationtype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-textnotificationtype" title="enum class in com.here.sdk.navigation">TextNotificationType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-textnotificationtype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

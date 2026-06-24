@@ -38,7 +38,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-animationlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onAnimationStateChanged(com.here.sdk.animation.AnimationState)">onAnimationStateChanged</a><wbr/>(<a href="sdk-for-android-explore-animationstate" title="enum class in com.here.sdk.animation">AnimationState</a> state)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-animationlistener#onAnimationStateChanged(com.here.sdk.animation.AnimationState)">onAnimationStateChanged</a><wbr/>(<a href="sdk-for-android-explore-animationstate" title="enum class in com.here.sdk.animation">AnimationState</a> state)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called after the state of an animation changes.</div>
 </div>

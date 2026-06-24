@@ -53,11 +53,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-catalogtype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OPTIMIZED_CLIENT_MAP">OPTIMIZED_CLIENT_MAP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogtype#OPTIMIZED_CLIENT_MAP">OPTIMIZED_CLIENT_MAP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Catalog type for the so-called "rest of the world" (ROW).</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OPTIMIZED_CLIENT_MAP_JAPAN">OPTIMIZED_CLIENT_MAP_JAPAN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogtype#OPTIMIZED_CLIENT_MAP_JAPAN">OPTIMIZED_CLIENT_MAP_JAPAN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Catalog type for Japan.</div>
 </div>
@@ -76,12 +76,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-catalogtype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogtype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogtype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -118,7 +118,7 @@ the order they are declared.</div>
 <section class="detail" id="OPTIMIZED_CLIENT_MAP_JAPAN">
 <h3>OPTIMIZED_CLIENT_MAP_JAPAN</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a></span> <span class="element-name">OPTIMIZED_CLIENT_MAP_JAPAN</span></div>
-<div class="block"><p>Catalog type for Japan. Has to be used in combination with <a href="sdk-for-android-navigate-index#OPTIMIZED_CLIENT_MAP"><code>OPTIMIZED_CLIENT_MAP</code></a>.
+<div class="block"><p>Catalog type for Japan. Has to be used in combination with <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogtype#OPTIMIZED_CLIENT_MAP"><code>OPTIMIZED_CLIENT_MAP</code></a>.
  </p><p><strong>Note:</strong> This catalog type is only available on request. Please contact your HERE representative for more
  details. In order to load this map you need to enable your credentials with the help of the HERE team.</p></div>
 </section>

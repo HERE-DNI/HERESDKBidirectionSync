@@ -62,7 +62,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapmarkeranimation"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.animation.MapItemKeyFrameTrack)">MapMarkerAnimation</a><wbr/>(<a href="sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a> track)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-animation-mapmarkeranimation#%3Cinit%3E(com.here.sdk.animation.MapItemKeyFrameTrack)">MapMarkerAnimation</a><wbr/>(<a href="sdk-for-android-navigate-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a> track)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an animation of <a href="sdk-for-android-navigate-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> based on provided keyframe track.</div>
 </div>

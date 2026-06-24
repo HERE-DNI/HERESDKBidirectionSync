@@ -44,19 +44,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimage"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat)">MapImage</a><wbr/>(byte[] pixelData,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimage#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat)">MapImage</a><wbr/>(byte[] pixelData,
  <a href="sdk-for-android-navigate-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new map image from the provided image data.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat,long,long)">MapImage</a><wbr/>(byte[] imageData,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimage#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat,long,long)">MapImage</a><wbr/>(byte[] imageData,
  <a href="sdk-for-android-navigate-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat,
  long width,
  long height)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new map image from the provided image data.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,long,long)">MapImage</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> filePath,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapimage#%3Cinit%3E(java.lang.String,long,long)">MapImage</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> filePath,
  long width,
  long height)</code></div>
 <div class="col-last even-row-color">
@@ -138,7 +138,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimage"
  SDK. If that cannot be ensured, then it is recommended to either copy the file to a location that
  remains accessible for the entire duration of its usage by the SDK or load and pass the file content
  to one of the <code>MapImage</code> constructors that creates instances out of image data
- (<a href="sdk-for-android-navigate-index#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat)"><code>MapImage(byte[], ImageFormat)</code></a>, <a href="sdk-for-android-navigate-index#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat,long,long)"><code>MapImage(byte[], ImageFormat, long, long)</code></a>).}
+ (<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapimage#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat)"><code>MapImage(byte[], ImageFormat)</code></a>, <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapimage#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat,long,long)"><code>MapImage(byte[], ImageFormat, long, long)</code></a>).}
  </p><p>This constructor needs read storage permission to be granted.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

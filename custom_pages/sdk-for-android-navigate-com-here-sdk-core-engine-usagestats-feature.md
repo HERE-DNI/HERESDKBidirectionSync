@@ -57,53 +57,53 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DETAILED_RENDERING">DETAILED_RENDERING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#DETAILED_RENDERING">DETAILED_RENDERING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  <a href="sdk-for-android-navigate-layerconfiguration.feature#DETAIL_RENDERING"><code>LayerConfiguration.Feature.DETAIL_RENDERING</code></a> layer configuration.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EV_RENDERING">EV_RENDERING</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#EV_RENDERING">EV_RENDERING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  "ev_charging_station_rendering_premium" layer group, enabled with <a href="sdk-for-android-navigate-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EV_SEARCH">EV_SEARCH</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#EV_SEARCH">EV_SEARCH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  "ev_charging_station_search_premium" layer group, enabled with <a href="sdk-for-android-navigate-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NAVIGATION">NAVIGATION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#NAVIGATION">NAVIGATION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the "adas", "ehorizon", "interop", "isa" OCM layers.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OTHER">OTHER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#OTHER">OTHER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents network traffic statistics for feature that doesn't fit into other categories.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PLACES">PLACES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#PLACES">PLACES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents network traffic statistics for places search.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITIONING">POSITIONING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#POSITIONING">POSITIONING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents network traffic statistics for Here Positioning.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RDS_TRAFFIC">RDS_TRAFFIC</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#RDS_TRAFFIC">RDS_TRAFFIC</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  <a href="sdk-for-android-navigate-layerconfiguration.feature#RDS_TRAFFIC"><code>LayerConfiguration.Feature.RDS_TRAFFIC</code></a> layer configuration.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RENDERING">RENDERING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#RENDERING">RENDERING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  <a href="sdk-for-android-navigate-layerconfiguration.feature#RENDERING"><code>LayerConfiguration.Feature.RENDERING</code></a> layer configuration.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ROUTER">ROUTER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#ROUTER">ROUTER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  <code>RoutingEngine</code>.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ROUTING">ROUTING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#ROUTING">ROUTING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  following layer configurations:
@@ -117,43 +117,43 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature"
  Prefetch map data into the map cache with the <code>RoutePrefetcher</code> for areas that
  have not been cached, prefetched or installed before.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SATELLITES">SATELLITES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#SATELLITES">SATELLITES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents network traffic statistics to show satellite map scheme.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SEARCH">SEARCH</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#SEARCH">SEARCH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  "search", "ev_charging_station_search_premium", "fueling_station_premium" OCM layers.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SEARCH_ONLINE">SEARCH_ONLINE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#SEARCH_ONLINE">SEARCH_ONLINE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the <code>SearchEngine</code>.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRAFFIC">TRAFFIC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#TRAFFIC">TRAFFIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  calls of <code>TrafficEngine</code>.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRAFFIC_VECTOR_TILES">TRAFFIC_VECTOR_TILES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#TRAFFIC_VECTOR_TILES">TRAFFIC_VECTOR_TILES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents network traffic statistics for traffic vector tiles.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRANSIT">TRANSIT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#TRANSIT">TRANSIT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  "transit" OCM layer.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRANSIT_ROUTING_ENGINE">TRANSIT_ROUTING_ENGINE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#TRANSIT_ROUTING_ENGINE">TRANSIT_ROUTING_ENGINE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the <code>TransitRoutingEngine</code>.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCK">TRUCK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#TRUCK">TRUCK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  <a href="sdk-for-android-navigate-layerconfiguration.feature#TRUCK"><code>LayerConfiguration.Feature.TRUCK</code></a> layer configuration.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#VECTOR_TILES">VECTOR_TILES</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#VECTOR_TILES">VECTOR_TILES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents network traffic statistics for online usage corresponding to the vector tiles.</div>
 </div>
@@ -172,12 +172,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -289,7 +289,7 @@ the order they are declared.</div>
 <h3>PLACES</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">PLACES</span></div>
 <div class="block"><p>Represents network traffic statistics for places search.
- This is legacy statistic which is now replaced by <a href="sdk-for-android-navigate-index#SEARCH_ONLINE"><code>SEARCH_ONLINE</code></a>.</p></div>
+ This is legacy statistic which is now replaced by <a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-feature#SEARCH_ONLINE"><code>SEARCH_ONLINE</code></a>.</p></div>
 </section>
 </li>
 <li>

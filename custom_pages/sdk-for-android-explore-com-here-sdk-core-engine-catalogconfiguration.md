@@ -47,23 +47,23 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#allowDownload">allowDownload</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration#allowDownload">allowDownload</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A flag to indicate if the data for this catalog is allowed to be stored in persistent storage for use with offline maps.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#cacheExpirationPeriod">cacheExpirationPeriod</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration#cacheExpirationPeriod">cacheExpirationPeriod</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Expiration time in seconds for how long the catalog data is retained in the
  map cache before it is removed.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#catalog">catalog</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration#catalog">catalog</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The identifier for the desired catalog to be accessed on the HERE platform.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#patchHrn">patchHrn</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration#patchHrn">patchHrn</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Some catalogs may have additional modifications to their data
  contained in an entirely separate catalog, called the patch catalog.</div>
@@ -79,7 +79,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.engine.DesiredCatalog)">CatalogConfiguration</a><wbr/>(<a href="sdk-for-android-explore-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a> catalog)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration#%3Cinit%3E(com.here.sdk.core.engine.DesiredCatalog)">CatalogConfiguration</a><wbr/>(<a href="sdk-for-android-explore-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a> catalog)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -98,15 +98,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getDefault(com.here.sdk.core.engine.CatalogType)">getDefault</a><wbr/>(<a href="sdk-for-android-explore-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a> catalogType)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration#getDefault(com.here.sdk.core.engine.CatalogType)">getDefault</a><wbr/>(<a href="sdk-for-android-explore-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a> catalogType)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Gets the default catalog configuration for the specified catalog type.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -143,7 +143,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration"
  contained in an entirely separate catalog, called the patch catalog.
  This field indicates the HERE Resource Name (HRN) for the patch catalog.
  When this field is present, the catalog's data as referenced by
- <a href="sdk-for-android-explore-index#catalog"><code>catalog</code></a> is merged with data from the patch catalog.
+ <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration#catalog"><code>catalog</code></a> is merged with data from the patch catalog.
  If this field is <code>null</code>, then incremental updates are disabled.</p></div>
 </section>
 </li>
@@ -163,7 +163,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">allowDownload</span></div>
 <div class="block"><p>A flag to indicate if the data for this catalog is allowed to be stored in persistent storage for use with offline maps.
  The storage path is specified in <a href="sdk-for-android-explore-sdkoptions#persistentMapStoragePath"><code>SDKOptions.persistentMapStoragePath</code></a>.
- If set to false, the data is not stored in persistent storage and is only retained in the cache for a limited time (see <a href="sdk-for-android-explore-index#cacheExpirationPeriod"><code>cacheExpirationPeriod</code></a>).
+ If set to false, the data is not stored in persistent storage and is only retained in the cache for a limited time (see <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogconfiguration#cacheExpirationPeriod"><code>cacheExpirationPeriod</code></a>).
  Defaults to <code>true</code>.</p></div>
 </section>
 </li>

@@ -61,7 +61,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-iconprovider"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.MapContext)">IconProvider</a><wbr/>(<a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> mapContext)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-iconprovider#%3Cinit%3E(com.here.sdk.mapview.MapContext)">IconProvider</a><wbr/>(<a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> mapContext)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an IconProvider.</div>
 </div>
@@ -80,7 +80,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-iconprovider"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#createRoadShieldIcon(com.here.sdk.mapview.RoadShieldIconProperties,com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.IconProviderAssetType,long,long,com.here.sdk.mapview.IconProvider.IconCallback)">createRoadShieldIcon</a><wbr/>(<a href="sdk-for-android-explore-roadshieldiconproperties" title="class in com.here.sdk.mapview">RoadShieldIconProperties</a> properties,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-iconprovider#createRoadShieldIcon(com.here.sdk.mapview.RoadShieldIconProperties,com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.IconProviderAssetType,long,long,com.here.sdk.mapview.IconProvider.IconCallback)">createRoadShieldIcon</a><wbr/>(<a href="sdk-for-android-explore-roadshieldiconproperties" title="class in com.here.sdk.mapview">RoadShieldIconProperties</a> properties,
  <a href="sdk-for-android-explore-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme,
  <a href="sdk-for-android-explore-iconproviderassettype" title="enum class in com.here.sdk.mapview">IconProviderAssetType</a> assetType,
  long widthConstraintInPixels,

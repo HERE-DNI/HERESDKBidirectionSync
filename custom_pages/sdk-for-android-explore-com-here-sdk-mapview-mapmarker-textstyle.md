@@ -71,7 +71,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">TextStyle</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#%3Cinit%3E()">TextStyle</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a default set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> that consists of
  the following values:
@@ -83,7 +83,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
  Text placement: <a href="sdk-for-android-explore-mapmarker.textstyle.placement#BOTTOM"><code>MapMarker.TextStyle.Placement.BOTTOM</code></a>
 </div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List)">TextStyle</a><wbr/>(double textSize,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#%3Cinit%3E(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List)">TextStyle</a><wbr/>(double textSize,
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> textColor,
  double textOutlineSize,
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> textOutlineColor,
@@ -91,7 +91,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
 <div class="col-last odd-row-color">
 <div class="block">Creates a set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List,java.lang.String)">TextStyle</a><wbr/>(double textSize,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#%3Cinit%3E(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List,java.lang.String)">TextStyle</a><wbr/>(double textSize,
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> textColor,
  double textOutlineSize,
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> textOutlineColor,
@@ -115,32 +115,32 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getFontName()">getFontName</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#getFontName()">getFontName</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the font name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getPlacements()">getPlacements</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#getPlacements()">getPlacements</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the possible text placements relative to the icon of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getTextColor()">getTextColor</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#getTextColor()">getTextColor</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the text color.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getTextOutlineColor()">getTextOutlineColor</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#getTextOutlineColor()">getTextOutlineColor</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the text outline color.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getTextOutlineSize()">getTextOutlineSize</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#getTextOutlineSize()">getTextOutlineSize</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the text outline size in pixels.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getTextSize()">getTextSize</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#getTextSize()">getTextSize</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the text size in pixels.</div>
 </div>

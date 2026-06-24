@@ -45,18 +45,18 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>long</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxPoints">maxPoints</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#maxPoints">maxPoints</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Sets the upper limit on the resulting collection for
  the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final long</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL">SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL">SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Value for simplification tolerance for 14 zoom level without significant artifacts.</div>
 </div>
 <div class="col-first even-row-color"><code>long</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#simplificationToleranceInMeters">simplificationToleranceInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters">simplificationToleranceInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Sets the accuracy limit for the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>:
  
@@ -75,15 +75,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">Options</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#%3Cinit%3E()">Options</a>()</code></div>
 <div class="col-last even-row-color">
-<div class="block">Creates default options with <a href="sdk-for-android-explore-index#maxPoints"><code>maxPoints</code></a> equal to 0 and
- <a href="sdk-for-android-explore-index#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a> equal to <a href="sdk-for-android-explore-index#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</div>
+<div class="block">Creates default options with <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#maxPoints"><code>maxPoints</code></a> equal to 0 and
+ <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a> equal to <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(long,long)">Options</a><wbr/>(long maxPoints,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#%3Cinit%3E(long,long)">Options</a><wbr/>(long maxPoints,
  long simplificationToleranceInMeters)</code></div>
 <div class="col-last odd-row-color">
-<div class="block">Creates options with explicitly specified <a href="sdk-for-android-explore-index#maxPoints"><code>maxPoints</code></a> and <a href="sdk-for-android-explore-index#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>.</div>
+<div class="block">Creates options with explicitly specified <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#maxPoints"><code>maxPoints</code></a> and <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>.</div>
 </div>
 </div>
 </section>
@@ -130,10 +130,10 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
  value results in the lower accuracy of the resulting
  polyline. If <code>maxPoints</code> is less than <code>2</code>
  then resulting polyline will not have an upper limit
- on the size and only <a href="sdk-for-android-explore-index#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>
+ on the size and only <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>
  will be considered. When <code>maxPoints</code> is greater than
  size of the passed polyline then simplification algorithm
- will take into account only <a href="sdk-for-android-explore-index#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>.</p></div>
+ will take into account only <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -149,9 +149,9 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
  original one more than <code>simplificationToleranceInMeters</code>, then
  this point is left in the collection.
  </p><p>If specified tolerance will not allow to create a polyline
- conforming to <a href="sdk-for-android-explore-index#maxPoints"><code>maxPoints</code></a>, then <code>simplificationToleranceInMeters</code>
+ conforming to <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#maxPoints"><code>maxPoints</code></a>, then <code>simplificationToleranceInMeters</code>
  is ignored.
- </p><p>Default value is equal to <a href="sdk-for-android-explore-index#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></div>
+ </p><p>Default value is equal to <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></div>
 </section>
 </li>
 </ul>
@@ -166,8 +166,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
 <section class="detail" id="&lt;init&gt;()">
 <h3>Options</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Options</span>()</div>
-<div class="block"><p>Creates default options with <a href="sdk-for-android-explore-index#maxPoints"><code>maxPoints</code></a> equal to 0 and
- <a href="sdk-for-android-explore-index#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a> equal to <a href="sdk-for-android-explore-index#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></div>
+<div class="block"><p>Creates default options with <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#maxPoints"><code>maxPoints</code></a> equal to 0 and
+ <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a> equal to <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -175,7 +175,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
 <h3>Options</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Options</span><wbr/><span class="parameters">(long maxPoints,
  long simplificationToleranceInMeters)</span></div>
-<div class="block"><p>Creates options with explicitly specified <a href="sdk-for-android-explore-index#maxPoints"><code>maxPoints</code></a> and <a href="sdk-for-android-explore-index#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>.</p></div>
+<div class="block"><p>Creates options with explicitly specified <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#maxPoints"><code>maxPoints</code></a> and <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>maxPoints</code> - <p>Sets the upper limit on the resulting collection for
@@ -183,10 +183,10 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
  value results in the lower accuracy of the resulting
  polyline. If <code>maxPoints</code> is less than <code>2</code>
  then resulting polyline will not have an upper limit
- on the size and only <a href="sdk-for-android-explore-index#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>
+ on the size and only <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>
  will be considered. When <code>maxPoints</code> is greater than
  size of the passed polyline then simplification algorithm
- will take into account only <a href="sdk-for-android-explore-index#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>.</p></dd>
+ will take into account only <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>.</p></dd>
 <dd><code>simplificationToleranceInMeters</code> - <p>Sets the accuracy limit for the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>:
  <ul>
 <li>higher tolerance results in more simplification (fewer points);</li>
@@ -196,9 +196,9 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
  original one more than <code>simplificationToleranceInMeters</code>, then
  this point is left in the collection.
  </p><p>If specified tolerance will not allow to create a polyline
- conforming to <a href="sdk-for-android-explore-index#maxPoints"><code>maxPoints</code></a>, then <code>simplificationToleranceInMeters</code>
+ conforming to <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#maxPoints"><code>maxPoints</code></a>, then <code>simplificationToleranceInMeters</code>
  is ignored.
- </p><p>Default value is equal to <a href="sdk-for-android-explore-index#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></dd>
+ </p><p>Default value is equal to <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></dd>
 </dl>
 </section>
 </li>

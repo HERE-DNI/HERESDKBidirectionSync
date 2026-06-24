@@ -49,7 +49,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecal
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onDryApplyUpdateResult(com.here.sdk.mapview.MapCamera.State)">onDryApplyUpdateResult</a><wbr/>(<a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecallback#onDryApplyUpdateResult(com.here.sdk.mapview.MapCamera.State)">onDryApplyUpdateResult</a><wbr/>(<a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Used to report back results of dry update application to camera.</div>
 </div>

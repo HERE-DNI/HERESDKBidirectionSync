@@ -55,80 +55,80 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AUTHENTICATION_FAILED">AUTHENTICATION_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#AUTHENTICATION_FAILED">AUTHENTICATION_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Incident query/flow operation is not authenticated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#BAD_REQUEST">BAD_REQUEST</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#BAD_REQUEST">BAD_REQUEST</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Bad request.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#FAILED_TO_RETRIEVE_RESULT">FAILED_TO_RETRIEVE_RESULT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#FAILED_TO_RETRIEVE_RESULT">FAILED_TO_RETRIEVE_RESULT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Failed to retrieve result since the server has returned an error or invalid result
  that couldn't be processed correctly.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#FORBIDDEN">FORBIDDEN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#FORBIDDEN">FORBIDDEN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The provided credentials don't give access to the requested resource.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#HTTP_ERROR">HTTP_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#HTTP_ERROR">HTTP_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Network request error.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#INCIDENT_ID_NOT_FOUND">INCIDENT_ID_NOT_FOUND</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INCIDENT_ID_NOT_FOUND">INCIDENT_ID_NOT_FOUND</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Incident ID is not found in the system.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#INTERNAL_ERROR">INTERNAL_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INTERNAL_ERROR">INTERNAL_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Internal error.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#INVALID_FILTER_OPTIONS">INVALID_FILTER_OPTIONS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_FILTER_OPTIONS">INVALID_FILTER_OPTIONS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">One or several filter options are invalid.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#INVALID_GEOMETRY">INVALID_GEOMETRY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_GEOMETRY">INVALID_GEOMETRY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Invalid geometry: bounding box, circle, or corridor.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#INVALID_IN">INVALID_IN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_IN">INVALID_IN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Invalid "in" parameter: wrong type, missing or invalid "in".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#INVALID_INCIDENT">INVALID_INCIDENT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_INCIDENT">INVALID_INCIDENT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Invalid incident ID, type, earliestStartTime or latestEndTime.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#INVALID_PARAMETER">INVALID_PARAMETER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_PARAMETER">INVALID_PARAMETER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">One or more input parameters in the query is not valid.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OFFLINE">OFFLINE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#OFFLINE">OFFLINE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The device has no internet connection.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OPERATION_CANCELLED">OPERATION_CANCELLED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#OPERATION_CANCELLED">OPERATION_CANCELLED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Operation cancelled.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PROXY_AUTHENTICATION_FAILED">PROXY_AUTHENTICATION_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#PROXY_AUTHENTICATION_FAILED">PROXY_AUTHENTICATION_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Proxy is not authenticated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PROXY_SERVER_UNREACHABLE">PROXY_SERVER_UNREACHABLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#PROXY_SERVER_UNREACHABLE">PROXY_SERVER_UNREACHABLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Proxy server unreachable.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SERVER_UNREACHABLE">SERVER_UNREACHABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#SERVER_UNREACHABLE">SERVER_UNREACHABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Server unreachable.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TIMED_OUT">TIMED_OUT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#TIMED_OUT">TIMED_OUT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The request timed out.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TOO_MANY_REQUESTS">TOO_MANY_REQUESTS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#TOO_MANY_REQUESTS">TOO_MANY_REQUESTS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Server has received an excessive number of requests from client within a specific timeframe
  and client should slow down or wait before sending more requests.</div>
@@ -148,12 +148,12 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-trafficqueryerror" title="enum class in com.here.sdk.traffic">TrafficQueryError</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-trafficqueryerror" title="enum class in com.here.sdk.traffic">TrafficQueryError</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

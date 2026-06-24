@@ -53,19 +53,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueserviceinitstatu
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#IN_PROGRESS">IN_PROGRESS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-service-venueserviceinitstatus#IN_PROGRESS">IN_PROGRESS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The venue service is in a process of initialization.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NOT_STARTED">NOT_STARTED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-service-venueserviceinitstatus#NOT_STARTED">NOT_STARTED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The venue service has not started.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ONLINE_FAILED">ONLINE_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-service-venueserviceinitstatus#ONLINE_FAILED">ONLINE_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The venue service failed to initialize online.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ONLINE_SUCCESS">ONLINE_SUCCESS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-service-venueserviceinitstatus#ONLINE_SUCCESS">ONLINE_SUCCESS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The venue service successfully initialized online.</div>
 </div>
@@ -84,12 +84,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueserviceinitstatu
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-venueserviceinitstatus" title="enum class in com.here.sdk.venue.service">VenueServiceInitStatus</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-service-venueserviceinitstatus#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-venueserviceinitstatus" title="enum class in com.here.sdk.venue.service">VenueServiceInitStatus</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-service-venueserviceinitstatus#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

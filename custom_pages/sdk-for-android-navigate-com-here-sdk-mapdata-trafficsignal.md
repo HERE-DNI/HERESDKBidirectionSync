@@ -42,17 +42,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-trafficsignal"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#offsetInMeters">offsetInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-trafficsignal#offsetInMeters">offsetInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The offset of the traffic signal in meters from the beginning of the segment in positive direction.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trafficsignallocation" title="enum class in com.here.sdk.mapdata">TrafficSignalLocation</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#signalLocations">signalLocations</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-trafficsignal#signalLocations">signalLocations</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The location information of the traffic lights.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#travelDirection">travelDirection</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-trafficsignal#travelDirection">travelDirection</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Segment direction which the traffic signal is applied.</div>
 </div>
@@ -67,7 +67,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-trafficsignal"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(int,com.here.sdk.routing.TravelDirection)">TrafficSignal</a><wbr/>(int offsetInMeters,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-trafficsignal#%3Cinit%3E(int,com.here.sdk.routing.TravelDirection)">TrafficSignal</a><wbr/>(int offsetInMeters,
  <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a> travelDirection)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>

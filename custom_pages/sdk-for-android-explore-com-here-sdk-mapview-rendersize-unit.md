@@ -57,18 +57,18 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DENSITY_INDEPENDENT_PIXELS">DENSITY_INDEPENDENT_PIXELS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit#DENSITY_INDEPENDENT_PIXELS">DENSITY_INDEPENDENT_PIXELS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Size expressed in device independent pixels, meaning that on devices
  with different display resolutions and sizes it will represent approximately
  the same physical (in millimeters, inches, etc.) size.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#METERS">METERS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit#METERS">METERS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Size expressed in meters, meaning it will stay constant relative to map content
  and change on the screen as the map is zoomed in and out.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PIXELS">PIXELS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit#PIXELS">PIXELS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Size expressed in physical pixels on the device screen.</div>
 </div>
@@ -87,12 +87,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

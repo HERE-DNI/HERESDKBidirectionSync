@@ -53,11 +53,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarningstatus"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SPEED_LIMIT_EXCEEDED">SPEED_LIMIT_EXCEEDED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedwarningstatus#SPEED_LIMIT_EXCEEDED">SPEED_LIMIT_EXCEEDED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Status when the current speed exceeded the speed limit (plus offset) for the current road segment.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SPEED_LIMIT_RESTORED">SPEED_LIMIT_RESTORED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedwarningstatus#SPEED_LIMIT_RESTORED">SPEED_LIMIT_RESTORED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Status where the current speed is again below the speed limit (plus offset) for the current road segment.</div>
 </div>
@@ -76,12 +76,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarningstatus"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-speedwarningstatus" title="enum class in com.here.sdk.navigation">SpeedWarningStatus</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedwarningstatus#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-speedwarningstatus" title="enum class in com.here.sdk.navigation">SpeedWarningStatus</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedwarningstatus#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -111,7 +111,7 @@ the order they are declared.</div>
 <h3>SPEED_LIMIT_EXCEEDED</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-speedwarningstatus" title="enum class in com.here.sdk.navigation">SpeedWarningStatus</a></span> <span class="element-name">SPEED_LIMIT_EXCEEDED</span></div>
 <div class="block"><p>Status when the current speed exceeded the speed limit (plus offset) for the current road segment.
- This status is followed by <a href="sdk-for-android-navigate-index#SPEED_LIMIT_RESTORED"><code>SPEED_LIMIT_RESTORED</code></a> once the driving
+ This status is followed by <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedwarningstatus#SPEED_LIMIT_RESTORED"><code>SPEED_LIMIT_RESTORED</code></a> once the driving
  speed is again below the speed limit (plus offset) for the current road segment.
  </p><p><strong>Note:</strong>
  The speed limit used to check this condition does not take into account any temporary special

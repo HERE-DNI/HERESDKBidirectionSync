@@ -53,23 +53,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FUNCTIONAL_ROAD_CLASS_1">FUNCTIONAL_ROAD_CLASS_1</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass#FUNCTIONAL_ROAD_CLASS_1">FUNCTIONAL_ROAD_CLASS_1</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A road with high volume and maximum speed traffic.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FUNCTIONAL_ROAD_CLASS_2">FUNCTIONAL_ROAD_CLASS_2</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass#FUNCTIONAL_ROAD_CLASS_2">FUNCTIONAL_ROAD_CLASS_2</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A road with high volume and high speed traffic.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FUNCTIONAL_ROAD_CLASS_3">FUNCTIONAL_ROAD_CLASS_3</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass#FUNCTIONAL_ROAD_CLASS_3">FUNCTIONAL_ROAD_CLASS_3</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A road with high volume traffic.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FUNCTIONAL_ROAD_CLASS_4">FUNCTIONAL_ROAD_CLASS_4</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass#FUNCTIONAL_ROAD_CLASS_4">FUNCTIONAL_ROAD_CLASS_4</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A road with high volume traffic at moderate speeds between neighborhoods.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FUNCTIONAL_ROAD_CLASS_5">FUNCTIONAL_ROAD_CLASS_5</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass#FUNCTIONAL_ROAD_CLASS_5">FUNCTIONAL_ROAD_CLASS_5</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A road whose volume and traffic flow are below the level of any other functional class.</div>
 </div>
@@ -88,12 +88,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

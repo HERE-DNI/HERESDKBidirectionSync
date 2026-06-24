@@ -48,7 +48,7 @@ implements <a href="sdk-for-android-navigate-locationlistener" title="interface 
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">LocationManager</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">LocationManager</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of <a href="sdk-for-android-navigate-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a>.</div>
 </div>
@@ -67,27 +67,27 @@ implements <a href="sdk-for-android-navigate-locationlistener" title="interface 
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addMatchedLocationListener(com.here.sdk.mapmatcher.MatchedLocationListener)">addMatchedLocationListener</a><wbr/>(<a href="sdk-for-android-navigate-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher">MatchedLocationListener</a> matchedLocationListener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager#addMatchedLocationListener(com.here.sdk.mapmatcher.MatchedLocationListener)">addMatchedLocationListener</a><wbr/>(<a href="sdk-for-android-navigate-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher">MatchedLocationListener</a> matchedLocationListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds the <a href="sdk-for-android-navigate-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher"><code>MatchedLocationListener</code></a> to the subscribtion list.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onLocationUpdated(com.here.sdk.core.Location)">onLocationUpdated</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager#onLocationUpdated(com.here.sdk.core.Location)">onLocationUpdated</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Called each time a new location is available.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeMatchedLocationListener(com.here.sdk.mapmatcher.MatchedLocationListener)">removeMatchedLocationListener</a><wbr/>(<a href="sdk-for-android-navigate-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher">MatchedLocationListener</a> matchedLocationListener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager#removeMatchedLocationListener(com.here.sdk.mapmatcher.MatchedLocationListener)">removeMatchedLocationListener</a><wbr/>(<a href="sdk-for-android-navigate-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher">MatchedLocationListener</a> matchedLocationListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes the <a href="sdk-for-android-navigate-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher"><code>MatchedLocationListener</code></a> from the subscribtion list.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setMapMatcher(com.here.sdk.mapmatcher.MapMatcher)">setMapMatcher</a><wbr/>(<a href="sdk-for-android-navigate-mapmatcher" title="class in com.here.sdk.mapmatcher">MapMatcher</a> mapMatcher)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager#setMapMatcher(com.here.sdk.mapmatcher.MapMatcher)">setMapMatcher</a><wbr/>(<a href="sdk-for-android-navigate-mapmatcher" title="class in com.here.sdk.mapmatcher">MapMatcher</a> mapMatcher)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the <a href="sdk-for-android-navigate-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a> for exclusive use by <a href="sdk-for-android-navigate-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapmatcher" title="class in com.here.sdk.mapmatcher">MapMatcher</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#takeMapMatcher()">takeMapMatcher</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager#takeMapMatcher()">takeMapMatcher</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Retrieves and removes the <a href="sdk-for-android-navigate-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a> from <a href="sdk-for-android-navigate-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a>.</div>
 </div>

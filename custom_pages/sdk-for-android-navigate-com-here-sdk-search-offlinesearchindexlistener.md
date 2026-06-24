@@ -41,17 +41,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onComplete(com.here.sdk.search.OfflineSearchIndex.Error)">onComplete</a><wbr/>(<a href="sdk-for-android-navigate-offlinesearchindex.error" title="enum class in com.here.sdk.search">OfflineSearchIndex.Error</a> error)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener#onComplete(com.here.sdk.search.OfflineSearchIndex.Error)">onComplete</a><wbr/>(<a href="sdk-for-android-navigate-offlinesearchindex.error" title="enum class in com.here.sdk.search">OfflineSearchIndex.Error</a> error)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called after index creation or deletion has been completed.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onProgress(int)">onProgress</a><wbr/>(int percentage)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener#onProgress(int)">onProgress</a><wbr/>(int percentage)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called multiple times to indicate the progress of index creation or deletion.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onStarted(com.here.sdk.search.OfflineSearchIndex.Operation)">onStarted</a><wbr/>(<a href="sdk-for-android-navigate-offlinesearchindex.operation" title="enum class in com.here.sdk.search">OfflineSearchIndex.Operation</a> operation)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener#onStarted(com.here.sdk.search.OfflineSearchIndex.Operation)">onStarted</a><wbr/>(<a href="sdk-for-android-navigate-offlinesearchindex.operation" title="enum class in com.here.sdk.search">OfflineSearchIndex.Operation</a> operation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called each time that the indexing has started.</div>
 </div>

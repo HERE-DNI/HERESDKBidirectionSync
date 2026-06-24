@@ -57,39 +57,39 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placeme
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BOTTOM">BOTTOM</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placement#BOTTOM">BOTTOM</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Text placed below the bottom edge of the image's bounding rectangle.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BOTTOM_LEFT">BOTTOM_LEFT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placement#BOTTOM_LEFT">BOTTOM_LEFT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Text placed at the bottom left corner of the image's bounding rectangle.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BOTTOM_RIGHT">BOTTOM_RIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placement#BOTTOM_RIGHT">BOTTOM_RIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Text placed at the bottom right corner of the image's bounding rectangle.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CENTER">CENTER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placement#CENTER">CENTER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Text placed centered over the image.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LEFT">LEFT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placement#LEFT">LEFT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Text placed next to the left edge of the image's bounding rectangle.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RIGHT">RIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placement#RIGHT">RIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Text placed next to the right edge of the image's bounding rectangle.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TOP">TOP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placement#TOP">TOP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Text placed over the top edge of the image's bounding rectangle.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TOP_LEFT">TOP_LEFT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placement#TOP_LEFT">TOP_LEFT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Text placed at the top left corner of the image's bounding rectangle.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TOP_RIGHT">TOP_RIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placement#TOP_RIGHT">TOP_RIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Text placed at the top right corner of the image's bounding rectangle.</div>
 </div>
@@ -108,12 +108,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placeme
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placement#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker-textstyle-placement#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

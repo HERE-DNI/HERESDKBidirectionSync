@@ -76,11 +76,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.MapMarkerCluster.ImageStyle)">MapMarkerCluster</a><wbr/>(<a href="sdk-for-android-explore-mapmarkercluster.imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a> imageStyle)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#%3Cinit%3E(com.here.sdk.mapview.MapMarkerCluster.ImageStyle)">MapMarkerCluster</a><wbr/>(<a href="sdk-for-android-explore-mapmarkercluster.imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a> imageStyle)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of a map marker cluster which is represented as an image.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.MapMarkerCluster.ImageStyle,com.here.sdk.mapview.MapMarkerCluster.CounterStyle)">MapMarkerCluster</a><wbr/>(<a href="sdk-for-android-explore-mapmarkercluster.imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a> imageStyle,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#%3Cinit%3E(com.here.sdk.mapview.MapMarkerCluster.ImageStyle,com.here.sdk.mapview.MapMarkerCluster.CounterStyle)">MapMarkerCluster</a><wbr/>(<a href="sdk-for-android-explore-mapmarkercluster.imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a> imageStyle,
  <a href="sdk-for-android-explore-mapmarkercluster.counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a> counterStyle)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of a map marker cluster which is represented as an image along with a counter
@@ -101,42 +101,42 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#addMapMarker(com.here.sdk.mapview.MapMarker)">addMapMarker</a><wbr/>(<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#addMapMarker(com.here.sdk.mapview.MapMarker)">addMapMarker</a><wbr/>(<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a map marker to this cluster.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#addMapMarkers(java.util.List)">addMapMarkers</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#addMapMarkers(java.util.List)">addMapMarkers</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a list of map markers to this cluster.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getMarkers()">getMarkers</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#getMarkers()">getMarkers</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the list of map markers which currently belong to this cluster.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getOpacity()">getOpacity</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#getOpacity()">getOpacity</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current opacity of the marker cluster image.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#removeAllMapMarkers()">removeAllMapMarkers</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#removeAllMapMarkers()">removeAllMapMarkers</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes all map markers from this cluster.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#removeMapMarker(com.here.sdk.mapview.MapMarker)">removeMapMarker</a><wbr/>(<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#removeMapMarker(com.here.sdk.mapview.MapMarker)">removeMapMarker</a><wbr/>(<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a map marker from this cluster.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#removeMapMarkers(java.util.List)">removeMapMarkers</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#removeMapMarkers(java.util.List)">removeMapMarkers</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a list of map markers from this cluster.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setOpacity(double)">setOpacity</a><wbr/>(double value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#setOpacity(double)">setOpacity</a><wbr/>(double value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the opacity of the marker cluster image.</div>
 </div>

@@ -42,12 +42,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-geopolygon"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#innerBoundaries">innerBoundaries</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geopolygon#innerBoundaries">innerBoundaries</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of polygon inner boundaries (holes), each defined as a list of geographic coordinates.</div>
 </div>
 <div class="col-first odd-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#vertices">vertices</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geopolygon#vertices">vertices</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The list of geographic coordinates representing the outer boundary vertices of polygon.</div>
 </div>
@@ -62,19 +62,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-geopolygon"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoBox)">GeoPolygon</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geopolygon#%3Cinit%3E(com.here.sdk.core.GeoBox)">GeoPolygon</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs an instance of this class from <a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCircle)">GeoPolygon</a><wbr/>(<a href="sdk-for-android-navigate-geocircle" title="class in com.here.sdk.core">GeoCircle</a> geoCircle)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geopolygon#%3Cinit%3E(com.here.sdk.core.GeoCircle)">GeoPolygon</a><wbr/>(<a href="sdk-for-android-navigate-geocircle" title="class in com.here.sdk.core">GeoCircle</a> geoCircle)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs an instance of this class from <a href="sdk-for-android-navigate-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a>.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.util.List)">GeoPolygon</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geopolygon#%3Cinit%3E(java.util.List)">GeoPolygon</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs an instance of this class from the provided vertices.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.util.List,java.util.List)">GeoPolygon</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geopolygon#%3Cinit%3E(java.util.List,java.util.List)">GeoPolygon</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;&gt; innerBoundaries)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs an instance of this class from the provided vertices and inner boundaries (holes).</div>
@@ -94,10 +94,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-geopolygon"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geopolygon#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geopolygon#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

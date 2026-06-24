@@ -51,12 +51,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistan
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lanesForNextManeuver">lanesForNextManeuver</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance#lanesForNextManeuver">lanesForNextManeuver</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A list of lanes on the current road that leads to the upcoming maneuver.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lanesForNextNextManeuver">lanesForNextNextManeuver</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance#lanesForNextNextManeuver">lanesForNextNextManeuver</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A list of lanes on the road that leads to the maneuver after the upcoming maneuver.</div>
 </div>
@@ -71,7 +71,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistan
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.util.List,java.util.List)">ManeuverViewLaneAssistance</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextManeuver,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance#%3Cinit%3E(java.util.List,java.util.List)">ManeuverViewLaneAssistance</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextManeuver,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextNextManeuver)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -91,10 +91,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistan
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -140,7 +140,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistan
  <a href="sdk-for-android-navigate-roadattributes#isRightDrivingSide"><code>RoadAttributes.isRightDrivingSide</code></a> indicates if this is a left-hand driving country or not.
  By default, this list is empty. It will be filled when the next two maneuvers are too
  close to each other, or when the next two maneuvers are roundabout maneuvers.
- Note: This notification is delivered at the same time as the <a href="sdk-for-android-navigate-index#lanesForNextManeuver"><code>lanesForNextManeuver</code></a>.
+ Note: This notification is delivered at the same time as the <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance#lanesForNextManeuver"><code>lanesForNextManeuver</code></a>.
  There is no separate maneuver notification on the second maneuver when two maneuvers are
  are too close to each other.</p></div>
 </section>
@@ -178,7 +178,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistan
  <a href="sdk-for-android-navigate-roadattributes#isRightDrivingSide"><code>RoadAttributes.isRightDrivingSide</code></a> indicates if this is a left-hand driving country or not.
  By default, this list is empty. It will be filled when the next two maneuvers are too
  close to each other, or when the next two maneuvers are roundabout maneuvers.
- Note: This notification is delivered at the same time as the <a href="sdk-for-android-navigate-index#lanesForNextManeuver"><code>lanesForNextManeuver</code></a>.
+ Note: This notification is delivered at the same time as the <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance#lanesForNextManeuver"><code>lanesForNextManeuver</code></a>.
  There is no separate maneuver notification on the second maneuver when two maneuvers are
  are too close to each other.</p></dd>
 </dl>

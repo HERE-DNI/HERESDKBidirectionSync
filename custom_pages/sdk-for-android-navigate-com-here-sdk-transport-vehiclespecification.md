@@ -83,122 +83,122 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#axleCount">axleCount</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#axleCount">axleCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines total number of axles in the vehicle.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#currentWeightInKilograms">currentWeightInKilograms</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#currentWeightInKilograms">currentWeightInKilograms</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Current truck weight, including trailers and shipped goods currently loaded, specified in
  kilograms.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#emptyWeightInKilograms">emptyWeightInKilograms</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#emptyWeightInKilograms">emptyWeightInKilograms</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Empty weight of the vehicle without any load, excluding trailers, specified in kilograms.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#engineSizeInCubicCentimeters">engineSizeInCubicCentimeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#engineSizeInCubicCentimeters">engineSizeInCubicCentimeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Engine size of the scooter in cubic centimeters.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#grossWeightInKilograms">grossWeightInKilograms</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#grossWeightInKilograms">grossWeightInKilograms</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Gross truck weight, including trailers and shipped goods when loaded at capacity, specified in
  kilograms.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hazardousMaterials">hazardousMaterials</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#hazardousMaterials">hazardousMaterials</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies a list of hazardous materials shipped in the vehicle.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#heightInCentimeters">heightInCentimeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#heightInCentimeters">heightInCentimeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Vehicle height in centimeters.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isCommercial">isCommercial</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#isCommercial">isCommercial</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies whether the vehicle is a commercial or a non-commercial vehicle.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isTruckLight">isTruckLight</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#isTruckLight">isTruckLight</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A flag indicating whether the truck is light enough to be classified more as a car than a truck in Japan.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#kingpinToRearAxleDistanceInCentimeters">kingpinToRearAxleDistanceInCentimeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#kingpinToRearAxleDistanceInCentimeters">kingpinToRearAxleDistanceInCentimeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines the kingpin to rear axle distance, in centimeters.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lastCharacterOfLicensePlate">lastCharacterOfLicensePlate</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#lastCharacterOfLicensePlate">lastCharacterOfLicensePlate</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Last character of license plate in String format.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lengthInCentimeters">lengthInCentimeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#lengthInCentimeters">lengthInCentimeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Vehicle length in centimeters.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#occupancy">occupancy</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#occupancy">occupancy</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies the number of occupants in the vehicle, including driver,
  can affect the vehicle's ability to use HOV/carpool restricted lanes.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#payloadCapacityInKilograms">payloadCapacityInKilograms</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#payloadCapacityInKilograms">payloadCapacityInKilograms</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Allowed payload capacity, including trailers, specified in kilograms.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#tiresCount">tiresCount</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#tiresCount">tiresCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The total number of tires the vehicle has, i.e., the tires on the base vehicle and any attached trailers.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#trailerAxleCount">trailerAxleCount</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#trailerAxleCount">trailerAxleCount</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines total number of axles across all the trailers attached to the vehicle.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#trailerCount">trailerCount</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#trailerCount">trailerCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines number of trailers attached to the vehicle.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#truckCategory">truckCategory</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#truckCategory">truckCategory</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines the truck category.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#truckType">truckType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#truckType">truckType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment">Will be removed in v4.27.0.</div>
 </div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#tunnelCategory">tunnelCategory</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#tunnelCategory">tunnelCategory</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies the tunnel categories to restrict certain route links.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-weightperaxlegroup" title="class in com.here.sdk.transport">WeightPerAxleGroup</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#weightPerAxleGroup">weightPerAxleGroup</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#weightPerAxleGroup">weightPerAxleGroup</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Allows specification of axle weights in a more fine-grained way than <a href="sdk-for-android-navigate-index#weightPerAxleInKilograms"><code>weightPerAxleInKilograms</code></a>.</div>
+<div class="block">Allows specification of axle weights in a more fine-grained way than <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#weightPerAxleInKilograms"><code>weightPerAxleInKilograms</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#weightPerAxleInKilograms">weightPerAxleInKilograms</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#weightPerAxleInKilograms">weightPerAxleInKilograms</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Heaviest weight per axle, regardless of axle type or axle group.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#widthInCentimeters">widthInCentimeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#widthInCentimeters">widthInCentimeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Vehicle width in centimeters.</div>
 </div>
@@ -213,7 +213,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">VehicleSpecification</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#%3Cinit%3E()">VehicleSpecification</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -232,10 +232,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -295,8 +295,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
 <div class="block"><p>Defines total number of axles in the vehicle. The provided value must be greater than or equal to 2.
  By default, it is not set.
  Route calculation: When not set, possible axle count restrictions will not be taken into consideration.
- Rendering: When set, truck restriction icons for an axle count greater than <a href="sdk-for-android-navigate-index#axleCount"><code>axleCount</code></a> will not be displayed.
- When specifying <a href="sdk-for-android-navigate-index#trailerAxleCount"><code>trailerAxleCount</code></a>, then <a href="sdk-for-android-navigate-index#axleCount"><code>axleCount</code></a> is required and must be greater than <a href="sdk-for-android-navigate-index#trailerAxleCount"><code>trailerAxleCount</code></a>.
+ Rendering: When set, truck restriction icons for an axle count greater than <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#axleCount"><code>axleCount</code></a> will not be displayed.
+ When specifying <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#trailerAxleCount"><code>trailerAxleCount</code></a>, then <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#axleCount"><code>axleCount</code></a> is required and must be greater than <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#trailerAxleCount"><code>trailerAxleCount</code></a>.
  </p><p><strong>Note:</strong> Supported in <a href="sdk-for-android-navigate-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-navigate-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-navigate-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
  <a href="sdk-for-android-navigate-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-navigate-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta) transport modes.</p></div>
 </section>
@@ -308,7 +308,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">trailerCount</span></div>
 <div class="block"><p>Defines number of trailers attached to the vehicle. The provided value must be in the range [0, 255].
  By default, it is not set.
- When specifying <a href="sdk-for-android-navigate-index#trailerAxleCount"><code>trailerAxleCount</code></a>, then <a href="sdk-for-android-navigate-index#trailerCount"><code>trailerCount</code></a> is required and must be greater than 0.</p></div>
+ When specifying <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#trailerAxleCount"><code>trailerAxleCount</code></a>, then <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#trailerCount"><code>trailerCount</code></a> is required and must be greater than 0.</p></div>
 </section>
 </li>
 <li>
@@ -323,7 +323,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
 <div class="block"><p>Will be replaced with <code>truckCategory</code> when the <code>TruckSpecification</code> will be replaced by <code>VehicleSpecification</code>.
  Defines the type of truck.
  Defaults to <a href="sdk-for-android-navigate-trucktype#STRAIGHT"><code>TruckType.STRAIGHT</code></a>.
- Rendering <code>sdk.mapview.TruckProfile</code>: <a href="sdk-for-android-navigate-index#truckType"><code>truckType</code></a> is ignored and has no effect.</p></div>
+ Rendering <code>sdk.mapview.TruckProfile</code>: <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#truckType"><code>truckType</code></a> is ignored and has no effect.</p></div>
 </section>
 </li>
 <li>
@@ -333,7 +333,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></span> <span class="element-name">truckCategory</span></div>
 <div class="block"><p>Defines the truck category.
  By default, it is not set.
- Rendering: <a href="sdk-for-android-navigate-index#truckCategory"><code>truckCategory</code></a> is ignored and has no effect.</p></div>
+ Rendering: <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#truckCategory"><code>truckCategory</code></a> is ignored and has no effect.</p></div>
 </section>
 </li>
 <li>
@@ -379,8 +379,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">trailerAxleCount</span></div>
 <div class="block"><p>Defines total number of axles across all the trailers attached to the vehicle.
- This number is included in <a href="sdk-for-android-navigate-index#axleCount"><code>axleCount</code></a>, hence <a href="sdk-for-android-navigate-index#trailerAxleCount"><code>trailerAxleCount</code></a> must be less than <a href="sdk-for-android-navigate-index#axleCount"><code>axleCount</code></a>
- and greater than or equal to 1. <a href="sdk-for-android-navigate-index#axleCount"><code>axleCount</code></a> and <a href="sdk-for-android-navigate-index#trailerCount"><code>trailerCount</code></a> are required to specify <a href="sdk-for-android-navigate-index#trailerAxleCount"><code>trailerAxleCount</code></a>.
+ This number is included in <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#axleCount"><code>axleCount</code></a>, hence <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#trailerAxleCount"><code>trailerAxleCount</code></a> must be less than <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#axleCount"><code>axleCount</code></a>
+ and greater than or equal to 1. <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#axleCount"><code>axleCount</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#trailerCount"><code>trailerCount</code></a> are required to specify <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#trailerAxleCount"><code>trailerAxleCount</code></a>.
  By default, it is not set.
  </p><p><strong>Note:</strong>: This parameter is currently used only for the calculation of tolls in regions where it is applicable.</p></div>
 </section>
@@ -415,7 +415,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">grossWeightInKilograms</span></div>
 <div class="block"><p>Gross truck weight, including trailers and shipped goods when loaded at capacity, specified in
  kilograms. The provided value must be greater than or equal to 0. If unspecified,
- it will default to <a href="sdk-for-android-navigate-index#currentWeightInKilograms"><code>currentWeightInKilograms</code></a>.
+ it will default to <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#currentWeightInKilograms"><code>currentWeightInKilograms</code></a>.
  By default, it is not set.
  </p><p><strong>Notes:</strong>
 <ul>
@@ -433,7 +433,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">currentWeightInKilograms</span></div>
 <div class="block"><p>Current truck weight, including trailers and shipped goods currently loaded, specified in
  kilograms. The provided value must be greater than or equal to 0. If unspecified,
- it will default to <a href="sdk-for-android-navigate-index#grossWeightInKilograms"><code>grossWeightInKilograms</code></a>.
+ it will default to <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#grossWeightInKilograms"><code>grossWeightInKilograms</code></a>.
  By default, it is not set.
  </p><p><strong>Notes:</strong>
 <ul>
@@ -441,7 +441,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
  <a href="sdk-for-android-navigate-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-navigate-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta) transport modes.</li>
 <li>Maximum weight for a car or taxi <em>without</em> a trailer is 5000 kg.</li>
 <li>Maximum weight for a car or taxi <em>with</em> a trailer is 8500 kg.</li>
-<li>A route request with <a href="sdk-for-android-navigate-index#currentWeightInKilograms"><code>currentWeightInKilograms</code></a> above <a href="sdk-for-android-navigate-index#grossWeightInKilograms"><code>grossWeightInKilograms</code></a> may result in
+<li>A route request with <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#currentWeightInKilograms"><code>currentWeightInKilograms</code></a> above <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#grossWeightInKilograms"><code>grossWeightInKilograms</code></a> may result in
  non-compliant or invalid routes.</li>
 </ul></p></div>
 </section>
@@ -457,7 +457,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
  By default, it is not set.
  </p><p><strong>Notes:</strong>
 <ul>
-<li><a href="sdk-for-android-navigate-index#weightPerAxleInKilograms"><code>weightPerAxleInKilograms</code></a> and <a href="sdk-for-android-navigate-index#weightPerAxleGroup"><code>weightPerAxleGroup</code></a> are incompatible.
+<li><a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#weightPerAxleInKilograms"><code>weightPerAxleInKilograms</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#weightPerAxleGroup"><code>weightPerAxleGroup</code></a> are incompatible.
  When available for your edition, if both attributes are set, during online <code>RoutingEngine</code> an <code>RoutingError.INVALID_PARAMETER</code>
  error is generated. Otherwise, when offline <code>RoutingEngine</code> is in place, both parameters are evaluated and the
  maximum value between them will be used.</li>
@@ -471,13 +471,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification"
 <h3>weightPerAxleGroup</h3>
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-weightperaxlegroup" title="class in com.here.sdk.transport">WeightPerAxleGroup</a></span> <span class="element-name">weightPerAxleGroup</span></div>
-<div class="block"><p>Allows specification of axle weights in a more fine-grained way than <a href="sdk-for-android-navigate-index#weightPerAxleInKilograms"><code>weightPerAxleInKilograms</code></a>.
+<div class="block"><p>Allows specification of axle weights in a more fine-grained way than <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#weightPerAxleInKilograms"><code>weightPerAxleInKilograms</code></a>.
  This is relevant in countries with signs and regulations that specify different limits for different axle
  groups, like the USA and Sweden.
  By default is not set.
  </p><p><strong>Notes:</strong>
 <ul>
-<li><a href="sdk-for-android-navigate-index#weightPerAxleInKilograms"><code>weightPerAxleInKilograms</code></a> and <a href="sdk-for-android-navigate-index#weightPerAxleGroup"><code>weightPerAxleGroup</code></a> are incompatible.
+<li><a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#weightPerAxleInKilograms"><code>weightPerAxleInKilograms</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclespecification#weightPerAxleGroup"><code>weightPerAxleGroup</code></a> are incompatible.
  When available for your edition, if both attributes are set, during online <code>RoutingEngine</code> an <code>RoutingError.INVALID_PARAMETER</code>
  error is generated. Otherwise, when offline <code>RoutingEngine</code> is in place, both parameters are evaluated and
  the maximum value between them will be used.</li>

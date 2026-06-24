@@ -61,7 +61,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.util.List)">MapPickFilter</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapscene.mappickfilter.contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a>&gt; filter)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter#%3Cinit%3E(java.util.List)">MapPickFilter</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapscene.mappickfilter.contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a>&gt; filter)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of <a href="sdk-for-android-explore-mapscene.mappickfilter" title="class in com.here.sdk.mapview"><code>MapScene.MapPickFilter</code></a>.</div>
 </div>

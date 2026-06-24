@@ -43,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-threading-ontaskcompleted"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onTaskCompleted(com.here.sdk.core.threading.TaskOutcome)">onTaskCompleted</a><wbr/>(<a href="sdk-for-android-navigate-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a> taskOutcome)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-threading-ontaskcompleted#onTaskCompleted(com.here.sdk.core.threading.TaskOutcome)">onTaskCompleted</a><wbr/>(<a href="sdk-for-android-navigate-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a> taskOutcome)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method will be called on the main thread when a task call has been completed.</div>
 </div>

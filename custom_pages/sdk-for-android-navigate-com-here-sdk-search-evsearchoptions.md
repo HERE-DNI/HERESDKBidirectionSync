@@ -42,12 +42,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evsearchoptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#additionalFeatures">additionalFeatures</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evsearchoptions#additionalFeatures">additionalFeatures</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of additional optional features to be returned in <a href="sdk-for-android-navigate-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-evchargingtariffrequest" title="class in com.here.sdk.search">EVChargingTariffRequest</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#requestedTariffs">requestedTariffs</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evsearchoptions#requestedTariffs">requestedTariffs</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of tariff search options.</div>
 </div>
@@ -62,7 +62,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evsearchoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">EVSearchOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evsearchoptions#%3Cinit%3E()">EVSearchOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an EVSearchOptions object.</div>
 </div>
@@ -81,10 +81,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evsearchoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evsearchoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evsearchoptions#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -118,7 +118,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evsearchoptions"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-evchargingtariffrequest" title="class in com.here.sdk.search">EVChargingTariffRequest</a>&gt;</span> <span class="element-name">requestedTariffs</span></div>
 <div class="block"><p>List of tariff search options.
- This parameter is effective only if the <a href="sdk-for-android-navigate-index#additionalFeatures"><code>additionalFeatures</code></a> contains <a href="sdk-for-android-navigate-evcharginglocationfeature#TARIFFS"><code>EVChargingLocationFeature.TARIFFS</code></a>.
+ This parameter is effective only if the <a href="sdk-for-android-navigate-com-here-sdk-search-evsearchoptions#additionalFeatures"><code>additionalFeatures</code></a> contains <a href="sdk-for-android-navigate-evcharginglocationfeature#TARIFFS"><code>EVChargingLocationFeature.TARIFFS</code></a>.
  If empty, the response contains only ad-hoc tariffs, if available.</p></div>
 </section>
 </li>

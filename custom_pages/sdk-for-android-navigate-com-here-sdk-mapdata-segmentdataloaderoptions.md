@@ -42,88 +42,88 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadAdministrativeRules">loadAdministrativeRules</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadAdministrativeRules">loadAdministrativeRules</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentspandata#getAdministrativeRules()"><code>SegmentSpanData.getAdministrativeRules()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadBaseSpeeds">loadBaseSpeeds</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadBaseSpeeds">loadBaseSpeeds</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentspandata#getPositiveDirectionBaseSpeedInMetersPerSecond()"><code>SegmentSpanData.getPositiveDirectionBaseSpeedInMetersPerSecond()</code></a>,
  <a href="sdk-for-android-navigate-segmentspandata#getNegativeDirectionBaseSpeedInMetersPerSecond()"><code>SegmentSpanData.getNegativeDirectionBaseSpeedInMetersPerSecond()</code></a> and <a href="sdk-for-android-navigate-segmentspandata#getBaseSpeedInMetersPerSecond()"><code>SegmentSpanData.getBaseSpeedInMetersPerSecond()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or
  <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadFunctionalRoadClass">loadFunctionalRoadClass</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadFunctionalRoadClass">loadFunctionalRoadClass</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If it is true, the <a href="sdk-for-android-navigate-segmentspandata#getFunctionalRoadClass()"><code>SegmentSpanData.getFunctionalRoadClass()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or
  <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadLocalRoadCharacteristics">loadLocalRoadCharacteristics</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadLocalRoadCharacteristics">loadLocalRoadCharacteristics</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentspandata#getLocalRoadCharacteristics()"><code>SegmentSpanData.getLocalRoadCharacteristics()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or
  <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadRailwayCrossings">loadRailwayCrossings</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadRailwayCrossings">loadRailwayCrossings</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentdata#getRailwayCrossings()"><code>SegmentData.getRailwayCrossings()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadRoadAttributes">loadRoadAttributes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadRoadAttributes">loadRoadAttributes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentspandata#getPhysicalAttributes()"><code>SegmentSpanData.getPhysicalAttributes()</code></a> and
  <a href="sdk-for-android-navigate-segmentspandata#getRoadUsages()"><code>SegmentSpanData.getRoadUsages()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or
  <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadRoadSigns">loadRoadSigns</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadRoadSigns">loadRoadSigns</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentdata#getRoadSigns()"><code>SegmentData.getRoadSigns()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadSpecialSpeedSituations">loadSpecialSpeedSituations</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadSpecialSpeedSituations">loadSpecialSpeedSituations</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentspandata#getSpecialSpeedSituations()"><code>SegmentSpanData.getSpecialSpeedSituations()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadSpeedLimits">loadSpeedLimits</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadSpeedLimits">loadSpeedLimits</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentspandata#getPositiveDirectionSpeedLimit()"><code>SegmentSpanData.getPositiveDirectionSpeedLimit()</code></a>,
  <a href="sdk-for-android-navigate-segmentspandata#getNegativeDirectionSpeedLimit()"><code>SegmentSpanData.getNegativeDirectionSpeedLimit()</code></a> and <a href="sdk-for-android-navigate-segmentspandata#getSpeedLimit()"><code>SegmentSpanData.getSpeedLimit()</code></a> will be loaded
  when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadStreetNamesAndRoadNumbers">loadStreetNamesAndRoadNumbers</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadStreetNamesAndRoadNumbers">loadStreetNamesAndRoadNumbers</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentspandata#getStreetNames()"><code>SegmentSpanData.getStreetNames()</code></a> and <a href="sdk-for-android-navigate-segmentspandata#getRoadNumbers()"><code>SegmentSpanData.getRoadNumbers()</code></a> and will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or
  <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadTollPoints">loadTollPoints</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadTollPoints">loadTollPoints</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentdata#getTollPoints()"><code>SegmentData.getTollPoints()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadTrafficSignals">loadTrafficSignals</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadTrafficSignals">loadTrafficSignals</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentdata#getTrafficSignals()"><code>SegmentData.getTrafficSignals()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadTransportModesAccess">loadTransportModesAccess</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadTransportModesAccess">loadTransportModesAccess</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentspandata#getAllowedTransportModes()"><code>SegmentSpanData.getAllowedTransportModes()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or
  <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadTravelDirection">loadTravelDirection</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadTravelDirection">loadTravelDirection</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">If it is true, the <a href="sdk-for-android-navigate-segmentspandata#getTravelDirection()"><code>SegmentSpanData.getTravelDirection()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or
  <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadUrban">loadUrban</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#loadUrban">loadUrban</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If it is true, <a href="sdk-for-android-navigate-segmentspandata#isUrban()"><code>SegmentSpanData.isUrban()</code></a> will be loaded when <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> is called.</div>
 </div>
@@ -138,7 +138,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">SegmentDataLoaderOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#%3Cinit%3E()">SegmentDataLoaderOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -157,10 +157,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

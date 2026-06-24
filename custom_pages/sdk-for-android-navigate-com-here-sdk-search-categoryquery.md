@@ -57,47 +57,47 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-categoryquery"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#area">area</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#area">area</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Area in which to provide the most relevant places.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#categories">categories</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#categories">categories</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of categories to be included.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#excludeCategories">excludeCategories</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#excludeCategories">excludeCategories</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of categories and subcategories to be excluded.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placechain" title="class in com.here.sdk.search">PlaceChain</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#excludeChains">excludeChains</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#excludeChains">excludeChains</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of chains to be excluded.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placefoodtype" title="class in com.here.sdk.search">PlaceFoodType</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#excludeFoodTypes">excludeFoodTypes</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#excludeFoodTypes">excludeFoodTypes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of food types to be excluded.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#filter">filter</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#filter">filter</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Full-text filter on POI names/titles.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placechain" title="class in com.here.sdk.search">PlaceChain</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#includeChains">includeChains</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#includeChains">includeChains</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of chains to be included.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placefoodtype" title="class in com.here.sdk.search">PlaceFoodType</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#includeFoodTypes">includeFoodTypes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#includeFoodTypes">includeFoodTypes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of food types to be included.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-placefilter" title="class in com.here.sdk.search">PlaceFilter</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#placeFilter">placeFilter</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#placeFilter">placeFilter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The filter options to specify a place in query.</div>
 </div>
@@ -112,23 +112,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-categoryquery"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.search.PlaceCategory,com.here.sdk.search.CategoryQuery.Area)">CategoryQuery</a><wbr/>(<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a> category,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#%3Cinit%3E(com.here.sdk.search.PlaceCategory,com.here.sdk.search.CategoryQuery.Area)">CategoryQuery</a><wbr/>(<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a> category,
  <a href="sdk-for-android-navigate-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a> area)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.search.PlaceCategory,java.lang.String,com.here.sdk.search.CategoryQuery.Area)">CategoryQuery</a><wbr/>(<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a> category,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#%3Cinit%3E(com.here.sdk.search.PlaceCategory,java.lang.String,com.here.sdk.search.CategoryQuery.Area)">CategoryQuery</a><wbr/>(<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a> category,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> filter,
  <a href="sdk-for-android-navigate-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a> area)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.util.List,com.here.sdk.search.CategoryQuery.Area)">CategoryQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt; categories,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#%3Cinit%3E(java.util.List,com.here.sdk.search.CategoryQuery.Area)">CategoryQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt; categories,
  <a href="sdk-for-android-navigate-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a> area)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.util.List,java.lang.String,com.here.sdk.search.CategoryQuery.Area)">CategoryQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt; categories,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#%3Cinit%3E(java.util.List,java.lang.String,com.here.sdk.search.CategoryQuery.Area)">CategoryQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt; categories,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> filter,
  <a href="sdk-for-android-navigate-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a> area)</code></div>
 <div class="col-last odd-row-color">
@@ -149,10 +149,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-categoryquery"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-categoryquery#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

@@ -53,167 +53,167 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-easingfunction"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_BACK">IN_BACK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_BACK">IN_BACK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">In black</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_BOUNCE">IN_BOUNCE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_BOUNCE">IN_BOUNCE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">In bounce</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_CIRC">IN_CIRC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_CIRC">IN_CIRC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">In circ</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_CUBIC">IN_CUBIC</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_CUBIC">IN_CUBIC</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">In qubic</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_ELASTIC">IN_ELASTIC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_ELASTIC">IN_ELASTIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">In elastic</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_EXP">IN_EXP</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_EXP">IN_EXP</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">In exp</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_OUT_BACK">IN_OUT_BACK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_OUT_BACK">IN_OUT_BACK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">In out black</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_OUT_BOUNCE">IN_OUT_BOUNCE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_OUT_BOUNCE">IN_OUT_BOUNCE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">In out bounce</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_OUT_CIRC">IN_OUT_CIRC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_OUT_CIRC">IN_OUT_CIRC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">In out circ</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_OUT_CUBIC">IN_OUT_CUBIC</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_OUT_CUBIC">IN_OUT_CUBIC</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">In out cubic</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_OUT_ELASTIC">IN_OUT_ELASTIC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_OUT_ELASTIC">IN_OUT_ELASTIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">In out elastic</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_OUT_EXP">IN_OUT_EXP</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_OUT_EXP">IN_OUT_EXP</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">In out exp</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_OUT_QUAD">IN_OUT_QUAD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_OUT_QUAD">IN_OUT_QUAD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">In out quad</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_OUT_QUART">IN_OUT_QUART</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_OUT_QUART">IN_OUT_QUART</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">In out quart</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_OUT_QUINT">IN_OUT_QUINT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_OUT_QUINT">IN_OUT_QUINT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">In out quint</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_OUT_SINE">IN_OUT_SINE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_OUT_SINE">IN_OUT_SINE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">In out sine</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_QUAD">IN_QUAD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_QUAD">IN_QUAD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">In quad</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_QUART">IN_QUART</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_QUART">IN_QUART</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">In quart</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_QUINT">IN_QUINT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_QUINT">IN_QUINT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">In quint</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#IN_SINE">IN_SINE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#IN_SINE">IN_SINE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">In sine</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LINEAR">LINEAR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#LINEAR">LINEAR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Linear</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_BACK">OUT_BACK</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_BACK">OUT_BACK</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Out black</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_BOUNCE">OUT_BOUNCE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_BOUNCE">OUT_BOUNCE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Out bounce</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_CIRC">OUT_CIRC</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_CIRC">OUT_CIRC</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Out circ</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_CUBIC">OUT_CUBIC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_CUBIC">OUT_CUBIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Out cubic</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_ELASTIC">OUT_ELASTIC</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_ELASTIC">OUT_ELASTIC</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Out elastic</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_EXP">OUT_EXP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_EXP">OUT_EXP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Out exp</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_IN_BACK">OUT_IN_BACK</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_IN_BACK">OUT_IN_BACK</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Out in black</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_IN_BOUNCE">OUT_IN_BOUNCE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_IN_BOUNCE">OUT_IN_BOUNCE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Out in bounce</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_IN_CIRC">OUT_IN_CIRC</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_IN_CIRC">OUT_IN_CIRC</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Out in circ</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_IN_CUBIC">OUT_IN_CUBIC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_IN_CUBIC">OUT_IN_CUBIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Out in cubic</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_IN_ELASTIC">OUT_IN_ELASTIC</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_IN_ELASTIC">OUT_IN_ELASTIC</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Out in elastic</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_IN_EXP">OUT_IN_EXP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_IN_EXP">OUT_IN_EXP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Out in exp</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_IN_QUAD">OUT_IN_QUAD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_IN_QUAD">OUT_IN_QUAD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Out in quad</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_IN_QUART">OUT_IN_QUART</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_IN_QUART">OUT_IN_QUART</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Out in quart</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_IN_QUINT">OUT_IN_QUINT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_IN_QUINT">OUT_IN_QUINT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Out in quint</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_IN_SINE">OUT_IN_SINE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_IN_SINE">OUT_IN_SINE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Out in sine</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_QUAD">OUT_QUAD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_QUAD">OUT_QUAD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Out quad</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_QUART">OUT_QUART</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_QUART">OUT_QUART</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Out quart</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_QUINT">OUT_QUINT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_QUINT">OUT_QUINT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Out quint</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_SINE">OUT_SINE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#OUT_SINE">OUT_SINE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Out sine</div>
 </div>
@@ -232,12 +232,12 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-easingfunction"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easingfunction#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

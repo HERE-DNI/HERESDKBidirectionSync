@@ -40,17 +40,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routerailwaycrossing"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#coordinates">coordinates</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routerailwaycrossing#coordinates">coordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Location on the route</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-routeoffset" title="class in com.here.sdk.routing">RouteOffset</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#routeOffset">routeOffset</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routerailwaycrossing#routeOffset">routeOffset</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Route position</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-routerailwaycrossingtype" title="enum class in com.here.sdk.routing">RouteRailwayCrossingType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routerailwaycrossing#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The type of the route place.</div>
 </div>
@@ -65,7 +65,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routerailwaycrossing"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.RouteRailwayCrossingType,com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.RouteOffset)">RouteRailwayCrossing</a><wbr/>(<a href="sdk-for-android-navigate-routerailwaycrossingtype" title="enum class in com.here.sdk.routing">RouteRailwayCrossingType</a> type,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routerailwaycrossing#%3Cinit%3E(com.here.sdk.routing.RouteRailwayCrossingType,com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.RouteOffset)">RouteRailwayCrossing</a><wbr/>(<a href="sdk-for-android-navigate-routerailwaycrossingtype" title="enum class in com.here.sdk.routing">RouteRailwayCrossingType</a> type,
  <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  <a href="sdk-for-android-navigate-routeoffset" title="class in com.here.sdk.routing">RouteOffset</a> routeOffset)</code></div>
 <div class="col-last even-row-color">

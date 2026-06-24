@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onW3WSearchCompleted(com.here.sdk.search.W3WSearchError,com.here.sdk.search.W3WSquare)">onW3WSearchCompleted</a><wbr/>(<a href="sdk-for-android-navigate-w3wsearcherror" title="enum class in com.here.sdk.search">W3WSearchError</a> searchError,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchcallback#onW3WSearchCompleted(com.here.sdk.search.W3WSearchError,com.here.sdk.search.W3WSquare)">onW3WSearchCompleted</a><wbr/>(<a href="sdk-for-android-navigate-w3wsearcherror" title="enum class in com.here.sdk.search">W3WSearchError</a> searchError,
  <a href="sdk-for-android-navigate-w3wsquare" title="class in com.here.sdk.search">W3WSquare</a> square)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method that will be called on the main thread when a search operation in <code>W3WSearchEngine</code>

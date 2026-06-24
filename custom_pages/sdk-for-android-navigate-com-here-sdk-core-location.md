@@ -40,68 +40,68 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-location"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#bearingAccuracyInDegrees">bearingAccuracyInDegrees</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#bearingAccuracyInDegrees">bearingAccuracyInDegrees</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Estimated bearing accuracy for this location, in degrees.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#bearingInDegrees">bearingInDegrees</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#bearingInDegrees">bearingInDegrees</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Bearing (also known as course) is the device's horizontal direction of travel.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#coordinates">coordinates</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#coordinates">coordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The geographic coordinates of the location.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#gnssTime">gnssTime</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#gnssTime">gnssTime</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional gnss time at which the location was determined.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#horizontalAccuracyInMeters">horizontalAccuracyInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#horizontalAccuracyInMeters">horizontalAccuracyInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The estimated horizontal accuracy.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-locationtechnology" title="enum class in com.here.sdk.core">LocationTechnology</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#locationTechnology">locationTechnology</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#locationTechnology">locationTechnology</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional technology or provider of this location.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pitchInDegrees">pitchInDegrees</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#pitchInDegrees">pitchInDegrees</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Pitch of this location, in degrees.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-locationsource" title="enum class in com.here.sdk.core">LocationSource</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#source">source</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#source">source</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional source of this location.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedAccuracyInMetersPerSecond">speedAccuracyInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#speedAccuracyInMetersPerSecond">speedAccuracyInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Estimated speed accuracy of this location, in meters per second.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedInMetersPerSecond">speedInMetersPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#speedInMetersPerSecond">speedInMetersPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Current speed of the device.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#time">time</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#time">time</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The time at which the location was determined.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#timestampSinceBoot">timestampSinceBoot</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#timestampSinceBoot">timestampSinceBoot</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The time at which the location was determined, relative to device
  boot time.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#verticalAccuracyInMeters">verticalAccuracyInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#verticalAccuracyInMeters">verticalAccuracyInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Estimated vertical accuracy.</div>
 </div>
@@ -116,7 +116,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-location"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Location</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Location</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new Location instance from the provided GeoCoordinates value.</div>
 </div>
@@ -135,10 +135,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-location"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-location#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

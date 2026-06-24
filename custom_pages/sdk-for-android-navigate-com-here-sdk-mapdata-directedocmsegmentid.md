@@ -42,12 +42,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#id">id</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid#id">id</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Segment ID in OCM map</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#travelDirection">travelDirection</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid#travelDirection">travelDirection</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Travel direction of the segment.</div>
 </div>
@@ -62,7 +62,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapdata.OCMSegmentId)">DirectedOCMSegmentId</a><wbr/>(<a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a> id)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid#%3Cinit%3E(com.here.sdk.mapdata.OCMSegmentId)">DirectedOCMSegmentId</a><wbr/>(<a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a> id)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -81,10 +81,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

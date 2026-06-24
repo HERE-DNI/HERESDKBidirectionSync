@@ -40,48 +40,48 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#alternatives">alternatives</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#alternatives">alternatives</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Number of alternative routes to return aside from the optimal route.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#arrivalTime">arrivalTime</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#arrivalTime">arrivalTime</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional time when travel is expected to end.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#changes">changes</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#changes">changes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maximum number of changes or transfers allowed in a route.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#departureTime">departureTime</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#departureTime">departureTime</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional time when travel is expected to start.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-transitmodefilter" title="enum class in com.here.sdk.routing">TransitModeFilter</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#modeFilter">modeFilter</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#modeFilter">modeFilter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines inclusion or exclusion of transit modes for route calculation.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#modes">modes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#modes">modes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">This list is used to determine which transit modes should be used for route calculation,
- <a href="sdk-for-android-explore-index#modeFilter"><code>modeFilter</code></a> specifies whether this list is an inclusion or an exclusion.</div>
+ <a href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#modeFilter"><code>modeFilter</code></a> specifies whether this list is an inclusion or an exclusion.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#pedestrianMaxDistanceInMeters">pedestrianMaxDistanceInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#pedestrianMaxDistanceInMeters">pedestrianMaxDistanceInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maximum allowed walking distance in meters (e.g.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#pedestrianSpeedInMetersPerSecond">pedestrianSpeedInMetersPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#pedestrianSpeedInMetersPerSecond">pedestrianSpeedInMetersPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Walking speed in meters per second.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#textOptions">textOptions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#textOptions">textOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Customize textual content returned from the route calculation, such
  as localization, format, and unit system.</div>
@@ -97,7 +97,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">TransitRouteOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#%3Cinit%3E()">TransitRouteOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -116,15 +116,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-transitrouteoptions" title="class in com.here.sdk.routing">TransitRouteOptions</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#fromDefaultParameterConfiguration()">fromDefaultParameterConfiguration</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#fromDefaultParameterConfiguration()">fromDefaultParameterConfiguration</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns TransitRouteOptions instance with default values used in SDK.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -194,7 +194,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>&gt;</span> <span class="element-name">modes</span></div>
 <div class="block"><p>This list is used to determine which transit modes should be used for route calculation,
- <a href="sdk-for-android-explore-index#modeFilter"><code>modeFilter</code></a> specifies whether this list is an inclusion or an exclusion.
+ <a href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#modeFilter"><code>modeFilter</code></a> specifies whether this list is an inclusion or an exclusion.
  For example, specifying subway and bus transit modes with the include filter, returns only subway
  and bus transit modes, and with the exclude filter, returns all the transit modes except subway
  and bus. When not set, all the supported transit modes are permitted.

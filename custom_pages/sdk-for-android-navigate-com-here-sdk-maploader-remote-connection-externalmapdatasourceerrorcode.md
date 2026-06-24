@@ -55,27 +55,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externa
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ADD_CATALOG_ERROR">ADD_CATALOG_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externalmapdatasourceerrorcode#ADD_CATALOG_ERROR">ADD_CATALOG_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Error while adding catalog to <code>DataStoreClient</code>.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CLIENT_DISPOSED_ERROR">CLIENT_DISPOSED_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externalmapdatasourceerrorcode#CLIENT_DISPOSED_ERROR">CLIENT_DISPOSED_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">While attempting to register the connection, the client was being disposed</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INTERNAL_ERROR">INTERNAL_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externalmapdatasourceerrorcode#INTERNAL_ERROR">INTERNAL_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Internal error occurred.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INVALID_CREDENTIALS">INVALID_CREDENTIALS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externalmapdatasourceerrorcode#INVALID_CREDENTIALS">INVALID_CREDENTIALS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Error while checking credentials.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SERVER_UNAVAILABLE">SERVER_UNAVAILABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externalmapdatasourceerrorcode#SERVER_UNAVAILABLE">SERVER_UNAVAILABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This means that server is not launched or configuration settings is wrong.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SERVICE_REGISTER_ERROR">SERVICE_REGISTER_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externalmapdatasourceerrorcode#SERVICE_REGISTER_ERROR">SERVICE_REGISTER_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Error while attempting to register OCM AM service</div>
 </div>
@@ -94,12 +94,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externa
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-externalmapdatasourceerrorcode" title="enum class in com.here.sdk.maploader.remote.connection">ExternalMapDataSourceErrorCode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externalmapdatasourceerrorcode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-externalmapdatasourceerrorcode" title="enum class in com.here.sdk.maploader.remote.connection">ExternalMapDataSourceErrorCode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externalmapdatasourceerrorcode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

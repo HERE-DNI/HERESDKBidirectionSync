@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayermapmeasuredependent
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withStorageLevelOffset(int)">withStorageLevelOffset</a><wbr/>(int offset)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayermapmeasuredependentstoragelevels#withStorageLevelOffset(int)">withStorageLevelOffset</a><wbr/>(int offset)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates an instance of <a href="sdk-for-android-navigate-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview"><code>MapLayerMapMeasureDependentStorageLevels</code></a> with the specified storage level offset.</div>
 </div>

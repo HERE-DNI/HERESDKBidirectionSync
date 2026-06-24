@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-twofingertaplistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onTwoFingerTap(com.here.sdk.core.Point2D)">onTwoFingerTap</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-twofingertaplistener#onTwoFingerTap(com.here.sdk.core.Point2D)">onTwoFingerTap</a><wbr/>(<a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when the double-tap gesture occurs.</div>
 </div>

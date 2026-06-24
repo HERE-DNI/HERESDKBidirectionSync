@@ -53,67 +53,67 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ARRIVE">ARRIVE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#ARRIVE">ARRIVE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">End of the route.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CONTINUE_ON">CONTINUE_ON</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#CONTINUE_ON">CONTINUE_ON</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Continue on the current path.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DEPART">DEPART</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#DEPART">DEPART</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Start the route.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ENTER_ACTION">ENTER_ACTION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#ENTER_ACTION">ENTER_ACTION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Enter a space or area.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEAVE_ACTION">LEAVE_ACTION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#LEAVE_ACTION">LEAVE_ACTION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Leave a space or area.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_EXIT">LEFT_EXIT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#LEFT_EXIT">LEFT_EXIT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Exit to the left.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_TURN">LEFT_TURN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#LEFT_TURN">LEFT_TURN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Make a left turn.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_U_TURN">LEFT_U_TURN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#LEFT_U_TURN">LEFT_U_TURN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Make a left U-turn.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEVEL_CHANGE_ACTION">LEVEL_CHANGE_ACTION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#LEVEL_CHANGE_ACTION">LEVEL_CHANGE_ACTION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Change level action (e.g., use stairs, elevator).</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_EXIT">RIGHT_EXIT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#RIGHT_EXIT">RIGHT_EXIT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Exit to the right.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_TURN">RIGHT_TURN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#RIGHT_TURN">RIGHT_TURN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Make a right turn.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_U_TURN">RIGHT_U_TURN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#RIGHT_U_TURN">RIGHT_U_TURN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Make a right U-turn.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SHARP_LEFT_TURN">SHARP_LEFT_TURN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#SHARP_LEFT_TURN">SHARP_LEFT_TURN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Make a sharp left turn.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SHARP_RIGHT_TURN">SHARP_RIGHT_TURN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#SHARP_RIGHT_TURN">SHARP_RIGHT_TURN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Make a sharp right turn.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SLIGHT_LEFT_TURN">SLIGHT_LEFT_TURN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#SLIGHT_LEFT_TURN">SLIGHT_LEFT_TURN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Make a slight left turn.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SLIGHT_RIGHT_TURN">SLIGHT_RIGHT_TURN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#SLIGHT_RIGHT_TURN">SLIGHT_RIGHT_TURN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Make a slight right turn.</div>
 </div>
@@ -132,12 +132,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

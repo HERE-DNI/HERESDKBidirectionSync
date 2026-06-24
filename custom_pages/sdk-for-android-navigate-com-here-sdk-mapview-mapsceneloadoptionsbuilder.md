@@ -70,7 +70,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">MapSceneLoadOptionsBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder#%3Cinit%3E()">MapSceneLoadOptionsBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new builder instance.</div>
 </div>
@@ -89,37 +89,37 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapsceneloadoptions" title="class in com.here.sdk.mapview">MapSceneLoadOptions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#build()">build</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Builds the <a href="sdk-for-android-navigate-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a> instance.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withConfigurationFile(java.lang.String)">withConfigurationFile</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> configurationFile)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder#withConfigurationFile(java.lang.String)">withConfigurationFile</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> configurationFile)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the configuration file path to load.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withDisabledFeatures(java.util.List)">withDisabledFeatures</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; disabledFeatures)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder#withDisabledFeatures(java.util.List)">withDisabledFeatures</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; disabledFeatures)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the features to disable in the new configuration.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withEnabledFeatures(java.util.Map)">withEnabledFeatures</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; enabledFeatures)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder#withEnabledFeatures(java.util.Map)">withEnabledFeatures</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; enabledFeatures)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the features to enable in the new configuration.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withMapScheme(com.here.sdk.mapview.MapScheme)">withMapScheme</a><wbr/>(<a href="sdk-for-android-navigate-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder#withMapScheme(com.here.sdk.mapview.MapScheme)">withMapScheme</a><wbr/>(<a href="sdk-for-android-navigate-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the map scheme to load.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withOverridingMapStyle(com.here.sdk.mapview.Style)">withOverridingMapStyle</a><wbr/>(<a href="sdk-for-android-navigate-style" title="class in com.here.sdk.mapview">Style</a> overridingMapStyle)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder#withOverridingMapStyle(com.here.sdk.mapview.Style)">withOverridingMapStyle</a><wbr/>(<a href="sdk-for-android-navigate-style" title="class in com.here.sdk.mapview">Style</a> overridingMapStyle)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the style to override what is defined in the scene configuration.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withWatermarkStyle(com.here.sdk.mapview.WatermarkStyle)">withWatermarkStyle</a><wbr/>(<a href="sdk-for-android-navigate-watermarkstyle" title="enum class in com.here.sdk.mapview">WatermarkStyle</a> watermarkStyle)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder#withWatermarkStyle(com.here.sdk.mapview.WatermarkStyle)">withWatermarkStyle</a><wbr/>(<a href="sdk-for-android-navigate-watermarkstyle" title="enum class in com.here.sdk.mapview">WatermarkStyle</a> watermarkStyle)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the watermark style.</div>
 </div>
@@ -162,7 +162,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></span> <span class="element-name">withMapScheme</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme)</span></div>
 <div class="block"><p>Sets the map scheme to load.
- Any configuration file set through <a href="sdk-for-android-navigate-index#withConfigurationFile(java.lang.String)"><code>withConfigurationFile(java.lang.String)</code></a> will be discarded.</p></div>
+ Any configuration file set through <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder#withConfigurationFile(java.lang.String)"><code>withConfigurationFile(java.lang.String)</code></a> will be discarded.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>mapScheme</code> - <p>Map scheme to load.</p></dd>
@@ -178,7 +178,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></span> <span class="element-name">withConfigurationFile</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> configurationFile)</span></div>
 <div class="block"><p>Sets the configuration file path to load.
- Any map scheme set through <a href="sdk-for-android-navigate-index#withMapScheme(com.here.sdk.mapview.MapScheme)"><code>withMapScheme(com.here.sdk.mapview.MapScheme)</code></a> will be discarded.</p></div>
+ Any map scheme set through <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder#withMapScheme(com.here.sdk.mapview.MapScheme)"><code>withMapScheme(com.here.sdk.mapview.MapScheme)</code></a> will be discarded.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>configurationFile</code> - <p>Configuration file path to load.</p></dd>

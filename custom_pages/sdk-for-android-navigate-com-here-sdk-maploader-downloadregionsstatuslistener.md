@@ -39,26 +39,26 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-downloadregionsstatuslist
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)">onDownloadRegionsComplete</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)">onDownloadRegionsComplete</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called after the download for all requested regions has been completed with success or
  failure.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onPause(com.here.sdk.maploader.MapLoaderError)">onPause</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-downloadregionsstatuslistener#onPause(com.here.sdk.maploader.MapLoaderError)">onPause</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when download is paused.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onProgress(com.here.sdk.maploader.RegionId,int)">onProgress</a><wbr/>(<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> region,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-downloadregionsstatuslistener#onProgress(com.here.sdk.maploader.RegionId,int)">onProgress</a><wbr/>(<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> region,
  int percentage)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called multiple times to indicate the download progress for each requested region
  individually.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onResume()">onResume</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-downloadregionsstatuslistener#onResume()">onResume</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when paused download is resumed.</div>
 </div>
@@ -86,7 +86,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-downloadregionsstatuslist
 <div class="block"><p>Called after the download for all requested regions has been completed with success or
  failure. In this callback, failure represents non-retryable error (eg. authentication failure
  because of invalid credentials and similars). Temporary failures (eg. network errors) are
- notified through <a href="sdk-for-android-navigate-index#onPause(com.here.sdk.maploader.MapLoaderError)"><code>onPause(com.here.sdk.maploader.MapLoaderError)</code></a> and downloads will be
+ notified through <a href="sdk-for-android-navigate-com-here-sdk-maploader-downloadregionsstatuslistener#onPause(com.here.sdk.maploader.MapLoaderError)"><code>onPause(com.here.sdk.maploader.MapLoaderError)</code></a> and downloads will be
  in paused state so they can be resumed later.
  Invoked on the main thread.</p></div>
 <dl class="notes">

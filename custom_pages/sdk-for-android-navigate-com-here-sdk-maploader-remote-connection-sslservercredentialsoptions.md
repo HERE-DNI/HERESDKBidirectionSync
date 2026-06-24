@@ -41,17 +41,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslserv
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-clientcertificaterequesttype" title="enum class in com.here.sdk.maploader.remote.connection">ClientCertificateRequestType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#clientCertificateRequest">clientCertificateRequest</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslservercredentialsoptions#clientCertificateRequest">clientCertificateRequest</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates whether the server should request and verify the client's certificate.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-pemkeycertpair" title="class in com.here.sdk.maploader.remote.connection">PemKeyCertPair</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pemKeyCertPairs">pemKeyCertPairs</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslservercredentialsoptions#pemKeyCertPairs">pemKeyCertPairs</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of server key/certificate pairs.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pemRootCerts">pemRootCerts</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslservercredentialsoptions#pemRootCerts">pemRootCerts</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Root certificates (in PEM format) used to verify the client certificate.</div>
 </div>
@@ -66,7 +66,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslserv
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,java.util.List,com.here.sdk.maploader.remote.connection.ClientCertificateRequestType)">SslServerCredentialsOptions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> pemRootCerts,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslservercredentialsoptions#%3Cinit%3E(java.lang.String,java.util.List,com.here.sdk.maploader.remote.connection.ClientCertificateRequestType)">SslServerCredentialsOptions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> pemRootCerts,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-pemkeycertpair" title="class in com.here.sdk.maploader.remote.connection">PemKeyCertPair</a>&gt; pemKeyCertPairs,
  <a href="sdk-for-android-navigate-clientcertificaterequesttype" title="enum class in com.here.sdk.maploader.remote.connection">ClientCertificateRequestType</a> clientCertificateRequest)</code></div>
 <div class="col-last even-row-color">

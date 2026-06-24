@@ -43,17 +43,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#appliesDuring">appliesDuring</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituation#appliesDuring">appliesDuring</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The times during which the condition applies.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#specialSpeedType">specialSpeedType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituation#specialSpeedType">specialSpeedType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents the speed situation type.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedLimitInMetersPerSecond">speedLimitInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituation#speedLimitInMetersPerSecond">speedLimitInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Overrides normal speed limit for this situation.</div>
 </div>
@@ -68,7 +68,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapdata.SpecialSpeedType,double,java.util.List)">SegmentSpecialSpeedSituation</a><wbr/>(<a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a> specialSpeedType,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituation#%3Cinit%3E(com.here.sdk.mapdata.SpecialSpeedType,double,java.util.List)">SegmentSpecialSpeedSituation</a><wbr/>(<a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a> specialSpeedType,
  double speedLimitInMetersPerSecond,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt; appliesDuring)</code></div>
 <div class="col-last even-row-color">
@@ -89,10 +89,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituation#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituation#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

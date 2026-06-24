@@ -53,23 +53,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BRAND_ONLY">BRAND_ONLY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason#BRAND_ONLY">BRAND_ONLY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Vehicle brand-restriction, e.g.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CAR_SHARING_ONLY">CAR_SHARING_ONLY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason#CAR_SHARING_ONLY">CAR_SHARING_ONLY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Charging for car sharing.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CUSTOMERS_ONLY">CUSTOMERS_ONLY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason#CUSTOMERS_ONLY">CUSTOMERS_ONLY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Charging for customers of a hotel, restaurant, store etc.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OTHER">OTHER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason#OTHER">OTHER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Charging is restricted due to other reasons</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TAXIS_ONLY">TAXIS_ONLY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason#TAXIS_ONLY">TAXIS_ONLY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Charging for taxis</div>
 </div>
@@ -88,12 +88,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-evaccessrestrictionreason" title="enum class in com.here.sdk.search">EVAccessRestrictionReason</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-evaccessrestrictionreason" title="enum class in com.here.sdk.search">EVAccessRestrictionReason</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evaccessrestrictionreason#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

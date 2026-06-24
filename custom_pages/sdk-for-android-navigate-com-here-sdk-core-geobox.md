@@ -31,8 +31,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-geobox"
  when using a normal cylindrical projection (such as Mercator).
  The box has a maximum span of 360 degrees in longitude and 180 degrees in latitude direction.
  The box with equal values in longitude for the corners is considered as a span of 360 degrees.
- The box is considered empty if the latitude of the <a href="sdk-for-android-navigate-index#southWestCorner"><code>southWestCorner</code></a> is larger than the the
- latitude of the <a href="sdk-for-android-navigate-index#northEastCorner"><code>northEastCorner</code></a>.</p></div>
+ The box is considered empty if the latitude of the <a href="sdk-for-android-navigate-com-here-sdk-core-geobox#southWestCorner"><code>southWestCorner</code></a> is larger than the the
+ latitude of the <a href="sdk-for-android-navigate-com-here-sdk-core-geobox#northEastCorner"><code>northEastCorner</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -46,12 +46,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-geobox"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>final <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#northEastCorner">northEastCorner</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#northEastCorner">northEastCorner</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">North east corner coordinates.</div>
 </div>
 <div class="col-first odd-row-color"><code>final <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#southWestCorner">southWestCorner</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#southWestCorner">southWestCorner</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">South west corner coordinates.</div>
 </div>
@@ -66,7 +66,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-geobox"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCoordinates)">GeoBox</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> southWestCorner,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCoordinates)">GeoBox</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> southWestCorner,
  <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> northEastCorner)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -86,37 +86,37 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-geobox"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#containing(java.util.List)">containing</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; geoCoordinates)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#containing(java.util.List)">containing</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; geoCoordinates)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a <code>GeoBox</code> which encompases all coordinates from the list.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#contains(com.here.sdk.core.GeoBox)">contains</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#contains(com.here.sdk.core.GeoBox)">contains</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Determines whether the specified <code>GeoBox</code> is covered entirely by this <code>GeoBox</code>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#contains(com.here.sdk.core.GeoCoordinates)">contains</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#contains(com.here.sdk.core.GeoCoordinates)">contains</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Determines whether the specified GeoCoordinates is contained within this <code>GeoBox</code>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#envelope(com.here.sdk.core.GeoBox)">envelope</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#envelope(com.here.sdk.core.GeoBox)">envelope</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Envelopes two <code>GeoBox</code> areas by returning the smallest <code>GeoBox</code> covering both this
  GeoBox and the specified <code>GeoBox</code>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#envelopeGeoBoxes(java.util.List)">envelopeGeoBoxes</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt; geoBoxes)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#envelopeGeoBoxes(java.util.List)">envelopeGeoBoxes</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt; geoBoxes)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Envelopes the list of <code>GeoBox</code> areas by returning the smallest
  <code>GeoBox</code> covering all specified <code>GeoBox</code> objects.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#expandedBy(double,double,double,double)">expandedBy</a><wbr/>(double southMeters,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#expandedBy(double,double,double,double)">expandedBy</a><wbr/>(double southMeters,
  double westMeters,
  double northMeters,
  double eastMeters)</code></div>
@@ -124,20 +124,20 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-geobox"
 <div class="block">Creates a <code>GeoBox</code> which is expanded by a fixed distance.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#hashCode()">hashCode</a>()</code></div>
 
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#intersection(com.here.sdk.core.GeoBox)">intersection</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#intersection(com.here.sdk.core.GeoBox)">intersection</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Computes the intersection with the passed <a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#intersection(java.util.List)">intersection</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt; geoBoxes)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#intersection(java.util.List)">intersection</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt; geoBoxes)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Computes intersection of list of <a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#intersects(com.here.sdk.core.GeoBox)">intersects</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-geobox#intersects(com.here.sdk.core.GeoBox)">intersects</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Determines whether this <code>GeoBox</code> intersects with the passed <code>GeoBox</code>.</div>
 </div>

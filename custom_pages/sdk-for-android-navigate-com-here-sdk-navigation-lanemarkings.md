@@ -45,17 +45,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#centerDividerMarker">centerDividerMarker</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings#centerDividerMarker">centerDividerMarker</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Center Divider Marker describes the type of lane separator for center dividers on bidirectional roads.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#directions">directions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings#directions">directions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of lane directions</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#laneDividerMarker">laneDividerMarker</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings#laneDividerMarker">laneDividerMarker</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Lane Divider Marker describes the appearance and type of driving lane separators existing on a road.</div>
 </div>
@@ -70,7 +70,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">LaneMarkings</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings#%3Cinit%3E()">LaneMarkings</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -89,10 +89,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

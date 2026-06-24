@@ -38,7 +38,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-dangerzonewarninglistene
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onDangerZoneWarningsUpdated(com.here.sdk.navigation.DangerZoneWarning)">onDangerZoneWarningsUpdated</a><wbr/>(<a href="sdk-for-android-navigate-dangerzonewarning" title="class in com.here.sdk.navigation">DangerZoneWarning</a> dangerZonesWarning)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dangerzonewarninglistener#onDangerZoneWarningsUpdated(com.here.sdk.navigation.DangerZoneWarning)">onDangerZoneWarningsUpdated</a><wbr/>(<a href="sdk-for-android-navigate-dangerzonewarning" title="class in com.here.sdk.navigation">DangerZoneWarning</a> dangerZonesWarning)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever the current location has been updated.</div>
 </div>

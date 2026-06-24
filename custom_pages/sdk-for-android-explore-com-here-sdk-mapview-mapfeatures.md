@@ -42,59 +42,59 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AMBIENT_OCCLUSION">AMBIENT_OCCLUSION</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#AMBIENT_OCCLUSION">AMBIENT_OCCLUSION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Ambient occlusion effect for 3D geometries (extruded buildings and landmarks).</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#BUILDING_FOOTPRINTS">BUILDING_FOOTPRINTS</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#BUILDING_FOOTPRINTS">BUILDING_FOOTPRINTS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The 2D footprint of buildings.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CONGESTION_ZONES">CONGESTION_ZONES</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#CONGESTION_ZONES">CONGESTION_ZONES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">City areas designated as congestion zones (or congestion charge zones),
  which impose fees on entering such areas.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ENVIRONMENTAL_ZONES">ENVIRONMENTAL_ZONES</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ENVIRONMENTAL_ZONES">ENVIRONMENTAL_ZONES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">City areas designated as environmental zones, which empose limitations
  on the type of vehicles that are allowed to enter such areas.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#EXTRUDED_BUILDINGS">EXTRUDED_BUILDINGS</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#EXTRUDED_BUILDINGS">EXTRUDED_BUILDINGS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Simple 3D representation of buildings.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LOW_SPEED_ZONES">LOW_SPEED_ZONES</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#LOW_SPEED_ZONES">LOW_SPEED_ZONES</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">City areas designated as low speed zones.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ROAD_EXIT_LABELS">ROAD_EXIT_LABELS</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ROAD_EXIT_LABELS">ROAD_EXIT_LABELS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Show or hide road exit labels, if available.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SHADOWS">SHADOWS</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#SHADOWS">SHADOWS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Shadows for all building types (extruded buildings and landmarks).</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_FLOW">TRAFFIC_FLOW</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_FLOW">TRAFFIC_FLOW</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Traffic flow speed.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_INCIDENTS">TRAFFIC_INCIDENTS</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_INCIDENTS">TRAFFIC_INCIDENTS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Traffic incidents.</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_LIGHTS">TRAFFIC_LIGHTS</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_LIGHTS">TRAFFIC_LIGHTS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Traffic lights.</div>
 </div>
@@ -109,7 +109,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">MapFeatures</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#%3Cinit%3E()">MapFeatures</a>()</code></div>
 
 </div>
 </section>

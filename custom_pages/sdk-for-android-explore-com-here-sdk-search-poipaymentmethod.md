@@ -44,82 +44,82 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AMEX">AMEX</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMEX">AMEX</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">American express credit card</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AMPOL">AMPOL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMPOL">AMPOL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Ampol app</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ANDROID_PAY">ANDROID_PAY</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#ANDROID_PAY">ANDROID_PAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Android pay</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#APPLE_PAY">APPLE_PAY</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#APPLE_PAY">APPLE_PAY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Apple pay</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CASH">CASH</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CASH">CASH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Cash</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CHEQUE">CHEQUE</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CHEQUE">CHEQUE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Cheque</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DEBIT_CARD">DEBIT_CARD</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DEBIT_CARD">DEBIT_CARD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Debit card</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DINERS_CLUB">DINERS_CLUB</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DINERS_CLUB">DINERS_CLUB</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Diners club credit card</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DISCOVER">DISCOVER</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DISCOVER">DISCOVER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Discover credit card</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DKV">DKV</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DKV">DKV</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">DKV invoicing service</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#FINANCING">FINANCING</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#FINANCING">FINANCING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Financing</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MASTERCARD">MASTERCARD</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MASTERCARD">MASTERCARD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Mastercard credit card</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MOTORPASS">MOTORPASS</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MOTORPASS">MOTORPASS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Motorpass fuel card</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PAYPAL">PAYPAL</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#PAYPAL">PAYPAL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">PayPal</div>
 </div>
 <div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SHELL">SHELL</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#SHELL">SHELL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Shell fuel card</div>
 </div>
 <div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#VISA">VISA</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#VISA">VISA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Visa credit card</div>
 </div>
@@ -134,7 +134,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">POIPaymentMethod</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#%3Cinit%3E()">POIPaymentMethod</a>()</code></div>
 
 </div>
 </section>

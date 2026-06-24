@@ -55,17 +55,17 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#HEAVY">HEAVY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory#HEAVY">HEAVY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The charging location is suitable for heavy vehicle charging, including, for example, rigid trucks,
  semi-trailer trucks, requiring more physical space for parking and maneuvering than passenger cars.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#REGULAR">REGULAR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory#REGULAR">REGULAR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The charging location is suitable for regular passenger cars, and optionally also for
  light commercial vehicles, such as vans, pickups and the like, if signaled by truckAccess property.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TWO_WHEELER">TWO_WHEELER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory#TWO_WHEELER">TWO_WHEELER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The charging location is suitable for motor bikes, e-scooters, and the like.</div>
 </div>
@@ -84,12 +84,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-evchargingvehiclecategory" title="enum class in com.here.sdk.search">EVChargingVehicleCategory</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-evchargingvehiclecategory" title="enum class in com.here.sdk.search">EVChargingVehicleCategory</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingvehiclecategory#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

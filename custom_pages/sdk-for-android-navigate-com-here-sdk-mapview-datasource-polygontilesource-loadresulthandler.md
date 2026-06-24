@@ -42,12 +42,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygontilesourc
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#failed(com.here.sdk.mapview.datasource.TileKey)">failed</a><wbr/>(<a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygontilesource-loadresulthandler#failed(com.here.sdk.mapview.datasource.TileKey)">failed</a><wbr/>(<a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called upon failed load tile request.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded</a><wbr/>(<a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygontilesource-loadresulthandler#loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded</a><wbr/>(<a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a>&gt; data,
  <a href="sdk-for-android-navigate-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a> metadata)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">

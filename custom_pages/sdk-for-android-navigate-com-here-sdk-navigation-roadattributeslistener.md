@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadattributeslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRoadAttributesUpdated(com.here.sdk.navigation.RoadAttributes)">onRoadAttributesUpdated</a><wbr/>(<a href="sdk-for-android-navigate-roadattributes" title="class in com.here.sdk.navigation">RoadAttributes</a> roadAttributes)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadattributeslistener#onRoadAttributesUpdated(com.here.sdk.navigation.RoadAttributes)">onRoadAttributesUpdated</a><wbr/>(<a href="sdk-for-android-navigate-roadattributes" title="class in com.here.sdk.navigation">RoadAttributes</a> roadAttributes)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever any attribute of the current road changes.</div>
 </div>

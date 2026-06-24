@@ -53,63 +53,63 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitmode"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AERIAL">AERIAL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#AERIAL">AERIAL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Aerial.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BUS">BUS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#BUS">BUS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Bus.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BUS_RAPID">BUS_RAPID</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#BUS_RAPID">BUS_RAPID</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Bus rapid.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CITY_TRAIN">CITY_TRAIN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#CITY_TRAIN">CITY_TRAIN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">City train.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FERRY">FERRY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#FERRY">FERRY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Ferry.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FLIGHT">FLIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#FLIGHT">FLIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Flight.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HIGH_SPEED_TRAIN">HIGH_SPEED_TRAIN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#HIGH_SPEED_TRAIN">HIGH_SPEED_TRAIN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">High speed train.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INCLINED">INCLINED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#INCLINED">INCLINED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Inclined.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INTER_REGIONAL_TRAIN">INTER_REGIONAL_TRAIN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#INTER_REGIONAL_TRAIN">INTER_REGIONAL_TRAIN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Inter regional train.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INTERCITY_TRAIN">INTERCITY_TRAIN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#INTERCITY_TRAIN">INTERCITY_TRAIN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Intercity train.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LIGHT_RAIL">LIGHT_RAIL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#LIGHT_RAIL">LIGHT_RAIL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Light rail.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MONORAIL">MONORAIL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#MONORAIL">MONORAIL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Monorail.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PRIVATE_BUS">PRIVATE_BUS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#PRIVATE_BUS">PRIVATE_BUS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Private bus.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REGIONAL_TRAIN">REGIONAL_TRAIN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#REGIONAL_TRAIN">REGIONAL_TRAIN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Regional train.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SUBWAY">SUBWAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#SUBWAY">SUBWAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Subway.</div>
 </div>
@@ -128,12 +128,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitmode"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitmode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

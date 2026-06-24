@@ -53,23 +53,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-gesturetype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DOUBLE_TAP">DOUBLE_TAP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-gesturetype#DOUBLE_TAP">DOUBLE_TAP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Double-tap performed with one finger.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PAN">PAN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-gesturetype#PAN">PAN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Panning gesture with a one or two fingers.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PINCH_ROTATE">PINCH_ROTATE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-gesturetype#PINCH_ROTATE">PINCH_ROTATE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Pinching and rotating gesture using two fingers.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TWO_FINGER_PAN">TWO_FINGER_PAN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-gesturetype#TWO_FINGER_PAN">TWO_FINGER_PAN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Vertical panning gesture with two fingers.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TWO_FINGER_TAP">TWO_FINGER_TAP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-gesturetype#TWO_FINGER_TAP">TWO_FINGER_TAP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Single-tap performed with two fingers.</div>
 </div>
@@ -88,12 +88,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-gesturetype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-gesturetype" title="enum class in com.here.sdk.gestures">GestureType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-gesturetype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-gesturetype" title="enum class in com.here.sdk.gestures">GestureType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-gesturetype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

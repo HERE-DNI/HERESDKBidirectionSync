@@ -27,12 +27,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">RealisticViewVectorImage</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A realistic view of a junction. The fields describing the realistic view are
- <a href="sdk-for-android-navigate-index#junctionViewSvgImageContent"><code>junctionViewSvgImageContent</code></a> contains a SVG image of the junction view
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage#junctionViewSvgImageContent"><code>junctionViewSvgImageContent</code></a> contains a SVG image of the junction view
  represented as a string.
- <a href="sdk-for-android-navigate-index#signpostSvgImageContent"><code>signpostSvgImageContent</code></a> contains an SVG image of the signpost corresponding
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage#signpostSvgImageContent"><code>signpostSvgImageContent</code></a> contains an SVG image of the signpost corresponding
  to the junction, also represented as a string.
- A valid realistic view contains a non-empty <a href="sdk-for-android-navigate-index#junctionViewSvgImageContent"><code>junctionViewSvgImageContent</code></a> and a
- non-empty <a href="sdk-for-android-navigate-index#signpostSvgImageContent"><code>signpostSvgImageContent</code></a>.
+ A valid realistic view contains a non-empty <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage#junctionViewSvgImageContent"><code>junctionViewSvgImageContent</code></a> and a
+ non-empty <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage#signpostSvgImageContent"><code>signpostSvgImageContent</code></a>.
  Use <code>RealisticViewWarningListener</code> to get notifications with the realistic views of the upcoming junctions.</p></div>
 </section>
 <section class="summary">
@@ -47,12 +47,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#junctionViewSvgImageContent">junctionViewSvgImageContent</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage#junctionViewSvgImageContent">junctionViewSvgImageContent</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The full content of the junction view vector image as a string.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#signpostSvgImageContent">signpostSvgImageContent</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage#signpostSvgImageContent">signpostSvgImageContent</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The full content of the signpost vector image as a string.</div>
 </div>
@@ -67,7 +67,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,java.lang.String)">RealisticViewVectorImage</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> junctionViewSvgImageContent,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage#%3Cinit%3E(java.lang.String,java.lang.String)">RealisticViewVectorImage</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> junctionViewSvgImageContent,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> signpostSvgImageContent)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -87,10 +87,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

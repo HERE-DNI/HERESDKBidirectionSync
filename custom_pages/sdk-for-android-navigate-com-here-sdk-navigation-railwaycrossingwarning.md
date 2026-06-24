@@ -42,27 +42,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceToRailwayCrossingInMeters">distanceToRailwayCrossingInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning#distanceToRailwayCrossingInMeters">distanceToRailwayCrossingInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Distance to the railway crossing in meters.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceType">distanceType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The distance type for the warning, e.g.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#id">id</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning#id">id</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Unique identifier for this specific railway crossing warning instance.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#segmentReference">segmentReference</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning#segmentReference">segmentReference</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The reference to the segment where the railway crossing is located.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-routerailwaycrossingtype" title="enum class in com.here.sdk.routing">RouteRailwayCrossingType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of railway crossing, specifying whether it is protected by a barrier or not.</div>
 </div>
@@ -77,7 +77,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,com.here.sdk.navigation.DistanceType,com.here.sdk.routing.SegmentReference)">RailwayCrossingWarning</a><wbr/>(double distanceToRailwayCrossingInMeters,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning#%3Cinit%3E(double,com.here.sdk.navigation.DistanceType,com.here.sdk.routing.SegmentReference)">RailwayCrossingWarning</a><wbr/>(double distanceToRailwayCrossingInMeters,
  <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
  <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segmentReference)</code></div>
 <div class="col-last even-row-color">
@@ -98,10 +98,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

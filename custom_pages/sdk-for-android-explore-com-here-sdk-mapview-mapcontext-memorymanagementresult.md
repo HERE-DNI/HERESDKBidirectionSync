@@ -46,13 +46,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementr
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#diffBetweenVideoMemoryLimitAndRequirementInKiB">diffBetweenVideoMemoryLimitAndRequirementInKiB</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresult#diffBetweenVideoMemoryLimitAndRequirementInKiB">diffBetweenVideoMemoryLimitAndRequirementInKiB</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The difference in kibibytes between the limit and the video-memory requirement
  for only the currently visible data.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#resultCode">resultCode</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresult#resultCode">resultCode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The result code of the memory management request.</div>
 </div>
@@ -67,7 +67,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementr
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.mapview.MapContext.MemoryManagementResultCode)">MemoryManagementResult</a><wbr/>(<a href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a> resultCode)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementresult#%3Cinit%3E(com.here.sdk.mapview.MapContext.MemoryManagementResultCode)">MemoryManagementResult</a><wbr/>(<a href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a> resultCode)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>

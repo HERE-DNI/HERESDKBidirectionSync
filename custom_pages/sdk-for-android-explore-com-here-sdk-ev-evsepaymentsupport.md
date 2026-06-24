@@ -55,79 +55,79 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AUTH_BY_CAR_AUTOCHARGE">AUTH_BY_CAR_AUTOCHARGE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#AUTH_BY_CAR_AUTOCHARGE">AUTH_BY_CAR_AUTOCHARGE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Autocharge enables drivers to plug in and charge up instantly using automatic EV-to-charging station authentication technology.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AUTH_BY_CAR_PLUG_AND_CHARGE">AUTH_BY_CAR_PLUG_AND_CHARGE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#AUTH_BY_CAR_PLUG_AND_CHARGE">AUTH_BY_CAR_PLUG_AND_CHARGE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">ISO 15118 Plug&amp;Charge enables drivers to plug in and charge up instantly using automatic EV-to-charging station authentication technology.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CHIP_CARD">CHIP_CARD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#CHIP_CARD">CHIP_CARD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">EVSE has a payment terminal that supports chip cards.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CONTACTLESS_CARD">CONTACTLESS_CARD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#CONTACTLESS_CARD">CONTACTLESS_CARD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">EVSE has a payment terminal that supports contactless cards.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CREDIT_CARD">CREDIT_CARD</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#CREDIT_CARD">CREDIT_CARD</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">EVSE has a payment terminal that makes it possible to pay for charging using a credit card.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DEBIT_CARD">DEBIT_CARD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#DEBIT_CARD">DEBIT_CARD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">EVSE has a payment terminal that makes it possible to pay for charging using a debit card.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MOBILE_PAYMENT">MOBILE_PAYMENT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#MOBILE_PAYMENT">MOBILE_PAYMENT</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Used with <a href="sdk-for-android-explore-index#OPERATOR_APP"><code>OPERATOR_APP</code></a>,
- <a href="sdk-for-android-explore-index#ONLINE_APPLE_PAY"><code>ONLINE_APPLE_PAY</code></a>,
- <a href="sdk-for-android-explore-index#ONLINE_PAYPAL"><code>ONLINE_PAYPAL</code></a>,
- <a href="sdk-for-android-explore-index#ONLINE_CREDIT_CARD"><code>ONLINE_CREDIT_CARD</code></a>,
- <a href="sdk-for-android-explore-index#ONLINE_GOOGLE_PAY"><code>ONLINE_GOOGLE_PAY</code></a>,
- <a href="sdk-for-android-explore-index#ONLINE_BANK_PAYMENT"><code>ONLINE_BANK_PAYMENT</code></a>,
- <a href="sdk-for-android-explore-index#TERMINAL_SMS"><code>TERMINAL_SMS</code></a>,
- <a href="sdk-for-android-explore-index#TERMINAL_QR_CODE"><code>TERMINAL_QR_CODE</code></a>, and
- <a href="sdk-for-android-explore-index#CONTACTLESS_CARD"><code>CONTACTLESS_CARD</code></a>.</div>
+<div class="block">Used with <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#OPERATOR_APP"><code>OPERATOR_APP</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_APPLE_PAY"><code>ONLINE_APPLE_PAY</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_PAYPAL"><code>ONLINE_PAYPAL</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_CREDIT_CARD"><code>ONLINE_CREDIT_CARD</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_GOOGLE_PAY"><code>ONLINE_GOOGLE_PAY</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_BANK_PAYMENT"><code>ONLINE_BANK_PAYMENT</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#TERMINAL_SMS"><code>TERMINAL_SMS</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#TERMINAL_QR_CODE"><code>TERMINAL_QR_CODE</code></a>, and
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#CONTACTLESS_CARD"><code>CONTACTLESS_CARD</code></a>.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ONLINE_APPLE_PAY">ONLINE_APPLE_PAY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_APPLE_PAY">ONLINE_APPLE_PAY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Authenticate &amp; pay with Apple Pay.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ONLINE_BANK_PAYMENT">ONLINE_BANK_PAYMENT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_BANK_PAYMENT">ONLINE_BANK_PAYMENT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Authenticate &amp; pay with online bank payment.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ONLINE_CREDIT_CARD">ONLINE_CREDIT_CARD</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_CREDIT_CARD">ONLINE_CREDIT_CARD</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Authenticate &amp; pay with credit card online.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ONLINE_GOOGLE_PAY">ONLINE_GOOGLE_PAY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_GOOGLE_PAY">ONLINE_GOOGLE_PAY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Authenticate &amp; pay with Google Pay.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ONLINE_PAYPAL">ONLINE_PAYPAL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_PAYPAL">ONLINE_PAYPAL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Authenticate &amp; pay with PayPal.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OPERATOR_APP">OPERATOR_APP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#OPERATOR_APP">OPERATOR_APP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Authenticate &amp; pay with charge point operator application on mobile phone.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PED_TERMINAL">PED_TERMINAL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#PED_TERMINAL">PED_TERMINAL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">EVSE has a payment terminal with a pin-code entry device.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RFID_READER">RFID_READER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#RFID_READER">RFID_READER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Charging at this EVSE can be authorized with an RFID token.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TERMINAL_QR_CODE">TERMINAL_QR_CODE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#TERMINAL_QR_CODE">TERMINAL_QR_CODE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Initiate authentication &amp; payment with QR code on the terminal.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TERMINAL_SMS">TERMINAL_SMS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#TERMINAL_SMS">TERMINAL_SMS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Authenticate &amp; pay with SMS on the terminal.</div>
 </div>
@@ -146,12 +146,12 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-evsepaymentsupport" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-evsepaymentsupport" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -292,17 +292,17 @@ the order they are declared.</div>
 <section class="detail" id="MOBILE_PAYMENT">
 <h3>MOBILE_PAYMENT</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evsepaymentsupport" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a></span> <span class="element-name">MOBILE_PAYMENT</span></div>
-<div class="block"><p>Used with <a href="sdk-for-android-explore-index#OPERATOR_APP"><code>OPERATOR_APP</code></a>,
- <a href="sdk-for-android-explore-index#ONLINE_APPLE_PAY"><code>ONLINE_APPLE_PAY</code></a>,
- <a href="sdk-for-android-explore-index#ONLINE_PAYPAL"><code>ONLINE_PAYPAL</code></a>,
- <a href="sdk-for-android-explore-index#ONLINE_CREDIT_CARD"><code>ONLINE_CREDIT_CARD</code></a>,
- <a href="sdk-for-android-explore-index#ONLINE_GOOGLE_PAY"><code>ONLINE_GOOGLE_PAY</code></a>,
- <a href="sdk-for-android-explore-index#ONLINE_BANK_PAYMENT"><code>ONLINE_BANK_PAYMENT</code></a>,
- <a href="sdk-for-android-explore-index#TERMINAL_SMS"><code>TERMINAL_SMS</code></a>,
- <a href="sdk-for-android-explore-index#TERMINAL_QR_CODE"><code>TERMINAL_QR_CODE</code></a>, and
- <a href="sdk-for-android-explore-index#CONTACTLESS_CARD"><code>CONTACTLESS_CARD</code></a>.
+<div class="block"><p>Used with <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#OPERATOR_APP"><code>OPERATOR_APP</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_APPLE_PAY"><code>ONLINE_APPLE_PAY</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_PAYPAL"><code>ONLINE_PAYPAL</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_CREDIT_CARD"><code>ONLINE_CREDIT_CARD</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_GOOGLE_PAY"><code>ONLINE_GOOGLE_PAY</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#ONLINE_BANK_PAYMENT"><code>ONLINE_BANK_PAYMENT</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#TERMINAL_SMS"><code>TERMINAL_SMS</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#TERMINAL_QR_CODE"><code>TERMINAL_QR_CODE</code></a>, and
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#CONTACTLESS_CARD"><code>CONTACTLESS_CARD</code></a>.
  Whenever one or more of those payment types is specified,
- <a href="sdk-for-android-explore-index#MOBILE_PAYMENT"><code>MOBILE_PAYMENT</code></a> is also specified.</p></div>
+ <a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport#MOBILE_PAYMENT"><code>MOBILE_PAYMENT</code></a> is also specified.</p></div>
 </section>
 </li>
 </ul>

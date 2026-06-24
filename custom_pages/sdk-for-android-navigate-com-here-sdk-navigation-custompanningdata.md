@@ -30,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
  a new estimated audio cue duration, and a new set of initial and sweep angular angle,
  allowing the customization of the spatial audio trajectories for any type of notification,
  such as speed or merge warners, maneuvers or even roundabouts notifications.
- The orientation in space for <a href="sdk-for-android-navigate-index#initialAzimuthInDegrees"><code>initialAzimuthInDegrees</code></a> and <a href="sdk-for-android-navigate-index#sweepAzimuthInDegrees"><code>sweepAzimuthInDegrees</code></a> can
+ The orientation in space for <a href="sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata#initialAzimuthInDegrees"><code>initialAzimuthInDegrees</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata#sweepAzimuthInDegrees"><code>sweepAzimuthInDegrees</code></a> can
  be represented by the following angular values:
  <table>
 <thead>
@@ -61,17 +61,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#estimatedAudioCueDuration">estimatedAudioCueDuration</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata#estimatedAudioCueDuration">estimatedAudioCueDuration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Customized estimated duration for playing the audio cue on the selected TTS Engine.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#initialAzimuthInDegrees">initialAzimuthInDegrees</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata#initialAzimuthInDegrees">initialAzimuthInDegrees</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Initial desired angular position of the upcoming audio cue.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#sweepAzimuthInDegrees">sweepAzimuthInDegrees</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata#sweepAzimuthInDegrees">sweepAzimuthInDegrees</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Sweep angle of the upcoming audio cue.</div>
 </div>
@@ -86,7 +86,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.time.Duration,java.lang.Double,java.lang.Double)">CustomPanningData</a><wbr/>(<a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> estimatedAudioCueDuration,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata#%3Cinit%3E(com.here.time.Duration,java.lang.Double,java.lang.Double)">CustomPanningData</a><wbr/>(<a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> estimatedAudioCueDuration,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> initialAzimuthInDegrees,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> sweepAzimuthInDegrees)</code></div>
 <div class="col-last even-row-color">
@@ -107,10 +107,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

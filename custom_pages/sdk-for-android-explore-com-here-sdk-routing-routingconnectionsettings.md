@@ -43,27 +43,27 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#connectionTimeoutRetryIncrease">connectionTimeoutRetryIncrease</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#connectionTimeoutRetryIncrease">connectionTimeoutRetryIncrease</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the increase of the timeout for the transfer of data.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#initialConnectionTimeout">initialConnectionTimeout</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#initialConnectionTimeout">initialConnectionTimeout</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines the initial time out for connection to the backend.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#initialTransferTimeout">initialTransferTimeout</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#initialTransferTimeout">initialTransferTimeout</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the initial time out for data transfer from the backend.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxRetryCount">maxRetryCount</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#maxRetryCount">maxRetryCount</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines the max amount of retries before the route request failes with connection related error codes.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#transferTimeoutRetryIncrease">transferTimeoutRetryIncrease</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#transferTimeoutRetryIncrease">transferTimeoutRetryIncrease</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the increase of the timeout for the connection.</div>
 </div>
@@ -78,7 +78,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">RoutingConnectionSettings</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#%3Cinit%3E()">RoutingConnectionSettings</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -97,10 +97,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

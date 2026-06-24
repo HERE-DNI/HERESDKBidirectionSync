@@ -46,22 +46,22 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondataaccess
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-dataattributesaccessor" title="class in com.here.sdk.mapview.datasource">DataAttributesAccessor</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getAttributes()">getAttributes</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondataaccessor#getAttributes()">getAttributes</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets polygon attributes accessor.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#getGeometry()">getGeometry</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondataaccessor#getGeometry()">getGeometry</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets polygon geometry.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setAttributes(com.here.sdk.mapview.datasource.DataAttributes)">setAttributes</a><wbr/>(<a href="sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondataaccessor#setAttributes(com.here.sdk.mapview.datasource.DataAttributes)">setAttributes</a><wbr/>(<a href="sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Replaces polygon attributes.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setGeometry(com.here.sdk.core.GeoPolygon)">setGeometry</a><wbr/>(<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondataaccessor#setGeometry(com.here.sdk.core.GeoPolygon)">setGeometry</a><wbr/>(<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Replaces polygon geometry.</div>
 </div>

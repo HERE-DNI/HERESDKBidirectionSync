@@ -30,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
  Speed limits that are described as conditional can be time-dependent. For time-dependent speed limits,
  the HERE SDK internally reads the current device time and notifies only on speed limits
  that are currently active.
- </p><p>It is recommended to use <a href="sdk-for-android-navigate-index#effectiveSpeedLimitInMetersPerSecond()"><code>effectiveSpeedLimitInMetersPerSecond()</code></a> when
+ </p><p>It is recommended to use <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#effectiveSpeedLimitInMetersPerSecond()"><code>effectiveSpeedLimitInMetersPerSecond()</code></a> when
  an application does not offer dedicated speed limit indicators for other cases, such as
  weather-dependent speed limits.</p></div>
 </section>
@@ -46,43 +46,43 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#advisorySpeedLimitInMetersPerSecond">advisorySpeedLimitInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#advisorySpeedLimitInMetersPerSecond">advisorySpeedLimitInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A recommended speed limit that may not be indicated on the local road signs,
  but that serves to warn a driver that the road conditions may indicate a lower speed.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#fogSpeedLimitInMetersPerSecond">fogSpeedLimitInMetersPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#fogSpeedLimitInMetersPerSecond">fogSpeedLimitInMetersPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#optimalWeatherSpeedLimitInMetersPerSecond">optimalWeatherSpeedLimitInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#optimalWeatherSpeedLimitInMetersPerSecond">optimalWeatherSpeedLimitInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#rainSpeedLimitInMetersPerSecond">rainSpeedLimitInMetersPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#rainSpeedLimitInMetersPerSecond">rainSpeedLimitInMetersPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#schoolZoneSpeedLimitInMetersPerSecond">schoolZoneSpeedLimitInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#schoolZoneSpeedLimitInMetersPerSecond">schoolZoneSpeedLimitInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#snowSpeedLimitInMetersPerSecond">snowSpeedLimitInMetersPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#snowSpeedLimitInMetersPerSecond">snowSpeedLimitInMetersPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedLimitInMetersPerSecond">speedLimitInMetersPerSecond</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#speedLimitInMetersPerSecond">speedLimitInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Regular speed limit if available.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#timeDependentSpeedLimitInMetersPerSecond">timeDependentSpeedLimitInMetersPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#timeDependentSpeedLimitInMetersPerSecond">timeDependentSpeedLimitInMetersPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A conditional speed limit as indicated on the local road signs.</div>
 </div>
@@ -97,7 +97,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">SpeedLimit</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#%3Cinit%3E()">SpeedLimit</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -116,17 +116,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#effectiveSpeedLimitInMetersPerSecond()">effectiveSpeedLimitInMetersPerSecond</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#effectiveSpeedLimitInMetersPerSecond()">effectiveSpeedLimitInMetersPerSecond</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Returns the effective (lowest) speed limit between <a href="sdk-for-android-navigate-index#speedLimitInMetersPerSecond"><code>speedLimitInMetersPerSecond</code></a>,
- <a href="sdk-for-android-navigate-index#schoolZoneSpeedLimitInMetersPerSecond"><code>schoolZoneSpeedLimitInMetersPerSecond</code></a>, <a href="sdk-for-android-navigate-index#timeDependentSpeedLimitInMetersPerSecond"><code>timeDependentSpeedLimitInMetersPerSecond</code></a>
- and <a href="sdk-for-android-navigate-index#optimalWeatherSpeedLimitInMetersPerSecond"><code>optimalWeatherSpeedLimitInMetersPerSecond</code></a>.</div>
+<div class="block">Returns the effective (lowest) speed limit between <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#speedLimitInMetersPerSecond"><code>speedLimitInMetersPerSecond</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#schoolZoneSpeedLimitInMetersPerSecond"><code>schoolZoneSpeedLimitInMetersPerSecond</code></a>, <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#timeDependentSpeedLimitInMetersPerSecond"><code>timeDependentSpeedLimitInMetersPerSecond</code></a>
+ and <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#optimalWeatherSpeedLimitInMetersPerSecond"><code>optimalWeatherSpeedLimitInMetersPerSecond</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -304,14 +304,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
 <h3>effectiveSpeedLimitInMetersPerSecond</h3>
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">effectiveSpeedLimitInMetersPerSecond</span>()</div>
-<div class="block"><p>Returns the effective (lowest) speed limit between <a href="sdk-for-android-navigate-index#speedLimitInMetersPerSecond"><code>speedLimitInMetersPerSecond</code></a>,
- <a href="sdk-for-android-navigate-index#schoolZoneSpeedLimitInMetersPerSecond"><code>schoolZoneSpeedLimitInMetersPerSecond</code></a>, <a href="sdk-for-android-navigate-index#timeDependentSpeedLimitInMetersPerSecond"><code>timeDependentSpeedLimitInMetersPerSecond</code></a>
- and <a href="sdk-for-android-navigate-index#optimalWeatherSpeedLimitInMetersPerSecond"><code>optimalWeatherSpeedLimitInMetersPerSecond</code></a>.</p></div>
+<div class="block"><p>Returns the effective (lowest) speed limit between <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#speedLimitInMetersPerSecond"><code>speedLimitInMetersPerSecond</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#schoolZoneSpeedLimitInMetersPerSecond"><code>schoolZoneSpeedLimitInMetersPerSecond</code></a>, <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#timeDependentSpeedLimitInMetersPerSecond"><code>timeDependentSpeedLimitInMetersPerSecond</code></a>
+ and <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#optimalWeatherSpeedLimitInMetersPerSecond"><code>optimalWeatherSpeedLimitInMetersPerSecond</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>Returns the lowest value between: <a href="sdk-for-android-navigate-index#speedLimitInMetersPerSecond"><code>speedLimitInMetersPerSecond</code></a>,
-     <a href="sdk-for-android-navigate-index#schoolZoneSpeedLimitInMetersPerSecond"><code>schoolZoneSpeedLimitInMetersPerSecond</code></a>, <a href="sdk-for-android-navigate-index#timeDependentSpeedLimitInMetersPerSecond"><code>timeDependentSpeedLimitInMetersPerSecond</code></a>
-     and <a href="sdk-for-android-navigate-index#optimalWeatherSpeedLimitInMetersPerSecond"><code>optimalWeatherSpeedLimitInMetersPerSecond</code></a>.</p></dd>
+<dd><p>Returns the lowest value between: <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#speedLimitInMetersPerSecond"><code>speedLimitInMetersPerSecond</code></a>,
+     <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#schoolZoneSpeedLimitInMetersPerSecond"><code>schoolZoneSpeedLimitInMetersPerSecond</code></a>, <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#timeDependentSpeedLimitInMetersPerSecond"><code>timeDependentSpeedLimitInMetersPerSecond</code></a>
+     and <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#optimalWeatherSpeedLimitInMetersPerSecond"><code>optimalWeatherSpeedLimitInMetersPerSecond</code></a>.</p></dd>
 </dl>
 </section>
 </li>

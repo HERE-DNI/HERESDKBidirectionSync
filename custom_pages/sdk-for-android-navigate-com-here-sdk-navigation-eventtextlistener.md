@@ -40,7 +40,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtextlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onEventTextUpdated(com.here.sdk.navigation.EventText)">onEventTextUpdated</a><wbr/>(<a href="sdk-for-android-navigate-eventtext" title="class in com.here.sdk.navigation">EventText</a> eventText)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-eventtextlistener#onEventTextUpdated(com.here.sdk.navigation.EventText)">onEventTextUpdated</a><wbr/>(<a href="sdk-for-android-navigate-eventtext" title="class in com.here.sdk.navigation">EventText</a> eventText)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever there is a new text notification for a maneuver (multiple notifications can be
  given for the same maneuver at different distances (for example: "After 500 meters turn

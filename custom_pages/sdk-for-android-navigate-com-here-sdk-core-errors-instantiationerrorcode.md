@@ -53,56 +53,56 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL">ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL">ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Access key contains illegal symbols.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL">ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL">ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Access key secret contains illegal symbols.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CACHE_FOLDER_ACCESS_DENIED">CACHE_FOLDER_ACCESS_DENIED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#CACHE_FOLDER_ACCESS_DENIED">CACHE_FOLDER_ACCESS_DENIED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Access to the specified cache folder is denied</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DATA_FOLDER_ACCESS_DENIED">DATA_FOLDER_ACCESS_DENIED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#DATA_FOLDER_ACCESS_DENIED">DATA_FOLDER_ACCESS_DENIED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Access to the specified data folder is denied</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FAILED">FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#FAILED">FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Instantiation attempt failed.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FAILED_TO_CREATE_ANALYTICS_SERVICE">FAILED_TO_CREATE_ANALYTICS_SERVICE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#FAILED_TO_CREATE_ANALYTICS_SERVICE">FAILED_TO_CREATE_ANALYTICS_SERVICE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Analytics service can not be created</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FAILED_TO_LOCK_CACHE_FOLDER">FAILED_TO_LOCK_CACHE_FOLDER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#FAILED_TO_LOCK_CACHE_FOLDER">FAILED_TO_LOCK_CACHE_FOLDER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The cache folder for given access key id is locked by other instance of SDKNativeEngine</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ILLEGAL_ARGUMENTS">ILLEGAL_ARGUMENTS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#ILLEGAL_ARGUMENTS">ILLEGAL_ARGUMENTS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Illegal arguments.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INVALID_CATALOG_CONFIGURATION">INVALID_CATALOG_CONFIGURATION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#INVALID_CATALOG_CONFIGURATION">INVALID_CATALOG_CONFIGURATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><code>CatalogConfiguration</code> contains invalid parameters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LAYER_CONFIGURATION_MISMATCH">LAYER_CONFIGURATION_MISMATCH</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#LAYER_CONFIGURATION_MISMATCH">LAYER_CONFIGURATION_MISMATCH</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Please check SDKOptions.layerConfiguration against SDK modules configuration.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED">PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED">PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Access to the specified persistent map storage folder is denied</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SDK_ENGINE_ALREADY_DISPOSED">SDK_ENGINE_ALREADY_DISPOSED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#SDK_ENGINE_ALREADY_DISPOSED">SDK_ENGINE_ALREADY_DISPOSED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Instantiation attempt failed because the <code>dispose()</code> method from <code>SDKNativeEngine</code>
  was called already.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SHARED_SDK_ENGINE_NOT_INSTANTIATED">SHARED_SDK_ENGINE_NOT_INSTANTIATED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#SHARED_SDK_ENGINE_NOT_INSTANTIATED">SHARED_SDK_ENGINE_NOT_INSTANTIATED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Instantiation attempt failed because the shared SDK engine is not instantiated.</div>
 </div>
@@ -121,12 +121,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorcode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

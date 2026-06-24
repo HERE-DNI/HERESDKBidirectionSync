@@ -53,63 +53,63 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AUTHENTICATION_FAILED">AUTHENTICATION_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#AUTHENTICATION_FAILED">AUTHENTICATION_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">What3Words operation is not authenticated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BAD_LANGUAGE">BAD_LANGUAGE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#BAD_LANGUAGE">BAD_LANGUAGE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Bad parameter <code>language</code>.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BAD_WORDS">BAD_WORDS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#BAD_WORDS">BAD_WORDS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Invalid or non-existent 3 word address.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EXCEEDED_USAGE_LIMIT">EXCEEDED_USAGE_LIMIT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#EXCEEDED_USAGE_LIMIT">EXCEEDED_USAGE_LIMIT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Credentials exceeded the allowed requests limit.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HTTP_ERROR">HTTP_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#HTTP_ERROR">HTTP_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A general network request error.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INTERNAL_ERROR">INTERNAL_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#INTERNAL_ERROR">INTERNAL_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Generic internal error.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MISSING_WORDS">MISSING_WORDS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#MISSING_WORDS">MISSING_WORDS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Missing parameter: a required words parameter was missing.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OFFLINE">OFFLINE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#OFFLINE">OFFLINE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The device has no internet connection.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OPERATION_CANCELLED">OPERATION_CANCELLED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#OPERATION_CANCELLED">OPERATION_CANCELLED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The request was cancelled (usually by the user).</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PARSING_ERROR">PARSING_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#PARSING_ERROR">PARSING_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">W3W backend return result with unexpected json schema.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PROXY_AUTHENTICATION_FAILED">PROXY_AUTHENTICATION_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#PROXY_AUTHENTICATION_FAILED">PROXY_AUTHENTICATION_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Proxy is not authenticated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PROXY_SERVER_UNREACHABLE">PROXY_SERVER_UNREACHABLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#PROXY_SERVER_UNREACHABLE">PROXY_SERVER_UNREACHABLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Proxy server unreachable.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SERVER_UNREACHABLE">SERVER_UNREACHABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#SERVER_UNREACHABLE">SERVER_UNREACHABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">What3Words server is unreachable.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TIMED_OUT">TIMED_OUT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#TIMED_OUT">TIMED_OUT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The request timed out.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNKNOWN">UNKNOWN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#UNKNOWN">UNKNOWN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Unknown error, that was not introduced by HERE SDK, but exists on W3W backend.</div>
 </div>
@@ -128,12 +128,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-w3wsearcherror" title="enum class in com.here.sdk.search">W3WSearchError</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-w3wsearcherror" title="enum class in com.here.sdk.search">W3WSearchError</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearcherror#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

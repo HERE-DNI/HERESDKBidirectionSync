@@ -79,11 +79,11 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">AutomotiveCameraBehavior</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#%3Cinit%3E()">AutomotiveCameraBehavior</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class with default camera behaviors and configuration.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String)">AutomotiveCameraBehavior</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> configJson)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#%3Cinit%3E(java.lang.String)">AutomotiveCameraBehavior</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> configJson)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of this class configured from a JSON string.</div>
 </div>
@@ -102,63 +102,63 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype" title="enum class in com.here.sdk.navigation">AutomotiveCameraBehavior.ActiveCameraType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getActiveCameraType()">getActiveCameraType</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getActiveCameraType()">getActiveCameraType</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the type of camera currently handling camera updates.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getNormalizedPrincipalPoint()">getNormalizedPrincipalPoint</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getNormalizedPrincipalPoint()">getNormalizedPrincipalPoint</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the currently set normalized principal point to be used during navigation.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode" title="enum class in com.here.sdk.navigation">AutomotiveCameraBehavior.OrientationMode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getOrientationMode()">getOrientationMode</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getOrientationMode()">getOrientationMode</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current orientation mode.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getViewRectangle()">getViewRectangle</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getViewRectangle()">getViewRectangle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current view rectangle, if it's set.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isManeuverDetectionEnabled()">isManeuverDetectionEnabled</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#isManeuverDetectionEnabled()">isManeuverDetectionEnabled</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets whether maneuver-based camera adjustments are enabled.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setActiveCameraType(com.here.sdk.navigation.AutomotiveCameraBehavior.ActiveCameraType)">setActiveCameraType</a><wbr/>(<a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype" title="enum class in com.here.sdk.navigation">AutomotiveCameraBehavior.ActiveCameraType</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#setActiveCameraType(com.here.sdk.navigation.AutomotiveCameraBehavior.ActiveCameraType)">setActiveCameraType</a><wbr/>(<a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype" title="enum class in com.here.sdk.navigation">AutomotiveCameraBehavior.ActiveCameraType</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the type of camera currently handling camera updates.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setAreaCameraBehaviorGeobox(com.here.sdk.core.GeoBox)">setAreaCameraBehaviorGeobox</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> geobox)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#setAreaCameraBehaviorGeobox(com.here.sdk.core.GeoBox)">setAreaCameraBehaviorGeobox</a><wbr/>(<a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a> geobox)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the Area camera to frame the specified geographic bounding box.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setAreaCameraBehaviorVisiblePoints(java.util.List,boolean)">setAreaCameraBehaviorVisiblePoints</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; points,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#setAreaCameraBehaviorVisiblePoints(java.util.List,boolean)">setAreaCameraBehaviorVisiblePoints</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; points,
  boolean includeCurrentPosition)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the Area camera to frame the specified points.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setManeuverDetectionEnabled(boolean)">setManeuverDetectionEnabled</a><wbr/>(boolean value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#setManeuverDetectionEnabled(boolean)">setManeuverDetectionEnabled</a><wbr/>(boolean value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets whether maneuver-based camera adjustments are enabled.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setNormalizedPrincipalPoint(com.here.sdk.core.Anchor2D)">setNormalizedPrincipalPoint</a><wbr/>(<a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#setNormalizedPrincipalPoint(com.here.sdk.core.Anchor2D)">setNormalizedPrincipalPoint</a><wbr/>(<a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a normalized principal point to be used during navigation.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setOrientationMode(com.here.sdk.navigation.AutomotiveCameraBehavior.OrientationMode)">setOrientationMode</a><wbr/>(<a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode" title="enum class in com.here.sdk.navigation">AutomotiveCameraBehavior.OrientationMode</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#setOrientationMode(com.here.sdk.navigation.AutomotiveCameraBehavior.OrientationMode)">setOrientationMode</a><wbr/>(<a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode" title="enum class in com.here.sdk.navigation">AutomotiveCameraBehavior.OrientationMode</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the orientation mode for the tracking camera.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setViewRectangle(com.here.sdk.core.Rectangle2D)">setViewRectangle</a><wbr/>(<a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#setViewRectangle(com.here.sdk.core.Rectangle2D)">setViewRectangle</a><wbr/>(<a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a view rectangle for both child cameras.</div>
 </div>
@@ -224,10 +224,10 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
  The camera calculates the optimal zoom level and center position to display
  all provided coordinates within the viewport. Use this for showing a single
  point of interest or multiple points such as safety cameras.
- </p><p>This function does not change <a href="sdk-for-android-navigate-index#getActiveCameraType()"><code>getActiveCameraType()</code></a>. To display the configured
- area view, set <a href="sdk-for-android-navigate-index#getActiveCameraType()"><code>getActiveCameraType()</code></a> to <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#AREA"><code>AutomotiveCameraBehavior.ActiveCameraType.AREA</code></a>.
+ </p><p>This function does not change <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getActiveCameraType()"><code>getActiveCameraType()</code></a>. To display the configured
+ area view, set <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getActiveCameraType()"><code>getActiveCameraType()</code></a> to <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#AREA"><code>AutomotiveCameraBehavior.ActiveCameraType.AREA</code></a>.
  </p><p>Calling this function overrides any previously set geographic bounding box
- configured via <a href="sdk-for-android-navigate-index#setAreaCameraBehaviorGeobox(com.here.sdk.core.GeoBox)"><code>setAreaCameraBehaviorGeobox(com.here.sdk.core.GeoBox)</code></a>.</p></div>
+ configured via <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#setAreaCameraBehaviorGeobox(com.here.sdk.core.GeoBox)"><code>setAreaCameraBehaviorGeobox(com.here.sdk.core.GeoBox)</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>points</code> - <p>The list of geographic coordinates to display.</p></dd>
@@ -245,10 +245,10 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="block"><p>Configures the Area camera to frame the specified geographic bounding box.
  The camera automatically calculates the appropriate zoom level and center
  position to ensure the entire area is visible within the viewport.
- </p><p>This function does not change <a href="sdk-for-android-navigate-index#getActiveCameraType()"><code>getActiveCameraType()</code></a>. To display the configured
- area view, set <a href="sdk-for-android-navigate-index#getActiveCameraType()"><code>getActiveCameraType()</code></a> to <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#AREA"><code>AutomotiveCameraBehavior.ActiveCameraType.AREA</code></a>.
+ </p><p>This function does not change <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getActiveCameraType()"><code>getActiveCameraType()</code></a>. To display the configured
+ area view, set <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getActiveCameraType()"><code>getActiveCameraType()</code></a> to <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#AREA"><code>AutomotiveCameraBehavior.ActiveCameraType.AREA</code></a>.
  </p><p>Calling this function overrides any previously set visible points configured
- via <a href="sdk-for-android-navigate-index#setAreaCameraBehaviorVisiblePoints(java.util.List,boolean)"><code>setAreaCameraBehaviorVisiblePoints(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, boolean)</code></a>.</p></div>
+ via <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#setAreaCameraBehaviorVisiblePoints(java.util.List,boolean)"><code>setAreaCameraBehaviorVisiblePoints(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, boolean)</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>geobox</code> - <p>The geographic bounding box to display.</p></dd>

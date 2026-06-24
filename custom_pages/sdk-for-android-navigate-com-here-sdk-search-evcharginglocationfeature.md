@@ -55,33 +55,33 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CONNECTOR_GROUPS">CONNECTOR_GROUPS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#CONNECTOR_GROUPS">CONNECTOR_GROUPS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><a href="sdk-for-android-navigate-evcharginglocation#getConnectorGroups()"><code>EVChargingLocation.getConnectorGroups()</code></a> will be returned.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EMSPS">EMSPS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#EMSPS">EMSPS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><a href="sdk-for-android-navigate-evcharginglocation#getEMobilityServiceProviders()"><code>EVChargingLocation.getEMobilityServiceProviders()</code></a> will be returned.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EVSES">EVSES</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#EVSES">EVSES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><a href="sdk-for-android-navigate-evcharginglocation#getEvses()"><code>EVChargingLocation.getEvses()</code></a> will be returned.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LOCATION_INFO">LOCATION_INFO</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#LOCATION_INFO">LOCATION_INFO</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><a href="sdk-for-android-navigate-evcharginglocation#getCpoID()"><code>EVChargingLocation.getCpoID()</code></a>, <a href="sdk-for-android-navigate-evcharginglocation#getFacilityTypes()"><code>EVChargingLocation.getFacilityTypes()</code></a>,
  <a href="sdk-for-android-navigate-evcharginglocation#getParkingType()"><code>EVChargingLocation.getParkingType()</code></a>, <a href="sdk-for-android-navigate-evcharginglocation#getEnergyMix()"><code>EVChargingLocation.getEnergyMix()</code></a>,
  and <a href="sdk-for-android-navigate-evcharginglocation#getOpeningHours()"><code>EVChargingLocation.getOpeningHours()</code></a> will be returned.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NEARBY">NEARBY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#NEARBY">NEARBY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><a href="sdk-for-android-navigate-evcharginglocation#getFacilityTypes()"><code>EVChargingLocation.getFacilityTypes()</code></a> will be returned.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TARIFFS">TARIFFS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#TARIFFS">TARIFFS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><a href="sdk-for-android-navigate-evchargingconnectorgroup#tariffIndexes"><code>EVChargingConnectorGroup.tariffIndexes</code></a> will be returned.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCK_RESTRICTIONS">TRUCK_RESTRICTIONS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#TRUCK_RESTRICTIONS">TRUCK_RESTRICTIONS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><a href="sdk-for-android-navigate-evcharginglocation#getTruckRestrictions()"><code>EVChargingLocation.getTruckRestrictions()</code></a> will be returned.</div>
 </div>
@@ -100,12 +100,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -135,7 +135,7 @@ the order they are declared.</div>
 <h3>EVSES</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">EVSES</span></div>
 <div class="block"><p><a href="sdk-for-android-navigate-evcharginglocation#getEvses()"><code>EVChargingLocation.getEvses()</code></a> will be returned.
- If <a href="sdk-for-android-navigate-index#CONNECTOR_GROUPS"><code>CONNECTOR_GROUPS</code></a> is also included, then
+ If <a href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#CONNECTOR_GROUPS"><code>CONNECTOR_GROUPS</code></a> is also included, then
  <a href="sdk-for-android-navigate-evchargingconnectorgroup#connectors"><code>EVChargingConnectorGroup.connectors</code></a> will also be returned.</p></div>
 </section>
 </li>
@@ -168,9 +168,9 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">CONNECTOR_GROUPS</span></div>
 <div class="block"><p><a href="sdk-for-android-navigate-evcharginglocation#getConnectorGroups()"><code>EVChargingLocation.getConnectorGroups()</code></a> will be returned.
  To ensure <a href="sdk-for-android-navigate-evchargingconnectorgroup#connectors"><code>EVChargingConnectorGroup.connectors</code></a> is available, also include
- <a href="sdk-for-android-navigate-index#EVSES"><code>EVSES</code></a>.
+ <a href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#EVSES"><code>EVSES</code></a>.
  To ensure <a href="sdk-for-android-navigate-evchargingconnectorgroup#tariffIndexes"><code>EVChargingConnectorGroup.tariffIndexes</code></a> is available, also include
- <a href="sdk-for-android-navigate-index#TARIFFS"><code>TARIFFS</code></a>.</p></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#TARIFFS"><code>TARIFFS</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -178,8 +178,8 @@ the order they are declared.</div>
 <h3>TARIFFS</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">TARIFFS</span></div>
 <div class="block"><p><a href="sdk-for-android-navigate-evchargingconnectorgroup#tariffIndexes"><code>EVChargingConnectorGroup.tariffIndexes</code></a> will be returned.
- Ignored if neither <a href="sdk-for-android-navigate-index#EVSES"><code>EVSES</code></a> nor
- <a href="sdk-for-android-navigate-index#CONNECTOR_GROUPS"><code>CONNECTOR_GROUPS</code></a> are included.</p></div>
+ Ignored if neither <a href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#EVSES"><code>EVSES</code></a> nor
+ <a href="sdk-for-android-navigate-com-here-sdk-search-evcharginglocationfeature#CONNECTOR_GROUPS"><code>CONNECTOR_GROUPS</code></a> are included.</p></div>
 </section>
 </li>
 <li>

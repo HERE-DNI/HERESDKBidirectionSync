@@ -40,27 +40,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#countryCode">countryCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties#countryCode">countryCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The country code in ISO-3166-1 alpha-3 format, which will determine the type of road shield.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#routeNumberName">routeNumberName</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties#routeNumberName">routeNumberName</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A string that is used to additionally determine the road shield's visual representation.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-routetype" title="enum class in com.here.sdk.core">RouteType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#routeType">routeType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties#routeType">routeType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The type of route indicating the significance of the road in a range from 0 to 6.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#shieldText">shieldText</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties#shieldText">shieldText</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The text of the road-shield.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#stateCode">stateCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties#stateCode">stateCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The state code for the road.</div>
 </div>
@@ -75,7 +75,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)">RoadShieldIconProperties</a><wbr/>(<a href="sdk-for-android-navigate-routetype" title="enum class in com.here.sdk.core">RouteType</a> routeType,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties#%3Cinit%3E(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)">RoadShieldIconProperties</a><wbr/>(<a href="sdk-for-android-navigate-routetype" title="enum class in com.here.sdk.core">RouteType</a> routeType,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> countryCode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> stateCode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> routeNumberName,
@@ -146,7 +146,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties"
  such as <code>routeType</code>, <code>countryCode</code> and <code>stateCode</code> to identify the visual representation
  of a road shield icon.
  </p><p>Note that the actual text which will be displayed on the road shield icon is set with
- <a href="sdk-for-android-navigate-index#shieldText"><code>shieldText</code></a>. In order to determine the visuals of the icon, <code>countryCode</code>, <code>routeType</code>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties#shieldText"><code>shieldText</code></a>. In order to determine the visuals of the icon, <code>countryCode</code>, <code>routeType</code>
  and eventually the <code>stateCode</code> is in most cases sufficient to determine the type of road
  shield. In this case an empty string should be passed.
  </p><p><strong>Note:</strong> Texts that contain a <code>CardinalDirection</code> are currently not supported and may lead
@@ -203,7 +203,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties"
  such as <code>routeType</code>, <code>countryCode</code> and <code>stateCode</code> to identify the visual representation
  of a road shield icon.
  </p><p>Note that the actual text which will be displayed on the road shield icon is set with
- <a href="sdk-for-android-navigate-index#shieldText"><code>shieldText</code></a>. In order to determine the visuals of the icon, <code>countryCode</code>, <code>routeType</code>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties#shieldText"><code>shieldText</code></a>. In order to determine the visuals of the icon, <code>countryCode</code>, <code>routeType</code>
  and eventually the <code>stateCode</code> is in most cases sufficient to determine the type of road
  shield. In this case an empty string should be passed.
  </p><p><strong>Note:</strong> Texts that contain a <code>CardinalDirection</code> are currently not supported and may lead

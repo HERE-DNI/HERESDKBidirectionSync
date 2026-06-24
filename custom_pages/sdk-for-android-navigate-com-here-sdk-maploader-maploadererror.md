@@ -53,129 +53,129 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-maploadererror"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ACCESS_DENIED">ACCESS_DENIED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#ACCESS_DENIED">ACCESS_DENIED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The access is denied due to invalid credentials.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ALREADY_INSTALLED">ALREADY_INSTALLED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#ALREADY_INSTALLED">ALREADY_INSTALLED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">All tiles of requested regions were already installed, no need for any download.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BROKEN_UPDATE">BROKEN_UPDATE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#BROKEN_UPDATE">BROKEN_UPDATE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Unrecoverable error during construction of pending update parameters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CACHE_IO_ERROR">CACHE_IO_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#CACHE_IO_ERROR">CACHE_IO_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A cache IO error occurred.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CATALOG_CONFIGURATION_ERROR">CATALOG_CONFIGURATION_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#CATALOG_CONFIGURATION_ERROR">CATALOG_CONFIGURATION_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Misconfiguration of catalogs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FORBIDDEN">FORBIDDEN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#FORBIDDEN">FORBIDDEN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The operation is forbidden, make sure your credentials grant the necessary permissions.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INCOMPLETE_DATA">INCOMPLETE_DATA</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#INCOMPLETE_DATA">INCOMPLETE_DATA</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The data to process is incomplete, failed decoding the tile.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INTERNAL_ERROR">INTERNAL_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#INTERNAL_ERROR">INTERNAL_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Internal error occurred.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INVALID_ARGUMENT">INVALID_ARGUMENT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#INVALID_ARGUMENT">INVALID_ARGUMENT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The request passed invalid arguments.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MAP_DATA_ERROR">MAP_DATA_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#MAP_DATA_ERROR">MAP_DATA_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Downloaded map data is invalid or a <code>sdk.maploader.RegionId</code> passed to the method
  <code>sdk.maploader.MapDownloader.delete_regions</code> is incorrect.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MAP_MANAGER_ERROR">MAP_MANAGER_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#MAP_MANAGER_ERROR">MAP_MANAGER_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Error occurred inside the map manager and might be related to network issues.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MIGRATION_REQUIRED">MIGRATION_REQUIRED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#MIGRATION_REQUIRED">MIGRATION_REQUIRED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Operation on the protected cache cannot be done due to required migration.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NETWORK_CONNECTION_ERROR">NETWORK_CONNECTION_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#NETWORK_CONNECTION_ERROR">NETWORK_CONNECTION_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A network connection error has happened.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NOT_ENOUGH_SPACE">NOT_ENOUGH_SPACE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#NOT_ENOUGH_SPACE">NOT_ENOUGH_SPACE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">There's no sufficient space on the disk to finish operation.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NOT_READY">NOT_READY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#NOT_READY">NOT_READY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">There's a problem with an ongoing download or update: If an operation is in a paused state,
  you can resume or cancel it.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OFFLINE">OFFLINE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#OFFLINE">OFFLINE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Online operation is not permitted because offline mode is enabled.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ONLINE_NAVIGATE_ONLY">ONLINE_NAVIGATE_ONLY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#ONLINE_NAVIGATE_ONLY">ONLINE_NAVIGATE_ONLY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This version of HERE SDK does not support the ability to download maps.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OPERATION_AFTER_DISPOSE">OPERATION_AFTER_DISPOSE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#OPERATION_AFTER_DISPOSE">OPERATION_AFTER_DISPOSE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Method is invoked on object connected to the disposed SDKNativeEngine.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OPERATION_CANCELLED">OPERATION_CANCELLED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#OPERATION_CANCELLED">OPERATION_CANCELLED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The request was cancelled (usually by the user).</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PARALLEL_REQUEST">PARALLEL_REQUEST</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#PARALLEL_REQUEST">PARALLEL_REQUEST</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Parallel request is already running and conflicting with the current one (e.g updating map and deleting map regions)</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PENDING_UPDATE">PENDING_UPDATE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#PENDING_UPDATE">PENDING_UPDATE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map regions update was interrupted.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PROTECTED_CACHE_CORRUPTED">PROTECTED_CACHE_CORRUPTED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#PROTECTED_CACHE_CORRUPTED">PROTECTED_CACHE_CORRUPTED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Protected cache is corrupted.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PROXY_AUTHENTICATION_FAILED">PROXY_AUTHENTICATION_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#PROXY_AUTHENTICATION_FAILED">PROXY_AUTHENTICATION_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Proxy is not authenticated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PROXY_SERVER_UNREACHABLE">PROXY_SERVER_UNREACHABLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#PROXY_SERVER_UNREACHABLE">PROXY_SERVER_UNREACHABLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Proxy server unreachable.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REQUEST_LIMIT_REACHED">REQUEST_LIMIT_REACHED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#REQUEST_LIMIT_REACHED">REQUEST_LIMIT_REACHED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Request limit reached for set a credentials for a particular period of time.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RESOURCE_NOT_FOUND">RESOURCE_NOT_FOUND</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#RESOURCE_NOT_FOUND">RESOURCE_NOT_FOUND</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The requested resource is not found.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SERVICE_ACCESS_FAILED">SERVICE_ACCESS_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#SERVICE_ACCESS_FAILED">SERVICE_ACCESS_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The conditions to access the service are not satisfied.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SERVICE_UNAVAILABLE">SERVICE_UNAVAILABLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#SERVICE_UNAVAILABLE">SERVICE_UNAVAILABLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The requested service is unavailable.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TIME_OUT">TIME_OUT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#TIME_OUT">TIME_OUT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The request exceeded the timeout limit.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNEXPECTED_SERVER_RESPONSE">UNEXPECTED_SERVER_RESPONSE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#UNEXPECTED_SERVER_RESPONSE">UNEXPECTED_SERVER_RESPONSE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Received unexpected response from the backend.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UPDATE_BLOCKED_AS_ANOTHER_PENDING">UPDATE_BLOCKED_AS_ANOTHER_PENDING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#UPDATE_BLOCKED_AS_ANOTHER_PENDING">UPDATE_BLOCKED_AS_ANOTHER_PENDING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Catalog update cannot proceed as another catalog update is in PENDING_UPDATE state.</div>
 </div>
@@ -194,12 +194,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-maploadererror"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

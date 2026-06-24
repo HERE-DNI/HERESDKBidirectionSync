@@ -75,7 +75,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-meshbuilder"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">MeshBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-meshbuilder#%3Cinit%3E()">MeshBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs an instance of MeshBuilder.</div>
 </div>
@@ -94,10 +94,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-meshbuilder"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mesh" title="class in com.here.sdk.mapview">Mesh</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#build()">build</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-meshbuilder#build()">build</a>()</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-quadmeshbuilder" title="class in com.here.sdk.mapview">QuadMeshBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#quad(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)">quad</a><wbr/>(<a href="sdk-for-android-navigate-point3d" title="class in com.here.sdk.core">Point3D</a> a,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-meshbuilder#quad(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)">quad</a><wbr/>(<a href="sdk-for-android-navigate-point3d" title="class in com.here.sdk.core">Point3D</a> a,
  <a href="sdk-for-android-navigate-point3d" title="class in com.here.sdk.core">Point3D</a> b,
  <a href="sdk-for-android-navigate-point3d" title="class in com.here.sdk.core">Point3D</a> c,
  <a href="sdk-for-android-navigate-point3d" title="class in com.here.sdk.core">Point3D</a> d)</code></div>
@@ -105,7 +105,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-meshbuilder"
 <div class="block">Adds a quad.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-trianglemeshbuilder" title="class in com.here.sdk.mapview">TriangleMeshBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#triangle(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)">triangle</a><wbr/>(<a href="sdk-for-android-navigate-point3d" title="class in com.here.sdk.core">Point3D</a> a,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-meshbuilder#triangle(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)">triangle</a><wbr/>(<a href="sdk-for-android-navigate-point3d" title="class in com.here.sdk.core">Point3D</a> a,
  <a href="sdk-for-android-navigate-point3d" title="class in com.here.sdk.core">Point3D</a> b,
  <a href="sdk-for-android-navigate-point3d" title="class in com.here.sdk.core">Point3D</a> c)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">

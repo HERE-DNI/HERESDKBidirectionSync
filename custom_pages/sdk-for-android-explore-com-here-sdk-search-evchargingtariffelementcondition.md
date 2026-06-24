@@ -50,27 +50,27 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondit
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-daterange" title="class in com.here.sdk.search">DateRange</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#date">date</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition#date">date</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Date range when the tariff element is valid.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-dayofweek" title="enum class in com.here.sdk.search">DayOfWeek</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#days">days</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition#days">days</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Day(s) of the week when the tariff element is valid.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-evchargingdurationrange" title="class in com.here.sdk.search">EVChargingDurationRange</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#duration">duration</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition#duration">duration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Duration of the charging session when the tariff element is valid, in seconds.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#overstayBatteryLevel">overstayBatteryLevel</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition#overstayBatteryLevel">overstayBatteryLevel</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Minimum battery level when the tariff element is valid, in percentages.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#time">time</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition#time">time</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Time period when the tariff element is valid, in local time.</div>
 </div>
@@ -85,7 +85,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondit
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">EVChargingTariffElementCondition</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition#%3Cinit%3E()">EVChargingTariffElementCondition</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -104,10 +104,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondit
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffelementcondition#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

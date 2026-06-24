@@ -42,7 +42,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">LineDataBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder#%3Cinit%3E()">LineDataBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a builder instance.</div>
 </div>
@@ -61,17 +61,17 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#build()">build</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Builds an instance of <a href="sdk-for-android-explore-linedata" title="class in com.here.sdk.mapview.datasource"><code>LineData</code></a> and resets the builder instance.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">withAttributes</a><wbr/>(<a href="sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder#withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">withAttributes</a><wbr/>(<a href="sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder with custom attributes for line to be created.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withGeometry(com.here.sdk.core.GeoPolyline)">withGeometry</a><wbr/>(<a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder#withGeometry(com.here.sdk.core.GeoPolyline)">withGeometry</a><wbr/>(<a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder with geometry for line to be created.</div>
 </div>

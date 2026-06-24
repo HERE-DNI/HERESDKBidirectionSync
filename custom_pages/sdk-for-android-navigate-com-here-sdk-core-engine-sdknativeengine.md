@@ -62,7 +62,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(android.content.Context,com.here.sdk.core.engine.SDKOptions)">SDKNativeEngine</a><wbr/>(android.content.Context androidContext,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#%3Cinit%3E(android.content.Context,com.here.sdk.core.engine.SDKOptions)">SDKNativeEngine</a><wbr/>(android.content.Context androidContext,
  <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Makes a new instance of SDKNativeEngine using supplied options.</div>
@@ -82,110 +82,110 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#clearPersistentUsageStats()">clearPersistentUsageStats</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#clearPersistentUsageStats()">clearPersistentUsageStats</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Clear persistent storage for the HERE SDK <a href="sdk-for-android-navigate-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#clearUsageStatsCache()">clearUsageStatsCache</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#clearUsageStatsCache()">clearUsageStatsCache</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Clear cache for the HERE SDK <a href="sdk-for-android-navigate-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#dispose()">dispose</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#dispose()">dispose</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Stops pending requests and closes open files and databases .</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#enableUsageStats(boolean)">enableUsageStats</a><wbr/>(boolean enabled)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#enableUsageStats(boolean)">enableUsageStats</a><wbr/>(boolean enabled)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Enable or disable <a href="sdk-for-android-navigate-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a> for the HERE SDK.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)">getDeviceId</a><wbr/>(<a href="sdk-for-android-navigate-deviceidcallback" title="interface in com.here.sdk.core.engine">DeviceIdCallback</a> callback)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)">getDeviceId</a><wbr/>(<a href="sdk-for-android-navigate-deviceidcallback" title="interface in com.here.sdk.core.engine">DeviceIdCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The unique identifier assigned to the device for this application.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getOptions()">getOptions</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getOptions()">getOptions</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the options used by this instance of <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getParameterConfig()">getParameterConfig</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getParameterConfig()">getParameterConfig</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Gets the configuration for default values of parameters used in the HERE SDK.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" title="class or interface in java.util">Set</a>&lt;<a href="sdk-for-android-navigate-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPassThroughFeatures()">getPassThroughFeatures</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getPassThroughFeatures()">getPassThroughFeatures</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the pass through features.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getProxySettings()">getProxySettings</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getProxySettings()">getProxySettings</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current proxy settings.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSdkUsageStats()">getSdkUsageStats</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getSdkUsageStats()">getSdkUsageStats</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a list of usage statistics for all available HERE SDK features.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSharedInstance()">getSharedInstance</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getSharedInstance()">getSharedInstance</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Gets the shared instance of this SDK engine that can be accessed by any HERE SDK module as the default
  engine.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isOfflineMode()">isOfflineMode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#isOfflineMode()">isOfflineMode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current offline mode.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#makeSharedInstance(android.content.Context,com.here.sdk.core.engine.SDKOptions)">makeSharedInstance</a><wbr/>(android.content.Context androidContext,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#makeSharedInstance(android.content.Context,com.here.sdk.core.engine.SDKOptions)">makeSharedInstance</a><wbr/>(android.content.Context androidContext,
  <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Makes a new instance of this class using the supplied options and stores it as shared instance
- see <a href="sdk-for-android-navigate-index#getSharedInstance()"><code>getSharedInstance()</code></a>.</div>
+ see <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getSharedInstance()"><code>getSharedInstance()</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#purgeMemoryCaches(com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy)">purgeMemoryCaches</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine.purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a> strategy)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#purgeMemoryCaches(com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy)">purgeMemoryCaches</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine.purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a> strategy)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Releases memory occupied by internal caches.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setAccessKeySecret(java.lang.String)">setAccessKeySecret</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> accessKeySecret)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#setAccessKeySecret(java.lang.String)">setAccessKeySecret</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> accessKeySecret)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Overrides HERE SDK access key secret with new value.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setAccessScope(java.lang.String)">setAccessScope</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> scope)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#setAccessScope(java.lang.String)">setAccessScope</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> scope)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Overrides the token scope of the HERE SDK with new value.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setOfflineMode(boolean)">setOfflineMode</a><wbr/>(boolean value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#setOfflineMode(boolean)">setOfflineMode</a><wbr/>(boolean value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the offline mode.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setParameterConfig(com.here.sdk.core.ParameterConfiguration)">setParameterConfig</a><wbr/>(<a href="sdk-for-android-navigate-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#setParameterConfig(com.here.sdk.core.ParameterConfiguration)">setParameterConfig</a><wbr/>(<a href="sdk-for-android-navigate-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Sets the configuration for default values of parameters used in the HERE SDK.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setPassThroughFeatures(java.util.Set)">setPassThroughFeatures</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" title="class or interface in java.util">Set</a>&lt;<a href="sdk-for-android-navigate-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>&gt; value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#setPassThroughFeatures(java.util.Set)">setPassThroughFeatures</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" title="class or interface in java.util">Set</a>&lt;<a href="sdk-for-android-navigate-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>&gt; value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the pass through features.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setProxySettings(com.here.sdk.core.engine.ProxySettings)">setProxySettings</a><wbr/>(<a href="sdk-for-android-navigate-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#setProxySettings(com.here.sdk.core.engine.ProxySettings)">setProxySettings</a><wbr/>(<a href="sdk-for-android-navigate-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the proxy settings.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSharedInstance(com.here.sdk.core.engine.SDKNativeEngine)">setSharedInstance</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#setSharedInstance(com.here.sdk.core.engine.SDKNativeEngine)">setSharedInstance</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Sets the shared instance of this SDK engine that can be accessed by any HERE SDK module as the default
  engine.</div>
@@ -301,8 +301,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
  <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span>
                                throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Makes a new instance of this class using the supplied options and stores it as shared instance
- see <a href="sdk-for-android-navigate-index#getSharedInstance()"><code>getSharedInstance()</code></a>. If there was a previously shared instance
- then it's disposed (so there is no need to call <a href="sdk-for-android-navigate-index#dispose()"><code>dispose()</code></a> on app side) before the new instance is created.
+ see <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getSharedInstance()"><code>getSharedInstance()</code></a>. If there was a previously shared instance
+ then it's disposed (so there is no need to call <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#dispose()"><code>dispose()</code></a> on app side) before the new instance is created.
  </p><p><strong>Note:</strong> The HERE SDK is not guaranteed to be thread safe and it is required to make calls
  to the SDK - including this one - from the main thread.</p></div>
 <dl class="notes">
@@ -408,7 +408,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
  </p><p>Sets offline mode for the HERE SDK to offline or online.
  Defaults to false, which means the HERE SDK uses an online connection.
  When enabled, this prevents the HERE SDK from initiating any online connection except for provided pass through features if set.
- See <a href="sdk-for-android-navigate-index#getPassThroughFeatures()"><code>getPassThroughFeatures()</code></a>.
+ See <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getPassThroughFeatures()"><code>getPassThroughFeatures()</code></a>.
  Note that the flag does not cancel pending requests.
  The mode can be enabled or disabled at any time. In order to fully operate offline, the mode
  needs to be enabled via <a href="sdk-for-android-navigate-sdkoptions#offlineMode"><code>SDKOptions.offlineMode</code></a>.
@@ -430,7 +430,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
  </p><p>Sets offline mode for the HERE SDK to offline or online.
  Defaults to false, which means the HERE SDK uses an online connection.
  When enabled, this prevents the HERE SDK from initiating any online connection except for provided pass through features if set.
- See <a href="sdk-for-android-navigate-index#getPassThroughFeatures()"><code>getPassThroughFeatures()</code></a>.
+ See <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getPassThroughFeatures()"><code>getPassThroughFeatures()</code></a>.
  Note that the flag does not cancel pending requests.
  The mode can be enabled or disabled at any time. In order to fully operate offline, the mode
  needs to be enabled via <a href="sdk-for-android-navigate-sdkoptions#offlineMode"><code>SDKOptions.offlineMode</code></a>.

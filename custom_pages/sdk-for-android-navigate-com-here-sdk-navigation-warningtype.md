@@ -53,59 +53,59 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-warningtype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BORDER_CROSSING">BORDER_CROSSING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#BORDER_CROSSING">BORDER_CROSSING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for border crossings.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CUSTOM">CUSTOM</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#CUSTOM">CUSTOM</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Base type for all custom warnings.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DANGER_ZONE">DANGER_ZONE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#DANGER_ZONE">DANGER_ZONE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for danger zones.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ENVIRONMENTAL_ZONE">ENVIRONMENTAL_ZONE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#ENVIRONMENTAL_ZONE">ENVIRONMENTAL_ZONE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of warning given for environmental zones.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LANE_DECREASE">LANE_DECREASE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#LANE_DECREASE">LANE_DECREASE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for lane decrease.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LOW_SPEED_ZONE">LOW_SPEED_ZONE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#LOW_SPEED_ZONE">LOW_SPEED_ZONE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of warning given for low speed zones.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RAILWAY_CROSSING">RAILWAY_CROSSING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#RAILWAY_CROSSING">RAILWAY_CROSSING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for railway crossings.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REALISTIC_VIEW">REALISTIC_VIEW</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#REALISTIC_VIEW">REALISTIC_VIEW</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of warning given for realistic views.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ROAD_SIGN">ROAD_SIGN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#ROAD_SIGN">ROAD_SIGN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for road signs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SAFETY_CAMERA">SAFETY_CAMERA</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#SAFETY_CAMERA">SAFETY_CAMERA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of warning given for safety cameras.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SCHOOL_ZONE">SCHOOL_ZONE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#SCHOOL_ZONE">SCHOOL_ZONE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for school zones.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TOLL_STOP">TOLL_STOP</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#TOLL_STOP">TOLL_STOP</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of warning given for toll stops.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRAFFIC_MERGE">TRAFFIC_MERGE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#TRAFFIC_MERGE">TRAFFIC_MERGE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of warning given for merging traffic.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCK_RESTRICTION">TRUCK_RESTRICTION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#TRUCK_RESTRICTION">TRUCK_RESTRICTION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of warning given for truck restriction.</div>
 </div>
@@ -124,12 +124,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-warningtype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

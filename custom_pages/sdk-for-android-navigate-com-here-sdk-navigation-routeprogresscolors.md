@@ -40,27 +40,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogresscolors"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ahead">ahead</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogresscolors#ahead">ahead</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Color of the route part that lies ahead of the current location.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#behind">behind</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogresscolors#behind">behind</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Color of the route part that lies behind of the current location.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#offRoad">offRoad</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogresscolors#offRoad">offRoad</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Color of the dashed line between the map-matched and the off-road destinations.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#outlineAhead">outlineAhead</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogresscolors#outlineAhead">outlineAhead</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Outline color of the route part that lies ahead of the current location.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#outlineBehind">outlineBehind</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogresscolors#outlineBehind">outlineBehind</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Outline color of the route part that lies behind of the current location.</div>
 </div>
@@ -75,7 +75,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogresscolors"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.Color,com.here.sdk.core.Color,com.here.sdk.core.Color,com.here.sdk.core.Color)">RouteProgressColors</a><wbr/>(<a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> ahead,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogresscolors#%3Cinit%3E(com.here.sdk.core.Color,com.here.sdk.core.Color,com.here.sdk.core.Color,com.here.sdk.core.Color)">RouteProgressColors</a><wbr/>(<a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> ahead,
  <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> behind,
  <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> outlineAhead,
  <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> outlineBehind)</code></div>

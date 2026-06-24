@@ -44,23 +44,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#earlyPreManeuverActivationThresholdInMeters">earlyPreManeuverActivationThresholdInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverruleoptions#earlyPreManeuverActivationThresholdInMeters">earlyPreManeuverActivationThresholdInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Distance in meters for early activation.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#postManeuverActivationThresholdInMeters">postManeuverActivationThresholdInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverruleoptions#postManeuverActivationThresholdInMeters">postManeuverActivationThresholdInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Distance in meters after the previous maneuver point within which this rule remains
  active.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#preManeuverActivationThresholdInMeters">preManeuverActivationThresholdInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverruleoptions#preManeuverActivationThresholdInMeters">preManeuverActivationThresholdInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Distance in meters before the next maneuver point within which this rule becomes active.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-trackingcamerabehavior.maneuverzoomrange" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverZoomRange</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#zoomRange">zoomRange</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverruleoptions#zoomRange">zoomRange</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The zoom range for this rule.</div>
 </div>
@@ -75,7 +75,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">ManeuverRuleOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverruleoptions#%3Cinit%3E()">ManeuverRuleOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -114,7 +114,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <h3>earlyPreManeuverActivationThresholdInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">earlyPreManeuverActivationThresholdInMeters</span></div>
 <div class="block"><p>Distance in meters for early activation. If the current position enters this threshold
- of the upcoming maneuver while still within <a href="sdk-for-android-navigate-index#postManeuverActivationThresholdInMeters"><code>postManeuverActivationThresholdInMeters</code></a>
+ of the upcoming maneuver while still within <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverruleoptions#postManeuverActivationThresholdInMeters"><code>postManeuverActivationThresholdInMeters</code></a>
  of the previous maneuver, the camera behaves as though it were already in the upcoming
  maneuver's pre-activation zone. Must be non-negative. Defaults to 0.0.</p></div>
 </section>

@@ -51,18 +51,18 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.navigation.WallClock,java.util.List)">WarnerEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.navigation.WallClock,java.util.List)">WarnerEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
  <a href="sdk-for-android-navigate-wallclock" title="interface in com.here.sdk.navigation">WallClock</a> wallClock,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; enabledWarnings)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,java.util.List)">WarnerEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,java.util.List)">WarnerEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; enabledWarnings)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.util.List)">WarnerEngine</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; enabledWarnings)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#%3Cinit%3E(java.util.List)">WarnerEngine</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; enabledWarnings)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -81,66 +81,66 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addCustomWarningProvider(com.here.sdk.warner.CustomWarningProvider,com.here.sdk.mapdata.SegmentDataLoaderOptions)">addCustomWarningProvider</a><wbr/>(<a href="sdk-for-android-navigate-customwarningprovider" title="interface in com.here.sdk.warner">CustomWarningProvider</a> customWarningProvider,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#addCustomWarningProvider(com.here.sdk.warner.CustomWarningProvider,com.here.sdk.mapdata.SegmentDataLoaderOptions)">addCustomWarningProvider</a><wbr/>(<a href="sdk-for-android-navigate-customwarningprovider" title="interface in com.here.sdk.warner">CustomWarningProvider</a> customWarningProvider,
  <a href="sdk-for-android-navigate-segmentdataloaderoptions" title="class in com.here.sdk.mapdata">SegmentDataLoaderOptions</a> segmentDataLoaderOptions)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Registers a custom warning provider.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addEnabledWarnings(java.util.List)">addEnabledWarnings</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; warningTypes)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#addEnabledWarnings(java.util.List)">addEnabledWarnings</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; warningTypes)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds the given warning types to the set of warnings monitored by the engine.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addWarningListener(com.here.sdk.warner.WarningListener)">addWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-warninglistener" title="interface in com.here.sdk.warner">WarningListener</a> warningListener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#addWarningListener(com.here.sdk.warner.WarningListener)">addWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-warninglistener" title="interface in com.here.sdk.warner">WarningListener</a> warningListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Registers a listener that will receive warning notifications.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#clearCustomWarningProviders()">clearCustomWarningProviders</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#clearCustomWarningProviders()">clearCustomWarningProviders</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Unregisters all custom warning providers.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#finalizeGivenWarnings()">finalizeGivenWarnings</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#finalizeGivenWarnings()">finalizeGivenWarnings</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Marks all currently active warnings as passed (<code>DistanceType.PASSED</code>), notifies all
  registered <a href="sdk-for-android-navigate-warninglistener" title="interface in com.here.sdk.warner"><code>WarningListener</code></a> instances on the main thread, and then clears these
  warnings from their corresponding registries by invoking the appropriate<code>WarningsRegistry.clear&lt;Type&gt;</code> methods.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getCustomWarningNotificationDistances(int)">getCustomWarningNotificationDistances</a><wbr/>(int customWarningType)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#getCustomWarningNotificationDistances(int)">getCustomWarningNotificationDistances</a><wbr/>(int customWarningType)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the warning notification distances for the specified custom warning type.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getEnabledWarnings()">getEnabledWarnings</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#getEnabledWarnings()">getEnabledWarnings</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the current list of enabled warning types.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation">TimingProfile</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTimingProfile()">getTimingProfile</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#getTimingProfile()">getTimingProfile</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the currently configured <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation"><code>TimingProfile</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getWarningNotificationDistances(com.here.sdk.navigation.WarningType)">getWarningNotificationDistances</a><wbr/>(<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#getWarningNotificationDistances(com.here.sdk.navigation.WarningType)">getWarningNotificationDistances</a><wbr/>(<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the warning notification distances for the requested warning type.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-warningoptions" title="class in com.here.sdk.warner">WarningOptions</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getWarningOptions()">getWarningOptions</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#getWarningOptions()">getWarningOptions</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the currently configured <a href="sdk-for-android-navigate-warningoptions" title="class in com.here.sdk.warner"><code>WarningOptions</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-warningsregistry" title="class in com.here.sdk.warner">WarningsRegistry</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getWarningsRegistry()">getWarningsRegistry</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#getWarningsRegistry()">getWarningsRegistry</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the centralized access point for retrieving full metadata of any supported
  warning category (e.g., safety cameras, truck restrictions, etc.).</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onElectronicHorizonUpdated(com.here.sdk.electronichorizon.ElectronicHorizonErrorCode,com.here.sdk.electronichorizon.ElectronicHorizonUpdate)">onElectronicHorizonUpdated</a><wbr/>(<a href="sdk-for-android-navigate-electronichorizonerrorcode" title="enum class in com.here.sdk.electronichorizon">ElectronicHorizonErrorCode</a> errorCode,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#onElectronicHorizonUpdated(com.here.sdk.electronichorizon.ElectronicHorizonErrorCode,com.here.sdk.electronichorizon.ElectronicHorizonUpdate)">onElectronicHorizonUpdated</a><wbr/>(<a href="sdk-for-android-navigate-electronichorizonerrorcode" title="enum class in com.here.sdk.electronichorizon">ElectronicHorizonErrorCode</a> errorCode,
  <a href="sdk-for-android-navigate-electronichorizonupdate" title="class in com.here.sdk.electronichorizon">ElectronicHorizonUpdate</a> update)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Called whenever the electronic horizon subsystem produces:
@@ -150,44 +150,44 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
  </div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeCustomWarningProvider(com.here.sdk.warner.CustomWarningProvider)">removeCustomWarningProvider</a><wbr/>(<a href="sdk-for-android-navigate-customwarningprovider" title="interface in com.here.sdk.warner">CustomWarningProvider</a> customWarningProvider)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#removeCustomWarningProvider(com.here.sdk.warner.CustomWarningProvider)">removeCustomWarningProvider</a><wbr/>(<a href="sdk-for-android-navigate-customwarningprovider" title="interface in com.here.sdk.warner">CustomWarningProvider</a> customWarningProvider)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Unregisters a custom warning provider.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeEnabledWarnings(java.util.List)">removeEnabledWarnings</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; warningTypes)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#removeEnabledWarnings(java.util.List)">removeEnabledWarnings</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; warningTypes)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes the given warning types from the set of warnings monitored by the engine.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeWarningListener(com.here.sdk.warner.WarningListener)">removeWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-warninglistener" title="interface in com.here.sdk.warner">WarningListener</a> warningListener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#removeWarningListener(com.here.sdk.warner.WarningListener)">removeWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-warninglistener" title="interface in com.here.sdk.warner">WarningListener</a> warningListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Unregisters a previously added warning listener.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setCustomWarningNotificationDistances(int,com.here.sdk.navigation.WarningNotificationDistances)">setCustomWarningNotificationDistances</a><wbr/>(int customWarningType,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#setCustomWarningNotificationDistances(int,com.here.sdk.navigation.WarningNotificationDistances)">setCustomWarningNotificationDistances</a><wbr/>(int customWarningType,
  <a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a> warningNotificationDistances)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the warning notification distances for the specified custom warning type.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setEnabledWarnings(java.util.List)">setEnabledWarnings</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; warningTypes)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#setEnabledWarnings(java.util.List)">setEnabledWarnings</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; warningTypes)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Replaces the current set of enabled warning types with the provided list.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTimingProfile(com.here.sdk.navigation.TimingProfile)">setTimingProfile</a><wbr/>(<a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation">TimingProfile</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#setTimingProfile(com.here.sdk.navigation.TimingProfile)">setTimingProfile</a><wbr/>(<a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation">TimingProfile</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation"><code>TimingProfile</code></a> of the current position.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setWarningNotificationDistances(com.here.sdk.navigation.WarningType,com.here.sdk.navigation.WarningNotificationDistances)">setWarningNotificationDistances</a><wbr/>(<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#setWarningNotificationDistances(com.here.sdk.navigation.WarningType,com.here.sdk.navigation.WarningNotificationDistances)">setWarningNotificationDistances</a><wbr/>(<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType,
  <a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a> warningNotificationDistances)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the warning notification distances for the specified warning type.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setWarningOptions(com.here.sdk.warner.WarningOptions)">setWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-warningoptions" title="class in com.here.sdk.warner">WarningOptions</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#setWarningOptions(com.here.sdk.warner.WarningOptions)">setWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-warningoptions" title="class in com.here.sdk.warner">WarningOptions</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the <a href="sdk-for-android-navigate-warningoptions" title="class in com.here.sdk.warner"><code>WarningOptions</code></a> and updates the configuration for all the warners.</div>
 </div>
@@ -376,7 +376,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
  <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</span></div>
 <div class="block"><p>Returns the warning notification distances for the requested warning type.
  </p><p><strong>Note</strong>: <a href="sdk-for-android-navigate-warningtype#CUSTOM"><code>WarningType.CUSTOM</code></a> is not a valid value for this method.
- Use <a href="sdk-for-android-navigate-index#getCustomWarningNotificationDistances(int)"><code>getCustomWarningNotificationDistances(int)</code></a> to retrieve distances for a specific
+ Use <a href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#getCustomWarningNotificationDistances(int)"><code>getCustomWarningNotificationDistances(int)</code></a> to retrieve distances for a specific
  custom warning type.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -398,7 +398,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
  <a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a> warningNotificationDistances)</span></div>
 <div class="block"><p>Sets the warning notification distances for the specified warning type.
  </p><p><strong>Note</strong>: <a href="sdk-for-android-navigate-warningtype#CUSTOM"><code>WarningType.CUSTOM</code></a> is not a valid value for this method.
- Use <a href="sdk-for-android-navigate-index#setCustomWarningNotificationDistances(int,com.here.sdk.navigation.WarningNotificationDistances)"><code>setCustomWarningNotificationDistances(int, com.here.sdk.navigation.WarningNotificationDistances)</code></a> to configure distances for a specific
+ Use <a href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#setCustomWarningNotificationDistances(int,com.here.sdk.navigation.WarningNotificationDistances)"><code>setCustomWarningNotificationDistances(int, com.here.sdk.navigation.WarningNotificationDistances)</code></a> to configure distances for a specific
  custom warning type.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -417,7 +417,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a></span> <span class="element-name">getCustomWarningNotificationDistances</span><wbr/><span class="parameters">(int customWarningType)</span></div>
 <div class="block"><p>Returns the warning notification distances for the specified custom warning type.
- </p><p>Unlike <a href="sdk-for-android-navigate-index#getWarningNotificationDistances(com.here.sdk.navigation.WarningType)"><code>getWarningNotificationDistances(com.here.sdk.navigation.WarningType)</code></a>, which operates on a <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation"><code>WarningType</code></a>,
+ </p><p>Unlike <a href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#getWarningNotificationDistances(com.here.sdk.navigation.WarningType)"><code>getWarningNotificationDistances(com.here.sdk.navigation.WarningType)</code></a>, which operates on a <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation"><code>WarningType</code></a>,
  this method targets a specific custom warning category identified by <code>customWarningType</code>,
  as defined in <a href="sdk-for-android-navigate-customwarning#customWarningType"><code>CustomWarning.customWarningType</code></a> and <a href="sdk-for-android-navigate-warning#customWarningType"><code>Warning.customWarningType</code></a>.</p></div>
 <dl class="notes">
@@ -440,7 +440,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
  @NonNull
  <a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a> warningNotificationDistances)</span></div>
 <div class="block"><p>Sets the warning notification distances for the specified custom warning type.
- </p><p>Unlike <a href="sdk-for-android-navigate-index#setWarningNotificationDistances(com.here.sdk.navigation.WarningType,com.here.sdk.navigation.WarningNotificationDistances)"><code>setWarningNotificationDistances(com.here.sdk.navigation.WarningType, com.here.sdk.navigation.WarningNotificationDistances)</code></a>, which applies settings to a <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation"><code>WarningType</code></a>,
+ </p><p>Unlike <a href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#setWarningNotificationDistances(com.here.sdk.navigation.WarningType,com.here.sdk.navigation.WarningNotificationDistances)"><code>setWarningNotificationDistances(com.here.sdk.navigation.WarningType, com.here.sdk.navigation.WarningNotificationDistances)</code></a>, which applies settings to a <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation"><code>WarningType</code></a>,
  this method allows configuring notification distances independently for each custom warning
  category identified by <code>customWarningType</code>, as defined in
  <a href="sdk-for-android-navigate-customwarning#customWarningType"><code>CustomWarning.customWarningType</code></a> and <a href="sdk-for-android-navigate-warning#customWarningType"><code>Warning.customWarningType</code></a>.</p></div>

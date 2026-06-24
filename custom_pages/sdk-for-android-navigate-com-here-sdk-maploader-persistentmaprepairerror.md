@@ -53,35 +53,35 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BROKEN_DB">BROKEN_DB</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#BROKEN_DB">BROKEN_DB</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The persisted map data can't be recovered and all map data was fully deleted.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BROKEN_UPDATE">BROKEN_UPDATE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#BROKEN_UPDATE">BROKEN_UPDATE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Unrecoverable error during construction of pending update parameters.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INVALID_PATH">INVALID_PATH</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#INVALID_PATH">INVALID_PATH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Invalid persistent map path.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_JOURNAL">NO_JOURNAL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#NO_JOURNAL">NO_JOURNAL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">It is not possible to retrieve the list of downloaded regions.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_OFFLINE_VERSION">NO_OFFLINE_VERSION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#NO_OFFLINE_VERSION">NO_OFFLINE_VERSION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The map data version was not cached.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OPERATION_AFTER_DISPOSE">OPERATION_AFTER_DISPOSE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#OPERATION_AFTER_DISPOSE">OPERATION_AFTER_DISPOSE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Repair is invoked on object connected to the disposed <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a></div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PARTIALLY_RESTORED">PARTIALLY_RESTORED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#PARTIALLY_RESTORED">PARTIALLY_RESTORED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Persistent map is repaired, but some map data is lost.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNKNOWN">UNKNOWN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#UNKNOWN">UNKNOWN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An unknown error occurred.</div>
 </div>
@@ -100,12 +100,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

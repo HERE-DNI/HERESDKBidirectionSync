@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onBetterRouteFound(com.here.sdk.routing.Route,int,int)">onBetterRouteFound</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> newRoute,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutinglistener#onBetterRouteFound(com.here.sdk.routing.Route,int,int)">onBetterRouteFound</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> newRoute,
  int etaDifferenceInSeconds,
  int distanceDifferenceInMeters)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
@@ -47,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
  as defined by <a href="sdk-for-android-navigate-dynamicroutingengineoptions" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngineOptions</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRoutingError(com.here.sdk.routing.RoutingError)">onRoutingError</a><wbr/>(<a href="sdk-for-android-navigate-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutinglistener#onRoutingError(com.here.sdk.routing.RoutingError)">onRoutingError</a><wbr/>(<a href="sdk-for-android-navigate-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">This event is issued when an error occurred.</div>
 </div>

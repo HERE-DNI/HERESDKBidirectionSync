@@ -53,43 +53,43 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ACCIDENT">ACCIDENT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype#ACCIDENT">ACCIDENT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Accident</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CONSTRUCTION">CONSTRUCTION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype#CONSTRUCTION">CONSTRUCTION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Construction</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DEMONSTRATION">DEMONSTRATION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype#DEMONSTRATION">DEMONSTRATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Demostration</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HOLIDAY">HOLIDAY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype#HOLIDAY">HOLIDAY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Holiday</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MAINTENANCE">MAINTENANCE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype#MAINTENANCE">MAINTENANCE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maintenance</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MEDICAL_EMERGENCY">MEDICAL_EMERGENCY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype#MEDICAL_EMERGENCY">MEDICAL_EMERGENCY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Medical emergency</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POLICE_ACTIVITY">POLICE_ACTIVITY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype#POLICE_ACTIVITY">POLICE_ACTIVITY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Police activity</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#STRIKE">STRIKE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype#STRIKE">STRIKE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Strike</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TECHNICAL_PROBLEM">TECHNICAL_PROBLEM</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype#TECHNICAL_PROBLEM">TECHNICAL_PROBLEM</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Technical problem.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#WEATHER">WEATHER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype#WEATHER">WEATHER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Weather</div>
 </div>
@@ -108,12 +108,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitincidenttype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

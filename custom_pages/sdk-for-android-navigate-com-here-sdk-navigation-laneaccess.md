@@ -41,58 +41,58 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-laneaccess"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#automobiles">automobiles</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#automobiles">automobiles</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Four-wheel vehicles that are allowed according to national/local vehicle regulations to drive
  on motorways, ranging from sub-compact cars to full-size vans and light road vehicles.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#buses">buses</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#buses">buses</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Buses that are used for public transportation.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#carpools">carpools</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#carpools">carpools</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents the sharing of car journeys so that more than one person travels in a car, and
  prevents the need for others to have to drive to a location themselves.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#deliveryVehicles">deliveryVehicles</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#deliveryVehicles">deliveryVehicles</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Delivery <a href="sdk-for-android-navigate-index#trucks"><code>trucks</code></a> that are permitted to enter the city proper
+<div class="block">Delivery <a href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#trucks"><code>trucks</code></a> that are permitted to enter the city proper
  to unload goods at businesses.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#emergencyVehicles">emergencyVehicles</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#emergencyVehicles">emergencyVehicles</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Any vehicle that is designated and authorized to respond to an emergency in a
  life-threatening situation.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#motorcycles">motorcycles</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#motorcycles">motorcycles</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Motorized two-wheeled passenger vehicles.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pedestrians">pedestrians</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#pedestrians">pedestrians</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Persons traveling on foot, whether walking or running.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#taxis">taxis</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#taxis">taxis</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Four-wheel vehicles that are usually fitted with a taximeter, that may be hired,
  along with their driver, to carry passengers to any specified destination.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#throughTraffic">throughTraffic</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#throughTraffic">throughTraffic</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Passenger vehicles (i.e., those defined as passenger car/automobiles) that are
  allowed to access roads that have traffic restrictions.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#trucks">trucks</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#trucks">trucks</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Large vehicles that range from medium to heavy duty trucks.</div>
 </div>
@@ -107,7 +107,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-laneaccess"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean)">LaneAccess</a><wbr/>(boolean automobiles,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#%3Cinit%3E(boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean)">LaneAccess</a><wbr/>(boolean automobiles,
  boolean buses,
  boolean taxis,
  boolean carpools,
@@ -135,10 +135,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-laneaccess"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -214,7 +214,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-laneaccess"
 <section class="detail" id="deliveryVehicles">
 <h3>deliveryVehicles</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">deliveryVehicles</span></div>
-<div class="block"><p>Delivery <a href="sdk-for-android-navigate-index#trucks"><code>trucks</code></a> that are permitted to enter the city proper
+<div class="block"><p>Delivery <a href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#trucks"><code>trucks</code></a> that are permitted to enter the city proper
  to unload goods at businesses.</p></div>
 </section>
 </li>
@@ -269,7 +269,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-laneaccess"
 <dd><code>trucks</code> - <p>Large vehicles that range from medium to heavy duty trucks.</p></dd>
 <dd><code>throughTraffic</code> - <p>Passenger vehicles (i.e., those defined as passenger car/automobiles) that are
  allowed to access roads that have traffic restrictions.</p></dd>
-<dd><code>deliveryVehicles</code> - <p>Delivery <a href="sdk-for-android-navigate-index#trucks"><code>trucks</code></a> that are permitted to enter the city proper
+<dd><code>deliveryVehicles</code> - <p>Delivery <a href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess#trucks"><code>trucks</code></a> that are permitted to enter the city proper
  to unload goods at businesses.</p></dd>
 <dd><code>emergencyVehicles</code> - <p>Any vehicle that is designated and authorized to respond to an emergency in a
  life-threatening situation.</p></dd>

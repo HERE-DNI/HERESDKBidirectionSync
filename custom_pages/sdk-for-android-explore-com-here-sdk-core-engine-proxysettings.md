@@ -64,27 +64,27 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-proxysettings"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-proxysettings.credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#credentials">credentials</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings#credentials">credentials</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Optional field to define credentials to authenticate a user to the proxy server.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/net/InetAddress.html" title="class or interface in java.net">InetAddress</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ipAddress">ipAddress</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings#ipAddress">ipAddress</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents the IP Address of the proxy server.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#networkInterface">networkInterface</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings#networkInterface">networkInterface</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Network interface.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#port">port</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings#port">port</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents the port number of the proxy server.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-proxysettings.proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#type">type</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents the type of the proxy server.</div>
 </div>
@@ -99,7 +99,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-proxysettings"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.core.engine.ProxySettings.ProxyType,java.net.InetAddress,int)">ProxySettings</a><wbr/>(<a href="sdk-for-android-explore-proxysettings.proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a> type,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings#%3Cinit%3E(com.here.sdk.core.engine.ProxySettings.ProxyType,java.net.InetAddress,int)">ProxySettings</a><wbr/>(<a href="sdk-for-android-explore-proxysettings.proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a> type,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/net/InetAddress.html" title="class or interface in java.net">InetAddress</a> ipAddress,
  int port)</code></div>
 <div class="col-last even-row-color">
@@ -120,10 +120,10 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-proxysettings"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

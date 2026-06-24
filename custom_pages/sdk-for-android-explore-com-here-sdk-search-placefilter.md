@@ -58,23 +58,23 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ev">ev</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-placefilter#ev">ev</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Constraints that are applicable on the places of category EV station.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#fuelTypes">fuelTypes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-placefilter#fuelTypes">fuelTypes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The list of <a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport"><code>FuelType</code></a> elements that should be used to find only
  the <a href="sdk-for-android-explore-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results that support all of them.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#truckClass">truckClass</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-placefilter#truckClass">truckClass</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Should be used to find only the <a href="sdk-for-android-explore-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results with minimum supported <a href="sdk-for-android-explore-truckclass" title="enum class in com.here.sdk.transport"><code>TruckClass</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#truckFuelTypes">truckFuelTypes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-placefilter#truckFuelTypes">truckFuelTypes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The list of <a href="sdk-for-android-explore-truckfueltype" title="enum class in com.here.sdk.transport"><code>TruckFuelType</code></a> elements that should be used to find only
  the <a href="sdk-for-android-explore-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results that support all of them.</div>
@@ -90,7 +90,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">PlaceFilter</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-placefilter#%3Cinit%3E()">PlaceFilter</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -109,10 +109,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-placefilter#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-placefilter#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

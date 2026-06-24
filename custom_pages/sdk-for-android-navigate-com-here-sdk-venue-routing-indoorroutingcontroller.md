@@ -43,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroll
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.venue.control.VenueMap,com.here.sdk.mapview.MapViewBase)">IndoorRoutingController</a><wbr/>(<a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control">VenueMap</a> venueMap,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroller#%3Cinit%3E(com.here.sdk.venue.control.VenueMap,com.here.sdk.mapview.MapViewBase)">IndoorRoutingController</a><wbr/>(<a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control">VenueMap</a> venueMap,
  <a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
@@ -63,12 +63,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroll
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hideRoute()">hideRoute</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroller#hideRoute()">hideRoute</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Hides an indoor route, visible on the map.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#showRoute(com.here.sdk.routing.Route,com.here.sdk.venue.routing.IndoorRouteStyle)">showRoute</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> route,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroller#showRoute(com.here.sdk.routing.Route,com.here.sdk.venue.routing.IndoorRouteStyle)">showRoute</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> route,
  <a href="sdk-for-android-navigate-indoorroutestyle" title="class in com.here.sdk.venue.routing">IndoorRouteStyle</a> style)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Shows an indoor route on the map.</div>

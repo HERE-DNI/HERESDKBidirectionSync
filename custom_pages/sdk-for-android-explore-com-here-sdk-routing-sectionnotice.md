@@ -40,17 +40,17 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectionnotice"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#code">code</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectionnotice#code">code</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The notice code.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-noticeseverity" title="enum class in com.here.sdk.routing">NoticeSeverity</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#severity">severity</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectionnotice#severity">severity</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The notice severity.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#violatedRestrictions">violatedRestrictions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectionnotice#violatedRestrictions">violatedRestrictions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The following property <code>violated_restrictions</code> contains the notice detail information.</div>
 </div>
@@ -65,7 +65,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectionnotice"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(com.here.sdk.routing.SectionNoticeCode,com.here.sdk.routing.NoticeSeverity)">SectionNotice</a><wbr/>(<a href="sdk-for-android-explore-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a> code,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectionnotice#%3Cinit%3E(com.here.sdk.routing.SectionNoticeCode,com.here.sdk.routing.NoticeSeverity)">SectionNotice</a><wbr/>(<a href="sdk-for-android-explore-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a> code,
  <a href="sdk-for-android-explore-noticeseverity" title="enum class in com.here.sdk.routing">NoticeSeverity</a> severity)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -85,10 +85,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectionnotice"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectionnotice#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-sectionnotice#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

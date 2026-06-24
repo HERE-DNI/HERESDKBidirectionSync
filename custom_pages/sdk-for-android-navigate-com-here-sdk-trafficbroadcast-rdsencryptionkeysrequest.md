@@ -40,17 +40,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkeysr
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#countryCode">countryCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkeysrequest#countryCode">countryCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Refers to a country in RDS-TMC format.</div>
 </div>
 <div class="col-first odd-row-color"><code>short</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ltnBeforeEncryption">ltnBeforeEncryption</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkeysrequest#ltnBeforeEncryption">ltnBeforeEncryption</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">LTN to which the key refers.</div>
 </div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#sid">sid</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkeysrequest#sid">sid</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">SID that owns the key.</div>
 </div>
@@ -65,7 +65,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkeysr
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(short,short,short)">RDSEncryptionKeysRequest</a><wbr/>(short countryCode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkeysrequest#%3Cinit%3E(short,short,short)">RDSEncryptionKeysRequest</a><wbr/>(short countryCode,
  short sid,
  short ltnBeforeEncryption)</code></div>
 <div class="col-last even-row-color">
@@ -86,10 +86,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkeysr
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkeysrequest#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-rdsencryptionkeysrequest#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

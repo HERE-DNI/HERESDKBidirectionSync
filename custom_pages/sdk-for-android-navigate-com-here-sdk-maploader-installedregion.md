@@ -40,27 +40,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedregion"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lastUpdateTime">lastUpdateTime</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-installedregion#lastUpdateTime">lastUpdateTime</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The last update time of the region in the persistent map storage.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#parentId">parentId</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-installedregion#parentId">parentId</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Parent region identifier.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#regionId">regionId</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-installedregion#regionId">regionId</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Unique identifier specifying a region.</div>
 </div>
 <div class="col-first odd-row-color"><code>long</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#sizeOnDiskInBytes">sizeOnDiskInBytes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-installedregion#sizeOnDiskInBytes">sizeOnDiskInBytes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Region size on disk in bytes.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-installedregionstatus" title="enum class in com.here.sdk.maploader">InstalledRegionStatus</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#status">status</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-installedregion#status">status</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Status of the region in the persistent map storage.</div>
 </div>
@@ -75,7 +75,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedregion"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.maploader.RegionId,com.here.sdk.maploader.RegionId,long,com.here.sdk.maploader.InstalledRegionStatus)">InstalledRegion</a><wbr/>(<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> regionId,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-installedregion#%3Cinit%3E(com.here.sdk.maploader.RegionId,com.here.sdk.maploader.RegionId,long,com.here.sdk.maploader.InstalledRegionStatus)">InstalledRegion</a><wbr/>(<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> regionId,
  <a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a> parentId,
  long sizeOnDiskInBytes,
  <a href="sdk-for-android-navigate-installedregionstatus" title="enum class in com.here.sdk.maploader">InstalledRegionStatus</a> status)</code></div>
@@ -97,10 +97,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedregion"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-installedregion#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-installedregion#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

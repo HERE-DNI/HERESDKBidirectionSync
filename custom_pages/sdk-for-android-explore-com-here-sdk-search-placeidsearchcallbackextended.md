@@ -43,7 +43,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placeidsearchcallbackextended
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onPlaceIdSearchExtendedCompleted(com.here.sdk.search.SearchError,com.here.sdk.search.Place,com.here.sdk.search.ResponseDetails)">onPlaceIdSearchExtendedCompleted</a><wbr/>(<a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallbackextended#onPlaceIdSearchExtendedCompleted(com.here.sdk.search.SearchError,com.here.sdk.search.Place,com.here.sdk.search.ResponseDetails)">onPlaceIdSearchExtendedCompleted</a><wbr/>(<a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
  <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search">Place</a> place,
  <a href="sdk-for-android-explore-responsedetails" title="class in com.here.sdk.search">ResponseDetails</a> responseDetails)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">

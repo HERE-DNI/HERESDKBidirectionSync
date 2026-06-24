@@ -54,7 +54,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingengine"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.venue.service.VenueService)">IndoorRoutingEngine</a><wbr/>(<a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service">VenueService</a> venueService)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingengine#%3Cinit%3E(com.here.sdk.venue.service.VenueService)">IndoorRoutingEngine</a><wbr/>(<a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service">VenueService</a> venueService)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -73,7 +73,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingengine"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#calculateRoute(com.here.sdk.venue.routing.IndoorWaypoint,com.here.sdk.venue.routing.IndoorWaypoint,com.here.sdk.venue.routing.IndoorRouteOptions,com.here.sdk.venue.routing.CalculateIndoorRouteCallback)">calculateRoute</a><wbr/>(<a href="sdk-for-android-navigate-indoorwaypoint" title="class in com.here.sdk.venue.routing">IndoorWaypoint</a> from,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingengine#calculateRoute(com.here.sdk.venue.routing.IndoorWaypoint,com.here.sdk.venue.routing.IndoorWaypoint,com.here.sdk.venue.routing.IndoorRouteOptions,com.here.sdk.venue.routing.CalculateIndoorRouteCallback)">calculateRoute</a><wbr/>(<a href="sdk-for-android-navigate-indoorwaypoint" title="class in com.here.sdk.venue.routing">IndoorWaypoint</a> from,
  <a href="sdk-for-android-navigate-indoorwaypoint" title="class in com.here.sdk.venue.routing">IndoorWaypoint</a> to,
  <a href="sdk-for-android-navigate-indoorrouteoptions" title="class in com.here.sdk.venue.routing">IndoorRouteOptions</a> routeOptions,
  <a href="sdk-for-android-navigate-calculateindoorroutecallback" title="interface in com.here.sdk.venue.routing">CalculateIndoorRouteCallback</a> callback)</code></div>

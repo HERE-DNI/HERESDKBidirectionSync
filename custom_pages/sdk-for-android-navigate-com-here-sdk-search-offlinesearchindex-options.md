@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex-options"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#enabled">enabled</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex-options#enabled">enabled</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Sets whether indexing is enabled or disabled.</div>
 </div>
@@ -59,7 +59,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex-options"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">Options</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex-options#%3Cinit%3E()">Options</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>

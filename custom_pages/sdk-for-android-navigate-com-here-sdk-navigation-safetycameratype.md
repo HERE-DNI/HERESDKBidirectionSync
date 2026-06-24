@@ -53,31 +53,31 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BUS_LANE">BUS_LANE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype#BUS_LANE">BUS_LANE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Safety camera for checking drive on bus lane violation</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DISTANCE">DISTANCE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype#DISTANCE">DISTANCE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Safety camera for checking safe distance violation</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RED_LIGHT">RED_LIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype#RED_LIGHT">RED_LIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Safety camera for checking red light violation</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RED_LIGHT_AND_SPEED">RED_LIGHT_AND_SPEED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype#RED_LIGHT_AND_SPEED">RED_LIGHT_AND_SPEED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Safety camera for checking red light violation and overspeed</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SECTION_END">SECTION_END</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype#SECTION_END">SECTION_END</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Safety camera for checking section end</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SECTION_START">SECTION_START</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype#SECTION_START">SECTION_START</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Safety camera for checking section start</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SPEED">SPEED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype#SPEED">SPEED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Safety camera for checking overspeed</div>
 </div>
@@ -96,12 +96,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-safetycameratype" title="enum class in com.here.sdk.navigation">SafetyCameraType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-safetycameratype" title="enum class in com.here.sdk.navigation">SafetyCameraType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

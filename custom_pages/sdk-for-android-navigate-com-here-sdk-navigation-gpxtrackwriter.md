@@ -41,7 +41,7 @@ implements <a href="sdk-for-android-navigate-locationlistener" title="interface 
  </p><p>Use case examples:
  </p><p>A user wants to create and save a new <a href="sdk-for-android-navigate-gpxdocument" title="class in com.here.sdk.navigation"><code>GPXDocument</code></a> with one <a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation"><code>GPXTrack</code></a>:
  - create <a href="sdk-for-android-navigate-gpxtrackwriter" title="class in com.here.sdk.navigation"><code>GPXTrackWriter</code></a> and add it as a location listener to <code>LocationEngine</code>.
- - set user parameters to <a href="sdk-for-android-navigate-index#getTrack()"><code>getTrack()</code></a> (e.g. <a href="sdk-for-android-navigate-gpxtrack#getName()"><code>GPXTrack.getName()</code></a> or <a href="sdk-for-android-navigate-gpxtrack#getDescription()"><code>GPXTrack.getDescription()</code></a>).
+ - set user parameters to <a href="sdk-for-android-navigate-com-here-sdk-navigation-gpxtrackwriter#getTrack()"><code>getTrack()</code></a> (e.g. <a href="sdk-for-android-navigate-gpxtrack#getName()"><code>GPXTrack.getName()</code></a> or <a href="sdk-for-android-navigate-gpxtrack#getDescription()"><code>GPXTrack.getDescription()</code></a>).
  - when writing is completed, create a new <a href="sdk-for-android-navigate-gpxdocument" title="class in com.here.sdk.navigation"><code>GPXDocument</code></a> with a list of one <a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation"><code>GPXTrack</code></a> and save the document via <a href="sdk-for-android-navigate-gpxdocument#save(java.lang.String)"><code>GPXDocument.save(java.lang.String)</code></a>.
  </p><p>A user wants to modify and save <a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation"><code>GPXTrack</code></a> in the existing <a href="sdk-for-android-navigate-gpxdocument" title="class in com.here.sdk.navigation"><code>GPXDocument</code></a>:
  - load <a href="sdk-for-android-navigate-gpxdocument" title="class in com.here.sdk.navigation"><code>GPXDocument</code></a> from a file by the relevant constructor.
@@ -60,11 +60,11 @@ implements <a href="sdk-for-android-navigate-locationlistener" title="interface 
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">GPXTrackWriter</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-gpxtrackwriter#%3Cinit%3E()">GPXTrackWriter</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of GPXTrackWriter with an empty track inside.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.navigation.GPXTrack)">GPXTrackWriter</a><wbr/>(<a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation">GPXTrack</a> track)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-gpxtrackwriter#%3Cinit%3E(com.here.sdk.navigation.GPXTrack)">GPXTrackWriter</a><wbr/>(<a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation">GPXTrack</a> track)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of <a href="sdk-for-android-navigate-gpxtrackwriter" title="class in com.here.sdk.navigation"><code>GPXTrackWriter</code></a> with <a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation"><code>GPXTrack</code></a>.</div>
 </div>
@@ -83,12 +83,12 @@ implements <a href="sdk-for-android-navigate-locationlistener" title="interface 
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation">GPXTrack</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTrack()">getTrack</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-gpxtrackwriter#getTrack()">getTrack</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the GPX track into which GPX track points are written.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onLocationUpdated(com.here.sdk.core.Location)">onLocationUpdated</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-gpxtrackwriter#onLocationUpdated(com.here.sdk.core.Location)">onLocationUpdated</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Called each time a new location is available.</div>
 </div>

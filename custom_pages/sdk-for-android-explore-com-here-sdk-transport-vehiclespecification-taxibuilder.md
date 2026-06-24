@@ -44,7 +44,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxib
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">TaxiBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#%3Cinit%3E()">TaxiBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -63,98 +63,98 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxib
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#build()">build</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Builds the <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> object for <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> with the specifications taken
  from the <a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.TaxiBuilder</code></a> object.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withAxleCount(int)">withAxleCount</a><wbr/>(int axleCount)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withAxleCount(int)">withAxleCount</a><wbr/>(int axleCount)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle axle count.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withCurrentWeightInKilograms(int)">withCurrentWeightInKilograms</a><wbr/>(int currentWeightInKilograms)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withCurrentWeightInKilograms(int)">withCurrentWeightInKilograms</a><wbr/>(int currentWeightInKilograms)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle current weight in kilograms.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withEmptyWeightInKilograms(int)">withEmptyWeightInKilograms</a><wbr/>(int emptyWeightInKilograms)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withEmptyWeightInKilograms(int)">withEmptyWeightInKilograms</a><wbr/>(int emptyWeightInKilograms)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle empty weight in kilograms.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters</a><wbr/>(int engineSizeInCubicCentimeters)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters</a><wbr/>(int engineSizeInCubicCentimeters)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle engine size in cubic centimeters.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withGrossWeightInKilograms(int)">withGrossWeightInKilograms</a><wbr/>(int grossWeightInKilograms)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withGrossWeightInKilograms(int)">withGrossWeightInKilograms</a><wbr/>(int grossWeightInKilograms)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle gross weight in kilograms.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withHeightInCentimeters(int)">withHeightInCentimeters</a><wbr/>(int heightInCentimeters)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withHeightInCentimeters(int)">withHeightInCentimeters</a><wbr/>(int heightInCentimeters)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle height in centimeters.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withIsCommercial(boolean)">withIsCommercial</a><wbr/>(boolean isCommercial)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withIsCommercial(boolean)">withIsCommercial</a><wbr/>(boolean isCommercial)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle is commercial flag.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withKingpinToRearAxleDistanceInCentimeters(int)">withKingpinToRearAxleDistanceInCentimeters</a><wbr/>(int length)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withKingpinToRearAxleDistanceInCentimeters(int)">withKingpinToRearAxleDistanceInCentimeters</a><wbr/>(int length)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle kingpin to rear axle distance.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withLastCharacterOfLicensePlate(java.lang.String)">withLastCharacterOfLicensePlate</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> lastCharacterOfLicensePlate)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withLastCharacterOfLicensePlate(java.lang.String)">withLastCharacterOfLicensePlate</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> lastCharacterOfLicensePlate)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle last character of the license plate.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withLengthInCentimeters(int)">withLengthInCentimeters</a><wbr/>(int lengthInCentimeters)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withLengthInCentimeters(int)">withLengthInCentimeters</a><wbr/>(int lengthInCentimeters)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle length in centimeters.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withOccupancy(int)">withOccupancy</a><wbr/>(int occupancy)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withOccupancy(int)">withOccupancy</a><wbr/>(int occupancy)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle occupants number.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withPayloadCapacityInKilograms(int)">withPayloadCapacityInKilograms</a><wbr/>(int payloadCapacityInKilograms)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withPayloadCapacityInKilograms(int)">withPayloadCapacityInKilograms</a><wbr/>(int payloadCapacityInKilograms)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle payload capacity in kilograms.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withTiresCount(int)">withTiresCount</a><wbr/>(int tiresCount)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withTiresCount(int)">withTiresCount</a><wbr/>(int tiresCount)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle tires count.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withTrailerAxleCount(int)">withTrailerAxleCount</a><wbr/>(int trailerAxleCount)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withTrailerAxleCount(int)">withTrailerAxleCount</a><wbr/>(int trailerAxleCount)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle trailer axle count.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withTrailerCount(int)">withTrailerCount</a><wbr/>(int trailerCount)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withTrailerCount(int)">withTrailerCount</a><wbr/>(int trailerCount)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle trailer count.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withTunnelCategory(com.here.sdk.transport.TunnelCategory)">withTunnelCategory</a><wbr/>(<a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a> tunnelCategory)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withTunnelCategory(com.here.sdk.transport.TunnelCategory)">withTunnelCategory</a><wbr/>(<a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a> tunnelCategory)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle tunnel category.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withWeightPerAxleInKilograms(int)">withWeightPerAxleInKilograms</a><wbr/>(int weightPerAxleInKilograms)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withWeightPerAxleInKilograms(int)">withWeightPerAxleInKilograms</a><wbr/>(int weightPerAxleInKilograms)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle weight per axle in kilograms.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withWidthInCentimeters(int)">withWidthInCentimeters</a><wbr/>(int widthInCentimeters)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification-taxibuilder#withWidthInCentimeters(int)">withWidthInCentimeters</a><wbr/>(int widthInCentimeters)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle width in centimeters.</div>
 </div>

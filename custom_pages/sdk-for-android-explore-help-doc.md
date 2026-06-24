@@ -19,24 +19,24 @@ slug: "sdk-for-android-explore-help-doc"
 
 
 <ul class="help-toc">
-<li><a href="sdk-for-android-explore-index#help-navigation">Navigation</a>: 
+<li><a href="sdk-for-android-explore-help-doc#help-navigation">Navigation</a>: 
 <ul class="help-subtoc">
-<li><a href="sdk-for-android-explore-index#help-search">Search</a></li>
+<li><a href="sdk-for-android-explore-help-doc#help-search">Search</a></li>
 </ul>
 </li>
-<li><a href="sdk-for-android-explore-index#help-pages">Kinds of Pages</a>: 
+<li><a href="sdk-for-android-explore-help-doc#help-pages">Kinds of Pages</a>: 
 <ul class="help-subtoc">
-<li><a href="sdk-for-android-explore-index#overview">Overview</a></li>
-<li><a href="sdk-for-android-explore-index#package">Package</a></li>
-<li><a href="sdk-for-android-explore-index#class">Class or Interface</a></li>
-<li><a href="sdk-for-android-explore-index#doc-file">Other Files</a></li>
-<li><a href="sdk-for-android-explore-index#tree">Tree (Class Hierarchy)</a></li>
-<li><a href="sdk-for-android-explore-index#deprecated">Deprecated API</a></li>
-<li><a href="sdk-for-android-explore-index#constant-values">Constant Field Values</a></li>
-<li><a href="sdk-for-android-explore-index#serialized-form">Serialized Form</a></li>
-<li><a href="sdk-for-android-explore-index#all-packages">All Packages</a></li>
-<li><a href="sdk-for-android-explore-index#all-classes">All Classes and Interfaces</a></li>
-<li><a href="sdk-for-android-explore-index#index">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#overview">Overview</a></li>
+<li><a href="sdk-for-android-explore-help-doc#package">Package</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Class or Interface</a></li>
+<li><a href="sdk-for-android-explore-help-doc#doc-file">Other Files</a></li>
+<li><a href="sdk-for-android-explore-help-doc#tree">Tree (Class Hierarchy)</a></li>
+<li><a href="sdk-for-android-explore-help-doc#deprecated">Deprecated API</a></li>
+<li><a href="sdk-for-android-explore-help-doc#constant-values">Constant Field Values</a></li>
+<li><a href="sdk-for-android-explore-help-doc#serialized-form">Serialized Form</a></li>
+<li><a href="sdk-for-android-explore-help-doc#all-packages">All Packages</a></li>
+<li><a href="sdk-for-android-explore-help-doc#all-classes">All Classes and Interfaces</a></li>
+<li><a href="sdk-for-android-explore-help-doc#index">Index</a></li>
 </ul>
 </li>
 </ul>

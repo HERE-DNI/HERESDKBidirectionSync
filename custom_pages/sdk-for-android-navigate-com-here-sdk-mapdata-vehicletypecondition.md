@@ -53,83 +53,83 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#A_DOUBLE">A_DOUBLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#A_DOUBLE">A_DOUBLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A-Double trailer configuration.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AB_TRIPLE">AB_TRIPLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#AB_TRIPLE">AB_TRIPLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">AB-Triple trailer configuration.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#B_DOUBLE">B_DOUBLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#B_DOUBLE">B_DOUBLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">B-Double trailer configuration.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#B_TRIPLE">B_TRIPLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#B_TRIPLE">B_TRIPLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">B-Triple trailer configuration.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BUS">BUS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#BUS">BUS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Bus.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#C_DOUBLE">C_DOUBLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#C_DOUBLE">C_DOUBLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">C-Double trailer configuration.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CHARTER_BUS">CHARTER_BUS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#CHARTER_BUS">CHARTER_BUS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Charter bus for private hire.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DRAWBAR">DRAWBAR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#DRAWBAR">DRAWBAR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Drawbar trailer.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LINE_BUS">LINE_BUS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#LINE_BUS">LINE_BUS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Line bus for scheduled routes.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REFRIGERATED_SEMI_TRAILER">REFRIGERATED_SEMI_TRAILER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#REFRIGERATED_SEMI_TRAILER">REFRIGERATED_SEMI_TRAILER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Refrigerated semi-trailer.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#REGIONAL_LINE_BUS">REGIONAL_LINE_BUS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#REGIONAL_LINE_BUS">REGIONAL_LINE_BUS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Regional line bus for regional routes.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RIGID_AND_DOG">RIGID_AND_DOG</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#RIGID_AND_DOG">RIGID_AND_DOG</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Rigid truck with dog trailer.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#RIGID_TRUCK">RIGID_TRUCK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#RIGID_TRUCK">RIGID_TRUCK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Rigid truck.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SEMI_TRAILER">SEMI_TRAILER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#SEMI_TRAILER">SEMI_TRAILER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Semi-trailer.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SEMI_TRAILER_INC_PLANT_AND_CAR">SEMI_TRAILER_INC_PLANT_AND_CAR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#SEMI_TRAILER_INC_PLANT_AND_CAR">SEMI_TRAILER_INC_PLANT_AND_CAR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Semi-trailer including plant and car.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SEMI_TRAILER_TOWING_DOLLY">SEMI_TRAILER_TOWING_DOLLY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#SEMI_TRAILER_TOWING_DOLLY">SEMI_TRAILER_TOWING_DOLLY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Semi-trailer towing a dolly.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRACTOR_SEMI_TRAILER">TRACTOR_SEMI_TRAILER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#TRACTOR_SEMI_TRAILER">TRACTOR_SEMI_TRAILER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tractor with semi-trailer.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRAILER">TRAILER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#TRAILER">TRAILER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Vehicle with trailer.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCK">TRUCK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#TRUCK">TRUCK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Standard truck.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TRUCK_AND_PIG">TRUCK_AND_PIG</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#TRUCK_AND_PIG">TRUCK_AND_PIG</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Truck with pig trailer.</div>
 </div>
@@ -148,12 +148,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

@@ -40,18 +40,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationdeta
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isCombinedManeuverText">isCombinedManeuverText</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationdetails#isCombinedManeuverText">isCombinedManeuverText</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates whether the current text notification combines information regarding current and next maneuver,
  such as, "Now turn right and then turn left onto Invalidenstrasse", or not.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing">Maneuver</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maneuver">maneuver</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationdetails#maneuver">maneuver</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Current maneuver data.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#maneuverNotificationType">maneuverNotificationType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationdetails#maneuverNotificationType">maneuverNotificationType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the type of the current maneuver notification.</div>
 </div>
@@ -66,7 +66,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationdeta
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.Maneuver,com.here.sdk.navigation.ManeuverNotificationType)">ManeuverNotificationDetails</a><wbr/>(<a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing">Maneuver</a> maneuver,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationdetails#%3Cinit%3E(com.here.sdk.routing.Maneuver,com.here.sdk.navigation.ManeuverNotificationType)">ManeuverNotificationDetails</a><wbr/>(<a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing">Maneuver</a> maneuver,
  <a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a> maneuverNotificationType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -86,10 +86,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationdeta
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationdetails#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationdetails#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

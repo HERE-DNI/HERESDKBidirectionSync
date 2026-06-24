@@ -33,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus"
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">PersistentMapStatus</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-persistentmapstatus" title="enum class in com.here.sdk.maploader">PersistentMapStatus</a>&gt;</span></div>
 <div class="block"><p>Specifies possible statuses of the already downloaded map regions as a whole.
- Note: This can be valid only for a single region in case of a <a href="sdk-for-android-navigate-index#CORRUPTED"><code>CORRUPTED</code></a> state.</p></div>
+ Note: This can be valid only for a single region in case of a <a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus#CORRUPTED"><code>CORRUPTED</code></a> state.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -54,37 +54,37 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BROKEN_UPDATE">BROKEN_UPDATE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus#BROKEN_UPDATE">BROKEN_UPDATE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Unrecoverable error during construction of pending update parameters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#CORRUPTED">CORRUPTED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus#CORRUPTED">CORRUPTED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">One or more downloaded regions failed to open and a repair action should be performed to mitigate this
  issue.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INVALID_PATH">INVALID_PATH</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus#INVALID_PATH">INVALID_PATH</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Unreachable <a href="sdk-for-android-navigate-sdkoptions#cachePath"><code>SDKOptions.cachePath</code></a> or <a href="sdk-for-android-navigate-sdkoptions#persistentMapStoragePath"><code>SDKOptions.persistentMapStoragePath</code></a>.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INVALID_STATE">INVALID_STATE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus#INVALID_STATE">INVALID_STATE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Unrecoverable error during construction of internal map access object.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MIGRATION_NEEDED">MIGRATION_NEEDED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus#MIGRATION_NEEDED">MIGRATION_NEEDED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates that the downloaded regions need to be migrated to a new internal format by calling
  <code>sdk.maploader.MapDownloader.repair_persistent_map</code>.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OK">OK</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus#OK">OK</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">All downloaded regions are in a workable state, no issues found.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PENDING_UPDATE">PENDING_UPDATE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus#PENDING_UPDATE">PENDING_UPDATE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A map update operation initiated by a user has been interrupted.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#STORAGE_CLOSED">STORAGE_CLOSED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus#STORAGE_CLOSED">STORAGE_CLOSED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates that the status cannot be retrieved as the map storage is already closed due to disposal of <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</div>
 </div>
@@ -103,12 +103,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-persistentmapstatus" title="enum class in com.here.sdk.maploader">PersistentMapStatus</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-persistentmapstatus" title="enum class in com.here.sdk.maploader">PersistentMapStatus</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

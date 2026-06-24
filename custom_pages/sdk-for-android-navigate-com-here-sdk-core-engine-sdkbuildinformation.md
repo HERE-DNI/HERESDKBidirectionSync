@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkbuildinformation"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-sdkversion" title="class in com.here.sdk.core.engine">SDKVersion</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#sdkVersion()">sdkVersion</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkbuildinformation#sdkVersion()">sdkVersion</a>()</code></div>
 
 </div>
 </div>

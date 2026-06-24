@@ -57,23 +57,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk-classification
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#DASHED">DASHED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk-classificationstyle#DASHED">DASHED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of crosswalk consisting of dashed lines.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OTHER">OTHER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk-classificationstyle#OTHER">OTHER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Crosswalk type is other than zebra, solid, dashed</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SOLID">SOLID</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk-classificationstyle#SOLID">SOLID</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of crosswalk consisting of a solid rectangular filled block.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNDEFINED">UNDEFINED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk-classificationstyle#UNDEFINED">UNDEFINED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Crosswalk type is not defined</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ZEBRA">ZEBRA</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk-classificationstyle#ZEBRA">ZEBRA</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of crosswalk consisting of slanting stripes for pedestrians to walk across the road.</div>
 </div>
@@ -92,12 +92,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk-classification
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-crosswalk.classificationstyle" title="enum class in com.here.sdk.venue.data">Crosswalk.ClassificationStyle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk-classificationstyle#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-crosswalk.classificationstyle" title="enum class in com.here.sdk.venue.data">Crosswalk.ClassificationStyle</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk-classificationstyle#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

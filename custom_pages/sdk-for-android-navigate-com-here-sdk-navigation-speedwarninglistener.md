@@ -42,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarninglistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onSpeedWarningStatusChanged(com.here.sdk.navigation.SpeedWarningStatus)">onSpeedWarningStatusChanged</a><wbr/>(<a href="sdk-for-android-navigate-speedwarningstatus" title="enum class in com.here.sdk.navigation">SpeedWarningStatus</a> status)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedwarninglistener#onSpeedWarningStatusChanged(com.here.sdk.navigation.SpeedWarningStatus)">onSpeedWarningStatusChanged</a><wbr/>(<a href="sdk-for-android-navigate-speedwarningstatus" title="enum class in com.here.sdk.navigation">SpeedWarningStatus</a> status)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new <code>SpeedWarningStatus</code> is available.</div>
 </div>

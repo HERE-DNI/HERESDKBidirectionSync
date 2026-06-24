@@ -53,195 +53,195 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuveraction"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ARRIVE">ARRIVE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#ARRIVE">ARRIVE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Arrival maneuver, such as "You have reached your destination/waypoint".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CONTINUE_ON">CONTINUE_ON</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#CONTINUE_ON">CONTINUE_ON</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Continue maneuver, such as "Continue straight ahead".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DEPART">DEPART</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#DEPART">DEPART</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Departure maneuver, such as "Head towards".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ENTER_HIGHWAY_FROM_LEFT">ENTER_HIGHWAY_FROM_LEFT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#ENTER_HIGHWAY_FROM_LEFT">ENTER_HIGHWAY_FROM_LEFT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Merge onto a highway from the left side.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ENTER_HIGHWAY_FROM_RIGHT">ENTER_HIGHWAY_FROM_RIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#ENTER_HIGHWAY_FROM_RIGHT">ENTER_HIGHWAY_FROM_RIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Merge onto a highway from the right side.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_EXIT">LEFT_EXIT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_EXIT">LEFT_EXIT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Left exit maneuver, such as "Take the exit".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_FORK">LEFT_FORK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_FORK">LEFT_FORK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Left fork maneuver, such as "Keep left".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_RAMP">LEFT_RAMP</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_RAMP">LEFT_RAMP</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Left ramp maneuver, such as "Join the highway".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_ENTER">LEFT_ROUNDABOUT_ENTER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_ENTER">LEFT_ROUNDABOUT_ENTER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Enter the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_EXIT1">LEFT_ROUNDABOUT_EXIT1</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_EXIT1">LEFT_ROUNDABOUT_EXIT1</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as  "Take the first exit at the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_EXIT10">LEFT_ROUNDABOUT_EXIT10</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_EXIT10">LEFT_ROUNDABOUT_EXIT10</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Take the tenth exit at the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_EXIT11">LEFT_ROUNDABOUT_EXIT11</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_EXIT11">LEFT_ROUNDABOUT_EXIT11</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Take the eleventh exit at the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_EXIT12">LEFT_ROUNDABOUT_EXIT12</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_EXIT12">LEFT_ROUNDABOUT_EXIT12</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Take the twelfth exit at the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_EXIT2">LEFT_ROUNDABOUT_EXIT2</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_EXIT2">LEFT_ROUNDABOUT_EXIT2</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Take the second exit at the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_EXIT3">LEFT_ROUNDABOUT_EXIT3</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_EXIT3">LEFT_ROUNDABOUT_EXIT3</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Take the third exit at the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_EXIT4">LEFT_ROUNDABOUT_EXIT4</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_EXIT4">LEFT_ROUNDABOUT_EXIT4</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Take the fourth exit at the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_EXIT5">LEFT_ROUNDABOUT_EXIT5</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_EXIT5">LEFT_ROUNDABOUT_EXIT5</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Take the fifth exit at the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_EXIT6">LEFT_ROUNDABOUT_EXIT6</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_EXIT6">LEFT_ROUNDABOUT_EXIT6</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Take the sixth exit at the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_EXIT7">LEFT_ROUNDABOUT_EXIT7</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_EXIT7">LEFT_ROUNDABOUT_EXIT7</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Take the seventh exit at the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_EXIT8">LEFT_ROUNDABOUT_EXIT8</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_EXIT8">LEFT_ROUNDABOUT_EXIT8</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Take the eighth exit at the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_EXIT9">LEFT_ROUNDABOUT_EXIT9</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_EXIT9">LEFT_ROUNDABOUT_EXIT9</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Take the ninth exit at the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_ROUNDABOUT_PASS">LEFT_ROUNDABOUT_PASS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_ROUNDABOUT_PASS">LEFT_ROUNDABOUT_PASS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (left-hand traffic), such as "Pass the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_TURN">LEFT_TURN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_TURN">LEFT_TURN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Left turn maneuver, such as "Turn left".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#LEFT_U_TURN">LEFT_U_TURN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#LEFT_U_TURN">LEFT_U_TURN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Left-hand U-turn maneuver, such as "Make a U-turn".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MIDDLE_FORK">MIDDLE_FORK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#MIDDLE_FORK">MIDDLE_FORK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Middle fork maneuver, such as "Keep middle".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_EXIT">RIGHT_EXIT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_EXIT">RIGHT_EXIT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Right exit maneuver, such as "Take the exit".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_FORK">RIGHT_FORK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_FORK">RIGHT_FORK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Right fork maneuver, such as "Keep right".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_RAMP">RIGHT_RAMP</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_RAMP">RIGHT_RAMP</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Right ramp maneuver, such as "Join the highway".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_ENTER">RIGHT_ROUNDABOUT_ENTER</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_ENTER">RIGHT_ROUNDABOUT_ENTER</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Enter the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_EXIT1">RIGHT_ROUNDABOUT_EXIT1</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_EXIT1">RIGHT_ROUNDABOUT_EXIT1</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Take the first exit at the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_EXIT10">RIGHT_ROUNDABOUT_EXIT10</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_EXIT10">RIGHT_ROUNDABOUT_EXIT10</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Take the tenth exit at the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_EXIT11">RIGHT_ROUNDABOUT_EXIT11</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_EXIT11">RIGHT_ROUNDABOUT_EXIT11</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Take the eleventh exit at the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_EXIT12">RIGHT_ROUNDABOUT_EXIT12</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_EXIT12">RIGHT_ROUNDABOUT_EXIT12</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Take the twelfth exit at the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_EXIT2">RIGHT_ROUNDABOUT_EXIT2</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_EXIT2">RIGHT_ROUNDABOUT_EXIT2</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Take the second exit at the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_EXIT3">RIGHT_ROUNDABOUT_EXIT3</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_EXIT3">RIGHT_ROUNDABOUT_EXIT3</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Take the third exit at the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_EXIT4">RIGHT_ROUNDABOUT_EXIT4</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_EXIT4">RIGHT_ROUNDABOUT_EXIT4</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Take the fourth exit at the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_EXIT5">RIGHT_ROUNDABOUT_EXIT5</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_EXIT5">RIGHT_ROUNDABOUT_EXIT5</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Take the fifth exit at the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_EXIT6">RIGHT_ROUNDABOUT_EXIT6</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_EXIT6">RIGHT_ROUNDABOUT_EXIT6</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Take the sixth exit at the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_EXIT7">RIGHT_ROUNDABOUT_EXIT7</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_EXIT7">RIGHT_ROUNDABOUT_EXIT7</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Take the seventh exit at the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_EXIT8">RIGHT_ROUNDABOUT_EXIT8</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_EXIT8">RIGHT_ROUNDABOUT_EXIT8</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Take the eighth exit at the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_EXIT9">RIGHT_ROUNDABOUT_EXIT9</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_EXIT9">RIGHT_ROUNDABOUT_EXIT9</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Take the ninth exit at the roundabout".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_ROUNDABOUT_PASS">RIGHT_ROUNDABOUT_PASS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_ROUNDABOUT_PASS">RIGHT_ROUNDABOUT_PASS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Roundabout maneuver (right-hand traffic), such as "Pass the roundabout".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_TURN">RIGHT_TURN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_TURN">RIGHT_TURN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Right turn maneuver, such as "Turn right".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RIGHT_U_TURN">RIGHT_U_TURN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#RIGHT_U_TURN">RIGHT_U_TURN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Right u-turn maneuver, such as "Make a U-turn".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SHARP_LEFT_TURN">SHARP_LEFT_TURN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#SHARP_LEFT_TURN">SHARP_LEFT_TURN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Sharp left turn maneuver, such as "Turn sharply left".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SHARP_RIGHT_TURN">SHARP_RIGHT_TURN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#SHARP_RIGHT_TURN">SHARP_RIGHT_TURN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Sharp right turn maneuver, such as "Turn sharply right".</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SLIGHT_LEFT_TURN">SLIGHT_LEFT_TURN</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#SLIGHT_LEFT_TURN">SLIGHT_LEFT_TURN</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Slight left turn maneuver, such as "Turn slightly left".</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SLIGHT_RIGHT_TURN">SLIGHT_RIGHT_TURN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#SLIGHT_RIGHT_TURN">SLIGHT_RIGHT_TURN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Slight right turn maneuver, such as "Turn slightly right".</div>
 </div>
@@ -260,12 +260,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuveraction"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

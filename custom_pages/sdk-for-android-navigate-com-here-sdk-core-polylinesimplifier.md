@@ -56,7 +56,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier"
 <div class="col-first even-row-color"><code>static final class </code></div>
 <div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Controls the strategy of <a href="sdk-for-android-navigate-index#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>
+<div class="block">Controls the strategy of <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>
  when reducing a size of polyline.</div>
 </div>
 </div>
@@ -70,7 +70,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">PolylineSimplifier</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier#%3Cinit%3E()">PolylineSimplifier</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of <a href="sdk-for-android-navigate-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.</div>
 </div>
@@ -89,7 +89,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)">simplify</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)">simplify</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
  <a href="sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a> simplificationParameters,
  <a href="sdk-for-android-navigate-polylinesimplificationcallback" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">

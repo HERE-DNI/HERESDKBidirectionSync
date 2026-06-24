@@ -45,12 +45,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routestop"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#locationIndex">locationIndex</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routestop#locationIndex">locationIndex</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Index of location, used for route stop.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#stopDuration">stopDuration</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routestop#stopDuration">stopDuration</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Time that will be spent on route stop.</div>
 </div>
@@ -65,7 +65,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routestop"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(int)">RouteStop</a><wbr/>(int locationIndex)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routestop#%3Cinit%3E(int)">RouteStop</a><wbr/>(int locationIndex)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>

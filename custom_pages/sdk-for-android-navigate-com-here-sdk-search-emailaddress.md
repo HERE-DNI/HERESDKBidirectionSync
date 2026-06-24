@@ -40,12 +40,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-emailaddress"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#address">address</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-emailaddress#address">address</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The email address.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#categories">categories</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-emailaddress#categories">categories</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Categories associated with email address.</div>
 </div>
@@ -60,7 +60,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-emailaddress"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,java.util.List)">EmailAddress</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> address,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-emailaddress#%3Cinit%3E(java.lang.String,java.util.List)">EmailAddress</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> address,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt; categories)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -80,10 +80,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-emailaddress"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-emailaddress#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-emailaddress#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -116,8 +116,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-emailaddress"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a>&gt;</span> <span class="element-name">categories</span></div>
 <div class="block"><p>Categories associated with email address.
- Note: In case <a href="sdk-for-android-navigate-index#categories"><code>categories</code></a> are not empty, then <a href="sdk-for-android-navigate-index#address"><code>address</code></a> should be used according to given categories.
- Otherwise, <a href="sdk-for-android-navigate-index#address"><code>address</code></a> is meant for general use.</p></div>
+ Note: In case <a href="sdk-for-android-navigate-com-here-sdk-search-emailaddress#categories"><code>categories</code></a> are not empty, then <a href="sdk-for-android-navigate-com-here-sdk-search-emailaddress#address"><code>address</code></a> should be used according to given categories.
+ Otherwise, <a href="sdk-for-android-navigate-com-here-sdk-search-emailaddress#address"><code>address</code></a> is meant for general use.</p></div>
 </section>
 </li>
 </ul>
@@ -140,8 +140,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-emailaddress"
 <dt>Parameters:</dt>
 <dd><code>address</code> - <p>The email address.</p></dd>
 <dd><code>categories</code> - <p>Categories associated with email address.
- Note: In case <a href="sdk-for-android-navigate-index#categories"><code>categories</code></a> are not empty, then <a href="sdk-for-android-navigate-index#address"><code>address</code></a> should be used according to given categories.
- Otherwise, <a href="sdk-for-android-navigate-index#address"><code>address</code></a> is meant for general use.</p></dd>
+ Note: In case <a href="sdk-for-android-navigate-com-here-sdk-search-emailaddress#categories"><code>categories</code></a> are not empty, then <a href="sdk-for-android-navigate-com-here-sdk-search-emailaddress#address"><code>address</code></a> should be used according to given categories.
+ Otherwise, <a href="sdk-for-android-navigate-com-here-sdk-search-emailaddress#address"><code>address</code></a> is meant for general use.</p></dd>
 </dl>
 </section>
 </li>

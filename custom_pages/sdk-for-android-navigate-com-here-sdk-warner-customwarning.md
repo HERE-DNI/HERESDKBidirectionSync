@@ -46,27 +46,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarning"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#customWarningType">customWarningType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-customwarning#customWarningType">customWarningType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Identifier of the custom warning type.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#endOffsetInMeters">endOffsetInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-customwarning#endOffsetInMeters">endOffsetInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">End offset of the warning range along the segment.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#id">id</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-customwarning#id">id</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Identifier of the warning.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#payload">payload</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-customwarning#payload">payload</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Custom warning payload.</div>
 </div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#startOffsetInMeters">startOffsetInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-customwarning#startOffsetInMeters">startOffsetInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Start offset of the warning range along the segment.</div>
 </div>
@@ -81,7 +81,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarning"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">CustomWarning</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-customwarning#%3Cinit%3E()">CustomWarning</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -100,10 +100,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarning"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-customwarning#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-customwarning#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -127,7 +127,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarning"
 <h3>id</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">id</span></div>
 <div class="block"><p>Identifier of the warning.
- The ID is unique only within its specific <a href="sdk-for-android-navigate-index#customWarningType"><code>customWarningType</code></a> and can be used
+ The ID is unique only within its specific <a href="sdk-for-android-navigate-com-here-sdk-warner-customwarning#customWarningType"><code>customWarningType</code></a> and can be used
  to retrieve additional information from a corresponding registry.</p></div>
 </section>
 </li>

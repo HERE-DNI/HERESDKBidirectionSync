@@ -41,22 +41,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-refreshrouteparameters"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-routehandle" title="class in com.here.sdk.routing">RouteHandle</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#routeHandle">routeHandle</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteparameters#routeHandle">routeHandle</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The route handle holding the route to be refreshed.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-waypoint" title="class in com.here.sdk.routing">Waypoint</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#startingPoint">startingPoint</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteparameters#startingPoint">startingPoint</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Identify the new starting point of the route.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#startingSectionIndex">startingSectionIndex</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteparameters#startingSectionIndex">startingSectionIndex</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the index of the last traveled route section.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#traveledDistanceOnStartingSectionInMeters">traveledDistanceOnStartingSectionInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteparameters#traveledDistanceOnStartingSectionInMeters">traveledDistanceOnStartingSectionInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Provides an indication on how much of the starting section is already traveled.</div>
 </div>
@@ -71,18 +71,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-refreshrouteparameters"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.RouteHandle,int,int)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-navigate-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteparameters#%3Cinit%3E(com.here.sdk.routing.RouteHandle,int,int)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-navigate-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  int startingSectionIndex,
  int traveledDistanceOnStartingSectionInMeters)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Create a new instance of <a href="sdk-for-android-navigate-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the point on the section of the route as a new starting point.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-navigate-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteparameters#%3Cinit%3E(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-navigate-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  <a href="sdk-for-android-navigate-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Create a new instance of <a href="sdk-for-android-navigate-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point on the route.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-navigate-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteparameters#%3Cinit%3E(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-navigate-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  <a href="sdk-for-android-navigate-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint,
  int startingSectionIndex,
  int traveledDistanceOnStartingSectionInMeters)</code></div>
@@ -104,10 +104,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-refreshrouteparameters"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteparameters#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteparameters#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

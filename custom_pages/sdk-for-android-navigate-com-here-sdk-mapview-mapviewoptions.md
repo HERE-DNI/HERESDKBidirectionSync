@@ -40,18 +40,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewoptions"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#initialBackgroundColor">initialBackgroundColor</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapviewoptions#initialBackgroundColor">initialBackgroundColor</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Initial loading background color that will be shown between rendering the first frame without a scene loaded and before
  rendering the first frame after a scene is loaded.If not set, it will default to</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-mapprojection" title="enum class in com.here.sdk.mapview">MapProjection</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#projection">projection</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapviewoptions#projection">projection</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Projection of map</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-maprendermode" title="enum class in com.here.sdk.mapview">MapRenderMode</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#renderMode">renderMode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapviewoptions#renderMode">renderMode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies whether the <code>MapView</code> will use <code>SurfaceView</code> or <code>TextureView</code> for map rendering.</div>
 </div>
@@ -66,7 +66,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">MapViewOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapviewoptions#%3Cinit%3E()">MapViewOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -85,10 +85,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewoptions"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapviewoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapviewoptions#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

@@ -60,59 +60,59 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuetype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FEATURE_NOT_INCLUDED">FEATURE_NOT_INCLUDED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#FEATURE_NOT_INCLUDED">FEATURE_NOT_INCLUDED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Requested feature not available for the used license.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FEATURE_NOT_LICENSED">FEATURE_NOT_LICENSED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#FEATURE_NOT_LICENSED">FEATURE_NOT_LICENSED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Requested feature requires a valid license (missing or expired).</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HDGNSS_CONNECTION_NOT_AVAILABLE">HDGNSS_CONNECTION_NOT_AVAILABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#HDGNSS_CONNECTION_NOT_AVAILABLE">HDGNSS_CONNECTION_NOT_AVAILABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Network connection to HD GNSS assistance server is unavailable.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HDGNSS_DEGRADED_MEASUREMENT_QUALITY">HDGNSS_DEGRADED_MEASUREMENT_QUALITY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#HDGNSS_DEGRADED_MEASUREMENT_QUALITY">HDGNSS_DEGRADED_MEASUREMENT_QUALITY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Satellite measurement quality is degraded; HD GNSS accuracy level may not be achieved.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HDGNSS_DEVICE_NOT_SUPPORTED">HDGNSS_DEVICE_NOT_SUPPORTED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#HDGNSS_DEVICE_NOT_SUPPORTED">HDGNSS_DEVICE_NOT_SUPPORTED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Device hardware does not support HD GNSS positioning capabilities.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HDGNSS_INSUFFICIENT_MEASUREMENT_QUALITY">HDGNSS_INSUFFICIENT_MEASUREMENT_QUALITY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#HDGNSS_INSUFFICIENT_MEASUREMENT_QUALITY">HDGNSS_INSUFFICIENT_MEASUREMENT_QUALITY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Satellite measurement quality is insufficient to achieve HD GNSS accuracy level.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HDGNSS_OS_VERSION_NOT_SUPPORTED">HDGNSS_OS_VERSION_NOT_SUPPORTED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#HDGNSS_OS_VERSION_NOT_SUPPORTED">HDGNSS_OS_VERSION_NOT_SUPPORTED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Operating system version is below minimum required for HD GNSS (Android 12+).</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HDGNSS_POS_EXTRAPOLATED">HDGNSS_POS_EXTRAPOLATED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#HDGNSS_POS_EXTRAPOLATED">HDGNSS_POS_EXTRAPOLATED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Hd gnss position was calculated by extrapolation.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITION_CELL_SCAN_ERROR">POSITION_CELL_SCAN_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#POSITION_CELL_SCAN_ERROR">POSITION_CELL_SCAN_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Failed to scan for cellular network signals.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITION_NO_CELL_MEASUREMENTS">POSITION_NO_CELL_MEASUREMENTS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#POSITION_NO_CELL_MEASUREMENTS">POSITION_NO_CELL_MEASUREMENTS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">No usable cellular network signal measurements available for positioning.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITION_NO_WLAN_MEASUREMENTS">POSITION_NO_WLAN_MEASUREMENTS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#POSITION_NO_WLAN_MEASUREMENTS">POSITION_NO_WLAN_MEASUREMENTS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">No usable Wi-Fi network signal measurements available for positioning.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITION_NOT_FOUND">POSITION_NOT_FOUND</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#POSITION_NOT_FOUND">POSITION_NOT_FOUND</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Unable to determine position from available positioning sources.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#POSITION_WLAN_SCAN_ERROR">POSITION_WLAN_SCAN_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#POSITION_WLAN_SCAN_ERROR">POSITION_WLAN_SCAN_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Failed to scan for Wi-Fi network signals.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SENSOR_POSITIONING_NOT_AVAILABLE">SENSOR_POSITIONING_NOT_AVAILABLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#SENSOR_POSITIONING_NOT_AVAILABLE">SENSOR_POSITIONING_NOT_AVAILABLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Device sensors required for sensor fusion positioning are unavailable.</div>
 </div>
@@ -131,12 +131,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuetype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationissuetype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

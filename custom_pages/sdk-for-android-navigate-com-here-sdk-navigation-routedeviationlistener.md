@@ -40,7 +40,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routedeviationlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRouteDeviation(com.here.sdk.navigation.RouteDeviation)">onRouteDeviation</a><wbr/>(<a href="sdk-for-android-navigate-routedeviation" title="class in com.here.sdk.navigation">RouteDeviation</a> routeDeviation)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routedeviationlistener#onRouteDeviation(com.here.sdk.navigation.RouteDeviation)">onRouteDeviation</a><wbr/>(<a href="sdk-for-android-navigate-routedeviation" title="class in com.here.sdk.navigation">RouteDeviation</a> routeDeviation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever route deviation has been observed.</div>
 </div>

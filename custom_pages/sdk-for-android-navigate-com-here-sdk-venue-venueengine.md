@@ -43,12 +43,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-venueengine"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.venue.VenueEngineInitCallback)">VenueEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-venueengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.venue.VenueEngineInitCallback)">VenueEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
  <a href="sdk-for-android-navigate-venueengineinitcallback" title="interface in com.here.sdk.venue">VenueEngineInitCallback</a> callback)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.venue.VenueEngineInitCallback)">VenueEngine</a><wbr/>(<a href="sdk-for-android-navigate-venueengineinitcallback" title="interface in com.here.sdk.venue">VenueEngineInitCallback</a> callback)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-venueengine#%3Cinit%3E(com.here.sdk.venue.VenueEngineInitCallback)">VenueEngine</a><wbr/>(<a href="sdk-for-android-navigate-venueengineinitcallback" title="interface in com.here.sdk.venue">VenueEngineInitCallback</a> callback)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -67,28 +67,28 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-venueengine"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#destroy()">destroy</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-venueengine#destroy()">destroy</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Releases all internally used resources.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control">VenueMap</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getVenueMap()">getVenueMap</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-venueengine#getVenueMap()">getVenueMap</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a venue map to visualize venues.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service">VenueService</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getVenueService()">getVenueService</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-venueengine#getVenueService()">getVenueService</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the venue service.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#start(com.here.sdk.core.AuthenticationCallback)">start</a><wbr/>(<a href="sdk-for-android-navigate-authenticationcallback" title="interface in com.here.sdk.core">AuthenticationCallback</a> callback)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-venueengine#start(com.here.sdk.core.AuthenticationCallback)">start</a><wbr/>(<a href="sdk-for-android-navigate-authenticationcallback" title="interface in com.here.sdk.core">AuthenticationCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Authenticates asynchronously using HERE SDK credentials and uses a result token to start
  the <a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#start(java.lang.String)">start</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> token)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-venueengine#start(java.lang.String)">start</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> token)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Authenticates asynchronously using HERE SDK credentials using a token to start
  the <a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a>.</div>
@@ -121,7 +121,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-venueengine"
 <dt>Parameters:</dt>
 <dd><code>callback</code> - <p>The optional callback that will be triggered when a venue engine initialization
      will be completed. After the initialization, the <a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a> should
-     be started using one of its methods or using <a href="sdk-for-android-navigate-index#start(java.lang.String)"><code>start(String)</code></a>.</p></dd>
+     be started using one of its methods or using <a href="sdk-for-android-navigate-com-here-sdk-venue-venueengine#start(java.lang.String)"><code>start(String)</code></a>.</p></dd>
 <dt>Throws:</dt>
 <dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
@@ -141,7 +141,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-venueengine"
 <dd><code>sdkEngine</code> - <p>Instance of existing SDKEngine.</p></dd>
 <dd><code>callback</code> - <p>The optional callback that will be triggered when a venue engine initialization
      will be completed. After the initialization, the <a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a> should
-     be started using one of its methods or using <a href="sdk-for-android-navigate-index#start(java.lang.String)"><code>start(String)</code></a>.</p></dd>
+     be started using one of its methods or using <a href="sdk-for-android-navigate-com-here-sdk-venue-venueengine#start(java.lang.String)"><code>start(String)</code></a>.</p></dd>
 <dt>Throws:</dt>
 <dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>

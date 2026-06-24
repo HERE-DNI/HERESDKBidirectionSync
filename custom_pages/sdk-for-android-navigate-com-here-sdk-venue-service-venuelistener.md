@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venuelistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onGetVenueCompleted(int,com.here.sdk.venue.data.VenueModel,boolean,com.here.sdk.venue.style.VenueStyle)">onGetVenueCompleted</a><wbr/>(int venueId,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-service-venuelistener#onGetVenueCompleted(int,com.here.sdk.venue.data.VenueModel,boolean,com.here.sdk.venue.style.VenueStyle)">onGetVenueCompleted</a><wbr/>(int venueId,
  <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a> venueModel,
  boolean online,
  <a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a> venueStyle)</code></div>

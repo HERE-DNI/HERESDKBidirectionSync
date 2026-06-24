@@ -40,48 +40,48 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#bearingInDegrees">bearingInDegrees</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#bearingInDegrees">bearingInDegrees</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The bearing orientation points to the direction of travel, and has the same angle as the
  street where it is matched to.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#confidence">confidence</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#confidence">confidence</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Confidence level (between 0 and 1) of the matched location.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#coordinates">coordinates</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#coordinates">coordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The geographic coordinates of the map-matched location.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#horizontalAccuracyInMeters">horizontalAccuracyInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#horizontalAccuracyInMeters">horizontalAccuracyInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Horizontal accuracy measure of location.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isDrivingInTheWrongWay">isDrivingInTheWrongWay</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#isDrivingInTheWrongWay">isDrivingInTheWrongWay</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Determines if the travel direction on a one-way street is against the allowed traffic direction.</div>
 </div>
 <div class="col-first odd-row-color"><code>long</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#segmentOffsetInCentimeters">segmentOffsetInCentimeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#segmentOffsetInCentimeters">segmentOffsetInCentimeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Offset from start of segment in centimeters.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#segmentReference">segmentReference</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#segmentReference">segmentReference</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Reference to the current segment.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#speedInMetersPerSecond">speedInMetersPerSecond</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#speedInMetersPerSecond">speedInMetersPerSecond</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Speed in meters per second.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#timestamp">timestamp</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#timestamp">timestamp</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Timestamp of the map matched position.</div>
 </div>
@@ -96,7 +96,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,java.lang.Double)">MapMatchedLocation</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,java.lang.Double)">MapMatchedLocation</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> bearingInDegrees)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -116,10 +116,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -167,7 +167,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segmentReference</span></div>
 <div class="block"><p>Reference to the current segment.
- The ratio of <a href="sdk-for-android-navigate-index#segmentOffsetInCentimeters"><code>segmentOffsetInCentimeters</code></a> to the segment length is
+ The ratio of <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#segmentOffsetInCentimeters"><code>segmentOffsetInCentimeters</code></a> to the segment length is
  between <a href="sdk-for-android-navigate-segmentreference#offsetStart"><code>SegmentReference.offsetStart</code></a> and <a href="sdk-for-android-navigate-segmentreference#offsetEnd"><code>SegmentReference.offsetEnd</code></a>.</p></div>
 </section>
 </li>

@@ -46,17 +46,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagement
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#memoryManagementStrategy">memoryManagementStrategy</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementoptions#memoryManagementStrategy">memoryManagementStrategy</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The default setting MemoryManagementStrategy.DYNAMIC is suitable for common cases.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#tileCacheMemoryLimitInKiB">tileCacheMemoryLimitInKiB</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementoptions#tileCacheMemoryLimitInKiB">tileCacheMemoryLimitInKiB</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tile cache memory limit in kibibytes.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#videoMemoryLimitInKiB">videoMemoryLimitInKiB</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementoptions#videoMemoryLimitInKiB">videoMemoryLimitInKiB</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Target video memory limit in kibibytes.</div>
 </div>
@@ -71,7 +71,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagement
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">MemoryManagementOptions</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementoptions#%3Cinit%3E()">MemoryManagementOptions</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -104,7 +104,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagement
 <div class="block"><p>The default setting MemoryManagementStrategy.DYNAMIC is suitable for common cases. The map
  data cache can adjust dynamically to fit visible data. When the visible data needs extra
  memory, it would increase. When it's not needed, it will reduce to a limit which is
- calculated internally or by using <a href="sdk-for-android-navigate-index#tileCacheMemoryLimitInKiB"><code>tileCacheMemoryLimitInKiB</code></a> option.
+ calculated internally or by using <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementoptions#tileCacheMemoryLimitInKiB"><code>tileCacheMemoryLimitInKiB</code></a> option.
  The MemoryManagementStrategy.FIXED would be only useful when there is very
  strict memory consumption requirement for the application. It potentially can have
  flickering visual artifacts when the map data to be visualized is very large and exceeds

@@ -53,19 +53,19 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authenticationerror"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AUTHENTICATION_FAILED">AUTHENTICATION_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authenticationerror#AUTHENTICATION_FAILED">AUTHENTICATION_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Authentication failed.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#INVALID_PARAMETER">INVALID_PARAMETER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authenticationerror#INVALID_PARAMETER">INVALID_PARAMETER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Invalid parameter is received.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#NO_CONNECTION">NO_CONNECTION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authenticationerror#NO_CONNECTION">NO_CONNECTION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Network connection problems.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OPERATION_AFTER_DISPOSE">OPERATION_AFTER_DISPOSE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authenticationerror#OPERATION_AFTER_DISPOSE">OPERATION_AFTER_DISPOSE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Method is invoked on object connected to the disposed SDKNativeEngine.</div>
 </div>
@@ -84,12 +84,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authenticationerror"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authenticationerror#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authenticationerror#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

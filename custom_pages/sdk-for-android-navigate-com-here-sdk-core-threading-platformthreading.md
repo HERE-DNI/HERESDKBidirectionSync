@@ -38,18 +38,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-threading-platformthreading"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#postToMainThread(com.here.sdk.core.threading.Runnable)">postToMainThread</a><wbr/>(<a href="sdk-for-android-navigate-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-threading-platformthreading#postToMainThread(com.here.sdk.core.threading.Runnable)">postToMainThread</a><wbr/>(<a href="sdk-for-android-navigate-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Posts task to the end of the queue of the main thread.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#postToMainThread(com.here.sdk.core.threading.Runnable,long)">postToMainThread</a><wbr/>(<a href="sdk-for-android-navigate-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-threading-platformthreading#postToMainThread(com.here.sdk.core.threading.Runnable,long)">postToMainThread</a><wbr/>(<a href="sdk-for-android-navigate-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable,
  long delayMs)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Posts a task to be executed on the main thread after some delay.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#runOnMainThread(com.here.sdk.core.threading.Runnable)">runOnMainThread</a><wbr/>(<a href="sdk-for-android-navigate-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-threading-platformthreading#runOnMainThread(com.here.sdk.core.threading.Runnable)">runOnMainThread</a><wbr/>(<a href="sdk-for-android-navigate-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Runs a task on the main thread.</div>
 </div>

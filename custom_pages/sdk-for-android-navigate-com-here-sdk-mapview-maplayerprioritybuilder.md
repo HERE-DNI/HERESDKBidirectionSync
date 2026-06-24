@@ -122,7 +122,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">MapLayerPriorityBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#%3Cinit%3E()">MapLayerPriorityBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of the layer priority builder interface.</div>
 </div>
@@ -141,50 +141,50 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#build()">build</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Constructs a MapLayerPriority.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#inGroup(java.lang.String)">inGroup</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> group)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#inGroup(java.lang.String)">inGroup</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> group)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the group for which a priority could be defined with the next call to the functions
  <code>renderedFirst|Last|BeforeLayer|AfterLayer</code>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#renderedAfterLayer(java.lang.String)">renderedAfterLayer</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceLayer)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#renderedAfterLayer(java.lang.String)">renderedAfterLayer</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceLayer)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the priority as rendered after the last one from the referenceLayer and its categories.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#renderedAfterLayer(java.lang.String,java.lang.String)">renderedAfterLayer</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceLayer,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#renderedAfterLayer(java.lang.String,java.lang.String)">renderedAfterLayer</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceLayer,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceCategory)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the priority as rendered after the referenceCategory of the referenceLayer.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#renderedBeforeLayer(java.lang.String)">renderedBeforeLayer</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceLayer)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#renderedBeforeLayer(java.lang.String)">renderedBeforeLayer</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceLayer)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the priority as rendered before the first one from the referenceLayer and its categories.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#renderedBeforeLayer(java.lang.String,java.lang.String)">renderedBeforeLayer</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceLayer,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#renderedBeforeLayer(java.lang.String,java.lang.String)">renderedBeforeLayer</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceLayer,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceCategory)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the priority as rendered before the referenceCategory of the referenceLayer.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#renderedFirst()">renderedFirst</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#renderedFirst()">renderedFirst</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the priority as rendered before all layers and categories.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#renderedLast()">renderedLast</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#renderedLast()">renderedLast</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the priority as rendered after all layers and categories.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withCategory(java.lang.String)">withCategory</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> category)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#withCategory(java.lang.String)">withCategory</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> category)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the layer category for which a priority could be defined with the next call to the functions
  <code>renderedFirst|Last|BeforeLayer|AfterLayer</code>.</div>
@@ -273,7 +273,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></span> <span class="element-name">renderedFirst</span>()</div>
 <div class="block"><p>Sets the priority as rendered before all layers and categories. Applies to the layer itself or the
- category pointed to by the preceding call to <a href="sdk-for-android-navigate-index#withCategory(java.lang.String)"><code>withCategory(java.lang.String)</code></a>.
+ category pointed to by the preceding call to <a href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#withCategory(java.lang.String)"><code>withCategory(java.lang.String)</code></a>.
  Notice that the order of calls to the functions
  <code>renderedFirst|Last|Before|After</code>
  matters, and that after such a call the builder clears the current category and refers again to
@@ -295,7 +295,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></span> <span class="element-name">renderedLast</span>()</div>
 <div class="block"><p>Sets the priority as rendered after all layers and categories. Applies to the layer itself or the
- category pointed to by the preceding call to <a href="sdk-for-android-navigate-index#withCategory(java.lang.String)"><code>withCategory(java.lang.String)</code></a>.
+ category pointed to by the preceding call to <a href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#withCategory(java.lang.String)"><code>withCategory(java.lang.String)</code></a>.
  Notice that the order of calls to the functions
  <code>renderedFirst|Last|Before|After</code>
  matters, and that after such a call the builder clears the current category and refers again to
@@ -319,7 +319,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceLayer)</span></div>
 <div class="block"><p>Sets the priority as rendered before the first one from the referenceLayer and its categories.
  Applies to the layer itself or the category pointed to by the preceding call to
- <a href="sdk-for-android-navigate-index#withCategory(java.lang.String)"><code>withCategory(java.lang.String)</code></a>.
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#withCategory(java.lang.String)"><code>withCategory(java.lang.String)</code></a>.
  Notice that the order of calls to the functions
  <code>renderedFirst|Last|Before|After</code>
  matters, and that after such a call the builder clears the current category and refers again to
@@ -349,7 +349,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceCategory)</span></div>
 <div class="block"><p>Sets the priority as rendered before the referenceCategory of the referenceLayer. Applies to the
  layer itself or the category pointed to by the preceding call to
- <a href="sdk-for-android-navigate-index#withCategory(java.lang.String)"><code>withCategory(java.lang.String)</code></a>.
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#withCategory(java.lang.String)"><code>withCategory(java.lang.String)</code></a>.
  Notice that the order of calls to the functions
  <code>renderedFirst|Last|Before|After</code>
  matters, and that after such a call the builder clears the current category and refers again to
@@ -378,7 +378,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceLayer)</span></div>
 <div class="block"><p>Sets the priority as rendered after the last one from the referenceLayer and its categories.
  Applies to the layer itself or the category pointed to by the preceding call to
- <a href="sdk-for-android-navigate-index#withCategory(java.lang.String)"><code>withCategory(java.lang.String)</code></a>.
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#withCategory(java.lang.String)"><code>withCategory(java.lang.String)</code></a>.
  Notice that the order of calls to the functions
  <code>renderedFirst|Last|Before|After</code>
  matters, and that after such a call the builder clears the current category and refers again to
@@ -408,7 +408,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> referenceCategory)</span></div>
 <div class="block"><p>Sets the priority as rendered after the referenceCategory of the referenceLayer. Applies to the
  layer itself or the category pointed to by the preceding call to
- <a href="sdk-for-android-navigate-index#withCategory(java.lang.String)"><code>withCategory(java.lang.String)</code></a>.
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-maplayerprioritybuilder#withCategory(java.lang.String)"><code>withCategory(java.lang.String)</code></a>.
  Notice that the order of calls to the functions
  <code>renderedFirst|Last|Before|After</code>
  matters, and that after such a call the builder clears the current category and refers again to

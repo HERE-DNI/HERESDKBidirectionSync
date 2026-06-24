@@ -46,98 +46,98 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#forbiddenAxleCount">forbiddenAxleCount</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenAxleCount">forbiddenAxleCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The restriction to trucks with axles number within specified range during the trip.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#forbiddenHazardousGoods">forbiddenHazardousGoods</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenHazardousGoods">forbiddenHazardousGoods</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used
  for the route calculation provided using <a href="sdk-for-android-explore-vehiclespecification#hazardousMaterials"><code>VehicleSpecification.hazardousMaterials</code></a> from
  <a href="sdk-for-android-explore-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="sdk-for-android-explore-routingoptions#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#forbiddenTrailerCount">forbiddenTrailerCount</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTrailerCount">forbiddenTrailerCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Constrains the restriction to trucks with number of trailer within specified range during the trip.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#forbiddenTruckCategory">forbiddenTruckCategory</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTruckCategory">forbiddenTruckCategory</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">This property will be set if a restriction applies to the value of <a href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a>
  parameter used for route calculation.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#forbiddenTruckRoadTypes">forbiddenTruckRoadTypes</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTruckRoadTypes">forbiddenTruckRoadTypes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Contains violated restrictions for truck road types.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#forbiddenTruckType">forbiddenTruckType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTruckType">forbiddenTruckType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment">Will be removed in v4.27.0.</div>
 </div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxHeightInCentimeters">maxHeightInCentimeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxHeightInCentimeters">maxHeightInCentimeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Max permitted height during the trip, in centimeters.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxKingpinToRearAxleDistanceInCentimeters">maxKingpinToRearAxleDistanceInCentimeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxKingpinToRearAxleDistanceInCentimeters">maxKingpinToRearAxleDistanceInCentimeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Contains the maximum permitted distance from kingpin to the rear axle in centimeters.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxLengthInCentimeters">maxLengthInCentimeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxLengthInCentimeters">maxLengthInCentimeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Max permitted length during the trip, in centimeters.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxNumberOfTires">maxNumberOfTires</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxNumberOfTires">maxNumberOfTires</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Contains the maximum permitted number of tires.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxPayloadCapacityInKilograms">maxPayloadCapacityInKilograms</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxPayloadCapacityInKilograms">maxPayloadCapacityInKilograms</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Max permitted payload capacity during the trip, in kilograms.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxTunnelCategory">maxTunnelCategory</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxTunnelCategory">maxTunnelCategory</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tunnel category to restrict transport of specific goods during the trip.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-vehiclerestrictionmaxweight" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxWeight">maxWeight</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWeight">maxWeight</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-maxaxlegroupweight" title="class in com.here.sdk.routing">MaxAxleGroupWeight</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxWeightPerAxleGroupInKilograms">maxWeightPerAxleGroupInKilograms</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWeightPerAxleGroupInKilograms">maxWeightPerAxleGroupInKilograms</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Max permitted weight per axle group during the trip, in kilograms.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxWeightPerAxleInKilograms">maxWeightPerAxleInKilograms</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWeightPerAxleInKilograms">maxWeightPerAxleInKilograms</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Max permitted weight per axle during the trip, in kilograms.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxWidthInCentimeters">maxWidthInCentimeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWidthInCentimeters">maxWidthInCentimeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Max permitted width during the trip, in centimeters.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#routingZoneReference">routingZoneReference</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#routingZoneReference">routingZoneReference</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Contains the restricted routing zone reference
  This property will be set if the <a href="sdk-for-android-explore-avoidanceoptions#zoneCategories"><code>AvoidanceOptions.zoneCategories</code></a> is not empty</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-timerule" title="class in com.here.sdk.core">TimeRule</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#timeRule">timeRule</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#timeRule">timeRule</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Time intervals during which restrictions are enforced.</div>
 </div>
@@ -152,7 +152,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">Details</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#%3Cinit%3E()">Details</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -171,10 +171,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

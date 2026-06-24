@@ -41,17 +41,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslclie
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pemCertChain">pemCertChain</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslclientcredentialsoptions#pemCertChain">pemCertChain</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The client's certificate chain in PEM format.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pemPrivateKey">pemPrivateKey</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslclientcredentialsoptions#pemPrivateKey">pemPrivateKey</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The client's private key in PEM format.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#pemRootCerts">pemRootCerts</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslclientcredentialsoptions#pemRootCerts">pemRootCerts</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The PEM-encoded root certificates used to verify the server.</div>
 </div>
@@ -66,12 +66,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslclie
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String)">SslClientCredentialsOptions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> pemRootCerts)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslclientcredentialsoptions#%3Cinit%3E(java.lang.String)">SslClientCredentialsOptions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> pemRootCerts)</code></div>
 <div class="col-last even-row-color">
 <div class="block">The constructor which creates a new instance and sets both <code>pem_private_key</code> and
  <code>pem_cert_chain</code> to empty strings.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,java.lang.String,java.lang.String)">SslClientCredentialsOptions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> pemRootCerts,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslclientcredentialsoptions#%3Cinit%3E(java.lang.String,java.lang.String,java.lang.String)">SslClientCredentialsOptions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> pemRootCerts,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> pemPrivateKey,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> pemCertChain)</code></div>
 <div class="col-last odd-row-color">

@@ -40,27 +40,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#coordinates">coordinates</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace#coordinates">coordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Geographic coordinates of the place.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#levelId">levelId</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace#levelId">levelId</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The level identifier of this indoor location.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#levelZIndex">levelZIndex</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace#levelZIndex">levelZIndex</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The vertical level index of this indoor location.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of the route place.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#venueId">venueId</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace#venueId">venueId</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The venue identifier of this indoor location.</div>
 </div>
@@ -75,7 +75,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.RoutePlaceType,com.here.sdk.core.GeoCoordinates,int,java.lang.String,java.lang.String)">IndoorRoutePlace</a><wbr/>(<a href="sdk-for-android-navigate-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace#%3Cinit%3E(com.here.sdk.routing.RoutePlaceType,com.here.sdk.core.GeoCoordinates,int,java.lang.String,java.lang.String)">IndoorRoutePlace</a><wbr/>(<a href="sdk-for-android-navigate-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type,
  <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  int levelZIndex,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> venueId,
@@ -98,10 +98,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

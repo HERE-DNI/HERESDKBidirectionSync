@@ -58,27 +58,27 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ONLINE_ROUTING">ONLINE_ROUTING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature#ONLINE_ROUTING">ONLINE_ROUTING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">When set, online routing can be performed by the HERE SDK, allowing the retrieval of up-to-date
  routing information from online services even when offline mode is enabled.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ONLINE_SEARCH">ONLINE_SEARCH</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature#ONLINE_SEARCH">ONLINE_SEARCH</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">When set, online search can be performed by the HERE SDK, allowing the retrieval of up-to-date
  search information from online services even when offline mode is enabled.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_DATA">TRAFFIC_DATA</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature#TRAFFIC_DATA">TRAFFIC_DATA</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">When set, then the <code>TrafficEngine</code> is not blocked from initiating online connections to search for
  traffic data such as incidents.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_TILES_FLOW">TRAFFIC_TILES_FLOW</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature#TRAFFIC_TILES_FLOW">TRAFFIC_TILES_FLOW</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">When set, then the corresponding <code>MapFeature</code> will not be blocked and online connections can be
  initiated by the HERE SDK to retrieve traffic flow data.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_TILES_INCIDENTS">TRAFFIC_TILES_INCIDENTS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature#TRAFFIC_TILES_INCIDENTS">TRAFFIC_TILES_INCIDENTS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">When set, then the corresponding <code>MapFeature</code> will not be blocked and online connections can be
  initiated by the HERE SDK to retrieve traffic incident data.</div>
@@ -98,12 +98,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

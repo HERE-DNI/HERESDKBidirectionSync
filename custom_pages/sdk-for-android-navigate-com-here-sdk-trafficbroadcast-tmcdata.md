@@ -40,47 +40,47 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#additionalEvents">additionalEvents</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#additionalEvents">additionalEvents</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Additional traffic events.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#additionalLocations">additionalLocations</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#additionalLocations">additionalLocations</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Additional traffic locations.</div>
 </div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#direction">direction</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#direction">direction</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Street direction.</div>
 </div>
 <div class="col-first odd-row-color"><code>short</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#diversionAdvice">diversionAdvice</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#diversionAdvice">diversionAdvice</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Diversion advice.</div>
 </div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#durationPersistence">durationPersistence</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#durationPersistence">durationPersistence</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Duration persitence.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#event">event</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#event">event</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Traffic event data.</div>
 </div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#extent">extent</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#extent">extent</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Extent.</div>
 </div>
 <div class="col-first odd-row-color"><code>long</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#location">location</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#location">location</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Traffic event location.</div>
 </div>
 <div class="col-first even-row-color"><code>short</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#numberOfGroups">numberOfGroups</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#numberOfGroups">numberOfGroups</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Number of groups (1 to 5).</div>
 </div>
@@ -95,7 +95,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(short,short,short,short,short,int,long,java.util.List,java.util.List)">TMCData</a><wbr/>(short numberOfGroups,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-tmcdata#%3Cinit%3E(short,short,short,short,short,int,long,java.util.List,java.util.List)">TMCData</a><wbr/>(short numberOfGroups,
  short extent,
  short direction,
  short diversionAdvice,

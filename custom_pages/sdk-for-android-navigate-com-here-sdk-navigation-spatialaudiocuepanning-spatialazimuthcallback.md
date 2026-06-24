@@ -47,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning-s
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onSpatialAzimuthStarted(com.here.sdk.navigation.SpatialTrajectoryData)">onSpatialAzimuthStarted</a><wbr/>(<a href="sdk-for-android-navigate-spatialtrajectorydata" title="class in com.here.sdk.navigation">SpatialTrajectoryData</a> spatialTrajectoryData)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning-spatialazimuthcallback#onSpatialAzimuthStarted(com.here.sdk.navigation.SpatialTrajectoryData)">onSpatialAzimuthStarted</a><wbr/>(<a href="sdk-for-android-navigate-spatialtrajectorydata" title="class in com.here.sdk.navigation">SpatialTrajectoryData</a> spatialTrajectoryData)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called once <code>startAngularPanning()</code> starts.</div>
 </div>

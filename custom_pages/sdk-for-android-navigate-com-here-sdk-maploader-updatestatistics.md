@@ -41,12 +41,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-updatestatistics"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>long</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#totalPatchedBundlesFail">totalPatchedBundlesFail</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-updatestatistics#totalPatchedBundlesFail">totalPatchedBundlesFail</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Number of bundles failed to patch</div>
 </div>
 <div class="col-first odd-row-color"><code>long</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#totalPatchedBundlesSuccess">totalPatchedBundlesSuccess</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-updatestatistics#totalPatchedBundlesSuccess">totalPatchedBundlesSuccess</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Number of bundles patched successfully</div>
 </div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-updatestatistics"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">UpdateStatistics</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-updatestatistics#%3Cinit%3E()">UpdateStatistics</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>

@@ -55,20 +55,20 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-tollcollectionmethod"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ELECTRONIC">ELECTRONIC</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-tollcollectionmethod#ELECTRONIC">ELECTRONIC</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Automatic controls exist that automatically record the beginning and
  end of the stretch of toll road that has been traveled.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FIXED_FEE">FIXED_FEE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-tollcollectionmethod#FIXED_FEE">FIXED_FEE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Fixed fee is required in order to pass through.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OBTAIN_TICKET">OBTAIN_TICKET</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-tollcollectionmethod#OBTAIN_TICKET">OBTAIN_TICKET</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Ticket must be obtained at the toll stop.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PAY_PER_TICKET">PAY_PER_TICKET</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-tollcollectionmethod#PAY_PER_TICKET">PAY_PER_TICKET</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Payment is required based on the traveled distance between the toll stop where the ticket was obtained
  and the toll stop at which the toll road is exited.</div>
@@ -88,12 +88,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-tollcollectionmethod"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-tollcollectionmethod" title="enum class in com.here.sdk.navigation">TollCollectionMethod</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-tollcollectionmethod#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-tollcollectionmethod" title="enum class in com.here.sdk.navigation">TollCollectionMethod</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-tollcollectionmethod#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

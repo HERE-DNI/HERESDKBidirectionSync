@@ -44,22 +44,22 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#methodCall">methodCall</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#methodCall">methodCall</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Name or description of the method being called.</div>
 </div>
 <div class="col-first odd-row-color"><code>long</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#receivedBytes">receivedBytes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#receivedBytes">receivedBytes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Number of bytes received from the network.</div>
 </div>
 <div class="col-first even-row-color"><code>long</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#requestCounter">requestCounter</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#requestCounter">requestCounter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Amount of calls for particular family of methodCall.</div>
 </div>
 <div class="col-first odd-row-color"><code>long</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#sentBytes">sentBytes</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#sentBytes">sentBytes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Number of bytes sent over the network.</div>
 </div>
@@ -74,7 +74,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(long,long,java.lang.String,long)">NetworkStats</a><wbr/>(long sentBytes,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-networkstats#%3Cinit%3E(long,long,java.lang.String,long)">NetworkStats</a><wbr/>(long sentBytes,
  long receivedBytes,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> methodCall,
  long requestCounter)</code></div>

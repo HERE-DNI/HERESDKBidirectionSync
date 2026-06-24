@@ -59,35 +59,35 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evsestate"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AVAILABLE">AVAILABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsestate#AVAILABLE">AVAILABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The EVSE/connector is able to start a new charging session.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#BLOCKED">BLOCKED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsestate#BLOCKED">BLOCKED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The EVSE/connector is not accessible because of a physical barrier, i.e.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CHARGING">CHARGING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsestate#CHARGING">CHARGING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The EVSE/connector is in use.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#INOPERATIVE">INOPERATIVE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsestate#INOPERATIVE">INOPERATIVE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The EVSE/connector is temporarily not available for use, but not broken or defect.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OPERATIONAL">OPERATIONAL</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsestate#OPERATIONAL">OPERATIONAL</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The EVSE/connector was operational when checked the last time, but the actual latest status is not available at the moment.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OUT_OF_ORDER">OUT_OF_ORDER</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsestate#OUT_OF_ORDER">OUT_OF_ORDER</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The EVSE/connector is currently out of order.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RESERVED">RESERVED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsestate#RESERVED">RESERVED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The EVSE/connector is reserved for a particular EV driver and is unavailable for other drivers.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#UNKNOWN">UNKNOWN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsestate#UNKNOWN">UNKNOWN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">No status information available or the EVSE/connector is offline.</div>
 </div>
@@ -106,12 +106,12 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evsestate"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsestate#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-ev-evsestate#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

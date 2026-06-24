@@ -40,32 +40,32 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-agency" title="class in com.here.sdk.routing">Agency</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#agency">agency</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails#agency">agency</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Contains information about a particular agency.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-attribution" title="class in com.here.sdk.routing">Attribution</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#attributions">attributions</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails#attributions">attributions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of required attributions to display.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-fare" title="class in com.here.sdk.routing">Fare</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#fares">fares</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails#fares">fares</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of tickets to pay for this section of the route.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-transitincident" title="class in com.here.sdk.routing">TransitIncident</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#incidents">incidents</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails#incidents">incidents</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A list of all incidents that apply to the section.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-transitstop" title="class in com.here.sdk.routing">TransitStop</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#intermediateStops">intermediateStops</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails#intermediateStops">intermediateStops</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">All the intermediate stops between departure and destination of this section.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-transittransport" title="class in com.here.sdk.routing">TransitTransport</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#transport">transport</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails#transport">transport</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Transit transport information.</div>
 </div>
@@ -80,7 +80,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.Agency)">TransitSectionDetails</a><wbr/>(<a href="sdk-for-android-navigate-agency" title="class in com.here.sdk.routing">Agency</a> agency)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails#%3Cinit%3E(com.here.sdk.routing.Agency)">TransitSectionDetails</a><wbr/>(<a href="sdk-for-android-navigate-agency" title="class in com.here.sdk.routing">Agency</a> agency)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -99,10 +99,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

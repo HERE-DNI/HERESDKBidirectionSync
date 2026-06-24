@@ -45,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">PolygonPrefetcher</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">PolygonPrefetcher</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a PolygonPrefetcher instance for a given <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</div>
 </div>
@@ -64,13 +64,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#estimateMapDataSize(com.here.sdk.core.GeoPolygon,com.here.sdk.prefetcher.MapDataSizeListener)">estimateMapDataSize</a><wbr/>(<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geoPolygon,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher#estimateMapDataSize(com.here.sdk.core.GeoPolygon,com.here.sdk.prefetcher.MapDataSizeListener)">estimateMapDataSize</a><wbr/>(<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geoPolygon,
  <a href="sdk-for-android-navigate-mapdatasizelistener" title="interface in com.here.sdk.prefetcher">MapDataSizeListener</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Estimates map data size for the area bounded by geo polygon.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#prefetch(com.here.sdk.core.GeoPolygon,com.here.sdk.prefetcher.PrefetchStatusListener)">prefetch</a><wbr/>(<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geoPolygon,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher#prefetch(com.here.sdk.core.GeoPolygon,com.here.sdk.prefetcher.PrefetchStatusListener)">prefetch</a><wbr/>(<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geoPolygon,
  <a href="sdk-for-android-navigate-prefetchstatuslistener" title="interface in com.here.sdk.prefetcher">PrefetchStatusListener</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Prefetches map data for an area bounded by geo polygon.</div>

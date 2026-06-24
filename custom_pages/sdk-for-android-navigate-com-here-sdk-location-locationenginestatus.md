@@ -53,57 +53,57 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationenginestatus"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ALREADY_STARTED">ALREADY_STARTED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#ALREADY_STARTED">ALREADY_STARTED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tried to start LocationEngine that is already started.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AUTHENTICATION_FAILED">AUTHENTICATION_FAILED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#AUTHENTICATION_FAILED">AUTHENTICATION_FAILED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Authentication failed.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ENGINE_STARTED">ENGINE_STARTED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#ENGINE_STARTED">ENGINE_STARTED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">LocationEngine successfully started.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ENGINE_STOPPED">ENGINE_STOPPED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#ENGINE_STOPPED">ENGINE_STOPPED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">LocationEngine has been stopped.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LOCATION_SERVICES_DISABLED">LOCATION_SERVICES_DISABLED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#LOCATION_SERVICES_DISABLED">LOCATION_SERVICES_DISABLED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Location services are disabled in the system settings.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MISSING_PERMISSIONS">MISSING_PERMISSIONS</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#MISSING_PERMISSIONS">MISSING_PERMISSIONS</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Missing one or more user permissions.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NOT_ALLOWED">NOT_ALLOWED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#NOT_ALLOWED">NOT_ALLOWED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Request is not supported in current region.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NOT_READY">NOT_READY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#NOT_READY">NOT_READY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Engine is not ready for the requested action.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NOT_SUPPORTED">NOT_SUPPORTED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#NOT_SUPPORTED">NOT_SUPPORTED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Request is not supported.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OK">OK</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#OK">OK</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Requested operation succeeded.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PRIVACY_NOTICE_UNCONFIRMED">PRIVACY_NOTICE_UNCONFIRMED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#PRIVACY_NOTICE_UNCONFIRMED">PRIVACY_NOTICE_UNCONFIRMED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Method confirmHEREPrivacyNoticeInclusion() (or alternatively confirmHEREPrivacyNoticeException())
  was not called before starting the <code>LocationEngine</code> or HERE privacy notice exception was not
  permitted.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#START_FAILED">START_FAILED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#START_FAILED">START_FAILED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Start failed due to an internal error.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#USER_CONSENT_NOT_HANDLED">USER_CONSENT_NOT_HANDLED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#USER_CONSENT_NOT_HANDLED">USER_CONSENT_NOT_HANDLED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">User consent has not been handled yet.</div>
 </div>
@@ -122,12 +122,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationenginestatus"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginestatus#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

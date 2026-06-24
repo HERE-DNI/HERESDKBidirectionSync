@@ -59,23 +59,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagement
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#APPLIED">APPLIED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementresultcode#APPLIED">APPLIED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The memory management options were successfully applied.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FAILED">FAILED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementresultcode#FAILED">FAILED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The memory management options could not be applied due to other errors.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FAILED_BOTH_MEMORY_LIMITS_EXCEEDED">FAILED_BOTH_MEMORY_LIMITS_EXCEEDED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementresultcode#FAILED_BOTH_MEMORY_LIMITS_EXCEEDED">FAILED_BOTH_MEMORY_LIMITS_EXCEEDED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Both video memory and CPU tile cache limits were exceeded and limits were not applied.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TILE_CACHE_CPU_MEMORY_LIMIT_EXCEEDED">TILE_CACHE_CPU_MEMORY_LIMIT_EXCEEDED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementresultcode#TILE_CACHE_CPU_MEMORY_LIMIT_EXCEEDED">TILE_CACHE_CPU_MEMORY_LIMIT_EXCEEDED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The requested memory limit exceeds the maximum allowed limit for CPU tile cache.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#VIDEO_MEMORY_LIMIT_EXCEEDED">VIDEO_MEMORY_LIMIT_EXCEEDED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementresultcode#VIDEO_MEMORY_LIMIT_EXCEEDED">VIDEO_MEMORY_LIMIT_EXCEEDED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The requested memory limit exceeds the maximum allowed limit for video memory.</div>
 </div>
@@ -94,12 +94,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagement
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementresultcode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementresultcode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

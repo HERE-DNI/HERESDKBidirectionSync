@@ -42,22 +42,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecompone
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#dimension">dimension</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecomponent#dimension">dimension</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The dimension or type of the price component.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#price">price</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecomponent#price">price</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The price per unit, excluding VAT.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#step">step</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecomponent#step">step</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Dimension quantity used as a unit of billing.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#vat">vat</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecomponent#vat">vat</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The VAT percentage of the price component.</div>
 </div>
@@ -72,7 +72,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecompone
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">EVChargingTariffPriceComponent</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecomponent#%3Cinit%3E()">EVChargingTariffPriceComponent</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -91,10 +91,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecompone
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecomponent#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecomponent#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -125,7 +125,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecompone
 <section class="detail" id="price">
 <h3>price</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">price</span></div>
-<div class="block"><p>The price per unit, excluding VAT. The units are defined by the <a href="sdk-for-android-navigate-index#dimension"><code>dimension</code></a></p></div>
+<div class="block"><p>The price per unit, excluding VAT. The units are defined by the <a href="sdk-for-android-navigate-com-here-sdk-search-evchargingtariffpricecomponent#dimension"><code>dimension</code></a></p></div>
 </section>
 </li>
 <li>

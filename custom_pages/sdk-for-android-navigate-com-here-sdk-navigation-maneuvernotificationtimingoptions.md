@@ -44,16 +44,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimi
 </ol>
 </p><p>Therefore, it is crucial that the set values do not violate the order: range &gt; reminder &gt; distance &gt; action.
  For example, the following values are valid: range = 4000, reminder = 2500, distance = 1000, action = 400.
- If <a href="sdk-for-android-navigate-index#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> is smaller than <a href="sdk-for-android-navigate-index#reminderNotificationDistanceInMeters"><code>reminderNotificationDistanceInMeters</code></a> the new options will be
+ If <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> is smaller than <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#reminderNotificationDistanceInMeters"><code>reminderNotificationDistanceInMeters</code></a> the new options will be
  silently ignored and the previous values are kept.
  </p><p>You always have the choice to specify the thresholds for time or distance. For each <a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> a
  notification is only sent once, so the value that is reached first, wins. However, it is recommended to always update both, time
  and distance values.
- A configuration value of 0 is only allowed for <a href="sdk-for-android-navigate-index#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> and <a href="sdk-for-android-navigate-index#rangeNotificationTimeInSeconds"><code>rangeNotificationTimeInSeconds</code></a>.
+ A configuration value of 0 is only allowed for <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationTimeInSeconds"><code>rangeNotificationTimeInSeconds</code></a>.
  It means that the maneuver notifications of type <a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a> should be generated as soon
  as the maneuver location is known - no matter how far away it may be.
  It's impossible for the other types to have 0 as value due to the descending ordering rule mentioned above.
- </p><p>You can also specify the <a href="sdk-for-android-navigate-index#doubleNotificationDistanceInMeters"><code>doubleNotificationDistanceInMeters</code></a> threshold that determines the distance between two maneuvers that
+ </p><p>You can also specify the <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#doubleNotificationDistanceInMeters"><code>doubleNotificationDistanceInMeters</code></a> threshold that determines the distance between two maneuvers that
  should be merged into a single maneuver notification, for example, when they are very close to each other. Maneuvers below this
  threshold will be merged like in this example: "After 300 meters turn right and then turn left.".
  </p><p>Tip: To set the timings to the HERE SDK, you can first call <code>getManeuverNotificationTimingOptions()</code> to get the default values
@@ -85,47 +85,47 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimi
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#actionNotificationDistanceInMeters">actionNotificationDistanceInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#actionNotificationDistanceInMeters">actionNotificationDistanceInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The default distance setting for <a href="sdk-for-android-navigate-maneuvernotificationtype#ACTION"><code>ManeuverNotificationType.ACTION</code></a> notification.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#actionNotificationTimeInSeconds">actionNotificationTimeInSeconds</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#actionNotificationTimeInSeconds">actionNotificationTimeInSeconds</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The default time setting for <a href="sdk-for-android-navigate-maneuvernotificationtype#ACTION"><code>ManeuverNotificationType.ACTION</code></a> notification.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceNotificationDistanceInMeters">distanceNotificationDistanceInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#distanceNotificationDistanceInMeters">distanceNotificationDistanceInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The default distance setting for <a href="sdk-for-android-navigate-maneuvernotificationtype#DISTANCE"><code>ManeuverNotificationType.DISTANCE</code></a> notification.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceNotificationTimeInSeconds">distanceNotificationTimeInSeconds</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#distanceNotificationTimeInSeconds">distanceNotificationTimeInSeconds</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The default time setting for <a href="sdk-for-android-navigate-maneuvernotificationtype#DISTANCE"><code>ManeuverNotificationType.DISTANCE</code></a> notification.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#doubleNotificationDistanceInMeters">doubleNotificationDistanceInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#doubleNotificationDistanceInMeters">doubleNotificationDistanceInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The default distance setting for double notification.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#rangeNotificationDistanceInMeters">rangeNotificationDistanceInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationDistanceInMeters">rangeNotificationDistanceInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The default distance setting for <a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a> notification.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#rangeNotificationTimeInSeconds">rangeNotificationTimeInSeconds</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationTimeInSeconds">rangeNotificationTimeInSeconds</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The default time setting for <a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a> notification.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#reminderNotificationDistanceInMeters">reminderNotificationDistanceInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#reminderNotificationDistanceInMeters">reminderNotificationDistanceInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The default distance setting for <a href="sdk-for-android-navigate-maneuvernotificationtype#REMINDER"><code>ManeuverNotificationType.REMINDER</code></a> notification.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#reminderNotificationTimeInSeconds">reminderNotificationTimeInSeconds</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#reminderNotificationTimeInSeconds">reminderNotificationTimeInSeconds</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The default time setting for <a href="sdk-for-android-navigate-maneuvernotificationtype#REMINDER"><code>ManeuverNotificationType.REMINDER</code></a> notification.</div>
 </div>
@@ -140,7 +140,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimi
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(int,int,int,int,int,int,int,int,int)">ManeuverNotificationTimingOptions</a><wbr/>(int rangeNotificationDistanceInMeters,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#%3Cinit%3E(int,int,int,int,int,int,int,int,int)">ManeuverNotificationTimingOptions</a><wbr/>(int rangeNotificationDistanceInMeters,
  int rangeNotificationTimeInSeconds,
  int reminderNotificationDistanceInMeters,
  int reminderNotificationTimeInSeconds,
@@ -167,10 +167,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimi
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -194,7 +194,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimi
 <h3>rangeNotificationDistanceInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">rangeNotificationDistanceInMeters</span></div>
 <div class="block"><p>The default distance setting for <a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a> notification. A configuration value of 0 is only allowed for
- <a href="sdk-for-android-navigate-index#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> and <a href="sdk-for-android-navigate-index#rangeNotificationTimeInSeconds"><code>rangeNotificationTimeInSeconds</code></a>. It means that the maneuver notifications of type
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationTimeInSeconds"><code>rangeNotificationTimeInSeconds</code></a>. It means that the maneuver notifications of type
  <a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a> should be generated as soon as the maneuver location is known - no matter how far away it may be.
  <table>
 <thead>
@@ -216,7 +216,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimi
 <h3>rangeNotificationTimeInSeconds</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">rangeNotificationTimeInSeconds</span></div>
 <div class="block"><p>The default time setting for <a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a> notification. A configuration value of 0 is only allowed for
- <a href="sdk-for-android-navigate-index#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> and <a href="sdk-for-android-navigate-index#rangeNotificationTimeInSeconds"><code>rangeNotificationTimeInSeconds</code></a>. It means that the maneuver notifications of type
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationTimeInSeconds"><code>rangeNotificationTimeInSeconds</code></a>. It means that the maneuver notifications of type
  <a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a> should be generated as soon as the maneuver location is known - no matter how far away it may be.
  <table>
 <thead>
@@ -397,7 +397,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimi
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>rangeNotificationDistanceInMeters</code> - <p>The default distance setting for <a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a> notification. A configuration value of 0 is only allowed for
- <a href="sdk-for-android-navigate-index#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> and <a href="sdk-for-android-navigate-index#rangeNotificationTimeInSeconds"><code>rangeNotificationTimeInSeconds</code></a>. It means that the maneuver notifications of type
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationTimeInSeconds"><code>rangeNotificationTimeInSeconds</code></a>. It means that the maneuver notifications of type
  <a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a> should be generated as soon as the maneuver location is known - no matter how far away it may be.
  <table>
 <thead>
@@ -413,7 +413,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimi
 </tbody>
 </table></p></dd>
 <dd><code>rangeNotificationTimeInSeconds</code> - <p>The default time setting for <a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a> notification. A configuration value of 0 is only allowed for
- <a href="sdk-for-android-navigate-index#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> and <a href="sdk-for-android-navigate-index#rangeNotificationTimeInSeconds"><code>rangeNotificationTimeInSeconds</code></a>. It means that the maneuver notifications of type
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationTimeInSeconds"><code>rangeNotificationTimeInSeconds</code></a>. It means that the maneuver notifications of type
  <a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a> should be generated as soon as the maneuver location is known - no matter how far away it may be.
  <table>
 <thead>

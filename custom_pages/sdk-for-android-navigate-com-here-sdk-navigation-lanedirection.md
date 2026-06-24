@@ -53,59 +53,59 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanedirection"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HARD_LEFT">HARD_LEFT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#HARD_LEFT">HARD_LEFT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A lane direction that goes hard left.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HARD_RIGHT">HARD_RIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#HARD_RIGHT">HARD_RIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A lane direction that goes hard right.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MERGE_LANES">MERGE_LANES</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#MERGE_LANES">MERGE_LANES</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A lane direction that merges with the lane an other lane.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MERGE_LEFT">MERGE_LEFT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#MERGE_LEFT">MERGE_LEFT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A lane direction that merges with the lane one the left.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MERGE_RIGHT">MERGE_RIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#MERGE_RIGHT">MERGE_RIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A lane direction that merges with the lane one the right.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#QUITE_LEFT">QUITE_LEFT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#QUITE_LEFT">QUITE_LEFT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A lane direction that goes quite left.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#QUITE_RIGHT">QUITE_RIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#QUITE_RIGHT">QUITE_RIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A lane direction that goes quite right.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SECOND_LEFT">SECOND_LEFT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#SECOND_LEFT">SECOND_LEFT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A lane direction that leads to the second turn to the left.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SECOND_RIGHT">SECOND_RIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#SECOND_RIGHT">SECOND_RIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A lane direction that leads to the second turn to the right.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SLIGHT_LEFT">SLIGHT_LEFT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#SLIGHT_LEFT">SLIGHT_LEFT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A lane direction that goes slightly left.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SLIGHT_RIGHT">SLIGHT_RIGHT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#SLIGHT_RIGHT">SLIGHT_RIGHT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A lane direction that goes slightly right.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#STRAIGHT">STRAIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#STRAIGHT">STRAIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A lane direction that goes straight up.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#U_TURN_LEFT">U_TURN_LEFT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#U_TURN_LEFT">U_TURN_LEFT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A lane direction that makes a left u-turn.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#U_TURN_RIGHT">U_TURN_RIGHT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#U_TURN_RIGHT">U_TURN_RIGHT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A lane direction that makes a right u-turn.</div>
 </div>
@@ -124,12 +124,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanedirection"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

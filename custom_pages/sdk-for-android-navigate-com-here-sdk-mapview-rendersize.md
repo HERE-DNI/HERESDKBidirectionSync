@@ -55,7 +55,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-rendersize"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">RenderSize</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-rendersize#%3Cinit%3E()">RenderSize</a>()</code></div>
 
 </div>
 </section>

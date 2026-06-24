@@ -43,97 +43,97 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationenginebase"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addLocationIssueListener(com.here.sdk.location.LocationIssueListener)">addLocationIssueListener</a><wbr/>(<a href="sdk-for-android-navigate-locationissuelistener" title="interface in com.here.sdk.location">LocationIssueListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#addLocationIssueListener(com.here.sdk.location.LocationIssueListener)">addLocationIssueListener</a><wbr/>(<a href="sdk-for-android-navigate-locationissuelistener" title="interface in com.here.sdk.location">LocationIssueListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Adds a <a href="sdk-for-android-navigate-locationissuelistener" title="interface in com.here.sdk.location"><code>LocationIssueListener</code></a> to the engine to get notified when a location issue has occurred.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addLocationListener(com.here.sdk.core.LocationListener)">addLocationListener</a><wbr/>(<a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a> listener)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#addLocationListener(com.here.sdk.core.LocationListener)">addLocationListener</a><wbr/>(<a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a> listener)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Adds a <code>LocationListener</code> to the engine to get notified when there is a new location
  update available.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addLocationStatusListener(com.here.sdk.location.LocationStatusListener)">addLocationStatusListener</a><wbr/>(<a href="sdk-for-android-navigate-locationstatuslistener" title="interface in com.here.sdk.location">LocationStatusListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#addLocationStatusListener(com.here.sdk.location.LocationStatusListener)">addLocationStatusListener</a><wbr/>(<a href="sdk-for-android-navigate-locationstatuslistener" title="interface in com.here.sdk.location">LocationStatusListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Adds a <code>LocationStatusListener</code> to the engine to get notified when there is an important
  status change.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-confirmationstatus" title="enum class in com.here.sdk.location">ConfirmationStatus</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#confirmHEREPrivacyNoticeException()">confirmHEREPrivacyNoticeException</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#confirmHEREPrivacyNoticeException()">confirmHEREPrivacyNoticeException</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">By calling this method, the application developer confirms that they have received an exceptional permission
  from HERE in written form to <strong>not</strong> include a reference to the HERE Privacy Notice.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-confirmationstatus" title="enum class in com.here.sdk.location">ConfirmationStatus</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#confirmHEREPrivacyNoticeInclusion()">confirmHEREPrivacyNoticeInclusion</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#confirmHEREPrivacyNoticeInclusion()">confirmHEREPrivacyNoticeInclusion</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">It is the responsibility of the application developer to ensure that
  the application user is informed about the collection of characteristic information
  regarding nearby mobile and Wi-Fi network signals.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#disableVehicleSensors()">disableVehicleSensors</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#disableVehicleSensors()">disableVehicleSensors</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Disables access to vehicle's sensor information.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#enableVehicleSensors(androidx.car.app.hardware.CarHardwareManager)">enableVehicleSensors</a><wbr/>(androidx.car.app.hardware.CarHardwareManager manager)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#enableVehicleSensors(androidx.car.app.hardware.CarHardwareManager)">enableVehicleSensors</a><wbr/>(androidx.car.app.hardware.CarHardwareManager manager)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">This feature enables the utilization of the vehicle's GNSS and movement sensor information.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getLastKnownLocation()">getLastKnownLocation</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#getLastKnownLocation()">getLastKnownLocation</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the last known location obtained by the <code>LocationEngine</code>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isStarted()">isStarted</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#isStarted()">isStarted</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Checks if the engine is in started state.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeLocationIssueListener(com.here.sdk.location.LocationIssueListener)">removeLocationIssueListener</a><wbr/>(<a href="sdk-for-android-navigate-locationissuelistener" title="interface in com.here.sdk.location">LocationIssueListener</a> listener)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#removeLocationIssueListener(com.here.sdk.location.LocationIssueListener)">removeLocationIssueListener</a><wbr/>(<a href="sdk-for-android-navigate-locationissuelistener" title="interface in com.here.sdk.location">LocationIssueListener</a> listener)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Removes a <a href="sdk-for-android-navigate-locationissuelistener" title="interface in com.here.sdk.location"><code>LocationIssueListener</code></a> from the engine.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeLocationListener(com.here.sdk.core.LocationListener)">removeLocationListener</a><wbr/>(<a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#removeLocationListener(com.here.sdk.core.LocationListener)">removeLocationListener</a><wbr/>(<a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Removes a <code>LocationListener</code> from the engine.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeLocationStatusListener(com.here.sdk.location.LocationStatusListener)">removeLocationStatusListener</a><wbr/>(<a href="sdk-for-android-navigate-locationstatuslistener" title="interface in com.here.sdk.location">LocationStatusListener</a> listener)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#removeLocationStatusListener(com.here.sdk.location.LocationStatusListener)">removeLocationStatusListener</a><wbr/>(<a href="sdk-for-android-navigate-locationstatuslistener" title="interface in com.here.sdk.location">LocationStatusListener</a> listener)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Removes a <code>LocationStatusListener</code> from the engine.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setLastKnownLocationPersistent(boolean)">setLastKnownLocationPersistent</a><wbr/>(boolean persistent)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#setLastKnownLocationPersistent(boolean)">setLastKnownLocationPersistent</a><wbr/>(boolean persistent)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Enables or disables saving of last known location so that it persists between application sessions.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#start(com.here.sdk.location.LocationAccuracy)">start</a><wbr/>(<a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a> locationAccuracy)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#start(com.here.sdk.location.LocationAccuracy)">start</a><wbr/>(<a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a> locationAccuracy)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Starts the location engine with desired <a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location"><code>LocationAccuracy</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#start(com.here.sdk.location.LocationOptions)">start</a><wbr/>(<a href="sdk-for-android-navigate-locationoptions" title="class in com.here.sdk.location">LocationOptions</a> locationOptions)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#start(com.here.sdk.location.LocationOptions)">start</a><wbr/>(<a href="sdk-for-android-navigate-locationoptions" title="class in com.here.sdk.location">LocationOptions</a> locationOptions)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Starts the location engine with desired <a href="sdk-for-android-navigate-locationoptions" title="class in com.here.sdk.location"><code>LocationOptions</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#stop()">stop</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#stop()">stop</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Stops the location engine.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#updateLocationAccuracy(com.here.sdk.location.LocationAccuracy)">updateLocationAccuracy</a><wbr/>(<a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a> locationAccuracy)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#updateLocationAccuracy(com.here.sdk.location.LocationAccuracy)">updateLocationAccuracy</a><wbr/>(<a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a> locationAccuracy)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Reconfigures the location engine with desired <a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location"><code>LocationAccuracy</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#updateLocationOptions(com.here.sdk.location.LocationOptions)">updateLocationOptions</a><wbr/>(<a href="sdk-for-android-navigate-locationoptions" title="class in com.here.sdk.location">LocationOptions</a> locationOptions)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#updateLocationOptions(com.here.sdk.location.LocationOptions)">updateLocationOptions</a><wbr/>(<a href="sdk-for-android-navigate-locationoptions" title="class in com.here.sdk.location">LocationOptions</a> locationOptions)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Reconfigures the location engine with desired <a href="sdk-for-android-navigate-locationoptions" title="class in com.here.sdk.location"><code>LocationOptions</code></a>.</div>
 </div>
@@ -158,8 +158,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationenginebase"
 </span><span class="return-type"><a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a></span> <span class="element-name">start</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a> locationAccuracy)</span></div>
 <div class="block"><p>Starts the location engine with desired <a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location"><code>LocationAccuracy</code></a>. Returns
- <a href="sdk-for-android-navigate-locationenginestatus#ALREADY_STARTED"><code>LocationEngineStatus.ALREADY_STARTED</code></a>, if <a href="sdk-for-android-navigate-index#start(com.here.sdk.location.LocationOptions)"><code>start(LocationOptions)</code></a> is called again without <a href="sdk-for-android-navigate-index#stop()"><code>stop()</code></a> in between.
- Make sure to call either <a href="sdk-for-android-navigate-index#confirmHEREPrivacyNoticeInclusion()"><code>confirmHEREPrivacyNoticeInclusion()</code></a> or <a href="sdk-for-android-navigate-index#confirmHEREPrivacyNoticeException()"><code>confirmHEREPrivacyNoticeException()</code></a> beforehand.</p></div>
+ <a href="sdk-for-android-navigate-locationenginestatus#ALREADY_STARTED"><code>LocationEngineStatus.ALREADY_STARTED</code></a>, if <a href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#start(com.here.sdk.location.LocationOptions)"><code>start(LocationOptions)</code></a> is called again without <a href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#stop()"><code>stop()</code></a> in between.
+ Make sure to call either <a href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#confirmHEREPrivacyNoticeInclusion()"><code>confirmHEREPrivacyNoticeInclusion()</code></a> or <a href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#confirmHEREPrivacyNoticeException()"><code>confirmHEREPrivacyNoticeException()</code></a> beforehand.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locationAccuracy</code> - <p>Desired location accuracy. Requested accuracy is not guaranteed.</p></dd>
@@ -175,8 +175,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationenginebase"
 </span><span class="return-type"><a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a></span> <span class="element-name">start</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-locationoptions" title="class in com.here.sdk.location">LocationOptions</a> locationOptions)</span></div>
 <div class="block"><p>Starts the location engine with desired <a href="sdk-for-android-navigate-locationoptions" title="class in com.here.sdk.location"><code>LocationOptions</code></a>. Returns
- <a href="sdk-for-android-navigate-locationenginestatus#ALREADY_STARTED"><code>LocationEngineStatus.ALREADY_STARTED</code></a>, if <a href="sdk-for-android-navigate-index#start(com.here.sdk.location.LocationOptions)"><code>start(LocationOptions)</code></a> is called again without <a href="sdk-for-android-navigate-index#stop()"><code>stop()</code></a> in between.
- Make sure to call either <a href="sdk-for-android-navigate-index#confirmHEREPrivacyNoticeInclusion()"><code>confirmHEREPrivacyNoticeInclusion()</code></a> or <a href="sdk-for-android-navigate-index#confirmHEREPrivacyNoticeException()"><code>confirmHEREPrivacyNoticeException()</code></a> beforehand.</p></div>
+ <a href="sdk-for-android-navigate-locationenginestatus#ALREADY_STARTED"><code>LocationEngineStatus.ALREADY_STARTED</code></a>, if <a href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#start(com.here.sdk.location.LocationOptions)"><code>start(LocationOptions)</code></a> is called again without <a href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#stop()"><code>stop()</code></a> in between.
+ Make sure to call either <a href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#confirmHEREPrivacyNoticeInclusion()"><code>confirmHEREPrivacyNoticeInclusion()</code></a> or <a href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#confirmHEREPrivacyNoticeException()"><code>confirmHEREPrivacyNoticeException()</code></a> beforehand.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locationOptions</code> - <p>Desired location options.</p></dd>
@@ -192,7 +192,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationenginebase"
 </span><span class="return-type"><a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a></span> <span class="element-name">updateLocationAccuracy</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a> locationAccuracy)</span></div>
 <div class="block"><p>Reconfigures the location engine with desired <a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location"><code>LocationAccuracy</code></a>. This method is a faster way to change location accuracy for already started
- location engine, than calling <a href="sdk-for-android-navigate-index#stop()"><code>stop()</code></a> and <a href="sdk-for-android-navigate-index#start(com.here.sdk.location.LocationOptions)"><code>start(LocationOptions)</code></a> in sequence. Returns <a href="sdk-for-android-navigate-locationenginestatus#NOT_READY"><code>LocationEngineStatus.NOT_READY</code></a>,
+ location engine, than calling <a href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#stop()"><code>stop()</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#start(com.here.sdk.location.LocationOptions)"><code>start(LocationOptions)</code></a> in sequence. Returns <a href="sdk-for-android-navigate-locationenginestatus#NOT_READY"><code>LocationEngineStatus.NOT_READY</code></a>,
  if called for unstarted location engine.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -209,7 +209,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationenginebase"
 </span><span class="return-type"><a href="sdk-for-android-navigate-locationenginestatus" title="enum class in com.here.sdk.location">LocationEngineStatus</a></span> <span class="element-name">updateLocationOptions</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-locationoptions" title="class in com.here.sdk.location">LocationOptions</a> locationOptions)</span></div>
 <div class="block"><p>Reconfigures the location engine with desired <a href="sdk-for-android-navigate-locationoptions" title="class in com.here.sdk.location"><code>LocationOptions</code></a>. This method is a faster way to change location options for already started
- location engine, than calling <a href="sdk-for-android-navigate-index#stop()"><code>stop()</code></a> and <a href="sdk-for-android-navigate-index#start(com.here.sdk.location.LocationOptions)"><code>start(LocationOptions)</code></a> in sequence. Returns <a href="sdk-for-android-navigate-locationenginestatus#NOT_READY"><code>LocationEngineStatus.NOT_READY</code></a>,
+ location engine, than calling <a href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#stop()"><code>stop()</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-location-locationenginebase#start(com.here.sdk.location.LocationOptions)"><code>start(LocationOptions)</code></a> in sequence. Returns <a href="sdk-for-android-navigate-locationenginestatus#NOT_READY"><code>LocationEngineStatus.NOT_READY</code></a>,
  if called for unstarted location engine.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

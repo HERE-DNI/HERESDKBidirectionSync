@@ -113,12 +113,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.HereMap)">TranslucentMapLayerGroup</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.HereMap)">TranslucentMapLayerGroup</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  <a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview">HereMap</a> aMap)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of the group.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.HereMap,com.here.sdk.mapview.MapLayerPriority)">TranslucentMapLayerGroup</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.HereMap,com.here.sdk.mapview.MapLayerPriority)">TranslucentMapLayerGroup</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  <a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview">HereMap</a> aMap,
  <a href="sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
 <div class="col-last odd-row-color">
@@ -139,12 +139,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#destroy()">destroy</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup#destroy()">destroy</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Frees all internally used resources.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#setPriority(com.here.sdk.mapview.MapLayerPriority)">setPriority</a><wbr/>(<a href="sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-translucentmaplayergroup#setPriority(com.here.sdk.mapview.MapLayerPriority)">setPriority</a><wbr/>(<a href="sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the render priority for the layer group which replaces any previously defined priority.</div>
 </div>

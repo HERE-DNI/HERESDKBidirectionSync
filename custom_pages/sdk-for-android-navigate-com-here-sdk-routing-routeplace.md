@@ -40,57 +40,57 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeplace"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#chargeInKilowattHours">chargeInKilowattHours</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#chargeInKilowattHours">chargeInKilowattHours</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Estimated battery charge in kWh for electric vehicles when leaving this place.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-chargingstation" title="class in com.here.sdk.routing">ChargingStation</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#chargingStation">chargingStation</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#chargingStation">chargingStation</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Charging station data for electric vehicles.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#displayCoordinates">displayCoordinates</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#displayCoordinates">displayCoordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Location of the Points of Interest (PoI) to be displayed in the visualization.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#id">id</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#id">id</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Identifier of a public transit place if available.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#mapMatchedCoordinates">mapMatchedCoordinates</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#mapMatchedCoordinates">mapMatchedCoordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map-matched geographic coordinates.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#name">name</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#name">name</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Name of a public transit place if available.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#originalCoordinates">originalCoordinates</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#originalCoordinates">originalCoordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">User-defined geographic coordinates.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#platform">platform</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#platform">platform</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Platform name or number of a public transit place if available.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-sideofdestination" title="enum class in com.here.sdk.routing">SideOfDestination</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#sideOfDestination">sideOfDestination</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#sideOfDestination">sideOfDestination</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Side of destination: left, right or undefined.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of the route place.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#waypointIndex">waypointIndex</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#waypointIndex">waypointIndex</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If available, this index corresponds to the waypoint in the original
  user-defined waypoint list.</div>
@@ -106,7 +106,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeplace"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.routing.RoutePlaceType,com.here.sdk.core.GeoCoordinates)">RoutePlace</a><wbr/>(<a href="sdk-for-android-navigate-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#%3Cinit%3E(com.here.sdk.routing.RoutePlaceType,com.here.sdk.core.GeoCoordinates)">RoutePlace</a><wbr/>(<a href="sdk-for-android-navigate-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type,
  <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> mapMatchedCoordinates)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -126,13 +126,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeplace"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#hashCode()">hashCode</a>()</code></div>
 
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isOffRoad()">isOffRoad</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeplace#isOffRoad()">isOffRoad</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Checks whether the <a href="sdk-for-android-navigate-routeplace" title="class in com.here.sdk.routing"><code>RoutePlace</code></a> is off-road or not.</div>
 </div>

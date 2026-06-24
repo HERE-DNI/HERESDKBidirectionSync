@@ -44,27 +44,27 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#aboveMaxText">aboveMaxText</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#aboveMaxText">aboveMaxText</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">String to display if there are more markers clustered than <a href="sdk-for-android-explore-index#maxCountNumber"><code>maxCountNumber</code></a>.</div>
+<div class="block">String to display if there are more markers clustered than <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#maxCountNumber"><code>maxCountNumber</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#fontSize">fontSize</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#fontSize">fontSize</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Font size of counter.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#maxCountNumber">maxCountNumber</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#maxCountNumber">maxCountNumber</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maximal number of markers represented as exact number.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#textAnchor">textAnchor</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textAnchor">textAnchor</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Anchor of counter in regards to marker cluster image.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#textColor">textColor</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textColor">textColor</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Font color of counter.</div>
 </div>
@@ -79,7 +79,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">CounterStyle</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#%3Cinit%3E()">CounterStyle</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -132,7 +132,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <h3>maxCountNumber</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">maxCountNumber</span></div>
 <div class="block"><p>Maximal number of markers represented as exact number. Values smaller than 2 will be clamped to 2.
- Default value is 99. When this value is changed, it is recommended to adapt <a href="sdk-for-android-explore-index#aboveMaxText"><code>aboveMaxText</code></a> accordingly.</p></div>
+ Default value is 99. When this value is changed, it is recommended to adapt <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#aboveMaxText"><code>aboveMaxText</code></a> accordingly.</p></div>
 </section>
 </li>
 <li>
@@ -140,7 +140,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <h3>aboveMaxText</h3>
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">aboveMaxText</span></div>
-<div class="block"><p>String to display if there are more markers clustered than <a href="sdk-for-android-explore-index#maxCountNumber"><code>maxCountNumber</code></a>. Default value is "+99".</p></div>
+<div class="block"><p>String to display if there are more markers clustered than <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#maxCountNumber"><code>maxCountNumber</code></a>. Default value is "+99".</p></div>
 </section>
 </li>
 </ul>

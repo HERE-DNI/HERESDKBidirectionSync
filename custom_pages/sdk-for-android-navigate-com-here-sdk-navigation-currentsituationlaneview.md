@@ -43,32 +43,32 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#access">access</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview#access">access</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates which vehicle types can access this lane.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-lanedirectioncategory" title="class in com.here.sdk.navigation">LaneDirectionCategory</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#directionCategory">directionCategory</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview#directionCategory">directionCategory</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates towards which directions this lane leads.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#directions">directions</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview#directions">directions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates which lane directions are available for this lane.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#directionsOnRoute">directionsOnRoute</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview#directionsOnRoute">directionsOnRoute</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates which lane directions are on the route.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-lanemarkings" title="class in com.here.sdk.navigation">LaneMarkings</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#laneMarkings">laneMarkings</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview#laneMarkings">laneMarkings</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the lane markings between the lanes.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-lanetype" title="class in com.here.sdk.navigation">LaneType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates this lane's properties.</div>
 </div>
@@ -83,7 +83,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.navigation.LaneAccess,com.here.sdk.navigation.LaneDirectionCategory,com.here.sdk.navigation.LaneType)">CurrentSituationLaneView</a><wbr/>(<a href="sdk-for-android-navigate-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a> access,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview#%3Cinit%3E(com.here.sdk.navigation.LaneAccess,com.here.sdk.navigation.LaneDirectionCategory,com.here.sdk.navigation.LaneType)">CurrentSituationLaneView</a><wbr/>(<a href="sdk-for-android-navigate-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a> access,
  <a href="sdk-for-android-navigate-lanedirectioncategory" title="class in com.here.sdk.navigation">LaneDirectionCategory</a> directionCategory,
  <a href="sdk-for-android-navigate-lanetype" title="class in com.here.sdk.navigation">LaneType</a> type)</code></div>
 <div class="col-last even-row-color">
@@ -104,10 +104,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

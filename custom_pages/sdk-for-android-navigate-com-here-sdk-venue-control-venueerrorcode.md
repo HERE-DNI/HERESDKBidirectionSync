@@ -53,59 +53,59 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BAD_REQUEST">BAD_REQUEST</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#BAD_REQUEST">BAD_REQUEST</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Bad request.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HRN_MISMATCH">HRN_MISMATCH</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#HRN_MISMATCH">HRN_MISMATCH</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">HRN missmatch.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HRN_MISSING">HRN_MISSING</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#HRN_MISSING">HRN_MISSING</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">HRN not provided</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INTERNAL_SERVER_ERROR">INTERNAL_SERVER_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#INTERNAL_SERVER_ERROR">INTERNAL_SERVER_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Internal Server error</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MAP_DATA_INCORRECT">MAP_DATA_INCORRECT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#MAP_DATA_INCORRECT">MAP_DATA_INCORRECT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map data incorrect</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MAP_ID_NOT_FOUND">MAP_ID_NOT_FOUND</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#MAP_ID_NOT_FOUND">MAP_ID_NOT_FOUND</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Map ID not found.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_DEFAULT_COLLECTION">NO_DEFAULT_COLLECTION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#NO_DEFAULT_COLLECTION">NO_DEFAULT_COLLECTION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Default collection missing.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_MAP_IN_COLLECTION">NO_MAP_IN_COLLECTION</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#NO_MAP_IN_COLLECTION">NO_MAP_IN_COLLECTION</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">No map available in collection</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_META_DATA_FOUND">NO_META_DATA_FOUND</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#NO_META_DATA_FOUND">NO_META_DATA_FOUND</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Meta data missing error.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_NETWORK">NO_NETWORK</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#NO_NETWORK">NO_NETWORK</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">No network</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NOT_FOUND">NOT_FOUND</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#NOT_FOUND">NOT_FOUND</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Requested resource not found.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PAYLOAD_TOO_LARGE">PAYLOAD_TOO_LARGE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#PAYLOAD_TOO_LARGE">PAYLOAD_TOO_LARGE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Payload too large.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SERVICE_UNAVAILABLE">SERVICE_UNAVAILABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#SERVICE_UNAVAILABLE">SERVICE_UNAVAILABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Service unavailable</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TOKEN_INVALID">TOKEN_INVALID</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#TOKEN_INVALID">TOKEN_INVALID</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Invalid authentication token</div>
 </div>
@@ -124,12 +124,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-venueerrorcode" title="enum class in com.here.sdk.venue.control">VenueErrorCode</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-venueerrorcode" title="enum class in com.here.sdk.venue.control">VenueErrorCode</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

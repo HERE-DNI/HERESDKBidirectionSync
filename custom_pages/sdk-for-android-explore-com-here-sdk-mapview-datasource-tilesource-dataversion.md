@@ -44,12 +44,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-datave
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#majorVersion">majorVersion</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion#majorVersion">majorVersion</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Major version number.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#minorVersion">minorVersion</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion#minorVersion">minorVersion</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Minor version number.</div>
 </div>
@@ -64,7 +64,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-datave
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(int,int)">DataVersion</a><wbr/>(int majorVersion,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion#%3Cinit%3E(int,int)">DataVersion</a><wbr/>(int majorVersion,
  int minorVersion)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>

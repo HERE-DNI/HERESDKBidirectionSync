@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-ca
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">CarBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-carbuilder#%3Cinit%3E()">CarBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -63,13 +63,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-transportspecification-ca
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#build()">build</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-carbuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Builds the <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a car with the specifications taken
  from the <a href="sdk-for-android-navigate-transportspecification.carbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a> object.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-transportspecification.carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification</a><wbr/>(<a href="sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification-carbuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification</a><wbr/>(<a href="sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle specification.</div>
 </div>

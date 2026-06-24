@@ -53,35 +53,35 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AUTHENTICATION">AUTHENTICATION</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#AUTHENTICATION">AUTHENTICATION</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates base url for <code>Authentication</code>.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DS_PROXY">DS_PROXY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#DS_PROXY">DS_PROXY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies the endpoint URL for a map catalog.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ISOLINE_ROUTING_ENGINE">ISOLINE_ROUTING_ENGINE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#ISOLINE_ROUTING_ENGINE">ISOLINE_ROUTING_ENGINE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates a <code>IsolineRoutingEngine</code> endpoint.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RASTER_TILE_SERVICE">RASTER_TILE_SERVICE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#RASTER_TILE_SERVICE">RASTER_TILE_SERVICE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates a <code>Raster Tile API</code> endpoint.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ROUTING_ENGINE">ROUTING_ENGINE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#ROUTING_ENGINE">ROUTING_ENGINE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates a <code>RoutingEngine</code> endpoint.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SEARCH_ENGINE">SEARCH_ENGINE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#SEARCH_ENGINE">SEARCH_ENGINE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates a <code>SearchEngine</code> endpoint.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_DATA">TRAFFIC_DATA</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#TRAFFIC_DATA">TRAFFIC_DATA</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates a <code>Traffic Data</code> endpoint.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TRAFFIC_VECTOR_TILE_SERVICE">TRAFFIC_VECTOR_TILE_SERVICE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#TRAFFIC_VECTOR_TILE_SERVICE">TRAFFIC_VECTOR_TILE_SERVICE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates a <code>Traffic Vector Tile API</code> endpoint.</div>
 </div>
@@ -100,12 +100,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -174,11 +174,11 @@ the order they are declared.</div>
 <div class="block"><p>Specifies the endpoint URL for a map catalog. This is only relevant for the Navigate license that uses
  OCM based map data when a custom catalog configuration
  should be loaded.
- By default, the data Service proxy, in short <a href="sdk-for-android-explore-index#DS_PROXY"><code>DS_PROXY</code></a>, is set to "https://direct.data.api.platform.here.com/direct/v1".
+ By default, the data Service proxy, in short <a href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#DS_PROXY"><code>DS_PROXY</code></a>, is set to "https://direct.data.api.platform.here.com/direct/v1".
  When a custom catalog should be used, then the HERE SDK will internally do a lookup request
  to find out which URL to use to access catalog. In order to bypass this extra request, we
  recommend to set the URL upfront when initializing the HERE SDK.
- For example, a valid <a href="sdk-for-android-explore-index#DS_PROXY"><code>DS_PROXY</code></a> for a custom catalog may look like this:
+ For example, a valid <a href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#DS_PROXY"><code>DS_PROXY</code></a> for a custom catalog may look like this:
  "https://data.api.platform.yourcompany.com/direct/v1".
  Note that this is not a network proxy setting.
  If you do not load a custom catalog configuration, you can ignore this setting.</p></div>
@@ -191,7 +191,7 @@ the order they are declared.</div>
 <div class="block"><p>Indicates a <code>Traffic Data</code> endpoint.
  Note that the provided string value will replace the base URL.
  This is only relevant for TrafficEngine. For traffic incident and flow presented in the map view,
- please use <a href="sdk-for-android-explore-index#TRAFFIC_VECTOR_TILE_SERVICE"><code>TRAFFIC_VECTOR_TILE_SERVICE</code></a>.</p></div>
+ please use <a href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#TRAFFIC_VECTOR_TILE_SERVICE"><code>TRAFFIC_VECTOR_TILE_SERVICE</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -200,7 +200,7 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a></span> <span class="element-name">TRAFFIC_VECTOR_TILE_SERVICE</span></div>
 <div class="block"><p>Indicates a <code>Traffic Vector Tile API</code> endpoint.
  Note that the provided string value will replace the base URL.
- This is only relevant for traffic presented in the map view. For the TrafficEngine, please use <a href="sdk-for-android-explore-index#TRAFFIC_DATA"><code>TRAFFIC_DATA</code></a>.
+ This is only relevant for traffic presented in the map view. For the TrafficEngine, please use <a href="sdk-for-android-explore-com-here-sdk-core-engine-enginebaseurl#TRAFFIC_DATA"><code>TRAFFIC_DATA</code></a>.
  </p><p>The service needs to comply with https://www.here.com/docs/bundle/traffic-vector-tile-api-v2-api-reference/page/index.html
  The endpoint name for this engine is "v2/traffictiles". A valid base string value
  could look like "www.my-company.com". The resulting URL looks like this:

@@ -43,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-sdkcachecallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onCompleted(com.here.sdk.maploader.MapLoaderError)">onCompleted</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> maploaderError)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-sdkcachecallback#onCompleted(com.here.sdk.maploader.MapLoaderError)">onCompleted</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> maploaderError)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-sdkcache#clearCache(com.here.sdk.maploader.SDKCacheCallback)"><code>SDKCache.clearCache(com.here.sdk.maploader.SDKCacheCallback)</code></a> has been completed.</div>
 </div>

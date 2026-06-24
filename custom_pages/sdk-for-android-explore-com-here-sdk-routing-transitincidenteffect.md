@@ -53,31 +53,31 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ADDITIONAL_SERVICE">ADDITIONAL_SERVICE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect#ADDITIONAL_SERVICE">ADDITIONAL_SERVICE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Additional service</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CANCELLED_SERVICE">CANCELLED_SERVICE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect#CANCELLED_SERVICE">CANCELLED_SERVICE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Cancelled service</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DELAYS">DELAYS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect#DELAYS">DELAYS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Delays</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DETOUR">DETOUR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect#DETOUR">DETOUR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Detour</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#MODIFIED_SERVICE">MODIFIED_SERVICE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect#MODIFIED_SERVICE">MODIFIED_SERVICE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Modified service</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#REDUCED_SERVICE">REDUCED_SERVICE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect#REDUCED_SERVICE">REDUCED_SERVICE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Reduced service</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#STOP_MOVED">STOP_MOVED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect#STOP_MOVED">STOP_MOVED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Stop moved</div>
 </div>
@@ -96,12 +96,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

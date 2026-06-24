@@ -40,22 +40,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routedeviation"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#currentLocation">currentLocation</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routedeviation#currentLocation">currentLocation</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The current location.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lastLocationOnRoute">lastLocationOnRoute</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routedeviation#lastLocationOnRoute">lastLocationOnRoute</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The last known location on the route.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#lastTraveledSectionIndex">lastTraveledSectionIndex</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routedeviation#lastTraveledSectionIndex">lastTraveledSectionIndex</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the index of the last traveled route section.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#traveledDistanceOnLastSectionInMeters">traveledDistanceOnLastSectionInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routedeviation#traveledDistanceOnLastSectionInMeters">traveledDistanceOnLastSectionInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Offset in meter to the last visited position on the route section defined by the last traveled section index.</div>
 </div>
@@ -70,7 +70,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routedeviation"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.navigation.NavigableLocation,int,int,com.here.sdk.navigation.NavigableLocation)">RouteDeviation</a><wbr/>(<a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> lastLocationOnRoute,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routedeviation#%3Cinit%3E(com.here.sdk.navigation.NavigableLocation,int,int,com.here.sdk.navigation.NavigableLocation)">RouteDeviation</a><wbr/>(<a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> lastLocationOnRoute,
  int lastTraveledSectionIndex,
  int traveledDistanceOnLastSectionInMeters,
  <a href="sdk-for-android-navigate-navigablelocation" title="class in com.here.sdk.navigation">NavigableLocation</a> currentLocation)</code></div>
@@ -92,10 +92,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routedeviation"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routedeviation#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routedeviation#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

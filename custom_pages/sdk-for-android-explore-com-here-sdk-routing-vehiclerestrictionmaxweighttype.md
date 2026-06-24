@@ -34,9 +34,9 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweightt
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-vehiclerestrictionmaxweighttype" title="enum class in com.here.sdk.routing">VehicleRestrictionMaxWeightType</a>&gt;</span></div>
 <div class="block"><p>This enum represents the specific type of the maximum permitted weight restriction.
  <strong>NOTES:</strong>
- A restriction of type <a href="sdk-for-android-explore-index#UNKNOWN"><code>UNKNOWN</code></a> may change to <a href="sdk-for-android-explore-index#GROSS"><code>GROSS</code></a>, <a href="sdk-for-android-explore-index#CURRENT"><code>CURRENT</code></a> or <a href="sdk-for-android-explore-index#EMPTY"><code>EMPTY</code></a> when
+ A restriction of type <a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#UNKNOWN"><code>UNKNOWN</code></a> may change to <a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#GROSS"><code>GROSS</code></a>, <a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#CURRENT"><code>CURRENT</code></a> or <a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#EMPTY"><code>EMPTY</code></a> when
  data becomes available in future.
- A restriction of type <a href="sdk-for-android-explore-index#GROSS"><code>GROSS</code></a>, <a href="sdk-for-android-explore-index#CURRENT"><code>CURRENT</code></a> or <a href="sdk-for-android-explore-index#EMPTY"><code>EMPTY</code></a> may also change to a different type if actual regulation changes.</p></div>
+ A restriction of type <a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#GROSS"><code>GROSS</code></a>, <a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#CURRENT"><code>CURRENT</code></a> or <a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#EMPTY"><code>EMPTY</code></a> may also change to a different type if actual regulation changes.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -57,19 +57,19 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweightt
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CURRENT">CURRENT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#CURRENT">CURRENT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Restriction is for current weight.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#EMPTY">EMPTY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#EMPTY">EMPTY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Restriction is for empty weight.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#GROSS">GROSS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#GROSS">GROSS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Restriction is for gross weight.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#UNKNOWN">UNKNOWN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#UNKNOWN">UNKNOWN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Restriction may apply to gross or current weight.</div>
 </div>
@@ -88,12 +88,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweightt
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-vehiclerestrictionmaxweighttype" title="enum class in com.here.sdk.routing">VehicleRestrictionMaxWeightType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-vehiclerestrictionmaxweighttype" title="enum class in com.here.sdk.routing">VehicleRestrictionMaxWeightType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweighttype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

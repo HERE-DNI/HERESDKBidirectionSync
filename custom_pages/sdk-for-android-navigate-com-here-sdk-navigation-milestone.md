@@ -45,27 +45,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-milestone"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#mapMatchedCoordinates">mapMatchedCoordinates</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-milestone#mapMatchedCoordinates">mapMatchedCoordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map-matched geographic coordinates.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#originalCoordinates">originalCoordinates</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-milestone#originalCoordinates">originalCoordinates</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">User-defined geographic coordinates.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#sectionIndex">sectionIndex</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-milestone#sectionIndex">sectionIndex</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Index of the section on the route.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-milestonetype" title="enum class in com.here.sdk.navigation">MilestoneType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-milestone#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of this Milestone</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#waypointIndex">waypointIndex</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-milestone#waypointIndex">waypointIndex</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">If present, this index corresponds to the waypoint in the original
  user-defined waypoint list.</div>
@@ -81,7 +81,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-milestone"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(int,java.lang.Integer,com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCoordinates,com.here.sdk.navigation.MilestoneType)">Milestone</a><wbr/>(int sectionIndex,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-milestone#%3Cinit%3E(int,java.lang.Integer,com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCoordinates,com.here.sdk.navigation.MilestoneType)">Milestone</a><wbr/>(int sectionIndex,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a> waypointIndex,
  <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> originalCoordinates,
  <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> mapMatchedCoordinates,
@@ -104,10 +104,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-milestone"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-milestone#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-milestone#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

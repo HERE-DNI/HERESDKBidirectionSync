@@ -30,10 +30,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-locationindicator"
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Graphical object to represent the location of the user on the map.
  </p><p>It is either a green dot for pedestrian style or a triangular arrow for vehicle navigation style.
- This style can be changed by <a href="sdk-for-android-navigate-index#setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)"><code>setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)</code></a>
-</p><p>The location is made available to an instance of this class by calling <a href="sdk-for-android-navigate-index#updateLocation(com.here.sdk.core.Location)"><code>updateLocation(Location)</code></a> or
- <a href="sdk-for-android-navigate-index#updateLocation(com.here.sdk.core.Location,com.here.sdk.mapview.MapCameraUpdate)"><code>updateLocation(Location, MapCameraUpdate)</code></a>.
- </p><p>Use <a href="sdk-for-android-navigate-index#enable(com.here.sdk.mapview.MapViewBase)"><code>enable(com.here.sdk.mapview.MapViewBase)</code></a> to add this object to the map and <a href="sdk-for-android-navigate-index#disable()"><code>disable()</code></a> to remove it.
+ This style can be changed by <a href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)"><code>setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)</code></a>
+</p><p>The location is made available to an instance of this class by calling <a href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#updateLocation(com.here.sdk.core.Location)"><code>updateLocation(Location)</code></a> or
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#updateLocation(com.here.sdk.core.Location,com.here.sdk.mapview.MapCameraUpdate)"><code>updateLocation(Location, MapCameraUpdate)</code></a>.
+ </p><p>Use <a href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#enable(com.here.sdk.mapview.MapViewBase)"><code>enable(com.here.sdk.mapview.MapViewBase)</code></a> to add this object to the map and <a href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#disable()"><code>disable()</code></a> to remove it.
  </p><p>Take care that the
  location indicator is not accidentally added to the map view multiple times for example when the
  android activity is recreated after an orientation change.
@@ -74,11 +74,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-locationindicator"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">LocationIndicator</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#%3Cinit%3E()">LocationIndicator</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of LocationIndicator.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.MapViewBase)">LocationIndicator</a><wbr/>(<a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#%3Cinit%3E(com.here.sdk.mapview.MapViewBase)">LocationIndicator</a><wbr/>(<a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates an instance of LocationIndicator and adds it to provided <a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>.</div>
 </div>
@@ -97,69 +97,69 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-locationindicator"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#disable()">disable</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#disable()">disable</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">This function removes <a href="sdk-for-android-navigate-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> from map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#enable(com.here.sdk.mapview.MapViewBase)">enable</a><wbr/>(<a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#enable(com.here.sdk.mapview.MapViewBase)">enable</a><wbr/>(<a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Enables <a href="sdk-for-android-navigate-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> for provided <a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)">getHaloColor</a><wbr/>(<a href="sdk-for-android-navigate-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#getHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)">getHaloColor</a><wbr/>(<a href="sdk-for-android-navigate-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Retrieves the color of the accuracy indicator halo for the requested IndicatorStyle.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getLocationIndicatorStyle()">getLocationIndicatorStyle</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#getLocationIndicatorStyle()">getLocationIndicatorStyle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns visual style of location indicator.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getMaterialReflectivity()">getMaterialReflectivity</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#getMaterialReflectivity()">getMaterialReflectivity</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Retrieves the material reflectivity applied to all markers of location indicator.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getOpacity()">getOpacity</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#getOpacity()">getOpacity</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current opacity of the location indicator.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isAccuracyVisualized()">isAccuracyVisualized</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#isAccuracyVisualized()">isAccuracyVisualized</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns whether <a href="sdk-for-android-navigate-location#horizontalAccuracyInMeters"><code>Location.horizontalAccuracyInMeters</code></a> is used to scale the accuracy indicator halo.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isActive()">isActive</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#isActive()">isActive</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns <code>true</code> if active version of the location indicator is shown or <code>false</code>
  when inactive version is shown.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setAccuracyVisualized(boolean)">setAccuracyVisualized</a><wbr/>(boolean value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#setAccuracyVisualized(boolean)">setAccuracyVisualized</a><wbr/>(boolean value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets whether <a href="sdk-for-android-navigate-location#horizontalAccuracyInMeters"><code>Location.horizontalAccuracyInMeters</code></a> is used to scale the accuracy indicator halo.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setActive(boolean)">setActive</a><wbr/>(boolean value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#setActive(boolean)">setActive</a><wbr/>(boolean value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets whether the active or inactive version of location indicator is to be shown.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle,com.here.sdk.core.Color)">setHaloColor</a><wbr/>(<a href="sdk-for-android-navigate-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#setHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle,com.here.sdk.core.Color)">setHaloColor</a><wbr/>(<a href="sdk-for-android-navigate-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style,
  <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the color of the accuracy indicator halo for a given style.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)">setLocationIndicatorStyle</a><wbr/>(<a href="sdk-for-android-navigate-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)">setLocationIndicatorStyle</a><wbr/>(<a href="sdk-for-android-navigate-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the visual style of location indicator.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType)">setMarker3dModel</a><wbr/>(<a href="sdk-for-android-navigate-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType)">setMarker3dModel</a><wbr/>(<a href="sdk-for-android-navigate-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
  double scale,
  <a href="sdk-for-android-navigate-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> type)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
@@ -168,7 +168,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-locationindicator"
 </div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType,com.here.sdk.mapview.RenderSize.Unit)">setMarker3dModel</a><wbr/>(<a href="sdk-for-android-navigate-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType,com.here.sdk.mapview.RenderSize.Unit)">setMarker3dModel</a><wbr/>(<a href="sdk-for-android-navigate-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
  double scale,
  <a href="sdk-for-android-navigate-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> type,
  <a href="sdk-for-android-navigate-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> renderSizeUnit)</code></div>
@@ -176,22 +176,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-locationindicator"
 <div class="block">Sets the <a href="sdk-for-android-navigate-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> asset to be displayed as location indicator for a specified type.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setMaterialReflectivity(com.here.sdk.mapview.MaterialReflectivity)">setMaterialReflectivity</a><wbr/>(<a href="sdk-for-android-navigate-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#setMaterialReflectivity(com.here.sdk.mapview.MaterialReflectivity)">setMaterialReflectivity</a><wbr/>(<a href="sdk-for-android-navigate-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the material reflectivity properties for all markers of location indicator including its halo.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setOpacity(double)">setOpacity</a><wbr/>(double value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#setOpacity(double)">setOpacity</a><wbr/>(double value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the opacity of the location indicator.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#updateLocation(com.here.sdk.core.Location)">updateLocation</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#updateLocation(com.here.sdk.core.Location)">updateLocation</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Updates the indicator to a new location.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#updateLocation(com.here.sdk.core.Location,com.here.sdk.mapview.MapCameraUpdate)">updateLocation</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#updateLocation(com.here.sdk.core.Location,com.here.sdk.mapview.MapCameraUpdate)">updateLocation</a><wbr/>(<a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location,
  <a href="sdk-for-android-navigate-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Updates the indicator to a new location and applies a camera update at the same time.</div>
@@ -422,12 +422,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-locationindicator"
 <div class="block"><p>Sets whether <a href="sdk-for-android-navigate-location#horizontalAccuracyInMeters"><code>Location.horizontalAccuracyInMeters</code></a> is used to scale the accuracy indicator halo.
  Default is <code>false</code>, in which case the halo has a fixed and zoom level independent size.
  </p><p>When set to <code>true</code>, the radius of the halo corresponds to the value of
- <a href="sdk-for-android-navigate-location#horizontalAccuracyInMeters"><code>Location.horizontalAccuracyInMeters</code></a> passed to <a href="sdk-for-android-navigate-index#updateLocation(com.here.sdk.core.Location)"><code>updateLocation(Location)</code></a>
+ <a href="sdk-for-android-navigate-location#horizontalAccuracyInMeters"><code>Location.horizontalAccuracyInMeters</code></a> passed to <a href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#updateLocation(com.here.sdk.core.Location)"><code>updateLocation(Location)</code></a>
  and scales in world coordinates.
  </p><p>For values smaller than 20 meters the halo is hidden.
  The radius of the halo is limited to 500 meters and values higher than that or <code>null</code>
  will keep the halo at that size.
- </p><p>If the location indicator is set to inactive (which can be checked via <a href="sdk-for-android-navigate-index#isActive()"><code>isActive()</code></a> flag),
+ </p><p>If the location indicator is set to inactive (which can be checked via <a href="sdk-for-android-navigate-com-here-sdk-mapview-locationindicator#isActive()"><code>isActive()</code></a> flag),
  then the halo is always hidden. The value of this property remains unchanged regardless of the flag's value.
  If the location indicator is set to active:
  <ul>

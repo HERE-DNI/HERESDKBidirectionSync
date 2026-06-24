@@ -40,37 +40,37 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#description">description</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#description">description</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the description of the environmental zone in the available languages.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceInMeters">distanceInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#distanceInMeters">distanceInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The distance from the current location to the environmental zone.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceType">distanceType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#distanceType">distanceType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates if the specified zone is ahead of the vehicle or has just passed by.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#id">id</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#id">id</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Unique identifier for this specific environmental zone warning instance.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#name">name</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#name">name</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the official name of the environmental zone.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#websiteUrl">websiteUrl</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#websiteUrl">websiteUrl</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates the website of the environmental zone, if available.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#zoneId">zoneId</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#zoneId">zoneId</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the environmental zone id in the map data.</div>
 </div>
@@ -85,7 +85,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,com.here.sdk.navigation.DistanceType,java.lang.String,java.lang.String)">EnvironmentalZoneWarning</a><wbr/>(double distanceInMeters,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#%3Cinit%3E(double,com.here.sdk.navigation.DistanceType,java.lang.String,java.lang.String)">EnvironmentalZoneWarning</a><wbr/>(double distanceInMeters,
  <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> zoneId,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
@@ -107,10 +107,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -151,7 +151,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>Indicates if the specified zone is ahead of the vehicle or has just passed by. If it is
- ahead, then <a href="sdk-for-android-navigate-index#distanceInMeters"><code>distanceInMeters</code></a> is greater than 0.</p></div>
+ ahead, then <a href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#distanceInMeters"><code>distanceInMeters</code></a> is greater than 0.</p></div>
 </section>
 </li>
 <li>
@@ -209,7 +209,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning
 <dt>Parameters:</dt>
 <dd><code>distanceInMeters</code> - <p>The distance from the current location to the environmental zone.</p></dd>
 <dd><code>distanceType</code> - <p>Indicates if the specified zone is ahead of the vehicle or has just passed by. If it is
- ahead, then <a href="sdk-for-android-navigate-index#distanceInMeters"><code>distanceInMeters</code></a> is greater than 0.</p></dd>
+ ahead, then <a href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#distanceInMeters"><code>distanceInMeters</code></a> is greater than 0.</p></dd>
 <dd><code>zoneId</code> - <p>Indicates the environmental zone id in the map data.</p></dd>
 <dd><code>name</code> - <p>Indicates the official name of the environmental zone.</p></dd>
 </dl>

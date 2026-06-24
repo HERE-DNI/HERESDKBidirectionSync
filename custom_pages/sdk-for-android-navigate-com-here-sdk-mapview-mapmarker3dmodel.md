@@ -97,31 +97,31 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarker3dmodel"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.Mesh)">MapMarker3DModel</a><wbr/>(<a href="sdk-for-android-navigate-mesh" title="class in com.here.sdk.mapview">Mesh</a> mesh)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker3dmodel#%3Cinit%3E(com.here.sdk.mapview.Mesh)">MapMarker3DModel</a><wbr/>(<a href="sdk-for-android-navigate-mesh" title="class in com.here.sdk.mapview">Mesh</a> mesh)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new 3D model from a mesh.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.Mesh,java.lang.String)">MapMarker3DModel</a><wbr/>(<a href="sdk-for-android-navigate-mesh" title="class in com.here.sdk.mapview">Mesh</a> mesh,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker3dmodel#%3Cinit%3E(com.here.sdk.mapview.Mesh,java.lang.String)">MapMarker3DModel</a><wbr/>(<a href="sdk-for-android-navigate-mesh" title="class in com.here.sdk.mapview">Mesh</a> mesh,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> textureFilePath)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new 3D model from mesh and texture.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.mapview.Mesh,java.lang.String,com.here.sdk.core.Color)">MapMarker3DModel</a><wbr/>(<a href="sdk-for-android-navigate-mesh" title="class in com.here.sdk.mapview">Mesh</a> mesh,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker3dmodel#%3Cinit%3E(com.here.sdk.mapview.Mesh,java.lang.String,com.here.sdk.core.Color)">MapMarker3DModel</a><wbr/>(<a href="sdk-for-android-navigate-mesh" title="class in com.here.sdk.mapview">Mesh</a> mesh,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> textureFilePath,
  <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new 3D model from mesh, texture and color.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String)">MapMarker3DModel</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> geometryFilePath)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker3dmodel#%3Cinit%3E(java.lang.String)">MapMarker3DModel</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> geometryFilePath)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new 3D model from path to .obj file.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,java.lang.String)">MapMarker3DModel</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> geometryFilePath,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker3dmodel#%3Cinit%3E(java.lang.String,java.lang.String)">MapMarker3DModel</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> geometryFilePath,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> textureFilePath)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new 3D model from path to .obj file and texture.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.core.Color)">MapMarker3DModel</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> geometryFilePath,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapmarker3dmodel#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.core.Color)">MapMarker3DModel</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> geometryFilePath,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> textureFilePath,
  <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
 <div class="col-last odd-row-color">

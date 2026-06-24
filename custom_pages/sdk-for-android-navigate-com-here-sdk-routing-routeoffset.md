@@ -43,12 +43,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoffset"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#offsetInMeters">offsetInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeoffset#offsetInMeters">offsetInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Offset from the start of the indexed <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a> to the specified location along the route.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#sectionIndex">sectionIndex</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeoffset#sectionIndex">sectionIndex</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Index of the corresponding route <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</div>
 </div>
@@ -63,7 +63,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoffset"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(int,double)">RouteOffset</a><wbr/>(int sectionIndex,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-routeoffset#%3Cinit%3E(int,double)">RouteOffset</a><wbr/>(int sectionIndex,
  double offsetInMeters)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>

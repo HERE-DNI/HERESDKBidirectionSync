@@ -55,67 +55,67 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearcherror"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#AUTHENTICATION_FAILED">AUTHENTICATION_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#AUTHENTICATION_FAILED">AUTHENTICATION_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">EVCP3 operation is not authenticated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#BAD_REQUEST">BAD_REQUEST</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#BAD_REQUEST">BAD_REQUEST</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Something wrong or missing in the request.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#EMPTY_IDS">EMPTY_IDS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#EMPTY_IDS">EMPTY_IDS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Empty list of IDs passed.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#EXCEEDED_USAGE_LIMIT">EXCEEDED_USAGE_LIMIT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#EXCEEDED_USAGE_LIMIT">EXCEEDED_USAGE_LIMIT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Credentials exceeded the allowed requests limit.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#HTTP_ERROR">HTTP_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#HTTP_ERROR">HTTP_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A general network request error.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#INTERNAL_ERROR">INTERNAL_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#INTERNAL_ERROR">INTERNAL_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Generic internal error.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#INVALID_ID">INVALID_ID</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#INVALID_ID">INVALID_ID</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">At least one empty or invalid ID passed.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#NO_RESULTS_FOUND">NO_RESULTS_FOUND</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#NO_RESULTS_FOUND">NO_RESULTS_FOUND</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">No results found.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OFFLINE">OFFLINE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#OFFLINE">OFFLINE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The device has no internet connection.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OPERATION_CANCELLED">OPERATION_CANCELLED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#OPERATION_CANCELLED">OPERATION_CANCELLED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The request was cancelled (usually by the user).</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#OPERATION_FAILED">OPERATION_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#OPERATION_FAILED">OPERATION_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Search operation failed due to some reason.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PARSING_ERROR">PARSING_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#PARSING_ERROR">PARSING_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">EVCP3 backend returns result with unexpected json schema.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PROXY_AUTHENTICATION_FAILED">PROXY_AUTHENTICATION_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#PROXY_AUTHENTICATION_FAILED">PROXY_AUTHENTICATION_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Proxy is not authenticated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PROXY_SERVER_UNREACHABLE">PROXY_SERVER_UNREACHABLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#PROXY_SERVER_UNREACHABLE">PROXY_SERVER_UNREACHABLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Proxy server unreachable.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#SERVER_UNREACHABLE">SERVER_UNREACHABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#SERVER_UNREACHABLE">SERVER_UNREACHABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">EVCP3 server is unreachable.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#TIMED_OUT">TIMED_OUT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#TIMED_OUT">TIMED_OUT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The request timed out.</div>
 </div>
@@ -134,12 +134,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearcherror"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-evsearcherror" title="enum class in com.here.sdk.search">EVSearchError</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-evsearcherror" title="enum class in com.here.sdk.search">EVSearchError</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearcherror#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

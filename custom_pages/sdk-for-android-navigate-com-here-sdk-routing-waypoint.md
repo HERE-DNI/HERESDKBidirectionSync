@@ -40,75 +40,75 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-chargingstop" title="class in com.here.sdk.routing">ChargingStop</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#chargingStop">chargingStop</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#chargingStop">chargingStop</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies of a user-planned charging stop.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#coordinates">coordinates</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#coordinates">coordinates</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The waypoint's geographic coordinates.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#currentWeightChangeInKilograms">currentWeightChangeInKilograms</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#currentWeightChangeInKilograms">currentWeightChangeInKilograms</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Changes the value of <code>vehicle[currentWeight]</code> by this value.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#displayLocation">displayLocation</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#displayLocation">displayLocation</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional coordinates to indicate physical location of the Points of Interest (PoI).</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#duration">duration</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#duration">duration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The duration in seconds that should be spent at a waypoint of type <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#headingInDegrees">headingInDegrees</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#headingInDegrees">headingInDegrees</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional heading angle referenced by true North, clockwise specifying
  the direction of travel.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-matchsideofstreet" title="enum class in com.here.sdk.routing">MatchSideOfStreet</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#matchSideOfStreet">matchSideOfStreet</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#matchSideOfStreet">matchSideOfStreet</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Specifies how the location set by <a href="sdk-for-android-navigate-index#sideOfStreetHint"><code>sideOfStreetHint</code></a> should be handled.</div>
+<div class="block">Specifies how the location set by <a href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#sideOfStreetHint"><code>sideOfStreetHint</code></a> should be handled.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#minCourseDistanceInMeters">minCourseDistanceInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#minCourseDistanceInMeters">minCourseDistanceInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional distance in meters during which the user wants to avoid taking actions.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#nameHint">nameHint</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#nameHint">nameHint</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Optional name hint causes the router to look for the place with the most similar name.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onRoadThresholdInMeters">onRoadThresholdInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#onRoadThresholdInMeters">onRoadThresholdInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional threshold allows specifying a distance within which the waypoint could be considered
  as being on a highway/bridge/tunnel/sliproad.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#segmentHint">segmentHint</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#segmentHint">segmentHint</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Optional segment hint causes the router to try and match to the specified segment.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#sideOfStreetHint">sideOfStreetHint</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#sideOfStreetHint">sideOfStreetHint</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional coordinates to indicate which side of the street should be used to reach the waypoint.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#transitRadiusInMeters">transitRadiusInMeters</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#transitRadiusInMeters">transitRadiusInMeters</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The maximum allowed distance from the waypoint that the calculated
  route may pass through.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines how a waypoint should be considered for route calculation.</div>
 </div>
@@ -123,11 +123,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Waypoint</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Waypoint</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,com.here.time.Duration)">Waypoint</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,com.here.time.Duration)">Waypoint</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  <a href="sdk-for-android-navigate-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a> type,
  int transitRadiusInMeters,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> headingInDegrees,
@@ -137,7 +137,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,java.lang.String,com.here.time.Duration)">Waypoint</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,java.lang.String,com.here.time.Duration)">Waypoint</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  <a href="sdk-for-android-navigate-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a> type,
  int transitRadiusInMeters,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> headingInDegrees,
@@ -163,10 +163,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>
@@ -213,7 +213,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
  If the route should pass the waypoint as close as possible, the default value
  should be kept. Note that the waypoint will be map-matched to a road.
  Non-zero values allow a greater tolerance.
- Note that <a href="sdk-for-android-navigate-index#sideOfStreetHint"><code>sideOfStreetHint</code></a> option is ignored if the user sets this option with a value
+ Note that <a href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#sideOfStreetHint"><code>sideOfStreetHint</code></a> option is ignored if the user sets this option with a value
  greater than zero.</p></div>
 </section>
 </li>
@@ -238,7 +238,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <div class="block"><p>Optional coordinates to indicate which side of the street should be used to reach the waypoint.
  For example, if the location is to the left of the street, the router will prefer using that side
  in case the street has dividers.
- Note that this option is ignored if the user sets <a href="sdk-for-android-navigate-index#transitRadiusInMeters"><code>transitRadiusInMeters</code></a> option with a
+ Note that this option is ignored if the user sets <a href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#transitRadiusInMeters"><code>transitRadiusInMeters</code></a> option with a
  value greater than zero.</p></div>
 </section>
 </li>
@@ -248,7 +248,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">displayLocation</span></div>
 <div class="block"><p>Optional coordinates to indicate physical location of the Points of Interest (PoI).
- It is different from coordinates and <a href="sdk-for-android-navigate-index#sideOfStreetHint"><code>sideOfStreetHint</code></a> which are generally expected to to be
+ It is different from coordinates and <a href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#sideOfStreetHint"><code>sideOfStreetHint</code></a> which are generally expected to to be
  on the navigable road network and can be different from actual location of the PoI.
  display_location is used for visualization of the PoI regardless of road network.</p></div>
 </section>
@@ -279,7 +279,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <h3>matchSideOfStreet</h3>
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-matchsideofstreet" title="enum class in com.here.sdk.routing">MatchSideOfStreet</a></span> <span class="element-name">matchSideOfStreet</span></div>
-<div class="block"><p>Specifies how the location set by <a href="sdk-for-android-navigate-index#sideOfStreetHint"><code>sideOfStreetHint</code></a> should be handled. Note that this setting might affect the geometry of the resulting route.</p></div>
+<div class="block"><p>Specifies how the location set by <a href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#sideOfStreetHint"><code>sideOfStreetHint</code></a> should be handled. Note that this setting might affect the geometry of the resulting route.</p></div>
 </section>
 </li>
 <li>
@@ -398,7 +398,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
  If the route should pass the waypoint as close as possible, the default value
  should be kept. Note that the waypoint will be map-matched to a road.
  Non-zero values allow a greater tolerance.
- Note that <a href="sdk-for-android-navigate-index#sideOfStreetHint"><code>sideOfStreetHint</code></a> option is ignored if the user sets this option with a value
+ Note that <a href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#sideOfStreetHint"><code>sideOfStreetHint</code></a> option is ignored if the user sets this option with a value
  greater than zero.</p></dd>
 <dd><code>headingInDegrees</code> - <p>Optional heading angle referenced by true North, clockwise specifying
  the direction of travel. The heading direction may help the routing algorithm to select
@@ -409,7 +409,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <dd><code>sideOfStreetHint</code> - <p>Optional coordinates to indicate which side of the street should be used to reach the waypoint.
  For example, if the location is to the left of the street, the router will prefer using that side
  in case the street has dividers.
- Note that this option is ignored if the user sets <a href="sdk-for-android-navigate-index#transitRadiusInMeters"><code>transitRadiusInMeters</code></a> option with a
+ Note that this option is ignored if the user sets <a href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#transitRadiusInMeters"><code>transitRadiusInMeters</code></a> option with a
  value greater than zero.</p></dd>
 <dd><code>minCourseDistanceInMeters</code> - <p>Optional distance in meters during which the user wants to avoid taking actions. For example, if
  the origin is set by a moving vehicle, the user might not have time to react to immediate actions such
@@ -452,7 +452,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
  If the route should pass the waypoint as close as possible, the default value
  should be kept. Note that the waypoint will be map-matched to a road.
  Non-zero values allow a greater tolerance.
- Note that <a href="sdk-for-android-navigate-index#sideOfStreetHint"><code>sideOfStreetHint</code></a> option is ignored if the user sets this option with a value
+ Note that <a href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#sideOfStreetHint"><code>sideOfStreetHint</code></a> option is ignored if the user sets this option with a value
  greater than zero.</p></dd>
 <dd><code>headingInDegrees</code> - <p>Optional heading angle referenced by true North, clockwise specifying
  the direction of travel. The heading direction may help the routing algorithm to select
@@ -463,7 +463,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <dd><code>sideOfStreetHint</code> - <p>Optional coordinates to indicate which side of the street should be used to reach the waypoint.
  For example, if the location is to the left of the street, the router will prefer using that side
  in case the street has dividers.
- Note that this option is ignored if the user sets <a href="sdk-for-android-navigate-index#transitRadiusInMeters"><code>transitRadiusInMeters</code></a> option with a
+ Note that this option is ignored if the user sets <a href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#transitRadiusInMeters"><code>transitRadiusInMeters</code></a> option with a
  value greater than zero.</p></dd>
 <dd><code>minCourseDistanceInMeters</code> - <p>Optional distance in meters during which the user wants to avoid taking actions. For example, if
  the origin is set by a moving vehicle, the user might not have time to react to immediate actions such

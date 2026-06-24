@@ -53,39 +53,39 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CAR_LIFT">CAR_LIFT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures#CAR_LIFT">CAR_LIFT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This part of the route requires the usage of a car lift.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#CONNECTOR">CONNECTOR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures#CONNECTOR">CONNECTOR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Generic connector for indoor routing.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#DRIVE_RAMP">DRIVE_RAMP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures#DRIVE_RAMP">DRIVE_RAMP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This part of the route requires the usage of a drive ramp.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ELEVATOR">ELEVATOR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures#ELEVATOR">ELEVATOR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">This part of the route requires the usage of an elevator.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ELEVATOR_BANK">ELEVATOR_BANK</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures#ELEVATOR_BANK">ELEVATOR_BANK</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This part of the route requires the usage of an elevator bank.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#ESCALATOR">ESCALATOR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures#ESCALATOR">ESCALATOR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">This part of the route requires the usage of an escalator.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#PEDESTRIAN_RAMP">PEDESTRIAN_RAMP</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures#PEDESTRIAN_RAMP">PEDESTRIAN_RAMP</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This part of the route requires the usage of a pedestrian ramp.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#RAMP">RAMP</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures#RAMP">RAMP</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">This part of the route requires the usage of a ramp.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#STAIRS">STAIRS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures#STAIRS">STAIRS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This part of the route requires the usage of stairs.</div>
 </div>
@@ -104,12 +104,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">IndoorLevelChangeFeatures</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">IndoorLevelChangeFeatures</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangefeatures#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

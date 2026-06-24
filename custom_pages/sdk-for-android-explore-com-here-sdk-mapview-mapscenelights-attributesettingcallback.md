@@ -47,7 +47,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesett
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onAttributeSetting(com.here.sdk.mapview.MapSceneLights.AttributeSettingError)">onAttributeSetting</a><wbr/>(<a href="sdk-for-android-explore-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a> setLightError)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingcallback#onAttributeSetting(com.here.sdk.mapview.MapSceneLights.AttributeSettingError)">onAttributeSetting</a><wbr/>(<a href="sdk-for-android-explore-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a> setLightError)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">This callback function allows handling errors that occur during the setting of light attributes.</div>
 </div>

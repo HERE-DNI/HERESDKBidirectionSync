@@ -45,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-searchcallbackextended"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onSearchExtendedCompleted(com.here.sdk.search.SearchError,java.util.List,com.here.sdk.search.ResponseDetails)">onSearchExtendedCompleted</a><wbr/>(<a href="sdk-for-android-navigate-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searchcallbackextended#onSearchExtendedCompleted(com.here.sdk.search.SearchError,java.util.List,com.here.sdk.search.ResponseDetails)">onSearchExtendedCompleted</a><wbr/>(<a href="sdk-for-android-navigate-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search">Place</a>&gt; places,
  <a href="sdk-for-android-navigate-responsedetails" title="class in com.here.sdk.search">ResponseDetails</a> responseDetails)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">

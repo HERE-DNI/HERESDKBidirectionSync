@@ -42,27 +42,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hazardousMaterial">hazardousMaterial</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#hazardousMaterial">hazardousMaterial</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Hazardous material condition associated with this profile.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#requestedVehicleType">requestedVehicleType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#requestedVehicleType">requestedVehicleType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Vehicle type to which this restriction applies.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#requiredAmountOfTrailers">requiredAmountOfTrailers</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#requiredAmountOfTrailers">requiredAmountOfTrailers</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Trailer count limits.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#requiredGrossWeightInKilograms">requiredGrossWeightInKilograms</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#requiredGrossWeightInKilograms">requiredGrossWeightInKilograms</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Gross weight limits in kilograms.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#requiredWeightInKilograms">requiredWeightInKilograms</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#requiredWeightInKilograms">requiredWeightInKilograms</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Weight limits in kilograms.</div>
 </div>
@@ -77,7 +77,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.core.IntegerRange,com.here.sdk.core.IntegerRange,com.here.sdk.core.IntegerRange,com.here.sdk.mapdata.HazardousMaterialType)">VehicleProfileRestriction</a><wbr/>(<a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredWeightInKilograms,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#%3Cinit%3E(com.here.sdk.core.IntegerRange,com.here.sdk.core.IntegerRange,com.here.sdk.core.IntegerRange,com.here.sdk.mapdata.HazardousMaterialType)">VehicleProfileRestriction</a><wbr/>(<a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredWeightInKilograms,
  <a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredGrossWeightInKilograms,
  <a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredAmountOfTrailers,
  <a href="sdk-for-android-navigate-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a> hazardousMaterial)</code></div>
@@ -99,10 +99,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

@@ -41,12 +41,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconprope
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#countryCode">countryCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconproperties#countryCode">countryCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies country specific version of the icon.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#restriction">restriction</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconproperties#restriction">restriction</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Vehicle restriction to generate icon for.</div>
 </div>
@@ -61,11 +61,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconprope
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.transport.VehicleRestriction)">VehicleRestrictionIconProperties</a><wbr/>(<a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> restriction)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconproperties#%3Cinit%3E(com.here.sdk.transport.VehicleRestriction)">VehicleRestrictionIconProperties</a><wbr/>(<a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> restriction)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates icon properties for specified restriction.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(com.here.sdk.transport.VehicleRestriction,com.here.sdk.core.CountryCode)">VehicleRestrictionIconProperties</a><wbr/>(<a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> restriction,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-vehiclerestrictioniconproperties#%3Cinit%3E(com.here.sdk.transport.VehicleRestriction,com.here.sdk.core.CountryCode)">VehicleRestrictionIconProperties</a><wbr/>(<a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> restriction,
  <a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates icon properties for specified restriction and country.</div>

@@ -35,8 +35,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-drawordertype"
 <div class="block"><p>Specifies the type of map item draw order. Map item rendering behavior is chosen based on the draw order type.
  </p><p>Regardless of a draw order type map items with a higher draw order are drawn on top of map items with a lower draw order.
  </p><p>When having map items in a scene with the same draw order, but with different draw order types
- <a href="sdk-for-android-navigate-index#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a> and <a href="sdk-for-android-navigate-index#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a>,
- <a href="sdk-for-android-navigate-index#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a> items will be rendered on top of <a href="sdk-for-android-navigate-index#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-drawordertype#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-mapview-drawordertype#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a>,
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-drawordertype#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a> items will be rendered on top of <a href="sdk-for-android-navigate-com-here-sdk-mapview-drawordertype#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a>
  ones.</p></div>
 </section>
 <section class="summary">
@@ -58,11 +58,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-drawordertype"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MAP_SCENE_ADDITION_ORDER_DEPENDENT">MAP_SCENE_ADDITION_ORDER_DEPENDENT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-drawordertype#MAP_SCENE_ADDITION_ORDER_DEPENDENT">MAP_SCENE_ADDITION_ORDER_DEPENDENT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Draw order depends on the order of map item addition to a map scene.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MAP_SCENE_ADDITION_ORDER_INDEPENDENT">MAP_SCENE_ADDITION_ORDER_INDEPENDENT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-drawordertype#MAP_SCENE_ADDITION_ORDER_INDEPENDENT">MAP_SCENE_ADDITION_ORDER_INDEPENDENT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Draw order does not depend on the order of map item addition to a map scene.</div>
 </div>
@@ -81,12 +81,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-drawordertype"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-drawordertype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-drawordertype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

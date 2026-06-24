@@ -47,516 +47,516 @@ extends <a href="sdk-for-android-navigate-locationlistener" title="interface in 
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#calculateRemainingDistanceInMeters(com.here.sdk.core.GeoCoordinates)">calculateRemainingDistanceInMeters</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#calculateRemainingDistanceInMeters(com.here.sdk.core.GeoCoordinates)">calculateRemainingDistanceInMeters</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">This method calculates the distance between the current position and given coordinates.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-bordercrossingwarninglistener" title="interface in com.here.sdk.navigation">BorderCrossingWarningListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getBorderCrossingWarningListener()">getBorderCrossingWarningListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getBorderCrossingWarningListener()">getBorderCrossingWarningListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener to receive notifications about border crossings on the current road.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-bordercrossingwarningoptions" title="class in com.here.sdk.navigation">BorderCrossingWarningOptions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getBorderCrossingWarningOptions()">getBorderCrossingWarningOptions</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getBorderCrossingWarningOptions()">getBorderCrossingWarningOptions</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets border crossing warning options to be passed to <a href="sdk-for-android-navigate-bordercrossingwarninglistener" title="interface in com.here.sdk.navigation"><code>BorderCrossingWarningListener</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-currentsituationlaneassistanceviewlistener" title="interface in com.here.sdk.navigation">CurrentSituationLaneAssistanceViewListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getCurrentSituationLaneAssistanceViewListener()">getCurrentSituationLaneAssistanceViewListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getCurrentSituationLaneAssistanceViewListener()">getCurrentSituationLaneAssistanceViewListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener  to receive current situation lane assistance view notifications.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-dangerzonewarninglistener" title="interface in com.here.sdk.navigation">DangerZoneWarningListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDangerZoneWarningListener()">getDangerZoneWarningListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getDangerZoneWarningListener()">getDangerZoneWarningListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener to receive current danger zones notifications.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-destinationreachedlistener" title="interface in com.here.sdk.navigation">DestinationReachedListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDestinationReachedListener()">getDestinationReachedListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getDestinationReachedListener()">getDestinationReachedListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener that notify when the destination has been reached.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-environmentalzonewarninglistener" title="interface in com.here.sdk.navigation">EnvironmentalZoneWarningListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getEnvironmentalZoneWarningListener()">getEnvironmentalZoneWarningListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getEnvironmentalZoneWarningListener()">getEnvironmentalZoneWarningListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener to receive current environmental zones notifications.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation">EventTextListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getEventTextListener()">getEventTextListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getEventTextListener()">getEventTextListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener that notifies when a text notification is available.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-eventtextoptions" title="class in com.here.sdk.navigation">EventTextOptions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getEventTextOptions()">getEventTextOptions</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getEventTextOptions()">getEventTextOptions</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the text notification options.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-junctionviewlaneassistancelistener" title="interface in com.here.sdk.navigation">JunctionViewLaneAssistanceListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getJunctionViewLaneAssistanceListener()">getJunctionViewLaneAssistanceListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getJunctionViewLaneAssistanceListener()">getJunctionViewLaneAssistanceListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener  to receive junction view lane assistance notifications.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-locationmanager" title="class in com.here.sdk.mapmatcher">LocationManager</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getLocationManager()">getLocationManager</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getLocationManager()">getLocationManager</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the location manager instance used by the navigator.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-lowspeedzonewarninglistener" title="interface in com.here.sdk.navigation">LowSpeedZoneWarningListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getLowSpeedZoneWarningListener()">getLowSpeedZoneWarningListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getLowSpeedZoneWarningListener()">getLowSpeedZoneWarningListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener to receive notifications about low speed zones on the current road.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing">Maneuver</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getManeuver(int)">getManeuver</a><wbr/>(int index)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getManeuver(int)">getManeuver</a><wbr/>(int index)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Returns maneuver at the given index.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-maneuvernotificationoptions" title="class in com.here.sdk.navigation">ManeuverNotificationOptions</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getManeuverNotificationOptions()">getManeuverNotificationOptions</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getManeuverNotificationOptions()">getManeuverNotificationOptions</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the maneuver notification options.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-maneuvernotificationtimingoptions" title="class in com.here.sdk.navigation">ManeuverNotificationTimingOptions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getManeuverNotificationTimingOptions(com.here.sdk.transport.TransportMode,com.here.sdk.navigation.TimingProfile)">getManeuverNotificationTimingOptions</a><wbr/>(<a href="sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getManeuverNotificationTimingOptions(com.here.sdk.transport.TransportMode,com.here.sdk.navigation.TimingProfile)">getManeuverNotificationTimingOptions</a><wbr/>(<a href="sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode,
  <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation">TimingProfile</a> timingProfile)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Returns maneuver notification timing options with default values given the combination of transport mode and timing profile.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-maneuverviewlaneassistancelistener" title="interface in com.here.sdk.navigation">ManeuverViewLaneAssistanceListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getManeuverViewLaneAssistanceListener()">getManeuverViewLaneAssistanceListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getManeuverViewLaneAssistanceListener()">getManeuverViewLaneAssistanceListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener  to receive maneuver view lane assistance notifications.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-milestonestatuslistener" title="interface in com.here.sdk.navigation">MilestoneStatusListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getMilestoneStatusListener()">getMilestoneStatusListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getMilestoneStatusListener()">getMilestoneStatusListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener that notifies when a <a href="sdk-for-android-navigate-milestone" title="class in com.here.sdk.navigation"><code>Milestone</code></a> has been reached or missed.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-navigablelocationlistener" title="interface in com.here.sdk.navigation">NavigableLocationListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getNavigableLocationListener()">getNavigableLocationListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getNavigableLocationListener()">getNavigableLocationListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener that notifies current location updates.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-offroaddestinationreachedlistener" title="interface in com.here.sdk.navigation">OffRoadDestinationReachedListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getOffRoadDestinationReachedListener()">getOffRoadDestinationReachedListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getOffRoadDestinationReachedListener()">getOffRoadDestinationReachedListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener that notifies when the off-road destination has been reached.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-offroadprogresslistener" title="interface in com.here.sdk.navigation">OffRoadProgressListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getOffRoadProgressListener()">getOffRoadProgressListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getOffRoadProgressListener()">getOffRoadProgressListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener that notifies about off-road progress.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-postactionlistener" title="interface in com.here.sdk.navigation">PostActionListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPostActionListener()">getPostActionListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getPostActionListener()">getPostActionListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener  to receive post action notifications, such as a charge action at a charging station.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-railwaycrossingwarninglistener" title="interface in com.here.sdk.navigation">RailwayCrossingWarningListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRailwayCrossingWarningListener()">getRailwayCrossingWarningListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getRailwayCrossingWarningListener()">getRailwayCrossingWarningListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener to receive notifications about railway crossings on the current road.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation">RealisticViewWarningListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRealisticViewWarningListener()">getRealisticViewWarningListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getRealisticViewWarningListener()">getRealisticViewWarningListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener to receive notifications about junction views on the current road.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-realisticviewwarningoptions" title="class in com.here.sdk.navigation">RealisticViewWarningOptions</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRealisticViewWarningOptions()">getRealisticViewWarningOptions</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getRealisticViewWarningOptions()">getRealisticViewWarningOptions</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets realistic view warning options that allow to filter realistic views to be passed to
  <a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation"><code>RealisticViewWarningListener</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-roadattributeslistener" title="interface in com.here.sdk.navigation">RoadAttributesListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRoadAttributesListener()">getRoadAttributesListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getRoadAttributesListener()">getRoadAttributesListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener  to receive notifications about attributes of the current road.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-roadsignwarninglistener" title="interface in com.here.sdk.navigation">RoadSignWarningListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRoadSignWarningListener()">getRoadSignWarningListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getRoadSignWarningListener()">getRoadSignWarningListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener to receive notifications about road signs on the current road.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-roadsignwarningoptions" title="class in com.here.sdk.navigation">RoadSignWarningOptions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRoadSignWarningOptions()">getRoadSignWarningOptions</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getRoadSignWarningOptions()">getRoadSignWarningOptions</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets road sign warning options that allow to filter road signs to be passed to <a href="sdk-for-android-navigate-roadsignwarninglistener" title="interface in com.here.sdk.navigation"><code>RoadSignWarningListener</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-roadtextslistener" title="interface in com.here.sdk.navigation">RoadTextsListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRoadTextsListener()">getRoadTextsListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getRoadTextsListener()">getRoadTextsListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener  to receive notifications about the textual attributes of the current road.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRoute()">getRoute</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getRoute()">getRoute</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the route that is being navigated.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-routedeviationlistener" title="interface in com.here.sdk.navigation">RouteDeviationListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRouteDeviationListener()">getRouteDeviationListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getRouteDeviationListener()">getRouteDeviationListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener that notifies when deviation from the route is observed.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-routeprogresslistener" title="interface in com.here.sdk.navigation">RouteProgressListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getRouteProgressListener()">getRouteProgressListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getRouteProgressListener()">getRouteProgressListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener that notifies when a route progress change occurs.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-safetycamerawarninglistener" title="interface in com.here.sdk.navigation">SafetyCameraWarningListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSafetyCameraWarningListener()">getSafetyCameraWarningListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getSafetyCameraWarningListener()">getSafetyCameraWarningListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener  to receive safety camera warning notifications.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-safetycamerawarningoptions" title="class in com.here.sdk.navigation">SafetyCameraWarningOptions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSafetyCameraWarningOptions()">getSafetyCameraWarningOptions</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getSafetyCameraWarningOptions()">getSafetyCameraWarningOptions</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets safety camera warning options to be passed to <a href="sdk-for-android-navigate-safetycamerawarninglistener" title="interface in com.here.sdk.navigation"><code>SafetyCameraWarningListener</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-schoolzonewarninglistener" title="interface in com.here.sdk.navigation">SchoolZoneWarningListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSchoolZoneWarningListener()">getSchoolZoneWarningListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getSchoolZoneWarningListener()">getSchoolZoneWarningListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener to receive notifications about school zones on the current road.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-schoolzonewarningoptions" title="class in com.here.sdk.navigation">SchoolZoneWarningOptions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSchoolZoneWarningOptions()">getSchoolZoneWarningOptions</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getSchoolZoneWarningOptions()">getSchoolZoneWarningOptions</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets school zone warning options that allow to configure school zone notifications to be
  passed to <a href="sdk-for-android-navigate-schoolzonewarninglistener" title="interface in com.here.sdk.navigation"><code>SchoolZoneWarningListener</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-speedlimitlistener" title="interface in com.here.sdk.navigation">SpeedLimitListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSpeedLimitListener()">getSpeedLimitListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getSpeedLimitListener()">getSpeedLimitListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener  to receive notifications about the speed limit of the current road.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-speedwarninglistener" title="interface in com.here.sdk.navigation">SpeedWarningListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSpeedWarningListener()">getSpeedWarningListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getSpeedWarningListener()">getSpeedWarningListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener to receive notifications
  when a speed limit on a road is exceeded or driving speed is restored back to normal.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-speedwarningoptions" title="class in com.here.sdk.navigation">SpeedWarningOptions</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getSpeedWarningOptions()">getSpeedWarningOptions</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getSpeedWarningOptions()">getSpeedWarningOptions</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the speed warning options.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-tollstopwarninglistener" title="interface in com.here.sdk.navigation">TollStopWarningListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTollStopWarningListener()">getTollStopWarningListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getTollStopWarningListener()">getTollStopWarningListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener to receive notifications about
  the the upcoming toll stop.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6"><code><a href="sdk-for-android-navigate-transportprofile" title="class in com.here.sdk.core">TransportProfile</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTrackingTransportProfile()">getTrackingTransportProfile</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getTrackingTransportProfile()">getTrackingTransportProfile</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment">Will be removed in v4.28.0.</div>
 </div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTrackingTransportSpecification()">getTrackingTransportSpecification</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getTrackingTransportSpecification()">getTrackingTransportSpecification</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the transport specification for the <a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>, when no route is present.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-trafficmergewarninglistener" title="interface in com.here.sdk.navigation">TrafficMergeWarningListener</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTrafficMergeWarningListener()">getTrafficMergeWarningListener</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getTrafficMergeWarningListener()">getTrafficMergeWarningListener</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener to receive notifications about
  merging traffic to the current road.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-trafficmergewarningoptions" title="class in com.here.sdk.navigation">TrafficMergeWarningOptions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTrafficMergeWarningOptions()">getTrafficMergeWarningOptions</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getTrafficMergeWarningOptions()">getTrafficMergeWarningOptions</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets merging traffic warning options that allow to configure merging traffic notifications to be
  passed to <a href="sdk-for-android-navigate-trafficmergewarninglistener" title="interface in com.here.sdk.navigation"><code>TrafficMergeWarningListener</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-trafficonroute" title="class in com.here.sdk.routing">TrafficOnRoute</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTrafficOnRoute()">getTrafficOnRoute</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getTrafficOnRoute()">getTrafficOnRoute</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the traffic information for the current route.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-truckrestrictionswarninglistener" title="interface in com.here.sdk.navigation">TruckRestrictionsWarningListener</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTruckRestrictionsWarningListener()">getTruckRestrictionsWarningListener</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getTruckRestrictionsWarningListener()">getTruckRestrictionsWarningListener</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the listener  to receive notifications about
  truck restrictions on the current road.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-truckrestrictionswarningoptions" title="class in com.here.sdk.navigation">TruckRestrictionsWarningOptions</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTruckRestrictionsWarningOptions()">getTruckRestrictionsWarningOptions</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getTruckRestrictionsWarningOptions()">getTruckRestrictionsWarningOptions</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets truck restrictions warning options that allow to filter truck restrictions to be
  passed to <a href="sdk-for-android-navigate-truckrestrictionswarninglistener" title="interface in com.here.sdk.navigation"><code>TruckRestrictionsWarningListener</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-warnerengine" title="class in com.here.sdk.warner">WarnerEngine</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getWarnerEngine()">getWarnerEngine</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getWarnerEngine()">getWarnerEngine</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the warner engine used by the navigator.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getWarningNotificationDistances(com.here.sdk.navigation.WarningType)">getWarningNotificationDistances</a><wbr/>(<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#getWarningNotificationDistances(com.here.sdk.navigation.WarningType)">getWarningNotificationDistances</a><wbr/>(<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Returns the warning notification distances for the requested warning type.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isEnableTunnelExtrapolation()">isEnableTunnelExtrapolation</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#isEnableTunnelExtrapolation()">isEnableTunnelExtrapolation</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Return <code>true</code> if tunnel extrapolation is enabled otherwise <code>false</code>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isPassthroughWaypointsHandlingEnabled()">isPassthroughWaypointsHandlingEnabled</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#isPassthroughWaypointsHandlingEnabled()">isPassthroughWaypointsHandlingEnabled</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Return <code>true</code> if handling of passthrough waypoints is enabled, otherwise - <code>false</code>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#repeatLastManeuverNotification()">repeatLastManeuverNotification</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#repeatLastManeuverNotification()">repeatLastManeuverNotification</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Call of this function is used to trigger the navigator to repeat the last maneuver notification based on the current position.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setBorderCrossingWarningListener(com.here.sdk.navigation.BorderCrossingWarningListener)">setBorderCrossingWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-bordercrossingwarninglistener" title="interface in com.here.sdk.navigation">BorderCrossingWarningListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setBorderCrossingWarningListener(com.here.sdk.navigation.BorderCrossingWarningListener)">setBorderCrossingWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-bordercrossingwarninglistener" title="interface in com.here.sdk.navigation">BorderCrossingWarningListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener to receive notifications about border crossings on the current road.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setBorderCrossingWarningOptions(com.here.sdk.navigation.BorderCrossingWarningOptions)">setBorderCrossingWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-bordercrossingwarningoptions" title="class in com.here.sdk.navigation">BorderCrossingWarningOptions</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setBorderCrossingWarningOptions(com.here.sdk.navigation.BorderCrossingWarningOptions)">setBorderCrossingWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-bordercrossingwarningoptions" title="class in com.here.sdk.navigation">BorderCrossingWarningOptions</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets border crossing warning options to be passed to <a href="sdk-for-android-navigate-bordercrossingwarninglistener" title="interface in com.here.sdk.navigation"><code>BorderCrossingWarningListener</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setCurrentSituationLaneAssistanceViewListener(com.here.sdk.navigation.CurrentSituationLaneAssistanceViewListener)">setCurrentSituationLaneAssistanceViewListener</a><wbr/>(<a href="sdk-for-android-navigate-currentsituationlaneassistanceviewlistener" title="interface in com.here.sdk.navigation">CurrentSituationLaneAssistanceViewListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setCurrentSituationLaneAssistanceViewListener(com.here.sdk.navigation.CurrentSituationLaneAssistanceViewListener)">setCurrentSituationLaneAssistanceViewListener</a><wbr/>(<a href="sdk-for-android-navigate-currentsituationlaneassistanceviewlistener" title="interface in com.here.sdk.navigation">CurrentSituationLaneAssistanceViewListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener  to receive current situation lane assistance view notifications.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setCustomOption(java.lang.String,java.lang.String)">setCustomOption</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> key,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setCustomOption(java.lang.String,java.lang.String)">setCustomOption</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> key,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">This method sets custom options that controls navigator behavior.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setDangerZoneWarningListener(com.here.sdk.navigation.DangerZoneWarningListener)">setDangerZoneWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-dangerzonewarninglistener" title="interface in com.here.sdk.navigation">DangerZoneWarningListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setDangerZoneWarningListener(com.here.sdk.navigation.DangerZoneWarningListener)">setDangerZoneWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-dangerzonewarninglistener" title="interface in com.here.sdk.navigation">DangerZoneWarningListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener to receive current danger zones notifications.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setDestinationReachedListener(com.here.sdk.navigation.DestinationReachedListener)">setDestinationReachedListener</a><wbr/>(<a href="sdk-for-android-navigate-destinationreachedlistener" title="interface in com.here.sdk.navigation">DestinationReachedListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setDestinationReachedListener(com.here.sdk.navigation.DestinationReachedListener)">setDestinationReachedListener</a><wbr/>(<a href="sdk-for-android-navigate-destinationreachedlistener" title="interface in com.here.sdk.navigation">DestinationReachedListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener that notify when the destination has been reached.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setEnableTunnelExtrapolation(boolean)">setEnableTunnelExtrapolation</a><wbr/>(boolean value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setEnableTunnelExtrapolation(boolean)">setEnableTunnelExtrapolation</a><wbr/>(boolean value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Set to <code>true</code> to enable tunnel extrapolation, set to <code>false</code> to disable tunnel extrapolation.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setEnvironmentalZoneWarningListener(com.here.sdk.navigation.EnvironmentalZoneWarningListener)">setEnvironmentalZoneWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-environmentalzonewarninglistener" title="interface in com.here.sdk.navigation">EnvironmentalZoneWarningListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setEnvironmentalZoneWarningListener(com.here.sdk.navigation.EnvironmentalZoneWarningListener)">setEnvironmentalZoneWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-environmentalzonewarninglistener" title="interface in com.here.sdk.navigation">EnvironmentalZoneWarningListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener to receive current environmental zones notifications.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setEventTextListener(com.here.sdk.navigation.EventTextListener)">setEventTextListener</a><wbr/>(<a href="sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation">EventTextListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setEventTextListener(com.here.sdk.navigation.EventTextListener)">setEventTextListener</a><wbr/>(<a href="sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation">EventTextListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener that notifies when a text notification is available.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setEventTextOptions(com.here.sdk.navigation.EventTextOptions)">setEventTextOptions</a><wbr/>(<a href="sdk-for-android-navigate-eventtextoptions" title="class in com.here.sdk.navigation">EventTextOptions</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setEventTextOptions(com.here.sdk.navigation.EventTextOptions)">setEventTextOptions</a><wbr/>(<a href="sdk-for-android-navigate-eventtextoptions" title="class in com.here.sdk.navigation">EventTextOptions</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the text notification options.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setJunctionViewLaneAssistanceListener(com.here.sdk.navigation.JunctionViewLaneAssistanceListener)">setJunctionViewLaneAssistanceListener</a><wbr/>(<a href="sdk-for-android-navigate-junctionviewlaneassistancelistener" title="interface in com.here.sdk.navigation">JunctionViewLaneAssistanceListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setJunctionViewLaneAssistanceListener(com.here.sdk.navigation.JunctionViewLaneAssistanceListener)">setJunctionViewLaneAssistanceListener</a><wbr/>(<a href="sdk-for-android-navigate-junctionviewlaneassistancelistener" title="interface in com.here.sdk.navigation">JunctionViewLaneAssistanceListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener  to receive junction view lane assistance notifications.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setLowSpeedZoneWarningListener(com.here.sdk.navigation.LowSpeedZoneWarningListener)">setLowSpeedZoneWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-lowspeedzonewarninglistener" title="interface in com.here.sdk.navigation">LowSpeedZoneWarningListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setLowSpeedZoneWarningListener(com.here.sdk.navigation.LowSpeedZoneWarningListener)">setLowSpeedZoneWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-lowspeedzonewarninglistener" title="interface in com.here.sdk.navigation">LowSpeedZoneWarningListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener to receive notifications about low speed zones on the current road.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setManeuverNotificationOptions(com.here.sdk.navigation.ManeuverNotificationOptions)">setManeuverNotificationOptions</a><wbr/>(<a href="sdk-for-android-navigate-maneuvernotificationoptions" title="class in com.here.sdk.navigation">ManeuverNotificationOptions</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setManeuverNotificationOptions(com.here.sdk.navigation.ManeuverNotificationOptions)">setManeuverNotificationOptions</a><wbr/>(<a href="sdk-for-android-navigate-maneuvernotificationoptions" title="class in com.here.sdk.navigation">ManeuverNotificationOptions</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the maneuver notification options.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setManeuverNotificationTimingOptions(com.here.sdk.transport.TransportMode,com.here.sdk.navigation.TimingProfile,com.here.sdk.navigation.ManeuverNotificationTimingOptions)">setManeuverNotificationTimingOptions</a><wbr/>(<a href="sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setManeuverNotificationTimingOptions(com.here.sdk.transport.TransportMode,com.here.sdk.navigation.TimingProfile,com.here.sdk.navigation.ManeuverNotificationTimingOptions)">setManeuverNotificationTimingOptions</a><wbr/>(<a href="sdk-for-android-navigate-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode,
  <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation">TimingProfile</a> timingProfile,
  <a href="sdk-for-android-navigate-maneuvernotificationtimingoptions" title="class in com.here.sdk.navigation">ManeuverNotificationTimingOptions</a> options)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Set timing option values for the combination of transport mode and timing profile.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setManeuverViewLaneAssistanceListener(com.here.sdk.navigation.ManeuverViewLaneAssistanceListener)">setManeuverViewLaneAssistanceListener</a><wbr/>(<a href="sdk-for-android-navigate-maneuverviewlaneassistancelistener" title="interface in com.here.sdk.navigation">ManeuverViewLaneAssistanceListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setManeuverViewLaneAssistanceListener(com.here.sdk.navigation.ManeuverViewLaneAssistanceListener)">setManeuverViewLaneAssistanceListener</a><wbr/>(<a href="sdk-for-android-navigate-maneuverviewlaneassistancelistener" title="interface in com.here.sdk.navigation">ManeuverViewLaneAssistanceListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener  to receive maneuver view lane assistance notifications.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setMilestoneStatusListener(com.here.sdk.navigation.MilestoneStatusListener)">setMilestoneStatusListener</a><wbr/>(<a href="sdk-for-android-navigate-milestonestatuslistener" title="interface in com.here.sdk.navigation">MilestoneStatusListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setMilestoneStatusListener(com.here.sdk.navigation.MilestoneStatusListener)">setMilestoneStatusListener</a><wbr/>(<a href="sdk-for-android-navigate-milestonestatuslistener" title="interface in com.here.sdk.navigation">MilestoneStatusListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener that notifies when a <a href="sdk-for-android-navigate-milestone" title="class in com.here.sdk.navigation"><code>Milestone</code></a> has been reached or missed.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setNavigableLocationListener(com.here.sdk.navigation.NavigableLocationListener)">setNavigableLocationListener</a><wbr/>(<a href="sdk-for-android-navigate-navigablelocationlistener" title="interface in com.here.sdk.navigation">NavigableLocationListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setNavigableLocationListener(com.here.sdk.navigation.NavigableLocationListener)">setNavigableLocationListener</a><wbr/>(<a href="sdk-for-android-navigate-navigablelocationlistener" title="interface in com.here.sdk.navigation">NavigableLocationListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener that notifies current location updates.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setOffRoadDestinationReachedListener(com.here.sdk.navigation.OffRoadDestinationReachedListener)">setOffRoadDestinationReachedListener</a><wbr/>(<a href="sdk-for-android-navigate-offroaddestinationreachedlistener" title="interface in com.here.sdk.navigation">OffRoadDestinationReachedListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setOffRoadDestinationReachedListener(com.here.sdk.navigation.OffRoadDestinationReachedListener)">setOffRoadDestinationReachedListener</a><wbr/>(<a href="sdk-for-android-navigate-offroaddestinationreachedlistener" title="interface in com.here.sdk.navigation">OffRoadDestinationReachedListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener that notifies when the off-road destination has been reached.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setOffRoadProgressListener(com.here.sdk.navigation.OffRoadProgressListener)">setOffRoadProgressListener</a><wbr/>(<a href="sdk-for-android-navigate-offroadprogresslistener" title="interface in com.here.sdk.navigation">OffRoadProgressListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setOffRoadProgressListener(com.here.sdk.navigation.OffRoadProgressListener)">setOffRoadProgressListener</a><wbr/>(<a href="sdk-for-android-navigate-offroadprogresslistener" title="interface in com.here.sdk.navigation">OffRoadProgressListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener that notifies about off-road progress.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setPassthroughWaypointsHandlingEnabled(boolean)">setPassthroughWaypointsHandlingEnabled</a><wbr/>(boolean value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setPassthroughWaypointsHandlingEnabled(boolean)">setPassthroughWaypointsHandlingEnabled</a><wbr/>(boolean value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Set to <code>true</code> enables handling of passthrough waypoints, set to <code>false</code> disables handling of passthrough waypoints.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setPostActionListener(com.here.sdk.navigation.PostActionListener)">setPostActionListener</a><wbr/>(<a href="sdk-for-android-navigate-postactionlistener" title="interface in com.here.sdk.navigation">PostActionListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setPostActionListener(com.here.sdk.navigation.PostActionListener)">setPostActionListener</a><wbr/>(<a href="sdk-for-android-navigate-postactionlistener" title="interface in com.here.sdk.navigation">PostActionListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener  to receive post action notifications, such as a charge action at a charging station.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRailwayCrossingWarningListener(com.here.sdk.navigation.RailwayCrossingWarningListener)">setRailwayCrossingWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-railwaycrossingwarninglistener" title="interface in com.here.sdk.navigation">RailwayCrossingWarningListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setRailwayCrossingWarningListener(com.here.sdk.navigation.RailwayCrossingWarningListener)">setRailwayCrossingWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-railwaycrossingwarninglistener" title="interface in com.here.sdk.navigation">RailwayCrossingWarningListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener to receive notifications about railway crossings on the current road.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRealisticViewWarningListener(com.here.sdk.navigation.RealisticViewWarningListener)">setRealisticViewWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation">RealisticViewWarningListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setRealisticViewWarningListener(com.here.sdk.navigation.RealisticViewWarningListener)">setRealisticViewWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation">RealisticViewWarningListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener to receive notifications about junction views on the current road.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRealisticViewWarningOptions(com.here.sdk.navigation.RealisticViewWarningOptions)">setRealisticViewWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-realisticviewwarningoptions" title="class in com.here.sdk.navigation">RealisticViewWarningOptions</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setRealisticViewWarningOptions(com.here.sdk.navigation.RealisticViewWarningOptions)">setRealisticViewWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-realisticviewwarningoptions" title="class in com.here.sdk.navigation">RealisticViewWarningOptions</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets realistic view warning options that allow to filter realistic views to be passed to
  <a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation"><code>RealisticViewWarningListener</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRoadAttributesListener(com.here.sdk.navigation.RoadAttributesListener)">setRoadAttributesListener</a><wbr/>(<a href="sdk-for-android-navigate-roadattributeslistener" title="interface in com.here.sdk.navigation">RoadAttributesListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setRoadAttributesListener(com.here.sdk.navigation.RoadAttributesListener)">setRoadAttributesListener</a><wbr/>(<a href="sdk-for-android-navigate-roadattributeslistener" title="interface in com.here.sdk.navigation">RoadAttributesListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener  to receive notifications about attributes of the current road.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRoadSignWarningListener(com.here.sdk.navigation.RoadSignWarningListener)">setRoadSignWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-roadsignwarninglistener" title="interface in com.here.sdk.navigation">RoadSignWarningListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setRoadSignWarningListener(com.here.sdk.navigation.RoadSignWarningListener)">setRoadSignWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-roadsignwarninglistener" title="interface in com.here.sdk.navigation">RoadSignWarningListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener to receive notifications about road signs on the current road.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRoadSignWarningOptions(com.here.sdk.navigation.RoadSignWarningOptions)">setRoadSignWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-roadsignwarningoptions" title="class in com.here.sdk.navigation">RoadSignWarningOptions</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setRoadSignWarningOptions(com.here.sdk.navigation.RoadSignWarningOptions)">setRoadSignWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-roadsignwarningoptions" title="class in com.here.sdk.navigation">RoadSignWarningOptions</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets road sign warning options that allow to filter road signs to be passed to <a href="sdk-for-android-navigate-roadsignwarninglistener" title="interface in com.here.sdk.navigation"><code>RoadSignWarningListener</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRoadTextsListener(com.here.sdk.navigation.RoadTextsListener)">setRoadTextsListener</a><wbr/>(<a href="sdk-for-android-navigate-roadtextslistener" title="interface in com.here.sdk.navigation">RoadTextsListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setRoadTextsListener(com.here.sdk.navigation.RoadTextsListener)">setRoadTextsListener</a><wbr/>(<a href="sdk-for-android-navigate-roadtextslistener" title="interface in com.here.sdk.navigation">RoadTextsListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener  to receive notifications about the textual attributes of the current road.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRoute(com.here.sdk.routing.Route)">setRoute</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setRoute(com.here.sdk.routing.Route)">setRoute</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the route to navigate.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRouteDeviationListener(com.here.sdk.navigation.RouteDeviationListener)">setRouteDeviationListener</a><wbr/>(<a href="sdk-for-android-navigate-routedeviationlistener" title="interface in com.here.sdk.navigation">RouteDeviationListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setRouteDeviationListener(com.here.sdk.navigation.RouteDeviationListener)">setRouteDeviationListener</a><wbr/>(<a href="sdk-for-android-navigate-routedeviationlistener" title="interface in com.here.sdk.navigation">RouteDeviationListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener that notifies when deviation from the route is observed.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setRouteProgressListener(com.here.sdk.navigation.RouteProgressListener)">setRouteProgressListener</a><wbr/>(<a href="sdk-for-android-navigate-routeprogresslistener" title="interface in com.here.sdk.navigation">RouteProgressListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setRouteProgressListener(com.here.sdk.navigation.RouteProgressListener)">setRouteProgressListener</a><wbr/>(<a href="sdk-for-android-navigate-routeprogresslistener" title="interface in com.here.sdk.navigation">RouteProgressListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener that notifies when a route progress change occurs.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSafetyCameraWarningListener(com.here.sdk.navigation.SafetyCameraWarningListener)">setSafetyCameraWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-safetycamerawarninglistener" title="interface in com.here.sdk.navigation">SafetyCameraWarningListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setSafetyCameraWarningListener(com.here.sdk.navigation.SafetyCameraWarningListener)">setSafetyCameraWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-safetycamerawarninglistener" title="interface in com.here.sdk.navigation">SafetyCameraWarningListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener  to receive safety camera warning notifications.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSafetyCameraWarningOptions(com.here.sdk.navigation.SafetyCameraWarningOptions)">setSafetyCameraWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-safetycamerawarningoptions" title="class in com.here.sdk.navigation">SafetyCameraWarningOptions</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setSafetyCameraWarningOptions(com.here.sdk.navigation.SafetyCameraWarningOptions)">setSafetyCameraWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-safetycamerawarningoptions" title="class in com.here.sdk.navigation">SafetyCameraWarningOptions</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets safety camera warning options to be passed to <a href="sdk-for-android-navigate-safetycamerawarninglistener" title="interface in com.here.sdk.navigation"><code>SafetyCameraWarningListener</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSchoolZoneWarningListener(com.here.sdk.navigation.SchoolZoneWarningListener)">setSchoolZoneWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-schoolzonewarninglistener" title="interface in com.here.sdk.navigation">SchoolZoneWarningListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setSchoolZoneWarningListener(com.here.sdk.navigation.SchoolZoneWarningListener)">setSchoolZoneWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-schoolzonewarninglistener" title="interface in com.here.sdk.navigation">SchoolZoneWarningListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener to receive notifications about school zones on the current road.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSchoolZoneWarningOptions(com.here.sdk.navigation.SchoolZoneWarningOptions)">setSchoolZoneWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-schoolzonewarningoptions" title="class in com.here.sdk.navigation">SchoolZoneWarningOptions</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setSchoolZoneWarningOptions(com.here.sdk.navigation.SchoolZoneWarningOptions)">setSchoolZoneWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-schoolzonewarningoptions" title="class in com.here.sdk.navigation">SchoolZoneWarningOptions</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets school zone warning options that allow to configure school zone notifications to be
  passed to <a href="sdk-for-android-navigate-schoolzonewarninglistener" title="interface in com.here.sdk.navigation"><code>SchoolZoneWarningListener</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSpeedLimitListener(com.here.sdk.navigation.SpeedLimitListener)">setSpeedLimitListener</a><wbr/>(<a href="sdk-for-android-navigate-speedlimitlistener" title="interface in com.here.sdk.navigation">SpeedLimitListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setSpeedLimitListener(com.here.sdk.navigation.SpeedLimitListener)">setSpeedLimitListener</a><wbr/>(<a href="sdk-for-android-navigate-speedlimitlistener" title="interface in com.here.sdk.navigation">SpeedLimitListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener  to receive notifications about the speed limit of the current road.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSpeedWarningListener(com.here.sdk.navigation.SpeedWarningListener)">setSpeedWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-speedwarninglistener" title="interface in com.here.sdk.navigation">SpeedWarningListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setSpeedWarningListener(com.here.sdk.navigation.SpeedWarningListener)">setSpeedWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-speedwarninglistener" title="interface in com.here.sdk.navigation">SpeedWarningListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener to receive notifications
  when a speed limit on a road is exceeded or driving speed is restored back to normal.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setSpeedWarningOptions(com.here.sdk.navigation.SpeedWarningOptions)">setSpeedWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-speedwarningoptions" title="class in com.here.sdk.navigation">SpeedWarningOptions</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setSpeedWarningOptions(com.here.sdk.navigation.SpeedWarningOptions)">setSpeedWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-speedwarningoptions" title="class in com.here.sdk.navigation">SpeedWarningOptions</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the speed warning options.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTollStopWarningListener(com.here.sdk.navigation.TollStopWarningListener)">setTollStopWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-tollstopwarninglistener" title="interface in com.here.sdk.navigation">TollStopWarningListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setTollStopWarningListener(com.here.sdk.navigation.TollStopWarningListener)">setTollStopWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-tollstopwarninglistener" title="interface in com.here.sdk.navigation">TollStopWarningListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener to receive notifications about
  the upcoming toll stop.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTrackingTransportProfile(com.here.sdk.core.TransportProfile)">setTrackingTransportProfile</a><wbr/>(<a href="sdk-for-android-navigate-transportprofile" title="class in com.here.sdk.core">TransportProfile</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setTrackingTransportProfile(com.here.sdk.core.TransportProfile)">setTrackingTransportProfile</a><wbr/>(<a href="sdk-for-android-navigate-transportprofile" title="class in com.here.sdk.core">TransportProfile</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment">Will be removed in v4.28.0.</div>
 </div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTrackingTransportSpecification(com.here.sdk.transport.TransportSpecification)">setTrackingTransportSpecification</a><wbr/>(<a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setTrackingTransportSpecification(com.here.sdk.transport.TransportSpecification)">setTrackingTransportSpecification</a><wbr/>(<a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the transport specification for the <a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>, when no route is present.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTrafficMergeWarningListener(com.here.sdk.navigation.TrafficMergeWarningListener)">setTrafficMergeWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-trafficmergewarninglistener" title="interface in com.here.sdk.navigation">TrafficMergeWarningListener</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setTrafficMergeWarningListener(com.here.sdk.navigation.TrafficMergeWarningListener)">setTrafficMergeWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-trafficmergewarninglistener" title="interface in com.here.sdk.navigation">TrafficMergeWarningListener</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener to receive notifications about
  merging traffic to the current road.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTrafficMergeWarningOptions(com.here.sdk.navigation.TrafficMergeWarningOptions)">setTrafficMergeWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-trafficmergewarningoptions" title="class in com.here.sdk.navigation">TrafficMergeWarningOptions</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setTrafficMergeWarningOptions(com.here.sdk.navigation.TrafficMergeWarningOptions)">setTrafficMergeWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-trafficmergewarningoptions" title="class in com.here.sdk.navigation">TrafficMergeWarningOptions</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets merging traffic warning options that allow to configure merging traffic notifications to be
  passed to <a href="sdk-for-android-navigate-trafficmergewarninglistener" title="interface in com.here.sdk.navigation"><code>TrafficMergeWarningListener</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTrafficOnRoute(com.here.sdk.routing.TrafficOnRoute)">setTrafficOnRoute</a><wbr/>(<a href="sdk-for-android-navigate-trafficonroute" title="class in com.here.sdk.routing">TrafficOnRoute</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setTrafficOnRoute(com.here.sdk.routing.TrafficOnRoute)">setTrafficOnRoute</a><wbr/>(<a href="sdk-for-android-navigate-trafficonroute" title="class in com.here.sdk.routing">TrafficOnRoute</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the traffic information for the current route.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTruckRestrictionsWarningListener(com.here.sdk.navigation.TruckRestrictionsWarningListener)">setTruckRestrictionsWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-truckrestrictionswarninglistener" title="interface in com.here.sdk.navigation">TruckRestrictionsWarningListener</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setTruckRestrictionsWarningListener(com.here.sdk.navigation.TruckRestrictionsWarningListener)">setTruckRestrictionsWarningListener</a><wbr/>(<a href="sdk-for-android-navigate-truckrestrictionswarninglistener" title="interface in com.here.sdk.navigation">TruckRestrictionsWarningListener</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the listener  to receive notifications about
  truck restrictions on the current road.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setTruckRestrictionsWarningOptions(com.here.sdk.navigation.TruckRestrictionsWarningOptions)">setTruckRestrictionsWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-truckrestrictionswarningoptions" title="class in com.here.sdk.navigation">TruckRestrictionsWarningOptions</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setTruckRestrictionsWarningOptions(com.here.sdk.navigation.TruckRestrictionsWarningOptions)">setTruckRestrictionsWarningOptions</a><wbr/>(<a href="sdk-for-android-navigate-truckrestrictionswarningoptions" title="class in com.here.sdk.navigation">TruckRestrictionsWarningOptions</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets truck restrictions warning options that allow to filter truck restrictions to be
  passed to <a href="sdk-for-android-navigate-truckrestrictionswarninglistener" title="interface in com.here.sdk.navigation"><code>TruckRestrictionsWarningListener</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setWarningNotificationDistances(com.here.sdk.navigation.WarningType,com.here.sdk.navigation.WarningNotificationDistances)">setWarningNotificationDistances</a><wbr/>(<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#setWarningNotificationDistances(com.here.sdk.navigation.WarningType,com.here.sdk.navigation.WarningNotificationDistances)">setWarningNotificationDistances</a><wbr/>(<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType,
  <a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a> warningNotificationDistances)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Set the warning notification distances for the specified warning types.</div>
@@ -1008,7 +1008,7 @@ extends <a href="sdk-for-android-navigate-locationlistener" title="interface in 
  are of type <a href="sdk-for-android-navigate-milestonetype#STOPOVER"><code>MilestoneType.STOPOVER</code></a> but excludes the
  starting waypoint.
  Waypoints of type <a href="sdk-for-android-navigate-milestonetype#PASSTHROUGH"><code>MilestoneType.PASSTHROUGH</code></a> are excluded, by default,
- but can be included via <a href="sdk-for-android-navigate-index#isPassthroughWaypointsHandlingEnabled()"><code>isPassthroughWaypointsHandlingEnabled()</code></a>.
+ but can be included via <a href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#isPassthroughWaypointsHandlingEnabled()"><code>isPassthroughWaypointsHandlingEnabled()</code></a>.
  Milestone status notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
@@ -1028,7 +1028,7 @@ extends <a href="sdk-for-android-navigate-locationlistener" title="interface in 
  are of type <a href="sdk-for-android-navigate-milestonetype#STOPOVER"><code>MilestoneType.STOPOVER</code></a> but excludes the
  starting waypoint.
  Waypoints of type <a href="sdk-for-android-navigate-milestonetype#PASSTHROUGH"><code>MilestoneType.PASSTHROUGH</code></a> are excluded, by default,
- but can be included via <a href="sdk-for-android-navigate-index#isPassthroughWaypointsHandlingEnabled()"><code>isPassthroughWaypointsHandlingEnabled()</code></a>.
+ but can be included via <a href="sdk-for-android-navigate-com-here-sdk-navigation-navigatorinterface#isPassthroughWaypointsHandlingEnabled()"><code>isPassthroughWaypointsHandlingEnabled()</code></a>.
  Milestone status notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>

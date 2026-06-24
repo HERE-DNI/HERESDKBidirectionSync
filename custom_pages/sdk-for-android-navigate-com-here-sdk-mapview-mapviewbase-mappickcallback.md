@@ -47,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewbase-mappickcallback
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onPickMap(com.here.sdk.mapview.MapPickResult)">onPickMap</a><wbr/>(<a href="sdk-for-android-navigate-mappickresult" title="class in com.here.sdk.mapview">MapPickResult</a> mapPickResult)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapviewbase-mappickcallback#onPickMap(com.here.sdk.mapview.MapPickResult)">onPickMap</a><wbr/>(<a href="sdk-for-android-navigate-mappickresult" title="class in com.here.sdk.mapview">MapPickResult</a> mapPickResult)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback for a pick request.</div>
 </div>

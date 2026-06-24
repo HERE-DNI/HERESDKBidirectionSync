@@ -44,12 +44,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-threading-threading"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getPlatformThreading()">getPlatformThreading</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-threading-threading#getPlatformThreading()">getPlatformThreading</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns threading bridge which was set before.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#setPlatformThreading(com.here.sdk.core.threading.PlatformThreading)">setPlatformThreading</a><wbr/>(<a href="sdk-for-android-navigate-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a> platformThreading)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-threading-threading#setPlatformThreading(com.here.sdk.core.threading.PlatformThreading)">setPlatformThreading</a><wbr/>(<a href="sdk-for-android-navigate-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a> platformThreading)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Sets threading bridge which is used for interaction with the platform side.</div>
 </div>

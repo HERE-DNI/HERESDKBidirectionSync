@@ -26,8 +26,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning"
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">RoadSignWarning</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>A road sign. The main field describing the sign is <a href="sdk-for-android-navigate-index#type"><code>type</code></a>. Some road types are standardized, others can be country specific.
- A valid road sign contains known <a href="sdk-for-android-navigate-index#type"><code>type</code></a> or <a href="sdk-for-android-navigate-index#category"><code>category</code></a>.
+<div class="block"><p>A road sign. The main field describing the sign is <a href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#type"><code>type</code></a>. Some road types are standardized, others can be country specific.
+ A valid road sign contains known <a href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#type"><code>type</code></a> or <a href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#category"><code>category</code></a>.
  Use <code>RoadSignWarningListener</code> to get notifications with current road signs.</p></div>
 </section>
 <section class="summary">
@@ -42,73 +42,73 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#category">category</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#category">category</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The main category to which the road sign belongs.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceToRoadSignInMeters">distanceToRoadSignInMeters</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#distanceToRoadSignInMeters">distanceToRoadSignInMeters</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Distance to the road sign in meters.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#distanceType">distanceType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#distanceType">distanceType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The distance type for the warning, e.g.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#duration">duration</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#duration">duration</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional length information during which the warning is applicable.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-generalwarningroadsigntype" title="enum class in com.here.sdk.navigation">GeneralWarningRoadSignType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#generalWarningType">generalWarningType</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#generalWarningType">generalWarningType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies the general warning to which the road sign belongs.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#id">id</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#id">id</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Unique identifier for this specific road sign warning instance.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#isPrioritySign">isPrioritySign</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#isPrioritySign">isPrioritySign</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Flag indicating if the road sign is a priority sign.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#preWarning">preWarning</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#preWarning">preWarning</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional pre-warning in terms of distance, of the upcoming warning or regulation.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#roadSignSegment">roadSignSegment</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#roadSignSegment">roadSignSegment</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The reference to the segment where the road sign is located.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#signValue">signValue</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#signValue">signValue</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional value visible on the main sign related to specific road sign types, as it is printed on the local road sign.</div>
 </div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-roadsigntype" title="enum class in com.here.sdk.navigation">RoadSignType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#type">type</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of the road sign.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#validityTime">validityTime</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#validityTime">validityTime</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional text visible on the supplemental sign indicating specific
  time(s) at which the road sign is applicable.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-roadsignvehicletype" title="enum class in com.here.sdk.navigation">RoadSignVehicleType</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#vehicleTypes">vehicleTypes</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#vehicleTypes">vehicleTypes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies a list of vehicle types for which the road sign is applicable.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-weathertype" title="enum class in com.here.sdk.navigation">WeatherType</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#weatherType">weatherType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#weatherType">weatherType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies the weather type for which the sign is applicable.</div>
 </div>
@@ -123,7 +123,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(double,com.here.sdk.navigation.RoadSignType,com.here.sdk.navigation.RoadSignCategory,com.here.sdk.navigation.GeneralWarningRoadSignType,boolean,java.util.List,com.here.sdk.navigation.WeatherType,com.here.sdk.routing.SegmentReference,com.here.sdk.navigation.DistanceType)">RoadSignWarning</a><wbr/>(double distanceToRoadSignInMeters,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#%3Cinit%3E(double,com.here.sdk.navigation.RoadSignType,com.here.sdk.navigation.RoadSignCategory,com.here.sdk.navigation.GeneralWarningRoadSignType,boolean,java.util.List,com.here.sdk.navigation.WeatherType,com.here.sdk.routing.SegmentReference,com.here.sdk.navigation.DistanceType)">RoadSignWarning</a><wbr/>(double distanceToRoadSignInMeters,
  <a href="sdk-for-android-navigate-roadsigntype" title="enum class in com.here.sdk.navigation">RoadSignType</a> type,
  <a href="sdk-for-android-navigate-roadsigncategory" title="enum class in com.here.sdk.navigation">RoadSignCategory</a> category,
  <a href="sdk-for-android-navigate-generalwarningroadsigntype" title="enum class in com.here.sdk.navigation">GeneralWarningRoadSignType</a> generalWarningType,
@@ -150,10 +150,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

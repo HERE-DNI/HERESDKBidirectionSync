@@ -53,108 +53,108 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-searcherror"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#AUTHENTICATION_FAILED">AUTHENTICATION_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#AUTHENTICATION_FAILED">AUTHENTICATION_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Search operation is not authenticated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#BAD_REQUEST">BAD_REQUEST</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#BAD_REQUEST">BAD_REQUEST</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Bad network request</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#EXCEEDED_USAGE_LIMIT">EXCEEDED_USAGE_LIMIT</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#EXCEEDED_USAGE_LIMIT">EXCEEDED_USAGE_LIMIT</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Credentials exceeded the allowed requests limit.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FILTER_EMPTY">FILTER_EMPTY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#FILTER_EMPTY">FILTER_EMPTY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Filter is empty</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FILTER_TOO_LONG">FILTER_TOO_LONG</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#FILTER_TOO_LONG">FILTER_TOO_LONG</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Filter is too long, max.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#FORBIDDEN">FORBIDDEN</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#FORBIDDEN">FORBIDDEN</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The credentials given do not provide access to the resource requested.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#HTTP_ERROR">HTTP_ERROR</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#HTTP_ERROR">HTTP_ERROR</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Network request error.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INVALID_AREA">INVALID_AREA</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#INVALID_AREA">INVALID_AREA</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Box or circle area of query is invalid</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INVALID_CORRIDOR_POLYLINE">INVALID_CORRIDOR_POLYLINE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#INVALID_CORRIDOR_POLYLINE">INVALID_CORRIDOR_POLYLINE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Corridor area polyline size is less than 2 points</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INVALID_CUSTOM_OPTION_FORMAT">INVALID_CUSTOM_OPTION_FORMAT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#INVALID_CUSTOM_OPTION_FORMAT">INVALID_CUSTOM_OPTION_FORMAT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Custom options are set in an invalid format in the query</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INVALID_TRUCK_CLASS">INVALID_TRUCK_CLASS</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#INVALID_TRUCK_CLASS">INVALID_TRUCK_CLASS</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Light truck class is passed in the filter</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#INVALID_URL">INVALID_URL</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#INVALID_URL">INVALID_URL</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Url is invalid</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#LAYERS_NOT_DOWNLOADED">LAYERS_NOT_DOWNLOADED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#LAYERS_NOT_DOWNLOADED">LAYERS_NOT_DOWNLOADED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Downloaded regions missing <a href="sdk-for-android-navigate-layerconfiguration.feature#OFFLINE_SEARCH_GLOBAL"><code>LayerConfiguration.Feature.OFFLINE_SEARCH_GLOBAL</code></a>
  feature.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MAP_NOT_READY">MAP_NOT_READY</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#MAP_NOT_READY">MAP_NOT_READY</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Offline map data is incomplete for the requested operation.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#MAX_ITEMS_OUT_OF_RANGE">MAX_ITEMS_OUT_OF_RANGE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#MAX_ITEMS_OUT_OF_RANGE">MAX_ITEMS_OUT_OF_RANGE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Should be in the range [1, 100].</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#NO_RESULTS_FOUND">NO_RESULTS_FOUND</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#NO_RESULTS_FOUND">NO_RESULTS_FOUND</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">No results found.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OFFLINE">OFFLINE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#OFFLINE">OFFLINE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The device does not have an internet connection.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OPERATION_CANCELLED">OPERATION_CANCELLED</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#OPERATION_CANCELLED">OPERATION_CANCELLED</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Operation cancelled.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#OPERATION_FAILED">OPERATION_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#OPERATION_FAILED">OPERATION_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Operation failed due to an internal error.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PARSING_ERROR">PARSING_ERROR</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#PARSING_ERROR">PARSING_ERROR</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Error while parsing response data.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PROXY_AUTHENTICATION_FAILED">PROXY_AUTHENTICATION_FAILED</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#PROXY_AUTHENTICATION_FAILED">PROXY_AUTHENTICATION_FAILED</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Proxy is not authenticated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PROXY_SERVER_UNREACHABLE">PROXY_SERVER_UNREACHABLE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#PROXY_SERVER_UNREACHABLE">PROXY_SERVER_UNREACHABLE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Proxy server unreachable.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#QUERY_EMPTY">QUERY_EMPTY</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#QUERY_EMPTY">QUERY_EMPTY</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Empty query</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#QUERY_TOO_LONG">QUERY_TOO_LONG</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#QUERY_TOO_LONG">QUERY_TOO_LONG</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Query is too long, max.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#SERVER_UNREACHABLE">SERVER_UNREACHABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#SERVER_UNREACHABLE">SERVER_UNREACHABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Server unreachable.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#TIMED_OUT">TIMED_OUT</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#TIMED_OUT">TIMED_OUT</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The request timed out.</div>
 </div>
@@ -173,12 +173,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-searcherror"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-searcherror" title="enum class in com.here.sdk.search">SearchError</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-searcherror" title="enum class in com.here.sdk.search">SearchError</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searcherror#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

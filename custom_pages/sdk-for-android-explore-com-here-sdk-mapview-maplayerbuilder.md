@@ -132,7 +132,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E()">MapLayerBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder#%3Cinit%3E()">MapLayerBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of the layer builder interface.</div>
 </div>
@@ -151,50 +151,50 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview">MapLayer</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#build()">build</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Constructs, registers and configures a new map layer showing specified content type
  according to the configured parameters.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#forMap(com.here.sdk.mapview.HereMap)">forMap</a><wbr/>(<a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview">HereMap</a> targetMap)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder#forMap(com.here.sdk.mapview.HereMap)">forMap</a><wbr/>(<a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview">HereMap</a> targetMap)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to display a layer in the given map.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withDataSource(java.lang.String,com.here.sdk.mapview.MapContentType)">withDataSource</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> dataSourceName,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder#withDataSource(java.lang.String,com.here.sdk.mapview.MapContentType)">withDataSource</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> dataSourceName,
  <a href="sdk-for-android-explore-mapcontenttype" title="enum class in com.here.sdk.mapview">MapContentType</a> contentType)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to use a data source with the given name as the source
  of data for the layer.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withLoadPriority(double)">withLoadPriority</a><wbr/>(double loadPriority)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder#withLoadPriority(double)">withLoadPriority</a><wbr/>(double loadPriority)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to set the layer load priority.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withMapMeasureDependentStorageLevels(com.here.sdk.mapview.MapLayerMapMeasureDependentStorageLevels)">withMapMeasureDependentStorageLevels</a><wbr/>(<a href="sdk-for-android-explore-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a> mapLayerMapMeasureDependentStorageLevels)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder#withMapMeasureDependentStorageLevels(com.here.sdk.mapview.MapLayerMapMeasureDependentStorageLevels)">withMapMeasureDependentStorageLevels</a><wbr/>(<a href="sdk-for-android-explore-maplayermapmeasuredependentstoragelevels" title="class in com.here.sdk.mapview">MapLayerMapMeasureDependentStorageLevels</a> mapLayerMapMeasureDependentStorageLevels)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Applies a mapping from the map measure to the storage level.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withName(java.lang.String)">withName</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder#withName(java.lang.String)">withName</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures builder to use the given name as a layer name.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withPriority(com.here.sdk.mapview.MapLayerPriority)">withPriority</a><wbr/>(<a href="sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder#withPriority(com.here.sdk.mapview.MapLayerPriority)">withPriority</a><wbr/>(<a href="sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a> priority)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to set the MapLayerPriority to be used by the layer.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withStyle(com.here.sdk.mapview.Style)">withStyle</a><wbr/>(<a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a> style)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder#withStyle(com.here.sdk.mapview.Style)">withStyle</a><wbr/>(<a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a> style)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to use a style.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maplayerbuilder" title="class in com.here.sdk.mapview">MapLayerBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#withVisibilityRange(com.here.sdk.mapview.MapLayerVisibilityRange)">withVisibilityRange</a><wbr/>(<a href="sdk-for-android-explore-maplayervisibilityrange" title="class in com.here.sdk.mapview">MapLayerVisibilityRange</a> visibilityRange)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-maplayerbuilder#withVisibilityRange(com.here.sdk.mapview.MapLayerVisibilityRange)">withVisibilityRange</a><wbr/>(<a href="sdk-for-android-explore-maplayervisibilityrange" title="class in com.here.sdk.mapview">MapLayerVisibilityRange</a> visibilityRange)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to set the layer visible in the given zoom levels range.</div>
 </div>

@@ -77,27 +77,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#addListener(com.here.sdk.mapview.datasource.TileSource.Listener)">addListener</a><wbr/>(<a href="sdk-for-android-navigate-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource#addListener(com.here.sdk.mapview.datasource.TileSource.Listener)">addListener</a><wbr/>(<a href="sdk-for-android-navigate-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Adds a listener for receiving state notifications.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getDataVersion(com.here.sdk.mapview.datasource.TileKey)">getDataVersion</a><wbr/>(<a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource#getDataVersion(com.here.sdk.mapview.datasource.TileKey)">getDataVersion</a><wbr/>(<a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the current data version of a tile.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getStorageLevels()">getStorageLevels</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource#getStorageLevels()">getStorageLevels</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the storage levels available for this data source.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#getTilingScheme()">getTilingScheme</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource#getTilingScheme()">getTilingScheme</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the tiling scheme used by this source.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#removeListener(com.here.sdk.mapview.datasource.TileSource.Listener)">removeListener</a><wbr/>(<a href="sdk-for-android-navigate-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource#removeListener(com.here.sdk.mapview.datasource.TileSource.Listener)">removeListener</a><wbr/>(<a href="sdk-for-android-navigate-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Removes a listener from receiving state notifications.</div>
 </div>

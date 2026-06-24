@@ -53,19 +53,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdatestate"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#PENDING_UPDATE">PENDING_UPDATE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdatestate#PENDING_UPDATE">PENDING_UPDATE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Previous catalog downloading is ongoing or interrupted.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UNKNOWN_STATE">UNKNOWN_STATE</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdatestate#UNKNOWN_STATE">UNKNOWN_STATE</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">State is not fetched, so unknown</div>
 </div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UPDATE_AVAILABLE">UPDATE_AVAILABLE</a></code></div>
+<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdatestate#UPDATE_AVAILABLE">UPDATE_AVAILABLE</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Previously downloaded catalog version can be updated to their latest version.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#UPDATE_BLOCKED_AS_ANOTHER_PENDING">UPDATE_BLOCKED_AS_ANOTHER_PENDING</a></code></div>
+<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdatestate#UPDATE_BLOCKED_AS_ANOTHER_PENDING">UPDATE_BLOCKED_AS_ANOTHER_PENDING</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">When more than one catalog is used or configured,
  and the update process for it fails, then that specific catalog goes in PENDING_UPDATE state.</div>
@@ -85,12 +85,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogupdatestate"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-catalogupdatestate" title="enum class in com.here.sdk.maploader">CatalogUpdateState</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdatestate#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-catalogupdatestate" title="enum class in com.here.sdk.maploader">CatalogUpdateState</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#values()">values</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdatestate#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>

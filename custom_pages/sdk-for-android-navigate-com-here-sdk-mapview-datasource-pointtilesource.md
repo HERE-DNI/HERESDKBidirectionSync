@@ -66,7 +66,7 @@ extends <a href="sdk-for-android-navigate-tilesource" title="interface in com.he
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-navigate-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#loadTile(com.here.sdk.mapview.datasource.TileKey,com.here.sdk.mapview.datasource.PointTileSource.LoadResultHandler)">loadTile</a><wbr/>(<a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointtilesource#loadTile(com.here.sdk.mapview.datasource.TileKey,com.here.sdk.mapview.datasource.PointTileSource.LoadResultHandler)">loadTile</a><wbr/>(<a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
  <a href="sdk-for-android-navigate-pointtilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a> completionHandler)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Load data of a tile.</div>

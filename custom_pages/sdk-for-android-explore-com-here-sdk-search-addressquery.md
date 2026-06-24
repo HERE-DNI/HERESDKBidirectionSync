@@ -26,12 +26,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-addressquery"
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">AddressQuery</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>The options to specify an address query. A <a href="sdk-for-android-explore-index#query"><code>query</code></a> can consist of parts of an address or full addresses,
+<div class="block"><p>The options to specify an address query. A <a href="sdk-for-android-explore-com-here-sdk-search-addressquery#query"><code>query</code></a> can consist of parts of an address or full addresses,
  optionally comma separated. <a href="sdk-for-android-explore-addressquery" title="class in com.here.sdk.search"><code>AddressQuery</code></a> should only be used to search for parts of the address,
  excluding the POI name. For example, "Invalidenstraße 116, Berlin, Germany" is appropriate, whereas
  "HERE, Invalidenstraße 116, Berlin, Germany" is not. To be able to include the POI name, use
  <a href="sdk-for-android-explore-textquery" title="class in com.here.sdk.search"><code>TextQuery</code></a> instead. <a href="sdk-for-android-explore-searchoptions#languageCode"><code>SearchOptions.languageCode</code></a> specifies the language of the
- <a href="sdk-for-android-explore-index#query"><code>query</code></a> and determines the preferred language of the results.</p></div>
+ <a href="sdk-for-android-explore-com-here-sdk-search-addressquery#query"><code>query</code></a> and determines the preferred language of the results.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -45,17 +45,17 @@ slug: "sdk-for-android-explore-com-here-sdk-search-addressquery"
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#areaCenter">areaCenter</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-addressquery#areaCenter">areaCenter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Geographical coordinates of the center around which to provide the most relevant places.</div>
 </div>
 <div class="col-first odd-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#countries">countries</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-addressquery#countries">countries</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A list of countries that the query is applied in.</div>
 </div>
 <div class="col-first even-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#query">query</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-addressquery#query">query</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Desired address query to search.</div>
 </div>
@@ -70,16 +70,16 @@ slug: "sdk-for-android-explore-com-here-sdk-search-addressquery"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String)">AddressQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-addressquery#%3Cinit%3E(java.lang.String)">AddressQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs an AddressQuery from the provided text query.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String,com.here.sdk.core.GeoCoordinates)">AddressQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-addressquery#%3Cinit%3E(java.lang.String,com.here.sdk.core.GeoCoordinates)">AddressQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
  <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs an AddressQuery from the provided text query and geographical coordinates.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-index#%3Cinit%3E(java.lang.String,com.here.sdk.core.GeoCoordinates,java.util.List)">AddressQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-addressquery#%3Cinit%3E(java.lang.String,com.here.sdk.core.GeoCoordinates,java.util.List)">AddressQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
  <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>&gt; countries)</code></div>
 <div class="col-last even-row-color">
@@ -101,10 +101,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-addressquery"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-addressquery#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-index#hashCode()">hashCode</a>()</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-addressquery#hashCode()">hashCode</a>()</code></div>
 
 </div>
 </div>

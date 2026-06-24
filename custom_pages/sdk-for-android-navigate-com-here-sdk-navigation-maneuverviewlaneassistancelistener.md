@@ -40,7 +40,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistan
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-index#onLaneAssistanceUpdated(com.here.sdk.navigation.ManeuverViewLaneAssistance)">onLaneAssistanceUpdated</a><wbr/>(<a href="sdk-for-android-navigate-maneuverviewlaneassistance" title="class in com.here.sdk.navigation">ManeuverViewLaneAssistance</a> laneAssistance)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistancelistener#onLaneAssistanceUpdated(com.here.sdk.navigation.ManeuverViewLaneAssistance)">onLaneAssistanceUpdated</a><wbr/>(<a href="sdk-for-android-navigate-maneuverviewlaneassistance" title="class in com.here.sdk.navigation">ManeuverViewLaneAssistance</a> laneAssistance)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called before approaching a maneuver and the maneuver thereafter if lane recommendations are available.</div>
 </div>

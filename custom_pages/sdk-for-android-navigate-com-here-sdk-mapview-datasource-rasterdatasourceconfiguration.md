@@ -63,22 +63,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasource
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#cache">cache</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#cache">cache</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Local cache configuration.</div>
 </div>
 <div class="col-first odd-row-color"><code>boolean</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#ignoreExpiredData">ignoreExpiredData</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#ignoreExpiredData">ignoreExpiredData</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A flag indicating whether expired data should be ignored until refreshed.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#name">name</a></code></div>
+<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#name">name</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The unique name of the data source.</div>
 </div>
 <div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#provider">provider</a></code></div>
+<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#provider">provider</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Data provider configuration.</div>
 </div>
@@ -93,13 +93,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasource
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache)">RasterDataSourceConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache)">RasterDataSourceConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  <a href="sdk-for-android-navigate-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> provider,
  <a href="sdk-for-android-navigate-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> cache)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache,boolean)">RasterDataSourceConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache,boolean)">RasterDataSourceConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  <a href="sdk-for-android-navigate-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> provider,
  <a href="sdk-for-android-navigate-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> cache,
  boolean ignoreExpiredData)</code></div>

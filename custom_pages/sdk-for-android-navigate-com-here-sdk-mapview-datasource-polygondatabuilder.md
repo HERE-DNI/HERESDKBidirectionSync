@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondatabuild
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-index#%3Cinit%3E()">PolygonDataBuilder</a>()</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondatabuilder#%3Cinit%3E()">PolygonDataBuilder</a>()</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a builder instance.</div>
 </div>
@@ -63,17 +63,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondatabuild
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#build()">build</a>()</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondatabuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Builds an instance of <a href="sdk-for-android-navigate-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> and resets the builder instance.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">withAttributes</a><wbr/>(<a href="sdk-for-android-navigate-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondatabuilder#withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">withAttributes</a><wbr/>(<a href="sdk-for-android-navigate-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder with custom attributes for polygon to be created.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-index#withGeometry(com.here.sdk.core.GeoPolygon)">withGeometry</a><wbr/>(<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondatabuilder#withGeometry(com.here.sdk.core.GeoPolygon)">withGeometry</a><wbr/>(<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder with geometry for the polygon to be created.</div>
 </div>

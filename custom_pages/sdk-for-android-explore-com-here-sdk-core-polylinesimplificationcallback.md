@@ -44,7 +44,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplificationcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-index#onPolylineSimplified(com.here.sdk.core.PolylineSimplificationError,java.util.List)">onPolylineSimplified</a><wbr/>(<a href="sdk-for-android-explore-polylinesimplificationerror" title="enum class in com.here.sdk.core">PolylineSimplificationError</a> queryError,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-polylinesimplificationcallback#onPolylineSimplified(com.here.sdk.core.PolylineSimplificationError,java.util.List)">onPolylineSimplified</a><wbr/>(<a href="sdk-for-android-explore-polylinesimplificationerror" title="enum class in com.here.sdk.core">PolylineSimplificationError</a> queryError,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; result)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method will be called on the main thread when
