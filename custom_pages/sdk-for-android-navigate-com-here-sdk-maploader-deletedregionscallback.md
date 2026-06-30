@@ -43,8 +43,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-deletedregionscallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-deletedregionscallback#onCompleted(com.here.sdk.maploader.MapLoaderError,java.util.List)">onCompleted</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> maploaderError,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-deletedregionscallback#onCompleted(com.here.sdk.maploader.MapLoaderError,java.util.List)">onCompleted</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> maploaderError,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#deleteRegions(java.util.List,com.here.sdk.maploader.DeletedRegionsCallback)"><code>MapDownloader.deleteRegions(java.util.List&lt;com.here.sdk.maploader.RegionId&gt;, com.here.sdk.maploader.DeletedRegionsCallback)</code></a> has been completed.</div>
 </div>
@@ -66,9 +66,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-deletedregionscallback"
 <section class="detail" id="onCompleted(com.here.sdk.maploader.MapLoaderError,java.util.List)">
 <h3>onCompleted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onCompleted</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> maploaderError,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> maploaderError,
  @Nullable
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions)</span></div>
 <div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#deleteRegions(java.util.List,com.here.sdk.maploader.DeletedRegionsCallback)"><code>MapDownloader.deleteRegions(java.util.List&lt;com.here.sdk.maploader.RegionId&gt;, com.here.sdk.maploader.DeletedRegionsCallback)</code></a> has been completed.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

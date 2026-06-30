@@ -20,18 +20,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-z
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.navigation.TrackingCameraBehavior.ZoomPolicy</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TrackingCameraBehavior.ZoomPolicy</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Defines zoom behavior in different policy settings.
  Note: This is a beta feature; there maybe bugs and unexpected behavior. Related API's are
  subject to change without a deprecation process.</p></div>
@@ -49,18 +49,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-z
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-zoompolicy#makeFixedZoomPolicy(double)">makeFixedZoomPolicy</a><wbr/>(double zoomLevel)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a zoom policy that always returns a fixed zoom level.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-zoompolicy#makeFunctionalRoadClassZoomPolicy(com.here.sdk.navigation.TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions)">makeFunctionalRoadClassZoomPolicy</a><wbr/>(<a href="sdk-for-android-navigate-trackingcamerabehavior.functionalroadclasszoompolicyoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions</a> options)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-zoompolicy#makeFunctionalRoadClassZoomPolicy(com.here.sdk.navigation.TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions)">makeFunctionalRoadClassZoomPolicy</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.functionalroadclasszoompolicyoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions</a> options)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Instantiates a zoom policy that selects zoom levels based on functional road class.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-zoompolicy#makeSpeedBasedZoomPolicy(com.here.sdk.navigation.TrackingCameraBehavior.SpeedBasedZoomPolicyOptions)">makeSpeedBasedZoomPolicy</a><wbr/>(<a href="sdk-for-android-navigate-trackingcamerabehavior.speedbasedzoompolicyoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.SpeedBasedZoomPolicyOptions</a> options)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-zoompolicy#makeSpeedBasedZoomPolicy(com.here.sdk.navigation.TrackingCameraBehavior.SpeedBasedZoomPolicyOptions)">makeSpeedBasedZoomPolicy</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.speedbasedzoompolicyoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.SpeedBasedZoomPolicyOptions</a> options)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Instantiates a zoom policy driven by speed thresholds defined per road classification.</div>
 </div>
@@ -85,7 +85,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-z
 <section class="detail" id="makeFixedZoomPolicy(double)">
 <h3>makeFixedZoomPolicy</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></span> <span class="element-name">makeFixedZoomPolicy</span><wbr/><span class="parameters">(double zoomLevel)</span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></span> <span class="element-name">makeFixedZoomPolicy</span><wbr/><span class="parameters">(double zoomLevel)</span></div>
 <div class="block"><p>Creates a zoom policy that always returns a fixed zoom level.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -99,8 +99,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-z
 <section class="detail" id="makeFunctionalRoadClassZoomPolicy(com.here.sdk.navigation.TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions)">
 <h3>makeFunctionalRoadClassZoomPolicy</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></span> <span class="element-name">makeFunctionalRoadClassZoomPolicy</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-trackingcamerabehavior.functionalroadclasszoompolicyoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions</a> options)</span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></span> <span class="element-name">makeFunctionalRoadClassZoomPolicy</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.functionalroadclasszoompolicyoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.FunctionalRoadClassZoomPolicyOptions</a> options)</span></div>
 <div class="block"><p>Instantiates a zoom policy that selects zoom levels based on functional road class.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -114,8 +114,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-z
 <section class="detail" id="makeSpeedBasedZoomPolicy(com.here.sdk.navigation.TrackingCameraBehavior.SpeedBasedZoomPolicyOptions)">
 <h3>makeSpeedBasedZoomPolicy</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></span> <span class="element-name">makeSpeedBasedZoomPolicy</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-trackingcamerabehavior.speedbasedzoompolicyoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.SpeedBasedZoomPolicyOptions</a> options)</span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.zoompolicy" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ZoomPolicy</a></span> <span class="element-name">makeSpeedBasedZoomPolicy</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.speedbasedzoompolicyoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.SpeedBasedZoomPolicyOptions</a> options)</span></div>
 <div class="block"><p>Instantiates a zoom policy driven by speed thresholds defined per road classification.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

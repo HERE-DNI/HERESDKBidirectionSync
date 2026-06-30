@@ -49,7 +49,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-searchoptions"
 <div class="col-last odd-row-color">
 <div class="block">Allows enabling high density encoding of relevant parameters.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-searchoptions#languageCode">languageCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The preferred language of the result.</div>
@@ -115,7 +115,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-searchoptions"
 <section class="detail" id="languageCode">
 <h3>languageCode</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">languageCode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">languageCode</span></div>
 <div class="block"><p>The preferred language of the result. When unset or unsupported language is chosen,
  results will be returned in their local language.</p></div>
 </section>

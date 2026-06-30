@@ -33,12 +33,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder-
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapSceneLoadOptionsBuilder.InstantiationException</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a></span></div>
-<div class="block"><p>Thrown when failing to build a <a href="sdk-for-android-navigate-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a>.</p></div>
+<div class="block"><p>Thrown when failing to build a <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a>.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
 <dd>

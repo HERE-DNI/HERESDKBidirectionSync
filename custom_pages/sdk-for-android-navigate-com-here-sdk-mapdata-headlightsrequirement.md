@@ -20,18 +20,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>&gt;
 <div class="inheritance">com.here.sdk.mapdata.HeadlightsRequirement</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">HeadlightsRequirement</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>&gt;</span></div>
 <div class="block"><p>The situations in which headlights are required to be turned on.</p></div>
 </section>
 <section class="summary">
@@ -84,12 +84,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -118,14 +118,14 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="ALWAYS_ON">
 <h3>ALWAYS_ON</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a></span> <span class="element-name">ALWAYS_ON</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a></span> <span class="element-name">ALWAYS_ON</span></div>
 <div class="block"><p>The headlights should always be on.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HALF_HOUR_AFTER_SUNSET_HALF_HOUR_BEFORE_SUNRISE">
 <h3>HALF_HOUR_AFTER_SUNSET_HALF_HOUR_BEFORE_SUNRISE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a></span> <span class="element-name">HALF_HOUR_AFTER_SUNSET_HALF_HOUR_BEFORE_SUNRISE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a></span> <span class="element-name">HALF_HOUR_AFTER_SUNSET_HALF_HOUR_BEFORE_SUNRISE</span></div>
 <div class="block"><p>The headlights should be on half hour after sunset and half hour
  before sunrise.</p></div>
 </section>
@@ -133,14 +133,14 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="WHEN_WINDSHIELD_VIPERS_ON">
 <h3>WHEN_WINDSHIELD_VIPERS_ON</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a></span> <span class="element-name">WHEN_WINDSHIELD_VIPERS_ON</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a></span> <span class="element-name">WHEN_WINDSHIELD_VIPERS_ON</span></div>
 <div class="block"><p>The headlights should be on when the windshield wipers are also on.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LOW_VISIBILITY">
 <h3>LOW_VISIBILITY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a></span> <span class="element-name">LOW_VISIBILITY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a></span> <span class="element-name">LOW_VISIBILITY</span></div>
 <div class="block"><p>The headlights should be on in conditions of low visibility.</p></div>
 </section>
 </li>
@@ -155,7 +155,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -167,7 +167,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-headlightsrequirement" title="enum class in com.here.sdk.mapdata">HeadlightsRequirement</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

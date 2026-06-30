@@ -60,7 +60,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarning"
 <div class="col-last even-row-color">
 <div class="block">Identifier of the warning.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-customwarning#payload">payload</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Custom warning payload.</div>
@@ -167,7 +167,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarning"
 <section class="detail" id="payload">
 <h3>payload</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">payload</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">payload</span></div>
 <div class="block"><p>Custom warning payload.
  Contains warning-specific payload data.
  A value of <code>null</code> indicates that no additional data is associated with the warning.</p></div>

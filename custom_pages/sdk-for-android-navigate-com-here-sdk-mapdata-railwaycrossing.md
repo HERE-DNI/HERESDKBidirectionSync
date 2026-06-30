@@ -27,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">RailwayCrossing</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Identifies the presence and the location of railway corssings.
- Included in <a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata"><code>SegmentData</code></a> only if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadRailwayCrossings"><code>SegmentDataLoaderOptions.loadRailwayCrossings</code></a> is set to <code>true</code>.</p></div>
+ Included in <a href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata" title="class in com.here.sdk.mapdata"><code>SegmentData</code></a> only if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadRailwayCrossings"><code>SegmentDataLoaderOptions.loadRailwayCrossings</code></a> is set to <code>true</code>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -45,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <div class="col-last even-row-color">
 <div class="block">The end offset, in meters, from the beginning of the segment.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing#railwayCrossingType">railwayCrossingType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of barrier presented by the railway crossing.</div>
@@ -66,7 +66,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing#%3Cinit%3E(com.here.sdk.mapdata.RailwayCrossingType)">RailwayCrossing</a><wbr/>(<a href="sdk-for-android-navigate-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a> railwayCrossingType)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing#%3Cinit%3E(com.here.sdk.mapdata.RailwayCrossingType)">RailwayCrossing</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a> railwayCrossingType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -115,7 +115,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <section class="detail" id="railwayCrossingType">
 <h3>railwayCrossingType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a></span> <span class="element-name">railwayCrossingType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a></span> <span class="element-name">railwayCrossingType</span></div>
 <div class="block"><p>The type of barrier presented by the railway crossing.</p></div>
 </section>
 </li>
@@ -131,7 +131,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapdata.RailwayCrossingType)">
 <h3>RailwayCrossing</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RailwayCrossing</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a> railwayCrossingType)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossingtype" title="enum class in com.here.sdk.mapdata">RailwayCrossingType</a> railwayCrossingType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

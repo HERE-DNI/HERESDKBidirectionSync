@@ -41,12 +41,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialnotificationdetai
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-spatialaudiocuepanning" title="class in com.here.sdk.navigation">SpatialAudioCuePanning</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning" title="class in com.here.sdk.navigation">SpatialAudioCuePanning</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-spatialnotificationdetails#audioCuePanning">audioCuePanning</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Object to start the angular panning when spatialization of the text notification is desired</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-spatialnotificationdetails#estimatedAudioCueDuration">estimatedAudioCueDuration</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Estimation of the required time to play an audio cue at speech rate 1.0.</div>
@@ -68,8 +68,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialnotificationdetai
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-spatialnotificationdetails#%3Cinit%3E(double,com.here.sdk.navigation.SpatialAudioCuePanning,com.here.time.Duration)">SpatialNotificationDetails</a><wbr/>(double initialAzimuthInDegrees,
- <a href="sdk-for-android-navigate-spatialaudiocuepanning" title="class in com.here.sdk.navigation">SpatialAudioCuePanning</a> audioCuePanning,
- <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> estimatedAudioCueDuration)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning" title="class in com.here.sdk.navigation">SpatialAudioCuePanning</a> audioCuePanning,
+ <a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a> estimatedAudioCueDuration)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -139,7 +139,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialnotificationdetai
 <section class="detail" id="audioCuePanning">
 <h3>audioCuePanning</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-spatialaudiocuepanning" title="class in com.here.sdk.navigation">SpatialAudioCuePanning</a></span> <span class="element-name">audioCuePanning</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning" title="class in com.here.sdk.navigation">SpatialAudioCuePanning</a></span> <span class="element-name">audioCuePanning</span></div>
 <div class="block"><p>Object to start the angular panning when spatialization of the text notification is desired</p></div>
 </section>
 </li>
@@ -147,7 +147,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialnotificationdetai
 <section class="detail" id="estimatedAudioCueDuration">
 <h3>estimatedAudioCueDuration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">estimatedAudioCueDuration</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">estimatedAudioCueDuration</span></div>
 <div class="block"><p>Estimation of the required time to play an audio cue at speech rate 1.0.
  For example the cue "Turn right on Name-Of-A-Street" will playback over an X number of milliseconds.
  Therefore, an estimation of this audio cue duration is needed to correctly sync the movement
@@ -167,9 +167,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialnotificationdetai
 <h3>SpatialNotificationDetails</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SpatialNotificationDetails</span><wbr/><span class="parameters">(double initialAzimuthInDegrees,
  @NonNull
- <a href="sdk-for-android-navigate-spatialaudiocuepanning" title="class in com.here.sdk.navigation">SpatialAudioCuePanning</a> audioCuePanning,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning" title="class in com.here.sdk.navigation">SpatialAudioCuePanning</a> audioCuePanning,
  @NonNull
- <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> estimatedAudioCueDuration)</span></div>
+ <a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a> estimatedAudioCueDuration)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

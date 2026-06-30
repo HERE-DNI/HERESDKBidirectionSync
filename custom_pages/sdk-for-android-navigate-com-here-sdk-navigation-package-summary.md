@@ -263,7 +263,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-package-summary"
 </div>
 <div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-maneuverprogress" title="class in com.here.sdk.navigation">ManeuverProgress</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
-<div class="block">Indicates a user's progress to a <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>.</div>
+<div class="block">Indicates a user's progress to a <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>.</div>
 </div>
 <div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-maneuverviewlaneassistance" title="class in com.here.sdk.navigation">ManeuverViewLaneAssistance</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
@@ -477,7 +477,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-package-summary"
 </div>
 <div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-sectionprogress" title="class in com.here.sdk.navigation">SectionProgress</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
-<div class="block">Indicates a user's progress along a <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</div>
+<div class="block">Indicates a user's progress along a <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</div>
 </div>
 <div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-spatialaudiocuepanning" title="class in com.here.sdk.navigation">SpatialAudioCuePanning</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">

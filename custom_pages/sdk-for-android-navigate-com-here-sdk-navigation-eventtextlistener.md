@@ -23,7 +23,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtextlistener"
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">EventTextListener</span></div>
 <div class="block"><p>This interface should be implemented in order to receive notifications
- when text notifications are available from <a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>. Multiple notifications
+ when text notifications are available from <a href="sdk-for-android-navigate-com-here-sdk-navigation-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>. Multiple notifications
  can be given for the same maneuver at different distances.</p></div>
 </section>
 <section class="summary">
@@ -40,7 +40,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtextlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-eventtextlistener#onEventTextUpdated(com.here.sdk.navigation.EventText)">onEventTextUpdated</a><wbr/>(<a href="sdk-for-android-navigate-eventtext" title="class in com.here.sdk.navigation">EventText</a> eventText)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-eventtextlistener#onEventTextUpdated(com.here.sdk.navigation.EventText)">onEventTextUpdated</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-eventtext" title="class in com.here.sdk.navigation">EventText</a> eventText)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever there is a new text notification for a maneuver (multiple notifications can be
  given for the same maneuver at different distances (for example: "After 500 meters turn
@@ -65,7 +65,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtextlistener"
 <section class="detail" id="onEventTextUpdated(com.here.sdk.navigation.EventText)">
 <h3>onEventTextUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onEventTextUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-eventtext" title="class in com.here.sdk.navigation">EventText</a> eventText)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-eventtext" title="class in com.here.sdk.navigation">EventText</a> eventText)</span></div>
 <div class="block"><p>Called whenever there is a new text notification for a maneuver (multiple notifications can be
  given for the same maneuver at different distances (for example: "After 500 meters turn
  right." or "Now turn right.") and in that case, this method will be called once for each

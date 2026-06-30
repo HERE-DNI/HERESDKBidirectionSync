@@ -38,7 +38,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcel
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener#onRasterDataSourceError(com.here.sdk.mapview.datasource.RasterDataSourceError)">onRasterDataSourceError</a><wbr/>(<a href="sdk-for-android-explore-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a> dataSourceError)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener#onRasterDataSourceError(com.here.sdk.mapview.datasource.RasterDataSourceError)">onRasterDataSourceError</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a> dataSourceError)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method to call on the listener when a data source error occurs.</div>
 </div>
@@ -72,7 +72,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcel
 <section class="detail" id="onRasterDataSourceError(com.here.sdk.mapview.datasource.RasterDataSourceError)">
 <h3>onRasterDataSourceError</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onRasterDataSourceError</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a> dataSourceError)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a> dataSourceError)</span></div>
 <div class="block"><p>The method to call on the listener when a data source error occurs.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

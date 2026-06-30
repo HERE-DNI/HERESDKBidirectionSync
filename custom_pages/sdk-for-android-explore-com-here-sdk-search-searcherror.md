@@ -20,18 +20,18 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searcherror"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a>&gt;
 <div class="inheritance">com.here.sdk.search.SearchError</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">SearchError</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a>&gt;</span></div>
 <div class="block"><p>Specifies possible errors that may result from a search query.</p></div>
 </section>
 <section class="summary">
@@ -172,12 +172,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searcherror"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searcherror#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searcherror#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -206,175 +206,175 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="AUTHENTICATION_FAILED">
 <h3>AUTHENTICATION_FAILED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">AUTHENTICATION_FAILED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">AUTHENTICATION_FAILED</span></div>
 <div class="block"><p>Search operation is not authenticated. Check your credentials.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MAX_ITEMS_OUT_OF_RANGE">
 <h3>MAX_ITEMS_OUT_OF_RANGE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">MAX_ITEMS_OUT_OF_RANGE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">MAX_ITEMS_OUT_OF_RANGE</span></div>
 <div class="block"><p>Should be in the range [1, 100].</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PARSING_ERROR">
 <h3>PARSING_ERROR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">PARSING_ERROR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">PARSING_ERROR</span></div>
 <div class="block"><p>Error while parsing response data.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NO_RESULTS_FOUND">
 <h3>NO_RESULTS_FOUND</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">NO_RESULTS_FOUND</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">NO_RESULTS_FOUND</span></div>
 <div class="block"><p>No results found.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HTTP_ERROR">
 <h3>HTTP_ERROR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">HTTP_ERROR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">HTTP_ERROR</span></div>
 <div class="block"><p>Network request error.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SERVER_UNREACHABLE">
 <h3>SERVER_UNREACHABLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">SERVER_UNREACHABLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">SERVER_UNREACHABLE</span></div>
 <div class="block"><p>Server unreachable.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FORBIDDEN">
 <h3>FORBIDDEN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">FORBIDDEN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">FORBIDDEN</span></div>
 <div class="block"><p>The credentials given do not provide access to the resource requested.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="EXCEEDED_USAGE_LIMIT">
 <h3>EXCEEDED_USAGE_LIMIT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">EXCEEDED_USAGE_LIMIT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">EXCEEDED_USAGE_LIMIT</span></div>
 <div class="block"><p>Credentials exceeded the allowed requests limit.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OPERATION_FAILED">
 <h3>OPERATION_FAILED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">OPERATION_FAILED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">OPERATION_FAILED</span></div>
 <div class="block"><p>Operation failed due to an internal error.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OPERATION_CANCELLED">
 <h3>OPERATION_CANCELLED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">OPERATION_CANCELLED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">OPERATION_CANCELLED</span></div>
 <div class="block"><p>Operation cancelled.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TIMED_OUT">
 <h3>TIMED_OUT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">TIMED_OUT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">TIMED_OUT</span></div>
 <div class="block"><p>The request timed out.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OFFLINE">
 <h3>OFFLINE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">OFFLINE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">OFFLINE</span></div>
 <div class="block"><p>The device does not have an internet connection.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="QUERY_TOO_LONG">
 <h3>QUERY_TOO_LONG</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">QUERY_TOO_LONG</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">QUERY_TOO_LONG</span></div>
 <div class="block"><p>Query is too long, max. size is 300 characters.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FILTER_TOO_LONG">
 <h3>FILTER_TOO_LONG</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">FILTER_TOO_LONG</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">FILTER_TOO_LONG</span></div>
 <div class="block"><p>Filter is too long, max. size is 300 characters.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PROXY_AUTHENTICATION_FAILED">
 <h3>PROXY_AUTHENTICATION_FAILED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">PROXY_AUTHENTICATION_FAILED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">PROXY_AUTHENTICATION_FAILED</span></div>
 <div class="block"><p>Proxy is not authenticated. Check your proxy credentials.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PROXY_SERVER_UNREACHABLE">
 <h3>PROXY_SERVER_UNREACHABLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">PROXY_SERVER_UNREACHABLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">PROXY_SERVER_UNREACHABLE</span></div>
 <div class="block"><p>Proxy server unreachable.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="QUERY_EMPTY">
 <h3>QUERY_EMPTY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">QUERY_EMPTY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">QUERY_EMPTY</span></div>
 <div class="block"><p>Empty query</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INVALID_AREA">
 <h3>INVALID_AREA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_AREA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_AREA</span></div>
 <div class="block"><p>Box or circle area of query is invalid</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FILTER_EMPTY">
 <h3>FILTER_EMPTY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">FILTER_EMPTY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">FILTER_EMPTY</span></div>
 <div class="block"><p>Filter is empty</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INVALID_CORRIDOR_POLYLINE">
 <h3>INVALID_CORRIDOR_POLYLINE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_CORRIDOR_POLYLINE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_CORRIDOR_POLYLINE</span></div>
 <div class="block"><p>Corridor area polyline size is less than 2 points</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INVALID_URL">
 <h3>INVALID_URL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_URL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_URL</span></div>
 <div class="block"><p>Url is invalid</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INVALID_CUSTOM_OPTION_FORMAT">
 <h3>INVALID_CUSTOM_OPTION_FORMAT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_CUSTOM_OPTION_FORMAT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_CUSTOM_OPTION_FORMAT</span></div>
 <div class="block"><p>Custom options are set in an invalid format in the query</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INVALID_TRUCK_CLASS">
 <h3>INVALID_TRUCK_CLASS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_TRUCK_CLASS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">INVALID_TRUCK_CLASS</span></div>
 <div class="block"><p>Light truck class is passed in the filter</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BAD_REQUEST">
 <h3>BAD_REQUEST</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">BAD_REQUEST</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">BAD_REQUEST</span></div>
 <div class="block"><p>Bad network request</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MAP_NOT_READY">
 <h3>MAP_NOT_READY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">MAP_NOT_READY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">MAP_NOT_READY</span></div>
 <div class="block"><p>Offline map data is incomplete for the requested operation.
  Regions are not downloaded or are in the <code>Pending</code> state.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -384,7 +384,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="LAYERS_NOT_DOWNLOADED">
 <h3>LAYERS_NOT_DOWNLOADED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">LAYERS_NOT_DOWNLOADED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">LAYERS_NOT_DOWNLOADED</span></div>
 <div class="block"><p>Downloaded regions missing <a href="sdk-for-android-explore-layerconfiguration.feature#OFFLINE_SEARCH_GLOBAL"><code>LayerConfiguration.Feature.OFFLINE_SEARCH_GLOBAL</code></a>
  feature. Update or redownload regions with enabled feature.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -402,7 +402,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -414,7 +414,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

@@ -49,7 +49,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-trafficonspan"
 <div class="col-last odd-row-color">
 <div class="block">The power consumption in kilowatt-hours (kWh) necessary to traverse the span.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#duration">duration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The time duration necessary to traverse the traffic span.</div>
@@ -69,7 +69,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-trafficonspan"
 <div class="col-last odd-row-color">
 <div class="block">Length of the traffic span, in meters.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-trafficonspan#trafficDelay">trafficDelay</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The estimated extra time in seconds spent due to traffic delays along this traffic span.</div>
@@ -154,7 +154,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-trafficonspan"
 <section class="detail" id="duration">
 <h3>duration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
 <div class="block"><p>The time duration necessary to traverse the traffic span. This duration takes also into
  consideration the delays caused by the traffic.</p></div>
 </section>
@@ -163,7 +163,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-trafficonspan"
 <section class="detail" id="trafficDelay">
 <h3>trafficDelay</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">trafficDelay</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">trafficDelay</span></div>
 <div class="block"><p>The estimated extra time in seconds spent due to traffic delays along this traffic span.
  Negative values indicate that the traffic span can be traversed faster than usual.</p></div>
 </section>

@@ -43,7 +43,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-ontaskcompleted"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-threading-ontaskcompleted#onTaskCompleted(com.here.sdk.core.threading.TaskOutcome)">onTaskCompleted</a><wbr/>(<a href="sdk-for-android-explore-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a> taskOutcome)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-threading-ontaskcompleted#onTaskCompleted(com.here.sdk.core.threading.TaskOutcome)">onTaskCompleted</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-threading-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a> taskOutcome)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method will be called on the main thread when a task call has been completed.</div>
 </div>
@@ -65,7 +65,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-ontaskcompleted"
 <section class="detail" id="onTaskCompleted(com.here.sdk.core.threading.TaskOutcome)">
 <h3>onTaskCompleted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onTaskCompleted</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a> taskOutcome)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-threading-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a> taskOutcome)</span></div>
 <div class="block"><p>The method will be called on the main thread when a task call has been completed.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

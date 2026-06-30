@@ -20,18 +20,18 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapMarker</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapMarker</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p><code>MapMarker</code> is used to draw images on the map, for example to mark a specific location.
  By default, the marker is centered on the given geographic coordinates.
  Markers keep their size regardless of the current zoom level of the map view.
- The image to be displayed is represented by <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> object. For performance reasons,
+ The image to be displayed is represented by <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> object. For performance reasons,
  it is highly recommended to reuse a single instance of the image when creating multiple
  identical markers.
  To display the map marker, it needs to be added to the scene using <a href="sdk-for-android-explore-mapscene#addMapMarker(com.here.sdk.mapview.MapMarker)"><code>MapScene.addMapMarker(com.here.sdk.mapview.MapMarker)</code></a>.
@@ -62,9 +62,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
+<div class="block">Styling options for the text of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </div>
 </div>
 </section>
@@ -77,20 +77,20 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage)">MapMarker</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
- <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage)">MapMarker</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of a marker at given coordinates, represented by specified image.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)">MapMarker</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
- <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
- <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)">MapMarker</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
+ <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates an instance of a marker at given coordinates, represented by specified image,
  with anchor point specifying how the image is positioned relative to the marker's coordinates.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,java.lang.String)">MapMarker</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
- <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,java.lang.String)">MapMarker</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> text)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a <code>MapMarker</code> instance at given coordinates with specified image and text and a default text style.</div>
@@ -110,16 +110,16 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#cancelAnimation(com.here.sdk.animation.MapMarkerAnimation)">cancelAnimation</a><wbr/>(<a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a> animation)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#cancelAnimation(com.here.sdk.animation.MapMarkerAnimation)">cancelAnimation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a> animation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Cancels single ongoing animation.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#getAnchor()">getAnchor</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets current anchor point for the marker image.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#getCoordinates()">getCoordinates</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the point on the map where the marker is drawn.</div>
@@ -129,17 +129,17 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets draw order of this marker relative to other markers.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#getFadeDuration()">getFadeDuration</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current duration of a fade-in effect on marker addition to a scene or a fade-out effect on marker removal from a scene.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#getImage()">getImage</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets currently used map image.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#getMetadata()">getMetadata</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the Metadata instance attached to this marker.</div>
@@ -154,12 +154,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the text drawn on the map by the <code>MapMarker</code>.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#getTextStyle()">getTextStyle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a copy of the <code>TextStyle</code> currently in use by the <code>MapMarker</code>.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#getVisibilityRanges()">getVisibilityRanges</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the list of visibility ranges.</div>
@@ -175,13 +175,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <div class="block">Returns <code>true</code> if the marker allows text to be hidden, <code>false</code> otherwise.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setAnchor(com.here.sdk.core.Anchor2D)">setAnchor</a><wbr/>(<a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setAnchor(com.here.sdk.core.Anchor2D)">setAnchor</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets anchor point of the marker image which specifies the position offset relative
  to the marker's coordinates.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setCoordinates(com.here.sdk.core.GeoCoordinates)">setCoordinates</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setCoordinates(com.here.sdk.core.GeoCoordinates)">setCoordinates</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the point on the map where the marker is drawn.</div>
 </div>
@@ -191,17 +191,17 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <div class="block">Sets draw order of this marker relative to other markers.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setFadeDuration(com.here.time.Duration)">setFadeDuration</a><wbr/>(<a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setFadeDuration(com.here.time.Duration)">setFadeDuration</a><wbr/>(<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets duration of a fade-in effect on marker addition to a scene or a fade-out effect on marker removal from a scene.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setImage(com.here.sdk.mapview.MapImage)">setImage</a><wbr/>(<a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setImage(com.here.sdk.mapview.MapImage)">setImage</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets map image used to represent the marker on screen.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setMetadata(com.here.sdk.core.Metadata)">setMetadata</a><wbr/>(<a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setMetadata(com.here.sdk.core.Metadata)">setMetadata</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the Metadata instance attached to this marker.</div>
 </div>
@@ -226,20 +226,20 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <div class="block">Sets whether the marker is allowed to appear without text.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setTextStyle(com.here.sdk.mapview.MapMarker.TextStyle)">setTextStyle</a><wbr/>(<a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setTextStyle(com.here.sdk.mapview.MapMarker.TextStyle)">setTextStyle</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the <code>TextStyle</code> to be used by the <code>MapMarker</code>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setVisibilityRanges(java.util.List)">setVisibilityRanges</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#setVisibilityRanges(java.util.List)">setVisibilityRanges</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets visibility ranges for this map marker.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)">startAnimation</a><wbr/>(<a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a> animation,
- <a href="sdk-for-android-explore-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker#startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)">startAnimation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a> animation,
+ <a href="sdk-for-android-explore-com-here-sdk-animation-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Starts animation of this map marker according to provided <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.</div>
+<div class="block">Starts animation of this map marker according to provided <a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.</div>
 </div>
 </div>
 </div>
@@ -262,9 +262,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage)">
 <h3>MapMarker</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMarker</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  @NonNull
- <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</span></div>
 <div class="block"><p>Creates an instance of a marker at given coordinates, represented by specified image.
  The altitude component of the coordinates is ignored.</p></div>
 <dl class="notes">
@@ -278,9 +278,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,java.lang.String)">
 <h3>MapMarker</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMarker</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  @NonNull
- <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> text)</span></div>
 <div class="block"><p>Creates a <code>MapMarker</code> instance at given coordinates with specified image and text and a default text style.
@@ -297,11 +297,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)">
 <h3>MapMarker</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMarker</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  @NonNull
- <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
  @NonNull
- <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</span></div>
 <div class="block"><p>Creates an instance of a marker at given coordinates, represented by specified image,
  with anchor point specifying how the image is positioned relative to the marker's coordinates.
  The anchor is a way of specifying position offset relative to image's dimensions on the screen.
@@ -332,10 +332,10 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)">
 <h3>startAnimation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a> animation,
+ <a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a> animation,
  @Nullable
- <a href="sdk-for-android-explore-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</span></div>
-<div class="block"><p>Starts animation of this map marker according to provided <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.
+ <a href="sdk-for-android-explore-com-here-sdk-animation-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</span></div>
+<div class="block"><p>Starts animation of this map marker according to provided <a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.
  The <code>MapMarkerAnimation</code> may be shared between multiple instances of <code>MapMarker</code>.
  Starting animation on one map marker does not influence any ongoing animations on other map markers.
  Any ongoing animation of this marker instance will get cancelled.</p></div>
@@ -350,10 +350,10 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="cancelAnimation(com.here.sdk.animation.MapMarkerAnimation)">
 <h3>cancelAnimation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a> animation)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a> animation)</span></div>
 <div class="block"><p>Cancels single ongoing animation.
  Does nothing if animation was not started for this map marker.
- Does not cancel other animations if the same <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a> object was applied to multiple <code>MapMarker</code>s.</p></div>
+ Does not cancel other animations if the same <a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a> object was applied to multiple <code>MapMarker</code>s.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>animation</code> - <p>The animation to cancel.</p></dd>
@@ -364,7 +364,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="getCoordinates()">
 <h3>getCoordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinates</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinates</span>()</div>
 <div class="block"><p>Gets the point on the map where the marker is drawn.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -376,7 +376,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="setCoordinates(com.here.sdk.core.GeoCoordinates)">
 <h3>setCoordinates</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</span></div>
 <div class="block"><p>Sets the point on the map where the marker is drawn.
  The altitude component of the coordinates is ignored.</p></div>
 <dl class="notes">
@@ -389,12 +389,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="getMetadata()">
 <h3>getMetadata</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">getMetadata</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">getMetadata</span>()</div>
 <div class="block"><p>Gets the Metadata instance attached to this marker.
  This will be <code>null</code> if nothing has been attached before.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The Metadata instance attached to this marker, see <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a>.</p></dd>
+<dd><p>The Metadata instance attached to this marker, see <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -402,11 +402,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="setMetadata(com.here.sdk.core.Metadata)">
 <h3>setMetadata</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a> value)</span></div>
 <div class="block"><p>Sets the Metadata instance attached to this marker.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>value</code> - <p>The Metadata instance attached to this marker, see <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a>.</p></dd>
+<dd><code>value</code> - <p>The Metadata instance attached to this marker, see <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -494,7 +494,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="getImage()">
 <h3>getImage</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">getImage</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">getImage</span>()</div>
 <div class="block"><p>Gets currently used map image.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -506,7 +506,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="setImage(com.here.sdk.mapview.MapImage)">
 <h3>setImage</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setImage</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> value)</span></div>
 <div class="block"><p>Sets map image used to represent the marker on screen.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -518,7 +518,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="getAnchor()">
 <h3>getAnchor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getAnchor</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getAnchor</span>()</div>
 <div class="block"><p>Gets current anchor point for the marker image.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -531,7 +531,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="setAnchor(com.here.sdk.core.Anchor2D)">
 <h3>setAnchor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAnchor</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</span></div>
 <div class="block"><p>Sets anchor point of the marker image which specifies the position offset relative
  to the marker's coordinates.
  For example, (0, 0) places the top-left corner of the image at the marker's coordinates.
@@ -577,7 +577,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="getFadeDuration()">
 <h3>getFadeDuration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getFadeDuration</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getFadeDuration</span>()</div>
 <div class="block"><p>Gets the current duration of a fade-in effect on marker addition to a scene or a fade-out effect on marker removal from a scene.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -589,7 +589,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="setFadeDuration(com.here.time.Duration)">
 <h3>setFadeDuration</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFadeDuration</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> value)</span></div>
 <div class="block"><p>Sets duration of a fade-in effect on marker addition to a scene or a fade-out effect on marker removal from a scene.
  Provided value is clamped in range [0.0, 10.0] seconds. Default value is 0 seconds which means the effect is disabled
  and marker is added/removed immediately without any animation.
@@ -631,7 +631,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="getTextStyle()">
 <h3>getTextStyle</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></span> <span class="element-name">getTextStyle</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></span> <span class="element-name">getTextStyle</span>()</div>
 <div class="block"><p>Gets a copy of the <code>TextStyle</code> currently in use by the <code>MapMarker</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -643,7 +643,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="setTextStyle(com.here.sdk.mapview.MapMarker.TextStyle)">
 <h3>setTextStyle</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTextStyle</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a> value)</span></div>
 <div class="block"><p>Sets the <code>TextStyle</code> to be used by the <code>MapMarker</code>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -655,7 +655,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="getVisibilityRanges()">
 <h3>getVisibilityRanges</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</span> <span class="element-name">getVisibilityRanges</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</span> <span class="element-name">getVisibilityRanges</span>()</div>
 <div class="block"><p>Gets the list of visibility ranges. The map marker is visible only inside these map measure
  ranges. When empty (the default), the map marker is visible without map measure restrictions.</p></div>
 <dl class="notes">
@@ -668,7 +668,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
 <section class="detail" id="setVisibilityRanges(java.util.List)">
 <h3>setVisibilityRanges</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</span></div>
 <div class="block"><p>Sets visibility ranges for this map marker.
  A range is half open - [minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
  The map marker is visible only inside these map measure ranges.

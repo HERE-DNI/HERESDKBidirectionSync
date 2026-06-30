@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameralistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralistener#onMapCameraUpdated(com.here.sdk.mapview.MapCamera.State)">onMapCameraUpdated</a><wbr/>(<a href="sdk-for-android-navigate-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralistener#onMapCameraUpdated(com.here.sdk.mapview.MapCamera.State)">onMapCameraUpdated</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called on the main thread after the map is drawn.</div>
 </div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameralistener"
 <section class="detail" id="onMapCameraUpdated(com.here.sdk.mapview.MapCamera.State)">
 <h3>onMapCameraUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onMapCameraUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</span></div>
 <div class="block"><p>Called on the main thread after the map is drawn.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

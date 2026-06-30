@@ -39,17 +39,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-businessdetails"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-contact" title="class in com.here.sdk.search">Contact</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-contact" title="class in com.here.sdk.search">Contact</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-businessdetails#contacts">contacts</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of contact information of the place.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-search-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-businessdetails#evChargingPool">evChargingPool</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">EV charging pool details.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-openinghours" title="class in com.here.sdk.search">OpeningHours</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">OpeningHours</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-businessdetails#openingHours">openingHours</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of opening hours information of the place (not available in result of suggest request).</div>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-businessdetails"
 <section class="detail" id="contacts">
 <h3>contacts</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-contact" title="class in com.here.sdk.search">Contact</a>&gt;</span> <span class="element-name">contacts</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-contact" title="class in com.here.sdk.search">Contact</a>&gt;</span> <span class="element-name">contacts</span></div>
 <div class="block"><p>The list of contact information of the place.</p></div>
 </section>
 </li>
@@ -118,7 +118,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-businessdetails"
 <section class="detail" id="openingHours">
 <h3>openingHours</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-openinghours" title="class in com.here.sdk.search">OpeningHours</a>&gt;</span> <span class="element-name">openingHours</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-openinghours" title="class in com.here.sdk.search">OpeningHours</a>&gt;</span> <span class="element-name">openingHours</span></div>
 <div class="block"><p>The list of opening hours information of the place (not available in result of suggest request).</p></div>
 </section>
 </li>
@@ -126,7 +126,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-businessdetails"
 <section class="detail" id="evChargingPool">
 <h3>evChargingPool</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a></span> <span class="element-name">evChargingPool</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-evchargingpool" title="class in com.here.sdk.search">EVChargingPool</a></span> <span class="element-name">evChargingPool</span></div>
 <div class="block"><p>EV charging pool details. It is available only for a place that is a charging pool
  for electric vehicles. Charging stations data are only available to users with
  valid contracts with HERE.</p></div>

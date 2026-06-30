@@ -26,7 +26,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">ElectronicHorizonSegment</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Represents a segment in an <a href="sdk-for-android-navigate-electronichorizonpath" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonPath</code></a>.
+<div class="block"><p>Represents a segment in an <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonpath" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonPath</code></a>.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -51,7 +51,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="col-last odd-row-color">
 <div class="block">The index of the parent path.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-electronichorizonsegmentid" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentId</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonsegmentid" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentId</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonsegment#segmentId">segmentId</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The unique identifier of the segment.</div>
@@ -77,7 +77,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonsegment#%3Cinit%3E(com.here.sdk.electronichorizon.ElectronicHorizonSegmentId,int,double,double)">ElectronicHorizonSegment</a><wbr/>(<a href="sdk-for-android-navigate-electronichorizonsegmentid" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentId</a> segmentId,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonsegment#%3Cinit%3E(com.here.sdk.electronichorizon.ElectronicHorizonSegmentId,int,double,double)">ElectronicHorizonSegment</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonsegmentid" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentId</a> segmentId,
  int parentPathIndex,
  double startOffsetInMeters,
  double endOffsetInMeters)</code></div>
@@ -125,7 +125,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <section class="detail" id="segmentId">
 <h3>segmentId</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-electronichorizonsegmentid" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentId</a></span> <span class="element-name">segmentId</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonsegmentid" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentId</a></span> <span class="element-name">segmentId</span></div>
 <div class="block"><p>The unique identifier of the segment.</p></div>
 </section>
 </li>
@@ -171,7 +171,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <section class="detail" id="&lt;init&gt;(com.here.sdk.electronichorizon.ElectronicHorizonSegmentId,int,double,double)">
 <h3>ElectronicHorizonSegment</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ElectronicHorizonSegment</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-electronichorizonsegmentid" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentId</a> segmentId,
+ <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonsegmentid" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentId</a> segmentId,
  int parentPathIndex,
  double startOffsetInMeters,
  double endOffsetInMeters)</span></div>

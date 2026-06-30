@@ -45,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-repairpersistentmapcallba
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-repairpersistentmapcallback#onCompleted(com.here.sdk.maploader.PersistentMapRepairError)">onCompleted</a><wbr/>(<a href="sdk-for-android-navigate-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a> persistentMapRepairError)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-repairpersistentmapcallback#onCompleted(com.here.sdk.maploader.PersistentMapRepairError)">onCompleted</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a> persistentMapRepairError)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#repairPersistentMap(com.here.sdk.maploader.RepairPersistentMapCallback)"><code>MapDownloader.repairPersistentMap(com.here.sdk.maploader.RepairPersistentMapCallback)</code></a> has been completed.</div>
 </div>
@@ -67,7 +67,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-repairpersistentmapcallba
 <section class="detail" id="onCompleted(com.here.sdk.maploader.PersistentMapRepairError)">
 <h3>onCompleted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onCompleted</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-navigate-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a> persistentMapRepairError)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmaprepairerror" title="enum class in com.here.sdk.maploader">PersistentMapRepairError</a> persistentMapRepairError)</span></div>
 <div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#repairPersistentMap(com.here.sdk.maploader.RepairPersistentMapCallback)"><code>MapDownloader.repairPersistentMap(com.here.sdk.maploader.RepairPersistentMapCallback)</code></a> has been completed.
  The first argument indicates an error in case of a failure. The second argument contains the results.
  Both arguments cannot be <code>null</code> at the same time - or not <code>null</code> at the same time.</p></div>

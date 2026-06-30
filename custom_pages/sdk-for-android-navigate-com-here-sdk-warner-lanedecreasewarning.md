@@ -31,9 +31,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-lanedecreasewarning"
  than the previous road segment provided by <code>sdk.electronic_horizon.ElectronicHorizonEngine</code>,
  requiring drivers to merge or change lanes.
  Lane decrease is provided only on highways and motorways. It will not be provided for junctions,
- when maneuver is given for the lane decrease situation or when the <a href="sdk-for-android-navigate-trafficmergewarning" title="class in com.here.sdk.navigation"><code>TrafficMergeWarning</code></a>
+ when maneuver is given for the lane decrease situation or when the <a href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning" title="class in com.here.sdk.navigation"><code>TrafficMergeWarning</code></a>
  is provided. Special lanes (e.g. Bus lane, HOV) will only be included to the lane decrease warning generation
- if the according options are set in <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a>.
+ if the according options are set in <a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a>.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -53,7 +53,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-lanedecreasewarning"
 <div class="col-last even-row-color">
 <div class="block">The distance from the current location to the Lane decrease event.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-lanedecreasewarning#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates if the specified event is ahead of the vehicle or has just passed by.</div>
@@ -97,7 +97,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-lanedecreasewarning"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-lanedecreasewarning#%3Cinit%3E(double,com.here.sdk.navigation.DistanceType)">LaneDecreaseWarning</a><wbr/>(double distanceInMeters,
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -190,7 +190,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-lanedecreasewarning"
 <section class="detail" id="distanceType">
 <h3>distanceType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>Indicates if the specified event is ahead of the vehicle or has just passed by. If it is
  ahead, then <a href="sdk-for-android-navigate-com-here-sdk-warner-lanedecreasewarning#distanceInMeters"><code>distanceInMeters</code></a> is greater than 0.</p></div>
 </section>
@@ -208,7 +208,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-lanedecreasewarning"
 <h3>LaneDecreaseWarning</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">LaneDecreaseWarning</span><wbr/><span class="parameters">(double distanceInMeters,
  @NonNull
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

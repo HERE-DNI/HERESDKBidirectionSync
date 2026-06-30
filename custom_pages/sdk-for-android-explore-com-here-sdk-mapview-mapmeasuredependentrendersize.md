@@ -40,14 +40,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersiz
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a>.</div>
+<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a>.</div>
+<div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a>.</div>
 </div>
 </div>
 </section>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersiz
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></code></div>
+<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#measureKind">measureKind</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The unit used for the key in <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#sizes"><code>sizes</code></a>.</div>
@@ -71,7 +71,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersiz
 <div class="col-last odd-row-color">
 <div class="block">The dictionary describing the size (value) per map measure (key).</div>
 </div>
-<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></code></div>
+<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#sizeUnit">sizeUnit</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The unit used for the value in <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#sizes"><code>sizes</code></a>.</div>
@@ -87,13 +87,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersiz
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#%3Cinit%3E(com.here.sdk.mapview.MapMeasure.Kind,com.here.sdk.mapview.RenderSize.Unit,java.util.Map)">MapMeasureDependentRenderSize</a><wbr/>(<a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> measureKind,
- <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> sizeUnit,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#%3Cinit%3E(com.here.sdk.mapview.MapMeasure.Kind,com.here.sdk.mapview.RenderSize.Unit,java.util.Map)">MapMeasureDependentRenderSize</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> measureKind,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> sizeUnit,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; sizes)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a <code>MapMeasureDependentRenderSize</code> from given parameters.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#%3Cinit%3E(com.here.sdk.mapview.RenderSize.Unit,double)">MapMeasureDependentRenderSize</a><wbr/>(<a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> sizeUnit,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#%3Cinit%3E(com.here.sdk.mapview.RenderSize.Unit,double)">MapMeasureDependentRenderSize</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> sizeUnit,
  double size)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs a <code>MapMeasureDependentRenderSize</code> from single size value which is constant across all map measures.</div>
@@ -139,7 +139,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersiz
 <section class="detail" id="measureKind">
 <h3>measureKind</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></span> <span class="element-name">measureKind</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></span> <span class="element-name">measureKind</span></div>
 <div class="block"><p>The unit used for the key in <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#sizes"><code>sizes</code></a>.</p></div>
 </section>
 </li>
@@ -147,7 +147,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersiz
 <section class="detail" id="sizeUnit">
 <h3>sizeUnit</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></span> <span class="element-name">sizeUnit</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></span> <span class="element-name">sizeUnit</span></div>
 <div class="block"><p>The unit used for the value in <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#sizes"><code>sizes</code></a>.</p></div>
 </section>
 </li>
@@ -173,12 +173,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersiz
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapMeasure.Kind,com.here.sdk.mapview.RenderSize.Unit,java.util.Map)">
 <h3>MapMeasureDependentRenderSize</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMeasureDependentRenderSize</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> measureKind,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> measureKind,
  @NonNull
- <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> sizeUnit,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> sizeUnit,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; sizes)</span>
-                              throws <span class="exceptions"><a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></span></div>
+                              throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></span></div>
 <div class="block"><p>Constructs a <code>MapMeasureDependentRenderSize</code> from given parameters.
  Supplying <code>sizes</code> map with a single entry indicates using a fixed size value across all map measures.</p></div>
 <dl class="notes">
@@ -187,7 +187,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersiz
 <dd><code>sizeUnit</code> - <p>The unit used for the value in <code>sizes</code>.</p></dd>
 <dd><code>sizes</code> - <p>The dictionary describing the size (value) per map measure (key).</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></code> - <p>Instantiation error if <code>sizes</code> map is empty or contains negative keys or values.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></code> - <p>Instantiation error if <code>sizes</code> map is empty or contains negative keys or values.</p></dd>
 </dl>
 </section>
 </li>
@@ -195,9 +195,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersiz
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.RenderSize.Unit,double)">
 <h3>MapMeasureDependentRenderSize</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMeasureDependentRenderSize</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> sizeUnit,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> sizeUnit,
  double size)</span>
-                              throws <span class="exceptions"><a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></span></div>
+                              throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></span></div>
 <div class="block"><p>Constructs a <code>MapMeasureDependentRenderSize</code> from single size value which is constant across all map measures.
  The given <code>size</code> value is stored in <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#sizes"><code>sizes</code></a> map at key 0 and <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#measureKind"><code>measureKind</code></a> is set to <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a>.</p></div>
 <dl class="notes">
@@ -205,7 +205,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersiz
 <dd><code>sizeUnit</code> - <p>The unit used for the value in <code>size</code>.</p></dd>
 <dd><code>size</code> - <p>The size independent of map measure. Must not be negative.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></code> - <p>Instantiation error if <code>size</code> is negative.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></code> - <p>Instantiation error if <code>size</code> is negative.</p></dd>
 </dl>
 </section>
 </li>

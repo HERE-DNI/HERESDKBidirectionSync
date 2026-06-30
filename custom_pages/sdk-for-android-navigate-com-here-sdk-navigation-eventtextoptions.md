@@ -43,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtextoptions"
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-eventtextoptions#enableSpatialAudio">enableSpatialAudio</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A flag that indicates whether spatial audio details should be triggered when generating voice notifications
- under <a href="sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a>.</div>
+ under <a href="sdk-for-android-navigate-com-here-sdk-navigation-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a>.</div>
 </div>
 </div>
 </section>
@@ -102,7 +102,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtextoptions"
 <h3>enableSpatialAudio</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">enableSpatialAudio</span></div>
 <div class="block"><p>A flag that indicates whether spatial audio details should be triggered when generating voice notifications
- under <a href="sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a>. If enabled, a set of details required to spatialize
+ under <a href="sdk-for-android-navigate-com-here-sdk-navigation-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a>. If enabled, a set of details required to spatialize
  an audio cue will be generated and exposed.</p></div>
 </section>
 </li>

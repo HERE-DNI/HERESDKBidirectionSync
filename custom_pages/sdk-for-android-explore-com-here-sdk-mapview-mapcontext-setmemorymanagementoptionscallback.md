@@ -22,7 +22,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-setmemorymanageme
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></dd>
+<dd><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -49,7 +49,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-setmemorymanageme
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-setmemorymanagementoptionscallback#onSetMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementResult)">onSetMemoryManagementOptions</a><wbr/>(<a href="sdk-for-android-explore-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-setmemorymanagementoptionscallback#onSetMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementResult)">onSetMemoryManagementOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback to handle the memory management result.</div>
 </div>
@@ -71,7 +71,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-setmemorymanageme
 <section class="detail" id="onSetMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementResult)">
 <h3>onSetMemoryManagementOptions</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSetMemoryManagementOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</span></div>
 <div class="block"><p>Callback to handle the memory management result.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>

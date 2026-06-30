@@ -27,8 +27,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarninglistener"
  <strong>Note:</strong> The road sign warner is a point warner, which means that for a road sign there will <em>always</em> be
  2 warnings emitted, with the [RoadSignWarning.distance_type] set to <a href="sdk-for-android-navigate-distancetype#AHEAD"><code>DistanceType.AHEAD</code></a> and <a href="sdk-for-android-navigate-distancetype#PASSED"><code>DistanceType.PASSED</code></a>
  which is given when the location of the road sign is reached.
- A <a href="sdk-for-android-navigate-roadsignwarning" title="class in com.here.sdk.navigation"><code>RoadSignWarning</code></a> will not be given until the previous warning of that type has been passed.
- For example, a route with <a href="sdk-for-android-navigate-roadsignwarning" title="class in com.here.sdk.navigation"><code>RoadSignWarning</code></a> 120 meters and <a href="sdk-for-android-navigate-roadsignwarning" title="class in com.here.sdk.navigation"><code>RoadSignWarning</code></a> 160 meters ahead,
+ A <a href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning" title="class in com.here.sdk.navigation"><code>RoadSignWarning</code></a> will not be given until the previous warning of that type has been passed.
+ For example, a route with <a href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning" title="class in com.here.sdk.navigation"><code>RoadSignWarning</code></a> 120 meters and <a href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning" title="class in com.here.sdk.navigation"><code>RoadSignWarning</code></a> 160 meters ahead,
  the first [RoadSignWarning.distance_to_road_sign_in_meters] is 120 meters
  and the next [RoadSignWarning.distance_to_road_sign_in_meters] is then 40 meters,
  since that is the distance between the first and second warnings.</p></div>
@@ -47,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarninglistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarninglistener#onRoadSignWarningUpdated(com.here.sdk.navigation.RoadSignWarning)">onRoadSignWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-roadsignwarning" title="class in com.here.sdk.navigation">RoadSignWarning</a> roadSignWarning)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarninglistener#onRoadSignWarningUpdated(com.here.sdk.navigation.RoadSignWarning)">onRoadSignWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning" title="class in com.here.sdk.navigation">RoadSignWarning</a> roadSignWarning)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new road sign warning is available.</div>
 </div>
@@ -69,7 +69,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarninglistener"
 <section class="detail" id="onRoadSignWarningUpdated(com.here.sdk.navigation.RoadSignWarning)">
 <h3>onRoadSignWarningUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onRoadSignWarningUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-roadsignwarning" title="class in com.here.sdk.navigation">RoadSignWarning</a> roadSignWarning)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-roadsignwarning" title="class in com.here.sdk.navigation">RoadSignWarning</a> roadSignWarning)</span></div>
 <div class="block"><p>Called whenever a new road sign warning is available.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

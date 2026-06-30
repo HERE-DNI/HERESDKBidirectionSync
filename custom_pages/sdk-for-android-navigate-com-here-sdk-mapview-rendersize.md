@@ -40,7 +40,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-rendersize"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines different units in which the size is described.</div>
 </div>

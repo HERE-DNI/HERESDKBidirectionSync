@@ -41,27 +41,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#hazardousMaterial">hazardousMaterial</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Hazardous material condition associated with this profile.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#requestedVehicleType">requestedVehicleType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Vehicle type to which this restriction applies.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#requiredAmountOfTrailers">requiredAmountOfTrailers</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Trailer count limits.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#requiredGrossWeightInKilograms">requiredGrossWeightInKilograms</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Gross weight limits in kilograms.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#requiredWeightInKilograms">requiredWeightInKilograms</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Weight limits in kilograms.</div>
@@ -77,10 +77,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#%3Cinit%3E(com.here.sdk.core.IntegerRange,com.here.sdk.core.IntegerRange,com.here.sdk.core.IntegerRange,com.here.sdk.mapdata.HazardousMaterialType)">VehicleProfileRestriction</a><wbr/>(<a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredWeightInKilograms,
- <a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredGrossWeightInKilograms,
- <a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredAmountOfTrailers,
- <a href="sdk-for-android-navigate-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a> hazardousMaterial)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction#%3Cinit%3E(com.here.sdk.core.IntegerRange,com.here.sdk.core.IntegerRange,com.here.sdk.core.IntegerRange,com.here.sdk.mapdata.HazardousMaterialType)">VehicleProfileRestriction</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredWeightInKilograms,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredGrossWeightInKilograms,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredAmountOfTrailers,
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a> hazardousMaterial)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with specified parameters.</div>
 </div>
@@ -125,7 +125,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction"
 <section class="detail" id="requestedVehicleType">
 <h3>requestedVehicleType</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">requestedVehicleType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicletypecondition" title="enum class in com.here.sdk.mapdata">VehicleTypeCondition</a></span> <span class="element-name">requestedVehicleType</span></div>
 <div class="block"><p>Vehicle type to which this restriction applies.</p></div>
 </section>
 </li>
@@ -133,7 +133,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction"
 <section class="detail" id="requiredWeightInKilograms">
 <h3>requiredWeightInKilograms</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">requiredWeightInKilograms</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">requiredWeightInKilograms</span></div>
 <div class="block"><p>Weight limits in kilograms.</p></div>
 </section>
 </li>
@@ -141,7 +141,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction"
 <section class="detail" id="requiredGrossWeightInKilograms">
 <h3>requiredGrossWeightInKilograms</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">requiredGrossWeightInKilograms</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">requiredGrossWeightInKilograms</span></div>
 <div class="block"><p>Gross weight limits in kilograms.</p></div>
 </section>
 </li>
@@ -149,7 +149,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction"
 <section class="detail" id="requiredAmountOfTrailers">
 <h3>requiredAmountOfTrailers</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">requiredAmountOfTrailers</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">requiredAmountOfTrailers</span></div>
 <div class="block"><p>Trailer count limits.</p></div>
 </section>
 </li>
@@ -157,7 +157,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction"
 <section class="detail" id="hazardousMaterial">
 <h3>hazardousMaterial</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">hazardousMaterial</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a></span> <span class="element-name">hazardousMaterial</span></div>
 <div class="block"><p>Hazardous material condition associated with this profile.</p></div>
 </section>
 </li>
@@ -173,13 +173,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.IntegerRange,com.here.sdk.core.IntegerRange,com.here.sdk.core.IntegerRange,com.here.sdk.mapdata.HazardousMaterialType)">
 <h3>VehicleProfileRestriction</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">VehicleProfileRestriction</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredWeightInKilograms,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredWeightInKilograms,
  @NonNull
- <a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredGrossWeightInKilograms,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredGrossWeightInKilograms,
  @NonNull
- <a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredAmountOfTrailers,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredAmountOfTrailers,
  @NonNull
- <a href="sdk-for-android-navigate-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a> hazardousMaterial)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-hazardousmaterialtype" title="enum class in com.here.sdk.mapdata">HazardousMaterialType</a> hazardousMaterial)</span></div>
 <div class="block"><p>Creates a new instance with specified parameters.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

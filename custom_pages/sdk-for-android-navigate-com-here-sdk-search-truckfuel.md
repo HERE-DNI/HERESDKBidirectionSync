@@ -40,12 +40,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-truckfuel"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-truckfuel#maximumTruckClass">maximumTruckClass</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The maximum truck class that this fuel type supports.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-truckfuel#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of the fuel.</div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-truckfuel"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-truckfuel#%3Cinit%3E(com.here.sdk.transport.TruckFuelType)">TruckFuel</a><wbr/>(<a href="sdk-for-android-navigate-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a> type)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-truckfuel#%3Cinit%3E(com.here.sdk.transport.TruckFuelType)">TruckFuel</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a> type)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -106,7 +106,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-truckfuel"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>The type of the fuel.</p></div>
 </section>
 </li>
@@ -114,7 +114,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-truckfuel"
 <section class="detail" id="maximumTruckClass">
 <h3>maximumTruckClass</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a></span> <span class="element-name">maximumTruckClass</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a></span> <span class="element-name">maximumTruckClass</span></div>
 <div class="block"><p>The maximum truck class that this fuel type supports. <code>null</code> means information is unknown.</p></div>
 </section>
 </li>
@@ -130,7 +130,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-truckfuel"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.transport.TruckFuelType)">
 <h3>TruckFuel</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TruckFuel</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a> type)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a> type)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -52,7 +52,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning"
 <div class="col-last even-row-color">
 <div class="block">Distance to the junction, for which the realistic view is given, expressed in meters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The distance type for the warning, e.g.</div>
@@ -62,12 +62,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning"
 <div class="col-last even-row-color">
 <div class="block">Unique identifier for this specific realistic view warning instance.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-realisticviewrasterimage" title="class in com.here.sdk.navigation">RealisticViewRasterImage</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewrasterimage" title="class in com.here.sdk.navigation">RealisticViewRasterImage</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning#realisticViewRasterImage">realisticViewRasterImage</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The realistic view object for which the warning is given.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-realisticviewvectorimage" title="class in com.here.sdk.navigation">RealisticViewVectorImage</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage" title="class in com.here.sdk.navigation">RealisticViewVectorImage</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning#realisticViewVectorImage">realisticViewVectorImage</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The realistic view object for which the warning is given.</div>
@@ -84,7 +84,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning#%3Cinit%3E(double,com.here.sdk.navigation.DistanceType)">RealisticViewWarning</a><wbr/>(double distanceToRealisticViewInMeters,
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -145,10 +145,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning"
 <section class="detail" id="realisticViewVectorImage">
 <h3>realisticViewVectorImage</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-realisticviewvectorimage" title="class in com.here.sdk.navigation">RealisticViewVectorImage</a></span> <span class="element-name">realisticViewVectorImage</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewvectorimage" title="class in com.here.sdk.navigation">RealisticViewVectorImage</a></span> <span class="element-name">realisticViewVectorImage</span></div>
 <div class="block"><p>The realistic view object for which the warning is given.
  Image resources are stored as vector graphics.
- Within <a href="sdk-for-android-navigate-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a>, only one type of image, either raster or vector, will be provided.
+ Within <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a>, only one type of image, either raster or vector, will be provided.
  If this property is not <code>null</code>, then <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning#realisticViewRasterImage"><code>realisticViewRasterImage</code></a> will be <code>null</code>.
  <strong>Note:</strong> The realistic views for most of the countries are stored as vector images.</p></div>
 </section>
@@ -157,10 +157,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning"
 <section class="detail" id="realisticViewRasterImage">
 <h3>realisticViewRasterImage</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-realisticviewrasterimage" title="class in com.here.sdk.navigation">RealisticViewRasterImage</a></span> <span class="element-name">realisticViewRasterImage</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewrasterimage" title="class in com.here.sdk.navigation">RealisticViewRasterImage</a></span> <span class="element-name">realisticViewRasterImage</span></div>
 <div class="block"><p>The realistic view object for which the warning is given.
  Image resources are stored as raster graphics.
- Within <a href="sdk-for-android-navigate-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a>, only one type of image, either raster or vector, will be provided.
+ Within <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a>, only one type of image, either raster or vector, will be provided.
  If this property is not <code>null</code>, then <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning#realisticViewVectorImage"><code>realisticViewVectorImage</code></a> will be <code>null</code>.
  <strong>Note:</strong> Certain countries support only raster images as realistic views. Currently, this is the case
  only for Japan, but in the future, more countries might support this type of realistic views.</p></div>
@@ -170,7 +170,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning"
 <section class="detail" id="distanceType">
 <h3>distanceType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>The distance type for the warning, e.g. a warning for a new realistic view ahead or a warning
  for passing a realistic view. Since the realistic view warning is given relative to a single
  position on the route, <a href="sdk-for-android-navigate-distancetype#REACHED"><code>DistanceType.REACHED</code></a> will never be given for this warning.</p></div>
@@ -189,7 +189,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning"
 <h3>RealisticViewWarning</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RealisticViewWarning</span><wbr/><span class="parameters">(double distanceToRealisticViewInMeters,
  @NonNull
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

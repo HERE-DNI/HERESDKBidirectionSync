@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#description">description</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the description of the environmental zone in the available languages.</div>
@@ -49,7 +49,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning
 <div class="col-last odd-row-color">
 <div class="block">The distance from the current location to the environmental zone.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#distanceType">distanceType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates if the specified zone is ahead of the vehicle or has just passed by.</div>
@@ -86,7 +86,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#%3Cinit%3E(double,com.here.sdk.navigation.DistanceType,java.lang.String,java.lang.String)">EnvironmentalZoneWarning</a><wbr/>(double distanceInMeters,
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> zoneId,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color">
@@ -149,7 +149,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning
 <section class="detail" id="distanceType">
 <h3>distanceType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>Indicates if the specified zone is ahead of the vehicle or has just passed by. If it is
  ahead, then <a href="sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning#distanceInMeters"><code>distanceInMeters</code></a> is greater than 0.</p></div>
 </section>
@@ -174,7 +174,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning
 <section class="detail" id="description">
 <h3>description</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">description</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">description</span></div>
 <div class="block"><p>Indicates the description of the environmental zone in the available languages.</p></div>
 </section>
 </li>
@@ -199,7 +199,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-environmentalzonewarning
 <h3>EnvironmentalZoneWarning</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">EnvironmentalZoneWarning</span><wbr/><span class="parameters">(double distanceInMeters,
  @NonNull
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> zoneId,
  @NonNull

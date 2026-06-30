@@ -54,7 +54,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-filereference"
 <div class="col-last even-row-color">
 <div class="block">The tile where the element is defined.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-filereferencetype" title="enum class in com.here.sdk.mapdata">FileReferenceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-filereferencetype" title="enum class in com.here.sdk.mapdata">FileReferenceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-filereference#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Identifies which type of file is (toll, junction view, etc...)</div>
@@ -72,7 +72,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-filereference"
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-filereference#%3Cinit%3E(int,java.lang.String,com.here.sdk.mapdata.FileReferenceType,int)">FileReference</a><wbr/>(int hostTileId,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> fileName,
- <a href="sdk-for-android-navigate-filereferencetype" title="enum class in com.here.sdk.mapdata">FileReferenceType</a> type,
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-filereferencetype" title="enum class in com.here.sdk.mapdata">FileReferenceType</a> type,
  int catalogHandle)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -133,7 +133,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-filereference"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-filereferencetype" title="enum class in com.here.sdk.mapdata">FileReferenceType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-filereferencetype" title="enum class in com.here.sdk.mapdata">FileReferenceType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>Identifies which type of file is (toll, junction view, etc...)</p></div>
 </section>
 </li>
@@ -159,7 +159,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-filereference"
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> fileName,
  @NonNull
- <a href="sdk-for-android-navigate-filereferencetype" title="enum class in com.here.sdk.mapdata">FileReferenceType</a> type,
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-filereferencetype" title="enum class in com.here.sdk.mapdata">FileReferenceType</a> type,
  int catalogHandle)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">

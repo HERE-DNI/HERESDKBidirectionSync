@@ -50,7 +50,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation"
 <div class="col-last odd-row-color">
 <div class="block">Confidence level (between 0 and 1) of the matched location.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#coordinates">coordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The geographic coordinates of the map-matched location.</div>
@@ -70,7 +70,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation"
 <div class="col-last odd-row-color">
 <div class="block">Offset from start of segment in centimeters.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#segmentReference">segmentReference</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Reference to the current segment.</div>
@@ -96,7 +96,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,java.lang.Double)">MapMatchedLocation</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,java.lang.Double)">MapMatchedLocation</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> bearingInDegrees)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -142,7 +142,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation"
 <section class="detail" id="coordinates">
 <h3>coordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
 <div class="block"><p>The geographic coordinates of the map-matched location.</p></div>
 </section>
 </li>
@@ -165,7 +165,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation"
 <section class="detail" id="segmentReference">
 <h3>segmentReference</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segmentReference</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segmentReference</span></div>
 <div class="block"><p>Reference to the current segment.
  The ratio of <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation#segmentOffsetInCentimeters"><code>segmentOffsetInCentimeters</code></a> to the segment length is
  between <a href="sdk-for-android-navigate-segmentreference#offsetStart"><code>SegmentReference.offsetStart</code></a> and <a href="sdk-for-android-navigate-segmentreference#offsetEnd"><code>SegmentReference.offsetEnd</code></a>.</p></div>
@@ -241,7 +241,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,java.lang.Double)">
 <h3>MapMatchedLocation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMatchedLocation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> bearingInDegrees)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>

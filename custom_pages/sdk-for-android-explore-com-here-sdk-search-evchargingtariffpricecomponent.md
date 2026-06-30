@@ -41,7 +41,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponen
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponent#dimension">dimension</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The dimension or type of the price component.</div>
@@ -117,7 +117,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffpricecomponen
 <section class="detail" id="dimension">
 <h3>dimension</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></span> <span class="element-name">dimension</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></span> <span class="element-name">dimension</span></div>
 <div class="block"><p>The dimension or type of the price component.</p></div>
 </section>
 </li>

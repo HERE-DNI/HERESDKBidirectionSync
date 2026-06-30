@@ -46,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit"
 <div class="col-last even-row-color">
 <div class="block">Max Override Speed indicates the maximum speed a commercial vehicle may travel within a BUA.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit#condition">condition</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Conditions under which this speed limit is active.</div>
@@ -74,7 +74,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit"
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit#%3Cinit%3E(double,boolean,com.here.sdk.mapdata.VehicleRestrictionCondition)">VehicleSpecificSpeedLimit</a><wbr/>(double speedLimitInMetersPerSecond,
  boolean isAdvisory,
- <a href="sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a> condition)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a> condition)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with specified parameters.</div>
 </div>
@@ -143,7 +143,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit"
 <section class="detail" id="condition">
 <h3>condition</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a></span> <span class="element-name">condition</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a></span> <span class="element-name">condition</span></div>
 <div class="block"><p>Conditions under which this speed limit is active.</p></div>
 </section>
 </li>
@@ -161,7 +161,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">VehicleSpecificSpeedLimit</span><wbr/><span class="parameters">(double speedLimitInMetersPerSecond,
  boolean isAdvisory,
  @NonNull
- <a href="sdk-for-android-navigate-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a> condition)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition" title="class in com.here.sdk.mapdata">VehicleRestrictionCondition</a> condition)</span></div>
 <div class="block"><p>Creates a new instance with specified parameters.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimitlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimitlistener#onSpeedLimitUpdated(com.here.sdk.navigation.SpeedLimit)">onSpeedLimitUpdated</a><wbr/>(<a href="sdk-for-android-navigate-speedlimit" title="class in com.here.sdk.navigation">SpeedLimit</a> speedLimit)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimitlistener#onSpeedLimitUpdated(com.here.sdk.navigation.SpeedLimit)">onSpeedLimitUpdated</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit" title="class in com.here.sdk.navigation">SpeedLimit</a> speedLimit)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever the speed limit of the current road changes.</div>
 </div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimitlistener"
 <section class="detail" id="onSpeedLimitUpdated(com.here.sdk.navigation.SpeedLimit)">
 <h3>onSpeedLimitUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSpeedLimitUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-speedlimit" title="class in com.here.sdk.navigation">SpeedLimit</a> speedLimit)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit" title="class in com.here.sdk.navigation">SpeedLimit</a> speedLimit)</span></div>
 <div class="block"><p>Called whenever the speed limit of the current road changes.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -22,11 +22,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-liste
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing interface:</dt>
-<dd><a href="sdk-for-android-navigate-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static interface </span><span class="element-name type-name-label">TileSource.Listener</span></div>
-<div class="block"><p>Listener of <a href="sdk-for-android-navigate-tilesource" title="interface in com.here.sdk.mapview.datasource"><code>TileSource</code></a> events.</p></div>
+<div class="block"><p>Listener of <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource"><code>TileSource</code></a> events.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -42,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-liste
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-listener#onDataVersionChanged(com.here.sdk.mapview.datasource.TileSource.DataVersion)">onDataVersionChanged</a><wbr/>(<a href="sdk-for-android-navigate-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-listener#onDataVersionChanged(com.here.sdk.mapview.datasource.TileSource.DataVersion)">onDataVersionChanged</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when tile source data version changes.</div>
 </div>
@@ -64,7 +64,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-liste
 <section class="detail" id="onDataVersionChanged(com.here.sdk.mapview.datasource.TileSource.DataVersion)">
 <h3>onDataVersionChanged</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onDataVersionChanged</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion)</span></div>
 <div class="block"><p>Called when tile source data version changes.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -27,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SDKOptions</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>SDKOptions provide an alternative way to set or update the HERE SDK credentials and other
- parameters at runtime to initialize the <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></div>
+ parameters at runtime to initialize the <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -41,7 +41,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Action on cache lock</div>
 </div>
@@ -57,12 +57,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions#actionOnCacheLock">actionOnCacheLock</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies action to perform when cache folder is locked by another process.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions#authenticationMode">authenticationMode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Encapsulates Authentication method and parameters.</div>
@@ -87,18 +87,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <div class="col-last odd-row-color">
 <div class="block">Desired upper bound of application size in bytes.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions#catalogConfigurations">catalogConfigurations</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">This field specifies how the <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> should access, use and store
+<div class="block">This field specifies how the <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> should access, use and store
  data for different catalogs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a>,<wbr/><a href="sdk-for-android-navigate-engineoptions" title="class in com.here.sdk.core.engine">EngineOptions</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-engine-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a>,<wbr/><a href="sdk-for-android-navigate-com-here-sdk-core-engine-engineoptions" title="class in com.here.sdk.core.engine">EngineOptions</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions#customEngineOptions">customEngineOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Set custom options for SDK Engines.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions#customOptions">customOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Options that define custom behavior for the HERE SDK.</div>
@@ -108,7 +108,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <div class="col-last odd-row-color">
 <div class="block">Path used for storing application internal data, such as the offline search index and other essential data required for proper functionality.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions#layerConfiguration">layerConfiguration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines a list of data features that can be enabled / disabled.</div>
@@ -118,7 +118,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <div class="col-last odd-row-color">
 <div class="block">If an application runs in a memory-constrained environment, enable this option to reduce the HERE SDK's memory footprint.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-engine-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions#networkSettings">networkSettings</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Network settings to use at the start.</div>
@@ -154,7 +154,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions#%3Cinit%3E(com.here.sdk.core.engine.AuthenticationMode)">SDKOptions</a><wbr/>(<a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a> authenticationMode)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions#%3Cinit%3E(com.here.sdk.core.engine.AuthenticationMode)">SDKOptions</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a> authenticationMode)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a SDKOptions from authentication mode.</div>
 </div>
@@ -316,28 +316,28 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="layerConfiguration">
 <h3>layerConfiguration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></span> <span class="element-name">layerConfiguration</span></div>
-<div class="block"><p>Defines a list of data features that can be enabled / disabled. Once set to <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a> when
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></span> <span class="element-name">layerConfiguration</span></div>
+<div class="block"><p>Defines a list of data features that can be enabled / disabled. Once set to <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a> when
  a new HERE SDK is constructed, it will affect the map cache and offline maps.
  When disabling certain features, less data will be prefetched when the map is rendered. Map
  data that was already cached will not be removed until the least recently used strategy (LRU)
  applies. That means you cannot remove any content from the map cache by updating the
- <a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a>. However, for new map data, it will be applied.
- For offline maps, this <a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> can reduce the download size of all regions.
- Note that the <a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> is applied globally to all regions that will be downloaded
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a>. However, for new map data, it will be applied.
+ For offline maps, this <a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> can reduce the download size of all regions.
+ Note that the <a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> is applied globally to all regions that will be downloaded
  in the future. It will not affect already downloaded regions. Updating a region will also
- not update the <a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a>. Only the <a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> will be used that was set
+ not update the <a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a>. Only the <a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> will be used that was set
  globally when a region was downloaded for the first time. If you want to update the
- <a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> for an already downloaded region, please delete the region and download it again.
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> for an already downloaded region, please delete the region and download it again.
  Please also note
  <ul>
-<li>The <a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> is only applicable for the HERE SDK (Navigate) that contains the offline maps
+<li>The <a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> is only applicable for the HERE SDK (Navigate) that contains the offline maps
  feature. It has no effect on other licenses.</li>
-<li>The <a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> cannot be set separately for a region, it will be applied globally
+<li>The <a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> cannot be set separately for a region, it will be applied globally
  for all regions that will be downloaded in the future.</li>
-<li>It is not possible to specify a separate <a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> for the map cache and offline maps.
- The <a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> will be always applied to both.</li>
-<li>The <a href="sdk-for-android-navigate-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> does affect the map cache when a device has connectivity. Even
+<li>It is not possible to specify a separate <a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> for the map cache and offline maps.
+ The <a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> will be always applied to both.</li>
+<li>The <a href="sdk-for-android-navigate-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> does affect the map cache when a device has connectivity. Even
  when a device has connectivity it will only download the specified layers.</li>
 <li>This is a beta feature and thus there can be bugs and unexpected behavior.</li>
 </ul></p></div>
@@ -347,12 +347,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="catalogConfigurations">
 <h3>catalogConfigurations</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a>&gt;</span> <span class="element-name">catalogConfigurations</span></div>
-<div class="block"><p>This field specifies how the <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> should access, use and store
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a>&gt;</span> <span class="element-name">catalogConfigurations</span></div>
+<div class="block"><p>This field specifies how the <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> should access, use and store
  data for different catalogs. You can access default catalogs on the HERE platform and
  also custom catalogs such as for self-hosted or BYOD (bring your own data) use cases.
  For further information about catalogs and related concepts see
- <a href="sdk-for-android-navigate-catalogconfiguration" title="class in com.here.sdk.core.engine"><code>CatalogConfiguration</code></a>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine"><code>CatalogConfiguration</code></a>
 <strong>Note:</strong>
  This API is only available for the Navigate license. It has no affect on other license.</p></div>
 </section>
@@ -385,7 +385,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="customEngineOptions">
 <h3>customEngineOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a>,<wbr/><a href="sdk-for-android-navigate-engineoptions" title="class in com.here.sdk.core.engine">EngineOptions</a>&gt;</span> <span class="element-name">customEngineOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-engine-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a>,<wbr/><a href="sdk-for-android-navigate-com-here-sdk-core-engine-engineoptions" title="class in com.here.sdk.core.engine">EngineOptions</a>&gt;</span> <span class="element-name">customEngineOptions</span></div>
 <div class="block"><p>Set custom options for SDK Engines. This includes:
  <ul>
 <li><code>custom_base_url</code>: Allows engines to use custom base URLs for alternative services.
@@ -406,7 +406,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="actionOnCacheLock">
 <h3>actionOnCacheLock</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></span> <span class="element-name">actionOnCacheLock</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></span> <span class="element-name">actionOnCacheLock</span></div>
 <div class="block"><p>Specifies action to perform when cache folder is locked by another process. Default value is <a href="sdk-for-android-navigate-sdkoptions.actiononcachelock#WAIT_LOCKING_APP_FINISH"><code>SDKOptions.ActionOnCacheLock.WAIT_LOCKING_APP_FINISH</code></a>.</p></div>
 </section>
 </li>
@@ -414,7 +414,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="authenticationMode">
 <h3>authenticationMode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">authenticationMode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">authenticationMode</span></div>
 <div class="block"><p>Encapsulates Authentication method and parameters.</p></div>
 </section>
 </li>
@@ -422,7 +422,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="networkSettings">
 <h3>networkSettings</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a></span> <span class="element-name">networkSettings</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a></span> <span class="element-name">networkSettings</span></div>
 <div class="block"><p>Network settings to use at the start. Some of those settings can be changed later.</p></div>
 </section>
 </li>
@@ -458,7 +458,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="customOptions">
 <h3>customOptions</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">customOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">customOptions</span></div>
 <div class="block"><p>Options that define custom behavior for the HERE SDK. These settings allow fine-tuning
  of internal thread pools and resource management for advanced use cases.
  These options are intended for <em>internal</em> usage only and should not be modified unless
@@ -479,7 +479,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.AuthenticationMode)">
 <h3>SDKOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SDKOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a> authenticationMode)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a> authenticationMode)</span></div>
 <div class="block"><p>Constructs a SDKOptions from authentication mode. Other fields are filled with default values.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

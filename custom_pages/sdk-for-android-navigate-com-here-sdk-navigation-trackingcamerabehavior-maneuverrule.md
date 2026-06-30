@@ -25,12 +25,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TrackingCameraBehavior.ManeuverRule</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Defines a single rule that determines how <a href="sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior</code></a> reacts to nearby
+<div class="block"><p>Defines a single rule that determines how <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior</code></a> reacts to nearby
  maneuvers when the current position matches this rule.</p></div>
 </section>
 <section class="summary">
@@ -44,17 +44,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverrule#functionalRoadClasses">functionalRoadClasses</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of functional road classes for which this rule applies.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverrule#maneuverActions">maneuverActions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of maneuver actions for which this rule applies.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-trackingcamerabehavior.maneuverruleoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverRuleOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.maneuverruleoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverRuleOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuverrule#maneuverRuleOptions">maneuverRuleOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The options for this rule.</div>
@@ -99,7 +99,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <section class="detail" id="functionalRoadClasses">
 <h3>functionalRoadClasses</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a>&gt;</span> <span class="element-name">functionalRoadClasses</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a>&gt;</span> <span class="element-name">functionalRoadClasses</span></div>
 <div class="block"><p>List of functional road classes for which this rule applies. The list is unordered.
  When empty, this rule applies to all functional road classes. Defaults to an empty list.</p></div>
 </section>
@@ -108,7 +108,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <section class="detail" id="maneuverActions">
 <h3>maneuverActions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a>&gt;</span> <span class="element-name">maneuverActions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a>&gt;</span> <span class="element-name">maneuverActions</span></div>
 <div class="block"><p>List of maneuver actions for which this rule applies. The list is unordered.
  When empty, this rule applies to all maneuver actions. Defaults to an empty list.</p></div>
 </section>
@@ -117,7 +117,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <section class="detail" id="maneuverRuleOptions">
 <h3>maneuverRuleOptions</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-trackingcamerabehavior.maneuverruleoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverRuleOptions</a></span> <span class="element-name">maneuverRuleOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.maneuverruleoptions" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverRuleOptions</a></span> <span class="element-name">maneuverRuleOptions</span></div>
 <div class="block"><p>The options for this rule. When set to <code>null</code>, the camera does not
  react to maneuvers that match this rule. Defaults to <code>null</code>.</p></div>
 </section>

@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarningoptio
 <div class="col-last even-row-color">
 <div class="block">Enables or disables the text notification emitted together with the traffic merge warner.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trafficmergeroadtype" title="enum class in com.here.sdk.navigation">TrafficMergeRoadType</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergeroadtype" title="enum class in com.here.sdk.navigation">TrafficMergeRoadType</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarningoptions#typesFilter">typesFilter</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The types of roads containing traffic which will trigger a warning when they merge with the current highway.</div>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarningoptio
 <section class="detail" id="typesFilter">
 <h3>typesFilter</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trafficmergeroadtype" title="enum class in com.here.sdk.navigation">TrafficMergeRoadType</a>&gt;</span> <span class="element-name">typesFilter</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergeroadtype" title="enum class in com.here.sdk.navigation">TrafficMergeRoadType</a>&gt;</span> <span class="element-name">typesFilter</span></div>
 <div class="block"><p>The types of roads containing traffic which will trigger a warning when they merge with the current highway. If the list
  is empty, the merging roads containing traffic are not filtered by type.</p></div>
 </section>

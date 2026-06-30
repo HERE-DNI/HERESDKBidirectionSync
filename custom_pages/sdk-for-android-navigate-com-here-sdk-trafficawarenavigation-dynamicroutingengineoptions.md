@@ -26,10 +26,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">DynamicRoutingEngineOptions</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Options defining the behavior of the <a href="sdk-for-android-navigate-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngine</code></a>.
+<div class="block"><p>Options defining the behavior of the <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngine</code></a>.
  Both, <code>minTimeDifference</code> and <code>minTimeDifferencePercentage</code>, will be checked:
  When the poll interval is reached, the smaller difference will win and
- the <a href="sdk-for-android-navigate-dynamicroutinglistener" title="interface in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingListener</code></a> is notified.</p></div>
+ the <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutinglistener" title="interface in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingListener</code></a> is notified.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -42,10 +42,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengineoptions#minTimeDifference">minTimeDifference</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">The minimum time difference, before notifying the <a href="sdk-for-android-navigate-dynamicroutinglistener" title="interface in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingListener</code></a>.</div>
+<div class="block">The minimum time difference, before notifying the <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutinglistener" title="interface in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingListener</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengineoptions#minTimeDifferencePercentage">minTimeDifferencePercentage</a></code></div>
@@ -54,7 +54,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
  To get notified, the following check must be true:
  oldEstimatedTimeOfArrival - newEstimatedTimeOfArrival &gt;= newRouteDuration * [min_time_difference_percentage].</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengineoptions#pollInterval">pollInterval</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The poll interval.</div>
@@ -128,8 +128,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <section class="detail" id="minTimeDifference">
 <h3>minTimeDifference</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">minTimeDifference</span></div>
-<div class="block"><p>The minimum time difference, before notifying the <a href="sdk-for-android-navigate-dynamicroutinglistener" title="interface in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingListener</code></a>.
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">minTimeDifference</span></div>
+<div class="block"><p>The minimum time difference, before notifying the <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutinglistener" title="interface in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingListener</code></a>.
  To get notified, the following check must be true:
  oldEstimatedTimeOfArrival - newEstimatedTimeOfArrival &gt; <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengineoptions#minTimeDifference"><code>minTimeDifference</code></a>.
  A value of 0 will be treated as <code>null</code> meaning no event will be sent.
@@ -141,7 +141,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <section class="detail" id="pollInterval">
 <h3>pollInterval</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">pollInterval</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">pollInterval</span></div>
 <div class="block"><p>The poll interval.
  Zero duration triggers a route calculation with each position update.
  Triggered via <a href="sdk-for-android-navigate-dynamicroutingengine#updateCurrentLocation(com.here.sdk.navigation.MapMatchedLocation,int)"><code>DynamicRoutingEngine.updateCurrentLocation(com.here.sdk.navigation.MapMatchedLocation, int)</code></a>

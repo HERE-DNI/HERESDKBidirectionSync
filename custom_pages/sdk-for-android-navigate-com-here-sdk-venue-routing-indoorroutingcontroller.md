@@ -20,14 +20,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroll
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.venue.routing.IndoorRoutingController</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">IndoorRoutingController</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>This class controls the rendering of indoor routes on the map.
  <br/>
  Note: This feature is in BETA state and thus there can be bugs and unexpected behavior.
@@ -43,8 +43,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroll
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroller#%3Cinit%3E(com.here.sdk.venue.control.VenueMap,com.here.sdk.mapview.MapViewBase)">IndoorRoutingController</a><wbr/>(<a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control">VenueMap</a> venueMap,
- <a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroller#%3Cinit%3E(com.here.sdk.venue.control.VenueMap,com.here.sdk.mapview.MapViewBase)">IndoorRoutingController</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuemap" title="class in com.here.sdk.venue.control">VenueMap</a> venueMap,
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -68,8 +68,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroll
 <div class="block">Hides an indoor route, visible on the map.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroller#showRoute(com.here.sdk.routing.Route,com.here.sdk.venue.routing.IndoorRouteStyle)">showRoute</a><wbr/>(<a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> route,
- <a href="sdk-for-android-navigate-indoorroutestyle" title="class in com.here.sdk.venue.routing">IndoorRouteStyle</a> style)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroller#showRoute(com.here.sdk.routing.Route,com.here.sdk.venue.routing.IndoorRouteStyle)">showRoute</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-routing-route" title="class in com.here.sdk.routing">Route</a> route,
+ <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle" title="class in com.here.sdk.venue.routing">IndoorRouteStyle</a> style)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Shows an indoor route on the map.</div>
 </div>
@@ -94,9 +94,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroll
 <section class="detail" id="&lt;init&gt;(com.here.sdk.venue.control.VenueMap,com.here.sdk.mapview.MapViewBase)">
 <h3>IndoorRoutingController</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">IndoorRoutingController</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control">VenueMap</a> venueMap,
+ <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuemap" title="class in com.here.sdk.venue.control">VenueMap</a> venueMap,
  @NonNull
- <a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -117,9 +117,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutingcontroll
 <section class="detail" id="showRoute(com.here.sdk.routing.Route,com.here.sdk.venue.routing.IndoorRouteStyle)">
 <h3>showRoute</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">showRoute</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> route,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-route" title="class in com.here.sdk.routing">Route</a> route,
  @NonNull
- <a href="sdk-for-android-navigate-indoorroutestyle" title="class in com.here.sdk.venue.routing">IndoorRouteStyle</a> style)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorroutestyle" title="class in com.here.sdk.venue.routing">IndoorRouteStyle</a> style)</span></div>
 <div class="block"><p>Shows an indoor route on the map. The previously visible indoor route will be hidden.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -39,27 +39,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-cellularpositioningoptions" title="class in com.here.sdk.location">CellularPositioningOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-location-cellularpositioningoptions" title="class in com.here.sdk.location">CellularPositioningOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationoptions#cellularPositioningOptions">cellularPositioningOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Cellular network positioning options.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-notificationoptions" title="class in com.here.sdk.location">NotificationOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-location-notificationoptions" title="class in com.here.sdk.location">NotificationOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationoptions#notificationOptions">notificationOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Positioning notification options.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-satellitepositioningoptions" title="class in com.here.sdk.location">SatellitePositioningOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-location-satellitepositioningoptions" title="class in com.here.sdk.location">SatellitePositioningOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationoptions#satellitePositioningOptions">satellitePositioningOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">GNSS positioning options.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-sensoroptions" title="class in com.here.sdk.location">SensorOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-location-sensoroptions" title="class in com.here.sdk.location">SensorOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationoptions#sensorOptions">sensorOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Positioning sensor options.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-wifipositioningoptions" title="class in com.here.sdk.location">WifiPositioningOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-location-wifipositioningoptions" title="class in com.here.sdk.location">WifiPositioningOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationoptions#wifiPositioningOptions">wifiPositioningOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">WiFi network positioning options.</div>
@@ -79,7 +79,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationoptions"
 <div class="col-last even-row-color">
 <div class="block">Constructs LocationOptions from default options.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationoptions#%3Cinit%3E(com.here.sdk.location.LocationAccuracy)">LocationOptions</a><wbr/>(<a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a> locationAccuracy)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-location-locationoptions#%3Cinit%3E(com.here.sdk.location.LocationAccuracy)">LocationOptions</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-location-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a> locationAccuracy)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs LocationOptions from LocationAccuracy.</div>
 </div>
@@ -108,7 +108,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationoptions"
 <section class="detail" id="notificationOptions">
 <h3>notificationOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-notificationoptions" title="class in com.here.sdk.location">NotificationOptions</a></span> <span class="element-name">notificationOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-location-notificationoptions" title="class in com.here.sdk.location">NotificationOptions</a></span> <span class="element-name">notificationOptions</span></div>
 <div class="block"><p>Positioning notification options.</p></div>
 </section>
 </li>
@@ -116,7 +116,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationoptions"
 <section class="detail" id="sensorOptions">
 <h3>sensorOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-sensoroptions" title="class in com.here.sdk.location">SensorOptions</a></span> <span class="element-name">sensorOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-location-sensoroptions" title="class in com.here.sdk.location">SensorOptions</a></span> <span class="element-name">sensorOptions</span></div>
 <div class="block"><p>Positioning sensor options.</p></div>
 </section>
 </li>
@@ -124,7 +124,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationoptions"
 <section class="detail" id="cellularPositioningOptions">
 <h3>cellularPositioningOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-cellularpositioningoptions" title="class in com.here.sdk.location">CellularPositioningOptions</a></span> <span class="element-name">cellularPositioningOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-location-cellularpositioningoptions" title="class in com.here.sdk.location">CellularPositioningOptions</a></span> <span class="element-name">cellularPositioningOptions</span></div>
 <div class="block"><p>Cellular network positioning options.</p></div>
 </section>
 </li>
@@ -132,7 +132,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationoptions"
 <section class="detail" id="satellitePositioningOptions">
 <h3>satellitePositioningOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-satellitepositioningoptions" title="class in com.here.sdk.location">SatellitePositioningOptions</a></span> <span class="element-name">satellitePositioningOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-location-satellitepositioningoptions" title="class in com.here.sdk.location">SatellitePositioningOptions</a></span> <span class="element-name">satellitePositioningOptions</span></div>
 <div class="block"><p>GNSS positioning options.</p></div>
 </section>
 </li>
@@ -140,7 +140,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationoptions"
 <section class="detail" id="wifiPositioningOptions">
 <h3>wifiPositioningOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-wifipositioningoptions" title="class in com.here.sdk.location">WifiPositioningOptions</a></span> <span class="element-name">wifiPositioningOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-location-wifipositioningoptions" title="class in com.here.sdk.location">WifiPositioningOptions</a></span> <span class="element-name">wifiPositioningOptions</span></div>
 <div class="block"><p>WiFi network positioning options.</p></div>
 </section>
 </li>
@@ -163,7 +163,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.location.LocationAccuracy)">
 <h3>LocationOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">LocationOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a> locationAccuracy)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-location-locationaccuracy" title="enum class in com.here.sdk.location">LocationAccuracy</a> locationAccuracy)</span></div>
 <div class="block"><p>Constructs LocationOptions from LocationAccuracy. Returned LocationOptions
  instance has default options for given LocationAccuracy set.</p></div>
 <dl class="notes">

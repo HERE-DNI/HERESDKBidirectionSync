@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocircle"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-geocircle#center">center</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Center of circle.</div>
@@ -60,7 +60,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocircle"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-geocircle#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,double)">GeoCircle</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> center,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-geocircle#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,double)">GeoCircle</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> center,
  double radiusInMeters)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of a GeoCircle.</div>
@@ -106,7 +106,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocircle"
 <section class="detail" id="center">
 <h3>center</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">center</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">center</span></div>
 <div class="block"><p>Center of circle.</p></div>
 </section>
 </li>
@@ -129,7 +129,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocircle"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,double)">
 <h3>GeoCircle</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GeoCircle</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> center,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> center,
  double radiusInMeters)</span></div>
 <div class="block"><p>Creates a new instance of a GeoCircle.</p></div>
 <dl class="notes">

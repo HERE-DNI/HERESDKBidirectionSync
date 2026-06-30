@@ -25,7 +25,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-structuredquery-addresseleme
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-search-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">StructuredQuery.AddressElements</span>

@@ -20,18 +20,18 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitmode"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>&gt;
 <div class="inheritance">com.here.sdk.routing.TransitMode</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">TransitMode</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>&gt;</span></div>
 <div class="block"><p>Public transit mode</p></div>
 </section>
 <section class="summary">
@@ -127,12 +127,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitmode"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitmode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitmode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -161,105 +161,105 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="HIGH_SPEED_TRAIN">
 <h3>HIGH_SPEED_TRAIN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">HIGH_SPEED_TRAIN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">HIGH_SPEED_TRAIN</span></div>
 <div class="block"><p>High speed train.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INTERCITY_TRAIN">
 <h3>INTERCITY_TRAIN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">INTERCITY_TRAIN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">INTERCITY_TRAIN</span></div>
 <div class="block"><p>Intercity train.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INTER_REGIONAL_TRAIN">
 <h3>INTER_REGIONAL_TRAIN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">INTER_REGIONAL_TRAIN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">INTER_REGIONAL_TRAIN</span></div>
 <div class="block"><p>Inter regional train.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="REGIONAL_TRAIN">
 <h3>REGIONAL_TRAIN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">REGIONAL_TRAIN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">REGIONAL_TRAIN</span></div>
 <div class="block"><p>Regional train.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CITY_TRAIN">
 <h3>CITY_TRAIN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">CITY_TRAIN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">CITY_TRAIN</span></div>
 <div class="block"><p>City train.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BUS">
 <h3>BUS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">BUS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">BUS</span></div>
 <div class="block"><p>Bus.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FERRY">
 <h3>FERRY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">FERRY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">FERRY</span></div>
 <div class="block"><p>Ferry.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SUBWAY">
 <h3>SUBWAY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">SUBWAY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">SUBWAY</span></div>
 <div class="block"><p>Subway.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LIGHT_RAIL">
 <h3>LIGHT_RAIL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">LIGHT_RAIL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">LIGHT_RAIL</span></div>
 <div class="block"><p>Light rail.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PRIVATE_BUS">
 <h3>PRIVATE_BUS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">PRIVATE_BUS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">PRIVATE_BUS</span></div>
 <div class="block"><p>Private bus.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INCLINED">
 <h3>INCLINED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">INCLINED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">INCLINED</span></div>
 <div class="block"><p>Inclined.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="AERIAL">
 <h3>AERIAL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">AERIAL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">AERIAL</span></div>
 <div class="block"><p>Aerial.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BUS_RAPID">
 <h3>BUS_RAPID</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">BUS_RAPID</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">BUS_RAPID</span></div>
 <div class="block"><p>Bus rapid.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MONORAIL">
 <h3>MONORAIL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">MONORAIL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">MONORAIL</span></div>
 <div class="block"><p>Monorail.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FLIGHT">
 <h3>FLIGHT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">FLIGHT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">FLIGHT</span></div>
 <div class="block"><p>Flight.</p></div>
 </section>
 </li>
@@ -274,7 +274,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -286,7 +286,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

@@ -43,22 +43,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialveh
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-vehiclespecificaccess" title="class in com.here.sdk.mapdata">VehicleSpecificAccess</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificaccess" title="class in com.here.sdk.mapdata">VehicleSpecificAccess</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialvehiclerules#accessRegulations">accessRegulations</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Access restrictions for commercial vehicles (e.g.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-driverestregulation" title="class in com.here.sdk.mapdata">DriveRestRegulation</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation" title="class in com.here.sdk.mapdata">DriveRestRegulation</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialvehiclerules#driveRestRegulation">driveRestRegulation</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Drive and rest regulations for commercial drivers.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialvehiclerules#id">id</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Administrative context identifier for this set of rules.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-vehiclespecificspeedlimit" title="class in com.here.sdk.mapdata">VehicleSpecificSpeedLimit</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit" title="class in com.here.sdk.mapdata">VehicleSpecificSpeedLimit</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialvehiclerules#speedLimitRegulations">speedLimitRegulations</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Vehicle-specific speed limits for commercial vehicles.</div>
@@ -74,7 +74,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialveh
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialvehiclerules#%3Cinit%3E(com.here.sdk.mapdata.AdminContextId)">AdministrativeCommercialVehicleRules</a><wbr/>(<a href="sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a> id)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialvehiclerules#%3Cinit%3E(com.here.sdk.mapdata.AdminContextId)">AdministrativeCommercialVehicleRules</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapdata-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a> id)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with default values.</div>
 </div>
@@ -119,7 +119,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialveh
 <section class="detail" id="id">
 <h3>id</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a></span> <span class="element-name">id</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a></span> <span class="element-name">id</span></div>
 <div class="block"><p>Administrative context identifier for this set of rules.</p></div>
 </section>
 </li>
@@ -127,7 +127,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialveh
 <section class="detail" id="accessRegulations">
 <h3>accessRegulations</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-vehiclespecificaccess" title="class in com.here.sdk.mapdata">VehicleSpecificAccess</a>&gt;</span> <span class="element-name">accessRegulations</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificaccess" title="class in com.here.sdk.mapdata">VehicleSpecificAccess</a>&gt;</span> <span class="element-name">accessRegulations</span></div>
 <div class="block"><p>Access restrictions for commercial vehicles (e.g. bridge/tunnel restrictions).</p></div>
 </section>
 </li>
@@ -135,7 +135,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialveh
 <section class="detail" id="speedLimitRegulations">
 <h3>speedLimitRegulations</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-vehiclespecificspeedlimit" title="class in com.here.sdk.mapdata">VehicleSpecificSpeedLimit</a>&gt;</span> <span class="element-name">speedLimitRegulations</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclespecificspeedlimit" title="class in com.here.sdk.mapdata">VehicleSpecificSpeedLimit</a>&gt;</span> <span class="element-name">speedLimitRegulations</span></div>
 <div class="block"><p>Vehicle-specific speed limits for commercial vehicles.</p></div>
 </section>
 </li>
@@ -143,7 +143,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialveh
 <section class="detail" id="driveRestRegulation">
 <h3>driveRestRegulation</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-driverestregulation" title="class in com.here.sdk.mapdata">DriveRestRegulation</a></span> <span class="element-name">driveRestRegulation</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation" title="class in com.here.sdk.mapdata">DriveRestRegulation</a></span> <span class="element-name">driveRestRegulation</span></div>
 <div class="block"><p>Drive and rest regulations for commercial drivers.</p></div>
 </section>
 </li>
@@ -159,7 +159,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialveh
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapdata.AdminContextId)">
 <h3>AdministrativeCommercialVehicleRules</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">AdministrativeCommercialVehicleRules</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a> id)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-admincontextid" title="class in com.here.sdk.mapdata">AdminContextId</a> id)</span></div>
 <div class="block"><p>Creates a new instance with default values.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

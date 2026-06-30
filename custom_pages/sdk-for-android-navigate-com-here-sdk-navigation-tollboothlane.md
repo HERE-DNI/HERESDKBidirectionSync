@@ -39,12 +39,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-tollboothlane"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-tollboothlane#access">access</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the access of the lane.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-tollbooth" title="class in com.here.sdk.navigation">TollBooth</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-tollbooth" title="class in com.here.sdk.navigation">TollBooth</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-tollboothlane#booth">booth</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates the toll stop for this particular booth.</div>
@@ -60,8 +60,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-tollboothlane"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-tollboothlane#%3Cinit%3E(com.here.sdk.navigation.TollBooth,com.here.sdk.navigation.LaneAccess)">TollBoothLane</a><wbr/>(<a href="sdk-for-android-navigate-tollbooth" title="class in com.here.sdk.navigation">TollBooth</a> booth,
- <a href="sdk-for-android-navigate-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a> access)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-tollboothlane#%3Cinit%3E(com.here.sdk.navigation.TollBooth,com.here.sdk.navigation.LaneAccess)">TollBoothLane</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-tollbooth" title="class in com.here.sdk.navigation">TollBooth</a> booth,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a> access)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -106,7 +106,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-tollboothlane"
 <section class="detail" id="booth">
 <h3>booth</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-tollbooth" title="class in com.here.sdk.navigation">TollBooth</a></span> <span class="element-name">booth</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-tollbooth" title="class in com.here.sdk.navigation">TollBooth</a></span> <span class="element-name">booth</span></div>
 <div class="block"><p>Indicates the toll stop for this particular booth.</p></div>
 </section>
 </li>
@@ -114,7 +114,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-tollboothlane"
 <section class="detail" id="access">
 <h3>access</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a></span> <span class="element-name">access</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a></span> <span class="element-name">access</span></div>
 <div class="block"><p>Indicates the access of the lane.</p></div>
 </section>
 </li>
@@ -130,9 +130,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-tollboothlane"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.navigation.TollBooth,com.here.sdk.navigation.LaneAccess)">
 <h3>TollBoothLane</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TollBoothLane</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-tollbooth" title="class in com.here.sdk.navigation">TollBooth</a> booth,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-tollbooth" title="class in com.here.sdk.navigation">TollBooth</a> booth,
  @NonNull
- <a href="sdk-for-android-navigate-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a> access)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-laneaccess" title="class in com.here.sdk.navigation">LaneAccess</a> access)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

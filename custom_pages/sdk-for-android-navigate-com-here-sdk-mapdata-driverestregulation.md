@@ -41,22 +41,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation#dailyRestMinInMinutes">dailyRestMinInMinutes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Minimum daily rest duration in minutes that must be taken.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation#maxDailyDriveTimeInMinutes">maxDailyDriveTimeInMinutes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Maximum continuous or accumulated daily driving time in minutes before a rest is required.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation#midDriveRestInMinutes">midDriveRestInMinutes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Maximum driving time in minutes allowed before a mid-drive rest must be taken.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation#midDriveRestMinInMinutes">midDriveRestMinInMinutes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Minimum duration in minutes of the required mid-drive rest.</div>
@@ -117,7 +117,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation"
 <section class="detail" id="maxDailyDriveTimeInMinutes">
 <h3>maxDailyDriveTimeInMinutes</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">maxDailyDriveTimeInMinutes</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">maxDailyDriveTimeInMinutes</span></div>
 <div class="block"><p>Maximum continuous or accumulated daily driving time in minutes before a rest is required.</p></div>
 </section>
 </li>
@@ -125,7 +125,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation"
 <section class="detail" id="dailyRestMinInMinutes">
 <h3>dailyRestMinInMinutes</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">dailyRestMinInMinutes</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">dailyRestMinInMinutes</span></div>
 <div class="block"><p>Minimum daily rest duration in minutes that must be taken.</p></div>
 </section>
 </li>
@@ -133,7 +133,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation"
 <section class="detail" id="midDriveRestInMinutes">
 <h3>midDriveRestInMinutes</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">midDriveRestInMinutes</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">midDriveRestInMinutes</span></div>
 <div class="block"><p>Maximum driving time in minutes allowed before a mid-drive rest must be taken.</p></div>
 </section>
 </li>
@@ -141,7 +141,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-driverestregulation"
 <section class="detail" id="midDriveRestMinInMinutes">
 <h3>midDriveRestMinInMinutes</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">midDriveRestMinInMinutes</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">midDriveRestMinInMinutes</span></div>
 <div class="block"><p>Minimum duration in minutes of the required mid-drive rest.</p></div>
 </section>
 </li>

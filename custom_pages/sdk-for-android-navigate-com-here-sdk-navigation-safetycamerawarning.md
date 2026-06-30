@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarning"
 <div class="col-last even-row-color">
 <div class="block">Distance to the safety camera in meters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarning#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The distance type of the warning (e.g.: warning for a new safety camera ahead, warning for
@@ -60,7 +60,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarning"
 <div class="col-last odd-row-color">
 <div class="block">The speed limit observed by the safety camera.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-safetycameratype" title="enum class in com.here.sdk.navigation">SafetyCameraType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype" title="enum class in com.here.sdk.navigation">SafetyCameraType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarning#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The type of the safety camera element.</div>
@@ -78,8 +78,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarning"
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarning#%3Cinit%3E(double,double,com.here.sdk.navigation.SafetyCameraType,com.here.sdk.navigation.DistanceType)">SafetyCameraWarning</a><wbr/>(double distanceToCameraInMeters,
  double speedLimitInMetersPerSecond,
- <a href="sdk-for-android-navigate-safetycameratype" title="enum class in com.here.sdk.navigation">SafetyCameraType</a> type,
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype" title="enum class in com.here.sdk.navigation">SafetyCameraType</a> type,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -147,7 +147,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarning"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-safetycameratype" title="enum class in com.here.sdk.navigation">SafetyCameraType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype" title="enum class in com.here.sdk.navigation">SafetyCameraType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>The type of the safety camera element.</p></div>
 </section>
 </li>
@@ -155,7 +155,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarning"
 <section class="detail" id="distanceType">
 <h3>distanceType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>The distance type of the warning (e.g.: warning for a new safety camera ahead, warning for
  passing a safety camera). Since the safety camera warning is given relative to a single
  position on the route, <a href="sdk-for-android-navigate-distancetype#REACHED"><code>DistanceType.REACHED</code></a> will never be given for this warning.</p></div>
@@ -175,9 +175,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarning"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SafetyCameraWarning</span><wbr/><span class="parameters">(double distanceToCameraInMeters,
  double speedLimitInMetersPerSecond,
  @NonNull
- <a href="sdk-for-android-navigate-safetycameratype" title="enum class in com.here.sdk.navigation">SafetyCameraType</a> type,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-safetycameratype" title="enum class in com.here.sdk.navigation">SafetyCameraType</a> type,
  @NonNull
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

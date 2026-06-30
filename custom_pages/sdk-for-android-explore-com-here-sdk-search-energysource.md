@@ -47,7 +47,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-energysource"
 <div class="col-last even-row-color">
 <div class="block">Percentage of this source (0-100) in the mix, possibly a non-integer value such as 32.3.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-energysourcetype" title="enum class in com.here.sdk.search">EnergySourceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype" title="enum class in com.here.sdk.search">EnergySourceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-energysource#source">source</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Source of the energy.</div>
@@ -108,7 +108,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-energysource"
 <section class="detail" id="source">
 <h3>source</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-energysourcetype" title="enum class in com.here.sdk.search">EnergySourceType</a></span> <span class="element-name">source</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-energysourcetype" title="enum class in com.here.sdk.search">EnergySourceType</a></span> <span class="element-name">source</span></div>
 <div class="block"><p>Source of the energy.</p></div>
 </section>
 </li>

@@ -23,7 +23,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-offroadprogresslistener"
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">OffRoadProgressListener</span></div>
 <div class="block"><p>This interface should be implemented in order to
- receive notifications about the current off-road location from <a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>.</p></div>
+ receive notifications about the current off-road location from <a href="sdk-for-android-navigate-com-here-sdk-navigation-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-offroadprogresslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-offroadprogresslistener#onOffRoadProgressUpdated(com.here.sdk.navigation.OffRoadProgress)">onOffRoadProgressUpdated</a><wbr/>(<a href="sdk-for-android-navigate-offroadprogress" title="class in com.here.sdk.navigation">OffRoadProgress</a> offRoadProgress)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-offroadprogresslistener#onOffRoadProgressUpdated(com.here.sdk.navigation.OffRoadProgress)">onOffRoadProgressUpdated</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-offroadprogress" title="class in com.here.sdk.navigation">OffRoadProgress</a> offRoadProgress)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever the current location has been updated and the user is off-road.</div>
 </div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-offroadprogresslistener"
 <section class="detail" id="onOffRoadProgressUpdated(com.here.sdk.navigation.OffRoadProgress)">
 <h3>onOffRoadProgressUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onOffRoadProgressUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-offroadprogress" title="class in com.here.sdk.navigation">OffRoadProgress</a> offRoadProgress)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-offroadprogress" title="class in com.here.sdk.navigation">OffRoadProgress</a> offRoadProgress)</span></div>
 <div class="block"><p>Called whenever the current location has been updated and the user is off-road. Off-road
  progress events starts after the user has reached the map-matched destination and the current
  location is not map-matched.</p></div>

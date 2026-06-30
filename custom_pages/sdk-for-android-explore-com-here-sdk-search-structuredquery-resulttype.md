@@ -20,22 +20,22 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a>&gt;
 <div class="inheritance">com.here.sdk.search.StructuredQuery.ResultType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a></dd>
+<dd><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static enum </span><span class="element-name type-name-label">StructuredQuery.ResultType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a>&gt;</span></div>
 <div class="block"><p>Specifies expected result type.</p></div>
 </section>
 <section class="summary">
@@ -91,12 +91,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-structuredquery-resulttype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -125,35 +125,35 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="COUNTRY">
 <h3>COUNTRY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">COUNTRY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">COUNTRY</span></div>
 <div class="block"><p>Expected result type is country.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CITY">
 <h3>CITY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">CITY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">CITY</span></div>
 <div class="block"><p>Expected result type is city.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="POSTAL_CODE">
 <h3>POSTAL_CODE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">POSTAL_CODE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">POSTAL_CODE</span></div>
 <div class="block"><p>Expected result type is postal code.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DISTRICT">
 <h3>DISTRICT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">DISTRICT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">DISTRICT</span></div>
 <div class="block"><p>Expected result type is district.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="STREET">
 <h3>STREET</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">STREET</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">STREET</span></div>
 <div class="block"><p>Expected result type is street.</p></div>
 </section>
 </li>
@@ -168,7 +168,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -180,7 +180,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

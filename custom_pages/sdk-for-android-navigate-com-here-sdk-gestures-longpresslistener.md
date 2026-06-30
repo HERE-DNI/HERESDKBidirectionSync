@@ -39,8 +39,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-longpresslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-longpresslistener#onLongPress(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D)">onLongPress</a><wbr/>(<a href="sdk-for-android-navigate-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
- <a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-gestures-longpresslistener#onLongPress(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D)">onLongPress</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-gestures-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when the double long press gesture occurs.</div>
 </div>
@@ -62,9 +62,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-gestures-longpresslistener"
 <section class="detail" id="onLongPress(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D)">
 <h3>onLongPress</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onLongPress</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
+ <a href="sdk-for-android-navigate-com-here-sdk-gestures-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
  @NonNull
- <a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</span></div>
 <div class="block"><p>Called when the double long press gesture occurs.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

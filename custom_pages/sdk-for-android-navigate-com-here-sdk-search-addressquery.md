@@ -27,10 +27,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-addressquery"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">AddressQuery</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>The options to specify an address query. A <a href="sdk-for-android-navigate-com-here-sdk-search-addressquery#query"><code>query</code></a> can consist of parts of an address or full addresses,
- optionally comma separated. <a href="sdk-for-android-navigate-addressquery" title="class in com.here.sdk.search"><code>AddressQuery</code></a> should only be used to search for parts of the address,
+ optionally comma separated. <a href="sdk-for-android-navigate-com-here-sdk-search-addressquery" title="class in com.here.sdk.search"><code>AddressQuery</code></a> should only be used to search for parts of the address,
  excluding the POI name. For example, "Invalidenstraße 116, Berlin, Germany" is appropriate, whereas
  "HERE, Invalidenstraße 116, Berlin, Germany" is not. To be able to include the POI name, use
- <a href="sdk-for-android-navigate-textquery" title="class in com.here.sdk.search"><code>TextQuery</code></a> instead. <a href="sdk-for-android-navigate-searchoptions#languageCode"><code>SearchOptions.languageCode</code></a> specifies the language of the
+ <a href="sdk-for-android-navigate-com-here-sdk-search-textquery" title="class in com.here.sdk.search"><code>TextQuery</code></a> instead. <a href="sdk-for-android-navigate-searchoptions#languageCode"><code>SearchOptions.languageCode</code></a> specifies the language of the
  <a href="sdk-for-android-navigate-com-here-sdk-search-addressquery#query"><code>query</code></a> and determines the preferred language of the results.</p></div>
 </section>
 <section class="summary">
@@ -44,12 +44,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-addressquery"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>final <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code>final <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-addressquery#areaCenter">areaCenter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Geographical coordinates of the center around which to provide the most relevant places.</div>
 </div>
-<div class="col-first odd-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-addressquery#countries">countries</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A list of countries that the query is applied in.</div>
@@ -75,13 +75,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-addressquery"
 <div class="block">Constructs an AddressQuery from the provided text query.</div>
 </div>
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-addressquery#%3Cinit%3E(java.lang.String,com.here.sdk.core.GeoCoordinates)">AddressQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs an AddressQuery from the provided text query and geographical coordinates.</div>
 </div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-addressquery#%3Cinit%3E(java.lang.String,com.here.sdk.core.GeoCoordinates,java.util.List)">AddressQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>&gt; countries)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>&gt; countries)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs an AddressQuery from the provided text query, geographical coordinates and the
  list of countries the query is applied in.</div>
@@ -135,7 +135,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-addressquery"
 <section class="detail" id="areaCenter">
 <h3>areaCenter</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">areaCenter</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">areaCenter</span></div>
 <div class="block"><p>Geographical coordinates of the center around which to provide the most relevant places.
  For Offline Search null value will result in <a href="sdk-for-android-navigate-searcherror#INVALID_AREA"><code>SearchError.INVALID_AREA</code></a></p></div>
 </section>
@@ -144,7 +144,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-addressquery"
 <section class="detail" id="countries">
 <h3>countries</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>&gt;</span> <span class="element-name">countries</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>&gt;</span> <span class="element-name">countries</span></div>
 <div class="block"><p>A list of countries that the query is applied in.
  Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p></div>
 </section>
@@ -163,7 +163,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-addressquery"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">AddressQuery</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
  @NonNull
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span></div>
 <div class="block"><p>Constructs an AddressQuery from the provided text query and geographical coordinates.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -178,9 +178,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-addressquery"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">AddressQuery</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
  @NonNull
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>&gt; countries)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>&gt; countries)</span></div>
 <div class="block"><p>Constructs an AddressQuery from the provided text query, geographical coordinates and the
  list of countries the query is applied in.</p></div>
 <dl class="notes">

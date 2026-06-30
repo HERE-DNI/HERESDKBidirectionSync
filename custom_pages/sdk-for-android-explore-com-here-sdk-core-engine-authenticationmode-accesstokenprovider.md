@@ -22,7 +22,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode-acces
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></dd>
+<dd><a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>

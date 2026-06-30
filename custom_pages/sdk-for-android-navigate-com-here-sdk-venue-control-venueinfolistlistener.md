@@ -23,8 +23,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueinfolistlistener
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">VenueInfoListListener</span></div>
 <div class="block"><p>The interface for listeners for
- the list of <a href="sdk-for-android-navigate-venueinfo" title="class in com.here.sdk.venue.data"><code>VenueInfo</code></a> load event. Use <a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a>
- to add and remove the <a href="sdk-for-android-navigate-venueinfolistlistener" title="interface in com.here.sdk.venue.control"><code>VenueInfoListListener</code></a>.</p></div>
+ the list of <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venueinfo" title="class in com.here.sdk.venue.data"><code>VenueInfo</code></a> load event. Use <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a>
+ to add and remove the <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venueinfolistlistener" title="interface in com.here.sdk.venue.control"><code>VenueInfoListListener</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -40,9 +40,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueinfolistlistener
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueinfolistlistener#onVenueInfoListLoad(java.util.List)">onVenueInfoListLoad</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venueinfo" title="class in com.here.sdk.venue.data">VenueInfo</a>&gt; venueInfoList)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueinfolistlistener#onVenueInfoListLoad(java.util.List)">onVenueInfoListLoad</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-venue-data-venueinfo" title="class in com.here.sdk.venue.data">VenueInfo</a>&gt; venueInfoList)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Indicates that <a href="sdk-for-android-navigate-venueinfo" title="class in com.here.sdk.venue.data"><code>VenueInfo</code></a> list is loaded.</div>
+<div class="block">Indicates that <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venueinfo" title="class in com.here.sdk.venue.data"><code>VenueInfo</code></a> list is loaded.</div>
 </div>
 </div>
 </div>
@@ -62,11 +62,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueinfolistlistener
 <section class="detail" id="onVenueInfoListLoad(java.util.List)">
 <h3>onVenueInfoListLoad</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onVenueInfoListLoad</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venueinfo" title="class in com.here.sdk.venue.data">VenueInfo</a>&gt; venueInfoList)</span></div>
-<div class="block"><p>Indicates that <a href="sdk-for-android-navigate-venueinfo" title="class in com.here.sdk.venue.data"><code>VenueInfo</code></a> list is loaded.</p></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-venue-data-venueinfo" title="class in com.here.sdk.venue.data">VenueInfo</a>&gt; venueInfoList)</span></div>
+<div class="block"><p>Indicates that <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venueinfo" title="class in com.here.sdk.venue.data"><code>VenueInfo</code></a> list is loaded.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>venueInfoList</code> - <p>The <a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a> where the loaded list of <a href="sdk-for-android-navigate-venueinfo" title="class in com.here.sdk.venue.data"><code>VenueInfo</code></a>.</p></dd>
+<dd><code>venueInfoList</code> - <p>The <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a> where the loaded list of <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venueinfo" title="class in com.here.sdk.venue.data"><code>VenueInfo</code></a>.</p></dd>
 </dl>
 </section>
 </li>

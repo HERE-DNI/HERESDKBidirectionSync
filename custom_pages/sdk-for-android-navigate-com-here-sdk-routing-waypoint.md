@@ -39,12 +39,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-chargingstop" title="class in com.here.sdk.routing">ChargingStop</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-chargingstop" title="class in com.here.sdk.routing">ChargingStop</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#chargingStop">chargingStop</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies of a user-planned charging stop.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#coordinates">coordinates</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The waypoint's geographic coordinates.</div>
@@ -54,12 +54,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <div class="col-last even-row-color">
 <div class="block">Changes the value of <code>vehicle[currentWeight]</code> by this value.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#displayLocation">displayLocation</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional coordinates to indicate physical location of the Points of Interest (PoI).</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#duration">duration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The duration in seconds that should be spent at a waypoint of type <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</div>
@@ -70,7 +70,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <div class="block">Optional heading angle referenced by true North, clockwise specifying
  the direction of travel.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-matchsideofstreet" title="enum class in com.here.sdk.routing">MatchSideOfStreet</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-matchsideofstreet" title="enum class in com.here.sdk.routing">MatchSideOfStreet</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#matchSideOfStreet">matchSideOfStreet</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies how the location set by <a href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#sideOfStreetHint"><code>sideOfStreetHint</code></a> should be handled.</div>
@@ -91,12 +91,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <div class="block">Optional threshold allows specifying a distance within which the waypoint could be considered
  as being on a highway/bridge/tunnel/sliproad.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#segmentHint">segmentHint</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Optional segment hint causes the router to try and match to the specified segment.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#sideOfStreetHint">sideOfStreetHint</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional coordinates to indicate which side of the street should be used to reach the waypoint.</div>
@@ -107,7 +107,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <div class="block">The maximum allowed distance from the waypoint that the calculated
  route may pass through.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines how a waypoint should be considered for route calculation.</div>
@@ -123,28 +123,28 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Waypoint</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Waypoint</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,com.here.time.Duration)">Waypoint</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
- <a href="sdk-for-android-navigate-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a> type,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,com.here.time.Duration)">Waypoint</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a> type,
  int transitRadiusInMeters,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> headingInDegrees,
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> sideOfStreetHint,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> sideOfStreetHint,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a> minCourseDistanceInMeters,
- <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> duration)</code></div>
+ <a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a> duration)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,java.lang.String,com.here.time.Duration)">Waypoint</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
- <a href="sdk-for-android-navigate-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a> type,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,java.lang.String,com.here.time.Duration)">Waypoint</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a> type,
  int transitRadiusInMeters,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> headingInDegrees,
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> sideOfStreetHint,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> sideOfStreetHint,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a> minCourseDistanceInMeters,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> nameHint,
- <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> duration)</code></div>
+ <a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a> duration)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -189,7 +189,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <section class="detail" id="coordinates">
 <h3>coordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
 <div class="block"><p>The waypoint's geographic coordinates.</p></div>
 </section>
 </li>
@@ -197,7 +197,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>Defines how a waypoint should be considered for route calculation.
  The default waypoint type is <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></div>
 </section>
@@ -234,7 +234,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <section class="detail" id="sideOfStreetHint">
 <h3>sideOfStreetHint</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">sideOfStreetHint</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">sideOfStreetHint</span></div>
 <div class="block"><p>Optional coordinates to indicate which side of the street should be used to reach the waypoint.
  For example, if the location is to the left of the street, the router will prefer using that side
  in case the street has dividers.
@@ -246,7 +246,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <section class="detail" id="displayLocation">
 <h3>displayLocation</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">displayLocation</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">displayLocation</span></div>
 <div class="block"><p>Optional coordinates to indicate physical location of the Points of Interest (PoI).
  It is different from coordinates and <a href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#sideOfStreetHint"><code>sideOfStreetHint</code></a> which are generally expected to to be
  on the navigable road network and can be different from actual location of the PoI.
@@ -278,7 +278,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <section class="detail" id="matchSideOfStreet">
 <h3>matchSideOfStreet</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-matchsideofstreet" title="enum class in com.here.sdk.routing">MatchSideOfStreet</a></span> <span class="element-name">matchSideOfStreet</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-matchsideofstreet" title="enum class in com.here.sdk.routing">MatchSideOfStreet</a></span> <span class="element-name">matchSideOfStreet</span></div>
 <div class="block"><p>Specifies how the location set by <a href="sdk-for-android-navigate-com-here-sdk-routing-waypoint#sideOfStreetHint"><code>sideOfStreetHint</code></a> should be handled. Note that this setting might affect the geometry of the resulting route.</p></div>
 </section>
 </li>
@@ -286,7 +286,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <section class="detail" id="duration">
 <h3>duration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
 <div class="block"><p>The duration in seconds that should be spent at a waypoint of type <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.
  Impacts time-aware calculations.
  Ignored for waypoints of type <a href="sdk-for-android-navigate-waypointtype#PASS_THROUGH"><code>WaypointType.PASS_THROUGH</code></a>.
@@ -297,7 +297,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <section class="detail" id="segmentHint">
 <h3>segmentHint</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segmentHint</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segmentHint</span></div>
 <div class="block"><p>Optional segment hint causes the router to try and match to the specified segment.
  Waypoint coordinates need to be on the segment, otherwise waypoint will be matched ignoring the segment hint.
  This parameter can be used when the waypoint is too close to more than one segment to force matching to a specific one.
@@ -320,7 +320,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <section class="detail" id="chargingStop">
 <h3>chargingStop</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-chargingstop" title="class in com.here.sdk.routing">ChargingStop</a></span> <span class="element-name">chargingStop</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-chargingstop" title="class in com.here.sdk.routing">ChargingStop</a></span> <span class="element-name">chargingStop</span></div>
 <div class="block"><p>Specifies of a user-planned charging stop.
  The resulting <code>Route</code> may contain this waypoint as a <code>RoutePlace</code> with a non-null <code>ChargingStation</code> member
  when the provided specifications indicate that a stop is required to charge the EV battery.
@@ -361,7 +361,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates)">
 <h3>Waypoint</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Waypoint</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -373,18 +373,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,com.here.time.Duration)">
 <h3>Waypoint</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Waypoint</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  @NonNull
- <a href="sdk-for-android-navigate-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a> type,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a> type,
  int transitRadiusInMeters,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> headingInDegrees,
  @Nullable
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> sideOfStreetHint,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> sideOfStreetHint,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a> minCourseDistanceInMeters,
  @NonNull
- <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> duration)</span></div>
+ <a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a> duration)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -425,20 +425,20 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-waypoint"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,java.lang.String,com.here.time.Duration)">
 <h3>Waypoint</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Waypoint</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  @NonNull
- <a href="sdk-for-android-navigate-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a> type,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-waypointtype" title="enum class in com.here.sdk.routing">WaypointType</a> type,
  int transitRadiusInMeters,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> headingInDegrees,
  @Nullable
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> sideOfStreetHint,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> sideOfStreetHint,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a> minCourseDistanceInMeters,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> nameHint,
  @NonNull
- <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> duration)</span></div>
+ <a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a> duration)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

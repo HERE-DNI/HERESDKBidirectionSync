@@ -25,7 +25,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagement
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapContext.MemoryManagementResult</span>
@@ -51,7 +51,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagement
 <div class="block">The difference in kibibytes between the limit and the video-memory requirement
  for only the currently visible data.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementresult#resultCode">resultCode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The result code of the memory management request.</div>
@@ -67,7 +67,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagement
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementresult#%3Cinit%3E(com.here.sdk.mapview.MapContext.MemoryManagementResultCode)">MemoryManagementResult</a><wbr/>(<a href="sdk-for-android-navigate-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a> resultCode)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagementresult#%3Cinit%3E(com.here.sdk.mapview.MapContext.MemoryManagementResultCode)">MemoryManagementResult</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a> resultCode)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagement
 <section class="detail" id="resultCode">
 <h3>resultCode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></span> <span class="element-name">resultCode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></span> <span class="element-name">resultCode</span></div>
 <div class="block"><p>The result code of the memory management request.</p></div>
 </section>
 </li>
@@ -126,7 +126,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-memorymanagement
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapContext.MemoryManagementResultCode)">
 <h3>MemoryManagementResult</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MemoryManagementResult</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a> resultCode)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a> resultCode)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

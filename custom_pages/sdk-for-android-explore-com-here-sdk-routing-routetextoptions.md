@@ -39,17 +39,17 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routetextoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions#language">language</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The language for all textual information.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions#textUsageOptions">textUsageOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An option whether street name, road number and sign post direction should be used when generating notification.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions#unitSystem">unitSystem</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the measurement system used in instruction text.</div>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routetextoptions"
 <section class="detail" id="language">
 <h3>language</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">language</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">language</span></div>
 <div class="block"><p>The language for all textual information. When the specified language is not supported,
  the default language is used, which is English (United States).</p></div>
 </section>
@@ -119,7 +119,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routetextoptions"
 <section class="detail" id="unitSystem">
 <h3>unitSystem</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></span> <span class="element-name">unitSystem</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></span> <span class="element-name">unitSystem</span></div>
 <div class="block"><p>Defines the measurement system used in instruction text. When imperial is selected,
  units used are based on the language specified in the request. Defaults to metric.</p></div>
 </section>
@@ -128,7 +128,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routetextoptions"
 <section class="detail" id="textUsageOptions">
 <h3>textUsageOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></span> <span class="element-name">textUsageOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></span> <span class="element-name">textUsageOptions</span></div>
 <div class="block"><p>An option whether street name, road number and sign post direction should be used when generating notification.
  Defaults to each attribute as <a href="sdk-for-android-explore-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
 </section>

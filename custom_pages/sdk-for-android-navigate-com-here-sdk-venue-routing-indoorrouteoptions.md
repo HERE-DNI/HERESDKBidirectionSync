@@ -39,12 +39,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-indooravoidanceoptions" title="class in com.here.sdk.venue.routing">IndoorAvoidanceOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-indooravoidanceoptions" title="class in com.here.sdk.venue.routing">IndoorAvoidanceOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions#indoorAvoidanceOptions">indoorAvoidanceOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Options to specify restrictions for indoor route calculations.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions#routeOptions">routeOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies the common route calculation options.</div>
@@ -53,9 +53,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions#speedInMetersPerSecond">speedInMetersPerSecond</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies the speed that will be used by the service as the speed
- for <a href="sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing"><code>VenueTransportMode</code></a> in meters per second.</div>
+ for <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing"><code>VenueTransportMode</code></a> in meters per second.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions#transportMode">transportMode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The transport mode for route calculation.</div>
@@ -116,7 +116,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <section class="detail" id="routeOptions">
 <h3>routeOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span></div>
 <div class="block"><p>Specifies the common route calculation options.
  <strong>Note:</strong> Currently, only <a href="sdk-for-android-navigate-routeoptions#optimizationMode"><code>RouteOptions.optimizationMode</code></a> parameter is
  utilized for indoor route calculation.</p></div>
@@ -126,7 +126,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <section class="detail" id="transportMode">
 <h3>transportMode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">transportMode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">transportMode</span></div>
 <div class="block"><p>The transport mode for route calculation.
  <strong>Note:</strong> Indoor route sections of the resulting route will always be
  <a href="sdk-for-android-navigate-venuetransportmode#PEDESTRIAN"><code>VenueTransportMode.PEDESTRIAN</code></a> in the current implementation.
@@ -137,7 +137,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <section class="detail" id="indoorAvoidanceOptions">
 <h3>indoorAvoidanceOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-indooravoidanceoptions" title="class in com.here.sdk.venue.routing">IndoorAvoidanceOptions</a></span> <span class="element-name">indoorAvoidanceOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-routing-indooravoidanceoptions" title="class in com.here.sdk.venue.routing">IndoorAvoidanceOptions</a></span> <span class="element-name">indoorAvoidanceOptions</span></div>
 <div class="block"><p>Options to specify restrictions for indoor route calculations. By default
  no restrictions are applied.</p></div>
 </section>
@@ -147,7 +147,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <h3>speedInMetersPerSecond</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">speedInMetersPerSecond</span></div>
 <div class="block"><p>Specifies the speed that will be used by the service as the speed
- for <a href="sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing"><code>VenueTransportMode</code></a> in meters per second.
+ for <a href="sdk-for-android-navigate-com-here-sdk-venue-routing-venuetransportmode" title="enum class in com.here.sdk.venue.routing"><code>VenueTransportMode</code></a> in meters per second.
  It influences the duration of segments along the route.
  The default speed is 1 meter per second.</p></div>
 </section>

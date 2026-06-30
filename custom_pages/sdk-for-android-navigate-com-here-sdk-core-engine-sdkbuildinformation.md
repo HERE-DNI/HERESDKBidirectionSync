@@ -20,14 +20,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkbuildinformation"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.engine.SDKBuildInformation</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SDKBuildInformation</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>The SDKBuildInformation class is designed to provide information about the SDK build.</p></div>
 </section>
 <section class="summary">
@@ -43,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkbuildinformation"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-sdkversion" title="class in com.here.sdk.core.engine">SDKVersion</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkversion" title="class in com.here.sdk.core.engine">SDKVersion</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkbuildinformation#sdkVersion()">sdkVersion</a>()</code></div>
 
 </div>
@@ -67,7 +67,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdkbuildinformation"
 <section class="detail" id="sdkVersion()">
 <h3>sdkVersion</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-sdkversion" title="class in com.here.sdk.core.engine">SDKVersion</a></span> <span class="element-name">sdkVersion</span>()</div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkversion" title="class in com.here.sdk.core.engine">SDKVersion</a></span> <span class="element-name">sdkVersion</span>()</div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>SDK version information.</p></dd>

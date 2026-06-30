@@ -20,14 +20,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-heremap"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.HereMap</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">HereMap</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>The representation of a dynamic and interactive geographic map.
  The map manages a collection of layers of objects and spaces, presents them in a stacked layout and offers the means to focus on a certain area.
  The layers, their relation to the objects and spaces, the layout and the representation style is described through a configuration.</p></div>
@@ -46,18 +46,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-heremap"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-heremap#addMapIdleListener(com.here.sdk.mapview.MapIdleListener)">addMapIdleListener</a><wbr/>(<a href="sdk-for-android-navigate-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-heremap#addMapIdleListener(com.here.sdk.mapview.MapIdleListener)">addMapIdleListener</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a listener for receiving idle state
  notifications and notifies it of the current state.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-style" title="class in com.here.sdk.mapview">Style</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">Style</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-heremap#getStyle()">getStyle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the style that the map uses to customize the visual appearance of rendered features.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-heremap#removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)">removeMapIdleListener</a><wbr/>(<a href="sdk-for-android-navigate-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-heremap#removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)">removeMapIdleListener</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a listener from receiving idle state notifications.</div>
 </div>
@@ -82,7 +82,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-heremap"
 <section class="detail" id="addMapIdleListener(com.here.sdk.mapview.MapIdleListener)">
 <h3>addMapIdleListener</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapIdleListener</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span></div>
 <div class="block"><p>Adds a listener for receiving idle state
  notifications and notifies it of the current state.
  The first notification received is always the state at the time of registration.
@@ -100,7 +100,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-heremap"
 <section class="detail" id="removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)">
 <h3>removeMapIdleListener</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapIdleListener</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span></div>
 <div class="block"><p>Removes a listener from receiving idle state notifications.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -112,7 +112,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-heremap"
 <section class="detail" id="getStyle()">
 <h3>getStyle</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-style" title="class in com.here.sdk.mapview">Style</a></span> <span class="element-name">getStyle</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">Style</a></span> <span class="element-name">getStyle</span>()</div>
 <div class="block"><p>Gets the style that the map uses to customize the visual appearance of rendered features.
  Changes made to the map style using <a href="sdk-for-android-navigate-style#update(com.here.sdk.mapview.Style)"><code>Style.update(com.here.sdk.mapview.Style)</code></a> are lost when new scene is loaded using
  <a href="sdk-for-android-navigate-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a> and its variants as well as

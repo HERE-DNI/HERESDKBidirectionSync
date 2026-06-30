@@ -43,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueloaderrorcallbac
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueloaderrorcallback#onVenueLoadError(com.here.sdk.venue.control.VenueErrorCode)">onVenueLoadError</a><wbr/>(<a href="sdk-for-android-navigate-venueerrorcode" title="enum class in com.here.sdk.venue.control">VenueErrorCode</a> error)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-control-venueloaderrorcallback#onVenueLoadError(com.here.sdk.venue.control.VenueErrorCode)">onVenueLoadError</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode" title="enum class in com.here.sdk.venue.control">VenueErrorCode</a> error)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a> has been completed.</div>
 </div>
@@ -65,7 +65,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venueloaderrorcallbac
 <section class="detail" id="onVenueLoadError(com.here.sdk.venue.control.VenueErrorCode)">
 <h3>onVenueLoadError</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onVenueLoadError</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-navigate-venueerrorcode" title="enum class in com.here.sdk.venue.control">VenueErrorCode</a> error)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode" title="enum class in com.here.sdk.venue.control">VenueErrorCode</a> error)</span></div>
 <div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a> has been completed.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

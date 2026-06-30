@@ -20,18 +20,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanedirection"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;
 <div class="inheritance">com.here.sdk.navigation.LaneDirection</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">LaneDirection</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>&gt;</span></div>
 <div class="block"><p>This enum defines the lane direction.</p></div>
 </section>
 <section class="summary">
@@ -123,12 +123,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanedirection"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -157,98 +157,98 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="STRAIGHT">
 <h3>STRAIGHT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">STRAIGHT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">STRAIGHT</span></div>
 <div class="block"><p>A lane direction that goes straight up.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SLIGHT_LEFT">
 <h3>SLIGHT_LEFT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">SLIGHT_LEFT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">SLIGHT_LEFT</span></div>
 <div class="block"><p>A lane direction that goes slightly left.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="QUITE_LEFT">
 <h3>QUITE_LEFT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">QUITE_LEFT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">QUITE_LEFT</span></div>
 <div class="block"><p>A lane direction that goes quite left.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HARD_LEFT">
 <h3>HARD_LEFT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">HARD_LEFT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">HARD_LEFT</span></div>
 <div class="block"><p>A lane direction that goes hard left.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="U_TURN_LEFT">
 <h3>U_TURN_LEFT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">U_TURN_LEFT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">U_TURN_LEFT</span></div>
 <div class="block"><p>A lane direction that makes a left u-turn.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SLIGHT_RIGHT">
 <h3>SLIGHT_RIGHT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">SLIGHT_RIGHT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">SLIGHT_RIGHT</span></div>
 <div class="block"><p>A lane direction that goes slightly right.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="QUITE_RIGHT">
 <h3>QUITE_RIGHT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">QUITE_RIGHT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">QUITE_RIGHT</span></div>
 <div class="block"><p>A lane direction that goes quite right.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HARD_RIGHT">
 <h3>HARD_RIGHT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">HARD_RIGHT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">HARD_RIGHT</span></div>
 <div class="block"><p>A lane direction that goes hard right.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="U_TURN_RIGHT">
 <h3>U_TURN_RIGHT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">U_TURN_RIGHT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">U_TURN_RIGHT</span></div>
 <div class="block"><p>A lane direction that makes a right u-turn.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MERGE_RIGHT">
 <h3>MERGE_RIGHT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">MERGE_RIGHT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">MERGE_RIGHT</span></div>
 <div class="block"><p>A lane direction that merges with the lane one the right.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MERGE_LEFT">
 <h3>MERGE_LEFT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">MERGE_LEFT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">MERGE_LEFT</span></div>
 <div class="block"><p>A lane direction that merges with the lane one the left.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MERGE_LANES">
 <h3>MERGE_LANES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">MERGE_LANES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">MERGE_LANES</span></div>
 <div class="block"><p>A lane direction that merges with the lane an other lane.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SECOND_RIGHT">
 <h3>SECOND_RIGHT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">SECOND_RIGHT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">SECOND_RIGHT</span></div>
 <div class="block"><p>A lane direction that leads to the second turn to the right.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SECOND_LEFT">
 <h3>SECOND_LEFT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">SECOND_LEFT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">SECOND_LEFT</span></div>
 <div class="block"><p>A lane direction that leads to the second turn to the left.</p></div>
 </section>
 </li>
@@ -263,7 +263,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -275,7 +275,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-lanedirection" title="enum class in com.here.sdk.navigation">LaneDirection</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

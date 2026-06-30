@@ -34,7 +34,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-mapdataloaderexception"
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapDataLoaderException</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a></span></div>
-<div class="block"><p>Error occurred during obtaining data form the map. <a href="sdk-for-android-navigate-mapdataloadererrorcode" title="enum class in com.here.sdk.mapdata"><code>MapDataLoaderErrorCode</code></a> represents possible errors.</p></div>
+<div class="block"><p>Error occurred during obtaining data form the map. <a href="sdk-for-android-navigate-com-here-sdk-mapdata-mapdataloadererrorcode" title="enum class in com.here.sdk.mapdata"><code>MapDataLoaderErrorCode</code></a> represents possible errors.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
 <dd>

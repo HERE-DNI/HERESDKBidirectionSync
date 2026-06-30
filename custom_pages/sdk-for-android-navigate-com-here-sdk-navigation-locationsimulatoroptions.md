@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulatoroptions
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-locationsimulatoroptions#notificationInterval">notificationInterval</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Interval between notifications.</div>
@@ -119,7 +119,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulatoroptions
 <section class="detail" id="notificationInterval">
 <h3>notificationInterval</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">notificationInterval</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">notificationInterval</span></div>
 <div class="block"><p>Interval between notifications.
  Defaults to 1 second.
  Values less than 1 ms are not acceptable and the interval is raised to this minimum in object constructors.

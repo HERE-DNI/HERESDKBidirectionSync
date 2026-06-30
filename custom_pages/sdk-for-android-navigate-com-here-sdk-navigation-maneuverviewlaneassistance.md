@@ -29,8 +29,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistan
 <div class="block"><p>A class that provides lane assistance information for the next maneuver(s).
  During turn-by-turn navigation lane assistance can help a driver to choose the recommended lanes
  in order to complete the upcoming maneuvers.
- The notifications are synchronized with the <a href="sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a>.
- <a href="sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a> has 4 notification types for each maneuver:
+ The notifications are synchronized with the <a href="sdk-for-android-navigate-com-here-sdk-navigation-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a>.
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-eventtextlistener" title="interface in com.here.sdk.navigation"><code>EventTextListener</code></a> has 4 notification types for each maneuver:
  Range, Reminder, Distance and Action.
  Only the maneuver notification of type Distance will also notify a ManeuverViewLaneAssistance object
  (e.g. "After 400 meters, turn right onto Invalidenstraße").
@@ -50,12 +50,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistan
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance#lanesForNextManeuver">lanesForNextManeuver</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A list of lanes on the current road that leads to the upcoming maneuver.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance#lanesForNextNextManeuver">lanesForNextNextManeuver</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A list of lanes on the road that leads to the maneuver after the upcoming maneuver.</div>
@@ -71,8 +71,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistan
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance#%3Cinit%3E(java.util.List,java.util.List)">ManeuverViewLaneAssistance</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextManeuver,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextNextManeuver)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance#%3Cinit%3E(java.util.List,java.util.List)">ManeuverViewLaneAssistance</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextManeuver,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextNextManeuver)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -117,7 +117,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistan
 <section class="detail" id="lanesForNextManeuver">
 <h3>lanesForNextManeuver</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</span> <span class="element-name">lanesForNextManeuver</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</span> <span class="element-name">lanesForNextManeuver</span></div>
 <div class="block"><p>A list of lanes on the current road that leads to the upcoming maneuver.
  The lanes are sorted from left to right: The lane at index 0 represents the leftmost lane and
  the last index represents the rightmost lane.
@@ -131,7 +131,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistan
 <section class="detail" id="lanesForNextNextManeuver">
 <h3>lanesForNextNextManeuver</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</span> <span class="element-name">lanesForNextNextManeuver</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</span> <span class="element-name">lanesForNextNextManeuver</span></div>
 <div class="block"><p>A list of lanes on the road that leads to the maneuver after the upcoming maneuver.
  The lanes are sorted from left to right: The lane at index 0 represents the leftmost lane and
  the last index represents the rightmost lane.
@@ -157,9 +157,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistan
 <section class="detail" id="&lt;init&gt;(java.util.List,java.util.List)">
 <h3>ManeuverViewLaneAssistance</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ManeuverViewLaneAssistance</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextManeuver,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextManeuver,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextNextManeuver)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextNextManeuver)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

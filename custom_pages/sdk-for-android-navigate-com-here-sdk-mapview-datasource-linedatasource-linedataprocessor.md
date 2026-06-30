@@ -22,7 +22,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource-l
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-linedatasource" title="class in com.here.sdk.mapview.datasource">LineDataSource</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource" title="class in com.here.sdk.mapview.datasource">LineDataSource</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -47,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource-l
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor#process(com.here.sdk.mapview.datasource.LineDataAccessor)">process</a><wbr/>(<a href="sdk-for-android-navigate-linedataaccessor" title="class in com.here.sdk.mapview.datasource">LineDataAccessor</a> lineAccessor)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor#process(com.here.sdk.mapview.datasource.LineDataAccessor)">process</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedataaccessor" title="class in com.here.sdk.mapview.datasource">LineDataAccessor</a> lineAccessor)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called for each line, allowing inspection, removal or update of coordinates and attributes.</div>
 </div>
@@ -69,7 +69,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource-l
 <section class="detail" id="process(com.here.sdk.mapview.datasource.LineDataAccessor)">
 <h3>process</h3>
 <div class="member-signature"><span class="return-type">boolean</span> <span class="element-name">process</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-linedataaccessor" title="class in com.here.sdk.mapview.datasource">LineDataAccessor</a> lineAccessor)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedataaccessor" title="class in com.here.sdk.mapview.datasource">LineDataAccessor</a> lineAccessor)</span></div>
 <div class="block"><p>Called for each line, allowing inspection, removal or update of coordinates and attributes.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -40,12 +40,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslserv
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-clientcertificaterequesttype" title="enum class in com.here.sdk.maploader.remote.connection">ClientCertificateRequestType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-clientcertificaterequesttype" title="enum class in com.here.sdk.maploader.remote.connection">ClientCertificateRequestType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslservercredentialsoptions#clientCertificateRequest">clientCertificateRequest</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates whether the server should request and verify the client's certificate.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-pemkeycertpair" title="class in com.here.sdk.maploader.remote.connection">PemKeyCertPair</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-pemkeycertpair" title="class in com.here.sdk.maploader.remote.connection">PemKeyCertPair</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslservercredentialsoptions#pemKeyCertPairs">pemKeyCertPairs</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of server key/certificate pairs.</div>
@@ -67,8 +67,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslserv
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslservercredentialsoptions#%3Cinit%3E(java.lang.String,java.util.List,com.here.sdk.maploader.remote.connection.ClientCertificateRequestType)">SslServerCredentialsOptions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> pemRootCerts,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-pemkeycertpair" title="class in com.here.sdk.maploader.remote.connection">PemKeyCertPair</a>&gt; pemKeyCertPairs,
- <a href="sdk-for-android-navigate-clientcertificaterequesttype" title="enum class in com.here.sdk.maploader.remote.connection">ClientCertificateRequestType</a> clientCertificateRequest)</code></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-pemkeycertpair" title="class in com.here.sdk.maploader.remote.connection">PemKeyCertPair</a>&gt; pemKeyCertPairs,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-clientcertificaterequesttype" title="enum class in com.here.sdk.maploader.remote.connection">ClientCertificateRequestType</a> clientCertificateRequest)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -106,7 +106,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslserv
 <section class="detail" id="pemKeyCertPairs">
 <h3>pemKeyCertPairs</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-pemkeycertpair" title="class in com.here.sdk.maploader.remote.connection">PemKeyCertPair</a>&gt;</span> <span class="element-name">pemKeyCertPairs</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-pemkeycertpair" title="class in com.here.sdk.maploader.remote.connection">PemKeyCertPair</a>&gt;</span> <span class="element-name">pemKeyCertPairs</span></div>
 <div class="block"><p>List of server key/certificate pairs.
  At least one pair must be provided.</p></div>
 </section>
@@ -115,7 +115,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslserv
 <section class="detail" id="clientCertificateRequest">
 <h3>clientCertificateRequest</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-clientcertificaterequesttype" title="enum class in com.here.sdk.maploader.remote.connection">ClientCertificateRequestType</a></span> <span class="element-name">clientCertificateRequest</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-clientcertificaterequesttype" title="enum class in com.here.sdk.maploader.remote.connection">ClientCertificateRequestType</a></span> <span class="element-name">clientCertificateRequest</span></div>
 <div class="block"><p>Indicates whether the server should request and verify the client's certificate.</p></div>
 </section>
 </li>
@@ -133,9 +133,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslserv
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SslServerCredentialsOptions</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> pemRootCerts,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-pemkeycertpair" title="class in com.here.sdk.maploader.remote.connection">PemKeyCertPair</a>&gt; pemKeyCertPairs,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-pemkeycertpair" title="class in com.here.sdk.maploader.remote.connection">PemKeyCertPair</a>&gt; pemKeyCertPairs,
  @NonNull
- <a href="sdk-for-android-navigate-clientcertificaterequesttype" title="enum class in com.here.sdk.maploader.remote.connection">ClientCertificateRequestType</a> clientCertificateRequest)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-clientcertificaterequesttype" title="enum class in com.here.sdk.maploader.remote.connection">ClientCertificateRequestType</a> clientCertificateRequest)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

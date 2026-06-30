@@ -24,8 +24,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarninglist
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">RealisticViewWarningListener</span></div>
 <div class="block"><p>This interface
  should be implemented in order to receive realistic view warnings.
- A <a href="sdk-for-android-navigate-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a> will not be given until the previous warning of that type has been passed.
- For example, a route with <a href="sdk-for-android-navigate-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a> 120 meters and <a href="sdk-for-android-navigate-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a> 160 meters ahead,
+ A <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a> will not be given until the previous warning of that type has been passed.
+ For example, a route with <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a> 120 meters and <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a> 160 meters ahead,
  the first <a href="sdk-for-android-navigate-realisticviewwarning#distanceToRealisticViewInMeters"><code>RealisticViewWarning.distanceToRealisticViewInMeters</code></a> is 120 meters
  and the next <a href="sdk-for-android-navigate-realisticviewwarning#distanceToRealisticViewInMeters"><code>RealisticViewWarning.distanceToRealisticViewInMeters</code></a> is then 40 meters,
  since that is the distance between the first and second warnings.</p></div>
@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarninglist
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarninglistener#onRealisticViewWarningUpdated(com.here.sdk.navigation.RealisticViewWarning)">onRealisticViewWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-realisticviewwarning" title="class in com.here.sdk.navigation">RealisticViewWarning</a> realisticViewWarning)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarninglistener#onRealisticViewWarningUpdated(com.here.sdk.navigation.RealisticViewWarning)">onRealisticViewWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning" title="class in com.here.sdk.navigation">RealisticViewWarning</a> realisticViewWarning)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new realistic view warning is available.</div>
 </div>
@@ -66,7 +66,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarninglist
 <section class="detail" id="onRealisticViewWarningUpdated(com.here.sdk.navigation.RealisticViewWarning)">
 <h3>onRealisticViewWarningUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onRealisticViewWarningUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-realisticviewwarning" title="class in com.here.sdk.navigation">RealisticViewWarning</a> realisticViewWarning)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning" title="class in com.here.sdk.navigation">RealisticViewWarning</a> realisticViewWarning)</span></div>
 <div class="block"><p>Called whenever a new realistic view warning is available.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

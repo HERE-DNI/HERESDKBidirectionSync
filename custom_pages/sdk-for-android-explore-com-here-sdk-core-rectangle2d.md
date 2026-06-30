@@ -39,12 +39,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-rectangle2d"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-rectangle2d#origin">origin</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The origin specifies the top-left corner of the rectangle.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-rectangle2d#size">size</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The size specifies the width and height of the rectangle.</div>
@@ -60,8 +60,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-rectangle2d"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-rectangle2d#%3Cinit%3E(com.here.sdk.core.Point2D,com.here.sdk.core.Size2D)">Rectangle2D</a><wbr/>(<a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> origin,
- <a href="sdk-for-android-explore-size2d" title="class in com.here.sdk.core">Size2D</a> size)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-rectangle2d#%3Cinit%3E(com.here.sdk.core.Point2D,com.here.sdk.core.Size2D)">Rectangle2D</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin,
+ <a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a> size)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -106,7 +106,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-rectangle2d"
 <section class="detail" id="origin">
 <h3>origin</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">origin</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">origin</span></div>
 <div class="block"><p>The origin specifies the top-left corner of the rectangle.
  When this point is used to indicate the coordinates on a view,
  then (0,0) will mark the top-left corner of the view. The size determines
@@ -118,7 +118,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-rectangle2d"
 <section class="detail" id="size">
 <h3>size</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">size</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">size</span></div>
 <div class="block"><p>The size specifies the width and height of the rectangle.</p></div>
 </section>
 </li>
@@ -134,9 +134,9 @@ slug: "sdk-for-android-explore-com-here-sdk-core-rectangle2d"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.Point2D,com.here.sdk.core.Size2D)">
 <h3>Rectangle2D</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Rectangle2D</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> origin,
+ <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin,
  @NonNull
- <a href="sdk-for-android-explore-size2d" title="class in com.here.sdk.core">Size2D</a> size)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a> size)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

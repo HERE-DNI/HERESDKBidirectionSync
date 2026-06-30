@@ -20,18 +20,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-facilitytype"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>&gt;
 <div class="inheritance">com.here.sdk.search.FacilityType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">FacilityType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>&gt;</span></div>
 <div class="block"><p>Represents facility type available at the location.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -173,12 +173,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-facilitytype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-facilitytype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -207,182 +207,182 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="HOTEL">
 <h3>HOTEL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">HOTEL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">HOTEL</span></div>
 <div class="block"><p>A place to stay overnight.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RESTAURANT">
 <h3>RESTAURANT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">RESTAURANT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">RESTAURANT</span></div>
 <div class="block"><p>A place to eat.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CAFE">
 <h3>CAFE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">CAFE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">CAFE</span></div>
 <div class="block"><p>A place to have a coffee or other drinks.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MALL">
 <h3>MALL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">MALL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">MALL</span></div>
 <div class="block"><p>A shopping mall.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SUPERMARKET">
 <h3>SUPERMARKET</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">SUPERMARKET</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">SUPERMARKET</span></div>
 <div class="block"><p>A place to buy groceries.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SPORT">
 <h3>SPORT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">SPORT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">SPORT</span></div>
 <div class="block"><p>Sport facilities: gym, field etc.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RECREATION_AREA">
 <h3>RECREATION_AREA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">RECREATION_AREA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">RECREATION_AREA</span></div>
 <div class="block"><p>A place for recreation, like a park, beach etc.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NATURE">
 <h3>NATURE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">NATURE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">NATURE</span></div>
 <div class="block"><p>Located in, or close to, a park, nature reserve etc.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MUSEUM">
 <h3>MUSEUM</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">MUSEUM</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">MUSEUM</span></div>
 <div class="block"><p>A museum or other cultural facility.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BIKE_SHARING">
 <h3>BIKE_SHARING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">BIKE_SHARING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">BIKE_SHARING</span></div>
 <div class="block"><p>A bike/e-bike/e-scooter sharing location.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BUS_STOP">
 <h3>BUS_STOP</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">BUS_STOP</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">BUS_STOP</span></div>
 <div class="block"><p>A bus stop.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TAXI_STAND">
 <h3>TAXI_STAND</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">TAXI_STAND</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">TAXI_STAND</span></div>
 <div class="block"><p>A taxi stand.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TRAM_STOP">
 <h3>TRAM_STOP</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">TRAM_STOP</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">TRAM_STOP</span></div>
 <div class="block"><p>A tram stop.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="METRO_STATION">
 <h3>METRO_STATION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">METRO_STATION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">METRO_STATION</span></div>
 <div class="block"><p>A metro station.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TRAIN_STATION">
 <h3>TRAIN_STATION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">TRAIN_STATION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">TRAIN_STATION</span></div>
 <div class="block"><p>A train station.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="AIRPORT">
 <h3>AIRPORT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">AIRPORT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">AIRPORT</span></div>
 <div class="block"><p>An airport.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PARKING_LOT">
 <h3>PARKING_LOT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">PARKING_LOT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">PARKING_LOT</span></div>
 <div class="block"><p>A parking lot.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CARPOOL_PARKING">
 <h3>CARPOOL_PARKING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">CARPOOL_PARKING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">CARPOOL_PARKING</span></div>
 <div class="block"><p>A parking lot for carpooling.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FUEL_STATION">
 <h3>FUEL_STATION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">FUEL_STATION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">FUEL_STATION</span></div>
 <div class="block"><p>A fuel station.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="WIFI">
 <h3>WIFI</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">WIFI</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">WIFI</span></div>
 <div class="block"><p>Wifi or other type of internet available.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BUSINESS">
 <h3>BUSINESS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">BUSINESS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">BUSINESS</span></div>
 <div class="block"><p>Business facilities.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="EDUCATION">
 <h3>EDUCATION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">EDUCATION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">EDUCATION</span></div>
 <div class="block"><p>Educational facilities.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FINANCE">
 <h3>FINANCE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">FINANCE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">FINANCE</span></div>
 <div class="block"><p>Financial facilities.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HEALTH">
 <h3>HEALTH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">HEALTH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">HEALTH</span></div>
 <div class="block"><p>Health facilities.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SERVICE">
 <h3>SERVICE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">SERVICE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">SERVICE</span></div>
 <div class="block"><p>Service facilities.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="STORE">
 <h3>STORE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">STORE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">STORE</span></div>
 <div class="block"><p>A store.</p></div>
 </section>
 </li>
@@ -397,7 +397,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -409,7 +409,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

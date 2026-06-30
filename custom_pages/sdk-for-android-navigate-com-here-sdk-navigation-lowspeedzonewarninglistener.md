@@ -42,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarningliste
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarninglistener#onLowSpeedZoneWarningUpdated(com.here.sdk.navigation.LowSpeedZoneWarning)">onLowSpeedZoneWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-lowspeedzonewarning" title="class in com.here.sdk.navigation">LowSpeedZoneWarning</a> lowSpeedZoneWarning)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarninglistener#onLowSpeedZoneWarningUpdated(com.here.sdk.navigation.LowSpeedZoneWarning)">onLowSpeedZoneWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning" title="class in com.here.sdk.navigation">LowSpeedZoneWarning</a> lowSpeedZoneWarning)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new low speed zone warning is available.</div>
 </div>
@@ -64,7 +64,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarningliste
 <section class="detail" id="onLowSpeedZoneWarningUpdated(com.here.sdk.navigation.LowSpeedZoneWarning)">
 <h3>onLowSpeedZoneWarningUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onLowSpeedZoneWarningUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-lowspeedzonewarning" title="class in com.here.sdk.navigation">LowSpeedZoneWarning</a> lowSpeedZoneWarning)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning" title="class in com.here.sdk.navigation">LowSpeedZoneWarning</a> lowSpeedZoneWarning)</span></div>
 <div class="block"><p>Called whenever a new low speed zone warning is available.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

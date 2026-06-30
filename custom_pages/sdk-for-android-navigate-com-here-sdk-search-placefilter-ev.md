@@ -25,7 +25,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placefilter-ev"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-placefilter" title="class in com.here.sdk.search">PlaceFilter</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-search-placefilter" title="class in com.here.sdk.search">PlaceFilter</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">PlaceFilter.Ev</span>
@@ -48,7 +48,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placefilter-ev"
 <div class="col-last even-row-color">
 <div class="block">Filter to retrieve EV charging stations with at least one of the connector type IDs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-currenttype" title="enum class in com.here.sdk.core">CurrentType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-currenttype" title="enum class in com.here.sdk.core">CurrentType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placefilter-ev#currentType">currentType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Filter to retrieve EV charging stations with the given current type
@@ -165,7 +165,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placefilter-ev"
 <section class="detail" id="currentType">
 <h3>currentType</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-currenttype" title="enum class in com.here.sdk.core">CurrentType</a></span> <span class="element-name">currentType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-currenttype" title="enum class in com.here.sdk.core">CurrentType</a></span> <span class="element-name">currentType</span></div>
 <div class="block"><p>Filter to retrieve EV charging stations with the given current type
  provided at one of the station EVSE. Accepted is either AC or DC.
  Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p></div>

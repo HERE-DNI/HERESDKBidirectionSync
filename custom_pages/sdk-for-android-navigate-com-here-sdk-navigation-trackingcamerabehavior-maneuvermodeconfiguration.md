@@ -25,12 +25,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TrackingCameraBehavior.ManeuverModeConfiguration</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Configuration that defines how <a href="sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior</code></a> reacts to nearby maneuvers.
+<div class="block"><p>Configuration that defines how <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior</code></a> reacts to nearby maneuvers.
  On each frame, and based on the current position, the availability of its functional road
  class, and the availability of maneuver data for at least one adjacent maneuver, the camera
  checks for a match against the <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuvermodeconfiguration#maneuverRules"><code>maneuverRules</code></a> in the order they are listed. If a match is
@@ -55,7 +55,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <div class="block">Maximum angle difference in degrees between the current bearing and the bearing to the
  maneuver point.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trackingcamerabehavior.maneuverrule" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverRule</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.maneuverrule" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverRule</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuvermodeconfiguration#maneuverRules">maneuverRules</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Ordered list of maneuver rules.</div>
@@ -100,11 +100,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <section class="detail" id="maneuverRules">
 <h3>maneuverRules</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trackingcamerabehavior.maneuverrule" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverRule</a>&gt;</span> <span class="element-name">maneuverRules</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.maneuverrule" title="class in com.here.sdk.navigation">TrackingCameraBehavior.ManeuverRule</a>&gt;</span> <span class="element-name">maneuverRules</span></div>
 <div class="block"><p>Ordered list of maneuver rules. Rules are evaluated in order; the first matching rule
  determines the camera behavior. If empty, this configuration is not valid and the
  camera does not react to maneuvers. If <a href="sdk-for-android-navigate-trackingcamerabehavior#defaultManeuverModeConfiguration()"><code>TrackingCameraBehavior.defaultManeuverModeConfiguration()</code></a> is not used
- for <a href="sdk-for-android-navigate-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverModeConfiguration</code></a>, it will be an empty list.</p></div>
+ for <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.maneuvermodeconfiguration" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.ManeuverModeConfiguration</code></a>, it will be an empty list.</p></div>
 </section>
 </li>
 <li>

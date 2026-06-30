@@ -20,18 +20,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-parkingtype"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a>&gt;
 <div class="inheritance">com.here.sdk.search.ParkingType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">ParkingType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a>&gt;</span></div>
 <div class="block"><p>Represents parking type available at the location.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -93,12 +93,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-parkingtype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-parkingtype#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-parkingtype#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -127,42 +127,42 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="ALONG_MOTORWAY">
 <h3>ALONG_MOTORWAY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">ALONG_MOTORWAY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">ALONG_MOTORWAY</span></div>
 <div class="block"><p>A parking facility/rest area along a motorway, freeway, interstate, highway etc.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PARKING_GARAGE">
 <h3>PARKING_GARAGE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">PARKING_GARAGE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">PARKING_GARAGE</span></div>
 <div class="block"><p>Multi-story car park, mainly above ground.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PARKING_LOT">
 <h3>PARKING_LOT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">PARKING_LOT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">PARKING_LOT</span></div>
 <div class="block"><p>A cleared area that is intended for parking vehicles, i.e. at super markets, bars, etc.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ON_DRIVEWAY">
 <h3>ON_DRIVEWAY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">ON_DRIVEWAY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">ON_DRIVEWAY</span></div>
 <div class="block"><p>The driveway of a house or building.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ON_STREET">
 <h3>ON_STREET</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">ON_STREET</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">ON_STREET</span></div>
 <div class="block"><p>A public parking space along a street.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="UNDERGROUND_GARAGE">
 <h3>UNDERGROUND_GARAGE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">UNDERGROUND_GARAGE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">UNDERGROUND_GARAGE</span></div>
 <div class="block"><p>Multi-story car park, mainly underground.</p></div>
 </section>
 </li>
@@ -177,7 +177,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -189,7 +189,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

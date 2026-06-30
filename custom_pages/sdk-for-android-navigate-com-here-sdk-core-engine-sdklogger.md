@@ -20,16 +20,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdklogger"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.engine.SDKLogger</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SDKLogger</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Logging interface for Android/iOS platforms.
- These logs are under management of <a href="sdk-for-android-navigate-logcontrol" title="class in com.here.sdk.core.engine"><code>LogControl</code></a> and should be used instead of platform-specific logging functions.</p></div>
+ These logs are under management of <a href="sdk-for-android-navigate-com-here-sdk-core-engine-logcontrol" title="class in com.here.sdk.core.engine"><code>LogControl</code></a> and should be used instead of platform-specific logging functions.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -63,7 +63,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdklogger"
 <div class="block">convenient function to print a message with log level INFO and tag.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdklogger#log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)">log</a><wbr/>(<a href="sdk-for-android-navigate-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-sdklogger#log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)">log</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-engine-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
 
@@ -94,7 +94,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdklogger"
 <section class="detail" id="log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)">
 <h3>log</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">log</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
  @NonNull

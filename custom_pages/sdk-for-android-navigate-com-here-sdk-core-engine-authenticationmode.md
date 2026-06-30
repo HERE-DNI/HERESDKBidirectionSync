@@ -20,14 +20,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.engine.AuthenticationMode</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">AuthenticationMode</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>This is a bearer authentication mode which adds or does not add a
  header ("Authorization", "Bearer $Token") to each online request of the
  module the object is added to. The token (if used) can be provided or is
@@ -45,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static interface </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-authenticationmode.accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode.accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">This lambda is used to retrieve access token in synchronous manner.</div>
 </div>
@@ -69,24 +69,24 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode"
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode#hashCode()">hashCode</a>()</code></div>
 
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode#withExternal()">withExternal</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Assumes the authentication is provided by the client.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode#withKeySecret(java.lang.String,java.lang.String)">withKeySecret</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> accessKeyId,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> accessKeySecret)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">SDK will authenticate with access key id access key secret to obtain authentication token.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode#withToken(java.lang.String)">withToken</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> accessToken)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">SDK will pass access token as a Bearer.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode#withTokenProvider(com.here.sdk.core.engine.AuthenticationMode.AccessTokenProvider)">withTokenProvider</a><wbr/>(<a href="sdk-for-android-navigate-authenticationmode.accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a> tokenProvider)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode#withTokenProvider(com.here.sdk.core.engine.AuthenticationMode.AccessTokenProvider)">withTokenProvider</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode.accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a> tokenProvider)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">SDK will use access token provider to retrieve access token.</div>
 </div>
@@ -131,14 +131,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode"
 <section class="detail" id="withToken(java.lang.String)">
 <h3>withToken</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">withToken</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">withToken</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> accessToken)</span></div>
 <div class="block"><p>SDK will pass access token as a Bearer.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>accessToken</code> - <p>Access token</p></dd>
 <dt>Returns:</dt>
-<dd><p>Instance of <a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a> configured to use token</p></dd>
+<dd><p>Instance of <a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a> configured to use token</p></dd>
 </dl>
 </section>
 </li>
@@ -146,14 +146,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode"
 <section class="detail" id="withTokenProvider(com.here.sdk.core.engine.AuthenticationMode.AccessTokenProvider)">
 <h3>withTokenProvider</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">withTokenProvider</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-authenticationmode.accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a> tokenProvider)</span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">withTokenProvider</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode.accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a> tokenProvider)</span></div>
 <div class="block"><p>SDK will use access token provider to retrieve access token.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>tokenProvider</code> - <p>Access token provider</p></dd>
 <dt>Returns:</dt>
-<dd><p>Instance of <a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a> configured to use token provider</p></dd>
+<dd><p>Instance of <a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a> configured to use token provider</p></dd>
 </dl>
 </section>
 </li>
@@ -161,11 +161,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode"
 <section class="detail" id="withExternal()">
 <h3>withExternal</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">withExternal</span>()</div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">withExternal</span>()</div>
 <div class="block"><p>Assumes the authentication is provided by the client.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>Instance of <a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a> configured to use externally provided authentication</p></dd>
+<dd><p>Instance of <a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a> configured to use externally provided authentication</p></dd>
 </dl>
 </section>
 </li>
@@ -173,7 +173,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode"
 <section class="detail" id="withKeySecret(java.lang.String,java.lang.String)">
 <h3>withKeySecret</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">withKeySecret</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">withKeySecret</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> accessKeyId,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> accessKeySecret)</span></div>
@@ -183,7 +183,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode"
 <dd><code>accessKeyId</code> - <p>The access key id</p></dd>
 <dd><code>accessKeySecret</code> - <p>The access key secret</p></dd>
 <dt>Returns:</dt>
-<dd><p>Instance of <a href="sdk-for-android-navigate-authenticationmode" title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a> configured to use key ID and secret</p></dd>
+<dd><p>Instance of <a href="sdk-for-android-navigate-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine"><code>AuthenticationMode</code></a> configured to use key ID and secret</p></dd>
 </dl>
 </section>
 </li>

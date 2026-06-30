@@ -20,14 +20,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externa
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.maploader.remote.connection.ExternalMapDataSourceClient</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">ExternalMapDataSourceClient</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -59,13 +59,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externa
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externalmapdatasourceclient#configureRemoteConnectionAsync(java.lang.String,com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.remote.connection.SslClientCredentialsOptions,com.here.sdk.maploader.remote.connection.ConfigureConnectionCallback)">configureRemoteConnectionAsync</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> url,
- <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> engine,
- <a href="sdk-for-android-navigate-sslclientcredentialsoptions" title="class in com.here.sdk.maploader.remote.connection">SslClientCredentialsOptions</a> credentials,
- <a href="sdk-for-android-navigate-configureconnectioncallback" title="interface in com.here.sdk.maploader.remote.connection">ConfigureConnectionCallback</a> callback)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> engine,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslclientcredentialsoptions" title="class in com.here.sdk.maploader.remote.connection">SslClientCredentialsOptions</a> credentials,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-configureconnectioncallback" title="interface in com.here.sdk.maploader.remote.connection">ConfigureConnectionCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Initialize <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> with URL of the remote map data source gRPC server.</div>
+<div class="block">Initialize <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> with URL of the remote map data source gRPC server.</div>
 </div>
 </div>
 </div>
@@ -88,11 +88,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externa
 <section class="detail" id="&lt;init&gt;()">
 <h3>ExternalMapDataSourceClient</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ExternalMapDataSourceClient</span>()
-                            throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+                            throws <span class="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -108,26 +108,26 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externa
 <section class="detail" id="configureRemoteConnectionAsync(java.lang.String,com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.remote.connection.SslClientCredentialsOptions,com.here.sdk.maploader.remote.connection.ConfigureConnectionCallback)">
 <h3>configureRemoteConnectionAsync</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">configureRemoteConnectionAsync</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">configureRemoteConnectionAsync</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> url,
  @NonNull
- <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> engine,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> engine,
  @Nullable
- <a href="sdk-for-android-navigate-sslclientcredentialsoptions" title="class in com.here.sdk.maploader.remote.connection">SslClientCredentialsOptions</a> credentials,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslclientcredentialsoptions" title="class in com.here.sdk.maploader.remote.connection">SslClientCredentialsOptions</a> credentials,
  @NonNull
- <a href="sdk-for-android-navigate-configureconnectioncallback" title="interface in com.here.sdk.maploader.remote.connection">ConfigureConnectionCallback</a> callback)</span></div>
-<div class="block"><p>Initialize <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> with URL of the remote map data source gRPC server.
- Newly injected map data source replaces exiting one if <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> was already connected.
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-configureconnectioncallback" title="interface in com.here.sdk.maploader.remote.connection">ConfigureConnectionCallback</a> callback)</span></div>
+<div class="block"><p>Initialize <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> with URL of the remote map data source gRPC server.
+ Newly injected map data source replaces exiting one if <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> was already connected.
  Suggested configuration is taken from <a href="sdk-for-android-navigate-sdkoptions#catalogConfigurations"><code>SDKOptions.catalogConfigurations</code></a>, actual catalog
  versions are queried from the remote connection in order to be in sync.
- It is a non-blocking function, and the result will be returned via a callback <a href="sdk-for-android-navigate-configureconnectioncallback" title="interface in com.here.sdk.maploader.remote.connection"><code>ConfigureConnectionCallback</code></a>.</p></div>
+ It is a non-blocking function, and the result will be returned via a callback <a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-configureconnectioncallback" title="interface in com.here.sdk.maploader.remote.connection"><code>ConfigureConnectionCallback</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>url</code> - <p>URL to connect with the remote map data source gRPC server.
      The remote map data source gRPC server could be self managed service created with help OCM Access Manager (OCM AM) or
      service exposed using <a href="sdk-for-android-navigate-externalmapdatasourceserver#start(java.lang.String,com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.remote.connection.SslServerCredentialsOptions,com.here.sdk.maploader.remote.connection.ServerStartedCallback)"><code>ExternalMapDataSourceServer.start(java.lang.String, com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.remote.connection.SslServerCredentialsOptions, com.here.sdk.maploader.remote.connection.ServerStartedCallback)</code></a></p></dd>
-<dd><code>engine</code> - <p>Instance of an existing <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></dd>
-<dd><code>credentials</code> - <p>Instance of <a href="sdk-for-android-navigate-sslclientcredentialsoptions" title="class in com.here.sdk.maploader.remote.connection"><code>SslClientCredentialsOptions</code></a></p></dd>
+<dd><code>engine</code> - <p>Instance of an existing <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></dd>
+<dd><code>credentials</code> - <p>Instance of <a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-sslclientcredentialsoptions" title="class in com.here.sdk.maploader.remote.connection"><code>SslClientCredentialsOptions</code></a></p></dd>
 <dd><code>callback</code> - <p>Callback to retrieve an operation status on the main thread.</p></dd>
 <dt>Returns:</dt>
 <dd><p>Handle that will be used to manipulate the execution of the task, for example, to cancel on ongoing request.

@@ -25,12 +25,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory-instantiat
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-jsonstylefactory" title="class in com.here.sdk.mapview">JsonStyleFactory</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory" title="class in com.here.sdk.mapview">JsonStyleFactory</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">JsonStyleFactory.InstantiationErrorDetails</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Describes the reason for failing to create a <a href="sdk-for-android-navigate-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</p></div>
+<div class="block"><p>Describes the reason for failing to create a <a href="sdk-for-android-navigate-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -43,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory-instantiat
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory-instantiationerrordetails#errorCode">errorCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The error code.</div>
@@ -64,7 +64,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory-instantiat
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory-instantiationerrordetails#%3Cinit%3E(com.here.sdk.mapview.JsonStyleFactory.InstantiationErrorCode,java.lang.String)">InstantiationErrorDetails</a><wbr/>(<a href="sdk-for-android-navigate-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a> errorCode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory-instantiationerrordetails#%3Cinit%3E(com.here.sdk.mapview.JsonStyleFactory.InstantiationErrorCode,java.lang.String)">InstantiationErrorDetails</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a> errorCode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> errorDescription)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -94,7 +94,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory-instantiat
 <section class="detail" id="errorCode">
 <h3>errorCode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></span> <span class="element-name">errorCode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></span> <span class="element-name">errorCode</span></div>
 <div class="block"><p>The error code.</p></div>
 </section>
 </li>
@@ -118,7 +118,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory-instantiat
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.JsonStyleFactory.InstantiationErrorCode,java.lang.String)">
 <h3>InstantiationErrorDetails</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">InstantiationErrorDetails</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a> errorCode,
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a> errorCode,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> errorDescription)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>

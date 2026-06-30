@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe#duration">duration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Relative animation duration for reaching the keyframe value from previous keyframe value.</div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe#%3Cinit%3E(double,com.here.time.Duration)">ScalarKeyframe</a><wbr/>(double value,
- <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> duration)</code></div>
+ <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> duration)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a ScalarKeyframe from the value and offset.</div>
 </div>
@@ -113,7 +113,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
 <section class="detail" id="duration">
 <h3>duration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
 <div class="block"><p>Relative animation duration for reaching the keyframe value from previous keyframe value.
  Negative duration value gets clamped to 0.</p></div>
 </section>
@@ -131,7 +131,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-scalarkeyframe"
 <h3>ScalarKeyframe</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ScalarKeyframe</span><wbr/><span class="parameters">(double value,
  @NonNull
- <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> duration)</span></div>
+ <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> duration)</span></div>
 <div class="block"><p>Constructs a ScalarKeyframe from the value and offset.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

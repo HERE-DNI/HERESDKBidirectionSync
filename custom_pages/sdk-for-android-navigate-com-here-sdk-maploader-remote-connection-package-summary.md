@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-package
 </div>
 <div class="col-first odd-row-color class-summary class-summary-tab3"><a href="sdk-for-android-navigate-externalmapdatasourceerrorcode" title="enum class in com.here.sdk.maploader.remote.connection">ExternalMapDataSourceErrorCode</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab3">
-<div class="block">Describes the reason for failing to configure <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> with external map data source.</div>
+<div class="block">Describes the reason for failing to configure <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> with external map data source.</div>
 </div>
 <div class="col-first even-row-color class-summary class-summary-tab5"><a href="sdk-for-android-navigate-externalmapdatasourceexception" title="class in com.here.sdk.maploader.remote.connection">ExternalMapDataSourceException</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab5">

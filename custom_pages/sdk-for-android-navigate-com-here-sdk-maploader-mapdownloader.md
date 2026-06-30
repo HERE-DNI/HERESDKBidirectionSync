@@ -20,14 +20,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.maploader.MapDownloader</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapDownloader</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A class for downloading and managing map data for various regions worldwide.
  Downloaded map data is permanently stored on disk, enabling maps at all zoom levels,
  search, routing, and other features without an active data connection.
@@ -58,54 +58,54 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#clearPersistentMapStorage(com.here.sdk.maploader.SDKCacheCallback)">clearPersistentMapStorage</a><wbr/>(<a href="sdk-for-android-navigate-sdkcachecallback" title="interface in com.here.sdk.maploader">SDKCacheCallback</a> callback)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#clearPersistentMapStorage(com.here.sdk.maploader.SDKCacheCallback)">clearPersistentMapStorage</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-maploader-sdkcachecallback" title="interface in com.here.sdk.maploader">SDKCacheCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Performs an asynchronous operation to clear the persistent map storage from all data.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#deleteRegions(java.util.List,com.here.sdk.maploader.DeletedRegionsCallback)">deleteRegions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions,
- <a href="sdk-for-android-navigate-deletedregionscallback" title="interface in com.here.sdk.maploader">DeletedRegionsCallback</a> callback)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#deleteRegions(java.util.List,com.here.sdk.maploader.DeletedRegionsCallback)">deleteRegions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-deletedregionscallback" title="interface in com.here.sdk.maploader">DeletedRegionsCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Performs an asynchronous operation to delete map data for regions specified by a list of <a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader"><code>RegionId</code></a>.</div>
+<div class="block">Performs an asynchronous operation to delete map data for regions specified by a list of <a href="sdk-for-android-navigate-com-here-sdk-maploader-regionid" title="class in com.here.sdk.maploader"><code>RegionId</code></a>.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader">MapDownloaderTask</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#downloadArea(com.here.sdk.core.GeoPolygon,com.here.sdk.maploader.DownloadRegionsStatusListener)">downloadArea</a><wbr/>(<a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> area,
- <a href="sdk-for-android-navigate-downloadregionsstatuslistener" title="interface in com.here.sdk.maploader">DownloadRegionsStatusListener</a> statusListener)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask" title="class in com.here.sdk.maploader">MapDownloaderTask</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#downloadArea(com.here.sdk.core.GeoPolygon,com.here.sdk.maploader.DownloadRegionsStatusListener)">downloadArea</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> area,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-downloadregionsstatuslistener" title="interface in com.here.sdk.maploader">DownloadRegionsStatusListener</a> statusListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Performs an asynchronous request to download map data for area specified by a GeoPolygon.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader">MapDownloaderTask</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#downloadRegions(java.util.List,com.here.sdk.maploader.DownloadRegionsStatusListener)">downloadRegions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions,
- <a href="sdk-for-android-navigate-downloadregionsstatuslistener" title="interface in com.here.sdk.maploader">DownloadRegionsStatusListener</a> statusListener)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask" title="class in com.here.sdk.maploader">MapDownloaderTask</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#downloadRegions(java.util.List,com.here.sdk.maploader.DownloadRegionsStatusListener)">downloadRegions</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-downloadregionsstatuslistener" title="interface in com.here.sdk.maploader">DownloadRegionsStatusListener</a> statusListener)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Performs an asynchronous request to download map data for regions specified
- by a list of <a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader"><code>RegionId</code></a> instances.</div>
+ by a list of <a href="sdk-for-android-navigate-com-here-sdk-maploader-regionid" title="class in com.here.sdk.maploader"><code>RegionId</code></a> instances.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)">fromEngineAsync</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
- <a href="sdk-for-android-navigate-mapdownloaderconstructioncallback" title="interface in com.here.sdk.maploader">MapDownloaderConstructionCallback</a> mapDownloaderConstructionCallback)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)">fromEngineAsync</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloaderconstructioncallback" title="interface in com.here.sdk.maploader">MapDownloaderConstructionCallback</a> mapDownloaderConstructionCallback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Gets a single instance of this class per provided <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</div>
+<div class="block">Gets a single instance of this class per provided <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getDownloadableRegions(com.here.sdk.core.LanguageCode,com.here.sdk.maploader.DownloadableRegionsCallback)">getDownloadableRegions</a><wbr/>(<a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
- <a href="sdk-for-android-navigate-downloadableregionscallback" title="interface in com.here.sdk.maploader">DownloadableRegionsCallback</a> callback)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getDownloadableRegions(com.here.sdk.core.LanguageCode,com.here.sdk.maploader.DownloadableRegionsCallback)">getDownloadableRegions</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-downloadableregionscallback" title="interface in com.here.sdk.maploader">DownloadableRegionsCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Performs an asynchronous request to fetch a list of <a href="sdk-for-android-navigate-region" title="class in com.here.sdk.maploader"><code>Region</code></a> objects with <a href="sdk-for-android-navigate-region#name"><code>Region.name</code></a>
+<div class="block">Performs an asynchronous request to fetch a list of <a href="sdk-for-android-navigate-com-here-sdk-maploader-region" title="class in com.here.sdk.maploader"><code>Region</code></a> objects with <a href="sdk-for-android-navigate-region#name"><code>Region.name</code></a>
  in given <code>languageCode</code>, that can be used to download the actual map data in a separate request.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getDownloadableRegions(com.here.sdk.maploader.DownloadableRegionsCallback)">getDownloadableRegions</a><wbr/>(<a href="sdk-for-android-navigate-downloadableregionscallback" title="interface in com.here.sdk.maploader">DownloadableRegionsCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getDownloadableRegions(com.here.sdk.maploader.DownloadableRegionsCallback)">getDownloadableRegions</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-maploader-downloadableregionscallback" title="interface in com.here.sdk.maploader">DownloadableRegionsCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Performs an asynchronous request to fetch a list of <a href="sdk-for-android-navigate-region" title="class in com.here.sdk.maploader"><code>Region</code></a> objects
+<div class="block">Performs an asynchronous request to fetch a list of <a href="sdk-for-android-navigate-com-here-sdk-maploader-region" title="class in com.here.sdk.maploader"><code>Region</code></a> objects
  for downloading map data in a separate request.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-persistentmapstatus" title="enum class in com.here.sdk.maploader">PersistentMapStatus</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus" title="enum class in com.here.sdk.maploader">PersistentMapStatus</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getInitialPersistentMapStatus()">getInitialPersistentMapStatus</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the initial status of the already downloaded regions at start-up time of the app.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-installedregion" title="class in com.here.sdk.maploader">InstalledRegion</a>&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-installedregion" title="class in com.here.sdk.maploader">InstalledRegion</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getInstalledRegions()">getInstalledRegions</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Method to get a list of map regions that are currently installed on the device.</div>
@@ -116,8 +116,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <div class="block">Get the total size of all downloaded regions currently persisted on disk at the location that
  is specified via <a href="sdk-for-android-navigate-sdkoptions#persistentMapStoragePath"><code>SDKOptions.persistentMapStoragePath</code></a>.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getOfflineMapsStorageSizeInBytes(com.here.sdk.maploader.OfflineStorageSizeCallback)">getOfflineMapsStorageSizeInBytes</a><wbr/>(<a href="sdk-for-android-navigate-offlinestoragesizecallback" title="interface in com.here.sdk.maploader">OfflineStorageSizeCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getOfflineMapsStorageSizeInBytes(com.here.sdk.maploader.OfflineStorageSizeCallback)">getOfflineMapsStorageSizeInBytes</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-maploader-offlinestoragesizecallback" title="interface in com.here.sdk.maploader">OfflineStorageSizeCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Get the total size of all downloaded regions currently persisted on disk at the location that
  is specified via <a href="sdk-for-android-navigate-sdkoptions#persistentMapStoragePath"><code>SDKOptions.persistentMapStoragePath</code></a>.</div>
@@ -135,7 +135,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 </div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#repairPersistentMap(com.here.sdk.maploader.RepairPersistentMapCallback)">repairPersistentMap</a><wbr/>(<a href="sdk-for-android-navigate-repairpersistentmapcallback" title="interface in com.here.sdk.maploader">RepairPersistentMapCallback</a> callback)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#repairPersistentMap(com.here.sdk.maploader.RepairPersistentMapCallback)">repairPersistentMap</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-maploader-repairpersistentmapcallback" title="interface in com.here.sdk.maploader">RepairPersistentMapCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Tries to repair already downloaded regions that are in a corrupted state (see <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getInitialPersistentMapStatus()"><code>getInitialPersistentMapStatus()</code></a>).</div>
 </div>
@@ -165,10 +165,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <section class="detail" id="fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)">
 <h3>fromEngineAsync</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">fromEngineAsync</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
  @NonNull
- <a href="sdk-for-android-navigate-mapdownloaderconstructioncallback" title="interface in com.here.sdk.maploader">MapDownloaderConstructionCallback</a> mapDownloaderConstructionCallback)</span></div>
-<div class="block"><p>Gets a single instance of this class per provided <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloaderconstructioncallback" title="interface in com.here.sdk.maploader">MapDownloaderConstructionCallback</a> mapDownloaderConstructionCallback)</span></div>
+<div class="block"><p>Gets a single instance of this class per provided <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>sdkEngine</code> - <p>An instance of the SDKNativeEngine</p></dd>
@@ -180,9 +180,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <section class="detail" id="getDownloadableRegions(com.here.sdk.maploader.DownloadableRegionsCallback)">
 <h3>getDownloadableRegions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">getDownloadableRegions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-downloadableregionscallback" title="interface in com.here.sdk.maploader">DownloadableRegionsCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous request to fetch a list of <a href="sdk-for-android-navigate-region" title="class in com.here.sdk.maploader"><code>Region</code></a> objects
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">getDownloadableRegions</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-downloadableregionscallback" title="interface in com.here.sdk.maploader">DownloadableRegionsCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous request to fetch a list of <a href="sdk-for-android-navigate-com-here-sdk-maploader-region" title="class in com.here.sdk.maploader"><code>Region</code></a> objects
  for downloading map data in a separate request.
  The default language for <a href="sdk-for-android-navigate-region#name"><code>Region.name</code></a> is <a href="sdk-for-android-navigate-languagecode#EN_US"><code>LanguageCode.EN_US</code></a>.</p></div>
 <dl class="notes">
@@ -197,11 +197,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <section class="detail" id="getDownloadableRegions(com.here.sdk.core.LanguageCode,com.here.sdk.maploader.DownloadableRegionsCallback)">
 <h3>getDownloadableRegions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">getDownloadableRegions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">getDownloadableRegions</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
  @NonNull
- <a href="sdk-for-android-navigate-downloadableregionscallback" title="interface in com.here.sdk.maploader">DownloadableRegionsCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous request to fetch a list of <a href="sdk-for-android-navigate-region" title="class in com.here.sdk.maploader"><code>Region</code></a> objects with <a href="sdk-for-android-navigate-region#name"><code>Region.name</code></a>
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-downloadableregionscallback" title="interface in com.here.sdk.maploader">DownloadableRegionsCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous request to fetch a list of <a href="sdk-for-android-navigate-com-here-sdk-maploader-region" title="class in com.here.sdk.maploader"><code>Region</code></a> objects with <a href="sdk-for-android-navigate-region#name"><code>Region.name</code></a>
  in given <code>languageCode</code>, that can be used to download the actual map data in a separate request.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -216,21 +216,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <section class="detail" id="downloadRegions(java.util.List,com.here.sdk.maploader.DownloadRegionsStatusListener)">
 <h3>downloadRegions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader">MapDownloaderTask</a></span> <span class="element-name">downloadRegions</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask" title="class in com.here.sdk.maploader">MapDownloaderTask</a></span> <span class="element-name">downloadRegions</span><wbr/><span class="parameters">(@NonNull
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions,
  @NonNull
- <a href="sdk-for-android-navigate-downloadregionsstatuslistener" title="interface in com.here.sdk.maploader">DownloadRegionsStatusListener</a> statusListener)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-downloadregionsstatuslistener" title="interface in com.here.sdk.maploader">DownloadRegionsStatusListener</a> statusListener)</span></div>
 <div class="block"><p>Performs an asynchronous request to download map data for regions specified
- by a list of <a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader"><code>RegionId</code></a> instances.
+ by a list of <a href="sdk-for-android-navigate-com-here-sdk-maploader-regionid" title="class in com.here.sdk.maploader"><code>RegionId</code></a> instances.
  <code>statusListener</code> receives notifications until
  <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called.
- The returned <a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> can be used to pause or resume the download
+ The returned <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> can be used to pause or resume the download
  using <code>MapDownloaderTask.pause(boolean)</code> or <a href="sdk-for-android-navigate-mapdownloadertask#resume()"><code>MapDownloaderTask.resume()</code></a>.
  To cancel the request, call <a href="sdk-for-android-navigate-mapdownloadertask#cancel()"><code>MapDownloaderTask.cancel()</code></a> on the returned
- <a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> object. After cancellation,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> object. After cancellation,
  <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called
  with the error <a href="sdk-for-android-navigate-maploadererror#OPERATION_CANCELLED"><code>MapLoaderError.OPERATION_CANCELLED</code></a>.
- <a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> remains operational until <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called.
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> remains operational until <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called.
  To get list of downloadable regions use <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getDownloadableRegions(com.here.sdk.core.LanguageCode,com.here.sdk.maploader.DownloadableRegionsCallback)"><code>getDownloadableRegions(LanguageCode, DownloadableRegionsCallback)</code></a> API.
  Simultaneous downloads of the same region are not supported.
  If this occurs, <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a>
@@ -261,18 +261,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <section class="detail" id="downloadArea(com.here.sdk.core.GeoPolygon,com.here.sdk.maploader.DownloadRegionsStatusListener)">
 <h3>downloadArea</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader">MapDownloaderTask</a></span> <span class="element-name">downloadArea</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> area,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask" title="class in com.here.sdk.maploader">MapDownloaderTask</a></span> <span class="element-name">downloadArea</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> area,
  @NonNull
- <a href="sdk-for-android-navigate-downloadregionsstatuslistener" title="interface in com.here.sdk.maploader">DownloadRegionsStatusListener</a> statusListener)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-downloadregionsstatuslistener" title="interface in com.here.sdk.maploader">DownloadRegionsStatusListener</a> statusListener)</span></div>
 <div class="block"><p>Performs an asynchronous request to download map data for area specified by a GeoPolygon.
  <code>statusListener</code> is receiving notifications until <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called.
- Returned <a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> should be used to pause or resume started download, by invoking
+ Returned <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> should be used to pause or resume started download, by invoking
  <code>MapDownloaderTask.pause(boolean)</code> or <a href="sdk-for-android-navigate-mapdownloadertask#resume()"><code>MapDownloaderTask.resume()</code></a>.
- Request can be cancelled by calling <a href="sdk-for-android-navigate-mapdownloadertask#cancel()"><code>MapDownloaderTask.cancel()</code></a> on returned <a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> object, afterwards
+ Request can be cancelled by calling <a href="sdk-for-android-navigate-mapdownloadertask#cancel()"><code>MapDownloaderTask.cancel()</code></a> on returned <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> object, afterwards
  <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called with error <a href="sdk-for-android-navigate-maploadererror#OPERATION_CANCELLED"><code>MapLoaderError.OPERATION_CANCELLED</code></a>.
- <a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> remains operational until <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called.
- Downloaded area will be associated to a unique id that will be reported via <a href="sdk-for-android-navigate-downloadregionsstatuslistener" title="interface in com.here.sdk.maploader"><code>DownloadRegionsStatusListener</code></a>.
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> remains operational until <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called.
+ Downloaded area will be associated to a unique id that will be reported via <a href="sdk-for-android-navigate-com-here-sdk-maploader-downloadregionsstatuslistener" title="interface in com.here.sdk.maploader"><code>DownloadRegionsStatusListener</code></a>.
  Simultaneous download of the same region twice is not supported. When such condition occurs then
  <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called with error <a href="sdk-for-android-navigate-maploadererror#SERVICE_ACCESS_FAILED"><code>MapLoaderError.SERVICE_ACCESS_FAILED</code></a>
  for a new request, while previous one continues uninterrupted.
@@ -304,10 +304,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <section class="detail" id="deleteRegions(java.util.List,com.here.sdk.maploader.DeletedRegionsCallback)">
 <h3>deleteRegions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">deleteRegions</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-regionid" title="class in com.here.sdk.maploader">RegionId</a>&gt; regions,
  @NonNull
- <a href="sdk-for-android-navigate-deletedregionscallback" title="interface in com.here.sdk.maploader">DeletedRegionsCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous operation to delete map data for regions specified by a list of <a href="sdk-for-android-navigate-regionid" title="class in com.here.sdk.maploader"><code>RegionId</code></a>.
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-deletedregionscallback" title="interface in com.here.sdk.maploader">DeletedRegionsCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous operation to delete map data for regions specified by a list of <a href="sdk-for-android-navigate-com-here-sdk-maploader-regionid" title="class in com.here.sdk.maploader"><code>RegionId</code></a>.
  Note: Deleting a region when there is a pending download returns error
  <a href="sdk-for-android-navigate-maploadererror#INTERNAL_ERROR"><code>MapLoaderError.INTERNAL_ERROR</code></a>. Also, deleting a region when there is an ongoing download returns
  error <a href="sdk-for-android-navigate-maploadererror#PARALLEL_REQUEST"><code>MapLoaderError.PARALLEL_REQUEST</code></a>.
@@ -327,7 +327,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <section class="detail" id="clearPersistentMapStorage(com.here.sdk.maploader.SDKCacheCallback)">
 <h3>clearPersistentMapStorage</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">clearPersistentMapStorage</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-sdkcachecallback" title="interface in com.here.sdk.maploader">SDKCacheCallback</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-sdkcachecallback" title="interface in com.here.sdk.maploader">SDKCacheCallback</a> callback)</span></div>
 <div class="block"><p>Performs an asynchronous operation to clear the persistent map storage from all data. All downloaded regions will be removed.
  Note: Must be called only when no other region operation is ongoing. Returns an error if there is any active operation.
  Any previously built index will also be deleted.
@@ -342,8 +342,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <section class="detail" id="getInstalledRegions()">
 <h3>getInstalledRegions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-installedregion" title="class in com.here.sdk.maploader">InstalledRegion</a>&gt;</span> <span class="element-name">getInstalledRegions</span>()
-                                          throws <span class="exceptions"><a href="sdk-for-android-navigate-maploaderexception" title="class in com.here.sdk.maploader">MapLoaderException</a></span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-installedregion" title="class in com.here.sdk.maploader">InstalledRegion</a>&gt;</span> <span class="element-name">getInstalledRegions</span>()
+                                          throws <span class="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploaderexception" title="class in com.here.sdk.maploader">MapLoaderException</a></span></div>
 <div class="block"><p>Method to get a list of map regions that are currently installed on the device.
  Throws if it's not possible to return list of installed regions.
  Returned list contains:
@@ -358,7 +358,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <dt>Returns:</dt>
 <dd><p>List of IDs of regions that are installed on the device</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-navigate-maploaderexception" title="class in com.here.sdk.maploader">MapLoaderException</a></code> - <p>Specifies reason, why list of installed regions is not returned.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploaderexception" title="class in com.here.sdk.maploader">MapLoaderException</a></code> - <p>Specifies reason, why list of installed regions is not returned.</p></dd>
 </dl>
 </section>
 </li>
@@ -366,13 +366,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <section class="detail" id="getInitialPersistentMapStatus()">
 <h3>getInitialPersistentMapStatus</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-persistentmapstatus" title="enum class in com.here.sdk.maploader">PersistentMapStatus</a></span> <span class="element-name">getInitialPersistentMapStatus</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus" title="enum class in com.here.sdk.maploader">PersistentMapStatus</a></span> <span class="element-name">getInitialPersistentMapStatus</span>()</div>
 <div class="block"><p>Gets the initial status of the already downloaded regions at start-up time of the app.
  It is not recommended to download or to upload map data while an app is running in
  background. However, it can happen, that an app gets shut down during an ongoing
  operation, for example, due to a crash. In such a case, some or all of the downloaded map data
  may be in a corrupted state.
- Refer to the <a href="sdk-for-android-navigate-persistentmapstatus" title="enum class in com.here.sdk.maploader"><code>PersistentMapStatus</code></a> for exact healing procedure for specific
+ Refer to the <a href="sdk-for-android-navigate-com-here-sdk-maploader-persistentmapstatus" title="enum class in com.here.sdk.maploader"><code>PersistentMapStatus</code></a> for exact healing procedure for specific
  status.
  Note: This value will not change during the lifetime of an app.</p></div>
 <dl class="notes">
@@ -385,7 +385,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <section class="detail" id="repairPersistentMap(com.here.sdk.maploader.RepairPersistentMapCallback)">
 <h3>repairPersistentMap</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">repairPersistentMap</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-repairpersistentmapcallback" title="interface in com.here.sdk.maploader">RepairPersistentMapCallback</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-repairpersistentmapcallback" title="interface in com.here.sdk.maploader">RepairPersistentMapCallback</a> callback)</span></div>
 <div class="block"><p>Tries to repair already downloaded regions that are in a corrupted state (see <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getInitialPersistentMapStatus()"><code>getInitialPersistentMapStatus()</code></a>).
  If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then index will be
  rebuilt if existing index does not match with the installed map regions after this operation.
@@ -401,7 +401,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <section class="detail" id="getOfflineMapsStorageSizeInBytes()">
 <h3>getOfflineMapsStorageSizeInBytes</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">getOfflineMapsStorageSizeInBytes</span>()
-                                      throws <span class="exceptions"><a href="sdk-for-android-navigate-maploaderexception" title="class in com.here.sdk.maploader">MapLoaderException</a></span></div>
+                                      throws <span class="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploaderexception" title="class in com.here.sdk.maploader">MapLoaderException</a></span></div>
 <div class="block"><p>Get the total size of all downloaded regions currently persisted on disk at the location that
  is specified via <a href="sdk-for-android-navigate-sdkoptions#persistentMapStoragePath"><code>SDKOptions.persistentMapStoragePath</code></a>.
  This includes also data that is currently being downloaded.</p></div>
@@ -409,7 +409,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <dt>Returns:</dt>
 <dd><p>Value of offline map size.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-navigate-maploaderexception" title="class in com.here.sdk.maploader">MapLoaderException</a></code> - <p>Specifies reason, why current map size is not returned.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploaderexception" title="class in com.here.sdk.maploader">MapLoaderException</a></code> - <p>Specifies reason, why current map size is not returned.</p></dd>
 </dl>
 </section>
 </li>
@@ -417,8 +417,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <section class="detail" id="getOfflineMapsStorageSizeInBytes(com.here.sdk.maploader.OfflineStorageSizeCallback)">
 <h3>getOfflineMapsStorageSizeInBytes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">getOfflineMapsStorageSizeInBytes</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-offlinestoragesizecallback" title="interface in com.here.sdk.maploader">OfflineStorageSizeCallback</a> callback)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">getOfflineMapsStorageSizeInBytes</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-offlinestoragesizecallback" title="interface in com.here.sdk.maploader">OfflineStorageSizeCallback</a> callback)</span></div>
 <div class="block"><p>Get the total size of all downloaded regions currently persisted on disk at the location that
  is specified via <a href="sdk-for-android-navigate-sdkoptions#persistentMapStoragePath"><code>SDKOptions.persistentMapStoragePath</code></a>.
  This includes also data that is currently being downloaded.</p></div>

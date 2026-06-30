@@ -25,7 +25,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-s
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior" title="class in com.here.sdk.navigation">TrackingCameraBehavior</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TrackingCameraBehavior.SpeedBasedZoomPolicyOptions</span>
@@ -44,13 +44,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-s
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-speedbasedzoompolicyoptions#delayBetweenThresholdChanges">delayBetweenThresholdChanges</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Minimum time interval that must pass before the zoom level is
  allowed to switch to a new speed threshold.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-roadclassification" title="enum class in com.here.sdk.navigation">RoadClassification</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trackingcamerabehavior.speedthreshold" title="class in com.here.sdk.navigation">TrackingCameraBehavior.SpeedThreshold</a>&gt;&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-roadclassification" title="enum class in com.here.sdk.navigation">RoadClassification</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.speedthreshold" title="class in com.here.sdk.navigation">TrackingCameraBehavior.SpeedThreshold</a>&gt;&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-speedbasedzoompolicyoptions#roadClassificationToSpeedThreshold">roadClassificationToSpeedThreshold</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines, per road classification, how the zoom level should change in
@@ -96,20 +96,20 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-s
 <section class="detail" id="delayBetweenThresholdChanges">
 <h3>delayBetweenThresholdChanges</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">delayBetweenThresholdChanges</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">delayBetweenThresholdChanges</span></div>
 <div class="block"><p>Minimum time interval that must pass before the zoom level is
  allowed to switch to a new speed threshold. If <a href="sdk-for-android-navigate-trackingcamerabehavior#defaultSpeedBasedZoomPolicyOptions()"><code>TrackingCameraBehavior.defaultSpeedBasedZoomPolicyOptions()</code></a> is not used
- for <a href="sdk-for-android-navigate-trackingcamerabehavior.speedbasedzoompolicyoptions" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.SpeedBasedZoomPolicyOptions</code></a>, it will be <code>null</code>.</p></div>
+ for <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.speedbasedzoompolicyoptions" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.SpeedBasedZoomPolicyOptions</code></a>, it will be <code>null</code>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="roadClassificationToSpeedThreshold">
 <h3>roadClassificationToSpeedThreshold</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-roadclassification" title="enum class in com.here.sdk.navigation">RoadClassification</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-trackingcamerabehavior.speedthreshold" title="class in com.here.sdk.navigation">TrackingCameraBehavior.SpeedThreshold</a>&gt;&gt;</span> <span class="element-name">roadClassificationToSpeedThreshold</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-roadclassification" title="enum class in com.here.sdk.navigation">RoadClassification</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.speedthreshold" title="class in com.here.sdk.navigation">TrackingCameraBehavior.SpeedThreshold</a>&gt;&gt;</span> <span class="element-name">roadClassificationToSpeedThreshold</span></div>
 <div class="block"><p>Defines, per road classification, how the zoom level should change in
  response to different vehicle speeds. If <a href="sdk-for-android-navigate-trackingcamerabehavior#defaultSpeedBasedZoomPolicyOptions()"><code>TrackingCameraBehavior.defaultSpeedBasedZoomPolicyOptions()</code></a> is not used
- for <a href="sdk-for-android-navigate-trackingcamerabehavior.speedbasedzoompolicyoptions" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.SpeedBasedZoomPolicyOptions</code></a>, it will be an empty map.</p></div>
+ for <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior.speedbasedzoompolicyoptions" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior.SpeedBasedZoomPolicyOptions</code></a>, it will be an empty map.</p></div>
 </section>
 </li>
 </ul>

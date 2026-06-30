@@ -46,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <div class="col-last even-row-color">
 <div class="block">Identifier of the custom warning type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warning#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of distance measurement used for this warning.</div>
@@ -56,7 +56,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <div class="col-last even-row-color">
 <div class="block">Identifier of the warning.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warning#warningType">warningType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The specific type of the warning.</div>
@@ -73,8 +73,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warning#%3Cinit%3E(int,com.here.sdk.navigation.DistanceType,com.here.sdk.navigation.WarningType)">Warning</a><wbr/>(int id,
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
- <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -128,7 +128,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <section class="detail" id="distanceType">
 <h3>distanceType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>The type of distance measurement used for this warning.</p></div>
 </section>
 </li>
@@ -136,7 +136,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <section class="detail" id="warningType">
 <h3>warningType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">warningType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a></span> <span class="element-name">warningType</span></div>
 <div class="block"><p>The specific type of the warning.</p></div>
 </section>
 </li>
@@ -165,9 +165,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <h3>Warning</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Warning</span><wbr/><span class="parameters">(int id,
  @NonNull
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
  @NonNull
- <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

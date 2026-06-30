@@ -22,7 +22,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning-s
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-spatialaudiocuepanning" title="class in com.here.sdk.navigation">SpatialAudioCuePanning</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning" title="class in com.here.sdk.navigation">SpatialAudioCuePanning</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -47,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning-s
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning-spatialazimuthcallback#onSpatialAzimuthStarted(com.here.sdk.navigation.SpatialTrajectoryData)">onSpatialAzimuthStarted</a><wbr/>(<a href="sdk-for-android-navigate-spatialtrajectorydata" title="class in com.here.sdk.navigation">SpatialTrajectoryData</a> spatialTrajectoryData)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning-spatialazimuthcallback#onSpatialAzimuthStarted(com.here.sdk.navigation.SpatialTrajectoryData)">onSpatialAzimuthStarted</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-spatialtrajectorydata" title="class in com.here.sdk.navigation">SpatialTrajectoryData</a> spatialTrajectoryData)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called once <code>startAngularPanning()</code> starts.</div>
 </div>
@@ -69,7 +69,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-spatialaudiocuepanning-s
 <section class="detail" id="onSpatialAzimuthStarted(com.here.sdk.navigation.SpatialTrajectoryData)">
 <h3>onSpatialAzimuthStarted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSpatialAzimuthStarted</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-spatialtrajectorydata" title="class in com.here.sdk.navigation">SpatialTrajectoryData</a> spatialTrajectoryData)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-spatialtrajectorydata" title="class in com.here.sdk.navigation">SpatialTrajectoryData</a> spatialTrajectoryData)</span></div>
 <div class="block"><p>Called once <code>startAngularPanning()</code> starts.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

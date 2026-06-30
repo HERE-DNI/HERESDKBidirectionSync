@@ -25,7 +25,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehicl
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-pickmapcontentresult" title="class in com.here.sdk.mapview">PickMapContentResult</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult" title="class in com.here.sdk.mapview">PickMapContentResult</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">PickMapContentResult.VehicleRestrictionResult</span>
@@ -43,17 +43,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehicl
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehiclerestrictionresult#coordinates">coordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The geographic coordinates of the vehicle restriction.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehiclerestrictionresult#countryCode">countryCode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Country code.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehiclerestrictionresult#vehicleRestriction">vehicleRestriction</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The vehicle restriction details.</div>
@@ -69,14 +69,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehicl
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehiclerestrictionresult#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.CountryCode,com.here.sdk.transport.VehicleRestriction)">VehicleRestrictionResult</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
- <a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode,
- <a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> vehicleRestriction)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehiclerestrictionresult#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.CountryCode,com.here.sdk.transport.VehicleRestriction)">VehicleRestrictionResult</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode,
+ <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> vehicleRestriction)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehiclerestrictionresult#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.transport.VehicleRestriction)">VehicleRestrictionResult</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
- <a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> vehicleRestriction)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehiclerestrictionresult#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.transport.VehicleRestriction)">VehicleRestrictionResult</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> vehicleRestriction)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -105,7 +105,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehicl
 <section class="detail" id="coordinates">
 <h3>coordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
 <div class="block"><p>The geographic coordinates of the vehicle restriction.</p></div>
 </section>
 </li>
@@ -113,7 +113,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehicl
 <section class="detail" id="countryCode">
 <h3>countryCode</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">countryCode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></span> <span class="element-name">countryCode</span></div>
 <div class="block"><p>Country code.</p></div>
 </section>
 </li>
@@ -121,7 +121,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehicl
 <section class="detail" id="vehicleRestriction">
 <h3>vehicleRestriction</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a></span> <span class="element-name">vehicleRestriction</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a></span> <span class="element-name">vehicleRestriction</span></div>
 <div class="block"><p>The vehicle restriction details.</p></div>
 </section>
 </li>
@@ -137,9 +137,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehicl
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.transport.VehicleRestriction)">
 <h3>VehicleRestrictionResult</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">VehicleRestrictionResult</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  @NonNull
- <a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> vehicleRestriction)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> vehicleRestriction)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -152,11 +152,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-pickmapcontentresult-vehicl
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.CountryCode,com.here.sdk.transport.VehicleRestriction)">
 <h3>VehicleRestrictionResult</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">VehicleRestrictionResult</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  @Nullable
- <a href="sdk-for-android-navigate-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a> countryCode,
  @NonNull
- <a href="sdk-for-android-navigate-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> vehicleRestriction)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-transport-vehiclerestriction" title="class in com.here.sdk.transport">VehicleRestriction</a> vehicleRestriction)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

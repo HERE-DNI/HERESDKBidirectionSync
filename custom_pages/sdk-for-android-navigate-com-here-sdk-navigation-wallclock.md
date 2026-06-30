@@ -37,7 +37,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-wallclock"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1"><code>static <a href="sdk-for-android-navigate-wallclock" title="interface in com.here.sdk.navigation">WallClock</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1"><code>static <a href="sdk-for-android-navigate-com-here-sdk-navigation-wallclock" title="interface in com.here.sdk.navigation">WallClock</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-wallclock#getDefault()">getDefault</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1">
 <div class="block">Provides the default WallClock implementation based on the device clock.</div>
@@ -77,7 +77,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-wallclock"
 <section class="detail" id="getDefault()">
 <h3>getDefault</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">static</span> <span class="return-type"><a href="sdk-for-android-navigate-wallclock" title="interface in com.here.sdk.navigation">WallClock</a></span> <span class="element-name">getDefault</span>()</div>
+</span><span class="modifiers">static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-wallclock" title="interface in com.here.sdk.navigation">WallClock</a></span> <span class="element-name">getDefault</span>()</div>
 <div class="block"><p>Provides the default WallClock implementation based on the device clock.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

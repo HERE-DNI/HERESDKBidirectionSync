@@ -48,7 +48,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-locationtime"
 <div class="col-last even-row-color">
 <div class="block">The time as observed in the tied location.</div>
 </div>
-<div class="col-first odd-row-color"><code>final <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code>final <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-locationtime#utcOffset">utcOffset</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The UTC offset is the difference between the local time and the Coordinated Universal Time (UTC)
@@ -72,7 +72,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-locationtime"
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-locationtime#%3Cinit%3E(java.util.Date,java.util.Date,com.here.time.Duration)">LocationTime</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> localTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> utcTime,
- <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> utcOffset)</code></div>
+ <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> utcOffset)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -135,7 +135,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-locationtime"
 <section class="detail" id="utcOffset">
 <h3>utcOffset</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">utcOffset</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">utcOffset</span></div>
 <div class="block"><p>The UTC offset is the difference between the local time and the Coordinated Universal Time (UTC)
  in seconds. For example, if the local time is UTC+01:00, it is +3600 and if the local time is
  UTC-05:00, it is -18000.</p></div>
@@ -157,7 +157,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-locationtime"
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> utcTime,
  @NonNull
- <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> utcOffset)</span></div>
+ <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> utcOffset)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

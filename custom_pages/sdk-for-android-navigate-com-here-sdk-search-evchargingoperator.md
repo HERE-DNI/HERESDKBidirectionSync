@@ -46,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingoperator"
 <div class="col-last even-row-color">
 <div class="block">e-Mobility IDs for the company.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-brandlogo" title="class in com.here.sdk.core">BrandLogo</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-brandlogo" title="class in com.here.sdk.core">BrandLogo</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingoperator#logo">logo</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Image link to the company's logo, if available.</div>
@@ -146,7 +146,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingoperator"
 <section class="detail" id="logo">
 <h3>logo</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-brandlogo" title="class in com.here.sdk.core">BrandLogo</a></span> <span class="element-name">logo</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-brandlogo" title="class in com.here.sdk.core">BrandLogo</a></span> <span class="element-name">logo</span></div>
 <div class="block"><p>Image link to the company's logo, if available.</p></div>
 </section>
 </li>

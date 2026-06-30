@@ -45,8 +45,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authenticationcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authenticationcallback#onTokenReceived(com.here.sdk.core.AuthenticationError,com.here.sdk.core.AuthenticationData)">onTokenReceived</a><wbr/>(<a href="sdk-for-android-explore-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a> authenticationError,
- <a href="sdk-for-android-explore-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a> authenticationData)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authenticationcallback#onTokenReceived(com.here.sdk.core.AuthenticationError,com.here.sdk.core.AuthenticationData)">onTokenReceived</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a> authenticationError,
+ <a href="sdk-for-android-explore-com-here-sdk-core-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a> authenticationData)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback passed to <a href="sdk-for-android-explore-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine)"><code>Authentication.authenticate(SDKNativeEngine)</code></a>.</div>
 </div>
@@ -68,9 +68,9 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authenticationcallback"
 <section class="detail" id="onTokenReceived(com.here.sdk.core.AuthenticationError,com.here.sdk.core.AuthenticationData)">
 <h3>onTokenReceived</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onTokenReceived</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-explore-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a> authenticationError,
+ <a href="sdk-for-android-explore-com-here-sdk-core-authenticationerror" title="enum class in com.here.sdk.core">AuthenticationError</a> authenticationError,
  @Nullable
- <a href="sdk-for-android-explore-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a> authenticationData)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a> authenticationData)</span></div>
 <div class="block"><p>Callback passed to <a href="sdk-for-android-explore-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine)"><code>Authentication.authenticate(SDKNativeEngine)</code></a>.
  This callback is called on the main thread asynchronously when an
  authenticate call has completed.</p></div>

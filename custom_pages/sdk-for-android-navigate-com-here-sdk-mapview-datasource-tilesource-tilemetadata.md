@@ -25,7 +25,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-tilem
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing interface:</dt>
-<dd><a href="sdk-for-android-navigate-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TileSource.TileMetadata</span>
@@ -48,7 +48,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-tilem
 <div class="col-last even-row-color">
 <div class="block">Tile data expiry timestamp, relative to Epoch.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-tilemetadata#dataVersion">dataVersion</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tile data version.</div>
@@ -64,7 +64,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-tilem
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-tilemetadata#%3Cinit%3E(com.here.sdk.mapview.datasource.TileSource.DataVersion,java.util.Date)">TileMetadata</a><wbr/>(<a href="sdk-for-android-navigate-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-tilemetadata#%3Cinit%3E(com.here.sdk.mapview.datasource.TileSource.DataVersion,java.util.Date)">TileMetadata</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> dataExpiryTimestamp)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -94,7 +94,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-tilem
 <section class="detail" id="dataVersion">
 <h3>dataVersion</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></span> <span class="element-name">dataVersion</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></span> <span class="element-name">dataVersion</span></div>
 <div class="block"><p>Tile data version.</p></div>
 </section>
 </li>
@@ -118,7 +118,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-tilem
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.datasource.TileSource.DataVersion,java.util.Date)">
 <h3>TileMetadata</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TileMetadata</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion,
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> dataVersion,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> dataExpiryTimestamp)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>

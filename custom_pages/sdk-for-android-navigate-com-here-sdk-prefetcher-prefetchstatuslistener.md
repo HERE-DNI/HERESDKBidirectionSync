@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-prefetchstatuslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-prefetchstatuslistener#onComplete(com.here.sdk.maploader.MapLoaderError)">onComplete</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-prefetcher-prefetchstatuslistener#onComplete(com.here.sdk.maploader.MapLoaderError)">onComplete</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called after the geo-corridor data downloads has been completed either with success or with error.</div>
 </div>
@@ -78,7 +78,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-prefetchstatuslistener"
 <section class="detail" id="onComplete(com.here.sdk.maploader.MapLoaderError)">
 <h3>onComplete</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onComplete</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error)</span></div>
 <div class="block"><p>Called after the geo-corridor data downloads has been completed either with success or with error.
  Invoked on the main thread.</p></div>
 <dl class="notes">

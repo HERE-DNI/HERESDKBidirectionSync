@@ -26,7 +26,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverprogress"
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">ManeuverProgress</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Indicates a user's progress to a <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>.</p></div>
+<div class="block"><p>Indicates a user's progress to a <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -42,18 +42,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverprogress"
 <div class="col-first even-row-color"><code>int</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverprogress#maneuverIndex">maneuverIndex</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Index of the <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a> being traversed along the route.</div>
+<div class="block">Index of the <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a> being traversed along the route.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverprogress#remainingDistanceInMeters">remainingDistanceInMeters</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">The distance in meters from current location until the <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>.</div>
+<div class="block">The distance in meters from current location until the <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverprogress#remainingDuration">remainingDuration</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">The estimated time in seconds for traversing the <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>
- from current location until the <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a> is reached,
+<div class="block">The estimated time in seconds for traversing the <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a>
+ from current location until the <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a> is reached,
  including traffic delays if available.</div>
 </div>
 </div>
@@ -112,7 +112,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverprogress"
 <section class="detail" id="maneuverIndex">
 <h3>maneuverIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">maneuverIndex</span></div>
-<div class="block"><p>Index of the <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a> being traversed along the route.
+<div class="block"><p>Index of the <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a> being traversed along the route.
  Defaults to 0.</p></div>
 </section>
 </li>
@@ -120,7 +120,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverprogress"
 <section class="detail" id="remainingDistanceInMeters">
 <h3>remainingDistanceInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">remainingDistanceInMeters</span></div>
-<div class="block"><p>The distance in meters from current location until the <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>.
+<div class="block"><p>The distance in meters from current location until the <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>.
  Defaults to 0.</p></div>
 </section>
 </li>
@@ -128,9 +128,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuverprogress"
 <section class="detail" id="remainingDuration">
 <h3>remainingDuration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">remainingDuration</span></div>
-<div class="block"><p>The estimated time in seconds for traversing the <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>
- from current location until the <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a> is reached,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">remainingDuration</span></div>
+<div class="block"><p>The estimated time in seconds for traversing the <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a>
+ from current location until the <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a> is reached,
  including traffic delays if available.
  Defaults to 0 seconds.</p></div>
 </section>

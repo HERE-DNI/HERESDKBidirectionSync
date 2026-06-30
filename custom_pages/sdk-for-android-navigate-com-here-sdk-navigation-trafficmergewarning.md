@@ -46,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <div class="col-last even-row-color">
 <div class="block">Distance to merging traffic in meters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The distance type for the warning, e.g.</div>
@@ -61,12 +61,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <div class="col-last odd-row-color">
 <div class="block">Number of lanes of the merging road containing the traffic.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-trafficmergeroadtype" title="enum class in com.here.sdk.navigation">TrafficMergeRoadType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergeroadtype" title="enum class in com.here.sdk.navigation">TrafficMergeRoadType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning#roadType">roadType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of road which contains the merging traffic.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-trafficmergeside" title="enum class in com.here.sdk.navigation">TrafficMergeSide</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergeside" title="enum class in com.here.sdk.navigation">TrafficMergeSide</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning#side">side</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The side from which the traffic is merging.</div>
@@ -83,7 +83,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning#%3Cinit%3E(double,com.here.sdk.navigation.DistanceType)">TrafficMergeWarning</a><wbr/>(double distanceToTrafficMergeInMeters,
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -144,7 +144,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <section class="detail" id="roadType">
 <h3>roadType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-trafficmergeroadtype" title="enum class in com.here.sdk.navigation">TrafficMergeRoadType</a></span> <span class="element-name">roadType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergeroadtype" title="enum class in com.here.sdk.navigation">TrafficMergeRoadType</a></span> <span class="element-name">roadType</span></div>
 <div class="block"><p>Type of road which contains the merging traffic.</p></div>
 </section>
 </li>
@@ -152,7 +152,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <section class="detail" id="side">
 <h3>side</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-trafficmergeside" title="enum class in com.here.sdk.navigation">TrafficMergeSide</a></span> <span class="element-name">side</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-trafficmergeside" title="enum class in com.here.sdk.navigation">TrafficMergeSide</a></span> <span class="element-name">side</span></div>
 <div class="block"><p>The side from which the traffic is merging.</p></div>
 </section>
 </li>
@@ -168,7 +168,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <section class="detail" id="distanceType">
 <h3>distanceType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>The distance type for the warning, e.g. a warning for a new traffic merge location ahead or a warning for
  passing a traffic merge location. Since the traffic merge warning is given relative to a single position on
  the route, <code>DistanceType.REACHED</code> will never be given for this warning.</p></div>
@@ -187,7 +187,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficmergewarning"
 <h3>TrafficMergeWarning</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TrafficMergeWarning</span><wbr/><span class="parameters">(double distanceToTrafficMergeInMeters,
  @NonNull
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

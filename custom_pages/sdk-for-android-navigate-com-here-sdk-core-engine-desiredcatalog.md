@@ -29,8 +29,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog"
 <div class="block"><p>This class provides an interface to the user, to identify a catalog on the HERE platform, whose data he wants to access.
  The user can specify the HERE Resource Name (HRN) for the catalog along with a hint for the desired version.
  If the desired version is not available, the HERE platform will determine the best version to use for a specific catalog or result in error logs.
- For information on how to specify the catalog version, see <a href="sdk-for-android-navigate-catalogversionhint" title="class in com.here.sdk.core.engine"><code>CatalogVersionHint</code></a>.
- For information about catalogs and related concepts see <a href="sdk-for-android-navigate-catalogidentifier" title="class in com.here.sdk.core.engine"><code>CatalogIdentifier</code></a>.</p></div>
+ For information on how to specify the catalog version, see <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogversionhint" title="class in com.here.sdk.core.engine"><code>CatalogVersionHint</code></a>.
+ For information about catalogs and related concepts see <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine"><code>CatalogIdentifier</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -43,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-catalogidentifier" title="class in com.here.sdk.core.engine">CatalogIdentifier</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine">CatalogIdentifier</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog#id">id</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The identifier for the catalog to be accessed on the HERE platform.</div>
@@ -60,7 +60,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog#%3Cinit%3E(java.lang.String,com.here.sdk.core.engine.CatalogVersionHint)">DesiredCatalog</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> hrn,
- <a href="sdk-for-android-navigate-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a> version)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a> version)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -105,9 +105,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog"
 <section class="detail" id="id">
 <h3>id</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-catalogidentifier" title="class in com.here.sdk.core.engine">CatalogIdentifier</a></span> <span class="element-name">id</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine">CatalogIdentifier</a></span> <span class="element-name">id</span></div>
 <div class="block"><p>The identifier for the catalog to be accessed on the HERE platform.
- See <a href="sdk-for-android-navigate-catalogidentifier" title="class in com.here.sdk.core.engine"><code>CatalogIdentifier</code></a>.</p></div>
+ See <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine"><code>CatalogIdentifier</code></a>.</p></div>
 </section>
 </li>
 </ul>
@@ -124,7 +124,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">DesiredCatalog</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> hrn,
  @NonNull
- <a href="sdk-for-android-navigate-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a> version)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogversionhint" title="class in com.here.sdk.core.engine">CatalogVersionHint</a> version)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

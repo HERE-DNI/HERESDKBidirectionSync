@@ -22,7 +22,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-iconprovider-iconcallback"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-iconprovider" title="class in com.here.sdk.mapview">IconProvider</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-iconprovider" title="class in com.here.sdk.mapview">IconProvider</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -50,7 +50,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-iconprovider-iconcallback"
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-iconprovider-iconcallback#onCreateIconReply(android.graphics.Bitmap,java.lang.String,com.here.sdk.mapview.IconProviderError)">onCreateIconReply</a><wbr/>(android.graphics.Bitmap bitmap,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> description,
- <a href="sdk-for-android-navigate-iconprovidererror" title="enum class in com.here.sdk.mapview">IconProviderError</a> error)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-iconprovidererror" title="enum class in com.here.sdk.mapview">IconProviderError</a> error)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when the image was created successfully or an error has occurred</div>
 </div>
@@ -76,7 +76,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-iconprovider-iconcallback"
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> description,
  @Nullable
- <a href="sdk-for-android-navigate-iconprovidererror" title="enum class in com.here.sdk.mapview">IconProviderError</a> error)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-iconprovidererror" title="enum class in com.here.sdk.mapview">IconProviderError</a> error)</span></div>
 <div class="block">Called when the image was created successfully or an error has occurred</div>
 <dl class="notes">
 <dt>Parameters:</dt>

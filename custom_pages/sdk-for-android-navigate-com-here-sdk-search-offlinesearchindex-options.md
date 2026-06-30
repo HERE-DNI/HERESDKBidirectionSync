@@ -25,7 +25,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex-options"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-offlinesearchindex" title="class in com.here.sdk.search">OfflineSearchIndex</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-search-offlinesearchindex" title="class in com.here.sdk.search">OfflineSearchIndex</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">OfflineSearchIndex.Options</span>

@@ -25,7 +25,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings-credentia
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">ProxySettings.Credentials</span>

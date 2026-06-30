@@ -20,18 +20,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-maploadererror"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a>&gt;
 <div class="inheritance">com.here.sdk.maploader.MapLoaderError</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">MapLoaderError</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a>&gt;</span></div>
 <div class="block"><p>Specifies possible errors that may result from map downloading/prefetching.</p></div>
 </section>
 <section class="summary">
@@ -193,12 +193,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-maploadererror"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -227,14 +227,14 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="RESOURCE_NOT_FOUND">
 <h3>RESOURCE_NOT_FOUND</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">RESOURCE_NOT_FOUND</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">RESOURCE_NOT_FOUND</span></div>
 <div class="block"><p>The requested resource is not found.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NOT_READY">
 <h3>NOT_READY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">NOT_READY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">NOT_READY</span></div>
 <div class="block"><p>There's a problem with an ongoing download or update: If an operation is in a paused state,
  you can resume or cancel it. If no operation is in a paused state: Either wait for active
  downloads to finish, or cancel existing <code>sdk.maploader.MapDownloader</code> requests and
@@ -247,70 +247,70 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="INVALID_ARGUMENT">
 <h3>INVALID_ARGUMENT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">INVALID_ARGUMENT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">INVALID_ARGUMENT</span></div>
 <div class="block"><p>The request passed invalid arguments.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OPERATION_CANCELLED">
 <h3>OPERATION_CANCELLED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">OPERATION_CANCELLED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">OPERATION_CANCELLED</span></div>
 <div class="block"><p>The request was cancelled (usually by the user).</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ALREADY_INSTALLED">
 <h3>ALREADY_INSTALLED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">ALREADY_INSTALLED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">ALREADY_INSTALLED</span></div>
 <div class="block"><p>All tiles of requested regions were already installed, no need for any download.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TIME_OUT">
 <h3>TIME_OUT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">TIME_OUT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">TIME_OUT</span></div>
 <div class="block"><p>The request exceeded the timeout limit.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SERVICE_UNAVAILABLE">
 <h3>SERVICE_UNAVAILABLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">SERVICE_UNAVAILABLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">SERVICE_UNAVAILABLE</span></div>
 <div class="block"><p>The requested service is unavailable.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ACCESS_DENIED">
 <h3>ACCESS_DENIED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">ACCESS_DENIED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">ACCESS_DENIED</span></div>
 <div class="block"><p>The access is denied due to invalid credentials.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="REQUEST_LIMIT_REACHED">
 <h3>REQUEST_LIMIT_REACHED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">REQUEST_LIMIT_REACHED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">REQUEST_LIMIT_REACHED</span></div>
 <div class="block"><p>Request limit reached for set a credentials for a particular period of time.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NETWORK_CONNECTION_ERROR">
 <h3>NETWORK_CONNECTION_ERROR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">NETWORK_CONNECTION_ERROR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">NETWORK_CONNECTION_ERROR</span></div>
 <div class="block"><p>A network connection error has happened.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FORBIDDEN">
 <h3>FORBIDDEN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">FORBIDDEN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">FORBIDDEN</span></div>
 <div class="block"><p>The operation is forbidden, make sure your credentials grant the necessary permissions.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MAP_DATA_ERROR">
 <h3>MAP_DATA_ERROR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">MAP_DATA_ERROR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">MAP_DATA_ERROR</span></div>
 <div class="block"><p>Downloaded map data is invalid or a <code>sdk.maploader.RegionId</code> passed to the method
  <code>sdk.maploader.MapDownloader.delete_regions</code> is incorrect.</p></div>
 </section>
@@ -318,7 +318,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="UNEXPECTED_SERVER_RESPONSE">
 <h3>UNEXPECTED_SERVER_RESPONSE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">UNEXPECTED_SERVER_RESPONSE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">UNEXPECTED_SERVER_RESPONSE</span></div>
 <div class="block"><p>Received unexpected response from the backend. It means the response is malformed or
  server returned an internal error. Try repeating the request.</p></div>
 </section>
@@ -326,7 +326,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="MAP_MANAGER_ERROR">
 <h3>MAP_MANAGER_ERROR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">MAP_MANAGER_ERROR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">MAP_MANAGER_ERROR</span></div>
 <div class="block"><p>Error occurred inside the map manager and might be related to network issues. Try
  repeating the request.</p></div>
 </section>
@@ -334,14 +334,14 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="INCOMPLETE_DATA">
 <h3>INCOMPLETE_DATA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">INCOMPLETE_DATA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">INCOMPLETE_DATA</span></div>
 <div class="block"><p>The data to process is incomplete, failed decoding the tile.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SERVICE_ACCESS_FAILED">
 <h3>SERVICE_ACCESS_FAILED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">SERVICE_ACCESS_FAILED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">SERVICE_ACCESS_FAILED</span></div>
 <div class="block"><p>The conditions to access the service are not satisfied. Check if correct
  <code>sdk.maploader.RegionId</code> was passed to <code>sdk.maploader.MapDownloader.download_regions</code> or
  download for passed <code>sdk.maploader.RegionId</code> already started. Further control for
@@ -351,28 +351,28 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="INTERNAL_ERROR">
 <h3>INTERNAL_ERROR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">INTERNAL_ERROR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">INTERNAL_ERROR</span></div>
 <div class="block"><p>Internal error occurred.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OFFLINE">
 <h3>OFFLINE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">OFFLINE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">OFFLINE</span></div>
 <div class="block"><p>Online operation is not permitted because offline mode is enabled.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CACHE_IO_ERROR">
 <h3>CACHE_IO_ERROR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">CACHE_IO_ERROR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">CACHE_IO_ERROR</span></div>
 <div class="block"><p>A cache IO error occurred.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PROTECTED_CACHE_CORRUPTED">
 <h3>PROTECTED_CACHE_CORRUPTED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">PROTECTED_CACHE_CORRUPTED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">PROTECTED_CACHE_CORRUPTED</span></div>
 <div class="block"><p>Protected cache is corrupted. It can be a result of downloading the map in the background
  and the OS killing the application at that time. Use method
  <code>sdk.maploader.MapDownloader.get_initial_persistent_map_status</code> to get the status of the
@@ -383,7 +383,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="MIGRATION_REQUIRED">
 <h3>MIGRATION_REQUIRED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">MIGRATION_REQUIRED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">MIGRATION_REQUIRED</span></div>
 <div class="block"><p>Operation on the protected cache cannot be done due to required migration.
  Call <code>sdk.maploader.MapDownloader.repair_persistent_map</code> to perform migration.</p></div>
 </section>
@@ -391,14 +391,14 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="OPERATION_AFTER_DISPOSE">
 <h3>OPERATION_AFTER_DISPOSE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">OPERATION_AFTER_DISPOSE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">OPERATION_AFTER_DISPOSE</span></div>
 <div class="block"><p>Method is invoked on object connected to the disposed SDKNativeEngine.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CATALOG_CONFIGURATION_ERROR">
 <h3>CATALOG_CONFIGURATION_ERROR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">CATALOG_CONFIGURATION_ERROR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">CATALOG_CONFIGURATION_ERROR</span></div>
 <div class="block"><p>Misconfiguration of catalogs.
  This error may occur when <code>sdk.core.engine.CatalogConfiguration</code> is misconfigured and
  cannot be used for any operation with <code>MapDownloader</code> or <code>MapUpdater</code>.
@@ -408,7 +408,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="PENDING_UPDATE">
 <h3>PENDING_UPDATE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">PENDING_UPDATE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">PENDING_UPDATE</span></div>
 <div class="block"><p>Map regions update was interrupted. Indicates that the cache state is wrong after an
  update that was finished not in correct way (e.g sudden app shutdown).
  Prefetching or removing of map regions are blocked until
@@ -418,7 +418,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="UPDATE_BLOCKED_AS_ANOTHER_PENDING">
 <h3>UPDATE_BLOCKED_AS_ANOTHER_PENDING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">UPDATE_BLOCKED_AS_ANOTHER_PENDING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">UPDATE_BLOCKED_AS_ANOTHER_PENDING</span></div>
 <div class="block"><p>Catalog update cannot proceed as another catalog update is in PENDING_UPDATE state.
  Update the catalog in PENDING_UPDATE state first, before trying to update another catalog.</p></div>
 </section>
@@ -426,7 +426,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="BROKEN_UPDATE">
 <h3>BROKEN_UPDATE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">BROKEN_UPDATE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">BROKEN_UPDATE</span></div>
 <div class="block"><p>Unrecoverable error during construction of pending update parameters.
  Operations such as catalog updates or region downloads will fail.
  The healing procedure is to clean persistent map with <code>sdk.maploader.MapDownloader.clear_persistent_map_storage</code>.</p></div>
@@ -435,28 +435,28 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="PARALLEL_REQUEST">
 <h3>PARALLEL_REQUEST</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">PARALLEL_REQUEST</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">PARALLEL_REQUEST</span></div>
 <div class="block"><p>Parallel request is already running and conflicting with the current one (e.g updating map and deleting map regions)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PROXY_AUTHENTICATION_FAILED">
 <h3>PROXY_AUTHENTICATION_FAILED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">PROXY_AUTHENTICATION_FAILED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">PROXY_AUTHENTICATION_FAILED</span></div>
 <div class="block"><p>Proxy is not authenticated. Check your proxy credentials.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PROXY_SERVER_UNREACHABLE">
 <h3>PROXY_SERVER_UNREACHABLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">PROXY_SERVER_UNREACHABLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">PROXY_SERVER_UNREACHABLE</span></div>
 <div class="block"><p>Proxy server unreachable.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NOT_ENOUGH_SPACE">
 <h3>NOT_ENOUGH_SPACE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">NOT_ENOUGH_SPACE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">NOT_ENOUGH_SPACE</span></div>
 <div class="block"><p>There's no sufficient space on the disk to finish operation.
  For offline maps operation (download or update), it means that
  there's not enough space on the device.
@@ -467,7 +467,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="ONLINE_NAVIGATE_ONLY">
 <h3>ONLINE_NAVIGATE_ONLY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">ONLINE_NAVIGATE_ONLY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">ONLINE_NAVIGATE_ONLY</span></div>
 <div class="block"><p>This version of HERE SDK does not support the ability to download maps.
  Contact the sales team to get access to the full version.</p></div>
 </section>
@@ -483,7 +483,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -495,7 +495,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

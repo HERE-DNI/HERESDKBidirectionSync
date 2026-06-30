@@ -43,12 +43,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-search-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines query address elements which will be used to build address hierarchy during searches.</div>
 </div>
 <div class="col-first odd-row-color"><code>static enum </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies expected result type.</div>
 </div>
@@ -64,12 +64,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-structuredquery#addressElements">addressElements</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Query address elements to get the results from a specific geographical area.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-structuredquery#areaCenter">areaCenter</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Geographic coordinates of the prioritized area center.</div>
@@ -79,7 +79,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <div class="col-last even-row-color">
 <div class="block">Desired query to search.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-structuredquery#resultType">resultType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An optional field to indicates the type of result expected.</div>
@@ -96,7 +96,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-structuredquery#%3Cinit%3E(java.lang.String,com.here.sdk.core.GeoCoordinates)">StructuredQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -149,7 +149,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <section class="detail" id="areaCenter">
 <h3>areaCenter</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">areaCenter</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">areaCenter</span></div>
 <div class="block"><p>Geographic coordinates of the prioritized area center.</p></div>
 </section>
 </li>
@@ -157,7 +157,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <section class="detail" id="addressElements">
 <h3>addressElements</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></span> <span class="element-name">addressElements</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></span> <span class="element-name">addressElements</span></div>
 <div class="block"><p>Query address elements to get the results from a specific geographical area.</p></div>
 </section>
 </li>
@@ -165,7 +165,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <section class="detail" id="resultType">
 <h3>resultType</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">resultType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></span> <span class="element-name">resultType</span></div>
 <div class="block"><p>An optional field to indicates the type of result expected.</p></div>
 </section>
 </li>
@@ -183,7 +183,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">StructuredQuery</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
  @NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

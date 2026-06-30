@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-electronichorizonpath" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPath</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonpath" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPath</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon#paths">paths</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A list of all available electronic horizon paths.</div>
@@ -84,7 +84,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon#hashCode()">hashCode</a>()</code></div>
 
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-electronichorizonpath" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPath</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonpath" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPath</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon#mostPreferredPath()">mostPreferredPath</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the most preferred path among the set of available paths.</div>
@@ -110,9 +110,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <section class="detail" id="paths">
 <h3>paths</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-electronichorizonpath" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPath</a>&gt;</span> <span class="element-name">paths</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonpath" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPath</a>&gt;</span> <span class="element-name">paths</span></div>
 <div class="block"><p>A list of all available electronic horizon paths.
- The list may be empty if none of the <a href="sdk-for-android-navigate-electronichorizonpath" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonPath</code></a>s are available.</p></div>
+ The list may be empty if none of the <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonpath" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonPath</code></a>s are available.</p></div>
 </section>
 </li>
 </ul>
@@ -163,7 +163,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <section class="detail" id="mostPreferredPath()">
 <h3>mostPreferredPath</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-electronichorizonpath" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPath</a></span> <span class="element-name">mostPreferredPath</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonpath" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPath</a></span> <span class="element-name">mostPreferredPath</span>()</div>
 <div class="block"><p>Returns the most preferred path among the set of available paths.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

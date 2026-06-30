@@ -20,14 +20,14 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.routing.Maneuver</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Maneuver</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>This class provides all the information for a maneuver. The directional information (e.g. road names, road
  numbers and signpost direction) is stored in <a href="sdk-for-android-explore-com-here-sdk-routing-maneuver#getRoadTexts()"><code>getRoadTexts()</code></a> and <a href="sdk-for-android-explore-com-here-sdk-routing-maneuver#getNextRoadTexts()"><code>getNextRoadTexts()</code></a> attributes.
  As for the motorway exit information, it can be obtained from <a href="sdk-for-android-explore-com-here-sdk-routing-maneuver#getExitSignTexts()"><code>getExitSignTexts()</code></a> attribute.</p></div>
@@ -45,12 +45,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuver#getAction()">getAction</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the maneuver action.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuver#getCoordinates()">getCoordinates</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the geographic coordinates where the maneuver is located.</div>
@@ -60,17 +60,17 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the country code of the maneuver position.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuver#getDuration()">getDuration</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the estimated time in seconds needed to perform the maneuver.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuver#getExitSignTexts()">getExitSignTexts</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the textual attributes of the exit sign.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuver#getIntersectionNames()">getIntersectionNames</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the textual attributes of the intersection.</div>
@@ -80,7 +80,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the length of the maneuver in meters.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuver#getNextRoadTexts()">getNextRoadTexts</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the textual attributes of the next road containing the corresponding road name(s) and road number(s) after the maneuver point.</div>
@@ -90,7 +90,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the index over <a href="sdk-for-android-explore-section#getGeometry()"><code>Section.getGeometry()</code></a> where the maneuver is located.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuver#getRoadTexts()">getRoadTexts</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the textual attributes of the current road containing road names, road numbers and signpost direction (towards) information.</div>
@@ -105,10 +105,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the index over <a href="sdk-for-android-explore-route#getSections()"><code>Route.getSections()</code></a> indicating the section to which the maneuver belongs to.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-signpost" title="class in com.here.sdk.routing">Signpost</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing">Signpost</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuver#getSignpost()">getSignpost</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets <a href="sdk-for-android-explore-signpost" title="class in com.here.sdk.routing"><code>Signpost</code></a> object.</div>
+<div class="block">Gets <a href="sdk-for-android-explore-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing"><code>Signpost</code></a> object.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-maneuver#getSpanIndex()">getSpanIndex</a>()</code></div>
@@ -146,7 +146,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <section class="detail" id="getAction()">
 <h3>getAction</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a></span> <span class="element-name">getAction</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a></span> <span class="element-name">getAction</span>()</div>
 <div class="block"><p>Gets the maneuver action.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -158,7 +158,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <section class="detail" id="getCoordinates()">
 <h3>getCoordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinates</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinates</span>()</div>
 <div class="block"><p>Gets the geographic coordinates where the maneuver is located.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -193,7 +193,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <section class="detail" id="getExitSignTexts()">
 <h3>getExitSignTexts</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getExitSignTexts</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getExitSignTexts</span>()</div>
 <div class="block"><p>Gets the textual attributes of the exit sign. These might contain exit number(s) and/or name(s).
  These attributes are only available for the Navigate license.
  Otherwise, the attributes are always empty.</p></div>
@@ -218,7 +218,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <section class="detail" id="getRoadTexts()">
 <h3>getRoadTexts</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></span> <span class="element-name">getRoadTexts</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></span> <span class="element-name">getRoadTexts</span>()</div>
 <div class="block"><p>Gets the textual attributes of the current road containing road names, road numbers and signpost direction (towards) information.
  <strong>Note:</strong> These attributes are only available for the Navigate license.
  Otherwise, the attributes are always empty.</p></div>
@@ -232,7 +232,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <section class="detail" id="getNextRoadTexts()">
 <h3>getNextRoadTexts</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></span> <span class="element-name">getNextRoadTexts</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></span> <span class="element-name">getNextRoadTexts</span>()</div>
 <div class="block"><p>Gets the textual attributes of the next road containing the corresponding road name(s) and road number(s) after the maneuver point.
  These attributes are only available for the Navigate license.
  Otherwise, the attributes are always empty.</p></div>
@@ -246,11 +246,11 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <section class="detail" id="getSignpost()">
 <h3>getSignpost</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-signpost" title="class in com.here.sdk.routing">Signpost</a></span> <span class="element-name">getSignpost</span>()</div>
-<div class="block"><p>Gets <a href="sdk-for-android-explore-signpost" title="class in com.here.sdk.routing"><code>Signpost</code></a> object.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing">Signpost</a></span> <span class="element-name">getSignpost</span>()</div>
+<div class="block"><p>Gets <a href="sdk-for-android-explore-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing"><code>Signpost</code></a> object.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>Gets the <a href="sdk-for-android-explore-signpost" title="class in com.here.sdk.routing"><code>Signpost</code></a> object.</p></dd>
+<dd><p>Gets the <a href="sdk-for-android-explore-com-here-sdk-routing-signpost" title="class in com.here.sdk.routing"><code>Signpost</code></a> object.</p></dd>
 </dl>
 </section>
 </li>
@@ -258,7 +258,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <section class="detail" id="getIntersectionNames()">
 <h3>getIntersectionNames</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getIntersectionNames</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getIntersectionNames</span>()</div>
 <div class="block"><p>Gets the textual attributes of the intersection.
  These attributes are only available for the Navigate license.
  Otherwise, the attributes are always empty.
@@ -275,13 +275,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getText</span>()</div>
 <div class="block"><p>Gets the maneuver instruction. The text is formatted and localized as specified via
- <a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing"><code>RouteTextOptions</code></a>.
+ <a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing"><code>RouteTextOptions</code></a>.
  <strong>Note for users of the Navigate license:</strong> This text is meant to be displayed in a preview context, whereas real-time <code>EventTextListener</code> texts are meant to be used
  for spoken voice announcements during a trip.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The maneuver instruction. The text is formatted and localized as specified via
-     <a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing"><code>RouteTextOptions</code></a>.</p></dd>
+     <a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing"><code>RouteTextOptions</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -314,7 +314,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuver"
 <section class="detail" id="getDuration()">
 <h3>getDuration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()</div>
 <div class="block"><p>Gets the estimated time in seconds needed to perform the maneuver.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

@@ -22,7 +22,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficflowbase"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
-<dd><code><a href="sdk-for-android-navigate-trafficflow" title="class in com.here.sdk.traffic">TrafficFlow</a></code></dd>
+<dd><code><a href="sdk-for-android-navigate-com-here-sdk-traffic-trafficflow" title="class in com.here.sdk.traffic">TrafficFlow</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TrafficFlowBase</span></div>

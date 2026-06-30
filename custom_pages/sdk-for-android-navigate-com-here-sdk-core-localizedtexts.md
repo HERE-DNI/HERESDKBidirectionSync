@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-localizedtexts"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-localizedtext" title="class in com.here.sdk.core">LocalizedText</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-localizedtexts#items">items</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of text items.</div>
@@ -111,7 +111,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-localizedtexts"
 <section class="detail" id="items">
 <h3>items</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-localizedtext" title="class in com.here.sdk.core">LocalizedText</a>&gt;</span> <span class="element-name">items</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a>&gt;</span> <span class="element-name">items</span></div>
 <div class="block"><p>The list of text items.
  Recommended to use helper methods instead of directly accessing the items.</p></div>
 </section>

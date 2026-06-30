@@ -25,7 +25,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagemento
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></dd>
+<dd><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapContext.MemoryManagementOptions</span>
@@ -45,7 +45,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagemento
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementoptions#memoryManagementStrategy">memoryManagementStrategy</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The default setting MemoryManagementStrategy.DYNAMIC is suitable for common cases.</div>
@@ -100,7 +100,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagemento
 <section class="detail" id="memoryManagementStrategy">
 <h3>memoryManagementStrategy</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></span> <span class="element-name">memoryManagementStrategy</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></span> <span class="element-name">memoryManagementStrategy</span></div>
 <div class="block"><p>The default setting MemoryManagementStrategy.DYNAMIC is suitable for common cases. The map
  data cache can adjust dynamically to fit visible data. When the visible data needs extra
  memory, it would increase. When it's not needed, it will reduce to a limit which is

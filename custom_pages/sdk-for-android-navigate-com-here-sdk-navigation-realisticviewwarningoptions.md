@@ -40,7 +40,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarningopti
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-aspectratio" title="enum class in com.here.sdk.navigation">AspectRatio</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-aspectratio" title="enum class in com.here.sdk.navigation">AspectRatio</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarningoptions#aspectRatio">aspectRatio</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The aspect ratio of the images which will be given in the realistic view warning.</div>
@@ -107,7 +107,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarningopti
 <section class="detail" id="aspectRatio">
 <h3>aspectRatio</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-aspectratio" title="enum class in com.here.sdk.navigation">AspectRatio</a></span> <span class="element-name">aspectRatio</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-aspectratio" title="enum class in com.here.sdk.navigation">AspectRatio</a></span> <span class="element-name">aspectRatio</span></div>
 <div class="block"><p>The aspect ratio of the images which will be given in the realistic view warning. This option is applicable only
  to the <a href="sdk-for-android-navigate-realisticviewwarning#realisticViewVectorImage"><code>RealisticViewWarning.realisticViewVectorImage</code></a>. For <a href="sdk-for-android-navigate-realisticviewwarning#realisticViewRasterImage"><code>RealisticViewWarning.realisticViewRasterImage</code></a>
  the aspect ratio is always portrait.</p></div>

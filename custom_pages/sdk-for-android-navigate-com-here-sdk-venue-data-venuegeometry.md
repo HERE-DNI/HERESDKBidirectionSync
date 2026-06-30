@@ -20,15 +20,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.venue.data.VenueGeometry</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">VenueGeometry</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Represents a geometry inside the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>. The geometry can be any object
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Represents a geometry inside the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>. The geometry can be any object
  inside the level, like a room, a wall or a table. Also the geometry can represent virtual
  objects, like a team area in an open space.</p></div>
 </section>
@@ -44,17 +44,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-venuegeometry.geometrytype" title="enum class in com.here.sdk.venue.data">VenueGeometry.GeometryType</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry.geometrytype" title="enum class in com.here.sdk.venue.data">VenueGeometry.GeometryType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Geometry types.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-venuegeometry.internaladdress" title="class in com.here.sdk.venue.data">VenueGeometry.InternalAddress</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry.internaladdress" title="class in com.here.sdk.venue.data">VenueGeometry.InternalAddress</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents an internal addresses of the geometry inside the venue.</div>
 </div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-venuegeometry.lookuptype" title="enum class in com.here.sdk.venue.data">VenueGeometry.LookupType</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry.lookuptype" title="enum class in com.here.sdk.venue.data">VenueGeometry.LookupType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines how the geometry will be presented.</div>
 </div>
@@ -72,17 +72,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry#getBoundingBox()">getBoundingBox</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a bounding box of the geometry.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry#getCenter()">getCenter</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a center of the geometry.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuegeometry.geometrytype" title="enum class in com.here.sdk.venue.data">VenueGeometry.GeometryType</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry.geometrytype" title="enum class in com.here.sdk.venue.data">VenueGeometry.GeometryType</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry#getGeometryType()">getGeometryType</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a type of the geometry.</div>
@@ -92,7 +92,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets an id of the geometry.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuegeometry.internaladdress" title="class in com.here.sdk.venue.data">VenueGeometry.InternalAddress</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry.internaladdress" title="class in com.here.sdk.venue.data">VenueGeometry.InternalAddress</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry#getInternalAddress()">getInternalAddress</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets an internal address of the geometry.</div>
@@ -102,12 +102,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a label name of the geometry.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuelabelstyle" title="class in com.here.sdk.venue.style">VenueLabelStyle</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuelabelstyle" title="class in com.here.sdk.venue.style">VenueLabelStyle</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry#getLabelStyle()">getLabelStyle</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a label style of the geometry.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry#getLevel()">getLevel</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a parent level of the geometry.</div>
@@ -117,7 +117,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets level ID of the geometry.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuegeometry.lookuptype" title="enum class in com.here.sdk.venue.data">VenueGeometry.LookupType</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry.lookuptype" title="enum class in com.here.sdk.venue.data">VenueGeometry.LookupType</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry#getLookupType()">getLookupType</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a lookup type of the geometry.</div>
@@ -127,17 +127,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a name of the geometry.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry#getParentGeometry()">getParentGeometry</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a parent geometry on which the current geometry is located.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a href="sdk-for-android-navigate-property" title="class in com.here.sdk.venue.data">Property</a>&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a href="sdk-for-android-navigate-com-here-sdk-venue-data-property" title="class in com.here.sdk.venue.data">Property</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry#getProperties()">getProperties</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the properties of the geometry.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry#getStyle()">getStyle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a style of the geometry.</div>
@@ -175,7 +175,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <section class="detail" id="getLevel()">
 <h3>getLevel</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></span> <span class="element-name">getLevel</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></span> <span class="element-name">getLevel</span>()</div>
 <div class="block"><p>Gets a parent level of the geometry.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -187,7 +187,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <section class="detail" id="getGeometryType()">
 <h3>getGeometryType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuegeometry.geometrytype" title="enum class in com.here.sdk.venue.data">VenueGeometry.GeometryType</a></span> <span class="element-name">getGeometryType</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry.geometrytype" title="enum class in com.here.sdk.venue.data">VenueGeometry.GeometryType</a></span> <span class="element-name">getGeometryType</span>()</div>
 <div class="block"><p>Gets a type of the geometry.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -199,7 +199,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <section class="detail" id="getCenter()">
 <h3>getCenter</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCenter</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCenter</span>()</div>
 <div class="block"><p>Gets a center of the geometry.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -211,7 +211,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <section class="detail" id="getBoundingBox()">
 <h3>getBoundingBox</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()</div>
 <div class="block"><p>Gets a bounding box of the geometry.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -223,7 +223,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <section class="detail" id="getProperties()">
 <h3>getProperties</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a href="sdk-for-android-navigate-property" title="class in com.here.sdk.venue.data">Property</a>&gt;</span> <span class="element-name">getProperties</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a href="sdk-for-android-navigate-com-here-sdk-venue-data-property" title="class in com.here.sdk.venue.data">Property</a>&gt;</span> <span class="element-name">getProperties</span>()</div>
 <div class="block"><p>Gets the properties of the geometry.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -235,7 +235,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <section class="detail" id="getInternalAddress()">
 <h3>getInternalAddress</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuegeometry.internaladdress" title="class in com.here.sdk.venue.data">VenueGeometry.InternalAddress</a></span> <span class="element-name">getInternalAddress</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry.internaladdress" title="class in com.here.sdk.venue.data">VenueGeometry.InternalAddress</a></span> <span class="element-name">getInternalAddress</span>()</div>
 <div class="block"><p>Gets an internal address of the geometry.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -272,7 +272,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <section class="detail" id="getLookupType()">
 <h3>getLookupType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuegeometry.lookuptype" title="enum class in com.here.sdk.venue.data">VenueGeometry.LookupType</a></span> <span class="element-name">getLookupType</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry.lookuptype" title="enum class in com.here.sdk.venue.data">VenueGeometry.LookupType</a></span> <span class="element-name">getLookupType</span>()</div>
 <div class="block"><p>Gets a lookup type of the geometry.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -284,7 +284,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <section class="detail" id="getParentGeometry()">
 <h3>getParentGeometry</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a></span> <span class="element-name">getParentGeometry</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a></span> <span class="element-name">getParentGeometry</span>()</div>
 <div class="block"><p>Gets a parent geometry on which the current geometry is located.
  Defaults to <code>null</code>, if the geometry represents a base shape.</p></div>
 <dl class="notes">
@@ -297,7 +297,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <section class="detail" id="getStyle()">
 <h3>getStyle</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a></span> <span class="element-name">getStyle</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle" title="class in com.here.sdk.venue.style">VenueGeometryStyle</a></span> <span class="element-name">getStyle</span>()</div>
 <div class="block"><p>Gets a style of the geometry.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -309,7 +309,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <section class="detail" id="getLabelStyle()">
 <h3>getLabelStyle</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuelabelstyle" title="class in com.here.sdk.venue.style">VenueLabelStyle</a></span> <span class="element-name">getLabelStyle</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuelabelstyle" title="class in com.here.sdk.venue.style">VenueLabelStyle</a></span> <span class="element-name">getLabelStyle</span>()</div>
 <div class="block"><p>Gets a label style of the geometry.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

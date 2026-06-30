@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace#coordinates">coordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Geographic coordinates of the place.</div>
@@ -54,7 +54,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace"
 <div class="col-last even-row-color">
 <div class="block">The vertical level index of this indoor location.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of the route place.</div>
@@ -75,8 +75,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace#%3Cinit%3E(com.here.sdk.routing.RoutePlaceType,com.here.sdk.core.GeoCoordinates,int,java.lang.String,java.lang.String)">IndoorRoutePlace</a><wbr/>(<a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type,
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace#%3Cinit%3E(com.here.sdk.routing.RoutePlaceType,com.here.sdk.core.GeoCoordinates,int,java.lang.String,java.lang.String)">IndoorRoutePlace</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  int levelZIndex,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> venueId,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> levelId)</code></div>
@@ -124,7 +124,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>The type of the route place.</p></div>
 </section>
 </li>
@@ -132,7 +132,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace"
 <section class="detail" id="coordinates">
 <h3>coordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
 <div class="block"><p>Geographic coordinates of the place.</p></div>
 </section>
 </li>
@@ -171,9 +171,9 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-indoorrouteplace"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.RoutePlaceType,com.here.sdk.core.GeoCoordinates,int,java.lang.String,java.lang.String)">
 <h3>IndoorRoutePlace</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">IndoorRoutePlace</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type,
  @NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  int levelZIndex,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> venueId,

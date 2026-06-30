@@ -22,7 +22,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights-attributeset
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-mapscenelights" title="class in com.here.sdk.mapview">MapSceneLights</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights" title="class in com.here.sdk.mapview">MapSceneLights</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -47,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights-attributeset
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights-attributesettingcallback#onAttributeSetting(com.here.sdk.mapview.MapSceneLights.AttributeSettingError)">onAttributeSetting</a><wbr/>(<a href="sdk-for-android-navigate-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a> setLightError)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights-attributesettingcallback#onAttributeSetting(com.here.sdk.mapview.MapSceneLights.AttributeSettingError)">onAttributeSetting</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a> setLightError)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">This callback function allows handling errors that occur during the setting of light attributes.</div>
 </div>
@@ -69,7 +69,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights-attributeset
 <section class="detail" id="onAttributeSetting(com.here.sdk.mapview.MapSceneLights.AttributeSettingError)">
 <h3>onAttributeSetting</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onAttributeSetting</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-navigate-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a> setLightError)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a> setLightError)</span></div>
 <div class="block"><p>This callback function allows handling errors that occur during the setting of light attributes.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

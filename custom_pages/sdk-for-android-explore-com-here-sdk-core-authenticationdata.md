@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authenticationdata"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authenticationdata#expiryTime">expiryTime</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Expiration time in seconds as epoch time.</div>
@@ -115,7 +115,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authenticationdata"
 <section class="detail" id="expiryTime">
 <h3>expiryTime</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">expiryTime</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">expiryTime</span></div>
 <div class="block"><p>Expiration time in seconds as epoch time.
  Defaults to 0 seconds.</p></div>
 </section>

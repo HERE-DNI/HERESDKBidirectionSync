@@ -49,7 +49,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-tollcost"
 <div class="col-last odd-row-color">
 <div class="block">Indicates if the toll cost is based on the distance traveled.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-tollcost#paymentMethods">paymentMethods</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of accepted payment methods like cash and credit card.</div>
@@ -59,13 +59,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-tollcost"
 <div class="col-last odd-row-color">
 <div class="block">The amount of currency to be paid for the toll.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-tollcost#transportSpecifications">transportSpecifications</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of transport specifications containing the vehicle characteristics for which the toll
  cost applies.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-vehicleprofile" title="class in com.here.sdk.transport">VehicleProfile</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-transport-vehicleprofile" title="class in com.here.sdk.transport">VehicleProfile</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-tollcost#vehicleProfiles">vehicleProfiles</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
@@ -143,7 +143,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-tollcost"
 <section class="detail" id="paymentMethods">
 <h3>paymentMethods</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt;</span> <span class="element-name">paymentMethods</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-paymentmethod" title="enum class in com.here.sdk.routing">PaymentMethod</a>&gt;</span> <span class="element-name">paymentMethods</span></div>
 <div class="block"><p>The list of accepted payment methods like cash and credit card.</p></div>
 </section>
 </li>
@@ -160,7 +160,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-tollcost"
 <h3>vehicleProfiles</h3>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 @NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-vehicleprofile" title="class in com.here.sdk.transport">VehicleProfile</a>&gt;</span> <span class="element-name">vehicleProfiles</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-transport-vehicleprofile" title="class in com.here.sdk.transport">VehicleProfile</a>&gt;</span> <span class="element-name">vehicleProfiles</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>TollCost.transport_specifications</code> instead.</p></div>
 </div>
@@ -171,7 +171,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-tollcost"
 <section class="detail" id="transportSpecifications">
 <h3>transportSpecifications</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a>&gt;</span> <span class="element-name">transportSpecifications</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a>&gt;</span> <span class="element-name">transportSpecifications</span></div>
 <div class="block"><p>List of transport specifications containing the vehicle characteristics for which the toll
  cost applies.</p></div>
 </section>

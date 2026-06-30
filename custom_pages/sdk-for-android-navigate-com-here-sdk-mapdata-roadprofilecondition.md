@@ -91,22 +91,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition"
 <div class="col-last odd-row-color">
 <div class="block">If true, applies only to urban roads.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#requiredFunctionalClasses">requiredFunctionalClasses</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Functional road classes on which the regulation applies.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#requiredNumberOfLanes">requiredNumberOfLanes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Range of lane counts for which the regulation applies.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-routetype" title="enum class in com.here.sdk.core">RouteType</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">RouteType</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#requiredRouteLevels">requiredRouteLevels</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Route levels on which the regulation applies.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#roadType">roadType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Required road type for the regulation to apply.</div>
@@ -122,8 +122,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#%3Cinit%3E(com.here.sdk.mapdata.CommercialVehicleRoadType,com.here.sdk.core.IntegerRange)">RoadProfileCondition</a><wbr/>(<a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a> roadType,
- <a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredNumberOfLanes)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition#%3Cinit%3E(com.here.sdk.mapdata.CommercialVehicleRoadType,com.here.sdk.core.IntegerRange)">RoadProfileCondition</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a> roadType,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredNumberOfLanes)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance with specified parameters.</div>
 </div>
@@ -168,7 +168,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition"
 <section class="detail" id="roadType">
 <h3>roadType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">roadType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a></span> <span class="element-name">roadType</span></div>
 <div class="block"><p>Required road type for the regulation to apply.</p></div>
 </section>
 </li>
@@ -176,7 +176,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition"
 <section class="detail" id="requiredFunctionalClasses">
 <h3>requiredFunctionalClasses</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a>&gt;</span> <span class="element-name">requiredFunctionalClasses</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a>&gt;</span> <span class="element-name">requiredFunctionalClasses</span></div>
 <div class="block"><p>Functional road classes on which the regulation applies.</p></div>
 </section>
 </li>
@@ -184,7 +184,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition"
 <section class="detail" id="requiredRouteLevels">
 <h3>requiredRouteLevels</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-routetype" title="enum class in com.here.sdk.core">RouteType</a>&gt;</span> <span class="element-name">requiredRouteLevels</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">RouteType</a>&gt;</span> <span class="element-name">requiredRouteLevels</span></div>
 <div class="block"><p>Route levels on which the regulation applies.</p></div>
 </section>
 </li>
@@ -192,7 +192,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition"
 <section class="detail" id="requiredNumberOfLanes">
 <h3>requiredNumberOfLanes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">requiredNumberOfLanes</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">requiredNumberOfLanes</span></div>
 <div class="block"><p>Range of lane counts for which the regulation applies.</p></div>
 </section>
 </li>
@@ -288,9 +288,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapdata.CommercialVehicleRoadType,com.here.sdk.core.IntegerRange)">
 <h3>RoadProfileCondition</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RoadProfileCondition</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a> roadType,
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-commercialvehicleroadtype" title="enum class in com.here.sdk.mapdata">CommercialVehicleRoadType</a> roadType,
  @NonNull
- <a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredNumberOfLanes)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a> requiredNumberOfLanes)</span></div>
 <div class="block"><p>Creates a new instance with specified parameters.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

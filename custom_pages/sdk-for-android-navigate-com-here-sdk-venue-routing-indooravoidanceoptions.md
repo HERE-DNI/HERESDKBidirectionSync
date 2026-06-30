@@ -39,10 +39,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indooravoidanceoption
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">IndoorLevelChangeFeatures</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">IndoorLevelChangeFeatures</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-routing-indooravoidanceoptions#indoorFeatures">indoorFeatures</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">A list of <a href="sdk-for-android-navigate-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing"><code>IndoorLevelChangeFeatures</code></a> which routes should avoid.</div>
+<div class="block">A list of <a href="sdk-for-android-navigate-com-here-sdk-routing-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing"><code>IndoorLevelChangeFeatures</code></a> which routes should avoid.</div>
 </div>
 </div>
 </section>
@@ -100,8 +100,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indooravoidanceoption
 <section class="detail" id="indoorFeatures">
 <h3>indoorFeatures</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">IndoorLevelChangeFeatures</a>&gt;</span> <span class="element-name">indoorFeatures</span></div>
-<div class="block"><p>A list of <a href="sdk-for-android-navigate-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing"><code>IndoorLevelChangeFeatures</code></a> which routes should avoid. Strictly enforced:
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing">IndoorLevelChangeFeatures</a>&gt;</span> <span class="element-name">indoorFeatures</span></div>
+<div class="block"><p>A list of <a href="sdk-for-android-navigate-com-here-sdk-routing-indoorlevelchangefeatures" title="enum class in com.here.sdk.routing"><code>IndoorLevelChangeFeatures</code></a> which routes should avoid. Strictly enforced:
  Route calculation will fail when no route can be calculated without at least one of
  these features.</p></div>
 </section>

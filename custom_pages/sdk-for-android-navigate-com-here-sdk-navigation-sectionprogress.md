@@ -26,7 +26,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress"
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SectionProgress</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Indicates a user's progress along a <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</p></div>
+<div class="block"><p>Indicates a user's progress along a <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -42,19 +42,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress"
 <div class="col-first even-row-color"><code>int</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress#remainingDistanceInMeters">remainingDistanceInMeters</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">The distance in meters from current location until the end of the <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</div>
+<div class="block">The distance in meters from current location until the end of the <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress#remainingDuration">remainingDuration</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">The estimated time in seconds from current location until the end of the <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>
+<div class="block">The estimated time in seconds from current location until the end of the <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a>
  is reached, including traffic delays if available.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress#trafficDelay">trafficDelay</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The estimated traffic delay in seconds from current location until the end of the
- <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a> is reached.</div>
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a> is reached.</div>
 </div>
 </div>
 </section>
@@ -112,7 +112,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress"
 <section class="detail" id="remainingDistanceInMeters">
 <h3>remainingDistanceInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">remainingDistanceInMeters</span></div>
-<div class="block"><p>The distance in meters from current location until the end of the <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>.
+<div class="block"><p>The distance in meters from current location until the end of the <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a>.
  Note that the value is accumulated per section, and that the last section contains the overall
  distance to the destination.
  Defaults to 0.</p></div>
@@ -122,8 +122,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress"
 <section class="detail" id="remainingDuration">
 <h3>remainingDuration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">remainingDuration</span></div>
-<div class="block"><p>The estimated time in seconds from current location until the end of the <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">remainingDuration</span></div>
+<div class="block"><p>The estimated time in seconds from current location until the end of the <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a>
  is reached, including traffic delays if available.
  Note that the value is accumulated per section, and that the last section contains the overall
  duration until the destination is reached.
@@ -134,9 +134,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress"
 <section class="detail" id="trafficDelay">
 <h3>trafficDelay</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">trafficDelay</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">trafficDelay</span></div>
 <div class="block"><p>The estimated traffic delay in seconds from current location until the end of the
- <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a> is reached.
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a> is reached.
  Note that the value is accumulated per section, and that the last section contains the overall
  traffic delay until the destination is reached. The delay might be a negative value:
  Negative values indicate that the part of this section can be traversed faster than usual.

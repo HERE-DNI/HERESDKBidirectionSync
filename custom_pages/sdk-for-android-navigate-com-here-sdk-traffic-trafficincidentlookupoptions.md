@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficincidentlookupoption
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-traffic-trafficincidentlookupoptions#languageCode">languageCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The language code of the query.</div>
@@ -100,7 +100,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficincidentlookupoption
 <section class="detail" id="languageCode">
 <h3>languageCode</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">languageCode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">languageCode</span></div>
 <div class="block"><p>The language code of the query.
  If the language code is null or not supported then response fields are expected in the original language of the country that the incident belongs to.</p></div>
 </section>

@@ -24,7 +24,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-milestonestatuslistener"
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">MilestoneStatusListener</span></div>
 <div class="block"><p>This interface should be
  implemented in order to receive notifications from this class about the
- arrival at each <a href="sdk-for-android-navigate-milestone" title="class in com.here.sdk.navigation"><code>Milestone</code></a> or missing it.</p></div>
+ arrival at each <a href="sdk-for-android-navigate-com-here-sdk-navigation-milestone" title="class in com.here.sdk.navigation"><code>Milestone</code></a> or missing it.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -40,8 +40,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-milestonestatuslistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-milestonestatuslistener#onMilestoneStatusUpdated(com.here.sdk.navigation.Milestone,com.here.sdk.navigation.MilestoneStatus)">onMilestoneStatusUpdated</a><wbr/>(<a href="sdk-for-android-navigate-milestone" title="class in com.here.sdk.navigation">Milestone</a> milestone,
- <a href="sdk-for-android-navigate-milestonestatus" title="enum class in com.here.sdk.navigation">MilestoneStatus</a> status)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-milestonestatuslistener#onMilestoneStatusUpdated(com.here.sdk.navigation.Milestone,com.here.sdk.navigation.MilestoneStatus)">onMilestoneStatusUpdated</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-milestone" title="class in com.here.sdk.navigation">Milestone</a> milestone,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-milestonestatus" title="enum class in com.here.sdk.navigation">MilestoneStatus</a> status)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when a milestone status has been changed.</div>
 </div>
@@ -63,14 +63,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-milestonestatuslistener"
 <section class="detail" id="onMilestoneStatusUpdated(com.here.sdk.navigation.Milestone,com.here.sdk.navigation.MilestoneStatus)">
 <h3>onMilestoneStatusUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onMilestoneStatusUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-milestone" title="class in com.here.sdk.navigation">Milestone</a> milestone,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-milestone" title="class in com.here.sdk.navigation">Milestone</a> milestone,
  @NonNull
- <a href="sdk-for-android-navigate-milestonestatus" title="enum class in com.here.sdk.navigation">MilestoneStatus</a> status)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-milestonestatus" title="enum class in com.here.sdk.navigation">MilestoneStatus</a> status)</span></div>
 <div class="block"><p>Called when a milestone status has been changed.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>milestone</code> - <p>The reference to the <a href="sdk-for-android-navigate-milestone" title="class in com.here.sdk.navigation"><code>Milestone</code></a>.</p></dd>
-<dd><code>status</code> - <p>The status of the <a href="sdk-for-android-navigate-milestone" title="class in com.here.sdk.navigation"><code>Milestone</code></a>.</p></dd>
+<dd><code>milestone</code> - <p>The reference to the <a href="sdk-for-android-navigate-com-here-sdk-navigation-milestone" title="class in com.here.sdk.navigation"><code>Milestone</code></a>.</p></dd>
+<dd><code>status</code> - <p>The status of the <a href="sdk-for-android-navigate-com-here-sdk-navigation-milestone" title="class in com.here.sdk.navigation"><code>Milestone</code></a>.</p></dd>
 </dl>
 </section>
 </li>

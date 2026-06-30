@@ -20,15 +20,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.venue.data.Crosswalk</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Crosswalk</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Represents crosswalk's inside the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>. A crosswalk is an area of the road surface
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Represents crosswalk's inside the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>. A crosswalk is an area of the road surface
  where pedestrians are expected to walk across the road. The area is represented as a polygon, which is often,
  but not necessarily, rectangular and oriented with the shorter dimension in the vehicle's direction of travel.</p></div>
 </section>
@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-crosswalk.classificationstyle" title="enum class in com.here.sdk.venue.data">Crosswalk.ClassificationStyle</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk.classificationstyle" title="enum class in com.here.sdk.venue.data">Crosswalk.ClassificationStyle</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Available Classification styles.</div>
 </div>
@@ -62,7 +62,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-crosswalk.classificationstyle" title="enum class in com.here.sdk.venue.data">Crosswalk.ClassificationStyle</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk.classificationstyle" title="enum class in com.here.sdk.venue.data">Crosswalk.ClassificationStyle</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk#getClassificationStyle()">getClassificationStyle</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the crosswalk Classification style.</div>
@@ -72,7 +72,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets an id of the Crosswalk.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk#getLevel()">getLevel</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a parent level of the crosswalk.</div>
@@ -98,7 +98,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk"
 <section class="detail" id="getClassificationStyle()">
 <h3>getClassificationStyle</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-crosswalk.classificationstyle" title="enum class in com.here.sdk.venue.data">Crosswalk.ClassificationStyle</a></span> <span class="element-name">getClassificationStyle</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk.classificationstyle" title="enum class in com.here.sdk.venue.data">Crosswalk.ClassificationStyle</a></span> <span class="element-name">getClassificationStyle</span>()</div>
 <div class="block"><p>Gets the crosswalk Classification style.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -122,7 +122,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-crosswalk"
 <section class="detail" id="getLevel()">
 <h3>getLevel</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></span> <span class="element-name">getLevel</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></span> <span class="element-name">getLevel</span>()</div>
 <div class="block"><p>Gets a parent level of the crosswalk.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

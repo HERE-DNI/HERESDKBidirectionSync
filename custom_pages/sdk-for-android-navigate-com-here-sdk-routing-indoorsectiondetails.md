@@ -20,15 +20,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-indoorsectiondetails"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.routing.IndoorSectionDetails</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">IndoorSectionDetails</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Provides additional details for an indoor <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</p></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Provides additional details for an indoor <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -43,17 +43,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-indoorsectiondetails"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-indoorrouteplace" title="class in com.here.sdk.routing">IndoorRoutePlace</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace" title="class in com.here.sdk.routing">IndoorRoutePlace</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-indoorsectiondetails#getArrivalPlace()">getArrivalPlace</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the arrival place of the indoor section.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-indoorrouteplace" title="class in com.here.sdk.routing">IndoorRoutePlace</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace" title="class in com.here.sdk.routing">IndoorRoutePlace</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-indoorsectiondetails#getDeparturePlace()">getDeparturePlace</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the departure place of the indoor section.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-indoormaneuver" title="class in com.here.sdk.routing">IndoorManeuver</a>&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-indoormaneuver" title="class in com.here.sdk.routing">IndoorManeuver</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-indoorsectiondetails#getIndoorManeuvers()">getIndoorManeuvers</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the list of indoor maneuvers within this indoor section.</div>
@@ -79,7 +79,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-indoorsectiondetails"
 <section class="detail" id="getIndoorManeuvers()">
 <h3>getIndoorManeuvers</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-indoormaneuver" title="class in com.here.sdk.routing">IndoorManeuver</a>&gt;</span> <span class="element-name">getIndoorManeuvers</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-indoormaneuver" title="class in com.here.sdk.routing">IndoorManeuver</a>&gt;</span> <span class="element-name">getIndoorManeuvers</span>()</div>
 <div class="block"><p>Gets the list of indoor maneuvers within this indoor section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -91,7 +91,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-indoorsectiondetails"
 <section class="detail" id="getDeparturePlace()">
 <h3>getDeparturePlace</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-indoorrouteplace" title="class in com.here.sdk.routing">IndoorRoutePlace</a></span> <span class="element-name">getDeparturePlace</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace" title="class in com.here.sdk.routing">IndoorRoutePlace</a></span> <span class="element-name">getDeparturePlace</span>()</div>
 <div class="block"><p>Gets the departure place of the indoor section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -103,7 +103,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-indoorsectiondetails"
 <section class="detail" id="getArrivalPlace()">
 <h3>getArrivalPlace</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-indoorrouteplace" title="class in com.here.sdk.routing">IndoorRoutePlace</a></span> <span class="element-name">getArrivalPlace</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-indoorrouteplace" title="class in com.here.sdk.routing">IndoorRoutePlace</a></span> <span class="element-name">getArrivalPlace</span>()</div>
 <div class="block"><p>Gets the arrival place of the indoor section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

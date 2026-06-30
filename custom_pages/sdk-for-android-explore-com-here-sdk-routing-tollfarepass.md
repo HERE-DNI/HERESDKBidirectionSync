@@ -26,7 +26,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tollfarepass"
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TollFarePass</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p><a href="sdk-for-android-explore-tollfare" title="class in com.here.sdk.routing"><code>TollFare</code></a> multi-travel pass characteristics.</p></div>
+<div class="block"><p><a href="sdk-for-android-explore-com-here-sdk-routing-tollfare" title="class in com.here.sdk.routing"><code>TollFare</code></a> multi-travel pass characteristics.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -59,7 +59,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tollfarepass"
 <div class="col-last odd-row-color">
 <div class="block">This pass allows for the specified number of travels.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-farepassvalidityperiod" title="class in com.here.sdk.routing">FarePassValidityPeriod</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiod" title="class in com.here.sdk.routing">FarePassValidityPeriod</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-tollfarepass#validityPeriod">validityPeriod</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies a temporal validity period for a pass.</div>
@@ -128,7 +128,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tollfarepass"
 <section class="detail" id="validityPeriod">
 <h3>validityPeriod</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-farepassvalidityperiod" title="class in com.here.sdk.routing">FarePassValidityPeriod</a></span> <span class="element-name">validityPeriod</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiod" title="class in com.here.sdk.routing">FarePassValidityPeriod</a></span> <span class="element-name">validityPeriod</span></div>
 <div class="block"><p>Specifies a temporal validity period for a pass.</p></div>
 </section>
 </li>

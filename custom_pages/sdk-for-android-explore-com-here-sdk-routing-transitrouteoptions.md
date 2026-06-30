@@ -59,12 +59,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
 <div class="col-last odd-row-color">
 <div class="block">Optional time when travel is expected to start.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-transitmodefilter" title="enum class in com.here.sdk.routing">TransitModeFilter</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-transitmodefilter" title="enum class in com.here.sdk.routing">TransitModeFilter</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#modeFilter">modeFilter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines inclusion or exclusion of transit modes for route calculation.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#modes">modes</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">This list is used to determine which transit modes should be used for route calculation,
@@ -80,7 +80,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
 <div class="col-last odd-row-color">
 <div class="block">Walking speed in meters per second.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#textOptions">textOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Customize textual content returned from the route calculation, such
@@ -118,7 +118,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-transitrouteoptions" title="class in com.here.sdk.routing">TransitRouteOptions</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions" title="class in com.here.sdk.routing">TransitRouteOptions</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#fromDefaultParameterConfiguration()">fromDefaultParameterConfiguration</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns TransitRouteOptions instance with default values used in SDK.</div>
@@ -183,7 +183,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
 <section class="detail" id="modeFilter">
 <h3>modeFilter</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transitmodefilter" title="enum class in com.here.sdk.routing">TransitModeFilter</a></span> <span class="element-name">modeFilter</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmodefilter" title="enum class in com.here.sdk.routing">TransitModeFilter</a></span> <span class="element-name">modeFilter</span></div>
 <div class="block"><p>Defines inclusion or exclusion of transit modes for route calculation.
  By default, the inclusion mode is used.</p></div>
 </section>
@@ -192,7 +192,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
 <section class="detail" id="modes">
 <h3>modes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>&gt;</span> <span class="element-name">modes</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a>&gt;</span> <span class="element-name">modes</span></div>
 <div class="block"><p>This list is used to determine which transit modes should be used for route calculation,
  <a href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions#modeFilter"><code>modeFilter</code></a> specifies whether this list is an inclusion or an exclusion.
  For example, specifying subway and bus transit modes with the include filter, returns only subway
@@ -224,7 +224,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
 <section class="detail" id="textOptions">
 <h3>textOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></span> <span class="element-name">textOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></span> <span class="element-name">textOptions</span></div>
 <div class="block"><p>Customize textual content returned from the route calculation, such
  as localization, format, and unit system.</p></div>
 </section>
@@ -276,11 +276,11 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions"
 <section class="detail" id="fromDefaultParameterConfiguration()">
 <h3>fromDefaultParameterConfiguration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-transitrouteoptions" title="class in com.here.sdk.routing">TransitRouteOptions</a></span> <span class="element-name">fromDefaultParameterConfiguration</span>()</div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions" title="class in com.here.sdk.routing">TransitRouteOptions</a></span> <span class="element-name">fromDefaultParameterConfiguration</span>()</div>
 <div class="block"><p>Returns TransitRouteOptions instance with default values used in SDK.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>An <a href="sdk-for-android-explore-transitrouteoptions" title="class in com.here.sdk.routing"><code>TransitRouteOptions</code></a> instance with default values used in SDK.</p></dd>
+<dd><p>An <a href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions" title="class in com.here.sdk.routing"><code>TransitRouteOptions</code></a> instance with default values used in SDK.</p></dd>
 </dl>
 </section>
 </li>

@@ -27,7 +27,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">GeoCoordinatesUpdate</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Represents geographical coordinates in 3D space.
- Unlike <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core"><code>GeoCoordinates</code></a>, its members can be undefined, allowing for APIs
+ Unlike <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core"><code>GeoCoordinates</code></a>, its members can be undefined, allowing for APIs
  that update only the specified parts of geo coordinates.</p></div>
 </section>
 <section class="summary">
@@ -67,7 +67,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">GeoCoordinatesUpdate</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">GeoCoordinatesUpdate</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a GeoCoordinatesUpdate from GeoCoordinates</div>
 </div>
@@ -204,7 +204,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocoordinatesupdate"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates)">
 <h3>GeoCoordinatesUpdate</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GeoCoordinatesUpdate</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
 <div class="block"><p>Constructs a GeoCoordinatesUpdate from GeoCoordinates</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

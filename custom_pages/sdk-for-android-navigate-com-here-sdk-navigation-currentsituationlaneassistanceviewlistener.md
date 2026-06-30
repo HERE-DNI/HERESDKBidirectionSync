@@ -23,7 +23,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneassi
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">CurrentSituationLaneAssistanceViewListener</span></div>
 <div class="block"><p>This interface should be
- implemented in order to receive notifications on <a href="sdk-for-android-navigate-currentsituationlaneassistanceview" title="class in com.here.sdk.navigation"><code>CurrentSituationLaneAssistanceView</code></a>.
+ implemented in order to receive notifications on <a href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneassistanceview" title="class in com.here.sdk.navigation"><code>CurrentSituationLaneAssistanceView</code></a>.
  The current situation lane assistance view notifications describe the lane information at the current location.
  A new notification is evaluated with each location update. A notification is only sent when there is a change
  in lane data, such as a new upcoming lane.
@@ -53,7 +53,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneassi
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneassistanceviewlistener#onCurrentSituationLaneAssistanceViewUpdate(com.here.sdk.navigation.CurrentSituationLaneAssistanceView)">onCurrentSituationLaneAssistanceViewUpdate</a><wbr/>(<a href="sdk-for-android-navigate-currentsituationlaneassistanceview" title="class in com.here.sdk.navigation">CurrentSituationLaneAssistanceView</a> lanes)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneassistanceviewlistener#onCurrentSituationLaneAssistanceViewUpdate(com.here.sdk.navigation.CurrentSituationLaneAssistanceView)">onCurrentSituationLaneAssistanceViewUpdate</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneassistanceview" title="class in com.here.sdk.navigation">CurrentSituationLaneAssistanceView</a> lanes)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The callback to be called.</div>
 </div>
@@ -75,7 +75,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneassi
 <section class="detail" id="onCurrentSituationLaneAssistanceViewUpdate(com.here.sdk.navigation.CurrentSituationLaneAssistanceView)">
 <h3>onCurrentSituationLaneAssistanceViewUpdate</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onCurrentSituationLaneAssistanceViewUpdate</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-currentsituationlaneassistanceview" title="class in com.here.sdk.navigation">CurrentSituationLaneAssistanceView</a> lanes)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneassistanceview" title="class in com.here.sdk.navigation">CurrentSituationLaneAssistanceView</a> lanes)</span></div>
 <div class="block"><p>The callback to be called.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

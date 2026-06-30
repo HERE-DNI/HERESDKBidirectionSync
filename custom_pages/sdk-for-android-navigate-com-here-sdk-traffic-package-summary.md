@@ -41,11 +41,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-package-summary"
 <div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-trafficengine" title="class in com.here.sdk.traffic">TrafficEngine</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Use the TrafficEngine to get information about current traffic flow and incidents in an area
- specified by <a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, <a href="sdk-for-android-navigate-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a>, or <a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>.</div>
+ specified by <a href="sdk-for-android-navigate-com-here-sdk-core-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, <a href="sdk-for-android-navigate-com-here-sdk-core-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a>, or <a href="sdk-for-android-navigate-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>.</div>
 </div>
 <div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-trafficflow" title="class in com.here.sdk.traffic">TrafficFlow</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
-<div class="block">This class provides details about traffic flow along a <a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>, inside a <a href="sdk-for-android-navigate-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> or a <a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, that represents particular path of the road network.<br/>
+<div class="block">This class provides details about traffic flow along a <a href="sdk-for-android-navigate-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>, inside a <a href="sdk-for-android-navigate-com-here-sdk-core-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> or a <a href="sdk-for-android-navigate-com-here-sdk-core-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, that represents particular path of the road network.<br/>
  Backends for TrafficEngine and traffic vector tiles are different however backends may share the same data.<br/>
  For additional information about fields, refer to <a href="https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html#tag/Real-Time-Traffic">Traffic API v7 API Reference: Traffic API v7</a>.</div>
 </div>

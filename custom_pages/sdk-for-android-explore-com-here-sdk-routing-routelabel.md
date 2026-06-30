@@ -40,12 +40,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routelabel"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routelabel#name">name</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The street name or route number for the route label.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routelabeltype" title="enum class in com.here.sdk.routing">RouteLabelType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-routelabeltype" title="enum class in com.here.sdk.routing">RouteLabelType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routelabel#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of the route label, describing if the route label contains a street name or a route number.</div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routelabel"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routelabel#%3Cinit%3E(com.here.sdk.core.LocalizedText)">RouteLabel</a><wbr/>(<a href="sdk-for-android-explore-localizedtext" title="class in com.here.sdk.core">LocalizedText</a> name)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routelabel#%3Cinit%3E(com.here.sdk.core.LocalizedText)">RouteLabel</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a> name)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -106,7 +106,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routelabel"
 <section class="detail" id="name">
 <h3>name</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">name</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">name</span></div>
 <div class="block"><p>The street name or route number for the route label.</p></div>
 </section>
 </li>
@@ -114,7 +114,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routelabel"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routelabeltype" title="enum class in com.here.sdk.routing">RouteLabelType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routelabeltype" title="enum class in com.here.sdk.routing">RouteLabelType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>The type of the route label, describing if the route label contains a street name or a route number.</p></div>
 </section>
 </li>
@@ -130,7 +130,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routelabel"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.LocalizedText)">
 <h3>RouteLabel</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteLabel</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-localizedtext" title="class in com.here.sdk.core">LocalizedText</a> name)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a> name)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

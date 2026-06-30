@@ -25,7 +25,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-usagestats-networkstats
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">UsageStats.NetworkStats</span>

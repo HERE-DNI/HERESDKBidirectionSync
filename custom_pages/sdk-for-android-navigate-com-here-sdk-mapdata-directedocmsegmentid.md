@@ -41,12 +41,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid#id">id</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Segment ID in OCM map</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid#travelDirection">travelDirection</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Travel direction of the segment.</div>
@@ -62,7 +62,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid#%3Cinit%3E(com.here.sdk.mapdata.OCMSegmentId)">DirectedOCMSegmentId</a><wbr/>(<a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a> id)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid#%3Cinit%3E(com.here.sdk.mapdata.OCMSegmentId)">DirectedOCMSegmentId</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapdata-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a> id)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -107,7 +107,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid"
 <section class="detail" id="id">
 <h3>id</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a></span> <span class="element-name">id</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a></span> <span class="element-name">id</span></div>
 <div class="block"><p>Segment ID in OCM map</p></div>
 </section>
 </li>
@@ -115,7 +115,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid"
 <section class="detail" id="travelDirection">
 <h3>travelDirection</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></span> <span class="element-name">travelDirection</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></span> <span class="element-name">travelDirection</span></div>
 <div class="block"><p>Travel direction of the segment.</p></div>
 </section>
 </li>
@@ -131,7 +131,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapdata.OCMSegmentId)">
 <h3>DirectedOCMSegmentId</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">DirectedOCMSegmentId</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a> id)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a> id)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

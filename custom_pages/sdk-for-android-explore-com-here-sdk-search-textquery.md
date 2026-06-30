@@ -40,7 +40,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-textquery"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-search-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Area to perform search on.</div>
 </div>
@@ -56,12 +56,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-textquery"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-search-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-textquery#area">area</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Area which to provide the most relevant places.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-placefilter" title="class in com.here.sdk.search">PlaceFilter</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-search-placefilter" title="class in com.here.sdk.search">PlaceFilter</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-textquery#placeFilter">placeFilter</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The filter options to specify a place in query.</div>
@@ -83,7 +83,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-textquery"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-textquery#%3Cinit%3E(java.lang.String,com.here.sdk.search.TextQuery.Area)">TextQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
- <a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a> area)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-search-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a> area)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a TextQuery from the provided text query and geographic area.</div>
 </div>
@@ -136,7 +136,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-textquery"
 <section class="detail" id="area">
 <h3>area</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></span> <span class="element-name">area</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></span> <span class="element-name">area</span></div>
 <div class="block"><p>Area which to provide the most relevant places.</p></div>
 </section>
 </li>
@@ -144,7 +144,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-textquery"
 <section class="detail" id="placeFilter">
 <h3>placeFilter</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-placefilter" title="class in com.here.sdk.search">PlaceFilter</a></span> <span class="element-name">placeFilter</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-placefilter" title="class in com.here.sdk.search">PlaceFilter</a></span> <span class="element-name">placeFilter</span></div>
 <div class="block"><p>The filter options to specify a place in query.
  Consists of fuel and truck options.</p></div>
 </section>
@@ -163,7 +163,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-textquery"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TextQuery</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
  @NonNull
- <a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a> area)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-search-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a> area)</span></div>
 <div class="block"><p>Constructs a TextQuery from the provided text query and geographic area.
  For Offline Search, search in a given <code>GeoBox</code>, <code>GeoCircle</code> or <code>GeoCorridor</code>
  restricts the results to only POIs.</p></div>

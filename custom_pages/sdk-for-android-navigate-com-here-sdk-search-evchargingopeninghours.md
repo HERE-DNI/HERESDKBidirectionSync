@@ -47,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghours"
 <div class="block">Indicates if it is allowed to leave vehicles in the charging location to continue
  charging outside opening hours.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-evchargingopeninghoursexception" title="class in com.here.sdk.search">EVChargingOpeningHoursException</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexception" title="class in com.here.sdk.search">EVChargingOpeningHoursException</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghours#exceptions">exceptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of opening hours exceptions for EV charging locations.</div>
@@ -57,7 +57,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghours"
 <div class="col-last even-row-color">
 <div class="block">Indicates if the charging location is open 24 hours a day, 7 days per week.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-evchargingopeninghoursschedule" title="class in com.here.sdk.search">EVChargingOpeningHoursSchedule</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursschedule" title="class in com.here.sdk.search">EVChargingOpeningHoursSchedule</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghours#regularSchedule">regularSchedule</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of regular opening hours schedule for EV charging locations.</div>
@@ -134,7 +134,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghours"
 <section class="detail" id="regularSchedule">
 <h3>regularSchedule</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-evchargingopeninghoursschedule" title="class in com.here.sdk.search">EVChargingOpeningHoursSchedule</a>&gt;</span> <span class="element-name">regularSchedule</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursschedule" title="class in com.here.sdk.search">EVChargingOpeningHoursSchedule</a>&gt;</span> <span class="element-name">regularSchedule</span></div>
 <div class="block"><p>List of regular opening hours schedule for EV charging locations.</p></div>
 </section>
 </li>
@@ -142,7 +142,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghours"
 <section class="detail" id="exceptions">
 <h3>exceptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-evchargingopeninghoursexception" title="class in com.here.sdk.search">EVChargingOpeningHoursException</a>&gt;</span> <span class="element-name">exceptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursexception" title="class in com.here.sdk.search">EVChargingOpeningHoursException</a>&gt;</span> <span class="element-name">exceptions</span></div>
 <div class="block"><p>List of opening hours exceptions for EV charging locations.</p></div>
 </section>
 </li>

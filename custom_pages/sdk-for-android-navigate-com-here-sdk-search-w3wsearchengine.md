@@ -20,14 +20,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.search.W3WSearchEngine</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">W3WSearchEngine</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>what3words is an alternative geocode system designed to identify any location on the planet.
  The system divides the world into a grid of 57 trillion 3-by-3-metre squares, each of which
  has a three-word address. For example, the front door of HERE’s Berlin office is identified by
@@ -52,7 +52,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine"
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">W3WSearchEngine</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">W3WSearchEngine</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -70,19 +70,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine#search(com.here.sdk.core.GeoCoordinates,java.lang.String,com.here.sdk.search.W3WSearchCallback)">search</a><wbr/>(<a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine#search(com.here.sdk.core.GeoCoordinates,java.lang.String,com.here.sdk.search.W3WSearchCallback)">search</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> language,
- <a href="sdk-for-android-navigate-w3wsearchcallback" title="interface in com.here.sdk.search">W3WSearchCallback</a> callback)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchcallback" title="interface in com.here.sdk.search">W3WSearchCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Performs an asynchronous request to search for a <a href="sdk-for-android-navigate-w3wsquare" title="class in com.here.sdk.search"><code>W3WSquare</code></a>, which includes
+<div class="block">Performs an asynchronous request to search for a <a href="sdk-for-android-navigate-com-here-sdk-search-w3wsquare" title="class in com.here.sdk.search"><code>W3WSquare</code></a>, which includes
  the 3 word address, that corresponds to the given coordinates.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine#search(java.lang.String,com.here.sdk.search.W3WSearchCallback)">search</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> words,
- <a href="sdk-for-android-navigate-w3wsearchcallback" title="interface in com.here.sdk.search">W3WSearchCallback</a> callback)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchcallback" title="interface in com.here.sdk.search">W3WSearchCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Performs an asynchronous request to search for a <a href="sdk-for-android-navigate-w3wsquare" title="class in com.here.sdk.search"><code>W3WSquare</code></a> that corresponds to
+<div class="block">Performs an asynchronous request to search for a <a href="sdk-for-android-navigate-com-here-sdk-search-w3wsquare" title="class in com.here.sdk.search"><code>W3WSquare</code></a> that corresponds to
  the given 3 words.</div>
 </div>
 </div>
@@ -106,11 +106,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine"
 <section class="detail" id="&lt;init&gt;()">
 <h3>W3WSearchEngine</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">W3WSearchEngine</span>()
-                throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+                throws <span class="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -118,14 +118,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine)">
 <h3>W3WSearchEngine</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">W3WSearchEngine</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
-                throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
+                throws <span class="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>sdkEngine</code> - <p>Instance of an existing SDKEngine.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -141,11 +141,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine"
 <section class="detail" id="search(java.lang.String,com.here.sdk.search.W3WSearchCallback)">
 <h3>search</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> words,
  @NonNull
- <a href="sdk-for-android-navigate-w3wsearchcallback" title="interface in com.here.sdk.search">W3WSearchCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous request to search for a <a href="sdk-for-android-navigate-w3wsquare" title="class in com.here.sdk.search"><code>W3WSquare</code></a> that corresponds to
+ <a href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchcallback" title="interface in com.here.sdk.search">W3WSearchCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous request to search for a <a href="sdk-for-android-navigate-com-here-sdk-search-w3wsquare" title="class in com.here.sdk.search"><code>W3WSquare</code></a> that corresponds to
  the given 3 words.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -162,13 +162,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine"
 <section class="detail" id="search(com.here.sdk.core.GeoCoordinates,java.lang.String,com.here.sdk.search.W3WSearchCallback)">
 <h3>search</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> language,
  @NonNull
- <a href="sdk-for-android-navigate-w3wsearchcallback" title="interface in com.here.sdk.search">W3WSearchCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous request to search for a <a href="sdk-for-android-navigate-w3wsquare" title="class in com.here.sdk.search"><code>W3WSquare</code></a>, which includes
+ <a href="sdk-for-android-navigate-com-here-sdk-search-w3wsearchcallback" title="interface in com.here.sdk.search">W3WSearchCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous request to search for a <a href="sdk-for-android-navigate-com-here-sdk-search-w3wsquare" title="class in com.here.sdk.search"><code>W3WSquare</code></a>, which includes
  the 3 word address, that corresponds to the given coordinates.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

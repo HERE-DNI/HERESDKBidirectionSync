@@ -40,12 +40,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning#axleCount">axleCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The axle count for which the current restriction applies.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-dimensionrestriction" title="class in com.here.sdk.navigation">DimensionRestriction</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-dimensionrestriction" title="class in com.here.sdk.navigation">DimensionRestriction</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning#dimensionRestriction">dimensionRestriction</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Vehicle dimension restrictions.</div>
@@ -55,12 +55,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <div class="col-last even-row-color">
 <div class="block">The distance from the current location to the restriction.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Indicates if the specified truck restriction is ahead of the vehicle or has just passed by.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning#hazardousMaterials">hazardousMaterials</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of hazardous materials which are restricted on the road section for which the warning applies.</div>
@@ -70,27 +70,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <div class="col-last odd-row-color">
 <div class="block">Unique identifier for this specific truck restriction warning instance.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning#timeRule">timeRule</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Time rule indicating the time periods for which the restriction applies.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning#trailerCount">trailerCount</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The trailer count for which the current restriction applies.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning#truckRoadType">truckRoadType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Truck road type restriction.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning#tunnelCategory">tunnelCategory</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tunnel category.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-weightrestriction" title="class in com.here.sdk.navigation">WeightRestriction</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-weightrestriction" title="class in com.here.sdk.navigation">WeightRestriction</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning#weightRestriction">weightRestriction</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Weight restriction.</div>
@@ -107,7 +107,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning#%3Cinit%3E(double,com.here.sdk.navigation.DistanceType)">TruckRestrictionWarning</a><wbr/>(double distanceInMeters,
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -173,7 +173,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <section class="detail" id="weightRestriction">
 <h3>weightRestriction</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-weightrestriction" title="class in com.here.sdk.navigation">WeightRestriction</a></span> <span class="element-name">weightRestriction</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-weightrestriction" title="class in com.here.sdk.navigation">WeightRestriction</a></span> <span class="element-name">weightRestriction</span></div>
 <div class="block"><p>Weight restriction.
  It is <code>null</code> when there is no known weight restriction ahead.</p></div>
 </section>
@@ -182,7 +182,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <section class="detail" id="dimensionRestriction">
 <h3>dimensionRestriction</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-dimensionrestriction" title="class in com.here.sdk.navigation">DimensionRestriction</a></span> <span class="element-name">dimensionRestriction</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dimensionrestriction" title="class in com.here.sdk.navigation">DimensionRestriction</a></span> <span class="element-name">dimensionRestriction</span></div>
 <div class="block"><p>Vehicle dimension restrictions.
  It is <code>null</code> when there is no known dimension restriction ahead.</p></div>
 </section>
@@ -191,7 +191,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <section class="detail" id="distanceType">
 <h3>distanceType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>Indicates if the specified truck restriction is ahead of the vehicle or has just passed by. If it is ahead, then <a href="sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning#distanceInMeters"><code>distanceInMeters</code></a> is greater than 0.</p></div>
 </section>
 </li>
@@ -199,7 +199,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <section class="detail" id="trailerCount">
 <h3>trailerCount</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">trailerCount</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">trailerCount</span></div>
 <div class="block"><p>The trailer count for which the current restriction applies.
  If the field is 'null' then the current restriction does not have a condition based on trailers count.</p></div>
 </section>
@@ -208,7 +208,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <section class="detail" id="timeRule">
 <h3>timeRule</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a></span> <span class="element-name">timeRule</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a></span> <span class="element-name">timeRule</span></div>
 <div class="block"><p>Time rule indicating the time periods for which the restriction applies.
  If the field is 'null' then the restriction is applicable at anytime.</p></div>
 </section>
@@ -217,7 +217,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <section class="detail" id="truckRoadType">
 <h3>truckRoadType</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a></span> <span class="element-name">truckRoadType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a></span> <span class="element-name">truckRoadType</span></div>
 <div class="block"><p>Truck road type restriction.</p></div>
 </section>
 </li>
@@ -225,7 +225,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <section class="detail" id="hazardousMaterials">
 <h3>hazardousMaterials</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</span> <span class="element-name">hazardousMaterials</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</span> <span class="element-name">hazardousMaterials</span></div>
 <div class="block"><p>The list of hazardous materials which are restricted on the road section for which the warning applies.</p></div>
 </section>
 </li>
@@ -233,7 +233,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <section class="detail" id="tunnelCategory">
 <h3>tunnelCategory</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">tunnelCategory</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">tunnelCategory</span></div>
 <div class="block"><p>Tunnel category.</p></div>
 </section>
 </li>
@@ -241,7 +241,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <section class="detail" id="axleCount">
 <h3>axleCount</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">axleCount</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">axleCount</span></div>
 <div class="block"><p>The axle count for which the current restriction applies.
  If this field is <code>null</code>, the restriction does not depend on axle count.</p></div>
 </section>
@@ -259,7 +259,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-truckrestrictionwarning"
 <h3>TruckRestrictionWarning</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TruckRestrictionWarning</span><wbr/><span class="parameters">(double distanceInMeters,
  @NonNull
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

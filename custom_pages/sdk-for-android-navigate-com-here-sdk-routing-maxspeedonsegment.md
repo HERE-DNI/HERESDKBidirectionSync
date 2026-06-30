@@ -45,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 <div class="col-last even-row-color">
 <div class="block">New maximum value in m/s of baseSpeed on segment.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment#segment">segment</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A segment for which the new base speed is specified.</div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment#%3Cinit%3E(com.here.sdk.routing.SegmentReference,double)">MaxSpeedOnSegment</a><wbr/>(<a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segment,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment#%3Cinit%3E(com.here.sdk.routing.SegmentReference,double)">MaxSpeedOnSegment</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segment,
  double baseSpeedInMetersPerSecond)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -107,11 +107,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 <section class="detail" id="segment">
 <h3>segment</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segment</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segment</span></div>
 <div class="block"><p>A segment for which the new base speed is specified. Only the <code>segmendId</code> and <code>travelDirection</code>
  parameters are used, other parameters are ignored. Setting a <code>segmendId</code> is mandatory.
  <strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
- Although, after route calculation you can retrieve the related segments for each <a href="sdk-for-android-navigate-span" title="class in com.here.sdk.routing"><code>Span</code></a>.
+ Although, after route calculation you can retrieve the related segments for each <a href="sdk-for-android-navigate-com-here-sdk-routing-span" title="class in com.here.sdk.routing"><code>Span</code></a>.
  The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>.
  These IDs are mostly stable and only change when the underlying map data changes
  due to a new road or similar changes in the real world.</p></div>
@@ -137,7 +137,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.SegmentReference,double)">
 <h3>MaxSpeedOnSegment</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MaxSpeedOnSegment</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segment,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segment,
  double baseSpeedInMetersPerSecond)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
@@ -145,7 +145,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-maxspeedonsegment"
 <dd><code>segment</code> - <p>A segment for which the new base speed is specified. Only the <code>segmendId</code> and <code>travelDirection</code>
  parameters are used, other parameters are ignored. Setting a <code>segmendId</code> is mandatory.
  <strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
- Although, after route calculation you can retrieve the related segments for each <a href="sdk-for-android-navigate-span" title="class in com.here.sdk.routing"><code>Span</code></a>.
+ Although, after route calculation you can retrieve the related segments for each <a href="sdk-for-android-navigate-com-here-sdk-routing-span" title="class in com.here.sdk.routing"><code>Span</code></a>.
  The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>.
  These IDs are mostly stable and only change when the underlying map data changes
  due to a new road or similar changes in the real world.</p></dd>

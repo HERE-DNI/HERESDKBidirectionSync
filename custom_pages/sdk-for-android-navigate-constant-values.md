@@ -22,7 +22,7 @@ slug: "sdk-for-android-navigate-constant-values"
 
 <ul class="block-list">
 <li>
-<div class="caption"><span>com.here.sdk.core.<a href="sdk-for-android-navigate-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></span></div>
+<div class="caption"><span>com.here.sdk.core.<a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -72,7 +72,7 @@ slug: "sdk-for-android-navigate-constant-values"
 </ul>
 <ul class="block-list">
 <li>
-<div class="caption"><span>com.here.sdk.ev.<a href="sdk-for-android-navigate-evchargingconnectortype" title="class in com.here.sdk.ev">EVChargingConnectorType</a></span></div>
+<div class="caption"><span>com.here.sdk.ev.<a href="sdk-for-android-navigate-com-here-sdk-ev-evchargingconnectortype" title="class in com.here.sdk.ev">EVChargingConnectorType</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -205,7 +205,7 @@ slug: "sdk-for-android-navigate-constant-values"
 </ul>
 <ul class="block-list">
 <li>
-<div class="caption"><span>com.here.sdk.mapview.<a href="sdk-for-android-navigate-mapcameralimits" title="class in com.here.sdk.mapview">MapCameraLimits</a></span></div>
+<div class="caption"><span>com.here.sdk.mapview.<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits" title="class in com.here.sdk.mapview">MapCameraLimits</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -225,7 +225,7 @@ slug: "sdk-for-android-navigate-constant-values"
 </div>
 </li>
 <li>
-<div class="caption"><span>com.here.sdk.mapview.<a href="sdk-for-android-navigate-mapfeaturemodes" title="class in com.here.sdk.mapview">MapFeatureModes</a></span></div>
+<div class="caption"><span>com.here.sdk.mapview.<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview">MapFeatureModes</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -317,7 +317,7 @@ slug: "sdk-for-android-navigate-constant-values"
 </div>
 </li>
 <li>
-<div class="caption"><span>com.here.sdk.mapview.<a href="sdk-for-android-navigate-mapfeatures" title="class in com.here.sdk.mapview">MapFeatures</a></span></div>
+<div class="caption"><span>com.here.sdk.mapview.<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview">MapFeatures</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -381,7 +381,7 @@ slug: "sdk-for-android-navigate-constant-values"
 </ul>
 <ul class="block-list">
 <li>
-<div class="caption"><span>com.here.sdk.search.<a href="sdk-for-android-navigate-placecategory" title="class in com.here.sdk.search">PlaceCategory</a></span></div>
+<div class="caption"><span>com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -605,7 +605,7 @@ slug: "sdk-for-android-navigate-constant-values"
 </div>
 </li>
 <li>
-<div class="caption"><span>com.here.sdk.search.<a href="sdk-for-android-navigate-poipaymentmethod" title="class in com.here.sdk.search">POIPaymentMethod</a></span></div>
+<div class="caption"><span>com.here.sdk.search.<a href="sdk-for-android-navigate-com-here-sdk-search-poipaymentmethod" title="class in com.here.sdk.search">POIPaymentMethod</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>

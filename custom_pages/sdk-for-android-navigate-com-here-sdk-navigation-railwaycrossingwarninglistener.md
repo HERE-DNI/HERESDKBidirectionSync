@@ -46,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarningli
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarninglistener#onRailwayCrossingWarningUpdated(com.here.sdk.navigation.RailwayCrossingWarning)">onRailwayCrossingWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-railwaycrossingwarning" title="class in com.here.sdk.navigation">RailwayCrossingWarning</a> railwayCrossingWarning)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarninglistener#onRailwayCrossingWarningUpdated(com.here.sdk.navigation.RailwayCrossingWarning)">onRailwayCrossingWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning" title="class in com.here.sdk.navigation">RailwayCrossingWarning</a> railwayCrossingWarning)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new railway crossing warning is available.</div>
 </div>
@@ -68,7 +68,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarningli
 <section class="detail" id="onRailwayCrossingWarningUpdated(com.here.sdk.navigation.RailwayCrossingWarning)">
 <h3>onRailwayCrossingWarningUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onRailwayCrossingWarningUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-railwaycrossingwarning" title="class in com.here.sdk.navigation">RailwayCrossingWarning</a> railwayCrossingWarning)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-railwaycrossingwarning" title="class in com.here.sdk.navigation">RailwayCrossingWarning</a> railwayCrossingWarning)</span></div>
 <div class="block"><p>Called whenever a new railway crossing warning is available.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

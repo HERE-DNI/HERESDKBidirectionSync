@@ -22,7 +22,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource-loadt
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing interface:</dt>
-<dd><a href="sdk-for-android-navigate-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static interface </span><span class="element-name type-name-label">TileSource.LoadTileRequestHandle</span></div>

@@ -39,12 +39,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogress"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuverprogress" title="class in com.here.sdk.navigation">ManeuverProgress</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverprogress" title="class in com.here.sdk.navigation">ManeuverProgress</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogress#maneuverProgress">maneuverProgress</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">The progress for next and next-next maneuvers (see <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>).</div>
+<div class="block">The progress for next and next-next maneuvers (see <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>).</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-routematchedlocation" title="class in com.here.sdk.navigation">RouteMatchedLocation</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-routematchedlocation" title="class in com.here.sdk.navigation">RouteMatchedLocation</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogress#routeMatchedLocation">routeMatchedLocation</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Route matched location.</div>
@@ -56,10 +56,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogress"
 <div class="deprecation-comment">Will be removed in v4.27.0.</div>
 </div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-sectionprogress" title="class in com.here.sdk.navigation">SectionProgress</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress" title="class in com.here.sdk.navigation">SectionProgress</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogress#sectionProgress">sectionProgress</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">The progress for each <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a> from the current one to the last one.</div>
+<div class="block">The progress for each <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a> from the current one to the last one.</div>
 </div>
 <div class="col-first even-row-color"><code>int</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogress#spanIndex">spanIndex</a></code></div>
@@ -79,8 +79,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogress"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogress#%3Cinit%3E(java.util.List,java.util.List)">RouteProgress</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-sectionprogress" title="class in com.here.sdk.navigation">SectionProgress</a>&gt; sectionProgress,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuverprogress" title="class in com.here.sdk.navigation">ManeuverProgress</a>&gt; maneuverProgress)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogress#%3Cinit%3E(java.util.List,java.util.List)">RouteProgress</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress" title="class in com.here.sdk.navigation">SectionProgress</a>&gt; sectionProgress,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverprogress" title="class in com.here.sdk.navigation">ManeuverProgress</a>&gt; maneuverProgress)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -129,9 +129,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogress"
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.27.0. Use <a href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogress#routeMatchedLocation"><code>routeMatchedLocation</code></a> instead.</p></div>
 </div>
-<div class="block"><p>Index of the <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a> in the route.
- Note that this section index does not point to the current <a href="sdk-for-android-navigate-sectionprogress" title="class in com.here.sdk.navigation"><code>SectionProgress</code></a>
- but to the route <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a> that you can access via <a href="sdk-for-android-navigate-navigatorinterface#getRoute()"><code>NavigatorInterface.getRoute()</code></a>
+<div class="block"><p>Index of the <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a> in the route.
+ Note that this section index does not point to the current <a href="sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress" title="class in com.here.sdk.navigation"><code>SectionProgress</code></a>
+ but to the route <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a> that you can access via <a href="sdk-for-android-navigate-navigatorinterface#getRoute()"><code>NavigatorInterface.getRoute()</code></a>
  and <a href="sdk-for-android-navigate-route#getSections()"><code>Route.getSections()</code></a>.</p></div>
 </section>
 </li>
@@ -143,15 +143,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogress"
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.27.0. Use <a href="sdk-for-android-navigate-com-here-sdk-navigation-routeprogress#routeMatchedLocation"><code>routeMatchedLocation</code></a> instead.</p></div>
 </div>
-<div class="block"><p>Index of the <a href="sdk-for-android-navigate-span" title="class in com.here.sdk.routing"><code>Span</code></a> in the route section.</p></div>
+<div class="block"><p>Index of the <a href="sdk-for-android-navigate-com-here-sdk-routing-span" title="class in com.here.sdk.routing"><code>Span</code></a> in the route section.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="sectionProgress">
 <h3>sectionProgress</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-sectionprogress" title="class in com.here.sdk.navigation">SectionProgress</a>&gt;</span> <span class="element-name">sectionProgress</span></div>
-<div class="block"><p>The progress for each <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a> from the current one to the last one.
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress" title="class in com.here.sdk.navigation">SectionProgress</a>&gt;</span> <span class="element-name">sectionProgress</span></div>
+<div class="block"><p>The progress for each <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a> from the current one to the last one.
  Note that the progress information is accumulated successively, therefore information relative
  to the final destination is in the last item of the list. The list is guaranteed to be non-empty.</p></div>
 </section>
@@ -160,8 +160,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogress"
 <section class="detail" id="maneuverProgress">
 <h3>maneuverProgress</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuverprogress" title="class in com.here.sdk.navigation">ManeuverProgress</a>&gt;</span> <span class="element-name">maneuverProgress</span></div>
-<div class="block"><p>The progress for next and next-next maneuvers (see <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>). Note that the list
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverprogress" title="class in com.here.sdk.navigation">ManeuverProgress</a>&gt;</span> <span class="element-name">maneuverProgress</span></div>
+<div class="block"><p>The progress for next and next-next maneuvers (see <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>). Note that the list
  can contain at maximum two items (for next and next-next maneuvers) and one or zero when approaching the
  destination.</p></div>
 </section>
@@ -170,7 +170,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogress"
 <section class="detail" id="routeMatchedLocation">
 <h3>routeMatchedLocation</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-routematchedlocation" title="class in com.here.sdk.navigation">RouteMatchedLocation</a></span> <span class="element-name">routeMatchedLocation</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-routematchedlocation" title="class in com.here.sdk.navigation">RouteMatchedLocation</a></span> <span class="element-name">routeMatchedLocation</span></div>
 <div class="block"><p>Route matched location.</p></div>
 </section>
 </li>
@@ -186,16 +186,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routeprogress"
 <section class="detail" id="&lt;init&gt;(java.util.List,java.util.List)">
 <h3>RouteProgress</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteProgress</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-sectionprogress" title="class in com.here.sdk.navigation">SectionProgress</a>&gt; sectionProgress,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-sectionprogress" title="class in com.here.sdk.navigation">SectionProgress</a>&gt; sectionProgress,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuverprogress" title="class in com.here.sdk.navigation">ManeuverProgress</a>&gt; maneuverProgress)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverprogress" title="class in com.here.sdk.navigation">ManeuverProgress</a>&gt; maneuverProgress)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>sectionProgress</code> - <p>The progress for each <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a> from the current one to the last one.
+<dd><code>sectionProgress</code> - <p>The progress for each <a href="sdk-for-android-navigate-com-here-sdk-routing-section" title="class in com.here.sdk.routing"><code>Section</code></a> from the current one to the last one.
  Note that the progress information is accumulated successively, therefore information relative
  to the final destination is in the last item of the list. The list is guaranteed to be non-empty.</p></dd>
-<dd><code>maneuverProgress</code> - <p>The progress for next and next-next maneuvers (see <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>). Note that the list
+<dd><code>maneuverProgress</code> - <p>The progress for next and next-next maneuvers (see <a href="sdk-for-android-navigate-com-here-sdk-routing-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a>). Note that the list
  can contain at maximum two items (for next and next-next maneuvers) and one or zero when approaching the
  destination.</p></dd>
 </dl>

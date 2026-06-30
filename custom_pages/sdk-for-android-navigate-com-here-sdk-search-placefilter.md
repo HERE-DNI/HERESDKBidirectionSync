@@ -41,7 +41,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placefilter"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Constraints that are applicable on the places of category EV station.</div>
 </div>
@@ -57,27 +57,27 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placefilter"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-search-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placefilter#ev">ev</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Constraints that are applicable on the places of category EV station.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placefilter#fuelTypes">fuelTypes</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">The list of <a href="sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport"><code>FuelType</code></a> elements that should be used to find only
- the <a href="sdk-for-android-navigate-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results that support all of them.</div>
+<div class="block">The list of <a href="sdk-for-android-navigate-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport"><code>FuelType</code></a> elements that should be used to find only
+ the <a href="sdk-for-android-navigate-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results that support all of them.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placefilter#truckClass">truckClass</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Should be used to find only the <a href="sdk-for-android-navigate-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results with minimum supported <a href="sdk-for-android-navigate-truckclass" title="enum class in com.here.sdk.transport"><code>TruckClass</code></a>.</div>
+<div class="block">Should be used to find only the <a href="sdk-for-android-navigate-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results with minimum supported <a href="sdk-for-android-navigate-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport"><code>TruckClass</code></a>.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-placefilter#truckFuelTypes">truckFuelTypes</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">The list of <a href="sdk-for-android-navigate-truckfueltype" title="enum class in com.here.sdk.transport"><code>TruckFuelType</code></a> elements that should be used to find only
- the <a href="sdk-for-android-navigate-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results that support all of them.</div>
+<div class="block">The list of <a href="sdk-for-android-navigate-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport"><code>TruckFuelType</code></a> elements that should be used to find only
+ the <a href="sdk-for-android-navigate-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results that support all of them.</div>
 </div>
 </div>
 </section>
@@ -135,9 +135,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placefilter"
 <section class="detail" id="fuelTypes">
 <h3>fuelTypes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>&gt;</span> <span class="element-name">fuelTypes</span></div>
-<div class="block"><p>The list of <a href="sdk-for-android-navigate-fueltype" title="enum class in com.here.sdk.transport"><code>FuelType</code></a> elements that should be used to find only
- the <a href="sdk-for-android-navigate-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results that support all of them.
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>&gt;</span> <span class="element-name">fuelTypes</span></div>
+<div class="block"><p>The list of <a href="sdk-for-android-navigate-com-here-sdk-transport-fueltype" title="enum class in com.here.sdk.transport"><code>FuelType</code></a> elements that should be used to find only
+ the <a href="sdk-for-android-navigate-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results that support all of them.
  This filter is available to use with the <code>SearchEngine</code> and
  <code>OfflineSearchEngine</code> (only available for the Navigate license), however <code>OfflineSearchEngine</code>
  supports it only for <code>searchByText</code> and <code>searchByCategory</code> with allowed fuel types <code>DIESEL</code>, <code>LPG</code>,
@@ -151,9 +151,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placefilter"
 <section class="detail" id="truckFuelTypes">
 <h3>truckFuelTypes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a>&gt;</span> <span class="element-name">truckFuelTypes</span></div>
-<div class="block"><p>The list of <a href="sdk-for-android-navigate-truckfueltype" title="enum class in com.here.sdk.transport"><code>TruckFuelType</code></a> elements that should be used to find only
- the <a href="sdk-for-android-navigate-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results that support all of them.
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a>&gt;</span> <span class="element-name">truckFuelTypes</span></div>
+<div class="block"><p>The list of <a href="sdk-for-android-navigate-com-here-sdk-transport-truckfueltype" title="enum class in com.here.sdk.transport"><code>TruckFuelType</code></a> elements that should be used to find only
+ the <a href="sdk-for-android-navigate-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results that support all of them.
  Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code> (only available for the Navigate license).
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -163,8 +163,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placefilter"
 <section class="detail" id="truckClass">
 <h3>truckClass</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a></span> <span class="element-name">truckClass</span></div>
-<div class="block"><p>Should be used to find only the <a href="sdk-for-android-navigate-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results with minimum supported <a href="sdk-for-android-navigate-truckclass" title="enum class in com.here.sdk.transport"><code>TruckClass</code></a>.
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a></span> <span class="element-name">truckClass</span></div>
+<div class="block"><p>Should be used to find only the <a href="sdk-for-android-navigate-com-here-sdk-search-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results with minimum supported <a href="sdk-for-android-navigate-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport"><code>TruckClass</code></a>.
  This filter is only available to use with the <code>SearchEngine</code>.
  The <code>OfflineSearchEngine</code> (only available for the Navigate license) does not apply this filter.
  <a href="sdk-for-android-navigate-truckclass#LIGHT_CLASS"><code>TruckClass.LIGHT_CLASS</code></a> is not accepted in the filter.
@@ -177,7 +177,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placefilter"
 <section class="detail" id="ev">
 <h3>ev</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></span> <span class="element-name">ev</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></span> <span class="element-name">ev</span></div>
 <div class="block"><p>Constraints that are applicable on the places of category EV station.</p></div>
 </section>
 </li>

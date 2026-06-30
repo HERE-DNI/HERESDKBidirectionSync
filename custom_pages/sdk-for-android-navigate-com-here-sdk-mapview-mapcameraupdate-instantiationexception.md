@@ -33,12 +33,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameraupdate-instantiati
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapCameraUpdate.InstantiationException</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a></span></div>
-<div class="block"><p>Thrown when a problem occurs while trying to create a <a href="sdk-for-android-navigate-mapcameraupdate" title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a>.</p></div>
+<div class="block"><p>Thrown when a problem occurs while trying to create a <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameraupdate" title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a>.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
 <dd>

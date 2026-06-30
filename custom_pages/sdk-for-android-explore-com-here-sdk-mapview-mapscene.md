@@ -20,18 +20,18 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscene"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapScene</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapScene</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents a map scene and exposes the functionality to manipulate its content.
  
 The content of the displayed map and how it looks is specified by a
- <a href="sdk-for-android-explore-mapscheme" title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a> which is set when loading a scene with <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a>.
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme" title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a> which is set when loading a scene with <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a>.
  It is also possible to load your own custom map scheme from a file bundled
  with your application. Supported file formats are:
  <ul>
@@ -50,7 +50,7 @@ Different map schemes offer different sets of features, for example showing traf
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#getSupportedFeatures()"><code>getSupportedFeatures()</code></a> can be used to check what features and modes are supported
  for the current scene. Features can be enabled using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> and disabled
  with <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a>. Checking which features are currently enabled can be done using
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#getActiveFeatures()"><code>getActiveFeatures()</code></a>. For convenience, <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> and <a href="sdk-for-android-explore-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> hold
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#getActiveFeatures()"><code>getActiveFeatures()</code></a>. For convenience, <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> and <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> hold
  constants for feature and mode names.
  Since version 4.15.0, map features cannot be controlled using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>, since <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a> controls
  only visibility of the layers which are corresponding to the features enabled either by <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
@@ -60,8 +60,8 @@ A map scheme is organized in layers, which can be controlled using <a href="sdk-
  It's possible to change the visibility state of any map layer as long as the name is known.
  Layer visibility settings persist between scene reloading.
  
-User generated content can be visualised on the map using <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>, <a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview"><code>MapPolygon</code></a>, <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>,
- <a href="sdk-for-android-explore-mapmarkercluster" title="class in com.here.sdk.mapview"><code>MapMarkerCluster</code></a>, <a href="sdk-for-android-explore-maparrow" title="class in com.here.sdk.mapview"><code>MapArrow</code></a>, <a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview"><code>MapMarker3D</code></a> and <a href="sdk-for-android-explore-mapimageoverlay" title="class in com.here.sdk.mapview"><code>MapImageOverlay</code></a>
+User generated content can be visualised on the map using <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview"><code>MapPolygon</code></a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview"><code>MapMarkerCluster</code></a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-maparrow" title="class in com.here.sdk.mapview"><code>MapArrow</code></a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview"><code>MapMarker3D</code></a> and <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay" title="class in com.here.sdk.mapview"><code>MapImageOverlay</code></a>
  (collectively referred to as "map items"). Those can be added to and removed
  from the scene by respective add and remove methods. The render order of the map items
  is according to the list above. The order of objects within the same type can be controlled using
@@ -87,13 +87,13 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static interface </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Called on the main thread after <code>loadScene()</code> method finishes loading
  the scene.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Filter for the map content to be picked.</div>
 </div>
@@ -112,57 +112,57 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapArrow(com.here.sdk.mapview.MapArrow)">addMapArrow</a><wbr/>(<a href="sdk-for-android-explore-maparrow" title="class in com.here.sdk.mapview">MapArrow</a> mapArrow)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapArrow(com.here.sdk.mapview.MapArrow)">addMapArrow</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-maparrow" title="class in com.here.sdk.mapview">MapArrow</a> mapArrow)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a map arrow to this map scene.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)">addMapImageOverlay</a><wbr/>(<a href="sdk-for-android-explore-mapimageoverlay" title="class in com.here.sdk.mapview">MapImageOverlay</a> overlay)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)">addMapImageOverlay</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay" title="class in com.here.sdk.mapview">MapImageOverlay</a> overlay)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a map image overlay to this map scene.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapMarker(com.here.sdk.mapview.MapMarker)">addMapMarker</a><wbr/>(<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapMarker(com.here.sdk.mapview.MapMarker)">addMapMarker</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a map marker to this map scene.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapMarker3d(com.here.sdk.mapview.MapMarker3D)">addMapMarker3d</a><wbr/>(<a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a> marker)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapMarker3d(com.here.sdk.mapview.MapMarker3D)">addMapMarker3d</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a> marker)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a 3D map marker to this map scene.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)">addMapMarkerCluster</a><wbr/>(<a href="sdk-for-android-explore-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> cluster)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)">addMapMarkerCluster</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> cluster)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a map marker cluster to the map.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapMarkers(java.util.List)">addMapMarkers</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapMarkers(java.util.List)">addMapMarkers</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds multiple map markers to this map scene.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapMarkers3d(java.util.List)">addMapMarkers3d</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt; markers)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapMarkers3d(java.util.List)">addMapMarkers3d</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt; markers)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds multiple 3D map markers to this map scene.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapPolygon(com.here.sdk.mapview.MapPolygon)">addMapPolygon</a><wbr/>(<a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a> mapPolygon)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapPolygon(com.here.sdk.mapview.MapPolygon)">addMapPolygon</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a> mapPolygon)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a map polygon to this map scene.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapPolygons(java.util.List)">addMapPolygons</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt; mapPolygons)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapPolygons(java.util.List)">addMapPolygons</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt; mapPolygons)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds multiple map polygons to this map scene.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapPolyline(com.here.sdk.mapview.MapPolyline)">addMapPolyline</a><wbr/>(<a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a> mapPolyline)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapPolyline(com.here.sdk.mapview.MapPolyline)">addMapPolyline</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a> mapPolyline)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a map polyline to this map scene.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapPolylines(java.util.List)">addMapPolylines</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt; mapPolylines)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#addMapPolylines(java.util.List)">addMapPolylines</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt; mapPolylines)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds map polylines to this map scene.</div>
 </div>
@@ -181,7 +181,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets map features that are currently active.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapscenelights" title="class in com.here.sdk.mapview">MapSceneLights</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights" title="class in com.here.sdk.mapview">MapSceneLights</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#getLights()">getLights</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a MapSceneLights instance that controls lights present in the scene.</div>
@@ -193,27 +193,27 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
  loaded scene configuration.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#loadScene(com.here.sdk.mapview.MapSceneLoadOptions,com.here.sdk.mapview.MapScene.LoadSceneCallback)">loadScene</a><wbr/>(<a href="sdk-for-android-explore-mapsceneloadoptions" title="class in com.here.sdk.mapview">MapSceneLoadOptions</a> options,
- <a href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#loadScene(com.here.sdk.mapview.MapSceneLoadOptions,com.here.sdk.mapview.MapScene.LoadSceneCallback)">loadScene</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptions" title="class in com.here.sdk.mapview">MapSceneLoadOptions</a> options,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously loads a map scene using MapSceneLoadOptions.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)">loadScene</a><wbr/>(<a href="sdk-for-android-explore-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme,
- <a href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)">loadScene</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously loads a map scene described by a specified map scheme.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#loadScene(java.lang.String,com.here.sdk.mapview.MapScene.LoadSceneCallback)">loadScene</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> configurationFile,
- <a href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously loads a map scene described by a specified file in one of the supported formats.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#loadScene(java.lang.String,com.here.sdk.mapview.WatermarkStyle,com.here.sdk.mapview.MapScene.LoadSceneCallback)">loadScene</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> configurationFile,
- <a href="sdk-for-android-explore-watermarkstyle" title="enum class in com.here.sdk.mapview">WatermarkStyle</a> watermarkStyle,
- <a href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-watermarkstyle" title="enum class in com.here.sdk.mapview">WatermarkStyle</a> watermarkStyle,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously loads a map scene described by a specified file in one of the supported formats.</div>
 </div>
@@ -248,63 +248,63 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <div class="block">Removes all map polylines from this map scene.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapArrow(com.here.sdk.mapview.MapArrow)">removeMapArrow</a><wbr/>(<a href="sdk-for-android-explore-maparrow" title="class in com.here.sdk.mapview">MapArrow</a> mapArrow)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapArrow(com.here.sdk.mapview.MapArrow)">removeMapArrow</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-maparrow" title="class in com.here.sdk.mapview">MapArrow</a> mapArrow)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a map arrow from this map scene.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)">removeMapImageOverlay</a><wbr/>(<a href="sdk-for-android-explore-mapimageoverlay" title="class in com.here.sdk.mapview">MapImageOverlay</a> overlay)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)">removeMapImageOverlay</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay" title="class in com.here.sdk.mapview">MapImageOverlay</a> overlay)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a map image overlay from this map scene.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapMarker(com.here.sdk.mapview.MapMarker)">removeMapMarker</a><wbr/>(<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapMarker(com.here.sdk.mapview.MapMarker)">removeMapMarker</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a map marker from this map scene.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapMarker3d(com.here.sdk.mapview.MapMarker3D)">removeMapMarker3d</a><wbr/>(<a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a> marker)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapMarker3d(com.here.sdk.mapview.MapMarker3D)">removeMapMarker3d</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a> marker)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a 3D map marker from this map scene.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)">removeMapMarkerCluster</a><wbr/>(<a href="sdk-for-android-explore-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> cluster)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)">removeMapMarkerCluster</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> cluster)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a map marker cluster from the map.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapMarkers(java.util.List)">removeMapMarkers</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapMarkers(java.util.List)">removeMapMarkers</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes multiple map markers from this map scene.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapMarkers3d(java.util.List)">removeMapMarkers3d</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt; markers)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapMarkers3d(java.util.List)">removeMapMarkers3d</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt; markers)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes multiple 3D map markers from this map scene.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapPolygon(com.here.sdk.mapview.MapPolygon)">removeMapPolygon</a><wbr/>(<a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a> mapPolygon)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapPolygon(com.here.sdk.mapview.MapPolygon)">removeMapPolygon</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a> mapPolygon)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a map polygon from this map scene.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapPolygons(java.util.List)">removeMapPolygons</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt; mapPolygons)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapPolygons(java.util.List)">removeMapPolygons</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt; mapPolygons)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes multiple map polygon from this map scene.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapPolyline(com.here.sdk.mapview.MapPolyline)">removeMapPolyline</a><wbr/>(<a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a> mapPolyline)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapPolyline(com.here.sdk.mapview.MapPolyline)">removeMapPolyline</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a> mapPolyline)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a map polyline from this map scene.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapPolylines(java.util.List)">removeMapPolylines</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt; mapPolylines)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#removeMapPolylines(java.util.List)">removeMapPolylines</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt; mapPolylines)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes map polylines from this map scene.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)">setLayerVisibility</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> layerName,
- <a href="sdk-for-android-explore-visibilitystate" title="enum class in com.here.sdk.mapview">VisibilityState</a> visibility)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-visibilitystate" title="enum class in com.here.sdk.mapview">VisibilityState</a> visibility)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Immediately changes the visibility of a specified map layer.</div>
 </div>
@@ -329,9 +329,9 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)">
 <h3>loadScene</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadScene</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a> mapScheme,
  @Nullable
- <a href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously loads a map scene described by a specified map scheme.
  Any previous map scene config will be replaced. The loaded scene is cached and so any changes
  made to the scene files on disk might not get reflected on a successive call to this function.
@@ -356,7 +356,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadScene</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> configurationFile,
  @Nullable
- <a href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously loads a map scene described by a specified file in one of the supported formats.
  Any previous map scene config will be replaced.
  When loading the same file again, consider to call <code>reloadScene()</code> instead.
@@ -382,9 +382,9 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadScene</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> configurationFile,
  @NonNull
- <a href="sdk-for-android-explore-watermarkstyle" title="enum class in com.here.sdk.mapview">WatermarkStyle</a> watermarkStyle,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-watermarkstyle" title="enum class in com.here.sdk.mapview">WatermarkStyle</a> watermarkStyle,
  @Nullable
- <a href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously loads a map scene described by a specified file in one of the supported formats.
  The style of the HERE watermark matching the map scheme is specified. Any previous map scene
  config will be replaced.
@@ -401,7 +401,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <dd><code>configurationFile</code> - <p>Map scheme configuration file. It must contain the whole scene configuration.
      In case it contains references to other files, they have to be reachable under
      the paths specified in the main configuration file.</p></dd>
-<dd><code>watermarkStyle</code> - <p>The style for the HERE watermark, see <a href="sdk-for-android-explore-watermarkstyle" title="enum class in com.here.sdk.mapview"><code>WatermarkStyle</code></a>.</p></dd>
+<dd><code>watermarkStyle</code> - <p>The style for the HERE watermark, see <a href="sdk-for-android-explore-com-here-sdk-mapview-watermarkstyle" title="enum class in com.here.sdk.mapview"><code>WatermarkStyle</code></a>.</p></dd>
 <dd><code>callback</code> - <p>Optional callback that will receive the result of this operation.</p></dd>
 </dl>
 </section>
@@ -410,9 +410,9 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="loadScene(com.here.sdk.mapview.MapSceneLoadOptions,com.here.sdk.mapview.MapScene.LoadSceneCallback)">
 <h3>loadScene</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">loadScene</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapsceneloadoptions" title="class in com.here.sdk.mapview">MapSceneLoadOptions</a> options,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsceneloadoptions" title="class in com.here.sdk.mapview">MapSceneLoadOptions</a> options,
  @Nullable
- <a href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously loads a map scene using MapSceneLoadOptions.
  This is an unified API that supports loading from either a map scheme or configuration file,
  with optional feature and watermark configuration. It's more efficient to load the scene with
@@ -443,7 +443,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="addMapPolyline(com.here.sdk.mapview.MapPolyline)">
 <h3>addMapPolyline</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolyline</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a> mapPolyline)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a> mapPolyline)</span></div>
 <div class="block"><p>Adds a map polyline to this map scene.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -455,7 +455,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="addMapPolylines(java.util.List)">
 <h3>addMapPolylines</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolylines</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt; mapPolylines)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt; mapPolylines)</span></div>
 <div class="block"><p>Adds map polylines to this map scene.
  <strong>Note:</strong>
  Due to technical limitations using the MapPolyline API to add a very large number of
@@ -463,7 +463,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
  Adding this many polylines has a negative impact on the performance leading to
  stuttering of the app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>mapPolylines</code> - <p>The map polylines to be added to this map scene.</p></dd>
@@ -474,7 +474,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="removeMapPolyline(com.here.sdk.mapview.MapPolyline)">
 <h3>removeMapPolyline</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolyline</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a> mapPolyline)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a> mapPolyline)</span></div>
 <div class="block"><p>Removes a map polyline from this map scene.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -486,7 +486,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="removeMapPolylines(java.util.List)">
 <h3>removeMapPolylines</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolylines</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt; mapPolylines)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt; mapPolylines)</span></div>
 <div class="block"><p>Removes map polylines from this map scene.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -505,7 +505,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="addMapArrow(com.here.sdk.mapview.MapArrow)">
 <h3>addMapArrow</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapArrow</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-maparrow" title="class in com.here.sdk.mapview">MapArrow</a> mapArrow)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-maparrow" title="class in com.here.sdk.mapview">MapArrow</a> mapArrow)</span></div>
 <div class="block"><p>Adds a map arrow to this map scene.
  <strong>Note:</strong>
  Due to technical limitations using the MapArrow API to add a very large number of arrows
@@ -513,7 +513,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
  Adding this many arrows has a negative impact on the performance leading to stuttering of the
  app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>mapArrow</code> - <p>The map arrow to be added to this map scene.</p></dd>
@@ -524,7 +524,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="removeMapArrow(com.here.sdk.mapview.MapArrow)">
 <h3>removeMapArrow</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapArrow</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-maparrow" title="class in com.here.sdk.mapview">MapArrow</a> mapArrow)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-maparrow" title="class in com.here.sdk.mapview">MapArrow</a> mapArrow)</span></div>
 <div class="block"><p>Removes a map arrow from this map scene.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -536,7 +536,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="addMapMarker(com.here.sdk.mapview.MapMarker)">
 <h3>addMapMarker</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarker</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</span></div>
 <div class="block"><p>Adds a map marker to this map scene. Adding the same marker instance multiple times
  has no effect. Adding a marker that is already part of a map marker cluster has no effect.</p></div>
 <dl class="notes">
@@ -549,7 +549,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="addMapMarkers(java.util.List)">
 <h3>addMapMarkers</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</span></div>
 <div class="block"><p>Adds multiple map markers to this map scene. Adding the same marker instances multiple times
  has no effect. Adding markers that are already part of a map marker cluster has no effect.
  <strong>Note:</strong>
@@ -557,7 +557,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
  (several thousands, especially 10000+) is not recommended. Adding this many markers will have
  a negative impact on the performance leading to stuttering of the app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>markers</code> - <p>The list of markers to be added to this map scene.</p></dd>
@@ -568,7 +568,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="removeMapMarker(com.here.sdk.mapview.MapMarker)">
 <h3>removeMapMarker</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarker</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</span></div>
 <div class="block"><p>Removes a map marker from this map scene. Removing a marker instance that is not
  a part of this scene or belongs to a marker cluster has no effect.</p></div>
 <dl class="notes">
@@ -581,7 +581,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="removeMapMarkers(java.util.List)">
 <h3>removeMapMarkers</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</span></div>
 <div class="block"><p>Removes multiple map markers from this map scene. Removing marker instances that are not
  a part of this scene or belong to a marker cluster has no effect.</p></div>
 <dl class="notes">
@@ -601,7 +601,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="addMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)">
 <h3>addMapMarkerCluster</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkerCluster</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> cluster)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> cluster)</span></div>
 <div class="block"><p>Adds a map marker cluster to the map. Either the contained individual map markers or the
  cluster markers will be displayed. Adding the same map marker cluster instance multiple times
  has no effect.</p></div>
@@ -615,7 +615,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="removeMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)">
 <h3>removeMapMarkerCluster</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkerCluster</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> cluster)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a> cluster)</span></div>
 <div class="block"><p>Removes a map marker cluster from the map. Removing a map marker cluster that is not on this
  scene has no effect.</p></div>
 <dl class="notes">
@@ -628,7 +628,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="addMapMarker3d(com.here.sdk.mapview.MapMarker3D)">
 <h3>addMapMarker3d</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarker3d</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a> marker)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a> marker)</span></div>
 <div class="block"><p>Adds a 3D map marker to this map scene.
  Does nothing if the marker instance was already added to the scene.
  <strong>Note:</strong>
@@ -637,7 +637,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
  recommended. Adding this many 3D markers has a negative impact on the performance leading to
  stuttering of the app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>marker</code> - <p>The marker to be added to this map scene.</p></dd>
@@ -648,7 +648,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="addMapMarkers3d(java.util.List)">
 <h3>addMapMarkers3d</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers3d</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt; markers)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt; markers)</span></div>
 <div class="block"><p>Adds multiple 3D map markers to this map scene. Adding the same 3D marker instances multiple
  times has no effect.
  <strong>Note:</strong>
@@ -656,7 +656,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
  markers (especially 500+) is not recommended. Adding this many markers will have a
  negative impact on the performance leading to stuttering of the app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>markers</code> - <p>The list of 3D markers to be added to this map scene.</p></dd>
@@ -667,7 +667,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="removeMapMarker3d(com.here.sdk.mapview.MapMarker3D)">
 <h3>removeMapMarker3d</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarker3d</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a> marker)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a> marker)</span></div>
 <div class="block"><p>Removes a 3D map marker from this map scene. Removing a marker instance that is not on this
  scene has no effect.</p></div>
 <dl class="notes">
@@ -680,7 +680,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="removeMapMarkers3d(java.util.List)">
 <h3>removeMapMarkers3d</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers3d</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt; markers)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt; markers)</span></div>
 <div class="block"><p>Removes multiple 3D map markers from this map scene. Removing marker instances that are not
  a part of this scene has no effect.</p></div>
 <dl class="notes">
@@ -700,7 +700,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="addMapPolygon(com.here.sdk.mapview.MapPolygon)">
 <h3>addMapPolygon</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolygon</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a> mapPolygon)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a> mapPolygon)</span></div>
 <div class="block"><p>Adds a map polygon to this map scene.
  <strong>Note:</strong>
  Due to technical limitations using the MapPolygon API to add a very large number of polygons
@@ -708,7 +708,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
  Adding this many polygons has a negative impact on the performance leading to stuttering of
  the app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>mapPolygon</code> - <p>The map polygon to be added to this map scene.</p></dd>
@@ -719,7 +719,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="addMapPolygons(java.util.List)">
 <h3>addMapPolygons</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolygons</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt; mapPolygons)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt; mapPolygons)</span></div>
 <div class="block"><p>Adds multiple map polygons to this map scene.
  <strong>Note:</strong>
  Due to technical limitations using the MapPolygon API to add a very large number of polygons
@@ -727,7 +727,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
  Adding this many polygons has a negative impact on the performance leading to stuttering of
  the app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>mapPolygons</code> - <p>The map polygons to be added to this map scene.</p></dd>
@@ -738,7 +738,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="removeMapPolygon(com.here.sdk.mapview.MapPolygon)">
 <h3>removeMapPolygon</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolygon</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a> mapPolygon)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a> mapPolygon)</span></div>
 <div class="block"><p>Removes a map polygon from this map scene.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -750,7 +750,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="removeMapPolygons(java.util.List)">
 <h3>removeMapPolygons</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapPolygons</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt; mapPolygons)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt; mapPolygons)</span></div>
 <div class="block"><p>Removes multiple map polygon from this map scene.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -769,7 +769,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)">
 <h3>addMapImageOverlay</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapImageOverlay</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapimageoverlay" title="class in com.here.sdk.mapview">MapImageOverlay</a> overlay)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay" title="class in com.here.sdk.mapview">MapImageOverlay</a> overlay)</span></div>
 <div class="block"><p>Adds a map image overlay to this map scene.
  Adding the same overlay instance multiple times has no effect.</p></div>
 <dl class="notes">
@@ -782,7 +782,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)">
 <h3>removeMapImageOverlay</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapImageOverlay</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapimageoverlay" title="class in com.here.sdk.mapview">MapImageOverlay</a> overlay)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay" title="class in com.here.sdk.mapview">MapImageOverlay</a> overlay)</span></div>
 <div class="block"><p>Removes a map image overlay from this map scene.
  Removing an overlay instance that is not part of this scene has no effect.</p></div>
 <dl class="notes">
@@ -806,7 +806,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setLayerVisibility</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> layerName,
  @NonNull
- <a href="sdk-for-android-explore-visibilitystate" title="enum class in com.here.sdk.mapview">VisibilityState</a> visibility)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-visibilitystate" title="enum class in com.here.sdk.mapview">VisibilityState</a> visibility)</span></div>
 <div class="block"><p>Immediately changes the visibility of a specified map layer.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -858,12 +858,12 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
  Does not affect features that were not specified.
  Unsupported features are ignored.
  May cause the current map configuration to be reloaded.
- See <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for feature names and <a href="sdk-for-android-explore-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> for
+ See <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for feature names and <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> for
  feature mode names.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>features</code> - <p>The list of features to enable, key is the name of the feature
-     (see <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a>), value specifies its mode (see <a href="sdk-for-android-explore-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a>).</p></dd>
+     (see <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a>), value specifies its mode (see <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a>).</p></dd>
 </dl>
 </section>
 </li>
@@ -878,10 +878,10 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
  Does not affect features that were not specified.
  Unsupported features are ignored.
  May cause the current map configuration to be reloaded.
- See <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for feature names.</p></div>
+ See <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for feature names.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>features</code> - <p>The names of features to disable (see <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a>).</p></dd>
+<dd><code>features</code> - <p>The names of features to disable (see <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a>).</p></dd>
 </dl>
 </section>
 </li>
@@ -900,7 +900,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <section class="detail" id="getLights()">
 <h3>getLights</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapscenelights" title="class in com.here.sdk.mapview">MapSceneLights</a></span> <span class="element-name">getLights</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights" title="class in com.here.sdk.mapview">MapSceneLights</a></span> <span class="element-name">getLights</span>()</div>
 <div class="block"><p>Gets a MapSceneLights instance that controls lights present in the scene.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.

@@ -27,22 +27,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">JunctionViewLaneAssistance</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A class that provides lane assistance information for the next complex junction
- in order to keep following the route. It is recommended to indicate <a href="sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a>
- and <a href="sdk-for-android-navigate-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a> separately or to indicate only <a href="sdk-for-android-navigate-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a> information -
- <a href="sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> will recommend all lanes that allow to pass the upcoming complex junction, regardless
+ in order to keep following the route. It is recommended to indicate <a href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a>
+ and <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a> separately or to indicate only <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a> information -
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> will recommend all lanes that allow to pass the upcoming complex junction, regardless
  if they will lead to the next maneuver or not.
  If the location of a maneuver lies on an upcoming complex junction, the recommended lanes will be
- the same as the ones from <a href="sdk-for-android-navigate-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a>.
+ the same as the ones from <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a>.
  A junction is recognized as complex only if:
  <ul>
 <li>it is at least a bifurcation;</li>
 <li>it has at least two lanes whose directions do not follow the current route.
- In opposition to <a href="sdk-for-android-navigate-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a>, notifications are also forwarded when there is
+ In opposition to <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a>, notifications are also forwarded when there is
  no maneuver action occurring at the next complex junction.
- Therefore, <a href="sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> can be disjointed from maneuvers. If lane assistance should be used to
- associate it with upcoming maneuvers, consider to use <a href="sdk-for-android-navigate-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a> instead.
- Note that <a href="sdk-for-android-navigate-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a> notifications are synchronized with maneuver events,
- whereas <a href="sdk-for-android-navigate-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> events are not strictly synchronized with maneuver events.</li>
+ Therefore, <a href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> can be disjointed from maneuvers. If lane assistance should be used to
+ associate it with upcoming maneuvers, consider to use <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a> instead.
+ Note that <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a> notifications are synchronized with maneuver events,
+ whereas <a href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance" title="class in com.here.sdk.navigation"><code>JunctionViewLaneAssistance</code></a> events are not strictly synchronized with maneuver events.</li>
 </ul></p></div>
 </section>
 <section class="summary">
@@ -61,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
 <div class="col-last even-row-color">
 <div class="block">Distance to the next complex junction in meters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance#lanesForNextJunction">lanesForNextJunction</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A list of lanes on the next complex junction.</div>
@@ -77,7 +77,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance#%3Cinit%3E(java.util.List,double)">JunctionViewLaneAssistance</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextJunction,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistance#%3Cinit%3E(java.util.List,double)">JunctionViewLaneAssistance</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextJunction,
  double distanceToJunctionInMeters)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -123,7 +123,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
 <section class="detail" id="lanesForNextJunction">
 <h3>lanesForNextJunction</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</span> <span class="element-name">lanesForNextJunction</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt;</span> <span class="element-name">lanesForNextJunction</span></div>
 <div class="block"><p>A list of lanes on the next complex junction.
  The lanes are sorted from left to right: The lane at index 0 represents the leftmost lane and
  the last index represents the rightmost lane. This is valid for right-hand and left-hand driving
@@ -152,7 +152,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
 <section class="detail" id="&lt;init&gt;(java.util.List,double)">
 <h3>JunctionViewLaneAssistance</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">JunctionViewLaneAssistance</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextJunction,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-lane" title="class in com.here.sdk.navigation">Lane</a>&gt; lanesForNextJunction,
  double distanceToJunctionInMeters)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">

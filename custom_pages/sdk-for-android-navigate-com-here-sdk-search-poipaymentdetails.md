@@ -111,7 +111,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-poipaymentdetails"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</span> <span class="element-name">acceptedMethods</span></div>
 <div class="block"><p>Accepted payment methods.
- Currently supported methods are defined in <a href="sdk-for-android-navigate-poipaymentmethod" title="class in com.here.sdk.search"><code>POIPaymentMethod</code></a>.</p></div>
+ Currently supported methods are defined in <a href="sdk-for-android-navigate-com-here-sdk-search-poipaymentmethod" title="class in com.here.sdk.search"><code>POIPaymentMethod</code></a>.</p></div>
 </section>
 </li>
 <li>

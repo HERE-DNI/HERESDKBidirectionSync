@@ -47,7 +47,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-environmentalimpact"
 <div class="col-last even-row-color">
 <div class="block">Amount of waste in g/kWh for this category.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-environmentalimpactcategory" title="enum class in com.here.sdk.search">EnvironmentalImpactCategory</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-search-environmentalimpactcategory" title="enum class in com.here.sdk.search">EnvironmentalImpactCategory</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-environmentalimpact#category">category</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Environmental impact category.</div>
@@ -108,7 +108,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-environmentalimpact"
 <section class="detail" id="category">
 <h3>category</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-environmentalimpactcategory" title="enum class in com.here.sdk.search">EnvironmentalImpactCategory</a></span> <span class="element-name">category</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-environmentalimpactcategory" title="enum class in com.here.sdk.search">EnvironmentalImpactCategory</a></span> <span class="element-name">category</span></div>
 <div class="block"><p>Environmental impact category.</p></div>
 </section>
 </li>

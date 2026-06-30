@@ -49,7 +49,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-webrating"
 <div class="col-last odd-row-color">
 <div class="block">Total number of ratings.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-websource" title="class in com.here.sdk.search">WebSource</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-webrating#source">source</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Detailed information about rating.</div>
@@ -71,7 +71,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-webrating"
 </div>
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-webrating#%3Cinit%3E(int,double,com.here.sdk.search.WebSource)">WebRating</a><wbr/>(int count,
  double average,
- <a href="sdk-for-android-navigate-websource" title="class in com.here.sdk.search">WebSource</a> source)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a> source)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -130,7 +130,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-webrating"
 <section class="detail" id="source">
 <h3>source</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-websource" title="class in com.here.sdk.search">WebSource</a></span> <span class="element-name">source</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a></span> <span class="element-name">source</span></div>
 <div class="block"><p>Detailed information about rating.</p></div>
 </section>
 </li>
@@ -148,7 +148,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-webrating"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">WebRating</span><wbr/><span class="parameters">(int count,
  double average,
  @NonNull
- <a href="sdk-for-android-navigate-websource" title="class in com.here.sdk.search">WebSource</a> source)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a> source)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

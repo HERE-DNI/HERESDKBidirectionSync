@@ -20,16 +20,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapdata.SegmentReferenceConverter</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SegmentReferenceConverter</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A SegmentReferenceConverter provides possibility to convert mapmatched instances of
- <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> to corresponding instances of <a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata"><code>DirectedOCMSegmentId</code></a>.
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> to corresponding instances of <a href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid" title="class in com.here.sdk.mapdata"><code>DirectedOCMSegmentId</code></a>.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -43,7 +43,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">SegmentReferenceConverter</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">SegmentReferenceConverter</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
@@ -61,10 +61,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata">DirectedOCMSegmentId</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter#getOCMSegmentId(com.here.sdk.routing.SegmentReference)">getOCMSegmentId</a><wbr/>(<a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segmentReference)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid" title="class in com.here.sdk.mapdata">DirectedOCMSegmentId</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter#getOCMSegmentId(com.here.sdk.routing.SegmentReference)">getOCMSegmentId</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segmentReference)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">The <a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata"><code>DirectedOCMSegmentId</code></a> for provided <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a>.</div>
+<div class="block">The <a href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid" title="class in com.here.sdk.mapdata"><code>DirectedOCMSegmentId</code></a> for provided <a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a>.</div>
 </div>
 </div>
 </div>
@@ -87,14 +87,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine)">
 <h3>SegmentReferenceConverter</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SegmentReferenceConverter</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
-                          throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
+                          throws <span class="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>sdkEngine</code> - <p>A SDKEngine instance.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -110,14 +110,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter"
 <section class="detail" id="getOCMSegmentId(com.here.sdk.routing.SegmentReference)">
 <h3>getOCMSegmentId</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata">DirectedOCMSegmentId</a></span> <span class="element-name">getOCMSegmentId</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segmentReference)</span></div>
-<div class="block"><p>The <a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata"><code>DirectedOCMSegmentId</code></a> for provided <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a>.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid" title="class in com.here.sdk.mapdata">DirectedOCMSegmentId</a></span> <span class="element-name">getOCMSegmentId</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segmentReference)</span></div>
+<div class="block"><p>The <a href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid" title="class in com.here.sdk.mapdata"><code>DirectedOCMSegmentId</code></a> for provided <a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>segmentReference</code> - <p><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> to convert.</p></dd>
+<dd><code>segmentReference</code> - <p><a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> to convert.</p></dd>
 <dt>Returns:</dt>
-<dd><p><a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata"><code>DirectedOCMSegmentId</code></a> corresponding to provided <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a>.</p></dd>
+<dd><p><a href="sdk-for-android-navigate-com-here-sdk-mapdata-directedocmsegmentid" title="class in com.here.sdk.mapdata"><code>DirectedOCMSegmentId</code></a> corresponding to provided <a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a>.</p></dd>
 </dl>
 </section>
 </li>

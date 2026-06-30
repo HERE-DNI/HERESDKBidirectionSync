@@ -46,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-schoolzonewarning"
 <div class="col-last even-row-color">
 <div class="block">The distance from the current location to the school zone in meters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-schoolzonewarning#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The distance type for the warning, e.g.</div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-schoolzonewarning"
 <div class="col-last odd-row-color">
 <div class="block">Speed limit meters/second, which applies to current school zone.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-schoolzonewarning#timeRule">timeRule</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Time rule indicating the time periods for which the warning applies.</div>
@@ -79,7 +79,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-schoolzonewarning"
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-schoolzonewarning#%3Cinit%3E(double,double,com.here.sdk.navigation.DistanceType)">SchoolZoneWarning</a><wbr/>(double distanceToSchoolZoneInMeters,
  double speedLimitInMetersPerSecond,
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -147,7 +147,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-schoolzonewarning"
 <section class="detail" id="distanceType">
 <h3>distanceType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>The distance type for the warning, e.g. a warning for a new school zone ahead or a warning
  for passing a school zone.</p></div>
 </section>
@@ -156,7 +156,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-schoolzonewarning"
 <section class="detail" id="timeRule">
 <h3>timeRule</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a></span> <span class="element-name">timeRule</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a></span> <span class="element-name">timeRule</span></div>
 <div class="block"><p>Time rule indicating the time periods for which the warning applies.
  If the field is 'null' then the warning is applicable at anytime.</p></div>
 </section>
@@ -175,7 +175,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-schoolzonewarning"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SchoolZoneWarning</span><wbr/><span class="parameters">(double distanceToSchoolZoneInMeters,
  double speedLimitInMetersPerSecond,
  @NonNull
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

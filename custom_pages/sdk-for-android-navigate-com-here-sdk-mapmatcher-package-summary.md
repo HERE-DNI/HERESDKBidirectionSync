@@ -45,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-package-summary"
 <div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-matchedlocationlistener" title="interface in com.here.sdk.mapmatcher">MatchedLocationListener</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">This interface should be implemented to receive notifications
- about the current location from <a href="sdk-for-android-navigate-mapmatchedlocation" title="class in com.here.sdk.navigation"><code>MapMatchedLocation</code></a>.</div>
+ about the current location from <a href="sdk-for-android-navigate-com-here-sdk-navigation-mapmatchedlocation" title="class in com.here.sdk.navigation"><code>MapMatchedLocation</code></a>.</div>
 </div>
 </div>
 </div>

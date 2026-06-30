@@ -39,17 +39,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-textusageoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-textusageoptions#roadNumber">roadNumber</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An option whether road number should be used when generating notification.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-textusageoptions#signpostDirection">signpostDirection</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An option whether signpost direction should be used when generating notification.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-textusageoptions#streetName">streetName</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An option whether street name should be used when generating notification.</div>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-textusageoptions"
 <section class="detail" id="streetName">
 <h3>streetName</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">streetName</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">streetName</span></div>
 <div class="block"><p>An option whether street name should be used when generating notification.
  Defaults to <a href="sdk-for-android-navigate-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
 </section>
@@ -119,7 +119,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-textusageoptions"
 <section class="detail" id="roadNumber">
 <h3>roadNumber</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">roadNumber</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">roadNumber</span></div>
 <div class="block"><p>An option whether road number should be used when generating notification.
  Defaults to <a href="sdk-for-android-navigate-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
 </section>
@@ -128,7 +128,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-textusageoptions"
 <section class="detail" id="signpostDirection">
 <h3>signpostDirection</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">signpostDirection</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></span> <span class="element-name">signpostDirection</span></div>
 <div class="block"><p>An option whether signpost direction should be used when generating notification.
  Defaults to <a href="sdk-for-android-navigate-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
 </section>

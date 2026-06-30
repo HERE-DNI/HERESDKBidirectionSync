@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <div class="block"><p>A border crossing. The main field describing the border crossing is <a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#type"><code>type</code></a> specifying whether the border crossing
  is given for a country border or a state border. The <a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#type"><code>type</code></a> must be known.
  The country and state codes are contained in <a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#administrativeRules"><code>administrativeRules</code></a> along with other information such as speed
- limits, u-turn regulations or pre-trip planning information contained by the <a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata"><code>AdministrativeRules</code></a>.
+ limits, u-turn regulations or pre-trip planning information contained by the <a href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules" title="class in com.here.sdk.mapdata"><code>AdministrativeRules</code></a>.
  Use <code>BorderCrossingWarningListener</code> to get notifications about upcoming country or state border crossings.</p></div>
 </section>
 <section class="summary">
@@ -43,12 +43,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#administrativeRules">administrativeRules</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The administrative rules for the country or state after the border crossing.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-administrativecommercialvehiclerules" title="class in com.here.sdk.mapdata">AdministrativeCommercialVehicleRules</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialvehiclerules" title="class in com.here.sdk.mapdata">AdministrativeCommercialVehicleRules</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#commercialVehicleRegulations">commercialVehicleRegulations</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Commercial vehicle regulations for the administrative region after the border crossing.</div>
@@ -58,7 +58,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <div class="col-last even-row-color">
 <div class="block">Distance to the border crossing in meters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The distance type for the warning, e.g.</div>
@@ -68,7 +68,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <div class="col-last even-row-color">
 <div class="block">Unique identifier for this specific border crossing warning instance.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-bordercrossingtype" title="enum class in com.here.sdk.navigation">BorderCrossingType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingtype" title="enum class in com.here.sdk.navigation">BorderCrossingType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of border crossing.</div>
@@ -85,9 +85,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#%3Cinit%3E(double,com.here.sdk.navigation.BorderCrossingType,com.here.sdk.mapdata.AdministrativeRules,com.here.sdk.navigation.DistanceType)">BorderCrossingWarning</a><wbr/>(double distanceToBorderCrossingInMeters,
- <a href="sdk-for-android-navigate-bordercrossingtype" title="enum class in com.here.sdk.navigation">BorderCrossingType</a> type,
- <a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a> administrativeRules,
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingtype" title="enum class in com.here.sdk.navigation">BorderCrossingType</a> type,
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a> administrativeRules,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -148,7 +148,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-bordercrossingtype" title="enum class in com.here.sdk.navigation">BorderCrossingType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingtype" title="enum class in com.here.sdk.navigation">BorderCrossingType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>Type of border crossing.</p></div>
 </section>
 </li>
@@ -156,7 +156,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <section class="detail" id="administrativeRules">
 <h3>administrativeRules</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a></span> <span class="element-name">administrativeRules</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a></span> <span class="element-name">administrativeRules</span></div>
 <div class="block"><p>The administrative rules for the country or state after the border crossing. It contains information regarding
  rules such as driving side, speed limits, various sticker requirements, toll costs and others.</p></div>
 </section>
@@ -165,7 +165,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <section class="detail" id="distanceType">
 <h3>distanceType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>The distance type for the warning, e.g. a warning for a new border crossing ahead or a warning for
  passing a border crossing. Since the border crossing warning is given relative to a single position on
  the route, <a href="sdk-for-android-navigate-distancetype#REACHED"><code>DistanceType.REACHED</code></a> will never be given for this warning.</p></div>
@@ -175,7 +175,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <section class="detail" id="commercialVehicleRegulations">
 <h3>commercialVehicleRegulations</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-administrativecommercialvehiclerules" title="class in com.here.sdk.mapdata">AdministrativeCommercialVehicleRules</a></span> <span class="element-name">commercialVehicleRegulations</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialvehiclerules" title="class in com.here.sdk.mapdata">AdministrativeCommercialVehicleRules</a></span> <span class="element-name">commercialVehicleRegulations</span></div>
 <div class="block"><p>Commercial vehicle regulations for the administrative region after the border crossing.
  Contains access restrictions, speed limits, and drive/rest rules applicable to commercial vehicles.
  This field is only populated when crossing into a region with specific commercial vehicle regulations.</p></div>
@@ -194,11 +194,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
 <h3>BorderCrossingWarning</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">BorderCrossingWarning</span><wbr/><span class="parameters">(double distanceToBorderCrossingInMeters,
  @NonNull
- <a href="sdk-for-android-navigate-bordercrossingtype" title="enum class in com.here.sdk.navigation">BorderCrossingType</a> type,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingtype" title="enum class in com.here.sdk.navigation">BorderCrossingType</a> type,
  @NonNull
- <a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a> administrativeRules,
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a> administrativeRules,
  @NonNull
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

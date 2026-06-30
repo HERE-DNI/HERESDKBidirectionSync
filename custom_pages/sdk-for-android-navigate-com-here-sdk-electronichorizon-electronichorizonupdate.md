@@ -26,7 +26,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">ElectronicHorizonUpdate</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>A class representing a full update delivered via <a href="sdk-for-android-navigate-electronichorizonlistener" title="interface in com.here.sdk.electronichorizon"><code>ElectronicHorizonListener</code></a> notifications.
+<div class="block"><p>A class representing a full update delivered via <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonlistener" title="interface in com.here.sdk.electronichorizon"><code>ElectronicHorizonListener</code></a> notifications.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -41,17 +41,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-electronichorizon" title="class in com.here.sdk.electronichorizon">ElectronicHorizon</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon" title="class in com.here.sdk.electronichorizon">ElectronicHorizon</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate#electronicHorizon">electronicHorizon</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The full electronic horizon recomputed for the current vehicle state.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-electronichorizonposition" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPosition</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonposition" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPosition</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate#position">position</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The vehicle’s updated position relative to the electronic horizon.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-electronichorizonsegmentchanges" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentChanges</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonsegmentchanges" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentChanges</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate#segmentChanges">segmentChanges</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The difference between the previously emitted horizon and the newly computed one.</div>
@@ -67,7 +67,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate#%3Cinit%3E(com.here.sdk.electronichorizon.ElectronicHorizonPosition)">ElectronicHorizonUpdate</a><wbr/>(<a href="sdk-for-android-navigate-electronichorizonposition" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPosition</a> position)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonupdate#%3Cinit%3E(com.here.sdk.electronichorizon.ElectronicHorizonPosition)">ElectronicHorizonUpdate</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonposition" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPosition</a> position)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -112,7 +112,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <section class="detail" id="electronicHorizon">
 <h3>electronicHorizon</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-electronichorizon" title="class in com.here.sdk.electronichorizon">ElectronicHorizon</a></span> <span class="element-name">electronicHorizon</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon" title="class in com.here.sdk.electronichorizon">ElectronicHorizon</a></span> <span class="element-name">electronicHorizon</span></div>
 <div class="block"><p>The full electronic horizon recomputed for the current vehicle state.
  May be <code>null</code> if there is no update.
  Contains the complete set of preferred paths.</p></div>
@@ -122,7 +122,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <section class="detail" id="segmentChanges">
 <h3>segmentChanges</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-electronichorizonsegmentchanges" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentChanges</a></span> <span class="element-name">segmentChanges</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonsegmentchanges" title="class in com.here.sdk.electronichorizon">ElectronicHorizonSegmentChanges</a></span> <span class="element-name">segmentChanges</span></div>
 <div class="block"><p>The difference between the previously emitted horizon and the newly computed one.
  Contains added and removed segments.
  May be <code>null</code> if there is no update.</p></div>
@@ -132,7 +132,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <section class="detail" id="position">
 <h3>position</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-electronichorizonposition" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPosition</a></span> <span class="element-name">position</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonposition" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPosition</a></span> <span class="element-name">position</span></div>
 <div class="block"><p>The vehicle’s updated position relative to the electronic horizon.
  Always present. If no <code>electronic_horizon</code> is available, the position
  refers to the most recently known horizon.</p></div>
@@ -150,7 +150,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <section class="detail" id="&lt;init&gt;(com.here.sdk.electronichorizon.ElectronicHorizonPosition)">
 <h3>ElectronicHorizonUpdate</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ElectronicHorizonUpdate</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-electronichorizonposition" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPosition</a> position)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizonposition" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPosition</a> position)</span></div>
 <div class="block"><p>Creates a new instance.
  Offline availability: This property is available online and offline.</p></div>
 <dl class="notes">

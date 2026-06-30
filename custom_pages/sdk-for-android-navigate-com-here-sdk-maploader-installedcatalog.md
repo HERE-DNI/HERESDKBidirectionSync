@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedcatalog"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-catalogidentifier" title="class in com.here.sdk.core.engine">CatalogIdentifier</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine">CatalogIdentifier</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-installedcatalog#catalogIdentifier">catalogIdentifier</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Provides information regarding catalog hrn and current version.</div>
@@ -101,7 +101,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedcatalog"
 <section class="detail" id="catalogIdentifier">
 <h3>catalogIdentifier</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-catalogidentifier" title="class in com.here.sdk.core.engine">CatalogIdentifier</a></span> <span class="element-name">catalogIdentifier</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine">CatalogIdentifier</a></span> <span class="element-name">catalogIdentifier</span></div>
 <div class="block"><p>Provides information regarding catalog hrn and current version.</p></div>
 </section>
 </li>
@@ -122,8 +122,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-installedcatalog"
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>hrn</code> - <p>A HERE Resource Name (HRN) for this catalog. See <a href="sdk-for-android-navigate-catalogidentifier" title="class in com.here.sdk.core.engine"><code>CatalogIdentifier</code></a> for more info.</p></dd>
-<dd><code>version</code> - <p>A version number for a catalog. See <a href="sdk-for-android-navigate-catalogidentifier" title="class in com.here.sdk.core.engine"><code>CatalogIdentifier</code></a> for more info.</p></dd>
+<dd><code>hrn</code> - <p>A HERE Resource Name (HRN) for this catalog. See <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine"><code>CatalogIdentifier</code></a> for more info.</p></dd>
+<dd><code>version</code> - <p>A version number for a catalog. See <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine"><code>CatalogIdentifier</code></a> for more info.</p></dd>
 </dl>
 </section>
 </li>

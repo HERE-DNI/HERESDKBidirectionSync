@@ -22,7 +22,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapview-takescreenshotcallb
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-mapview" title="class in com.here.sdk.mapview">MapView</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview" title="class in com.here.sdk.mapview">MapView</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>

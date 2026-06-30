@@ -41,22 +41,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition#appliesDuring">appliesDuring</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Time rules during which this restriction is active.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-roadprofilecondition" title="class in com.here.sdk.mapdata">RoadProfileCondition</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition" title="class in com.here.sdk.mapdata">RoadProfileCondition</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition#requiredRoadProfile">requiredRoadProfile</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Road profile conditions that activate this restriction.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-vehicleprofilerestriction" title="class in com.here.sdk.mapdata">VehicleProfileRestriction</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction" title="class in com.here.sdk.mapdata">VehicleProfileRestriction</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition#requiredVehicleProfile">requiredVehicleProfile</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Vehicle profile that is subject to this restriction.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-weathertype" title="enum class in com.here.sdk.navigation">WeatherType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-weathertype" title="enum class in com.here.sdk.navigation">WeatherType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition#requiredWeatherCondition">requiredWeatherCondition</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Weather condition that must be present for this restriction to apply.</div>
@@ -117,7 +117,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition
 <section class="detail" id="requiredRoadProfile">
 <h3>requiredRoadProfile</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-roadprofilecondition" title="class in com.here.sdk.mapdata">RoadProfileCondition</a></span> <span class="element-name">requiredRoadProfile</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-roadprofilecondition" title="class in com.here.sdk.mapdata">RoadProfileCondition</a></span> <span class="element-name">requiredRoadProfile</span></div>
 <div class="block"><p>Road profile conditions that activate this restriction.</p></div>
 </section>
 </li>
@@ -125,7 +125,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition
 <section class="detail" id="requiredWeatherCondition">
 <h3>requiredWeatherCondition</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-weathertype" title="enum class in com.here.sdk.navigation">WeatherType</a></span> <span class="element-name">requiredWeatherCondition</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-weathertype" title="enum class in com.here.sdk.navigation">WeatherType</a></span> <span class="element-name">requiredWeatherCondition</span></div>
 <div class="block"><p>Weather condition that must be present for this restriction to apply.</p></div>
 </section>
 </li>
@@ -133,7 +133,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition
 <section class="detail" id="appliesDuring">
 <h3>appliesDuring</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt;</span> <span class="element-name">appliesDuring</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a>&gt;</span> <span class="element-name">appliesDuring</span></div>
 <div class="block"><p>Time rules during which this restriction is active.</p></div>
 </section>
 </li>
@@ -141,7 +141,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-vehiclerestrictioncondition
 <section class="detail" id="requiredVehicleProfile">
 <h3>requiredVehicleProfile</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-vehicleprofilerestriction" title="class in com.here.sdk.mapdata">VehicleProfileRestriction</a>&gt;</span> <span class="element-name">requiredVehicleProfile</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-mapdata-vehicleprofilerestriction" title="class in com.here.sdk.mapdata">VehicleProfileRestriction</a>&gt;</span> <span class="element-name">requiredVehicleProfile</span></div>
 <div class="block"><p>Vehicle profile that is subject to this restriction.</p></div>
 </section>
 </li>

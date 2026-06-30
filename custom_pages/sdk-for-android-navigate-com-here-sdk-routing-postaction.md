@@ -39,17 +39,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-postaction"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-postactiontype" title="enum class in com.here.sdk.routing">PostActionType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-postactiontype" title="enum class in com.here.sdk.routing">PostActionType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-postaction#action">action</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of this action.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-chargingactiondetails" title="class in com.here.sdk.routing">ChargingActionDetails</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-chargingactiondetails" title="class in com.here.sdk.routing">ChargingActionDetails</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-postaction#chargingDetails">chargingDetails</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The additional information that is available if the action is of type charging.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-postaction#duration">duration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Estimated duration of this action.</div>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-postaction"
 <section class="detail" id="action">
 <h3>action</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-postactiontype" title="enum class in com.here.sdk.routing">PostActionType</a></span> <span class="element-name">action</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-postactiontype" title="enum class in com.here.sdk.routing">PostActionType</a></span> <span class="element-name">action</span></div>
 <div class="block"><p>Type of this action.
  Defaults to <a href="sdk-for-android-navigate-postactiontype#CHARGING_SETUP"><code>PostActionType.CHARGING_SETUP</code></a>.</p></div>
 </section>
@@ -119,7 +119,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-postaction"
 <section class="detail" id="duration">
 <h3>duration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
 <div class="block"><p>Estimated duration of this action.
  Defaults to 0 seconds.</p></div>
 </section>
@@ -128,7 +128,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-postaction"
 <section class="detail" id="chargingDetails">
 <h3>chargingDetails</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-chargingactiondetails" title="class in com.here.sdk.routing">ChargingActionDetails</a></span> <span class="element-name">chargingDetails</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-chargingactiondetails" title="class in com.here.sdk.routing">ChargingActionDetails</a></span> <span class="element-name">chargingDetails</span></div>
 <div class="block"><p>The additional information that is available if the action is of type charging.</p></div>
 </section>
 </li>

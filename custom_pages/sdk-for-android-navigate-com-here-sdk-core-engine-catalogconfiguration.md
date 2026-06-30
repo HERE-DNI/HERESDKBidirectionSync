@@ -26,12 +26,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration"
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">CatalogConfiguration</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Using this class you can configure in the <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>,
- how the <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> should access, use and store the data for the desired catalog.
+<div class="block"><p>Using this class you can configure in the <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>,
+ how the <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> should access, use and store the data for the desired catalog.
  Using this class, you can access default catalogs on the HERE platform and also custom catalogs
  such as for self-hosted or BYOD (bring your own data) use cases.
- For information on how the user can identify a catalog on the HERE platform, see <a href="sdk-for-android-navigate-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a>
- For further information about catalogs and related concepts see <a href="sdk-for-android-navigate-catalogidentifier" title="class in com.here.sdk.core.engine"><code>CatalogIdentifier</code></a>.
+ For information on how the user can identify a catalog on the HERE platform, see <a href="sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a>
+ For further information about catalogs and related concepts see <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogidentifier" title="class in com.here.sdk.core.engine"><code>CatalogIdentifier</code></a>.
  <strong>Note:</strong>
  This API is only applicable for the Navigate license.</p></div>
 </section>
@@ -51,13 +51,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration"
 <div class="col-last even-row-color">
 <div class="block">A flag to indicate if the data for this catalog is allowed to be stored in persistent storage for use with offline maps.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration#cacheExpirationPeriod">cacheExpirationPeriod</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Expiration time in seconds for how long the catalog data is retained in the
  map cache before it is removed.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration#catalog">catalog</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The identifier for the desired catalog to be accessed on the HERE platform.</div>
@@ -79,7 +79,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration#%3Cinit%3E(com.here.sdk.core.engine.DesiredCatalog)">CatalogConfiguration</a><wbr/>(<a href="sdk-for-android-navigate-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a> catalog)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration#%3Cinit%3E(com.here.sdk.core.engine.DesiredCatalog)">CatalogConfiguration</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a> catalog)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -100,8 +100,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration"
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration#getDefault(com.here.sdk.core.engine.CatalogType)">getDefault</a><wbr/>(<a href="sdk-for-android-navigate-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a> catalogType)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration#getDefault(com.here.sdk.core.engine.CatalogType)">getDefault</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a> catalogType)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Gets the default catalog configuration for the specified catalog type.</div>
 </div>
@@ -129,9 +129,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration"
 <section class="detail" id="catalog">
 <h3>catalog</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a></span> <span class="element-name">catalog</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a></span> <span class="element-name">catalog</span></div>
 <div class="block"><p>The identifier for the desired catalog to be accessed on the HERE platform.
- See <a href="sdk-for-android-navigate-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a>.</p></div>
+ See <a href="sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -151,7 +151,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration"
 <section class="detail" id="cacheExpirationPeriod">
 <h3>cacheExpirationPeriod</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">cacheExpirationPeriod</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">cacheExpirationPeriod</span></div>
 <div class="block"><p>Expiration time in seconds for how long the catalog data is retained in the
  map cache before it is removed. Cache path is specified by <a href="sdk-for-android-navigate-sdkoptions#cachePath"><code>SDKOptions.cachePath</code></a>.
  If not set, the cache will be deleted on a Least Recently Used (LRU) basis.</p></div>
@@ -179,12 +179,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.DesiredCatalog)">
 <h3>CatalogConfiguration</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">CatalogConfiguration</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a> catalog)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine">DesiredCatalog</a> catalog)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>catalog</code> - <p>The identifier for the desired catalog to be accessed on the HERE platform.
- See <a href="sdk-for-android-navigate-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a>.</p></dd>
+ See <a href="sdk-for-android-navigate-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -220,15 +220,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration"
 <section class="detail" id="getDefault(com.here.sdk.core.engine.CatalogType)">
 <h3>getDefault</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a></span> <span class="element-name">getDefault</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a> catalogType)</span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a></span> <span class="element-name">getDefault</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a> catalogType)</span></div>
 <div class="block"><p>Gets the default catalog configuration for the specified catalog type.
  It uses the catalog version that was the latest at the time when the HERE SDK was built.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>catalogType</code> - <p>Catalog type</p></dd>
 <dt>Returns:</dt>
-<dd><p>Instance of <a href="sdk-for-android-navigate-catalogconfiguration" title="class in com.here.sdk.core.engine"><code>CatalogConfiguration</code></a>.</p></dd>
+<dd><p>Instance of <a href="sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration" title="class in com.here.sdk.core.engine"><code>CatalogConfiguration</code></a>.</p></dd>
 </dl>
 </section>
 </li>

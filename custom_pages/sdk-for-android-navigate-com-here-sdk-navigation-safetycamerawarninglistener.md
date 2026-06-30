@@ -47,7 +47,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarningliste
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarninglistener#onSafetyCameraWarningUpdated(com.here.sdk.navigation.SafetyCameraWarning)">onSafetyCameraWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-safetycamerawarning" title="class in com.here.sdk.navigation">SafetyCameraWarning</a> safetyCameraWarning)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarninglistener#onSafetyCameraWarningUpdated(com.here.sdk.navigation.SafetyCameraWarning)">onSafetyCameraWarningUpdated</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarning" title="class in com.here.sdk.navigation">SafetyCameraWarning</a> safetyCameraWarning)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called whenever a new <code>SafetyCameraWarning</code> is available.</div>
 </div>
@@ -69,7 +69,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarningliste
 <section class="detail" id="onSafetyCameraWarningUpdated(com.here.sdk.navigation.SafetyCameraWarning)">
 <h3>onSafetyCameraWarningUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSafetyCameraWarningUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-safetycamerawarning" title="class in com.here.sdk.navigation">SafetyCameraWarning</a> safetyCameraWarning)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarning" title="class in com.here.sdk.navigation">SafetyCameraWarning</a> safetyCameraWarning)</span></div>
 <div class="block"><p>Called whenever a new <code>SafetyCameraWarning</code> is available.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

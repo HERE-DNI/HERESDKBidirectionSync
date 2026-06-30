@@ -44,9 +44,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarningprovider"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Returns the custom warning type identifier produced by this provider.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-customwarning" title="class in com.here.sdk.warner">CustomWarning</a>&gt;</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-customwarningprovider#getWarnings(com.here.sdk.mapdata.SegmentData,com.here.sdk.mapdata.SegmentData)">getWarnings</a><wbr/>(<a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> currentSegment,
- <a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> previousSegment)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-warner-customwarning" title="class in com.here.sdk.warner">CustomWarning</a>&gt;</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-customwarningprovider#getWarnings(com.here.sdk.mapdata.SegmentData,com.here.sdk.mapdata.SegmentData)">getWarnings</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> currentSegment,
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> previousSegment)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Returns a list of custom warnings for the given vehicle position.</div>
 </div>
@@ -82,10 +82,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarningprovider"
 <section class="detail" id="getWarnings(com.here.sdk.mapdata.SegmentData,com.here.sdk.mapdata.SegmentData)">
 <h3>getWarnings</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-customwarning" title="class in com.here.sdk.warner">CustomWarning</a>&gt;</span> <span class="element-name">getWarnings</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> currentSegment,
+</span><span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-warner-customwarning" title="class in com.here.sdk.warner">CustomWarning</a>&gt;</span> <span class="element-name">getWarnings</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> currentSegment,
  @Nullable
- <a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> previousSegment)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> previousSegment)</span></div>
 <div class="block"><p>Returns a list of custom warnings for the given vehicle position.
  This method evaluates the custom warning provider using the current
  vehicle position on the electronic horizon and returns the resulting

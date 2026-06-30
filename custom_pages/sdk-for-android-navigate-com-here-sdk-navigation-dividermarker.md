@@ -20,18 +20,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-dividermarker"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a>&gt;
 <div class="inheritance">com.here.sdk.navigation.DividerMarker</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">DividerMarker</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a>&gt;</span></div>
 <div class="block"><p>Indicates the divider between the lanes.</p></div>
 </section>
 <section class="summary">
@@ -123,12 +123,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-dividermarker"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -157,98 +157,98 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="LONG_DASHED_LINE">
 <h3>LONG_DASHED_LINE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">LONG_DASHED_LINE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">LONG_DASHED_LINE</span></div>
 <div class="block"><p>The lanes are divided by a long dashed line.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DOUBLE_SOLID_LINE">
 <h3>DOUBLE_SOLID_LINE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">DOUBLE_SOLID_LINE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">DOUBLE_SOLID_LINE</span></div>
 <div class="block"><p>The lanes are divided by a double solid line.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SINGLE_SOLID_LINE">
 <h3>SINGLE_SOLID_LINE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">SINGLE_SOLID_LINE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">SINGLE_SOLID_LINE</span></div>
 <div class="block"><p>The lanes are divided by a single solid line.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INNER_SOLID_OUTER_DASHED">
 <h3>INNER_SOLID_OUTER_DASHED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">INNER_SOLID_OUTER_DASHED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">INNER_SOLID_OUTER_DASHED</span></div>
 <div class="block"><p>The lanes are divided by a single solid line next to a dashed line.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INNER_DASHED_OUTER_SOLID">
 <h3>INNER_DASHED_OUTER_SOLID</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">INNER_DASHED_OUTER_SOLID</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">INNER_DASHED_OUTER_SOLID</span></div>
 <div class="block"><p>The lanes are divided by a single dashed line next to a solid line.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SHORT_DASHED">
 <h3>SHORT_DASHED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">SHORT_DASHED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">SHORT_DASHED</span></div>
 <div class="block"><p>The lanes are divided by a short dashed line.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SHADED_AREA_MARKING">
 <h3>SHADED_AREA_MARKING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">SHADED_AREA_MARKING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">SHADED_AREA_MARKING</span></div>
 <div class="block"><p>The lanes are divided by an area marking.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DASHED_BLOCKS">
 <h3>DASHED_BLOCKS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">DASHED_BLOCKS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">DASHED_BLOCKS</span></div>
 <div class="block"><p>The lanes are divided by dashed blocks.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PHYSICAL_DIVIDER_SMALL">
 <h3>PHYSICAL_DIVIDER_SMALL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">PHYSICAL_DIVIDER_SMALL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">PHYSICAL_DIVIDER_SMALL</span></div>
 <div class="block"><p>The lanes are divided by a small physical divider.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DOUBLE_DASHED">
 <h3>DOUBLE_DASHED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">DOUBLE_DASHED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">DOUBLE_DASHED</span></div>
 <div class="block"><p>The lanes are divided by a double dashed line.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NO_DIVIDER">
 <h3>NO_DIVIDER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">NO_DIVIDER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">NO_DIVIDER</span></div>
 <div class="block"><p>No divider between the lanes.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CROSSING_ALERT">
 <h3>CROSSING_ALERT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">CROSSING_ALERT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">CROSSING_ALERT</span></div>
 <div class="block"><p>The lanes contain a crossing alert.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CENTER_TURN_LANE">
 <h3>CENTER_TURN_LANE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">CENTER_TURN_LANE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">CENTER_TURN_LANE</span></div>
 <div class="block"><p>The lanes have a center turn lane.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NO_MARKER">
 <h3>NO_MARKER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">NO_MARKER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">NO_MARKER</span></div>
 <div class="block"><p>The lanes have no markings.</p></div>
 </section>
 </li>
@@ -263,7 +263,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -275,7 +275,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-dividermarker" title="enum class in com.here.sdk.navigation">DividerMarker</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

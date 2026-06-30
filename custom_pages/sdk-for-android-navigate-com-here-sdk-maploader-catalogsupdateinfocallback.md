@@ -46,8 +46,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogsupdateinfocallbac
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-catalogsupdateinfocallback#apply(com.here.sdk.maploader.MapLoaderError,java.util.List)">apply</a><wbr/>(<a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-catalogupdateinfo" title="class in com.here.sdk.maploader">CatalogUpdateInfo</a>&gt; catalogs)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-catalogsupdateinfocallback#apply(com.here.sdk.maploader.MapLoaderError,java.util.List)">apply</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateinfo" title="class in com.here.sdk.maploader">CatalogUpdateInfo</a>&gt; catalogs)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">This method will be called on the main thread when <a href="sdk-for-android-navigate-mapupdater#retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)"><code>MapUpdater.retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)</code></a> has been completed.</div>
 </div>
@@ -69,9 +69,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-catalogsupdateinfocallbac
 <section class="detail" id="apply(com.here.sdk.maploader.MapLoaderError,java.util.List)">
 <h3>apply</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">apply</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader">MapLoaderError</a> error,
  @Nullable
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-catalogupdateinfo" title="class in com.here.sdk.maploader">CatalogUpdateInfo</a>&gt; catalogs)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateinfo" title="class in com.here.sdk.maploader">CatalogUpdateInfo</a>&gt; catalogs)</span></div>
 <div class="block"><p>This method will be called on the main thread when <a href="sdk-for-android-navigate-mapupdater#retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)"><code>MapUpdater.retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)</code></a> has been completed.
  The first parameter indicates an error in case of a failure. The second parameter contains the results.
  Both parameters cannot be <code>null</code> at the same time - or not <code>null</code> at the same time.

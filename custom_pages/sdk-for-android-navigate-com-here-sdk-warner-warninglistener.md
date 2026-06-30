@@ -44,7 +44,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warninglistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warninglistener#onWarnings(java.util.List)">onWarnings</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warning" title="class in com.here.sdk.warner">Warning</a>&gt; warnings)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-warner-warninglistener#onWarnings(java.util.List)">onWarnings</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-warner-warning" title="class in com.here.sdk.warner">Warning</a>&gt; warnings)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when a new warnings is detected.</div>
 </div>
@@ -66,7 +66,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warninglistener"
 <section class="detail" id="onWarnings(java.util.List)">
 <h3>onWarnings</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onWarnings</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warning" title="class in com.here.sdk.warner">Warning</a>&gt; warnings)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-warner-warning" title="class in com.here.sdk.warner">Warning</a>&gt; warnings)</span></div>
 <div class="block"><p>Called when a new warnings is detected.
  This method is invoked whenever a new list of warnings becomes available.</p></div>
 <dl class="notes">

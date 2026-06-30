@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-weightrestriction"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-weightrestrictiontype" title="enum class in com.here.sdk.navigation">WeightRestrictionType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-weightrestrictiontype" title="enum class in com.here.sdk.navigation">WeightRestrictionType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-weightrestriction#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The type of the weight restriction.</div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-weightrestriction"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-weightrestriction#%3Cinit%3E(int,com.here.sdk.navigation.WeightRestrictionType)">WeightRestriction</a><wbr/>(int valueInKilograms,
- <a href="sdk-for-android-navigate-weightrestrictiontype" title="enum class in com.here.sdk.navigation">WeightRestrictionType</a> type)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-weightrestrictiontype" title="enum class in com.here.sdk.navigation">WeightRestrictionType</a> type)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -113,7 +113,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-weightrestriction"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-weightrestrictiontype" title="enum class in com.here.sdk.navigation">WeightRestrictionType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-weightrestrictiontype" title="enum class in com.here.sdk.navigation">WeightRestrictionType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>The type of the weight restriction.</p></div>
 </section>
 </li>
@@ -130,7 +130,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-weightrestriction"
 <h3>WeightRestriction</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">WeightRestriction</span><wbr/><span class="parameters">(int valueInKilograms,
  @NonNull
- <a href="sdk-for-android-navigate-weightrestrictiontype" title="enum class in com.here.sdk.navigation">WeightRestrictionType</a> type)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-weightrestrictiontype" title="enum class in com.here.sdk.navigation">WeightRestrictionType</a> type)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

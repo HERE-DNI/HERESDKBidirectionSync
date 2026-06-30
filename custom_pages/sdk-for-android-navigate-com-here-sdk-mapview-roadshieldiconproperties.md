@@ -49,7 +49,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties"
 <div class="col-last odd-row-color">
 <div class="block">A string that is used to additionally determine the road shield's visual representation.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-routetype" title="enum class in com.here.sdk.core">RouteType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">RouteType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties#routeType">routeType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The type of route indicating the significance of the road in a range from 0 to 6.</div>
@@ -75,7 +75,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties#%3Cinit%3E(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)">RoadShieldIconProperties</a><wbr/>(<a href="sdk-for-android-navigate-routetype" title="enum class in com.here.sdk.core">RouteType</a> routeType,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties#%3Cinit%3E(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)">RoadShieldIconProperties</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">RouteType</a> routeType,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> countryCode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> stateCode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> routeNumberName,
@@ -108,7 +108,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties"
 <section class="detail" id="routeType">
 <h3>routeType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-routetype" title="enum class in com.here.sdk.core">RouteType</a></span> <span class="element-name">routeType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">RouteType</a></span> <span class="element-name">routeType</span></div>
 <div class="block"><p>The type of route indicating the significance of the road in a range from 0 to 6. A value of
  1 stands for the most major route and 6 the most minor, with 0 being of unknown type.</p></div>
 </section>
@@ -175,7 +175,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-roadshieldiconproperties"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)">
 <h3>RoadShieldIconProperties</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RoadShieldIconProperties</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-routetype" title="enum class in com.here.sdk.core">RouteType</a> routeType,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-routetype" title="enum class in com.here.sdk.core">RouteType</a> routeType,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> countryCode,
  @NonNull

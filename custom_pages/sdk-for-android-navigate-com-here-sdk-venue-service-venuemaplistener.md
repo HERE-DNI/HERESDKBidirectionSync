@@ -23,7 +23,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venuemaplistener"
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">VenueMapListener</span></div>
 <div class="block"><p>The interface for listeners for
- venue loading events in <a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a>.</p></div>
+ venue loading events in <a href="sdk-for-android-navigate-com-here-sdk-venue-service-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -40,9 +40,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venuemaplistener"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-service-venuemaplistener#onGetVenueCompleted(java.lang.String,com.here.sdk.venue.data.VenueModel,boolean,com.here.sdk.venue.style.VenueStyle)">onGetVenueCompleted</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> venueIdentifier,
- <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a> venueModel,
+ <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a> venueModel,
  boolean online,
- <a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a> venueStyle)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a> venueStyle)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when loading of a venue or its retrieval from the cache is completed.</div>
 </div>
@@ -66,10 +66,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venuemaplistener"
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onGetVenueCompleted</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> venueIdentifier,
  @Nullable
- <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a> venueModel,
+ <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a> venueModel,
  boolean online,
  @Nullable
- <a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a> venueStyle)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-venue-style-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a> venueStyle)</span></div>
 <div class="block"><p>Called when loading of a venue or its retrieval from the cache is completed.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -33,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup-in
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-translucentmaplayergroup" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TranslucentMapLayerGroup.InstantiationException</span>

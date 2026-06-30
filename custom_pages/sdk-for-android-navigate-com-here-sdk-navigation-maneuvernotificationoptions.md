@@ -39,12 +39,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-arrivalnotificationoption" title="enum class in com.here.sdk.navigation">ArrivalNotificationOption</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-arrivalnotificationoption" title="enum class in com.here.sdk.navigation">ArrivalNotificationOption</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#arrivalNotificationOption">arrivalNotificationOption</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A flag that indicates whether notification for destination and/or stopover reached maneuvers should be generated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-directioninformationusageoption" title="enum class in com.here.sdk.navigation">DirectionInformationUsageOption</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-directioninformationusageoption" title="enum class in com.here.sdk.navigation">DirectionInformationUsageOption</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#directionInformationUsageForActionNotificationOption">directionInformationUsageForActionNotificationOption</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An option whether direction information should be used when generating notification with
@@ -82,32 +82,32 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <div class="col-last odd-row-color">
 <div class="block">A flag that indicates whether notification for roundabout-related maneuvers should be generated.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-naturalguidancetype" title="enum class in com.here.sdk.navigation">NaturalGuidanceType</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-naturalguidancetype" title="enum class in com.here.sdk.navigation">NaturalGuidanceType</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#includedNaturalGuidanceTypes">includedNaturalGuidanceTypes</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">List of <a href="sdk-for-android-navigate-naturalguidancetype" title="enum class in com.here.sdk.navigation"><code>NaturalGuidanceType</code></a> should be included in the notifications.</div>
+<div class="block">List of <a href="sdk-for-android-navigate-com-here-sdk-navigation-naturalguidancetype" title="enum class in com.here.sdk.navigation"><code>NaturalGuidanceType</code></a> should be included in the notifications.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#includedNotificationTypes">includedNotificationTypes</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">List of <a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> for which notifications should be generated.</div>
+<div class="block">List of <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> for which notifications should be generated.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#language">language</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The language in which the notifications will be generated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-notificationformatoption" title="enum class in com.here.sdk.navigation">NotificationFormatOption</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-notificationformatoption" title="enum class in com.here.sdk.navigation">NotificationFormatOption</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#notificationFormatOption">notificationFormatOption</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">A formatting option for the phoneme that is included in the notification.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#textUsageOptions">textUsageOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">An option whether street name, road number and sign post direction should be used when generating notification.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#unitSystem">unitSystem</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines the measurement system used for distances.</div>
@@ -127,16 +127,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class with default configurations.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#%3Cinit%3E(com.here.sdk.core.LanguageCode,com.here.sdk.core.UnitSystem)">ManeuverNotificationOptions</a><wbr/>(<a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
- <a href="sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#%3Cinit%3E(com.here.sdk.core.LanguageCode,com.here.sdk.core.UnitSystem)">ManeuverNotificationOptions</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem)</code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment">Will be removed in v4.23.0.</div>
 </div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#%3Cinit%3E(com.here.sdk.core.LanguageCode,com.here.sdk.core.UnitSystem,java.util.List,boolean,boolean,boolean,boolean,boolean)">ManeuverNotificationOptions</a><wbr/>(<a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
- <a href="sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt; includedNotificationTypes,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#%3Cinit%3E(com.here.sdk.core.LanguageCode,com.here.sdk.core.UnitSystem,java.util.List,boolean,boolean,boolean,boolean,boolean)">ManeuverNotificationOptions</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt; includedNotificationTypes,
  boolean enableRoundaboutNotification,
  boolean enableDestinationReachedNotification,
  boolean enableDoubleNotification,
@@ -147,28 +147,28 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <div class="deprecation-comment">Will be removed in v4.23.0.</div>
 </div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#%3Cinit%3E(com.here.sdk.core.LanguageCode,com.here.sdk.core.UnitSystem,java.util.List,boolean,boolean,boolean,boolean,com.here.sdk.navigation.NotificationFormatOption,boolean)">ManeuverNotificationOptions</a><wbr/>(<a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
- <a href="sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt; includedNotificationTypes,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#%3Cinit%3E(com.here.sdk.core.LanguageCode,com.here.sdk.core.UnitSystem,java.util.List,boolean,boolean,boolean,boolean,com.here.sdk.navigation.NotificationFormatOption,boolean)">ManeuverNotificationOptions</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt; includedNotificationTypes,
  boolean enableRoundaboutNotification,
  boolean enableDestinationReachedNotification,
  boolean enableDoubleNotification,
  boolean enablePhoneme,
- <a href="sdk-for-android-navigate-notificationformatoption" title="enum class in com.here.sdk.navigation">NotificationFormatOption</a> notificationFormatOption,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-notificationformatoption" title="enum class in com.here.sdk.navigation">NotificationFormatOption</a> notificationFormatOption,
  boolean enableHighwayExit)</code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment">Will be removed in v4.23.0.</div>
 </div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#%3Cinit%3E(com.here.sdk.core.LanguageCode,com.here.sdk.core.UnitSystem,java.util.List,boolean,boolean,boolean,boolean,com.here.sdk.routing.TextUsageOptions,boolean)">ManeuverNotificationOptions</a><wbr/>(<a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
- <a href="sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt; includedNotificationTypes,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#%3Cinit%3E(com.here.sdk.core.LanguageCode,com.here.sdk.core.UnitSystem,java.util.List,boolean,boolean,boolean,boolean,com.here.sdk.routing.TextUsageOptions,boolean)">ManeuverNotificationOptions</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt; includedNotificationTypes,
  boolean enableRoundaboutNotification,
  boolean enableDestinationReachedNotification,
  boolean enableDoubleNotification,
  boolean enablePhoneme,
- <a href="sdk-for-android-navigate-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a> textUsageOptions,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a> textUsageOptions,
  boolean enableHighwayExit)</code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
@@ -216,7 +216,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <section class="detail" id="language">
 <h3>language</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">language</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">language</span></div>
 <div class="block"><p>The language in which the notifications will be generated. When the specified language
  is not supported, the default language is used, which is English (American).</p></div>
 </section>
@@ -225,7 +225,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <section class="detail" id="unitSystem">
 <h3>unitSystem</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></span> <span class="element-name">unitSystem</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></span> <span class="element-name">unitSystem</span></div>
 <div class="block"><p>Defines the measurement system used for distances. Defaults to metric.</p></div>
 </section>
 </li>
@@ -233,8 +233,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <section class="detail" id="includedNotificationTypes">
 <h3>includedNotificationTypes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt;</span> <span class="element-name">includedNotificationTypes</span></div>
-<div class="block"><p>List of <a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> for which notifications should be generated. Excluding all of
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt;</span> <span class="element-name">includedNotificationTypes</span></div>
+<div class="block"><p>List of <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> for which notifications should be generated. Excluding all of
  them will disable the maneuver notifications completely.
  By default, all types are included.</p></div>
 </section>
@@ -263,7 +263,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <section class="detail" id="arrivalNotificationOption">
 <h3>arrivalNotificationOption</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-arrivalnotificationoption" title="enum class in com.here.sdk.navigation">ArrivalNotificationOption</a></span> <span class="element-name">arrivalNotificationOption</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-arrivalnotificationoption" title="enum class in com.here.sdk.navigation">ArrivalNotificationOption</a></span> <span class="element-name">arrivalNotificationOption</span></div>
 <div class="block"><p>A flag that indicates whether notification for destination and/or stopover reached maneuvers should be generated.
  Defaults to <code>ArrivalNotificationOption.BOTH</code>.</p></div>
 </section>
@@ -300,7 +300,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <section class="detail" id="notificationFormatOption">
 <h3>notificationFormatOption</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-notificationformatoption" title="enum class in com.here.sdk.navigation">NotificationFormatOption</a></span> <span class="element-name">notificationFormatOption</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-notificationformatoption" title="enum class in com.here.sdk.navigation">NotificationFormatOption</a></span> <span class="element-name">notificationFormatOption</span></div>
 <div class="block"><p>A formatting option for the phoneme that is included in the notification. By default, no phoneme is used
  and the <a href="sdk-for-android-navigate-notificationformatoption#PLAIN"><code>NotificationFormatOption.PLAIN</code></a> orthographic form is included in the notification.
  <strong>Note:</strong>
@@ -311,7 +311,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <section class="detail" id="textUsageOptions">
 <h3>textUsageOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></span> <span class="element-name">textUsageOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></span> <span class="element-name">textUsageOptions</span></div>
 <div class="block"><p>An option whether street name, road number and sign post direction should be used when generating notification.
  Defaults to each attribute as <a href="sdk-for-android-navigate-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
 </section>
@@ -340,8 +340,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <section class="detail" id="includedNaturalGuidanceTypes">
 <h3>includedNaturalGuidanceTypes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-naturalguidancetype" title="enum class in com.here.sdk.navigation">NaturalGuidanceType</a>&gt;</span> <span class="element-name">includedNaturalGuidanceTypes</span></div>
-<div class="block"><p>List of <a href="sdk-for-android-navigate-naturalguidancetype" title="enum class in com.here.sdk.navigation"><code>NaturalGuidanceType</code></a> should be included in the notifications. Excluding
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-naturalguidancetype" title="enum class in com.here.sdk.navigation">NaturalGuidanceType</a>&gt;</span> <span class="element-name">includedNaturalGuidanceTypes</span></div>
+<div class="block"><p>List of <a href="sdk-for-android-navigate-com-here-sdk-navigation-naturalguidancetype" title="enum class in com.here.sdk.navigation"><code>NaturalGuidanceType</code></a> should be included in the notifications. Excluding
  all of them will disable natural guidance information in the notifications completely.
  By default, the list is empty and natural guidance is disabled.</p></div>
 </section>
@@ -350,7 +350,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <section class="detail" id="directionInformationUsageForActionNotificationOption">
 <h3>directionInformationUsageForActionNotificationOption</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-directioninformationusageoption" title="enum class in com.here.sdk.navigation">DirectionInformationUsageOption</a></span> <span class="element-name">directionInformationUsageForActionNotificationOption</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-directioninformationusageoption" title="enum class in com.here.sdk.navigation">DirectionInformationUsageOption</a></span> <span class="element-name">directionInformationUsageForActionNotificationOption</span></div>
 <div class="block"><p>An option whether direction information should be used when generating notification with
  <a href="sdk-for-android-navigate-maneuvernotificationtype#ACTION"><code>ManeuverNotificationType.ACTION</code></a>. Defaults to <a href="sdk-for-android-navigate-directioninformationusageoption#NONE"><code>DirectionInformationUsageOption.NONE</code></a>.</p></div>
 </section>
@@ -375,9 +375,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <h3>ManeuverNotificationOptions</h3>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 </span><span class="modifiers">public</span> <span class="element-name">ManeuverNotificationOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
  @NonNull
- <a href="sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem)</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.23.0. Use the default constructor instead.</p></div>
 </div>
@@ -395,18 +395,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <h3>ManeuverNotificationOptions</h3>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 </span><span class="modifiers">public</span> <span class="element-name">ManeuverNotificationOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
  @NonNull
- <a href="sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt; includedNotificationTypes,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt; includedNotificationTypes,
  boolean enableRoundaboutNotification,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
  boolean enableDestinationReachedNotification,
  boolean enableDoubleNotification,
  boolean enablePhoneme,
  @NonNull
- <a href="sdk-for-android-navigate-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a> textUsageOptions,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a> textUsageOptions,
  boolean enableHighwayExit)</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.23.0. Use the default constructor instead.</p></div>
@@ -417,7 +417,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <dd><code>language</code> - <p>The language in which the notifications will be generated. When the specified language
  is not supported, the default language is used, which is English (American).</p></dd>
 <dd><code>unitSystem</code> - <p>Defines the measurement system used for distances. Defaults to metric.</p></dd>
-<dd><code>includedNotificationTypes</code> - <p>List of <a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> for which notifications should be generated. Excluding all of
+<dd><code>includedNotificationTypes</code> - <p>List of <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> for which notifications should be generated. Excluding all of
  them will disable the maneuver notifications completely.
  By default, all types are included.</p></dd>
 <dd><code>enableRoundaboutNotification</code> - <p>A flag that indicates whether notification for roundabout-related maneuvers should be generated.
@@ -452,11 +452,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <h3>ManeuverNotificationOptions</h3>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 </span><span class="modifiers">public</span> <span class="element-name">ManeuverNotificationOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
  @NonNull
- <a href="sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt; includedNotificationTypes,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt; includedNotificationTypes,
  boolean enableRoundaboutNotification,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
  boolean enableDestinationReachedNotification,
@@ -472,7 +472,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <dd><code>language</code> - <p>The language in which the notifications will be generated. When the specified language
  is not supported, the default language is used, which is English (American).</p></dd>
 <dd><code>unitSystem</code> - <p>Defines the measurement system used for distances. Defaults to metric.</p></dd>
-<dd><code>includedNotificationTypes</code> - <p>List of <a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> for which notifications should be generated. Excluding all of
+<dd><code>includedNotificationTypes</code> - <p>List of <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> for which notifications should be generated. Excluding all of
  them will disable the maneuver notifications completely.
  By default, all types are included.</p></dd>
 <dd><code>enableRoundaboutNotification</code> - <p>A flag that indicates whether notification for roundabout-related maneuvers should be generated.
@@ -505,18 +505,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <h3>ManeuverNotificationOptions</h3>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 </span><span class="modifiers">public</span> <span class="element-name">ManeuverNotificationOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> language,
  @NonNull
- <a href="sdk-for-android-navigate-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a> unitSystem,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt; includedNotificationTypes,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation">ManeuverNotificationType</a>&gt; includedNotificationTypes,
  boolean enableRoundaboutNotification,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
  boolean enableDestinationReachedNotification,
  boolean enableDoubleNotification,
  boolean enablePhoneme,
  @NonNull
- <a href="sdk-for-android-navigate-notificationformatoption" title="enum class in com.here.sdk.navigation">NotificationFormatOption</a> notificationFormatOption,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-notificationformatoption" title="enum class in com.here.sdk.navigation">NotificationFormatOption</a> notificationFormatOption,
  boolean enableHighwayExit)</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.23.0. Use the default constructor instead.</p></div>
@@ -527,7 +527,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 <dd><code>language</code> - <p>The language in which the notifications will be generated. When the specified language
  is not supported, the default language is used, which is English (American).</p></dd>
 <dd><code>unitSystem</code> - <p>Defines the measurement system used for distances. Defaults to metric.</p></dd>
-<dd><code>includedNotificationTypes</code> - <p>List of <a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> for which notifications should be generated. Excluding all of
+<dd><code>includedNotificationTypes</code> - <p>List of <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> for which notifications should be generated. Excluding all of
  them will disable the maneuver notifications completely.
  By default, all types are included.</p></dd>
 <dd><code>enableRoundaboutNotification</code> - <p>A flag that indicates whether notification for roundabout-related maneuvers should be generated.

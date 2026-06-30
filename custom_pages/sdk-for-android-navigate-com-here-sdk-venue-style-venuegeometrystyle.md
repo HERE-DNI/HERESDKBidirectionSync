@@ -20,15 +20,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.venue.style.VenueGeometryStyle</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">VenueGeometryStyle</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Represents a style of the <a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data"><code>VenueGeometry</code></a>.</p></div>
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Represents a style of the <a href="sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry" title="class in com.here.sdk.venue.data"><code>VenueGeometry</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -40,8 +40,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle#%3Cinit%3E(com.here.sdk.core.Color,com.here.sdk.core.Color,float)">VenueGeometryStyle</a><wbr/>(<a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> mainColor,
- <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> outlineColor,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle#%3Cinit%3E(com.here.sdk.core.Color,com.here.sdk.core.Color,float)">VenueGeometryStyle</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> mainColor,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> outlineColor,
  float outlineWidth)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a custom style with specific parameters.</div>
@@ -65,12 +65,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the label style name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle#getMainColor()">getMainColor</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the main color for this style.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle#getOutlineColor()">getOutlineColor</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets an outline color for this style.</div>
@@ -101,9 +101,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.Color,com.here.sdk.core.Color,float)">
 <h3>VenueGeometryStyle</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">VenueGeometryStyle</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> mainColor,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> mainColor,
  @NonNull
- <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> outlineColor,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> outlineColor,
  float outlineWidth)</span></div>
 <div class="block"><p>Creates a custom style with specific parameters.</p></div>
 <dl class="notes">
@@ -126,7 +126,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle"
 <section class="detail" id="getMainColor()">
 <h3>getMainColor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getMainColor</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getMainColor</span>()</div>
 <div class="block"><p>Gets the main color for this style.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -138,7 +138,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-style-venuegeometrystyle"
 <section class="detail" id="getOutlineColor()">
 <h3>getOutlineColor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getOutlineColor</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getOutlineColor</span>()</div>
 <div class="block"><p>Gets an outline color for this style.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

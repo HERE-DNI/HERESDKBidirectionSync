@@ -123,7 +123,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-placefoodtype"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">name</span></div>
 <div class="block"><p>Name of the food type in the requested language.
- Ignored when used in <a href="sdk-for-android-navigate-placefilter" title="class in com.here.sdk.search"><code>PlaceFilter</code></a>.</p></div>
+ Ignored when used in <a href="sdk-for-android-navigate-com-here-sdk-search-placefilter" title="class in com.here.sdk.search"><code>PlaceFilter</code></a>.</p></div>
 </section>
 </li>
 <li>

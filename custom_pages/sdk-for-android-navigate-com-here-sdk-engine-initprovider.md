@@ -29,8 +29,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-engine-initprovider"
 <div class="block">Performs global initialization of the SDK.
 
  Normally this class is not needed because initialization of the SDK must be done
- automatically during the first access to <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>
- or <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.
+ automatically during the first access to <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>
+ or <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.
  However in some cases it's more convenient to initialize SDK explicitly with this
  class. For example in integration tests where hard to predict the order of access to
  SDK.</div>

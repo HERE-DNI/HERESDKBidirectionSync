@@ -25,7 +25,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficincident-vehiclerest
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-navigate-trafficincident" title="class in com.here.sdk.traffic">TrafficIncident</a></dd>
+<dd><a href="sdk-for-android-navigate-com-here-sdk-traffic-trafficincident" title="class in com.here.sdk.traffic">TrafficIncident</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TrafficIncident.VehicleRestriction</span>

@@ -113,7 +113,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-package-summary"
 </div>
 <div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-ocmsegmentid" title="class in com.here.sdk.mapdata">OCMSegmentId</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
-<div class="block">OCM Segment ID of particular matched <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> from OCM map,
+<div class="block">OCM Segment ID of particular matched <a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> from OCM map,
  represented in form: Tile + Local ID's .</div>
 </div>
 <div class="col-first odd-row-color class-summary class-summary-tab3"><a href="sdk-for-android-navigate-parkingsideregulation" title="enum class in com.here.sdk.mapdata">ParkingSideRegulation</a></div>
@@ -175,7 +175,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-package-summary"
 <div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-segmentreferenceconverter" title="class in com.here.sdk.mapdata">SegmentReferenceConverter</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">A SegmentReferenceConverter provides possibility to convert mapmatched instances of
- <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> to corresponding instances of <a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata"><code>DirectedOCMSegmentId</code></a>.</div>
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> to corresponding instances of <a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata"><code>DirectedOCMSegmentId</code></a>.</div>
 </div>
 <div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-segmentspandata" title="class in com.here.sdk.mapdata">SegmentSpanData</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">

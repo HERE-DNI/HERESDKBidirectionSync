@@ -41,12 +41,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-electricvehicleoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing">BatterySpecifications</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications" title="class in com.here.sdk.routing">BatterySpecifications</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-electricvehicleoptions#batterySpecifications">batterySpecifications</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Parameters that describe the electric vehicle's battery.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-empiricalconsumptionmodel" title="class in com.here.sdk.routing">EmpiricalConsumptionModel</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-empiricalconsumptionmodel" title="class in com.here.sdk.routing">EmpiricalConsumptionModel</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-electricvehicleoptions#empiricalConsumptionModel">empiricalConsumptionModel</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines the empirical consumption model.</div>
@@ -56,12 +56,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-electricvehicleoptions"
 <div class="col-last even-row-color">
 <div class="block">Ensure that the vehicle does not run out of energy along the way.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-evmobilityserviceproviderpreferences" title="class in com.here.sdk.routing">EVMobilityServiceProviderPreferences</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-evmobilityserviceproviderpreferences" title="class in com.here.sdk.routing">EVMobilityServiceProviderPreferences</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-electricvehicleoptions#evMobilityServiceProviderPreferences">evMobilityServiceProviderPreferences</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines the preferred E-Mobility Service Providers.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-physicalconsumptionmodel" title="class in com.here.sdk.routing">PhysicalConsumptionModel</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel" title="class in com.here.sdk.routing">PhysicalConsumptionModel</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-electricvehicleoptions#physicalConsumptionModel">physicalConsumptionModel</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the physical consumption model.</div>
@@ -127,7 +127,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-electricvehicleoptions"
  It also requires that
  <a href="sdk-for-android-navigate-routeoptions#optimizationMode"><code>RouteOptions.optimizationMode</code></a> = <a href="sdk-for-android-navigate-optimizationmode#FASTEST"><code>OptimizationMode.FASTEST</code></a>,
  <a href="sdk-for-android-navigate-routeoptions#speedCapInMetersPerSecond"><code>RouteOptions.speedCapInMetersPerSecond</code></a> is not set, and
- <a href="sdk-for-android-navigate-avoidanceoptions" title="class in com.here.sdk.routing"><code>AvoidanceOptions</code></a> is empty. Otherwise, this object is considered invalid.
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-avoidanceoptions" title="class in com.here.sdk.routing"><code>AvoidanceOptions</code></a> is empty. Otherwise, this object is considered invalid.
  Setting this flag enables calculation of a route optimized for electric vehicles.
  Charging stations may be added along the route to ensure that the vehicle does
  not run out of energy along the way.
@@ -146,7 +146,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-electricvehicleoptions"
 <section class="detail" id="evMobilityServiceProviderPreferences">
 <h3>evMobilityServiceProviderPreferences</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-evmobilityserviceproviderpreferences" title="class in com.here.sdk.routing">EVMobilityServiceProviderPreferences</a></span> <span class="element-name">evMobilityServiceProviderPreferences</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-evmobilityserviceproviderpreferences" title="class in com.here.sdk.routing">EVMobilityServiceProviderPreferences</a></span> <span class="element-name">evMobilityServiceProviderPreferences</span></div>
 <div class="block"><p>Defines the preferred E-Mobility Service Providers.
  The The E-Mobility Service Provider Partner Ids can be received from
  https://www.here.com/docs/bundle/ev-charge-points-api-developer-guide/page/topics/resource-roamings.html
@@ -160,7 +160,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-electricvehicleoptions"
 <section class="detail" id="empiricalConsumptionModel">
 <h3>empiricalConsumptionModel</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-empiricalconsumptionmodel" title="class in com.here.sdk.routing">EmpiricalConsumptionModel</a></span> <span class="element-name">empiricalConsumptionModel</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-empiricalconsumptionmodel" title="class in com.here.sdk.routing">EmpiricalConsumptionModel</a></span> <span class="element-name">empiricalConsumptionModel</span></div>
 <div class="block"><p>Defines the empirical consumption model.
  The model is used to calculate the energy consumption for the vehicle on a given route.
  <strong>Note</strong>
@@ -171,7 +171,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-electricvehicleoptions"
 <section class="detail" id="physicalConsumptionModel">
 <h3>physicalConsumptionModel</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-physicalconsumptionmodel" title="class in com.here.sdk.routing">PhysicalConsumptionModel</a></span> <span class="element-name">physicalConsumptionModel</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel" title="class in com.here.sdk.routing">PhysicalConsumptionModel</a></span> <span class="element-name">physicalConsumptionModel</span></div>
 <div class="block"><p>Defines the physical consumption model.
  The model is used to calculate the energy consumption for the vehicle on a given route.
  <strong>Note</strong>
@@ -182,7 +182,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-electricvehicleoptions"
 <section class="detail" id="batterySpecifications">
 <h3>batterySpecifications</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing">BatterySpecifications</a></span> <span class="element-name">batterySpecifications</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-batteryspecifications" title="class in com.here.sdk.routing">BatterySpecifications</a></span> <span class="element-name">batterySpecifications</span></div>
 <div class="block"><p>Parameters that describe the electric vehicle's battery.
  By default, it is set to <code>null</code>.</p></div>
 </section>

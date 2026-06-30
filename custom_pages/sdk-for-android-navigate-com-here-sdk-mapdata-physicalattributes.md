@@ -42,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-roaddivider" title="enum class in com.here.sdk.mapdata">RoadDivider</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-mapdata-roaddivider" title="enum class in com.here.sdk.mapdata">RoadDivider</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes#divider">divider</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Indicates the presence of a road divider.</div>
@@ -205,7 +205,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-physicalattributes"
 <section class="detail" id="divider">
 <h3>divider</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-roaddivider" title="enum class in com.here.sdk.mapdata">RoadDivider</a></span> <span class="element-name">divider</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-mapdata-roaddivider" title="enum class in com.here.sdk.mapdata">RoadDivider</a></span> <span class="element-name">divider</span></div>
 <div class="block"><p>Indicates the presence of a road divider.</p></div>
 </section>
 </li>

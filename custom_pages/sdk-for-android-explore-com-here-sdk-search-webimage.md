@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webimage"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-websource" title="class in com.here.sdk.search">WebSource</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-webimage#source">source</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Detailed information about image source.</div>
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webimage"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-webimage#%3Cinit%3E(com.here.sdk.search.WebSource)">WebImage</a><wbr/>(<a href="sdk-for-android-explore-websource" title="class in com.here.sdk.search">WebSource</a> source)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-webimage#%3Cinit%3E(com.here.sdk.search.WebSource)">WebImage</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a> source)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -100,7 +100,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webimage"
 <section class="detail" id="source">
 <h3>source</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-websource" title="class in com.here.sdk.search">WebSource</a></span> <span class="element-name">source</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a></span> <span class="element-name">source</span></div>
 <div class="block"><p>Detailed information about image source.</p></div>
 </section>
 </li>
@@ -116,7 +116,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webimage"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.search.WebSource)">
 <h3>WebImage</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">WebImage</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-websource" title="class in com.here.sdk.search">WebSource</a> source)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a> source)</span></div>
 <div class="block"><p>Creates a new instance.
  Sets <a href="sdk-for-android-explore-com-here-sdk-search-webimage#source"><code>source</code></a> to the given source.</p></div>
 <dl class="notes">

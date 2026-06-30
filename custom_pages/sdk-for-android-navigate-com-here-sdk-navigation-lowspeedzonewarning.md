@@ -46,7 +46,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning"
 <div class="col-last even-row-color">
 <div class="block">Distance to the low speed warning in meters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning#distanceType">distanceType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The distance type for the warning, e.g.</div>
@@ -56,7 +56,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning"
 <div class="col-last even-row-color">
 <div class="block">Unique identifier for this specific low speed zone warning instance.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning#segmentReference">segmentReference</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The reference to the segment where the low speed zone is located.</div>
@@ -79,8 +79,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning"
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning#%3Cinit%3E(double,double,com.here.sdk.navigation.DistanceType,com.here.sdk.routing.SegmentReference)">LowSpeedZoneWarning</a><wbr/>(double distanceToLowSpeedZoneInMeters,
  double speedLimitInMetersPerSecond,
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
- <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segmentReference)</code></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segmentReference)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -148,7 +148,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning"
 <section class="detail" id="distanceType">
 <h3>distanceType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a></span> <span class="element-name">distanceType</span></div>
 <div class="block"><p>The distance type for the warning, e.g. a warning for a new low speed zone ahead or a warning
  for passing a low speed zone.</p></div>
 </section>
@@ -157,7 +157,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning"
 <section class="detail" id="segmentReference">
 <h3>segmentReference</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segmentReference</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segmentReference</span></div>
 <div class="block"><p>The reference to the segment where the low speed zone is located. It can be used to identify the
  location.</p></div>
 </section>
@@ -176,9 +176,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lowspeedzonewarning"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">LowSpeedZoneWarning</span><wbr/><span class="parameters">(double distanceToLowSpeedZoneInMeters,
  double speedLimitInMetersPerSecond,
  @NonNull
- <a href="sdk-for-android-navigate-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
+ <a href="sdk-for-android-navigate-com-here-sdk-navigation-distancetype" title="enum class in com.here.sdk.navigation">DistanceType</a> distanceType,
  @NonNull
- <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segmentReference)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a> segmentReference)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

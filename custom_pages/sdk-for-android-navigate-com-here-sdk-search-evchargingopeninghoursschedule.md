@@ -42,12 +42,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursschedu
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-dayofweek" title="enum class in com.here.sdk.search">DayOfWeek</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-dayofweek" title="enum class in com.here.sdk.search">DayOfWeek</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursschedule#days">days</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Day(s) of the week.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursschedule#periods">periods</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of time periods.</div>
@@ -108,7 +108,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursschedu
 <section class="detail" id="days">
 <h3>days</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-dayofweek" title="enum class in com.here.sdk.search">DayOfWeek</a>&gt;</span> <span class="element-name">days</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-dayofweek" title="enum class in com.here.sdk.search">DayOfWeek</a>&gt;</span> <span class="element-name">days</span></div>
 <div class="block"><p>Day(s) of the week.</p></div>
 </section>
 </li>
@@ -116,7 +116,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingopeninghoursschedu
 <section class="detail" id="periods">
 <h3>periods</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</span> <span class="element-name">periods</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-search-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</span> <span class="element-name">periods</span></div>
 <div class="block"><p>List of time periods.</p></div>
 </section>
 </li>

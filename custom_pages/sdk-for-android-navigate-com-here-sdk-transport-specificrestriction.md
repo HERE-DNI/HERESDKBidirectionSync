@@ -43,12 +43,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-specificrestriction"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-specificrestriction#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of restriction.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-specificrestriction#value">value</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Values for which the restriction applies.</div>
@@ -64,8 +64,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-specificrestriction"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-specificrestriction#%3Cinit%3E(com.here.sdk.transport.RestrictionType,com.here.sdk.core.IntegerRange)">SpecificRestriction</a><wbr/>(<a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a> type,
- <a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> value)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-transport-specificrestriction#%3Cinit%3E(com.here.sdk.transport.RestrictionType,com.here.sdk.core.IntegerRange)">SpecificRestriction</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a> type,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a> value)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-specificrestriction"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>Type of restriction.</p></div>
 </section>
 </li>
@@ -118,7 +118,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-specificrestriction"
 <section class="detail" id="value">
 <h3>value</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">value</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">value</span></div>
 <div class="block"><p>Values for which the restriction applies.
  Examples:
  <ul>
@@ -140,9 +140,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-specificrestriction"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.transport.RestrictionType,com.here.sdk.core.IntegerRange)">
 <h3>SpecificRestriction</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SpecificRestriction</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a> type,
+ <a href="sdk-for-android-navigate-com-here-sdk-transport-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a> type,
  @NonNull
- <a href="sdk-for-android-navigate-integerrange" title="class in com.here.sdk.core">IntegerRange</a> value)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a> value)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -25,71 +25,71 @@ slug: "sdk-for-android-navigate-deprecated-list"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-pedestrianprofile" title="class in com.here.sdk.core">com.here.sdk.core.PedestrianProfile</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-pedestrianprofile" title="class in com.here.sdk.core">com.here.sdk.core.PedestrianProfile</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>sdk.transport.TransportSpecification</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-transportprofile" title="class in com.here.sdk.core">com.here.sdk.core.TransportProfile</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-core-transportprofile" title="class in com.here.sdk.core">com.here.sdk.core.TransportProfile</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-bicycleoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.BicycleOptions</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-routing-bicycleoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.BicycleOptions</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-busoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.BusOptions</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-routing-busoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.BusOptions</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-caroptions" title="class in com.here.sdk.routing">com.here.sdk.routing.CarOptions</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-routing-caroptions" title="class in com.here.sdk.routing">com.here.sdk.routing.CarOptions</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-evcaroptions" title="class in com.here.sdk.routing">com.here.sdk.routing.EVCarOptions</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-routing-evcaroptions" title="class in com.here.sdk.routing">com.here.sdk.routing.EVCarOptions</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-evtruckoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.EVTruckOptions</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-routing-evtruckoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.EVTruckOptions</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-pedestrianoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.PedestrianOptions</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-routing-pedestrianoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.PedestrianOptions</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-privatebusoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.PrivateBusOptions</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-routing-privatebusoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.PrivateBusOptions</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-refreshrouteoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.RefreshRouteOptions</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-routing-refreshrouteoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.RefreshRouteOptions</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-scooteroptions" title="class in com.here.sdk.routing">com.here.sdk.routing.ScooterOptions</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-routing-scooteroptions" title="class in com.here.sdk.routing">com.here.sdk.routing.ScooterOptions</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-taxioptions" title="class in com.here.sdk.routing">com.here.sdk.routing.TaxiOptions</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-routing-taxioptions" title="class in com.here.sdk.routing">com.here.sdk.routing.TaxiOptions</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-truckoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.TruckOptions</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-routing-truckoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.TruckOptions</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-busspecifications" title="class in com.here.sdk.transport">com.here.sdk.transport.BusSpecifications</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-transport-busspecifications" title="class in com.here.sdk.transport">com.here.sdk.transport.BusSpecifications</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-carspecifications" title="class in com.here.sdk.transport">com.here.sdk.transport.CarSpecifications</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-transport-carspecifications" title="class in com.here.sdk.transport">com.here.sdk.transport.CarSpecifications</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-truckspecifications" title="class in com.here.sdk.transport">com.here.sdk.transport.TruckSpecifications</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-transport-truckspecifications" title="class in com.here.sdk.transport">com.here.sdk.transport.TruckSpecifications</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-vehicleprofile" title="class in com.here.sdk.transport">com.here.sdk.transport.VehicleProfile</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-transport-vehicleprofile" title="class in com.here.sdk.transport">com.here.sdk.transport.VehicleProfile</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>sdk.transport.TransportSpecification</code> instead.</p></div>
 </div>
@@ -104,11 +104,11 @@ slug: "sdk-for-android-navigate-deprecated-list"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-trucktype" title="enum class in com.here.sdk.transport">com.here.sdk.transport.TruckType</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">com.here.sdk.transport.TruckType</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.27.0. Use <code>TruckCategory</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-vehicletype" title="enum class in com.here.sdk.transport">com.here.sdk.transport.VehicleType</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-transport-vehicletype" title="enum class in com.here.sdk.transport">com.here.sdk.transport.VehicleType</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>sdk.transport.TransportMode</code> instead.</p></div>
 </div>
@@ -188,7 +188,7 @@ slug: "sdk-for-android-navigate-deprecated-list"
 </div>
 <div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-navigate-locationindicator#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType)">com.here.sdk.mapview.LocationIndicator.setMarker3dModel<wbr/>(MapMarker3DModel, double, LocationIndicator.MarkerType)</a></div>
 <div class="col-last odd-row-color">
-<div class="deprecation-comment"><p>Will be removed in v4.27.0. Please use the overloaded method with <a href="sdk-for-android-navigate-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> instead.</p></div>
+<div class="deprecation-comment"><p>Will be removed in v4.27.0. Please use the overloaded method with <a href="sdk-for-android-navigate-com-here-sdk-mapview-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> instead.</p></div>
 </div>
 <div class="col-summary-item-name even-row-color"><a href="sdk-for-android-navigate-mapcamerakeyframetrack#lookAtDistance(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">com.here.sdk.mapview.MapCameraKeyframeTrack.lookAtDistance<wbr/>(List&lt;ScalarKeyframe&gt;, Easing, KeyframeInterpolationMode)</a></div>
 <div class="col-last even-row-color">

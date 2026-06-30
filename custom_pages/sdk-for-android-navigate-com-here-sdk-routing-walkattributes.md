@@ -20,18 +20,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-walkattributes"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a>&gt;
 <div class="inheritance">com.here.sdk.routing.WalkAttributes</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">WalkAttributes</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a>&gt;</span></div>
 <div class="block"><p>Types of walk attributes.</p></div>
 </section>
 <section class="summary">
@@ -91,12 +91,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-walkattributes"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -125,42 +125,42 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="STAIRS">
 <h3>STAIRS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">STAIRS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">STAIRS</span></div>
 <div class="block"><p>The span contains stairs.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PARK">
 <h3>PARK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">PARK</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">PARK</span></div>
 <div class="block"><p>The span goes through a park.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="INDOOR">
 <h3>INDOOR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">INDOOR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">INDOOR</span></div>
 <div class="block"><p>The span is indoor.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OPEN">
 <h3>OPEN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">OPEN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">OPEN</span></div>
 <div class="block"><p>The span is open.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NO_THROUGH">
 <h3>NO_THROUGH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">NO_THROUGH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">NO_THROUGH</span></div>
 <div class="block"><p>The access is restricted on the span.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TOLL_ROAD">
 <h3>TOLL_ROAD</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">TOLL_ROAD</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">TOLL_ROAD</span></div>
 <div class="block"><p>The access is permitted on the span after paying a toll.</p></div>
 </section>
 </li>
@@ -175,7 +175,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -187,7 +187,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-routing-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

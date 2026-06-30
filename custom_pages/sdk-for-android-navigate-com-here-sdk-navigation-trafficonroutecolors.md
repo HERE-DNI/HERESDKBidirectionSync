@@ -40,17 +40,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficonroutecolors"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trafficonroutecolors#blocking">blocking</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Color used for visualization of the traffic with jam factor 10.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trafficonroutecolors#slow">slow</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Color used for visualization of the traffic with jam factor in range [4, 8).</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trafficonroutecolors#stationary">stationary</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Color used for visualization of the traffic with jam factor in range [8, 10).</div>
@@ -66,9 +66,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficonroutecolors"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trafficonroutecolors#%3Cinit%3E(com.here.sdk.core.Color,com.here.sdk.core.Color,com.here.sdk.core.Color)">TrafficOnRouteColors</a><wbr/>(<a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> slow,
- <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> stationary,
- <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> blocking)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-navigation-trafficonroutecolors#%3Cinit%3E(com.here.sdk.core.Color,com.here.sdk.core.Color,com.here.sdk.core.Color)">TrafficOnRouteColors</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> slow,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> stationary,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> blocking)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -113,7 +113,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficonroutecolors"
 <section class="detail" id="slow">
 <h3>slow</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">slow</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">slow</span></div>
 <div class="block"><p>Color used for visualization of the traffic with jam factor in range [4, 8).</p></div>
 </section>
 </li>
@@ -121,7 +121,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficonroutecolors"
 <section class="detail" id="stationary">
 <h3>stationary</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">stationary</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">stationary</span></div>
 <div class="block"><p>Color used for visualization of the traffic with jam factor in range [8, 10).</p></div>
 </section>
 </li>
@@ -129,7 +129,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficonroutecolors"
 <section class="detail" id="blocking">
 <h3>blocking</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">blocking</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">blocking</span></div>
 <div class="block"><p>Color used for visualization of the traffic with jam factor 10.</p></div>
 </section>
 </li>
@@ -145,11 +145,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trafficonroutecolors"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.Color,com.here.sdk.core.Color,com.here.sdk.core.Color)">
 <h3>TrafficOnRouteColors</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TrafficOnRouteColors</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> slow,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> slow,
  @NonNull
- <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> stationary,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> stationary,
  @NonNull
- <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> blocking)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> blocking)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

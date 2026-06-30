@@ -20,21 +20,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-navigate-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.maploader.MapUpdater</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapUpdater</span>
-<span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>A class for updating regions previously downloaded using the <a href="sdk-for-android-navigate-mapdownloader" title="class in com.here.sdk.maploader"><code>MapDownloader</code></a>.
+<span class="extends-implements">extends <a href="sdk-for-android-navigate-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>A class for updating regions previously downloaded using the <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader" title="class in com.here.sdk.maploader"><code>MapDownloader</code></a>.
  First, updates for the regions are downloaded. Once the download is complete, the update process begins,
  installing the new content.
  It is recommended to regularly call <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)"><code>retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)</code></a> to check for available updates
  for any downloaded regions.
  If updates are available, regions can be updated asynchronously using <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#updateCatalog(com.here.sdk.maploader.CatalogUpdateInfo,com.here.sdk.maploader.CatalogUpdateProgressListener)"><code>updateCatalog(com.here.sdk.maploader.CatalogUpdateInfo, com.here.sdk.maploader.CatalogUpdateProgressListener)</code></a>.
- The <a href="sdk-for-android-navigate-mapupdateprogresslistener" title="interface in com.here.sdk.maploader"><code>MapUpdateProgressListener</code></a> provides update progress for each region.
+ The <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdateprogresslistener" title="interface in com.here.sdk.maploader"><code>MapUpdateProgressListener</code></a> provides update progress for each region.
  Incremental map updates are supported, by default: Instead of downloading an entire region,
  only the parts that have changed will be installed. This results in a faster update process.
  MapUpdater also aligns previously downloaded content with <code>LayerConfiguration</code> changes made via <code>SDKOptions</code>.
@@ -44,16 +44,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
  In case of an error, the previous map data remains available for use. It is only replaced
  after new map data has been successfully downloaded. Regions that fail to update
  must be retried in a new call. Paused updates can be resumed later.
- During the update process, <a href="sdk-for-android-navigate-mapupdater" title="class in com.here.sdk.maploader"><code>MapUpdater</code></a> internally retries failed downloads
- until a timeout occurs. If this happens, it is reported via <a href="sdk-for-android-navigate-mapupdateprogresslistener" title="interface in com.here.sdk.maploader"><code>MapUpdateProgressListener</code></a>.
+ During the update process, <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater" title="class in com.here.sdk.maploader"><code>MapUpdater</code></a> internally retries failed downloads
+ until a timeout occurs. If this happens, it is reported via <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdateprogresslistener" title="interface in com.here.sdk.maploader"><code>MapUpdateProgressListener</code></a>.
  If the user cancels the update process during the update phase, it is ignored.
  The update phase begins after all content has been downloaded, then the HERE SDK installs
  and replaces the existing regions. Cancellation is only possible during the download phase,
  and a successful cancellation is indicated via <a href="sdk-for-android-navigate-mapupdateprogresslistener#onComplete(com.here.sdk.maploader.MapLoaderError)"><code>MapUpdateProgressListener.onComplete(com.here.sdk.maploader.MapLoaderError)</code></a>.
- Note that a <a href="sdk-for-android-navigate-maploadererror#NOT_READY"><code>MapLoaderError.NOT_READY</code></a> occurs when the <a href="sdk-for-android-navigate-mapdownloader" title="class in com.here.sdk.maploader"><code>MapDownloader</code></a> is used in parallel.
+ Note that a <a href="sdk-for-android-navigate-maploadererror#NOT_READY"><code>MapLoaderError.NOT_READY</code></a> occurs when the <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader" title="class in com.here.sdk.maploader"><code>MapDownloader</code></a> is used in parallel.
  In general, background updates are not supported explicitly, as the OS can abort background processes.
  In addition, the OfflineSearchEngine and the OfflineRoutingEngine cannot be used while a map update is
- in progress and it will be indicated by a <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader"><code>MapLoaderError</code></a>.</p></div>
+ in progress and it will be indicated by a <a href="sdk-for-android-navigate-com-here-sdk-maploader-maploadererror" title="enum class in com.here.sdk.maploader"><code>MapLoaderError</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -67,7 +67,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines if installed regions and subregions are updated one-by-one or if all regions are
  updated only once the updates for all installed regions have been downloaded entirely.</div>
@@ -87,12 +87,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapUpdaterConstructionCallback)">fromEngineAsync</a><wbr/>(<a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
- <a href="sdk-for-android-navigate-mapupdaterconstructioncallback" title="interface in com.here.sdk.maploader">MapUpdaterConstructionCallback</a> mapUpdaterConstructionCallback)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapUpdaterConstructionCallback)">fromEngineAsync</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdaterconstructioncallback" title="interface in com.here.sdk.maploader">MapUpdaterConstructionCallback</a> mapUpdaterConstructionCallback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Gets a single instance of this class per provided <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</div>
+<div class="block">Gets a single instance of this class per provided <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-mapversionhandle" title="class in com.here.sdk.maploader">MapVersionHandle</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-maploader-mapversionhandle" title="class in com.here.sdk.maploader">MapVersionHandle</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#getCurrentMapVersion()">getCurrentMapVersion</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns a handle that contains the map version of the already downloaded and installed regions.</div>
@@ -102,13 +102,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the number of concurrent tasks for downloading a map.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-updatestatistics" title="class in com.here.sdk.maploader">UpdateStatistics</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-maploader-updatestatistics" title="class in com.here.sdk.maploader">UpdateStatistics</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#getUpdateStatistics()">getUpdateStatistics</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Map update statistics for the ongoing session of the current application.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)">retrieveCatalogsUpdateInfo</a><wbr/>(<a href="sdk-for-android-navigate-catalogsupdateinfocallback" title="interface in com.here.sdk.maploader">CatalogsUpdateInfoCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)">retrieveCatalogsUpdateInfo</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-maploader-catalogsupdateinfocallback" title="interface in com.here.sdk.maploader">CatalogsUpdateInfoCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Retrieves information of all catalogs that have newer version available.</div>
 </div>
@@ -118,13 +118,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <div class="block">Sets the number of concurrent tasks for downloading a map.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#setVersionCommitPolicy(com.here.sdk.maploader.MapUpdater.MapUpdateVersionCommitPolicy)">setVersionCommitPolicy</a><wbr/>(<a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a> versionCommitPolicy)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#setVersionCommitPolicy(com.here.sdk.maploader.MapUpdater.MapUpdateVersionCommitPolicy)">setVersionCommitPolicy</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a> versionCommitPolicy)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the map update version policy.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-catalogupdatetask" title="class in com.here.sdk.maploader">CatalogUpdateTask</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#updateCatalog(com.here.sdk.maploader.CatalogUpdateInfo,com.here.sdk.maploader.CatalogUpdateProgressListener)">updateCatalog</a><wbr/>(<a href="sdk-for-android-navigate-catalogupdateinfo" title="class in com.here.sdk.maploader">CatalogUpdateInfo</a> catalogInfo,
- <a href="sdk-for-android-navigate-catalogupdateprogresslistener" title="interface in com.here.sdk.maploader">CatalogUpdateProgressListener</a> callback)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdatetask" title="class in com.here.sdk.maploader">CatalogUpdateTask</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#updateCatalog(com.here.sdk.maploader.CatalogUpdateInfo,com.here.sdk.maploader.CatalogUpdateProgressListener)">updateCatalog</a><wbr/>(<a href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateinfo" title="class in com.here.sdk.maploader">CatalogUpdateInfo</a> catalogInfo,
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateprogresslistener" title="interface in com.here.sdk.maploader">CatalogUpdateProgressListener</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Performs an asynchronous request for each catalog to update map data to the latest available version.</div>
 </div>
@@ -149,10 +149,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <section class="detail" id="fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapUpdaterConstructionCallback)">
 <h3>fromEngineAsync</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">fromEngineAsync</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+ <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
  @NonNull
- <a href="sdk-for-android-navigate-mapupdaterconstructioncallback" title="interface in com.here.sdk.maploader">MapUpdaterConstructionCallback</a> mapUpdaterConstructionCallback)</span></div>
-<div class="block"><p>Gets a single instance of this class per provided <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdaterconstructioncallback" title="interface in com.here.sdk.maploader">MapUpdaterConstructionCallback</a> mapUpdaterConstructionCallback)</span></div>
+<div class="block"><p>Gets a single instance of this class per provided <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>sdkEngine</code> - <p>An instance of the SDKNativeEngine</p></dd>
@@ -164,15 +164,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <section class="detail" id="getCurrentMapVersion()">
 <h3>getCurrentMapVersion</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapversionhandle" title="class in com.here.sdk.maploader">MapVersionHandle</a></span> <span class="element-name">getCurrentMapVersion</span>()
-                                      throws <span class="exceptions"><a href="sdk-for-android-navigate-maploaderexception" title="class in com.here.sdk.maploader">MapLoaderException</a></span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-mapversionhandle" title="class in com.here.sdk.maploader">MapVersionHandle</a></span> <span class="element-name">getCurrentMapVersion</span>()
+                                      throws <span class="exceptions"><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploaderexception" title="class in com.here.sdk.maploader">MapLoaderException</a></span></div>
 <div class="block"><p>Returns a handle that contains the map version of the already downloaded and installed regions.
  This information is only needed for debugging purposes.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>A handle to get the map version.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-navigate-maploaderexception" title="class in com.here.sdk.maploader">MapLoaderException</a></code> - <p>Specifies reason, why current map version is not returned.</p></dd>
+<dd><code><a href="sdk-for-android-navigate-com-here-sdk-maploader-maploaderexception" title="class in com.here.sdk.maploader">MapLoaderException</a></code> - <p>Specifies reason, why current map version is not returned.</p></dd>
 </dl>
 </section>
 </li>
@@ -180,15 +180,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <section class="detail" id="updateCatalog(com.here.sdk.maploader.CatalogUpdateInfo,com.here.sdk.maploader.CatalogUpdateProgressListener)">
 <h3>updateCatalog</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-catalogupdatetask" title="class in com.here.sdk.maploader">CatalogUpdateTask</a></span> <span class="element-name">updateCatalog</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-catalogupdateinfo" title="class in com.here.sdk.maploader">CatalogUpdateInfo</a> catalogInfo,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdatetask" title="class in com.here.sdk.maploader">CatalogUpdateTask</a></span> <span class="element-name">updateCatalog</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateinfo" title="class in com.here.sdk.maploader">CatalogUpdateInfo</a> catalogInfo,
  @NonNull
- <a href="sdk-for-android-navigate-catalogupdateprogresslistener" title="interface in com.here.sdk.maploader">CatalogUpdateProgressListener</a> callback)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-catalogupdateprogresslistener" title="interface in com.here.sdk.maploader">CatalogUpdateProgressListener</a> callback)</span></div>
 <div class="block"><p>Performs an asynchronous request for each catalog to update map data to the latest available version.
- This applies to all previously installed <a href="sdk-for-android-navigate-region" title="class in com.here.sdk.maploader"><code>Region</code></a> map data and any incomplete downloads in a pending state.
+ This applies to all previously installed <a href="sdk-for-android-navigate-com-here-sdk-maploader-region" title="class in com.here.sdk.maploader"><code>Region</code></a> map data and any incomplete downloads in a pending state.
  If no regions are downloaded, this method updates only the map version.
  The map cache and persisted regions are always bound to the same map version.
- If no updates are available, <a href="sdk-for-android-navigate-catalogsupdateinfocallback" title="interface in com.here.sdk.maploader"><code>CatalogsUpdateInfoCallback</code></a> from
+ If no updates are available, <a href="sdk-for-android-navigate-com-here-sdk-maploader-catalogsupdateinfocallback" title="interface in com.here.sdk.maploader"><code>CatalogsUpdateInfoCallback</code></a> from
  <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)"><code>retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)</code></a> returns an empty list.
  In this case, <a href="sdk-for-android-navigate-mapupdateprogresslistener#onComplete(com.here.sdk.maploader.MapLoaderError)"><code>MapUpdateProgressListener.onComplete(com.here.sdk.maploader.MapLoaderError)</code></a> is called immediately.
  To check for available updates, use <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)"><code>retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)</code></a> to retrieve catalogs with newer versions.
@@ -214,11 +214,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <section class="detail" id="retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)">
 <h3>retrieveCatalogsUpdateInfo</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">retrieveCatalogsUpdateInfo</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-catalogsupdateinfocallback" title="interface in com.here.sdk.maploader">CatalogsUpdateInfoCallback</a> callback)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">retrieveCatalogsUpdateInfo</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-catalogsupdateinfocallback" title="interface in com.here.sdk.maploader">CatalogsUpdateInfoCallback</a> callback)</span></div>
 <div class="block"><p>Retrieves information of all catalogs that have newer version available. This method can also be used to query
  catalog information like HRN, current installed version and newer available version on server.
- An empty list in <a href="sdk-for-android-navigate-catalogsupdateinfocallback" title="interface in com.here.sdk.maploader"><code>CatalogsUpdateInfoCallback</code></a> represent no map updates.</p></div>
+ An empty list in <a href="sdk-for-android-navigate-com-here-sdk-maploader-catalogsupdateinfocallback" title="interface in com.here.sdk.maploader"><code>CatalogsUpdateInfoCallback</code></a> represent no map updates.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>callback</code> - <p>Callback which receives the result on the main thread.</p></dd>
@@ -231,11 +231,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <section class="detail" id="setVersionCommitPolicy(com.here.sdk.maploader.MapUpdater.MapUpdateVersionCommitPolicy)">
 <h3>setVersionCommitPolicy</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVersionCommitPolicy</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a> versionCommitPolicy)</span></div>
+ <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader">MapUpdater.MapUpdateVersionCommitPolicy</a> versionCommitPolicy)</span></div>
 <div class="block"><p>Sets the map update version policy. Defaults to <a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy#ON_COMPLETE"><code>MapUpdater.MapUpdateVersionCommitPolicy.ON_COMPLETE</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>versionCommitPolicy</code> - <p>to choose from <a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader"><code>MapUpdater.MapUpdateVersionCommitPolicy</code></a></p></dd>
+<dd><code>versionCommitPolicy</code> - <p>to choose from <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater.mapupdateversioncommitpolicy" title="enum class in com.here.sdk.maploader"><code>MapUpdater.MapUpdateVersionCommitPolicy</code></a></p></dd>
 </dl>
 </section>
 </li>
@@ -277,7 +277,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <section class="detail" id="getUpdateStatistics()">
 <h3>getUpdateStatistics</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-updatestatistics" title="class in com.here.sdk.maploader">UpdateStatistics</a></span> <span class="element-name">getUpdateStatistics</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-com-here-sdk-maploader-updatestatistics" title="class in com.here.sdk.maploader">UpdateStatistics</a></span> <span class="element-name">getUpdateStatistics</span>()</div>
 <div class="block"><p>Map update statistics for the ongoing session of the current application.
  In the event of binary updates, patches are downloaded and applied. This
  property helps to  determine the success or failure rate of applied patches.</p></div>
