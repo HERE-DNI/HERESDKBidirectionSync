@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-heremap"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.HereMap</div>
@@ -116,7 +119,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-heremap"
 <div class="block"><p>Gets the style that the map uses to customize the visual appearance of rendered features.
  Changes made to the map style using <a href="sdk-for-android-explore-style#update(com.here.sdk.mapview.Style)"><code>Style.update(com.here.sdk.mapview.Style)</code></a> are lost when new scene is loaded using
  <a href="sdk-for-android-explore-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a> and its variants as well as
- when map features are enabled or disabled using <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> and <a href="sdk-for-android-explore-mapscene#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a>.
+ when map features are enabled or disabled using <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a> and <a href="sdk-for-android-explore-mapscene#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List<java.lang.string>)</java.lang.string></code></a>.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
@@ -132,8 +135,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-heremap"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

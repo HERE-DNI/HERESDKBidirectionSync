@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routingoptions"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.routing.RoutingOptions</div>
 </div>
@@ -96,7 +99,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <div class="block">Options to specify how the tolls should be calculated,
  such as transponders, vehicle category, and emission type.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#transportSpecification">transportSpecification</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines the transport specification which contains the transport mode and the vehicle specifications
@@ -133,7 +136,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions" title="class in com.here.sdk.routing">RoutingOptions</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#fromDefaultParameterConfiguration()">fromDefaultParameterConfiguration</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
@@ -142,7 +145,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#hashCode()">hashCode</a>()</code></div>
-
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
 </div>
@@ -164,7 +167,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <section class="detail" id="transportSpecification">
 <h3>transportSpecification</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">transportSpecification</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">transportSpecification</span></div>
 <div class="block"><p>Defines the transport specification which contains the transport mode and the vehicle specifications
  for the transport mode chosen.
  <strong>Notes:</strong>
@@ -173,7 +176,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <li>By default all vehicle specifications from <a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#transportSpecification"><code>transportSpecification</code></a> are set to <code>null</code> and the
  <a href="sdk-for-android-explore-transportspecification#transportMode"><code>TransportSpecification.transportMode</code></a> from <a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#transportSpecification"><code>transportSpecification</code></a> is set to <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a>.</li>
 <li>A route can be calculated with only the <a href="sdk-for-android-explore-transportspecification#transportMode"><code>TransportSpecification.transportMode</code></a> from <a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#transportSpecification"><code>transportSpecification</code></a> set.</li>
-<li>It is highly recommended to define the <a href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a> that is being used in <a href="sdk-for-android-explore-vehiclespecification#truckCategory"><code>VehicleSpecification.truckCategory</code></a> from
+<li>It is highly recommended to define the <a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a> that is being used in <a href="sdk-for-android-explore-vehiclespecification#truckCategory"><code>VehicleSpecification.truckCategory</code></a> from
  <a href="sdk-for-android-explore-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#transportSpecification"><code>transportSpecification</code></a>, if the
  <a href="sdk-for-android-explore-transportspecification#transportMode"><code>TransportSpecification.transportMode</code></a> from <a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#transportSpecification"><code>transportSpecification</code></a> is set to <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>.</li>
 <li>The <a href="sdk-for-android-explore-vehiclespecification#occupancy"><code>VehicleSpecification.occupancy</code></a> from <a href="sdk-for-android-explore-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> won't have effect
@@ -300,7 +303,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <div class="block"><p>Returns the default configuration for the transport specification selected in <a href="sdk-for-android-explore-parameterconfiguration#transportSpecification"><code>ParameterConfiguration.transportSpecification</code></a>
  from <a href="sdk-for-android-explore-sdknativeengine#getParameterConfig()"><code>SDKNativeEngine.getParameterConfig()</code></a>.
  <strong>Note</strong> By default, the [sdk.core.ParameterConfiguration.transport_specification] from [sdk.core.engine.SDKNativeEngine.parameter_config]
- will return a valid <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object with the [sdk.transport.TransportSpecification.transport_mode]
+ will return a valid <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object with the [sdk.transport.TransportSpecification.transport_mode]
  set to <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -316,8 +319,8 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

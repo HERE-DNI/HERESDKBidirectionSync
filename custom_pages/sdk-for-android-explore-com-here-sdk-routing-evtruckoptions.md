@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evtruckoptions"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.routing.EVTruckOptions</div>
 </div>
@@ -55,7 +58,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evtruckoptions"
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Options to specify restrictions for route calculations.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#avoidedTruckRoadTypes">avoidedTruckRoadTypes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
@@ -68,7 +71,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evtruckoptions"
 <div class="block">Vehicle specific parameters, which are then used to calculate energy consumption
  for the vehicle on a given route.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#hazardousMaterials">hazardousMaterials</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
@@ -81,7 +84,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evtruckoptions"
 <div class="block">Specifies the last character of a vehicle's license plate, typically used to
  evaluate traffic restrictions in certain environmental or low-emission zones.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#linkTunnelCategory">linkTunnelCategory</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
@@ -120,7 +123,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evtruckoptions"
 <div class="block">Options to specify how the tolls should be calculated,
  such as transponders, vehicle category, and emission type.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-truckspecifications" title="class in com.here.sdk.transport">TruckSpecifications</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-truckspecifications" title="class in com.here.sdk.transport">TruckSpecifications</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions#truckSpecifications">truckSpecifications</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
@@ -273,7 +276,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evtruckoptions"
 <section class="detail" id="truckSpecifications">
 <h3>truckSpecifications</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-truckspecifications" title="class in com.here.sdk.transport">TruckSpecifications</a></span> <span class="element-name">truckSpecifications</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckspecifications" title="class in com.here.sdk.transport">TruckSpecifications</a></span> <span class="element-name">truckSpecifications</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Detailed truck specifications such as dimensions and weight.</p></div>
 </section>
@@ -282,31 +285,31 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evtruckoptions"
 <section class="detail" id="linkTunnelCategory">
 <h3>linkTunnelCategory</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">linkTunnelCategory</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">linkTunnelCategory</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Specifies the tunnel categories to restrict certain route links.
  The route will pass only through tunnels of a less strict category.
- Refer to <a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport"><code>TunnelCategory</code></a> for the available options.</p></div>
+ Refer to <a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport"><code>TunnelCategory</code></a> for the available options.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="hazardousMaterials">
 <h3>hazardousMaterials</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</span> <span class="element-name">hazardousMaterials</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</span> <span class="element-name">hazardousMaterials</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Specifies a list of hazardous materials shipped in the vehicle.
- Refer to <a href="sdk-for-android-explore-hazardousmaterial" title="enum class in com.here.sdk.transport"><code>HazardousMaterial</code></a> for the available options.</p></div>
+ Refer to <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport"><code>HazardousMaterial</code></a> for the available options.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="avoidedTruckRoadTypes">
 <h3>avoidedTruckRoadTypes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</span> <span class="element-name">avoidedTruckRoadTypes</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</span> <span class="element-name">avoidedTruckRoadTypes</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Specifies a list of avoided truck road types for vehicle.
- Refer to <a href="sdk-for-android-explore-truckroadtype" title="enum class in com.here.sdk.transport"><code>TruckRoadType</code></a> for the available options.</p></div>
+ Refer to <a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport"><code>TruckRoadType</code></a> for the available options.</p></div>
 </section>
 </li>
 <li>
@@ -372,8 +375,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-evtruckoptions"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

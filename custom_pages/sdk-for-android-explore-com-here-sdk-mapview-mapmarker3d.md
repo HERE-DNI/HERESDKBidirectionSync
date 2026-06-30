@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapMarker3D</div>
@@ -83,25 +86,25 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,double,com.here.sdk.mapview.RenderSize.Unit)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,double,com.here.sdk.mapview.RenderSize.Unit)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
  double scale,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> unit)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a flat marker from provided map image.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates an instance of a 3D marker.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
  double scale)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of a 3D marker with scale factor.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.RenderSize.Unit)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.RenderSize.Unit)">MapMarker3D</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
  double scale,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> unit)</code></div>
@@ -127,16 +130,16 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the bearing of the 3D model in degrees.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getCoordinates()">getCoordinates</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the 3D marker's position on the map corresponding to the origin of the 3D marker model
  coordinate system.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getMetadata()">getMetadata</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.</div>
+<div class="block">Gets the <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#getOpacity()">getOpacity</a>()</code></div>
@@ -180,7 +183,7 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 <div class="block">Sets the bearing of the 3D model in degrees.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setCoordinates(com.here.sdk.core.GeoCoordinates)">setCoordinates</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setCoordinates(com.here.sdk.core.GeoCoordinates)">setCoordinates</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the 3D marker's position on the map corresponding to the origin of the 3D marker model
  coordinate system.</div>
@@ -191,9 +194,9 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 <div class="block">Set whether the depth of the 3D marker's vertices is considered during rendering.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setMetadata(com.here.sdk.core.Metadata)">setMetadata</a><wbr/>(<a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setMetadata(com.here.sdk.core.Metadata)">setMetadata</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Sets the <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.</div>
+<div class="block">Sets the <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d#setOpacity(double)">setOpacity</a><wbr/>(double value)</code></div>
@@ -247,7 +250,7 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel)">
 <h3>MapMarker3D</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMarker3D</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model)</span></div>
 <div class="block"><p>Creates an instance of a 3D marker.
@@ -267,7 +270,7 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,double,com.here.sdk.mapview.RenderSize.Unit)">
 <h3>MapMarker3D</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMarker3D</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image,
  double scale,
@@ -306,7 +309,7 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double)">
 <h3>MapMarker3D</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMarker3D</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
  double scale)</span></div>
@@ -330,7 +333,7 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.RenderSize.Unit)">
 <h3>MapMarker3D</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMarker3D</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> at,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
  double scale,
@@ -374,7 +377,7 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 <section class="detail" id="getCoordinates()">
 <h3>getCoordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinates</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinates</span>()</div>
 <div class="block"><p>Gets the 3D marker's position on the map corresponding to the origin of the 3D marker model
  coordinate system.
  The altitude component of the coordinates, if set, controls 3D marker's elevation
@@ -389,7 +392,7 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 <section class="detail" id="setCoordinates(com.here.sdk.core.GeoCoordinates)">
 <h3>setCoordinates</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> value)</span></div>
 <div class="block"><p>Sets the 3D marker's position on the map corresponding to the origin of the 3D marker model
  coordinate system.
  The altitude component of the coordinates, if set, controls 3D marker's elevation
@@ -404,12 +407,12 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 <section class="detail" id="getMetadata()">
 <h3>getMetadata</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">getMetadata</span>()</div>
-<div class="block"><p>Gets the <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">getMetadata</span>()</div>
+<div class="block"><p>Gets the <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.
  The default value is <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.</p></dd>
+<dd><p>The <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.</p></dd>
 </dl>
 </section>
 </li>
@@ -417,11 +420,11 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 <section class="detail" id="setMetadata(com.here.sdk.core.Metadata)">
 <h3>setMetadata</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a> value)</span></div>
-<div class="block"><p>Sets the <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.</p></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a> value)</span></div>
+<div class="block"><p>Sets the <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>value</code> - <p>The <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.</p></dd>
+<dd><code>value</code> - <p>The <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core"><code>Metadata</code></a> instance attached to this 3D marker.</p></dd>
 </dl>
 </section>
 </li>
@@ -675,8 +678,8 @@ A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

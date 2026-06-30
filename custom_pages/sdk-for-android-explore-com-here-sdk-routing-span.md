@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-span"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.routing.Span</div>
@@ -44,7 +47,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-span"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-span#getBaseDuration()">getBaseDuration</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the time duration necessary to traverse the span, using the speed provided
@@ -66,7 +69,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-span"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the country code of the span.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-span#getDuration()">getDuration</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the time duration necessary to traverse the span, using the speed provided
@@ -82,10 +85,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-span"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the functional road class of the span.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-span#getGeometry()">getGeometry</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this span.</div>
+<div class="block">Gets the <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this span.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-span#getLengthInMeters()">getLengthInMeters</a>()</code></div>
@@ -143,7 +146,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-span"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The list of street attributes on the span.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-span#getStreetNames()">getStreetNames</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The street names on the span.</div>
@@ -200,11 +203,11 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-span"
 <section class="detail" id="getGeometry()">
 <h3>getGeometry</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getGeometry</span>()</div>
-<div class="block"><p>Gets the <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this span.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getGeometry</span>()</div>
+<div class="block"><p>Gets the <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this span.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this span.</p></dd>
+<dd><p>The <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this span.</p></dd>
 </dl>
 </section>
 </li>
@@ -354,7 +357,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-span"
 <section class="detail" id="getStreetNames()">
 <h3>getStreetNames</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getStreetNames</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getStreetNames</span>()</div>
 <div class="block"><p>The street names on the span.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -416,7 +419,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-span"
 <section class="detail" id="getDuration()">
 <h3>getDuration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()</div>
 <div class="block"><p>Gets the time duration necessary to traverse the span, using the speed provided
  in <a href="sdk-for-android-explore-com-here-sdk-routing-span#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a>. This duration takes also into
  consideration the delays caused by the traffic.</p></div>
@@ -432,7 +435,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-span"
 <section class="detail" id="getBaseDuration()">
 <h3>getBaseDuration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getBaseDuration</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getBaseDuration</span>()</div>
 <div class="block"><p>Gets the time duration necessary to traverse the span, using the speed provided
  in <a href="sdk-for-android-explore-com-here-sdk-routing-span#getDynamicSpeedInfo()"><code>getDynamicSpeedInfo()</code></a> without taking into consideration
  the delays caused by the traffic.</p></div>
@@ -498,8 +501,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-span"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

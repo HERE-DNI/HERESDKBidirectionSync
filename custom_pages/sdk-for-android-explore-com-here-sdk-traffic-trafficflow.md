@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflow"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.traffic.TrafficFlow</div>
@@ -33,7 +36,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflow"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficFlow</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a>
 implements <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></span></div>
-<div class="block"><p>This class provides details about traffic flow along a <a href="sdk-for-android-explore-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>, inside a <a href="sdk-for-android-explore-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> or a <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, that represents particular path of the road network.<br/>
+<div class="block"><p>This class provides details about traffic flow along a <a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>, inside a <a href="sdk-for-android-explore-com-here-sdk-core-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> or a <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, that represents particular path of the road network.<br/>
  Backends for TrafficEngine and traffic vector tiles are different however backends may share the same data.<br/>
  For additional information about fields, refer to <a href="https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html#tag/Real-Time-Traffic">Traffic API v7 API Reference: Traffic API v7</a>.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -257,8 +260,8 @@ This field can be used to identify whether the data for a location is derived fr
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

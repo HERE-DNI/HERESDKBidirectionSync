@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorr
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapitemrepresentation" title="class in com.here.sdk.mapview">com.here.sdk.mapview.MapItemRepresentation</a>
@@ -74,18 +77,18 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorr
  <a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a> capShape,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; colorStops,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a>&gt; colorIndices,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a>&gt; colors,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a>&gt; colors,
  double gradientLength)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a representation for a multicolored line without an outline.</div>
 </div>
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap,java.util.List,java.util.List,java.util.List,double)">SolidMultiColorRepresentation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> lineWidth,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> outlineWidth,
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> outlineColor,
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> outlineColor,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a> capShape,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; colorStops,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a>&gt; colorIndices,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a>&gt; colors,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a>&gt; colors,
  double gradientLength)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a representation for a multicolored line with an outline.</div>
@@ -112,7 +115,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorr
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorrepresentation#setMultiColors(java.util.List,java.util.List,java.util.List)">setMultiColors</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; colorStops,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a>&gt; colorIndices,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a>&gt; colors)</code></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a>&gt; colors)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets lists of colors and multiple color segment stops for the polyline to be colored in.</div>
 </div>
@@ -145,7 +148,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorr
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a>&gt; colorIndices,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a>&gt; colors,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a>&gt; colors,
  double gradientLength)</span>
                               throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a representation for a multicolored line without an outline.
@@ -207,7 +210,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorr
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> outlineWidth,
  @NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> outlineColor,
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> outlineColor,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a> capShape,
  @NonNull
@@ -215,7 +218,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorr
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a>&gt; colorIndices,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a>&gt; colors,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a>&gt; colors,
  double gradientLength)</span>
                               throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a representation for a multicolored line with an outline.
@@ -288,7 +291,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorr
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Long.html" title="class or interface in java.lang">Long</a>&gt; colorIndices,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a>&gt; colors)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a>&gt; colors)</span></div>
 <div class="block"><p>Sets lists of colors and multiple color segment stops for the polyline to be colored in.
  When this representation is already set on any <code>MapPolyline</code>, values will be applied on that <code>MapPolyline</code> right away.
  If this representation is not set on any <code>MapPolyline</code>, values will be applied once representation is set on a <code>MapPolyline</code>.
@@ -348,8 +351,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorr
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

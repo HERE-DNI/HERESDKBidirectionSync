@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchcallback"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
+</div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -91,8 +94,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchcallback"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

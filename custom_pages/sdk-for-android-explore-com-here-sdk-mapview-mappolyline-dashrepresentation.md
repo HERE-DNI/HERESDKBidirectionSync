@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapitemrepresentation" title="class in com.here.sdk.mapview">com.here.sdk.mapview.MapItemRepresentation</a>
@@ -63,15 +66,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color)">DashRepresentation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> lineWidth,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> dashLength,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> gapLength,
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> dashColor)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> dashColor)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a representation for a dashed line.</div>
 </div>
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.core.Color)">DashRepresentation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> lineWidth,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> dashLength,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> gapLength,
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> dashColor,
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> gapColor)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> dashColor,
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> gapColor)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a representation for a dashed line with both dash and the gap being colored.</div>
 </div>
@@ -89,7 +92,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation#getDashColor()">getDashColor</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the color of the dashes of the polyline.</div>
@@ -99,7 +102,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the map measure dependent polyline dash length.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation#getGapColor()">getGapColor</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the color for the gaps of the polyline.</div>
@@ -141,7 +144,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> gapLength,
  @NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> dashColor)</span>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> dashColor)</span>
                    throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a representation for a dashed line. Gaps are not displayed.
  At map measures smaller than the smallest map measure in the <code>lineWidth</code>,
@@ -178,9 +181,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> gapLength,
  @NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> dashColor,
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> dashColor,
  @NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> gapColor)</span>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> gapColor)</span>
                    throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a representation for a dashed line with both dash and the gap being colored.
  At map measures smaller than the smallest map measure in the <code>lineWidth</code>,
@@ -280,7 +283,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 <section class="detail" id="getDashColor()">
 <h3>getDashColor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getDashColor</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getDashColor</span>()</div>
 <div class="block"><p>Gets the color of the dashes of the polyline.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -292,7 +295,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 <section class="detail" id="getGapColor()">
 <h3>getGapColor</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getGapColor</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getGapColor</span>()</div>
 <div class="block"><p>Gets the color for the gaps of the polyline. Returns <code>null</code> if no
  color is used.</p></div>
 <dl class="notes">
@@ -309,8 +312,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

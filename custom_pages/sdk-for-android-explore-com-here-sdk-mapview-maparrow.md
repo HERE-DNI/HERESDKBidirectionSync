@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maparrow"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapArrow</div>
@@ -43,9 +46,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maparrow"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-maparrow#%3Cinit%3E(com.here.sdk.core.GeoPolyline,double,com.here.sdk.core.Color)">MapArrow</a><wbr/>(<a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-maparrow#%3Cinit%3E(com.here.sdk.core.GeoPolyline,double,com.here.sdk.core.Color)">MapArrow</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry,
  double widthInPixels,
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new <code>MapArrow</code> instance.</div>
 </div>
@@ -104,10 +107,10 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maparrow"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoPolyline,double,com.here.sdk.core.Color)">
 <h3>MapArrow</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapArrow</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry,
  double widthInPixels,
  @NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</span></div>
 <div class="block"><p>Creates a new <code>MapArrow</code> instance.
  Altitude component of <code>GeoPolyline</code>'s vertices is ignored.</p></div>
 <dl class="notes">
@@ -211,8 +214,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maparrow"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

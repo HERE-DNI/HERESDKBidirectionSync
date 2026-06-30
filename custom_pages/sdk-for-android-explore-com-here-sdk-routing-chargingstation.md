@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.routing.ChargingStation</div>
 </div>
@@ -39,12 +42,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#brand">brand</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Charging station brand.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#chargePointOperator">chargePointOperator</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Charging station charge-point-operator.</div>
@@ -59,7 +62,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 <div class="col-last odd-row-color">
 <div class="block">Identifier of this charging station.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#matchingEMobilityServiceProviders">matchingEMobilityServiceProviders</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of matched E-Mobility Service Providers.</div>
@@ -89,9 +92,9 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.routing.ChargingConnectorAttributes,com.here.sdk.core.NameID,com.here.sdk.core.NameID,java.util.List)">ChargingStation</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> id,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes,
- <a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a> brand,
- <a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a> chargePointOperator,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a>&gt; matchingEMobilityServiceProviders)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a> brand,
+ <a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a> chargePointOperator,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a>&gt; matchingEMobilityServiceProviders)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -111,10 +114,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#hashCode()">hashCode</a>()</code></div>
-
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
 </div>
@@ -163,7 +166,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 <section class="detail" id="brand">
 <h3>brand</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a></span> <span class="element-name">brand</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a></span> <span class="element-name">brand</span></div>
 <div class="block"><p>Charging station brand.
  <a href="sdk-for-android-explore-nameid#name"><code>NameID.name</code></a> reflect to charging station brand name.
  <a href="sdk-for-android-explore-nameid#id"><code>NameID.id</code></a> reflect to charging station brand unique ID.</p></div>
@@ -173,7 +176,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 <section class="detail" id="chargePointOperator">
 <h3>chargePointOperator</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a></span> <span class="element-name">chargePointOperator</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a></span> <span class="element-name">chargePointOperator</span></div>
 <div class="block"><p>Charging station charge-point-operator.
  <a href="sdk-for-android-explore-nameid#name"><code>NameID.name</code></a> reflect to charge-point-operator name.
  <a href="sdk-for-android-explore-nameid#id"><code>NameID.id</code></a> reflect to charge-point-operator ID.</p></div>
@@ -183,7 +186,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 <section class="detail" id="matchingEMobilityServiceProviders">
 <h3>matchingEMobilityServiceProviders</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a>&gt;</span> <span class="element-name">matchingEMobilityServiceProviders</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a>&gt;</span> <span class="element-name">matchingEMobilityServiceProviders</span></div>
 <div class="block"><p>List of matched E-Mobility Service Providers.
  Populated only when <a href="sdk-for-android-explore-electricvehicleoptions#evMobilityServiceProviderPreferences"><code>ElectricVehicleOptions.evMobilityServiceProviderPreferences</code></a> was set.
  This list reflects the subset of E-Mobility Service Providers supported by the charging station,
@@ -231,11 +234,11 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
  @Nullable
  <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes,
  @Nullable
- <a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a> brand,
+ <a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a> brand,
  @Nullable
- <a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a> chargePointOperator,
+ <a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a> chargePointOperator,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a>&gt; matchingEMobilityServiceProviders)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-nameid" title="class in com.here.sdk.core">NameID</a>&gt; matchingEMobilityServiceProviders)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -295,8 +298,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

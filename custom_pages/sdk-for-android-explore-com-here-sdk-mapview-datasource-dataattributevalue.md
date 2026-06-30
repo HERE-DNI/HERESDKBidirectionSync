@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.DataAttributeValue</div>
@@ -76,7 +79,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <div class="col-last odd-row-color">
 <div class="block">Creates a 64-bit integer data attribute value.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue#%3Cinit%3E(com.here.sdk.core.Color)">DataAttributeValue</a><wbr/>(<a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue#%3Cinit%3E(com.here.sdk.core.Color)">DataAttributeValue</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a color data attribute value.</div>
 </div>
@@ -117,7 +120,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the boolean value or <code>null</code> if the type doesn't match.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue#getColor()">getColor</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the color value or <code>null</code> if the type doesn't match.</div>
@@ -224,7 +227,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.Color)">
 <h3>DataAttributeValue</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
 <div class="block"><p>Creates a color data attribute value.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -328,7 +331,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <section class="detail" id="getColor()">
 <h3>getColor</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getColor</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getColor</span>()</div>
 <div class="block"><p>Gets the color value or <code>null</code> if the type doesn't match.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -367,8 +370,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

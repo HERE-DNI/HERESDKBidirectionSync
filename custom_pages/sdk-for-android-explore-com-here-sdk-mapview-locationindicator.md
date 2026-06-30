@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-locationindicator"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.LocationIndicator</div>
@@ -106,7 +109,7 @@ The location is made available to an instance of this class by calling <a href="
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Enables <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> for provided <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#getHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)">getHaloColor</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Retrieves the color of the accuracy indicator halo for the requested IndicatorStyle.</div>
@@ -149,7 +152,7 @@ The location is made available to an instance of this class by calling <a href="
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#setHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle,com.here.sdk.core.Color)">setHaloColor</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style,
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the color of the accuracy indicator halo for a given style.</div>
 </div>
@@ -186,12 +189,12 @@ The location is made available to an instance of this class by calling <a href="
 <div class="block">Sets the opacity of the location indicator.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#updateLocation(com.here.sdk.core.Location)">updateLocation</a><wbr/>(<a href="sdk-for-android-explore-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#updateLocation(com.here.sdk.core.Location)">updateLocation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Updates the indicator to a new location.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#updateLocation(com.here.sdk.core.Location,com.here.sdk.mapview.MapCameraUpdate)">updateLocation</a><wbr/>(<a href="sdk-for-android-explore-location" title="class in com.here.sdk.core">Location</a> location,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#updateLocation(com.here.sdk.core.Location,com.here.sdk.mapview.MapCameraUpdate)">updateLocation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Updates the indicator to a new location and applies a camera update at the same time.</div>
@@ -267,7 +270,7 @@ The location is made available to an instance of this class by calling <a href="
 <section class="detail" id="updateLocation(com.here.sdk.core.Location)">
 <h3>updateLocation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">updateLocation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-location" title="class in com.here.sdk.core">Location</a> location)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location)</span></div>
 <div class="block"><p>Updates the indicator to a new location.
  If accuracy visualized is set to <code>true</code> the field <a href="sdk-for-android-explore-location#horizontalAccuracyInMeters"><code>Location.horizontalAccuracyInMeters</code></a>
  determines the size of the accuracy indicator halo.
@@ -282,7 +285,7 @@ The location is made available to an instance of this class by calling <a href="
 <section class="detail" id="updateLocation(com.here.sdk.core.Location,com.here.sdk.mapview.MapCameraUpdate)">
 <h3>updateLocation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">updateLocation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-location" title="class in com.here.sdk.core">Location</a> location,
+ <a href="sdk-for-android-explore-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</span></div>
 <div class="block"><p>Updates the indicator to a new location and applies a camera update at the same time.
@@ -374,7 +377,7 @@ The location is made available to an instance of this class by calling <a href="
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setHaloColor</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style,
  @NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</span></div>
 <div class="block"><p>Sets the color of the accuracy indicator halo for a given style.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -389,7 +392,7 @@ The location is made available to an instance of this class by calling <a href="
 <section class="detail" id="getHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)">
 <h3>getHaloColor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getHaloColor</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getHaloColor</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style)</span></div>
 <div class="block"><p>Retrieves the color of the accuracy indicator halo for the requested IndicatorStyle.
  The default color is a translucent turquoise (rgba(0, 199, 194, 76)) for all IndicatorStyle settings.</p></div>
@@ -575,8 +578,8 @@ The location is made available to an instance of this class by calling <a href="
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

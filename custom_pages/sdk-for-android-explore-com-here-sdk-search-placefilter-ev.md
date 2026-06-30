@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter-ev"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.search.PlaceFilter.Ev</div>
 </div>
@@ -48,7 +51,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter-ev"
 <div class="col-last even-row-color">
 <div class="block">Filter to retrieve EV charging stations with at least one of the connector type IDs.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-currenttype" title="enum class in com.here.sdk.core">CurrentType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-currenttype" title="enum class in com.here.sdk.core">CurrentType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-placefilter-ev#currentType">currentType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Filter to retrieve EV charging stations with the given current type
@@ -101,10 +104,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter-ev"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-placefilter-ev#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-placefilter-ev#hashCode()">hashCode</a>()</code></div>
-
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
 </div>
@@ -165,7 +168,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter-ev"
 <section class="detail" id="currentType">
 <h3>currentType</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-currenttype" title="enum class in com.here.sdk.core">CurrentType</a></span> <span class="element-name">currentType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-currenttype" title="enum class in com.here.sdk.core">CurrentType</a></span> <span class="element-name">currentType</span></div>
 <div class="block"><p>Filter to retrieve EV charging stations with the given current type
  provided at one of the station EVSE. Accepted is either AC or DC.
  Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p></div>
@@ -221,8 +224,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter-ev"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

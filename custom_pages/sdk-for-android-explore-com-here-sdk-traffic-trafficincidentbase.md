@@ -13,16 +13,19 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
 
+</div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
-<dd><code><a href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></code>, <code><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident" title="class in com.here.sdk.traffic">TrafficIncident</a></code>, <code><a href="sdk-for-android-explore-trafficincidentonroute" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></code>, <code><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident" title="class in com.here.sdk.traffic">TrafficIncident</a></code>, <code><a href="sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TrafficIncidentBase</span></div>
@@ -41,7 +44,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase#getDescription()">getDescription</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the human readable description of the incident, possibly with location information.</div>
@@ -110,7 +113,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 <section class="detail" id="getDescription()">
 <h3>getDescription</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">getDescription</span>()</div>
+</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">getDescription</span>()</div>
 <div class="block"><p>Gets the human readable description of the incident, possibly with location information.
  The description is currently not present in our map data. Therefore, when
  accessing the data from a picked carto POI via <code>TrafficIncidentResult</code>, then
@@ -154,8 +157,8 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

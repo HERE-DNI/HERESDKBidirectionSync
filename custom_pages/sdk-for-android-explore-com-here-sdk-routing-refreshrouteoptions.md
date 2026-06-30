@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteoptions"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.routing.RefreshRouteOptions</div>
@@ -104,10 +107,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteoptions"
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-explore-com-here-sdk-routing-truckoptions" title="class in com.here.sdk.routing"><code>TruckOptions</code></a>.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.transport.TransportMode)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-explore-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteoptions#%3Cinit%3E(com.here.sdk.transport.TransportMode)">RefreshRouteOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode)</code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-explore-transportmode" title="enum class in com.here.sdk.transport"><code>TransportMode</code></a>.</div>
+<div class="block">Constructs a RefreshRouteOptions object with <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport"><code>TransportMode</code></a>.</div>
 </div>
 </div>
 </section>
@@ -134,9 +137,9 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.transport.TransportMode)">
 <h3>RefreshRouteOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RefreshRouteOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a> transportMode)</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Constructs a RefreshRouteOptions object with <a href="sdk-for-android-explore-transportmode" title="enum class in com.here.sdk.transport"><code>TransportMode</code></a>.</p></div>
+<div class="block"><p>Constructs a RefreshRouteOptions object with <a href="sdk-for-android-explore-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport"><code>TransportMode</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>transportMode</code> - <p>Updates the transport mode for the route.</p></dd>
@@ -300,8 +303,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteoptions"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
 
+</div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
@@ -101,8 +104,8 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

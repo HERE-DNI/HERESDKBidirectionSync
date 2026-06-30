@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authentication"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.Authentication</div>
@@ -45,13 +48,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authentication"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine)">authenticate</a><wbr/>(<a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkNativeEngine)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine)">authenticate</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkNativeEngine)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Uses the authentication service that is connected to the given SDK engine to authenticate and
  retrieve a secure token.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.core.AuthenticationCallback)">authenticate</a><wbr/>(<a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkNativeEngine,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-authentication#authenticate(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.core.AuthenticationCallback)">authenticate</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkNativeEngine,
  <a href="sdk-for-android-explore-com-here-sdk-core-authenticationcallback" title="interface in com.here.sdk.core">AuthenticationCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Uses the authentication service that is connected to the given SDK engine to authenticate and
@@ -78,7 +81,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authentication"
 <section class="detail" id="authenticate(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.core.AuthenticationCallback)">
 <h3>authenticate</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">authenticate</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkNativeEngine,
+ <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkNativeEngine,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-core-authenticationcallback" title="interface in com.here.sdk.core">AuthenticationCallback</a> callback)</span></div>
 <div class="block"><p>Uses the authentication service that is connected to the given SDK engine to authenticate and
@@ -95,7 +98,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authentication"
 <h3>authenticate</h3>
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-authenticationdata" title="class in com.here.sdk.core">AuthenticationData</a></span> <span class="element-name">authenticate</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkNativeEngine)</span>
+ <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkNativeEngine)</span>
                                        throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-authenticationexception" title="class in com.here.sdk.core">AuthenticationException</a></span></div>
 <div class="block"><p>Uses the authentication service that is connected to the given SDK engine to authenticate and
  retrieve a secure token. This method operates synchronously.</p></div>
@@ -116,8 +119,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-authentication"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

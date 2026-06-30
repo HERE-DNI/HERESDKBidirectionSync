@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-conte
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a>&gt;
 <div class="inheritance">com.here.sdk.mapview.MapScene.MapPickFilter.ContentType</div>
@@ -66,7 +69,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-conte
 <div class="block">Pickable map content currently consists of:
  
  Embedded carto POI markers that by default are available on the map.
- Traffic incidents that are visible when they are enabled using <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
+ Traffic incidents that are visible when they are enabled using <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a>
  with <a href="sdk-for-android-explore-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>.
  Vehicle restrictions are only available for the Navigate license.</div>
 </div>
@@ -133,10 +136,10 @@ the order they are declared.</div>
 <div class="block"><p>Pickable map content currently consists of:
  <ul>
 <li>Embedded carto POI markers that by default are available on the map.</li>
-<li>Traffic incidents that are visible when they are enabled using <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
+<li>Traffic incidents that are visible when they are enabled using <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a>
  with <a href="sdk-for-android-explore-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>.</li>
 <li>Vehicle restrictions are only available for the Navigate license.
- Vehicle restrictions are enabled using <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> with
+ Vehicle restrictions are enabled using <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a> with
  <code>MapFeatures.VEHICLE_RESTRICTIONS</code>. Please note that the vehicle restriction line marking the
  affected street is pickable and not the restriction icon itself.
  Only visible POIs, traffic incidents and vehicle restrictions lines can be picked, i.e. only
@@ -148,8 +151,8 @@ the order they are declared.</div>
 <section class="detail" id="CUSTOM_LAYER_DATA">
 <h3>CUSTOM_LAYER_DATA</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter-contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></span> <span class="element-name">CUSTOM_LAYER_DATA</span></div>
-<div class="block"><p>Custom user map content added using custom datasources e.g. <a href="sdk-for-android-explore-linedatasource" title="class in com.here.sdk.mapview.datasource"><code>LineDataSource</code></a>,
- <a href="sdk-for-android-explore-polygondatasource" title="class in com.here.sdk.mapview.datasource"><code>PolygonDataSource</code></a> and layers.</p></div>
+<div class="block"><p>Custom user map content added using custom datasources e.g. <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource" title="class in com.here.sdk.mapview.datasource"><code>LineDataSource</code></a>,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource" title="class in com.here.sdk.mapview.datasource"><code>PolygonDataSource</code></a> and layers.</p></div>
 </section>
 </li>
 </ul>
@@ -198,8 +201,8 @@ not permitted.)</div>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

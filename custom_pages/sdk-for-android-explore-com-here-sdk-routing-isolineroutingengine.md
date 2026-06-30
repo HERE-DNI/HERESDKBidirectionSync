@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.routing.IsolineRoutingEngine</div>
@@ -46,11 +49,11 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine"
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of this class.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">IsolineRoutingEngine</a><wbr/>(<a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">IsolineRoutingEngine</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance of IsolineRoutingEngine.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.routing.RoutingConnectionSettings)">IsolineRoutingEngine</a><wbr/>(<a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.routing.RoutingConnectionSettings)">IsolineRoutingEngine</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
  <a href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings" title="class in com.here.sdk.routing">RoutingConnectionSettings</a> connectionSettings)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance of RoutingEngine.</div>
@@ -73,7 +76,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine#calculateIsoline(com.here.sdk.routing.Waypoint,com.here.sdk.routing.IsolineOptions,com.here.sdk.routing.CalculateIsolineCallback)">calculateIsoline</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a> center,
  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions" title="class in com.here.sdk.routing">IsolineOptions</a> isolineOptions,
  <a href="sdk-for-android-explore-com-here-sdk-routing-calculateisolinecallback" title="interface in com.here.sdk.routing">CalculateIsolineCallback</a> callback)</code></div>
@@ -107,11 +110,11 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine"
 <section class="detail" id="&lt;init&gt;()">
 <h3>IsolineRoutingEngine</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">IsolineRoutingEngine</span>()
-                     throws <span class="exceptions"><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+                     throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class.</p></div>
 <dl class="notes">
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -120,13 +123,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine"
 <h3>IsolineRoutingEngine</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">IsolineRoutingEngine</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings" title="class in com.here.sdk.routing">RoutingConnectionSettings</a> connectionSettings)</span>
-                     throws <span class="exceptions"><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+                     throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of RoutingEngine.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>connectionSettings</code> - <p>Settings for the route calculation.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -134,17 +137,17 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.routing.RoutingConnectionSettings)">
 <h3>IsolineRoutingEngine</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">IsolineRoutingEngine</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
+ <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings" title="class in com.here.sdk.routing">RoutingConnectionSettings</a> connectionSettings)</span>
-                     throws <span class="exceptions"><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+                     throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of RoutingEngine.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>sdkEngine</code> - <p>An SDKEngine instance.</p></dd>
 <dd><code>connectionSettings</code> - <p>Settings for the route calculation.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -152,14 +155,14 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine)">
 <h3>IsolineRoutingEngine</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">IsolineRoutingEngine</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
-                     throws <span class="exceptions"><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
+                     throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of IsolineRoutingEngine.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>sdkEngine</code> - <p>An SDKEngine instance.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -175,7 +178,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine"
 <section class="detail" id="calculateIsoline(com.here.sdk.routing.Waypoint,com.here.sdk.routing.IsolineOptions,com.here.sdk.routing.CalculateIsolineCallback)">
 <h3>calculateIsoline</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateIsoline</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateIsoline</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a> center,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions" title="class in com.here.sdk.routing">IsolineOptions</a> isolineOptions,
@@ -230,8 +233,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineroutingengine"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
@@ -63,8 +66,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Adds a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to this map view.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">geoToViewCoordinates</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">geoToViewCoordinates</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Converts geographical coordinates to view coordinates (in pixels).</div>
 </div>
@@ -78,7 +81,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets maximum render frame rate in frames per second.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-gestures" title="class in com.here.sdk.gestures">Gestures</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-gestures-gestures" title="class in com.here.sdk.gestures">Gestures</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getGestures()">getGestures</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the gestures control object.</div>
@@ -103,12 +106,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the pixel scale factor used by this <code>MapView</code>.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getViewportSize()">getViewportSize</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the size of this map view in physical pixels.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#getWatermarkSize()">getWatermarkSize</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Returns the watermark size in physical pixels.</div>
@@ -120,7 +123,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">pick</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter,
- <a href="sdk-for-android-explore-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
+ <a href="sdk-for-android-explore-com-here-sdk-core-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Returns all map content located inside the specified pick area.</div>
@@ -136,13 +139,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 <div class="block">Sets maximum render frame rate in frames per second.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">setWatermarkLocation</a><wbr/>(<a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor,
- <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">setWatermarkLocation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor,
+ <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the position of the HERE logo watermark within the map view.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#viewToGeoCoordinates(com.here.sdk.core.Point2D)">viewToGeoCoordinates</a><wbr/>(<a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase#viewToGeoCoordinates(com.here.sdk.core.Point2D)">viewToGeoCoordinates</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Converts view coordinates (in pixels) to geographical coordinates.</div>
 </div>
@@ -164,8 +167,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 <section class="detail" id="viewToGeoCoordinates(com.here.sdk.core.Point2D)">
 <h3>viewToGeoCoordinates</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">viewToGeoCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</span></div>
+</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">viewToGeoCoordinates</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</span></div>
 <div class="block"><p>Converts view coordinates (in pixels) to geographical coordinates.
  An optional altitude component of the resulting geographical coordinate is not set.
  If the view coordinates specify a point above a horizon, then the result
@@ -188,8 +191,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 <section class="detail" id="geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">
 <h3>geoToViewCoordinates</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="return-type"><a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">geoToViewCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
+</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">geoToViewCoordinates</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
 <div class="block"><p>Converts geographical coordinates to view coordinates (in pixels).
  If specified, altitude of the input coordinates is interpreted as altitude above sea level.
  If not specified, the input coordinates are interpreted as being on ground elevation.
@@ -210,9 +213,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 <section class="detail" id="setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">
 <h3>setWatermarkLocation</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">setWatermarkLocation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor,
+ <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor,
  @NonNull
- <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</span></div>
 <div class="block"><p>Sets the position of the HERE logo watermark within the map view.
  By default, the watermark is aligned to the bottom-right corner of the view:
  Anchor2D(1.0, 1.0) and Point2D(-watermarkSize.width / 2, -watermarkSize.height / 2).
@@ -272,7 +275,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">pick</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene-mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter,
  @NonNull
- <a href="sdk-for-android-explore-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
+ <a href="sdk-for-android-explore-com-here-sdk-core-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</span></div>
 <div class="block"><p>Returns all map content located inside the specified pick area. Content to be picked is
@@ -319,7 +322,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 <section class="detail" id="getGestures()">
 <h3>getGestures</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-gestures" title="class in com.here.sdk.gestures">Gestures</a></span> <span class="element-name">getGestures</span>()</div>
+</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-gestures-gestures" title="class in com.here.sdk.gestures">Gestures</a></span> <span class="element-name">getGestures</span>()</div>
 <div class="block"><p>Gets the gestures control object.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -367,7 +370,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 <section class="detail" id="getViewportSize()">
 <h3>getViewportSize</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getViewportSize</span>()</div>
+</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getViewportSize</span>()</div>
 <div class="block"><p>Gets the size of this map view in physical pixels.
  If internally the map view's render surface is not attached yet
  (see: <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a>), or after the map view has been destroyed
@@ -424,7 +427,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 <section class="detail" id="getWatermarkSize()">
 <h3>getWatermarkSize</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getWatermarkSize</span>()</div>
+</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getWatermarkSize</span>()</div>
 <div class="block"><p>Returns the watermark size in physical pixels.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -439,8 +442,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewbase"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

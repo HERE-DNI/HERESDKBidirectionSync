@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.engine.SDKNativeEngine</div>
@@ -214,14 +217,14 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine"
  android.content.Context androidContext,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span>
-                throws <span class="exceptions"><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+                throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Makes a new instance of SDKNativeEngine using supplied options.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>androidContext</code> - <p>The Android context</p></dd>
 <dd><code>options</code> - <p>The options for the new engine.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -299,7 +302,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine"
  android.content.Context androidContext,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span>
-                               throws <span class="exceptions"><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+                               throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Makes a new instance of this class using the supplied options and stores it as shared instance
  see <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine#getSharedInstance()"><code>getSharedInstance()</code></a>. If there was a previously shared instance
  then it's disposed (so there is no need to call <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine#dispose()"><code>dispose()</code></a> on app side) before the new instance is created.
@@ -310,7 +313,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine"
 <dd><code>androidContext</code> - <p>The Android context</p></dd>
 <dd><code>options</code> - <p>The options for the new engine.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -569,8 +572,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

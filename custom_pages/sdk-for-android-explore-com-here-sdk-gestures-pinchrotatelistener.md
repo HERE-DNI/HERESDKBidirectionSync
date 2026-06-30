@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.gestures</a></div>
 
+</div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">PinchRotateListener</span></div>
@@ -41,10 +44,10 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener#onPinchRotate(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D,com.here.sdk.core.Point2D,double,com.here.sdk.core.Angle)">onPinchRotate</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-gestures-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
- <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> pinchOrigin,
- <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> rotationOrigin,
+ <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> pinchOrigin,
+ <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> rotationOrigin,
  double twoFingerDistance,
- <a href="sdk-for-android-explore-angle" title="class in com.here.sdk.core">Angle</a> rotation)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-angle" title="class in com.here.sdk.core">Angle</a> rotation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when the pinch rotate gesture occurs.</div>
 </div>
@@ -68,12 +71,12 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener"
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onPinchRotate</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-com-here-sdk-gestures-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
  @NonNull
- <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> pinchOrigin,
+ <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> pinchOrigin,
  @NonNull
- <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> rotationOrigin,
+ <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> rotationOrigin,
  double twoFingerDistance,
  @NonNull
- <a href="sdk-for-android-explore-angle" title="class in com.here.sdk.core">Angle</a> rotation)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-angle" title="class in com.here.sdk.core">Angle</a> rotation)</span></div>
 <div class="block"><p>Called when the pinch rotate gesture occurs.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -94,8 +97,8 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

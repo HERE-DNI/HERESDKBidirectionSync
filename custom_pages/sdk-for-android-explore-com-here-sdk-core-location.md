@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-location"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.core.Location</div>
 </div>
@@ -54,7 +57,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-location"
 <div class="col-last even-row-color">
 <div class="block">The geographic coordinates of the location.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-location#gnssTime">gnssTime</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional gnss time at which the location was determined.</div>
@@ -94,7 +97,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-location"
 <div class="col-last even-row-color">
 <div class="block">The time at which the location was determined.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-location#timestampSinceBoot">timestampSinceBoot</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The time at which the location was determined, relative to device
@@ -136,10 +139,10 @@ slug: "sdk-for-android-explore-com-here-sdk-core-location"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-location#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-location#hashCode()">hashCode</a>()</code></div>
-
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
 </div>
@@ -237,7 +240,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-location"
 <section class="detail" id="timestampSinceBoot">
 <h3>timestampSinceBoot</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">timestampSinceBoot</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">timestampSinceBoot</span></div>
 <div class="block"><p>The time at which the location was determined, relative to device
  boot time. This time is monotonic and not affected by leap time or other system
  time adjustments, so this is the recommended basis for general purpose interval timing
@@ -267,7 +270,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-location"
 <section class="detail" id="gnssTime">
 <h3>gnssTime</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">gnssTime</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">gnssTime</span></div>
 <div class="block"><p>Optional gnss time at which the location was determined.
  It is a time interval from the Unix time epoch in milliseconds.
  If it cannot be determined, the value is <code>null</code>.</p></div>
@@ -339,8 +342,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-location"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

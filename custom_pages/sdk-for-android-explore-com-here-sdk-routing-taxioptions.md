@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-taxioptions"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.routing.TaxiOptions</div>
 </div>
@@ -57,7 +60,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-taxioptions"
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Options to specify restrictions for route calculations.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-carspecifications" title="class in com.here.sdk.transport">CarSpecifications</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-carspecifications" title="class in com.here.sdk.transport">CarSpecifications</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-taxioptions#carSpecifications">carSpecifications</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
@@ -239,7 +242,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-taxioptions"
 <section class="detail" id="carSpecifications">
 <h3>carSpecifications</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-carspecifications" title="class in com.here.sdk.transport">CarSpecifications</a></span> <span class="element-name">carSpecifications</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-carspecifications" title="class in com.here.sdk.transport">CarSpecifications</a></span> <span class="element-name">carSpecifications</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Detailed car specifications such as dimensions and weight.</p></div>
 </section>
@@ -318,8 +321,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-taxioptions"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

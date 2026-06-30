@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-animationlistener"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.animation</a></div>
 
+</div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">AnimationListener</span></div>
@@ -75,8 +78,8 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-animationlistener"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

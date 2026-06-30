@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.threading</a></div>
 
+</div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TaskHandle</span></div>
@@ -112,8 +115,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

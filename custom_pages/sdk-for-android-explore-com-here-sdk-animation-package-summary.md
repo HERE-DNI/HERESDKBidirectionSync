@@ -13,11 +13,13 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-package-summary"
 
 
 
+<div class="flex-box">
 
+<div class="flex-content">
 
+<div class="header">
 
-
-
+</div>
 
 <div class="package-signature">package <span class="element-name">com.here.sdk.animation</span></div>
 <section class="summary">
@@ -84,7 +86,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-package-summary"
 </div>
 <div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
-<div class="block">An animation that can be applied to the <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> object.</div>
+<div class="block">An animation that can be applied to the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> object.</div>
 </div>
 <div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab3">
@@ -96,7 +98,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-package-summary"
 </div>
 <div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
-<div class="block">An animation that can be applied to the <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a> object.</div>
+<div class="block">An animation that can be applied to the <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a> object.</div>
 </div>
 <div class="col-first odd-row-color class-summary class-summary-tab3"><a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab3">
@@ -121,8 +123,8 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-package-summary"
 </ul>
 </section>
 
-
-
+</div>
+</div>
 
 
 

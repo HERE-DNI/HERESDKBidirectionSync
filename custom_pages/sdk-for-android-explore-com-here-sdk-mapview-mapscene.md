@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscene"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapScene</div>
@@ -48,12 +51,12 @@ The content of the displayed map and how it looks is specified by a
 Different map schemes offer different sets of features, for example showing traffic or 3D buildings.
  Some features have multiple modes of operation, but most have only one.
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#getSupportedFeatures()"><code>getSupportedFeatures()</code></a> can be used to check what features and modes are supported
- for the current scene. Features can be enabled using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> and disabled
- with <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a>. Checking which features are currently enabled can be done using
+ for the current scene. Features can be enabled using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a> and disabled
+ with <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List<java.lang.string>)</java.lang.string></code></a>. Checking which features are currently enabled can be done using
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#getActiveFeatures()"><code>getActiveFeatures()</code></a>. For convenience, <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> and <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> hold
  constants for feature and mode names.
  Since version 4.15.0, map features cannot be controlled using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>, since <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a> controls
- only visibility of the layers which are corresponding to the features enabled either by <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
+ only visibility of the layers which are corresponding to the features enabled either by <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a>
  or enabled by default for the scene.
  
 A map scheme is organized in layers, which can be controlled using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>.
@@ -336,8 +339,8 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
  Any previous map scene config will be replaced. The loaded scene is cached and so any changes
  made to the scene files on disk might not get reflected on a successive call to this function.
  Instead the reloadScene API can handle such use-cases to force-update the scene.
- Map features enabled or disabled using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
- and <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a> will be reset to defaults for the new
+ Map features enabled or disabled using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a>
+ and <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List<java.lang.string>)</java.lang.string></code></a> will be reset to defaults for the new
  scene configuration.
  The callback is called on the main thread.
  When recreating an activity following a device rotation, it is not necessary to call this
@@ -360,8 +363,8 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <div class="block"><p>Asynchronously loads a map scene described by a specified file in one of the supported formats.
  Any previous map scene config will be replaced.
  When loading the same file again, consider to call <code>reloadScene()</code> instead.
- Map features enabled or disabled using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
- and <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a> will be reset to defaults for the new
+ Map features enabled or disabled using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a>
+ and <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List<java.lang.string>)</java.lang.string></code></a> will be reset to defaults for the new
  scene configuration.
  The callback is called on the main thread.
  When recreating an activity following a device rotation, it is not necessary to call this
@@ -389,8 +392,8 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
  The style of the HERE watermark matching the map scheme is specified. Any previous map scene
  config will be replaced.
  When loading the same file again, consider to call <code>reloadScene()</code> instead.
- Map features enabled or disabled using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
- and <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a> will be reset to defaults for the new
+ Map features enabled or disabled using <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a>
+ and <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List<java.lang.string>)</java.lang.string></code></a> will be reset to defaults for the new
  scene configuration.
  The callback is called on the main thread.
  When recreating an activity following a device rotation, it is not necessary to call this
@@ -821,7 +824,7 @@ User generated content can be visualised on the map using <a href="sdk-for-andro
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</span> <span class="element-name">getActiveFeatures</span>()</div>
 <div class="block"><p>Gets map features that are currently active. Active features are features that are either
- enabled via a call to <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> or that are enabled by default in the scene.
+ enabled via a call to <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscene#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a> or that are enabled by default in the scene.
  The key to the resulting map is the name of the feature
  and the value is the active mode.
  Result is empty if scene has not been loaded.</p></div>
@@ -936,8 +939,8 @@ Error Handling:
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

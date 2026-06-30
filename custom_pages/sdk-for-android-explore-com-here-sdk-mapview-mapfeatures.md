@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.mapview.MapFeatures</div>
 </div>
@@ -27,7 +30,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapFeatures</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Holds constants for map features, to be used with
- <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> and <a href="sdk-for-android-explore-mapscene#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a>.
+ <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a> and <a href="sdk-for-android-explore-mapscene#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List<java.lang.string>)</java.lang.string></code></a>.
  See <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> for constants representing feature modes.</p></div>
 </section>
 <section class="summary">
@@ -110,7 +113,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#%3Cinit%3E()">MapFeatures</a>()</code></div>
-
+<div class="col-last even-row-color"> </div>
 </div>
 </section>
 </li>
@@ -407,8 +410,8 @@ Default mode is <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABEL
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

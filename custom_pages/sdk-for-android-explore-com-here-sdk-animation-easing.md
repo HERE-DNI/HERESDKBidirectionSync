@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-easing"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.animation</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.animation.Easing</div>
@@ -66,7 +69,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-easing"
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of <a href="sdk-for-android-explore-com-here-sdk-animation-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a predefined easing function.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easing#%3Cinit%3E(java.util.List)">Easing</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a>&gt; points)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easing#%3Cinit%3E(java.util.List)">Easing</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a>&gt; points)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates an instance of customized <a href="sdk-for-android-explore-com-here-sdk-animation-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a specified number of points describing an
  easing function.</div>
@@ -108,7 +111,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-easing"
 <section class="detail" id="&lt;init&gt;(java.util.List)">
 <h3>Easing</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Easing</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a>&gt; points)</span>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a>&gt; points)</span>
        throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a></span></div>
 <div class="block"><p>Creates an instance of customized <a href="sdk-for-android-explore-com-here-sdk-animation-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a specified number of points describing an
  easing function.</p></div>
@@ -141,8 +144,8 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-easing"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

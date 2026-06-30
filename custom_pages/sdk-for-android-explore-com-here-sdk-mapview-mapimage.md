@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimage"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapImage</div>
@@ -128,7 +131,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimage"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> filePath,
  long width,
  long height)</span>
-         throws <span class="exceptions"><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+         throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new map image from the provided path to the SVG Tiny or PNG image.
  Will throw an error if either the height or width equals zero or the path is empty.
  Trying to load a file that is not compliant with SVG Tiny or PNG results
@@ -146,7 +149,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimage"
 <dd><code>width</code> - <p>The width of image in pixels.</p></dd>
 <dd><code>height</code> - <p>The height of image in pixels.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -157,8 +160,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimage"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

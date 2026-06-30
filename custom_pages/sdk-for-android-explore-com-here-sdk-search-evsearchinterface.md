@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchinterface"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
+</div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
@@ -43,7 +46,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchinterface"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearchinterface#search(java.util.List,com.here.sdk.search.EVSearchCallback)">search</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; ids,
  <a href="sdk-for-android-explore-com-here-sdk-search-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
@@ -67,7 +70,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchinterface"
 <section class="detail" id="search(java.util.List,com.here.sdk.search.EVSearchCallback)">
 <h3>search</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
+</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; ids,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-search-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</span></div>
@@ -88,8 +91,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchinterface"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

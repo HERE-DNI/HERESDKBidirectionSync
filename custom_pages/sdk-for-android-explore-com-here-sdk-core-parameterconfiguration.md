@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.core.ParameterConfiguration</div>
 </div>
@@ -40,7 +43,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration#transportSpecification">transportSpecification</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Stores default values related to pedestrian, vehicle, scooter and taxi specifications.</div>
@@ -76,10 +79,10 @@ slug: "sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration#hashCode()">hashCode</a>()</code></div>
-
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
 </div>
@@ -101,7 +104,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
 <section class="detail" id="transportSpecification">
 <h3>transportSpecification</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">transportSpecification</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">transportSpecification</span></div>
 <div class="block"><p>Stores default values related to pedestrian, vehicle, scooter and taxi specifications.</p></div>
 </section>
 </li>
@@ -119,7 +122,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ParameterConfiguration</span>()</div>
 <div class="block"><p>Creates a new instance of <a href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.
  <strong>Note</strong> By default, the [ParameterConfiguration.transport_specification] will return a
- valid <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object with the [sdk.transport.TransportSpecification.transport_mode] set
+ valid <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object with the [sdk.transport.TransportSpecification.transport_mode] set
  to <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a>.</p></div>
 </section>
 </li>
@@ -158,8 +161,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

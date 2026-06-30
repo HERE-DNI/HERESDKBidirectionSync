@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.ev</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a>&gt;
 <div class="inheritance">com.here.sdk.ev.EVSEPaymentSupport</div>
@@ -351,8 +354,8 @@ not permitted.)</div>
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

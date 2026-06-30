@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapLayerPriorityBuilder</div>
@@ -281,7 +284,7 @@ In case an empty MapLayerPriority without any ordering commands is built, it is 
  with these functions since previous priorities would be ingored. For example the priority to
  render layer category 'C' after layer 'L' would be overridden by the priority to
  render layer category 'C' before layer 'L' when building something like
- <code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
+ <code>withCategory("C").renderedAfterLayer("L").withCategory("C").renderedBeforeLayer("L")</code>
 The previously defined and prioritised categories can be used as reference.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -303,7 +306,7 @@ The previously defined and prioritised categories can be used as reference.</p><
  with these functions since previous priorities would be ingored. For example the priority to
  render layer category 'C' after layer 'L' would be overridden by the priority to
  render layer category 'C' before layer 'L' when building something like
- <code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
+ <code>withCategory("C").renderedAfterLayer("L").withCategory("C").renderedBeforeLayer("L")</code>
 The previously defined and prioritised categories can be used as reference.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -327,7 +330,7 @@ The previously defined and prioritised categories can be used as reference.</p><
  with these functions since previous priorities would be ingored. For example the priority to
  render layer category 'C' after layer 'L' would be overridden by the priority to
  render layer category 'C' before layer 'L' when building something like
- <code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
+ <code>withCategory("C").renderedAfterLayer("L").withCategory("C").renderedBeforeLayer("L")</code>
 The previously defined and prioritised categories can be used as reference.
  If the referenceLayer does not exist, then the function will set the priority as rendered
  before all layers and categories.</p></div>
@@ -357,7 +360,7 @@ The previously defined and prioritised categories can be used as reference.
  with these functions since previous priorities would be ingored. For example the priority to
  render layer category 'C' after layer 'L' would be overridden by the priority to
  render layer category 'C' before layer 'L' when building something like
- <code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
+ <code>withCategory("C").renderedAfterLayer("L").withCategory("C").renderedBeforeLayer("L")</code>
 The previously defined and prioritised categories can be used as reference.
  If the referenceLayer and/or the referenceCategory do not exist, then the function will set
  the priority as rendered before all layers and categories.</p></div>
@@ -386,7 +389,7 @@ The previously defined and prioritised categories can be used as reference.
  with these functions since previous priorities would be ingored. For example the priority to
  render layer category 'C' after layer 'L' would be overridden by the priority to
  render layer category 'C' before layer 'L' when building something like
- <code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
+ <code>withCategory("C").renderedAfterLayer("L").withCategory("C").renderedBeforeLayer("L")</code>
 The previously defined and prioritised categories can be used as reference.
  If the referenceLayer does not exist, then the function will set the priority as rendered
  after all layers and categories.</p></div>
@@ -416,7 +419,7 @@ The previously defined and prioritised categories can be used as reference.
  with these functions since previous priorities would be ingored. For example the priority to
  render layer category 'C' after layer 'L' would be overridden by the priority to
  render layer category 'C' before layer 'L' when building something like
- <code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
+ <code>withCategory("C").renderedAfterLayer("L").withCategory("C").renderedBeforeLayer("L")</code>
 The previously defined and prioritised categories can be used as reference.
  If the referenceLayer and/or the referenceCategory do not exist, then the function will set
  the priority as rendered after all layers and categories.</p></div>
@@ -449,8 +452,8 @@ The previously defined and prioritised categories can be used as reference.
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

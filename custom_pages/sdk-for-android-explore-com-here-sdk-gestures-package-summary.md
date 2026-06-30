@@ -13,11 +13,13 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-package-summary"
 
 
 
+<div class="flex-box">
 
+<div class="flex-content">
 
+<div class="header">
 
-
-
+</div>
 
 <div class="package-signature">package <span class="element-name">com.here.sdk.gestures</span></div>
 <section class="summary">
@@ -88,8 +90,8 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-package-summary"
 </ul>
 </section>
 
-
-
+</div>
+</div>
 
 
 

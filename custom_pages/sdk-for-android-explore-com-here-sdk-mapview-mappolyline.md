@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapPolyline</div>
@@ -29,7 +32,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapPolyline</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A visual representation of a line on the map.
- The geometry to be visualized is represented by an instance of <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a>.
+ The geometry to be visualized is represented by an instance of <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a>.
  Altitude component of <code>GeoPolyline</code>'s vertices is ignored.</p></div>
 </section>
 <section class="summary">
@@ -81,7 +84,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#%3Cinit%3E(com.here.sdk.core.GeoPolyline,com.here.sdk.mapview.MapPolyline.Representation)">MapPolyline</a><wbr/>(<a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#%3Cinit%3E(com.here.sdk.core.GeoPolyline,com.here.sdk.mapview.MapPolyline.Representation)">MapPolyline</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new <code>MapPolyline</code> instance with a specified visual representation.</div>
@@ -101,7 +104,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#cancelAnimation(com.here.sdk.animation.MapPolylineAnimation)">cancelAnimation</a><wbr/>(<a href="sdk-for-android-explore-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a> animation)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#cancelAnimation(com.here.sdk.animation.MapPolylineAnimation)">cancelAnimation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a> animation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Cancels single ongoing animation of this map polyline.</div>
 </div>
@@ -115,7 +118,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the draw order type of the polyline.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#getGeometry()">getGeometry</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the geometry of the polyline.</div>
@@ -125,7 +128,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets list of map content categories this polyline should block.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#getMetadata()">getMetadata</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the <code>Metadata</code> instance attached to this polyline.</div>
@@ -135,7 +138,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the progress of the polyline, 0 by default.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#getProgressColor()">getProgressColor</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the progress color of the polyline, opaque white by default.</div>
@@ -145,7 +148,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the maximum gradient length between <code>MapPolyline.lineColor' and 'MapPolyline.progressColor</code> in zoom level dependent pixels.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#getProgressOutlineColor()">getProgressOutlineColor</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the progress outline color of the polyline, opaque white by default.</div>
@@ -166,7 +169,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="block">Sets the draw order type of the polyline.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setGeometry(com.here.sdk.core.GeoPolyline)">setGeometry</a><wbr/>(<a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setGeometry(com.here.sdk.core.GeoPolyline)">setGeometry</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the geometry of the polyline.</div>
 </div>
@@ -176,7 +179,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="block">Sets list of map content categories this polyline should block.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setMetadata(com.here.sdk.core.Metadata)">setMetadata</a><wbr/>(<a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setMetadata(com.here.sdk.core.Metadata)">setMetadata</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the <code>Metadata</code> instance attached to this polyline.</div>
 </div>
@@ -187,7 +190,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
  clamped to the range [0; 1].</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setProgressColor(com.here.sdk.core.Color)">setProgressColor</a><wbr/>(<a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setProgressColor(com.here.sdk.core.Color)">setProgressColor</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the progress color of the polyline.</div>
 </div>
@@ -197,7 +200,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="block">Sets the maximum gradient length between <code>MapPolyline.lineColor' and 'MapPolyline.progressColor</code> in zoom level dependent pixels.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setProgressOutlineColor(com.here.sdk.core.Color)">setProgressOutlineColor</a><wbr/>(<a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setProgressOutlineColor(com.here.sdk.core.Color)">setProgressOutlineColor</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the progress outline color of the polyline.</div>
 </div>
@@ -212,8 +215,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="block">Sets visibility ranges for this map polyline.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#startAnimation(com.here.sdk.animation.MapPolylineAnimation,com.here.sdk.animation.AnimationListener)">startAnimation</a><wbr/>(<a href="sdk-for-android-explore-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a> animation,
- <a href="sdk-for-android-explore-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#startAnimation(com.here.sdk.animation.MapPolylineAnimation,com.here.sdk.animation.AnimationListener)">startAnimation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a> animation,
+ <a href="sdk-for-android-explore-com-here-sdk-animation-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Starts an animation of this map polyline.</div>
 </div>
@@ -238,7 +241,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoPolyline,com.here.sdk.mapview.MapPolyline.Representation)">
 <h3>MapPolyline</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapPolyline</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</span></div>
 <div class="block"><p>Creates a new <code>MapPolyline</code> instance with a specified visual representation.
@@ -277,9 +280,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="startAnimation(com.here.sdk.animation.MapPolylineAnimation,com.here.sdk.animation.AnimationListener)">
 <h3>startAnimation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a> animation,
+ <a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a> animation,
  @NonNull
- <a href="sdk-for-android-explore-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> listener)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-animation-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> listener)</span></div>
 <div class="block"><p>Starts an animation of this map polyline.
  The <code>MapPolylineAnimation</code> may be shared between multiple instances of <code>MapPolyline</code>.
  Starting animation on one polyline does not influence any ongoing animations on
@@ -297,7 +300,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="cancelAnimation(com.here.sdk.animation.MapPolylineAnimation)">
 <h3>cancelAnimation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a> animation)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a> animation)</span></div>
 <div class="block"><p>Cancels single ongoing animation of this map polyline.
  Does nothing if the specified animation is not currently in progress for this polyline.
  Does not affect other polylines that might be running this animation.</p></div>
@@ -311,7 +314,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="getGeometry()">
 <h3>getGeometry</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getGeometry</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getGeometry</span>()</div>
 <div class="block"><p>Gets the geometry of the polyline.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -323,7 +326,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="setGeometry(com.here.sdk.core.GeoPolyline)">
 <h3>setGeometry</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeometry</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> value)</span></div>
 <div class="block"><p>Sets the geometry of the polyline. Altitude component of <code>GeoPolyline</code>'s vertices is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -335,7 +338,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="getMetadata()">
 <h3>getMetadata</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">getMetadata</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">getMetadata</span>()</div>
 <div class="block"><p>Gets the <code>Metadata</code> instance attached to this polyline.
  This will be <code>null</code> if nothing has been attached before.</p></div>
 <dl class="notes">
@@ -348,7 +351,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="setMetadata(com.here.sdk.core.Metadata)">
 <h3>setMetadata</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMetadata</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-metadata" title="class in com.here.sdk.core">Metadata</a> value)</span></div>
 <div class="block"><p>Sets the <code>Metadata</code> instance attached to this polyline.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -483,7 +486,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="getProgressColor()">
 <h3>getProgressColor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getProgressColor</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getProgressColor</span>()</div>
 <div class="block"><p>Gets the progress color of the polyline, opaque white by default.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -495,7 +498,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="setProgressColor(com.here.sdk.core.Color)">
 <h3>setProgressColor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProgressColor</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
 <div class="block"><p>Sets the progress color of the polyline.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -507,7 +510,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="getProgressOutlineColor()">
 <h3>getProgressOutlineColor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getProgressOutlineColor</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getProgressOutlineColor</span>()</div>
 <div class="block"><p>Gets the progress outline color of the polyline, opaque white by default.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -519,7 +522,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="setProgressOutlineColor(com.here.sdk.core.Color)">
 <h3>setProgressOutlineColor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProgressOutlineColor</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
 <div class="block"><p>Sets the progress outline color of the polyline.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -594,8 +597,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

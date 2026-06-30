@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalc
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.TileGeoBoundsCalculator</div>
@@ -61,10 +64,10 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalc
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalculator#boundsOf(com.here.sdk.mapview.datasource.TileKey)">boundsOf</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Computes the geodetic bounds (as <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>) for a tile identified by <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a>.</div>
+<div class="block">Computes the geodetic bounds (as <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>) for a tile identified by <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a>.</div>
 </div>
 </div>
 </div>
@@ -107,9 +110,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalc
 <section class="detail" id="boundsOf(com.here.sdk.mapview.datasource.TileKey)">
 <h3>boundsOf</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">boundsOf</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">boundsOf</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</span></div>
-<div class="block"><p>Computes the geodetic bounds (as <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>) for a tile identified by <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a>.</p></div>
+<div class="block"><p>Computes the geodetic bounds (as <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>) for a tile identified by <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>tileKey</code> - <p><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a> to compute geodetic bounds for.
@@ -127,8 +130,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalc
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

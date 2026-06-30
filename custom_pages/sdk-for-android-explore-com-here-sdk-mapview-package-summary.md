@@ -13,11 +13,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-package-summary"
 
 
 
+<div class="flex-box">
 
+<div class="flex-content">
 
+<div class="header">
 
-
-
+</div>
 
 <div class="package-signature">package <span class="element-name">com.here.sdk.mapview</span></div>
 <section class="summary">
@@ -28,8 +30,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Package</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></div>
-
+<div class="col-first even-row-color"><a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="col-last even-row-color"> </div>
 </div>
 </div>
 </li>
@@ -243,12 +245,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-package-summary"
 </div>
 <div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview">MapFeatureModes</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
-<div class="block">Holds constants for map feature modes, to be used with <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>.</div>
+<div class="block">Holds constants for map feature modes, to be used with <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a>.</div>
 </div>
 <div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview">MapFeatures</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Holds constants for map features, to be used with
- <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> and <a href="sdk-for-android-explore-mapscene#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a>.</div>
+ <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a> and <a href="sdk-for-android-explore-mapscene#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List<java.lang.string>)</java.lang.string></code></a>.</div>
 </div>
 <div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
@@ -628,8 +630,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-package-summary"
 </ul>
 </section>
 
-
-
+</div>
+</div>
 
 
 

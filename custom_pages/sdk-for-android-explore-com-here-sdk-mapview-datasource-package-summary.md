@@ -13,11 +13,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary"
 
 
 
+<div class="flex-box">
 
+<div class="flex-content">
 
+<div class="header">
 
-
-
+</div>
 
 <div class="package-signature">package <span class="element-name">com.here.sdk.mapview.datasource</span></div>
 <section class="summary">
@@ -28,8 +30,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Package</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></div>
-
+<div class="col-first even-row-color"><a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="col-last even-row-color"> </div>
 </div>
 </div>
 </li>
@@ -263,8 +265,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary"
 </ul>
 </section>
 
-
-
+</div>
+</div>
 
 
 

@@ -13,11 +13,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-package-summary"
 
 
 
+<div class="flex-box">
 
+<div class="flex-content">
 
+<div class="header">
 
-
-
+</div>
 
 <div class="package-signature">package <span class="element-name">com.here.sdk.core</span></div>
 <section class="summary">
@@ -28,14 +30,14 @@ slug: "sdk-for-android-explore-com-here-sdk-core-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Package</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></div>
-
-<div class="col-first odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-core-errors-package-summary">com.here.sdk.core.errors</a></div>
-
-<div class="col-first even-row-color"><a href="sdk-for-android-explore-com-here-sdk-core-threading-package-summary">com.here.sdk.core.threading</a></div>
-
-<div class="col-first odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-core-utilities-package-summary">com.here.sdk.core.utilities</a></div>
-
+<div class="col-first even-row-color"><a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
+<div class="col-last even-row-color"> </div>
+<div class="col-first odd-row-color"><a href="sdk-for-android-explore-package-summary">com.here.sdk.core.errors</a></div>
+<div class="col-last odd-row-color"> </div>
+<div class="col-first even-row-color"><a href="sdk-for-android-explore-package-summary">com.here.sdk.core.threading</a></div>
+<div class="col-last even-row-color"> </div>
+<div class="col-first odd-row-color"><a href="sdk-for-android-explore-package-summary">com.here.sdk.core.utilities</a></div>
+<div class="col-last odd-row-color"> </div>
 </div>
 </div>
 </li>
@@ -226,12 +228,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-package-summary"
 <div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplificationcallback" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">The method will be called on the main thread when
- <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a> is finished.</div>
+ <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.geocoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</com.here.sdk.core.geocoordinates></code></a> is finished.</div>
 </div>
 <div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplificationerror" title="enum class in com.here.sdk.core">PolylineSimplificationError</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab3">
 <div class="block">Error code which specifies, what went wrong during
- <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a> operation.</div>
+ <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.geocoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</com.here.sdk.core.geocoordinates></code></a> operation.</div>
 </div>
 <div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier" title="class in com.here.sdk.core">PolylineSimplifier</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
@@ -242,7 +244,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-package-summary"
 </div>
 <div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
-<div class="block">Controls the strategy of <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>
+<div class="block">Controls the strategy of <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.geocoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</com.here.sdk.core.geocoordinates></code></a>
  when reducing a size of polyline.</div>
 </div>
 <div class="col-first odd-row-color class-summary class-summary-tab3"><a href="sdk-for-android-explore-com-here-sdk-core-powertype" title="enum class in com.here.sdk.core">PowerType</a></div>
@@ -284,8 +286,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-package-summary"
 </ul>
 </section>
 
-
-
+</div>
+</div>
 
 
 

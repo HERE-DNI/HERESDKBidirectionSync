@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
@@ -46,23 +49,23 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin#getAnchorPoint()">getAnchorPoint</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets anchor point for this instance.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin#getGeoCoordinates()">getGeoCoordinates</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Returns the current GeoCoordinates on the map.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin#setAnchorPoint(com.here.sdk.core.Anchor2D)">setAnchorPoint</a><wbr/>(<a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchorPoint)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin#setAnchorPoint(com.here.sdk.core.Anchor2D)">setAnchorPoint</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchorPoint)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets an anchor point for this instance.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin#setGeoCoordinates(com.here.sdk.core.GeoCoordinates)">setGeoCoordinates</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin#setGeoCoordinates(com.here.sdk.core.GeoCoordinates)">setGeoCoordinates</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the GeoCoordinates on the map.</div>
 </div>
@@ -95,7 +98,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 <li>
 <section class="detail" id="getGeoCoordinates()">
 <h3>getGeoCoordinates</h3>
-<div class="member-signature"><span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getGeoCoordinates</span>()</div>
+<div class="member-signature"><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getGeoCoordinates</span>()</div>
 <div class="block">Returns the current GeoCoordinates on the map.</div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -107,7 +110,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 <section class="detail" id="setGeoCoordinates(com.here.sdk.core.GeoCoordinates)">
 <h3>setGeoCoordinates</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">setGeoCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
 <div class="block">Sets the GeoCoordinates on the map.
  <p>
  The altitude component of the coordinates, if set, is interpreted as above sea level.
@@ -122,7 +125,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 <section class="detail" id="setAnchorPoint(com.here.sdk.core.Anchor2D)">
 <h3>setAnchorPoint</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">setAnchorPoint</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchorPoint)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchorPoint)</span></div>
 <div class="block">Sets an anchor point for this instance.
  <p>
  The anchor value has valid range from 0 to 1. Zero (0) for x and y means the view pin's
@@ -139,7 +142,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 <li>
 <section class="detail" id="getAnchorPoint()">
 <h3>getAnchorPoint</h3>
-<div class="member-signature"><span class="return-type"><a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getAnchorPoint</span>()</div>
+<div class="member-signature"><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getAnchorPoint</span>()</div>
 <div class="block">Gets anchor point for this instance.</div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -155,8 +158,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.mapview.MapCamera.State</div>
 </div>
@@ -48,12 +51,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
 <div class="col-last even-row-color">
 <div class="block">Distance from the camera to the target point in meters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state#orientationAtTarget">orientationAtTarget</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Camera's orientation at target point.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state#targetCoordinates">targetCoordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Camera's 'LookAt' target position in geodetic space.</div>
@@ -74,8 +77,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientation,double,double)">State</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> targetCoordinates,
- <a href="sdk-for-android-explore-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientationAtTarget,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientation,double,double)">State</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> targetCoordinates,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientationAtTarget,
  double distanceToTargetInMeters,
  double zoomLevel)</code></div>
 <div class="col-last even-row-color">
@@ -106,7 +109,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
 <section class="detail" id="targetCoordinates">
 <h3>targetCoordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">targetCoordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">targetCoordinates</span></div>
 <div class="block"><p>Camera's 'LookAt' target position in geodetic space.
  Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
@@ -116,7 +119,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
 <section class="detail" id="orientationAtTarget">
 <h3>orientationAtTarget</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></span> <span class="element-name">orientationAtTarget</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a></span> <span class="element-name">orientationAtTarget</span></div>
 <div class="block"><p>Camera's orientation at target point.</p></div>
 </section>
 </li>
@@ -146,9 +149,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientation,double,double)">
 <h3>State</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">State</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> targetCoordinates,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> targetCoordinates,
  @NonNull
- <a href="sdk-for-android-explore-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientationAtTarget,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientationAtTarget,
  double distanceToTargetInMeters,
  double zoomLevel)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
@@ -170,8 +173,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

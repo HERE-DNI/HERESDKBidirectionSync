@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.routing.ViolatedRestriction.Details</div>
 </div>
@@ -45,35 +48,35 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenAxleCount">forbiddenAxleCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The restriction to trucks with axles number within specified range during the trip.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenHazardousGoods">forbiddenHazardousGoods</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used
  for the route calculation provided using <a href="sdk-for-android-explore-vehiclespecification#hazardousMaterials"><code>VehicleSpecification.hazardousMaterials</code></a> from
  <a href="sdk-for-android-explore-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="sdk-for-android-explore-routingoptions#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTrailerCount">forbiddenTrailerCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Constrains the restriction to trucks with number of trailer within specified range during the trip.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTruckCategory">forbiddenTruckCategory</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">This property will be set if a restriction applies to the value of <a href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a>
+<div class="block">This property will be set if a restriction applies to the value of <a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a>
  parameter used for route calculation.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTruckRoadTypes">forbiddenTruckRoadTypes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Contains violated restrictions for truck road types.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#forbiddenTruckType">forbiddenTruckType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
@@ -105,7 +108,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <div class="col-last even-row-color">
 <div class="block">Max permitted payload capacity during the trip, in kilograms.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxTunnelCategory">maxTunnelCategory</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tunnel category to restrict transport of specific goods during the trip.</div>
@@ -136,7 +139,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <div class="block">Contains the restricted routing zone reference
  This property will be set if the <a href="sdk-for-android-explore-avoidanceoptions#zoneCategories"><code>AvoidanceOptions.zoneCategories</code></a> is not empty</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-timerule" title="class in com.here.sdk.core">TimeRule</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#timeRule">timeRule</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Time intervals during which restrictions are enforced.</div>
@@ -172,10 +175,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#hashCode()">hashCode</a>()</code></div>
-
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
 </div>
@@ -247,7 +250,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <section class="detail" id="forbiddenAxleCount">
 <h3>forbiddenAxleCount</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">forbiddenAxleCount</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">forbiddenAxleCount</span></div>
 <div class="block"><p>The restriction to trucks with axles number within specified range during the trip.
  This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#axleCount"><code>VehicleSpecification.axleCount</code></a>
  is within this range.</p></div>
@@ -257,7 +260,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <section class="detail" id="forbiddenTrailerCount">
 <h3>forbiddenTrailerCount</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">forbiddenTrailerCount</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">forbiddenTrailerCount</span></div>
 <div class="block"><p>Constrains the restriction to trucks with number of trailer within specified range during the trip.
  This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#trailerCount"><code>VehicleSpecification.trailerCount</code></a>
  is within this range.</p></div>
@@ -267,7 +270,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <section class="detail" id="forbiddenHazardousGoods">
 <h3>forbiddenHazardousGoods</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</span> <span class="element-name">forbiddenHazardousGoods</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</span> <span class="element-name">forbiddenHazardousGoods</span></div>
 <div class="block"><p>There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used
  for the route calculation provided using <a href="sdk-for-android-explore-vehiclespecification#hazardousMaterials"><code>VehicleSpecification.hazardousMaterials</code></a> from
  <a href="sdk-for-android-explore-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="sdk-for-android-explore-routingoptions#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>.
@@ -280,7 +283,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <section class="detail" id="maxTunnelCategory">
 <h3>maxTunnelCategory</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">maxTunnelCategory</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">maxTunnelCategory</span></div>
 <div class="block"><p>Tunnel category to restrict transport of specific goods during the trip.
  This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#tunnelCategory"><code>VehicleSpecification.tunnelCategory</code></a> from
  <a href="sdk-for-android-explore-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="sdk-for-android-explore-routingoptions#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>
@@ -292,11 +295,11 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <h3>forbiddenTruckType</h3>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 @Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></span> <span class="element-name">forbiddenTruckType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></span> <span class="element-name">forbiddenTruckType</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.27.0. Use <code>forbidden_truck_category</code> instead.</p></div>
 </div>
-<div class="block"><p>This property will be set if a restriction applies to the value of <a href="sdk-for-android-explore-trucktype" title="enum class in com.here.sdk.transport"><code>TruckType</code></a>
+<div class="block"><p>This property will be set if a restriction applies to the value of <a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport"><code>TruckType</code></a>
  parameter used for route calculation.</p></div>
 </section>
 </li>
@@ -304,8 +307,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <section class="detail" id="forbiddenTruckCategory">
 <h3>forbiddenTruckCategory</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></span> <span class="element-name">forbiddenTruckCategory</span></div>
-<div class="block"><p>This property will be set if a restriction applies to the value of <a href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></span> <span class="element-name">forbiddenTruckCategory</span></div>
+<div class="block"><p>This property will be set if a restriction applies to the value of <a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a>
  parameter used for route calculation.</p></div>
 </section>
 </li>
@@ -313,7 +316,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <section class="detail" id="forbiddenTruckRoadTypes">
 <h3>forbiddenTruckRoadTypes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</span> <span class="element-name">forbiddenTruckRoadTypes</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</span> <span class="element-name">forbiddenTruckRoadTypes</span></div>
 <div class="block"><p>Contains violated restrictions for truck road types.</p></div>
 </section>
 </li>
@@ -340,7 +343,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <section class="detail" id="timeRule">
 <h3>timeRule</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-timerule" title="class in com.here.sdk.core">TimeRule</a></span> <span class="element-name">timeRule</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-timerule" title="class in com.here.sdk.core">TimeRule</a></span> <span class="element-name">timeRule</span></div>
 <div class="block"><p>Time intervals during which restrictions are enforced.</p></div>
 </section>
 </li>
@@ -424,8 +427,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

@@ -13,16 +13,24 @@ slug: "sdk-for-android-explore-constant-values"
 
 
 
+<div class="flex-box">
 
+<div class="flex-content">
 
+<div class="header">
 
+<section class="packages">
 
-
+<ul>
+<li><a href="sdk-for-android-explore-constant-values#com.here">com.here.*</a></li>
+</ul>
+</section>
+</div>
 <section class="constants-summary" id="com.here.sdk.core">
 
 <ul class="block-list">
 <li>
-<div class="caption"><span>com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></span></div>
+<div class="caption"><span>com.here.sdk.core.<a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -72,7 +80,7 @@ slug: "sdk-for-android-explore-constant-values"
 </ul>
 <ul class="block-list">
 <li>
-<div class="caption"><span>com.here.sdk.ev.<a href="sdk-for-android-explore-evchargingconnectortype" title="class in com.here.sdk.ev">EVChargingConnectorType</a></span></div>
+<div class="caption"><span>com.here.sdk.ev.<a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype" title="class in com.here.sdk.ev">EVChargingConnectorType</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -205,7 +213,7 @@ slug: "sdk-for-android-explore-constant-values"
 </ul>
 <ul class="block-list">
 <li>
-<div class="caption"><span>com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameralimits" title="class in com.here.sdk.mapview">MapCameraLimits</a></span></div>
+<div class="caption"><span>com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits" title="class in com.here.sdk.mapview">MapCameraLimits</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -225,7 +233,7 @@ slug: "sdk-for-android-explore-constant-values"
 </div>
 </li>
 <li>
-<div class="caption"><span>com.here.sdk.mapview.<a href="sdk-for-android-explore-mapfeaturemodes" title="class in com.here.sdk.mapview">MapFeatureModes</a></span></div>
+<div class="caption"><span>com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview">MapFeatureModes</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -278,7 +286,7 @@ slug: "sdk-for-android-explore-constant-values"
 </div>
 </li>
 <li>
-<div class="caption"><span>com.here.sdk.mapview.<a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview">MapFeatures</a></span></div>
+<div class="caption"><span>com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview">MapFeatures</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -321,7 +329,7 @@ slug: "sdk-for-android-explore-constant-values"
 </ul>
 <ul class="block-list">
 <li>
-<div class="caption"><span>com.here.sdk.search.<a href="sdk-for-android-explore-placecategory" title="class in com.here.sdk.search">PlaceCategory</a></span></div>
+<div class="caption"><span>com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search">PlaceCategory</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -545,7 +553,7 @@ slug: "sdk-for-android-explore-constant-values"
 </div>
 </li>
 <li>
-<div class="caption"><span>com.here.sdk.search.<a href="sdk-for-android-explore-poipaymentmethod" title="class in com.here.sdk.search">POIPaymentMethod</a></span></div>
+<div class="caption"><span>com.here.sdk.search.<a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod" title="class in com.here.sdk.search">POIPaymentMethod</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
@@ -603,8 +611,8 @@ slug: "sdk-for-android-explore-constant-values"
 </ul>
 </section>
 
-
-
+</div>
+</div>
 
 
 

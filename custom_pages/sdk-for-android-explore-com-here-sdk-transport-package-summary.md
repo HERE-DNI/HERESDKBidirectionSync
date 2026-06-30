@@ -13,11 +13,13 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-package-summary"
 
 
 
+<div class="flex-box">
 
+<div class="flex-content">
 
+<div class="header">
 
-
-
+</div>
 
 <div class="package-signature">package <span class="element-name">com.here.sdk.transport</span></div>
 <section class="summary">
@@ -181,8 +183,8 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-package-summary"
 </ul>
 </section>
 
-
-
+</div>
+</div>
 
 
 

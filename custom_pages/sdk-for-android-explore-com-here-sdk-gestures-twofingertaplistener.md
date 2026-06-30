@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.gestures</a></div>
 
+</div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TwoFingerTapListener</span></div>
@@ -39,7 +42,7 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener#onTwoFingerTap(com.here.sdk.core.Point2D)">onTwoFingerTap</a><wbr/>(<a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener#onTwoFingerTap(com.here.sdk.core.Point2D)">onTwoFingerTap</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when the double-tap gesture occurs.</div>
 </div>
@@ -61,7 +64,7 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener"
 <section class="detail" id="onTwoFingerTap(com.here.sdk.core.Point2D)">
 <h3>onTwoFingerTap</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onTwoFingerTap</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</span></div>
 <div class="block"><p>Called when the double-tap gesture occurs.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -76,8 +79,8 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-twofingertaplistener"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

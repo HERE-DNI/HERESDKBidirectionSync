@@ -13,11 +13,17 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-package-tree"
 
 
 
+<div class="flex-box">
 
+<div class="flex-content">
 
+<div class="header">
 
-
-
+<span class="package-hierarchy-label">Package Hierarchies:</span>
+<ul class="horizontal">
+<li><a href="sdk-for-android-explore-overview-tree">All Packages</a></li>
+</ul>
+</div>
 <section class="hierarchy">
 
 <ul>
@@ -63,7 +69,7 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-package-tree"
 <ul>
 <li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
 <ul>
-<li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;E&gt; (implements java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;T&gt;, java.lang.constant.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a>, java.io.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
+<li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a><e> (implements java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a><t>, java.lang.constant.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a>, java.io.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
 <ul>
 <li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-animation-animationstate" title="enum class in com.here.sdk.animation">AnimationState</a></li>
 <li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-animation-easing-instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></li>
@@ -73,14 +79,14 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-package-tree"
 <li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></li>
 <li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-animation-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></li>
 </ul>
-</li>
+</t></e></li>
 </ul>
 </li>
 </ul>
 </section>
 
-
-
+</div>
+</div>
 
 
 

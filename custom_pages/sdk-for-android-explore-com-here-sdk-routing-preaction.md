@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-preaction"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.routing.PreAction</div>
 </div>
@@ -44,7 +47,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-preaction"
 <div class="col-last even-row-color">
 <div class="block">Type of this action.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-preaction#duration">duration</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Estimated duration of this action.</div>
@@ -80,10 +83,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-preaction"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-preaction#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-preaction#hashCode()">hashCode</a>()</code></div>
-
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
 </div>
@@ -114,7 +117,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-preaction"
 <section class="detail" id="duration">
 <h3>duration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">duration</span></div>
 <div class="block"><p>Estimated duration of this action.
  Defaults to 0 seconds.</p></div>
 </section>
@@ -169,8 +172,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-preaction"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

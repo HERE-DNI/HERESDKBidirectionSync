@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.routing.Route</div>
@@ -52,7 +55,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates route from the given binary data.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-route#getBoundingBox()">getBoundingBox</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the closest rectangular area where this route fits in.</div>
@@ -63,18 +66,18 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 <div class="block">Gets estimated net energy consumption (in kWh) if the transportation mode used for this route
  is an electric vehicle.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-route#getDuration()">getDuration</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the estimated time in seconds needed to travel along this route, including
  real-time traffic delays if available.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-route#getGeometry()">getGeometry</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this route.</div>
+<div class="block">Gets the <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this route.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-route#getLanguage()">getLanguage</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the language requested for all textual information related to this route.</div>
@@ -94,7 +97,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets railway crossings.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-route#getRequestedTransportMode()">getRequestedTransportMode</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the transport mode requested for route calculation.</div>
@@ -119,7 +122,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the sections that make up this route.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-route#getTrafficDelay()">getTrafficDelay</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the estimated time in seconds spent in traffic along this route.</div>
@@ -196,12 +199,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 <section class="detail" id="getGeometry()">
 <h3>getGeometry</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getGeometry</span>()</div>
-<div class="block"><p>Gets the <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this route. It may not contain the original
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getGeometry</span>()</div>
+<div class="block"><p>Gets the <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this route. It may not contain the original
  coordinates specified in the request for a route.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this route. It may not contain the original
+<dd><p>The <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this route. It may not contain the original
      coordinates specified in the request for a route.</p></dd>
 </dl>
 </section>
@@ -210,7 +213,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 <section class="detail" id="getBoundingBox()">
 <h3>getBoundingBox</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()</div>
 <div class="block"><p>Gets the closest rectangular area where this route fits in.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -233,7 +236,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 <section class="detail" id="getLanguage()">
 <h3>getLanguage</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">getLanguage</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">getLanguage</span>()</div>
 <div class="block"><p>Gets the language requested for all textual information related to this route.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -257,7 +260,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 <section class="detail" id="getRequestedTransportMode()">
 <h3>getRequestedTransportMode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></span> <span class="element-name">getRequestedTransportMode</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></span> <span class="element-name">getRequestedTransportMode</span>()</div>
 <div class="block"><p>Gets the transport mode requested for route calculation.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -297,7 +300,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 <section class="detail" id="getDuration()">
 <h3>getDuration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()</div>
 <div class="block"><p>Gets the estimated time in seconds needed to travel along this route, including
  real-time traffic delays if available.</p></div>
 <dl class="notes">
@@ -311,7 +314,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 <section class="detail" id="getTrafficDelay()">
 <h3>getTrafficDelay</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getTrafficDelay</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getTrafficDelay</span>()</div>
 <div class="block"><p>Gets the estimated time in seconds spent in traffic along this route. Negative values
  indicate that the route can be traversed faster than usual.</p></div>
 <dl class="notes">
@@ -368,8 +371,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-route"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

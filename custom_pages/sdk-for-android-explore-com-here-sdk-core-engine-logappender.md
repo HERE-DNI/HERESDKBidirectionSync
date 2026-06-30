@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logappender"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
 
+</div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">LogAppender</span></div>
@@ -40,7 +43,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logappender"
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-logappender#log(com.here.sdk.core.engine.LogLevel,java.lang.String)">log</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-engine-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
-
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"> </div>
 </div>
 </div>
 </div>
@@ -76,8 +79,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logappender"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.search.StructuredQuery</div>
 </div>
@@ -69,7 +72,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <div class="col-last even-row-color">
 <div class="block">Query address elements to get the results from a specific geographical area.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-structuredquery#areaCenter">areaCenter</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Geographic coordinates of the prioritized area center.</div>
@@ -96,7 +99,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-structuredquery#%3Cinit%3E(java.lang.String,com.here.sdk.core.GeoCoordinates)">StructuredQuery</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -116,10 +119,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-structuredquery#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-structuredquery#hashCode()">hashCode</a>()</code></div>
-
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
 </div>
@@ -149,7 +152,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <section class="detail" id="areaCenter">
 <h3>areaCenter</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">areaCenter</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">areaCenter</span></div>
 <div class="block"><p>Geographic coordinates of the prioritized area center.</p></div>
 </section>
 </li>
@@ -183,7 +186,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">StructuredQuery</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> query,
  @NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -227,8 +230,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-structuredquery"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

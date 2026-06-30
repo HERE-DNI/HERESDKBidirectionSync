@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesacc
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.DataAttributesAccessor</div>
@@ -76,7 +79,7 @@ implements <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-data
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor#addOrReplace(java.lang.String,com.here.sdk.core.Color)">addOrReplace</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds or replaces a color attribute.</div>
 </div>
@@ -241,7 +244,7 @@ implements <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-data
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addOrReplace</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
 <div class="block"><p>Adds or replaces a color attribute.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -441,8 +444,8 @@ implements <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-data
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

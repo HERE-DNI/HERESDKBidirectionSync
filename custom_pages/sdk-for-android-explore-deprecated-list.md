@@ -13,11 +13,22 @@ slug: "sdk-for-android-explore-deprecated-list"
 
 
 
+<div class="flex-box">
+
+<div class="flex-content">
+
+<div class="header">
 
 
-
-
-
+<ul>
+<li><a href="sdk-for-android-explore-deprecated-list#class">Classes</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list#enum-class">Enum Classes</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list#field">Fields</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list#method">Methods</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list#constructor">Constructors</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list#enum-constant">Enum Constants</a></li>
+</ul>
+</div>
 <ul class="block-list">
 <li>
 <div id="class">
@@ -25,71 +36,71 @@ slug: "sdk-for-android-explore-deprecated-list"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-pedestrianprofile" title="class in com.here.sdk.core">com.here.sdk.core.PedestrianProfile</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-com-here-sdk-core-pedestrianprofile" title="class in com.here.sdk.core">com.here.sdk.core.PedestrianProfile</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>sdk.transport.TransportSpecification</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-transportprofile" title="class in com.here.sdk.core">com.here.sdk.core.TransportProfile</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-core-transportprofile" title="class in com.here.sdk.core">com.here.sdk.core.TransportProfile</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-bicycleoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.BicycleOptions</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-com-here-sdk-routing-bicycleoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.BicycleOptions</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-busoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.BusOptions</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-routing-busoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.BusOptions</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-caroptions" title="class in com.here.sdk.routing">com.here.sdk.routing.CarOptions</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-com-here-sdk-routing-caroptions" title="class in com.here.sdk.routing">com.here.sdk.routing.CarOptions</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-evcaroptions" title="class in com.here.sdk.routing">com.here.sdk.routing.EVCarOptions</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-routing-evcaroptions" title="class in com.here.sdk.routing">com.here.sdk.routing.EVCarOptions</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-evtruckoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.EVTruckOptions</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-com-here-sdk-routing-evtruckoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.EVTruckOptions</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-pedestrianoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.PedestrianOptions</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-routing-pedestrianoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.PedestrianOptions</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-privatebusoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.PrivateBusOptions</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-com-here-sdk-routing-privatebusoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.PrivateBusOptions</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-refreshrouteoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.RefreshRouteOptions</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.RefreshRouteOptions</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-scooteroptions" title="class in com.here.sdk.routing">com.here.sdk.routing.ScooterOptions</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-com-here-sdk-routing-scooteroptions" title="class in com.here.sdk.routing">com.here.sdk.routing.ScooterOptions</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-taxioptions" title="class in com.here.sdk.routing">com.here.sdk.routing.TaxiOptions</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-routing-taxioptions" title="class in com.here.sdk.routing">com.here.sdk.routing.TaxiOptions</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-truckoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.TruckOptions</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-com-here-sdk-routing-truckoptions" title="class in com.here.sdk.routing">com.here.sdk.routing.TruckOptions</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-busspecifications" title="class in com.here.sdk.transport">com.here.sdk.transport.BusSpecifications</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-transport-busspecifications" title="class in com.here.sdk.transport">com.here.sdk.transport.BusSpecifications</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-carspecifications" title="class in com.here.sdk.transport">com.here.sdk.transport.CarSpecifications</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-com-here-sdk-transport-carspecifications" title="class in com.here.sdk.transport">com.here.sdk.transport.CarSpecifications</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-truckspecifications" title="class in com.here.sdk.transport">com.here.sdk.transport.TruckSpecifications</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-transport-truckspecifications" title="class in com.here.sdk.transport">com.here.sdk.transport.TruckSpecifications</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-vehicleprofile" title="class in com.here.sdk.transport">com.here.sdk.transport.VehicleProfile</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile" title="class in com.here.sdk.transport">com.here.sdk.transport.VehicleProfile</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>sdk.transport.TransportSpecification</code> instead.</p></div>
 </div>
@@ -104,11 +115,11 @@ slug: "sdk-for-android-explore-deprecated-list"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-trucktype" title="enum class in com.here.sdk.transport">com.here.sdk.transport.TruckType</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-com-here-sdk-transport-trucktype" title="enum class in com.here.sdk.transport">com.here.sdk.transport.TruckType</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.27.0. Use <code>TruckCategory</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-vehicletype" title="enum class in com.here.sdk.transport">com.here.sdk.transport.VehicleType</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-transport-vehicletype" title="enum class in com.here.sdk.transport">com.here.sdk.transport.VehicleType</a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>sdk.transport.TransportMode</code> instead.</p></div>
 </div>
@@ -168,49 +179,49 @@ slug: "sdk-for-android-explore-deprecated-list"
 </div>
 <div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-locationindicator#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType)">com.here.sdk.mapview.LocationIndicator.setMarker3dModel<wbr/>(MapMarker3DModel, double, LocationIndicator.MarkerType)</a></div>
 <div class="col-last even-row-color">
-<div class="deprecation-comment"><p>Will be removed in v4.27.0. Please use the overloaded method with <a href="sdk-for-android-explore-rendersize-unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> instead.</p></div>
+<div class="deprecation-comment"><p>Will be removed in v4.27.0. Please use the overloaded method with <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-mapcamerakeyframetrack#lookAtDistance(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">com.here.sdk.mapview.MapCameraKeyframeTrack.lookAtDistance<wbr/>(List&lt;ScalarKeyframe&gt;, Easing, KeyframeInterpolationMode)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-mapcamerakeyframetrack#lookAtDistance(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">com.here.sdk.mapview.MapCameraKeyframeTrack.lookAtDistance<wbr/>(List<scalarkeyframe>, Easing, KeyframeInterpolationMode)</scalarkeyframe></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.27.0. Use <scalarkeyframe>, Easing, KeyframeInterpolationMode) instead.</scalarkeyframe></p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List&lt;Waypoint&gt;, BicycleOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List<waypoint>, BicycleOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List&lt;Waypoint&gt;, BusOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List<waypoint>, BusOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List&lt;Waypoint&gt;, CarOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List<waypoint>, CarOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List&lt;Waypoint&gt;, EVCarOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List<waypoint>, EVCarOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List&lt;Waypoint&gt;, EVTruckOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List<waypoint>, EVTruckOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List&lt;Waypoint&gt;, PedestrianOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List<waypoint>, PedestrianOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List&lt;Waypoint&gt;, PrivateBusOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List<waypoint>, PrivateBusOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List&lt;Waypoint&gt;, ScooterOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List<waypoint>, ScooterOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List&lt;Waypoint&gt;, TaxiOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List<waypoint>, TaxiOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List&lt;Waypoint&gt;, TruckOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#calculateRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.calculateRoute<wbr/>(List<waypoint>, TruckOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
@@ -218,83 +229,83 @@ slug: "sdk-for-android-explore-deprecated-list"
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, BicycleOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, BicycleOptions, CalculateRouteCallback)</location></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, BusOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, BusOptions, CalculateRouteCallback)</location></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, CarOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, CarOptions, CalculateRouteCallback)</location></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, EVCarOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, EVCarOptions, CalculateRouteCallback)</location></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, EVTruckOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, EVTruckOptions, CalculateRouteCallback)</location></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, PedestrianOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, PedestrianOptions, CalculateRouteCallback)</location></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, PrivateBusOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, PrivateBusOptions, CalculateRouteCallback)</location></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, ScooterOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, ScooterOptions, CalculateRouteCallback)</location></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, TaxiOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, TaxiOptions, CalculateRouteCallback)</location></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, TruckOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, TruckOptions, CalculateRouteCallback)</location></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, List&lt;RouteStop&gt;, BicycleOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, List<routestop>, BicycleOptions, CalculateRouteCallback)</routestop></location></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, List&lt;RouteStop&gt;, BusOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, List<routestop>, BusOptions, CalculateRouteCallback)</routestop></location></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, List&lt;RouteStop&gt;, CarOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, List<routestop>, CarOptions, CalculateRouteCallback)</routestop></location></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, List&lt;RouteStop&gt;, EVCarOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, List<routestop>, EVCarOptions, CalculateRouteCallback)</routestop></location></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, List&lt;RouteStop&gt;, EVTruckOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, List<routestop>, EVTruckOptions, CalculateRouteCallback)</routestop></location></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, List&lt;RouteStop&gt;, PedestrianOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, List<routestop>, PedestrianOptions, CalculateRouteCallback)</routestop></location></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, List&lt;RouteStop&gt;, PrivateBusOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, List<routestop>, PrivateBusOptions, CalculateRouteCallback)</routestop></location></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, List&lt;RouteStop&gt;, ScooterOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, List<routestop>, ScooterOptions, CalculateRouteCallback)</routestop></location></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, List&lt;RouteStop&gt;, TaxiOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, List<routestop>, TaxiOptions, CalculateRouteCallback)</routestop></location></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List&lt;Location&gt;, List&lt;RouteStop&gt;, TruckOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routingengine#importRoute(java.util.List,java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingEngine.importRoute<wbr/>(List<location>, List<routestop>, TruckOptions, CalculateRouteCallback)</routestop></location></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
@@ -314,43 +325,43 @@ slug: "sdk-for-android-explore-deprecated-list"
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>refresh_route()</code> methods with RefreshRouteParameters parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List&lt;Waypoint&gt;, BicycleOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List<waypoint>, BicycleOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List&lt;Waypoint&gt;, BusOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List<waypoint>, BusOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List&lt;Waypoint&gt;, CarOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List<waypoint>, CarOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List&lt;Waypoint&gt;, EVCarOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List<waypoint>, EVCarOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List&lt;Waypoint&gt;, EVTruckOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List<waypoint>, EVTruckOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List&lt;Waypoint&gt;, PedestrianOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List<waypoint>, PedestrianOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List&lt;Waypoint&gt;, PrivateBusOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List<waypoint>, PrivateBusOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List&lt;Waypoint&gt;, ScooterOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List<waypoint>, ScooterOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List&lt;Waypoint&gt;, TaxiOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List<waypoint>, TaxiOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List&lt;Waypoint&gt;, TruckOptions, CalculateRouteCallback)</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-routinginterface#calculateRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)">com.here.sdk.routing.RoutingInterface.calculateRoute<wbr/>(List<waypoint>, TruckOptions, CalculateRouteCallback)</waypoint></a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.</p></div>
 </div>
@@ -401,8 +412,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 </li>
 </ul>
 
-
-
+</div>
+</div>
 
 
 

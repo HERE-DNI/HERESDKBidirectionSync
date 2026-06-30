@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.mapview.MapMarkerCluster.CounterStyle</div>
 </div>
@@ -58,12 +61,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <div class="col-last even-row-color">
 <div class="block">Maximal number of markers represented as exact number.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textAnchor">textAnchor</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Anchor of counter in regards to marker cluster image.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textColor">textColor</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Font color of counter.</div>
@@ -108,7 +111,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <section class="detail" id="textColor">
 <h3>textColor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">textColor</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">textColor</span></div>
 <div class="block"><p>Font color of counter. Default value is white.</p></div>
 </section>
 </li>
@@ -123,7 +126,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <section class="detail" id="textAnchor">
 <h3>textAnchor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">textAnchor</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">textAnchor</span></div>
 <div class="block"><p>Anchor of counter in regards to marker cluster image. Default is at the center.</p></div>
 </section>
 </li>
@@ -165,8 +168,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

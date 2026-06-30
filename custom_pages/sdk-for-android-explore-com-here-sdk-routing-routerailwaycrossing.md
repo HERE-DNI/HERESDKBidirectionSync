@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.routing.RouteRailwayCrossing</div>
 </div>
@@ -39,7 +42,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing#coordinates">coordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Location on the route</div>
@@ -66,7 +69,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing#%3Cinit%3E(com.here.sdk.routing.RouteRailwayCrossingType,com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.RouteOffset)">RouteRailwayCrossing</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossingtype" title="enum class in com.here.sdk.routing">RouteRailwayCrossingType</a> type,
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoffset" title="class in com.here.sdk.routing">RouteOffset</a> routeOffset)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -104,7 +107,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing"
 <section class="detail" id="coordinates">
 <h3>coordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
 <div class="block"><p>Location on the route</p></div>
 </section>
 </li>
@@ -130,7 +133,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteRailwayCrossing</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossingtype" title="enum class in com.here.sdk.routing">RouteRailwayCrossingType</a> type,
  @NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoffset" title="class in com.here.sdk.routing">RouteOffset</a> routeOffset)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
@@ -149,8 +152,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routerailwaycrossing"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

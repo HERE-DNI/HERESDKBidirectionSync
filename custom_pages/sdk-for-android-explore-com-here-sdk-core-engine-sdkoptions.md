@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.core.engine.SDKOptions</div>
 </div>
@@ -174,10 +177,10 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#hashCode()">hashCode</a>()</code></div>
-
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
 </div>
@@ -277,9 +280,9 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
  If an absolute path is set, it will be used instead.
  If a relative path is set then directory <code>Context.getFilesDir().getPath()</code>
  is used as parent path.
- <strong>Note</strong>: Offline maps stored at <code>&lt;persistent_map_storage_path&gt;/v1/&lt;access_key_id&gt;/ocm-map/</code>, where <code>&lt;access_key_id&gt;</code> is
+ <strong>Note</strong>: Offline maps stored at <code><persistent_map_storage_path>/v1/<access_key_id>/ocm-map/</access_key_id></persistent_map_storage_path></code>, where <code><access_key_id></access_key_id></code> is
  taken from <code>SDKOptions.authenticationMode</code>.
- When <code>SDKOptions</code> initialized with <code>AuthenticationMode.withToken</code> or <code>AuthenticationMode.withExternal</code>, then <code>&lt;access_key_id&gt;</code> left empty.
+ When <code>SDKOptions</code> initialized with <code>AuthenticationMode.withToken</code> or <code>AuthenticationMode.withExternal</code>, then <code><access_key_id></access_key_id></code> left empty.
  Note, persistent map storage path should be located
  under <a href="https://developer.android.com/training/data-storage/app-specific">app-specific directory</a>.
  Using shared directories such as <code>Documents</code> is not recommended as it will expose HERE SDK files to the other apps.
@@ -522,8 +525,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

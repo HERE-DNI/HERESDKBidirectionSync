@@ -13,11 +13,17 @@ slug: "sdk-for-android-explore-com-here-package-tree"
 
 
 
+<div class="flex-box">
 
+<div class="flex-content">
 
+<div class="header">
 
-
-
+<span class="package-hierarchy-label">Package Hierarchies:</span>
+<ul class="horizontal">
+<li><a href="sdk-for-android-explore-overview-tree">All Packages</a></li>
+</ul>
+</div>
 <section class="hierarchy">
 
 <ul>
@@ -29,8 +35,8 @@ slug: "sdk-for-android-explore-com-here-package-tree"
 </ul>
 </section>
 
-
-
+</div>
+</div>
 
 
 

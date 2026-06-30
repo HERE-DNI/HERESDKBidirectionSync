@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-search-fueladditive"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.search.FuelAdditive</div>
 </div>
@@ -51,7 +54,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-fueladditive"
 <div class="col-last odd-row-color">
 <div class="block">Indicates if the fuel additive is available in cans or not.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-fueladditive#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The type of the fuel additive.</div>
@@ -87,10 +90,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-fueladditive"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-fueladditive#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-
+<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-fueladditive#hashCode()">hashCode</a>()</code></div>
-
+<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
 </div>
 </div>
 </div>
@@ -112,7 +115,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-fueladditive"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>The type of the fuel additive. For now, only AUS 32 is supported.</p></div>
 </section>
 </li>
@@ -182,8 +185,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-fueladditive"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapMarker3DModel</div>
@@ -108,7 +111,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-android-explor
 </div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel#%3Cinit%3E(com.here.sdk.mapview.Mesh,java.lang.String,com.here.sdk.core.Color)">MapMarker3DModel</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mesh" title="class in com.here.sdk.mapview">Mesh</a> mesh,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> textureFilePath,
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new 3D model from mesh, texture and color.</div>
 </div>
@@ -123,7 +126,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-android-explor
 </div>
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.core.Color)">MapMarker3DModel</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> geometryFilePath,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> textureFilePath,
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new 3D model from path to .obj file, texture and color.</div>
 </div>
@@ -156,7 +159,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-android-explor
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> textureFilePath,
  @NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</span></div>
 <div class="block"><p>Creates a new 3D model from path to .obj file, texture and color.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -175,7 +178,7 @@ A 3D mesh can be specified programatically using <a href="sdk-for-android-explor
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> textureFilePath,
  @NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</span>
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color)</span>
                  throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel-instantiationexception" title="class in com.here.sdk.mapview">MapMarker3DModel.InstantiationException</a></span></div>
 <div class="block"><p>Creates a new 3D model from mesh, texture and color.</p></div>
 <dl class="notes">
@@ -253,8 +256,8 @@ A 3D mesh can be specified programatically using <a href="sdk-for-android-explor
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

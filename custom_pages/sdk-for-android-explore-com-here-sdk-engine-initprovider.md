@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-initprovider"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.engine</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.engine.InitProvider</div>
 </div>
@@ -29,8 +32,8 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-initprovider"
 <div class="block">Performs global initialization of the SDK.
 
  Normally this class is not needed because initialization of the SDK must be done
- automatically during the first access to <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>
- or <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.
+ automatically during the first access to <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>
+ or <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.
  However in some cases it's more convenient to initialize SDK explicitly with this
  class. For example in integration tests where hard to predict the order of access to
  SDK.</div>
@@ -46,7 +49,7 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-initprovider"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-engine-initprovider#%3Cinit%3E()">InitProvider</a>()</code></div>
-
+<div class="col-last even-row-color"> </div>
 </div>
 </section>
 </li>
@@ -116,8 +119,8 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-initprovider"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

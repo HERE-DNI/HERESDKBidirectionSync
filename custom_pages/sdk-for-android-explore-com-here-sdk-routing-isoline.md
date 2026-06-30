@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isoline"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.routing.Isoline</div>
@@ -47,7 +50,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isoline"
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isoline#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,double,com.here.sdk.routing.MapMatchedCoordinates,java.util.List)">Isoline</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
  double rangeValue,
  <a href="sdk-for-android-explore-com-here-sdk-routing-mapmatchedcoordinates" title="class in com.here.sdk.routing">MapMatchedCoordinates</a> center,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt; polygons)</code></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt; polygons)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs an isoline instance.</div>
 </div>
@@ -70,7 +73,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isoline"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the center point that was used to calculate this isoline.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isoline#getPolygons()">getPolygons</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a list of polygons that belong to this isoline.</div>
@@ -111,7 +114,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isoline"
  @NonNull
  <a href="sdk-for-android-explore-com-here-sdk-routing-mapmatchedcoordinates" title="class in com.here.sdk.routing">MapMatchedCoordinates</a> center,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt; polygons)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt; polygons)</span></div>
 <div class="block"><p>Constructs an isoline instance. This instance is provided by the
  <a href="sdk-for-android-explore-com-here-sdk-routing-calculateisolinecallback" title="interface in com.here.sdk.routing"><code>CalculateIsolineCallback</code></a>.</p></div>
 <dl class="notes">
@@ -172,7 +175,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isoline"
 <section class="detail" id="getPolygons()">
 <h3>getPolygons</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</span> <span class="element-name">getPolygons</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</span> <span class="element-name">getPolygons</span>()</div>
 <div class="block"><p>Gets a list of polygons that belong to this isoline. An isoline can consist of multiple
  polygons. For example, islands that can be reached by a ferry are included.
  Each island is then represented as a separate polygon. However, in most cases
@@ -193,8 +196,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isoline"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

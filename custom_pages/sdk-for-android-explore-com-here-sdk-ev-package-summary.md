@@ -13,11 +13,13 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-package-summary"
 
 
 
+<div class="flex-box">
 
+<div class="flex-content">
 
+<div class="header">
 
-
-
+</div>
 
 <div class="package-signature">package <span class="element-name">com.here.sdk.ev</span></div>
 <section class="summary">
@@ -56,8 +58,8 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-package-summary"
 </ul>
 </section>
 
-
-
+</div>
+</div>
 
 
 

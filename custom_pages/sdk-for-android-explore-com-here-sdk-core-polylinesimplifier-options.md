@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.core.PolylineSimplifier.Options</div>
 </div>
@@ -30,7 +33,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">PolylineSimplifier.Options</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Controls the strategy of <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>
+<div class="block"><p>Controls the strategy of <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.geocoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</com.here.sdk.core.geocoordinates></code></a>
  when reducing a size of polyline.</p></div>
 </section>
 <section class="summary">
@@ -48,7 +51,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#maxPoints">maxPoints</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Sets the upper limit on the resulting collection for
- the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>.</div>
+ the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.geocoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</com.here.sdk.core.geocoordinates></code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final long</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL">SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</a></code></div>
@@ -58,7 +61,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
 <div class="col-first even-row-color"><code>long</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters">simplificationToleranceInMeters</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Sets the accuracy limit for the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>:
+<div class="block">Sets the accuracy limit for the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.geocoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</com.here.sdk.core.geocoordinates></code></a>:
  
  higher tolerance results in more simplification (fewer points);
  lower tolerance keeps the line closer to its original shape.
@@ -126,7 +129,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
 <h3>maxPoints</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">maxPoints</span></div>
 <div class="block"><p>Sets the upper limit on the resulting collection for
- the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>. Lower
+ the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.geocoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</com.here.sdk.core.geocoordinates></code></a>. Lower
  value results in the lower accuracy of the resulting
  polyline. If <code>maxPoints</code> is less than <code>2</code>
  then resulting polyline will not have an upper limit
@@ -140,7 +143,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options"
 <section class="detail" id="simplificationToleranceInMeters">
 <h3>simplificationToleranceInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">simplificationToleranceInMeters</span></div>
-<div class="block"><p>Sets the accuracy limit for the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>:
+<div class="block"><p>Sets the accuracy limit for the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.geocoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</com.here.sdk.core.geocoordinates></code></a>:
  <ul>
 <li>higher tolerance results in more simplification (fewer points);</li>
 <li>lower tolerance keeps the line closer to its original shape.</li>
@@ -179,7 +182,7 @@ If removing a point produces polyline, which deviates from the
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>maxPoints</code> - <p>Sets the upper limit on the resulting collection for
- the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>. Lower
+ the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.geocoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</com.here.sdk.core.geocoordinates></code></a>. Lower
  value results in the lower accuracy of the resulting
  polyline. If <code>maxPoints</code> is less than <code>2</code>
  then resulting polyline will not have an upper limit
@@ -187,7 +190,7 @@ If removing a point produces polyline, which deviates from the
  will be considered. When <code>maxPoints</code> is greater than
  size of the passed polyline then simplification algorithm
  will take into account only <a href="sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options#simplificationToleranceInMeters"><code>simplificationToleranceInMeters</code></a>.</p></dd>
-<dd><code>simplificationToleranceInMeters</code> - <p>Sets the accuracy limit for the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>:
+<dd><code>simplificationToleranceInMeters</code> - <p>Sets the accuracy limit for the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List<com.here.sdk.core.geocoordinates>, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</com.here.sdk.core.geocoordinates></code></a>:
  <ul>
 <li>higher tolerance results in more simplification (fewer points);</li>
 <li>lower tolerance keeps the line closer to its original shape.</li>
@@ -209,8 +212,8 @@ If removing a point produces polyline, which deviates from the
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

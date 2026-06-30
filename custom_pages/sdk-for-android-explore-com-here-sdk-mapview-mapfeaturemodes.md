@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.mapview.MapFeatureModes</div>
 </div>
@@ -26,7 +29,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapFeatureModes</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Holds constants for map feature modes, to be used with <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>.
+<div class="block"><p>Holds constants for map feature modes, to be used with <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a>.
  Use <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#DEFAULT"><code>DEFAULT</code></a> to enable a feature with its default mode.
  Note: The default mode is defined by the currently loaded map scene configuration and
  may vary per <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme" title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a>. The currently active features and modes can be inspected
@@ -131,7 +134,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#%3Cinit%3E()">MapFeatureModes</a>()</code></div>
-
+<div class="col-last even-row-color"> </div>
 </div>
 </section>
 </li>
@@ -408,8 +411,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 

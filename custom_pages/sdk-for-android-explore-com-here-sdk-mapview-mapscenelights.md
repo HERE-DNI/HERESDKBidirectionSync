@@ -13,12 +13,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscenelights"
 
 
 
+<div class="flex-box">
 
-
-
+<div class="flex-content">
 
 <!-- ======== START OF CLASS DATA ======== -->
+<div class="header">
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
+</div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapSceneLights</div>
@@ -76,7 +79,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscenelights"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights#getColor(com.here.sdk.mapview.MapSceneLights.Category)">getColor</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Retrieves the current color of the light based on its category.</div>
@@ -98,7 +101,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscenelights"
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights#setColor(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.core.Color,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)">setColor</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color,
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color,
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Set a new color for the light based on its category.</div>
@@ -140,7 +143,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscenelights"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setColor</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category,
  @NonNull
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color,
+ <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color,
  @Nullable
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> callback)</span></div>
 <div class="block"><p>Set a new color for the light based on its category.</p></div>
@@ -196,7 +199,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscenelights"
 <section class="detail" id="getColor(com.here.sdk.mapview.MapSceneLights.Category)">
 <h3>getColor</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getColor</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getColor</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> category)</span></div>
 <div class="block"><p>Retrieves the current color of the light based on its category.</p></div>
 <dl class="notes">
@@ -254,8 +257,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscenelights"
 </section>
 <!-- ========= END OF CLASS DATA ========= -->
 
-
-
+</div>
+</div>
 
 
 
