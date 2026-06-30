@@ -28,13 +28,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Package</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
+<div class="col-first even-row-color"><a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a></div>
 
-<div class="col-first odd-row-color"><a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
+<div class="col-first odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></div>
 
-<div class="col-first even-row-color"><a href="sdk-for-android-explore-package-summary">com.here.sdk.core.errors</a></div>
+<div class="col-first even-row-color"><a href="sdk-for-android-explore-com-here-sdk-core-errors-package-summary">com.here.sdk.core.errors</a></div>
 
-<div class="col-first odd-row-color"><a href="sdk-for-android-explore-package-summary">com.here.sdk.core.utilities</a></div>
+<div class="col-first odd-row-color"><a href="sdk-for-android-explore-com-here-sdk-core-utilities-package-summary">com.here.sdk.core.utilities</a></div>
 
 </div>
 </div>

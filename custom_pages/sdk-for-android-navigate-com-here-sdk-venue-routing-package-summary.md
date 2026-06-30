@@ -28,15 +28,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Package</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue</a></div>
+<div class="col-first even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-venue-package-summary">com.here.sdk.venue</a></div>
 
-<div class="col-first odd-row-color"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.control</a></div>
+<div class="col-first odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-venue-control-package-summary">com.here.sdk.venue.control</a></div>
 
-<div class="col-first even-row-color"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.data</a></div>
+<div class="col-first even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-venue-data-package-summary">com.here.sdk.venue.data</a></div>
 
-<div class="col-first odd-row-color"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.service</a></div>
+<div class="col-first odd-row-color"><a href="sdk-for-android-navigate-com-here-sdk-venue-service-package-summary">com.here.sdk.venue.service</a></div>
 
-<div class="col-first even-row-color"><a href="sdk-for-android-navigate-package-summary">com.here.sdk.venue.style</a></div>
+<div class="col-first even-row-color"><a href="sdk-for-android-navigate-com-here-sdk-venue-style-package-summary">com.here.sdk.venue.style</a></div>
 
 </div>
 </div>

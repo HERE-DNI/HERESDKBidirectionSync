@@ -28,7 +28,7 @@ slug: "sdk-for-android-navigate-com-here-time-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Package</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><a href="sdk-for-android-navigate-package-summary">com.here</a></div>
+<div class="col-first even-row-color"><a href="sdk-for-android-navigate-com-here-package-summary">com.here</a></div>
 
 </div>
 </div>
