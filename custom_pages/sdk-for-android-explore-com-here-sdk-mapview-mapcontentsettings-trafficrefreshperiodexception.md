@@ -33,7 +33,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficre
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-mapcontentsettings" title="class in com.here.sdk.mapview">MapContentSettings</a></dd>
+<dd><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings" title="class in com.here.sdk.mapview">MapContentSettings</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapContentSettings.TrafficRefreshPeriodException</span>

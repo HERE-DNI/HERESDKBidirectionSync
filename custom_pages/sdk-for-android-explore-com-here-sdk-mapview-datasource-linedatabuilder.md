@@ -20,15 +20,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.LineDataBuilder</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">LineDataBuilder</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Builder of <a href="sdk-for-android-explore-linedata" title="class in com.here.sdk.mapview.datasource"><code>LineData</code></a> instances.
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Builder of <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource"><code>LineData</code></a> instances.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -60,17 +60,17 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Builds an instance of <a href="sdk-for-android-explore-linedata" title="class in com.here.sdk.mapview.datasource"><code>LineData</code></a> and resets the builder instance.</div>
+<div class="block">Builds an instance of <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource"><code>LineData</code></a> and resets the builder instance.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder#withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">withAttributes</a><wbr/>(<a href="sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder#withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">withAttributes</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder with custom attributes for line to be created.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder#withGeometry(com.here.sdk.core.GeoPolyline)">withGeometry</a><wbr/>(<a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder with geometry for line to be created.</div>
@@ -111,7 +111,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder"
 <section class="detail" id="withGeometry(com.here.sdk.core.GeoPolyline)">
 <h3>withGeometry</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></span> <span class="element-name">withGeometry</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></span> <span class="element-name">withGeometry</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry)</span></div>
 <div class="block"><p>Configures the builder with geometry for line to be created.</p></div>
 <dl class="notes">
@@ -130,8 +130,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder"
 <section class="detail" id="withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">
 <h3>withAttributes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></span> <span class="element-name">withAttributes</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></span> <span class="element-name">withAttributes</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</span></div>
 <div class="block"><p>Configures the builder with custom attributes for line to be created.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -145,11 +145,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder"
 <section class="detail" id="build()">
 <h3>build</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a></span> <span class="element-name">build</span>()</div>
-<div class="block"><p>Builds an instance of <a href="sdk-for-android-explore-linedata" title="class in com.here.sdk.mapview.datasource"><code>LineData</code></a> and resets the builder instance.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a></span> <span class="element-name">build</span>()</div>
+<div class="block"><p>Builds an instance of <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource"><code>LineData</code></a> and resets the builder instance.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>Instance of <a href="sdk-for-android-explore-linedata" title="class in com.here.sdk.mapview.datasource"><code>LineData</code></a> created with the configured parameters.</p></dd>
+<dd><p>Instance of <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource"><code>LineData</code></a> created with the configured parameters.</p></dd>
 </dl>
 </section>
 </li>

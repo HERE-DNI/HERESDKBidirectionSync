@@ -23,7 +23,7 @@ slug: "sdk-for-android-explore-com-here-package-tree"
 <ul>
 <li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
 <ul>
-<li class="circle">com.here.<a class="type-name-link" href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></li>
+<li class="circle">com.here.<a class="type-name-link" href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></li>
 </ul>
 </li>
 </ul>

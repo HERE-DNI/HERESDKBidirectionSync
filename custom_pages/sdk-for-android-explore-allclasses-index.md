@@ -120,7 +120,7 @@ slug: "sdk-for-android-explore-allclasses-index"
  header ("Authorization", "Bearer $Token") to each online request of the
  module the object is added to.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-authenticationmode.accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-authenticationmode-accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">This lambda is used to retrieve access token in synchronous manner.</div>
 </div>
@@ -210,7 +210,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">The options to specify a query by categories.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Area to perform search on.</div>
 </div>
@@ -287,7 +287,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Encapsulates a data attribute value.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Supported types of the data attribute values.</div>
 </div>
@@ -332,11 +332,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Animation easing representing an easing function to be used during animations.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-easing-instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Describes a reason for failing to create an <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation"><code>Easing</code></a>.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-easing.instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-easing-instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when a problem occurs while trying to create an <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation"><code>Easing</code></a>.</div>
 </div>
@@ -716,7 +716,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="block">This provider creates icons from a given set of parameters for map content and constraints for
  icon dimensions for a particular map scheme.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-iconprovider.iconcallback" title="interface in com.here.sdk.mapview">IconProvider.IconCallback</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-iconprovider-iconcallback" title="interface in com.here.sdk.mapview">IconProvider.IconCallback</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Interface which is used as callback to pass back an image or error code after calling
  the createRoadShieldIcon() method.</div>
@@ -793,7 +793,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Specifies options for isolines calculation.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-isolineoptions.calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-isolineoptions-calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Specifies isoline parameters.</div>
 </div>
@@ -809,15 +809,15 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">A factory of <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> objects from styles defined in JSON format.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-jsonstylefactory-instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Describes reasons for failing to create a <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-jsonstylefactory.instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-jsonstylefactory-instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Describes the reason for failing to create a <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-jsonstylefactory.instantiationexception" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-jsonstylefactory-instantiationexception" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when failing to create a <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</div>
 </div>
@@ -841,7 +841,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">A class to configure which layers should be enabled or disabled in the OCM map data.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Defines a list of possible map data features that can be enabled / disabled.</div>
 </div>
@@ -866,7 +866,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="block">Polyline data source allows the rendering engine access to the user provided
  polylines geometry and their attributes.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-linedatasource.linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Called for each line, allowing inspection, removal or update of coordinates and attributes.</div>
 </div>
@@ -883,7 +883,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">A source of geodetic line tiles.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-linetilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Result handler of a load tile request.</div>
 </div>
@@ -919,11 +919,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Graphical object to represent the location of the user on the map.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">The predefined styles for the location indicator which are pedestrian and navigation mode.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Enum to identify different types of markers of the location indicator.</div>
 </div>
@@ -959,7 +959,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="block">This class provides functionality to enable/disable console logs as well as
  setting a custom log appender to receive log messages from the SDK.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-logcontrol.invalidpathexception" title="class in com.here.sdk.core.engine">LogControl.InvalidPathException</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-logcontrol-invalidpathexception" title="class in com.here.sdk.core.engine">LogControl.InvalidPathException</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Invalid file path exception.</div>
 </div>
@@ -987,15 +987,15 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Represents the camera looking onto the map view.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapcamera.drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapcamera-drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Used to report back results of dry update application to camera.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapcamera-farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Far plane distance configuration for a zoom level.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Encapsulates state of the camera.</div>
 </div>
@@ -1003,11 +1003,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">An animation that can be applied to a <a href="sdk-for-android-explore-mapcamera" title="class in com.here.sdk.mapview"><code>MapCamera</code></a>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Describes a reason for failing to create a multi-track <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a>.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapcameraanimation.instantiationexception" title="class in com.here.sdk.mapview">MapCameraAnimation.InstantiationException</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapcameraanimation-instantiationexception" title="class in com.here.sdk.mapview">MapCameraAnimation.InstantiationException</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when a problem occurs while trying to create a multi-track
  <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a>.</div>
@@ -1021,11 +1021,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="block">Stores keyframes for interpolation of a camera property using a specific easing function
  and interpolation mode.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Describes a reason for failing to create a MapCameraKeyframeTrack.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack</code></a>.</div>
 </div>
@@ -1042,11 +1042,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">An update that can be applied to the map camera.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcameraupdate.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcameraupdate-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapcameraupdate.instantiationexception" title="class in com.here.sdk.mapview">MapCameraUpdate.InstantiationException</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapcameraupdate-instantiationexception" title="class in com.here.sdk.mapview">MapCameraUpdate.InstantiationException</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a>.</div>
 </div>
@@ -1062,11 +1062,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Provides settings regarding map data which are applied globally to all map views.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Traffic refresh period error code</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Traffic refresh period error exception</div>
 </div>
@@ -1078,31 +1078,31 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">MapContext is the rendering engine and the context in which virtual geographic maps get rendered.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcontext.freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcontext-freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">The severity of a free resource request.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapcontext.memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapcontext-memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Memory management options.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapcontext-memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Memory management result.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">The memory management result code.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcontext-memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">The memory management strategy.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcontext.resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapcontext-resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Types of system resources used by <a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview"><code>MapContext</code></a> or any of the entities attached to it, like <a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapcontext.setmemorymanagementoptionscallback" title="interface in com.here.sdk.mapview">MapContext.SetMemoryManagementOptionsCallback</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback" title="interface in com.here.sdk.mapview">MapContext.SetMemoryManagementOptionsCallback</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Callback to handle the memory management result.</div>
 </div>
@@ -1140,11 +1140,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="block">Stores keyframes for interpolation of a map item property using a specific
  easing function and interpolation mode.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapitemkeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapitemkeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapitemkeyframetrack-instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a>.</div>
 </div>
@@ -1161,15 +1161,15 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="block">MapLayerBuilder is used to add layers to a map to visualise a dataset in a
  programmatic way without defining it upfront in the configuration files.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-maplayerbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-maplayerbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Describes a reason for failing to build a <a href="sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a>.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-maplayerbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-maplayerbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Describes the reason for failing to build a <a href="sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-maplayerbuilder.instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-maplayerbuilder-instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when failing to build a <a href="sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a>.</div>
 </div>
@@ -1194,19 +1194,19 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block"><code>MapMarker</code> is used to draw images on the map, for example to mark a specific location.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
-<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a>.</div>
+<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapmarker.textstyle.instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapmarker-textstyle-instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab5">
-<div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a> instance.</div>
+<div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a> instance.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Represents text placement with respect to the icon of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </div>
@@ -1218,11 +1218,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Represents a 3D model that can be used by a <a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview"><code>MapMarker3D</code></a> to be shown on the map.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapmarker3dmodel.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapmarker3dmodel-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Indicates the reason for a failure to create <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a>.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapmarker3dmodel.instantiationexception" title="class in com.here.sdk.mapview">MapMarker3DModel.InstantiationException</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapmarker3dmodel-instantiationexception" title="class in com.here.sdk.mapview">MapMarker3DModel.InstantiationException</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a>.</div>
 </div>
@@ -1230,11 +1230,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">An animation that can be applied to the <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> object.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapmarkeranimation.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapmarkeranimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapmarkeranimation.instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapmarkeranimation-instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.</div>
 </div>
@@ -1243,15 +1243,15 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="block">Groups map markers and enables their clustering to reduce visual clutter when there are many of
  them in a small area.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapmarkercluster.counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Styling options for a marker cluster which is represented by the marker count as a text.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapmarkercluster.grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapmarkercluster-grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Represents a group of map markers belonging to a cluster.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapmarkercluster.imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class specifies the visual appearance of a cluster marker.</div>
 </div>
@@ -1263,7 +1263,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">A map measure.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Kinds of measures.</div>
 </div>
@@ -1271,11 +1271,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Represents a render size, described as map measure dependent values.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a>.</div>
 </div>
@@ -1299,33 +1299,33 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">A visual representation of a line on the map.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mappolyline.dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mappolyline-dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Represents a dash pattern for the map polyline consisting of images rendered with certain gaps
  from each other.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Represents a dash pattern for map polyline where the dash can be rendered as a colored
  line and the gap can be either empty or colored.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Base class to represent the visual appearance of a <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mappolyline.representation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mappolyline-representation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
-<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>.</div>
+<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mappolyline-representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab5">
-<div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>.</div>
+<div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mappolyline-representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mappolyline.solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mappolyline-solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Representation allows map polyline to be colored in multiple specified color segments.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Representation for a solid line without outline.</div>
 </div>
@@ -1333,11 +1333,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">An animation that can be applied to the <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a> object.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mappolylineanimation.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mappolylineanimation" title="class in com.here.sdk.animation"><code>MapPolylineAnimation</code></a>.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mappolylineanimation.instantiationexception" title="class in com.here.sdk.animation">MapPolylineAnimation.InstantiationException</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mappolylineanimation-instantiationexception" title="class in com.here.sdk.animation">MapPolylineAnimation.InstantiationException</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-mappolylineanimation" title="class in com.here.sdk.animation"><code>MapPolylineAnimation</code></a>.</div>
 </div>
@@ -1353,16 +1353,16 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Represents a map scene and exposes the functionality to manipulate its content.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapscene-loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Called on the main thread after <code>loadScene()</code> method finishes loading
  the scene.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapscene-mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Filter for the map content to be picked.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapscene.mappickfilter.contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapscene-mappickfilter-contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Type of the map content to be picked.</div>
 </div>
@@ -1370,20 +1370,20 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Manage the lights and their attributes in a scene.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapscenelights-attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab1">
 <div class="block">This callback function allows handling errors that occur during the setting of light attributes.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapscenelights-attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Error enum indicating reasons for failure when setting light attributes.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">The scene uses three categories of lighting which are:
  Main light, Back light and Rim light.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapscenelights-direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">The direction of lights as a pair of azimuth and altitude angles.</div>
 </div>
@@ -1395,15 +1395,15 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Builder for creating <a href="sdk-for-android-explore-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a> instances.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Describes a reason for failing to build a <a href="sdk-for-android-explore-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Describes the reason for failing to build a <a href="sdk-for-android-explore-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a>.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationexception" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationException</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationexception" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationException</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when failing to build a <a href="sdk-for-android-explore-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a>.</div>
 </div>
@@ -1415,7 +1415,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Provides the ability to render a map into a provided rendering surface.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapsurface.renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapsurface-renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Listener of MapSurface render events.</div>
 </div>
@@ -1423,17 +1423,17 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">A view that can display a map.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapview-onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Listener that gets notified when MapView is fully initialized and ready to handle all
  operations, which means that map scene is loaded and drawing surface is ready to render
  a map.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapview-takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Callback to be called on retrieval of screenshot.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapview-viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">A ViewPin is used to display Android views at a fixed location on the map.</div>
 </div>
@@ -1441,7 +1441,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Represents the available public API from  <code>MapView</code>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-mapviewbase-mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Callback for a pick request.</div>
 </div>
@@ -1575,7 +1575,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">A class that contains possible results from picking map content on the map scene.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Carries the result of picking a Carto traffic incident object.</div>
 </div>
@@ -1603,7 +1603,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">The filter options to specify a place.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Constraints that are applicable on the places of category EV station.</div>
 </div>
@@ -1668,7 +1668,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="block">Point data source allows the rendering engine access to the user provided
  geographical locations and their attributes.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-pointdatasource.pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-pointdatasource-pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Called for each point, allowing inspection, removal or update of coordinates and attributes.</div>
 </div>
@@ -1685,7 +1685,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">A source of geodetic point tiles.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-pointtilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-pointtilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Result handler of a load tile request.</div>
 </div>
@@ -1714,7 +1714,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="block">Polygon data source allows the rendering engine access to the user provided
  polygons geometry and their attributes.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-polygondatasource-polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Called for each polygon, allowing inspection, removal or update of coordinates and attributes.</div>
 </div>
@@ -1731,7 +1731,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab1">
 <div class="block">A source of geodetic polygon tiles.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-polygontilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-polygontilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Result handler of a load tile request.</div>
 </div>
@@ -1750,9 +1750,9 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="block">PolylineSimplifier helps to reduce the number of points
  in the polyline by removing redundant elements using
  Douglas–Peucker algorithm, so that result stays
- within <a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.</div>
+ within <a href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Controls the strategy of <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>
  when reducing a size of polyline.</div>
@@ -1785,11 +1785,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Proxy configuration for the HERE SDK network that is applied per request.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-proxysettings.credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-proxysettings-credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Authentication data</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-proxysettings.proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Supported types of proxy connection.</div>
 </div>
@@ -1806,11 +1806,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="block">Called on the main thread after <code>fromJsonFile()</code> method finishes loading
  the configuration.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Configuration of a local data cache.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Configuration of a data provider.</div>
 </div>
@@ -1830,7 +1830,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">A source of raster tiles.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-rastertilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-rastertilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Result handler of a load tile request.</div>
 </div>
@@ -1851,7 +1851,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Represents size of visual elements drawn on the map.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Defines different units in which the size is described.</div>
 </div>
@@ -1994,7 +1994,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Holds internal services and configurations needed by various HERE SDK modules.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-sdknativeengine.purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Enum representing a strategy to flush memory caches.</div>
 </div>
@@ -2003,7 +2003,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="block">SDKOptions provide an alternative way to set or update the HERE SDK credentials and other
  parameters at runtime to initialize the <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Action on cache lock</div>
 </div>
@@ -2090,11 +2090,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">The options to specify a structured query.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Defines query address elements which will be used to build address hierarchy during searches.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Specifies expected result type.</div>
 </div>
@@ -2146,7 +2146,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">The options to specify a text query.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Area to perform search on.</div>
 </div>
@@ -2171,19 +2171,19 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab1">
 <div class="block">A source of tiles.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Tile data version.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Listener of <a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource"><code>TileSource</code></a> events.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab1"><a href="sdk-for-android-explore-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab1">
 <div class="block">Handle of a load request.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Tile metadata.</div>
 </div>
@@ -2223,11 +2223,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">The option to specify how the tolls should be calculated.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Supported options of emission type</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-tolloptions.vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-tolloptions-vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Supported options of vehicle category for toll calculation.</div>
 </div>
@@ -2268,11 +2268,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">TrafficIncident provides details about a traffic incident.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">The vehicle categories that can be restricted.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">The vehicle restriction representing a vehicle category and relevant restriction rules.</div>
 </div>
@@ -2389,15 +2389,15 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">A translucent layer group that can be the target for <a href="sdk-for-android-explore-maplayerprioritybuilder#inGroup(java.lang.String)"><code>MapLayerPriorityBuilder.inGroup(java.lang.String)</code></a>.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-translucentmaplayergroup.errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-translucentmaplayergroup-errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Error codes for creating the group.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-translucentmaplayergroup.errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-translucentmaplayergroup-errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Describes the reason for failing to create the group.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab5"><a href="sdk-for-android-explore-translucentmaplayergroup-instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab5">
 <div class="block">Thrown when failing to build the group.</div>
 </div>
@@ -2413,35 +2413,35 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Contains transport attributes details related to the transport mode.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification.bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification-bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a bicycle.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification.busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification-busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a bus.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification.carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a car.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification-pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for pedestrian.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification.privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification-privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a private bus.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a scooter.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification.taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a taxi.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification.truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-transportspecification-truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a truck.</div>
 </div>
@@ -2514,11 +2514,11 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">A class that gathers statistics of the HERE SDK network usage for uploaded and downloaded data.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab3"><a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab3">
 <div class="block">Represents the feature enum associated with the gathered usage stats.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-usagestats-networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Provides network statistics in bytes per method.</div>
 </div>
@@ -2539,27 +2539,27 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Contains vehicle related attributes.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> for a bus.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> for a car.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> for a private bus.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-vehiclespecification.scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-vehiclespecification-scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> for a scooter.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> for a taxi.</div>
 </div>
-<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></div>
+<div class="col-first odd-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></div>
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block">This class constructs a <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> for a truck.</div>
 </div>
@@ -2571,7 +2571,7 @@ slug: "sdk-for-android-explore-allclasses-index"
 <div class="col-last odd-row-color all-classes-table all-classes-table-tab2">
 <div class="block"><code>ViolatedRestriction</code> contains all the violated restriction details for the planned trip.</div>
 </div>
-<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></div>
+<div class="col-first even-row-color all-classes-table all-classes-table-tab2"><a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></div>
 <div class="col-last even-row-color all-classes-table all-classes-table-tab2">
 <div class="block">Optional restriction details, contains additional information depending on the specific violation, zero or more member might be set.</div>
 </div>

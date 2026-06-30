@@ -20,19 +20,19 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapMarker.TextStyle</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a></dd>
+<dd><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapMarker.TextStyle</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</p></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Styling options for the text of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -46,19 +46,19 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a>.</div>
+<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapmarker.textstyle.instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a> instance.</div>
+<div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a> instance.</div>
 </div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Represents text placement with respect to the icon of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
+<div class="block">Represents text placement with respect to the icon of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </div>
 </div>
 </section>
@@ -73,32 +73,32 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#%3Cinit%3E()">TextStyle</a>()</code></div>
 <div class="col-last even-row-color">
-<div class="block">Creates a default set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> that consists of
+<div class="block">Creates a default set of styling options for the text of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> that consists of
  the following values:
  
  Text size: 18 pixels
  Text color: opaque white
  Text outline size: 0 pixels
  Text outline color: opaque black
- Text placement: <a href="sdk-for-android-explore-mapmarker.textstyle.placement#BOTTOM"><code>MapMarker.TextStyle.Placement.BOTTOM</code></a>
+ Text placement: <a href="sdk-for-android-explore-mapmarker-textstyle-placement#BOTTOM"><code>MapMarker.TextStyle.Placement.BOTTOM</code></a>
 </div>
 </div>
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#%3Cinit%3E(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List)">TextStyle</a><wbr/>(double textSize,
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> textColor,
  double textOutlineSize,
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> textOutlineColor,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt; placements)</code></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt; placements)</code></div>
 <div class="col-last odd-row-color">
-<div class="block">Creates a set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
+<div class="block">Creates a set of styling options for the text of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#%3Cinit%3E(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List,java.lang.String)">TextStyle</a><wbr/>(double textSize,
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> textColor,
  double textOutlineSize,
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> textOutlineColor,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt; placements,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt; placements,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> fontName)</code></div>
 <div class="col-last even-row-color">
-<div class="block">Creates a set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
+<div class="block">Creates a set of styling options for the text of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </div>
 </div>
 </section>
@@ -119,10 +119,10 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the font name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt;</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt;</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#getPlacements()">getPlacements</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the possible text placements relative to the icon of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
+<div class="block">Gets the possible text placements relative to the icon of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle#getTextColor()">getTextColor</a>()</code></div>
@@ -165,14 +165,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
 <section class="detail" id="&lt;init&gt;()">
 <h3>TextStyle</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TextStyle</span>()</div>
-<div class="block"><p>Creates a default set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> that consists of
+<div class="block"><p>Creates a default set of styling options for the text of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> that consists of
  the following values:
  <ul>
 <li>Text size: 18 pixels</li>
 <li>Text color: opaque white</li>
 <li>Text outline size: 0 pixels</li>
 <li>Text outline color: opaque black</li>
-<li>Text placement: <a href="sdk-for-android-explore-mapmarker.textstyle.placement#BOTTOM"><code>MapMarker.TextStyle.Placement.BOTTOM</code></a></li>
+<li>Text placement: <a href="sdk-for-android-explore-mapmarker-textstyle-placement#BOTTOM"><code>MapMarker.TextStyle.Placement.BOTTOM</code></a></li>
 </ul>
 Once the resulting <code>TextStyle</code> is applied to a <code>MapMarker</code>, its text will be centered over its
  image. The font will be 18 pixels wide, colored opaque white and will have no visible outline.</p></div>
@@ -188,9 +188,9 @@ Once the resulting <code>TextStyle</code> is applied to a <code>MapMarker</code>
  @NonNull
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> textOutlineColor,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt; placements)</span>
-          throws <span class="exceptions"><a href="sdk-for-android-explore-mapmarker.textstyle.instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></span></div>
-<div class="block"><p>Creates a set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt; placements)</span>
+          throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></span></div>
+<div class="block"><p>Creates a set of styling options for the text of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.
  List of placements is used to specify allowed placement of text relative to the icon.
  When marker overlapping is allowed as set by <a href="sdk-for-android-explore-mapmarker#setOverlapAllowed(boolean)"><code>MapMarker.setOverlapAllowed(boolean)</code></a>,
  only first placement element is considered.
@@ -207,9 +207,9 @@ Once the resulting <code>TextStyle</code> is applied to a <code>MapMarker</code>
 <dd><code>textOutlineSize</code> - <p>The size of the text outline in pixels.
      Only non-negative values are supported.</p></dd>
 <dd><code>textOutlineColor</code> - <p>The color of the text outline.</p></dd>
-<dd><code>placements</code> - <p>List of allowed placements of the text relative to the icon of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</p></dd>
+<dd><code>placements</code> - <p>List of allowed placements of the text relative to the icon of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapmarker.textstyle.instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
 </dl>
 </section>
 </li>
@@ -223,11 +223,11 @@ Once the resulting <code>TextStyle</code> is applied to a <code>MapMarker</code>
  @NonNull
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> textOutlineColor,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt; placements,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt; placements,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> fontName)</span>
-          throws <span class="exceptions"><a href="sdk-for-android-explore-mapmarker.textstyle.instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></span></div>
-<div class="block"><p>Creates a set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.
+          throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></span></div>
+<div class="block"><p>Creates a set of styling options for the text of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.
  List of placements is used to specify allowed placement of text relative to the icon.
@@ -246,11 +246,11 @@ Once the resulting <code>TextStyle</code> is applied to a <code>MapMarker</code>
 <dd><code>textOutlineSize</code> - <p>The size of the text outline in pixels.
      Only non-negative values are supported.</p></dd>
 <dd><code>textOutlineColor</code> - <p>The color of the text outline.</p></dd>
-<dd><code>placements</code> - <p>List of allowed placements of the text relative to the icon of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</p></dd>
+<dd><code>placements</code> - <p>List of allowed placements of the text relative to the icon of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</p></dd>
 <dd><code>fontName</code> - <p>Font name, registered with <code>AssetsManager.registerFont</code>.
      If empty string is provided, a default font will be used.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapmarker.textstyle.instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
 </dl>
 </section>
 </li>
@@ -324,11 +324,11 @@ Once the resulting <code>TextStyle</code> is applied to a <code>MapMarker</code>
 <section class="detail" id="getPlacements()">
 <h3>getPlacements</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt;</span> <span class="element-name">getPlacements</span>()</div>
-<div class="block"><p>Gets the possible text placements relative to the icon of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt;</span> <span class="element-name">getPlacements</span>()</div>
+<div class="block"><p>Gets the possible text placements relative to the icon of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>List of possible text placements relative to the icon of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</p></dd>
+<dd><p>List of possible text placements relative to the icon of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</p></dd>
 </dl>
 </section>
 </li>

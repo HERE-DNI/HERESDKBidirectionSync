@@ -29,9 +29,9 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A4 class truck road type.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.counterstyle#aboveMaxText">aboveMaxText</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-counterstyle#aboveMaxText">aboveMaxText</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></dt>
 <dd>
-<div class="block">String to display if there are more markers clustered than <a href="sdk-for-android-explore-mapmarkercluster.counterstyle#maxCountNumber"><code>MapMarkerCluster.CounterStyle.maxCountNumber</code></a>.</div>
+<div class="block">String to display if there are more markers clustered than <a href="sdk-for-android-explore-mapmarkercluster-counterstyle#maxCountNumber"><code>MapMarkerCluster.CounterStyle.maxCountNumber</code></a>.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-countrycode#ABW">ABW</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></dt>
 <dd>
@@ -143,7 +143,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Ad-hoc tariff (pay as you go), no subscription required.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#ADAS">ADAS</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#ADAS">ADAS</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data which provides ADAS information which includes slope,
  elevation and curvature information.</div>
@@ -340,7 +340,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Query address elements to get the results from a specific geographical area.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.addresselements#%3Cinit%3E()">AddressElements()</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-addresselements#%3Cinit%3E()">AddressElements()</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -409,7 +409,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Albania</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#ALL">ALL</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#ALL">ALL</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">All the vehicles are applicable for this category.</div>
 </dd>
@@ -516,7 +516,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Optional altitude in meters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.direction#altitude">altitude</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-direction#altitude">altitude</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></dt>
 <dd>
 <div class="block">Direction altitude value in degrees in the range [0, 90].</div>
 </dd>
@@ -553,7 +553,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Ampol app</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.imagestyle#anchor">anchor</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-imagestyle#anchor">anchor</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></dt>
 <dd>
 <div class="block">The anchor point for the marker image which specifies the position offset relative
  to the cluster's position.</div>
@@ -623,13 +623,13 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">This class is for internal use only.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresultcode#APPLIED">APPLIED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresultcode#APPLIED">APPLIED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
 <dd>
 <div class="block">The memory management options were successfully applied.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-timerule#appliesTo(java.util.Date)">appliesTo(Date)</a> - Method in class com.here.sdk.core.<a href="sdk-for-android-explore-timerule" title="class in com.here.sdk.core">TimeRule</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-authenticationmode.accesstokenprovider#apply()">apply()</a> - Method in interface com.here.sdk.core.engine.<a href="sdk-for-android-explore-authenticationmode.accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-authenticationmode-accesstokenprovider#apply()">apply()</a> - Method in interface com.here.sdk.core.engine.<a href="sdk-for-android-explore-authenticationmode-accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a></dt>
 <dd>
 <div class="block">This lambda is used to retrieve access token in synchronous manner.</div>
 </dd>
@@ -653,39 +653,39 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Area which to provide the most relevant places.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-textquery.area#%3Cinit%3E(com.here.sdk.core.GeoBox)">Area(GeoBox)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-textquery-area#%3Cinit%3E(com.here.sdk.core.GeoBox)">Area(GeoBox)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
 <dd>
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-textquery.area#%3Cinit%3E(com.here.sdk.core.GeoCircle)">Area(GeoCircle)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-textquery-area#%3Cinit%3E(com.here.sdk.core.GeoCircle)">Area(GeoCircle)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
 <dd>
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery.area#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Area(GeoCoordinates)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery-area#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Area(GeoCoordinates)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
 <dd>
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-textquery.area#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Area(GeoCoordinates)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-textquery-area#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Area(GeoCoordinates)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
 <dd>
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery.area#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoBox)">Area(GeoCoordinates, GeoBox)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery-area#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoBox)">Area(GeoCoordinates, GeoBox)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
 <dd>
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery.area#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCircle)">Area(GeoCoordinates, GeoCircle)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery-area#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCircle)">Area(GeoCoordinates, GeoCircle)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
 <dd>
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery.area#%3Cinit%3E(com.here.sdk.core.GeoCorridor,com.here.sdk.core.GeoCoordinates)">Area(GeoCorridor, GeoCoordinates)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery-area#%3Cinit%3E(com.here.sdk.core.GeoCorridor,com.here.sdk.core.GeoCoordinates)">Area(GeoCorridor, GeoCoordinates)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
 <dd>
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-textquery.area#%3Cinit%3E(com.here.sdk.core.GeoCorridor,com.here.sdk.core.GeoCoordinates)">Area(GeoCorridor, GeoCoordinates)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-textquery-area#%3Cinit%3E(com.here.sdk.core.GeoCorridor,com.here.sdk.core.GeoCoordinates)">Area(GeoCorridor, GeoCoordinates)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
 <dd>
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-textquery.area#%3Cinit%3E(java.util.List,com.here.sdk.core.GeoCoordinates)">Area(List&lt;CountryCode&gt;, GeoCoordinates)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-textquery-area#%3Cinit%3E(java.util.List,com.here.sdk.core.GeoCoordinates)">Area(List&lt;CountryCode&gt;, GeoCoordinates)</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
 <dd>
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </dd>
@@ -697,7 +697,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Geographical coordinates of the center around which to provide the most relevant places.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery.area#areaCenter">areaCenter</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery-area#areaCenter">areaCenter</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
 <dd>
 <div class="block">Geographic coordinates of the center around which to provide the most relevant places.</div>
 </dd>
@@ -705,7 +705,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Geographic coordinates of the prioritized area center.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-textquery.area#areaCenter">areaCenter</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-textquery-area#areaCenter">areaCenter</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
 <dd>
 <div class="block">Geographic coordinates of the center around which to provide the most relevant places.</div>
 </dd>
@@ -734,7 +734,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Armenia</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue.valuetype#ARRAY">ARRAY</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue-valuetype#ARRAY">ARRAY</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
 <dd>
 <div class="block">Value of array type.</div>
 </dd>
@@ -911,7 +911,7 @@ slug: "sdk-for-android-explore-index-all"
  header ("Authorization", "Bearer $Token") to each online request of the
  module the object is added to.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-authenticationmode.accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-authenticationmode-accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
 <dd>
 <div class="block">This lambda is used to retrieve access token in synchronous manner.</div>
 </dd>
@@ -1116,7 +1116,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Azerbaijan</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.direction#azimuth">azimuth</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-direction#azimuth">azimuth</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></dt>
 <dd>
 <div class="block">Direction azimuth value in degrees in the range [0, 360).</div>
 </dd>
@@ -1135,7 +1135,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">B4 class truck road type.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.category#BACK">BACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-category#BACK">BACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></dt>
 <dd>
 <div class="block">Back light</div>
 </dd>
@@ -1318,7 +1318,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Vehicle type is a bicycle.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.bicyclebuilder#%3Cinit%3E()">BicycleBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-bicyclebuilder#%3Cinit%3E()">BicycleBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
@@ -1415,19 +1415,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Bolivia (Plurinational State of)</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue.valuetype#BOOLEAN">BOOLEAN</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue-valuetype#BOOLEAN">BOOLEAN</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
 <dd>
 <div class="block">Value of boolean type.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement#BOTTOM">BOTTOM</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement#BOTTOM">BOTTOM</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
 <dd>
 <div class="block">Text placed below the bottom edge of the image's bounding rectangle.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement#BOTTOM_LEFT">BOTTOM_LEFT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement#BOTTOM_LEFT">BOTTOM_LEFT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
 <dd>
 <div class="block">Text placed at the bottom left corner of the image's bounding rectangle.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement#BOTTOM_RIGHT">BOTTOM_RIGHT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement#BOTTOM_RIGHT">BOTTOM_RIGHT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
 <dd>
 <div class="block">Text placed at the bottom right corner of the image's bounding rectangle.</div>
 </dd>
@@ -1451,11 +1451,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Computes the geodetic bounds (as <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>) for a tile identified by <a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource"><code>TileKey</code></a>.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery.area#boxArea">boxArea</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery-area#boxArea">boxArea</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
 <dd>
 <div class="block">Geographic rectangle area in which to provide the most relevant places.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-textquery.area#boxArea">boxArea</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-textquery-area#boxArea">boxArea</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
 <dd>
 <div class="block">Geographic rectangle area in which to provide the most relevant places.</div>
 </dd>
@@ -1542,75 +1542,75 @@ slug: "sdk-for-android-explore-index-all"
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-meshbuilder#build()">build()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview">MeshBuilder</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.bicyclebuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-bicyclebuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a bicycle with the specifications taken
- from the <a href="sdk-for-android-explore-transportspecification.bicyclebuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.BicycleBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-transportspecification-bicyclebuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.BicycleBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.busbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-busbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a bus with the specifications taken
- from the <a href="sdk-for-android-explore-transportspecification.busbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.BusBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-transportspecification-busbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.BusBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.carbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-carbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a car with the specifications taken
- from the <a href="sdk-for-android-explore-transportspecification.carbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.pedestrianbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-pedestrianbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a pedestrian profile with the specifications taken
- from the <a href="sdk-for-android-explore-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-transportspecification-pedestrianbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PedestrianBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.privatebusbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-privatebusbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a private bus with the specifications taken
- from the <a href="sdk-for-android-explore-transportspecification.privatebusbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PrivateBusBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-transportspecification-privatebusbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.PrivateBusBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.scooterbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-scooterbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a scooter with the specifications taken
- from the <a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-transportspecification-scooterbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.ScooterBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.taxibuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-taxibuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a taxi with the specifications taken
- from the <a href="sdk-for-android-explore-transportspecification.taxibuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.TaxiBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-transportspecification-taxibuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.TaxiBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.truckbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-truckbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a truck with the specifications taken
- from the <a href="sdk-for-android-explore-transportspecification.truckbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.TruckBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-transportspecification-truckbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.TruckBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> object for <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a> with the specifications taken
- from the <a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.BusBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.BusBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> object for <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> with the specifications taken
- from the <a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.CarBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.CarBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> object for <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a> with the specifications taken
- from the <a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.PrivateBusBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.PrivateBusBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.scooterbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-scooterbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> object for <a href="sdk-for-android-explore-transportmode#SCOOTER"><code>TransportMode.SCOOTER</code></a> with the specifications taken
- from the <a href="sdk-for-android-explore-vehiclespecification.scooterbuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.ScooterBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-vehiclespecification-scooterbuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.ScooterBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> object for <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> with the specifications taken
- from the <a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.TaxiBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.TaxiBuilder</code></a> object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#build()">build()</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Builds the <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> object for <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a> with the specifications taken
- from the <a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a> object.</div>
+ from the <a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport"><code>VehicleSpecification.TruckBuilder</code></a> object.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-mapfeatures#BUILDING_FOOTPRINTS">BUILDING_FOOTPRINTS</a> - Static variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview">MapFeatures</a></dt>
 <dd>
@@ -1632,7 +1632,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Bus.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#BUS">BUS</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#BUS">BUS</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Bus.</div>
 </dd>
@@ -1653,11 +1653,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A bus stop.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.busbuilder#%3Cinit%3E()">BusBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-busbuilder#%3Cinit%3E()">BusBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#%3Cinit%3E()">BusBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#%3Cinit%3E()">BusBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
@@ -1815,11 +1815,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Local cache configuration.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.cache#%3Cinit%3E(java.lang.String)">Cache(String)</a> - Constructor for class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-cache#%3Cinit%3E(java.lang.String)">Cache(String)</a> - Constructor for class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></dt>
 <dd>
 <div class="block">Constructs a Cache object from the provided path and a default cache size of 32 MiB.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.cache#%3Cinit%3E(java.lang.String,long)">Cache(String, long)</a> - Constructor for class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-cache#%3Cinit%3E(java.lang.String,long)">Cache(String, long)</a> - Constructor for class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></dt>
 <dd>
 <div class="block">Constructs a Cache object from the provided path and cache size.</div>
 </dd>
@@ -2018,59 +2018,59 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A function which is called by the RoutingEngine after route traffic calculation has completed.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions.calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List)">Calculation(IsolineRangeType, List&lt;Integer&gt;)</a> - Constructor for class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions.calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions-calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List)">Calculation(IsolineRangeType, List&lt;Integer&gt;)</a> - Constructor for class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions-calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions.calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode)">Calculation(IsolineRangeType, List&lt;Integer&gt;, IsolineCalculationMode)</a> - Constructor for class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions.calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions-calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode)">Calculation(IsolineRangeType, List&lt;Integer&gt;, IsolineCalculationMode)</a> - Constructor for class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions-calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions.calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode,java.lang.Integer,com.here.sdk.routing.RoutePlaceDirection)">Calculation(IsolineRangeType, List&lt;Integer&gt;, IsolineCalculationMode, Integer, RoutePlaceDirection)</a> - Constructor for class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions.calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions-calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode,java.lang.Integer,com.here.sdk.routing.RoutePlaceDirection)">Calculation(IsolineRangeType, List&lt;Integer&gt;, IsolineCalculationMode, Integer, RoutePlaceDirection)</a> - Constructor for class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions-calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions.calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.RoutePlaceDirection)">Calculation(IsolineRangeType, List&lt;Integer&gt;, RoutePlaceDirection)</a> - Constructor for class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions.calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions-calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.RoutePlaceDirection)">Calculation(IsolineRangeType, List&lt;Integer&gt;, RoutePlaceDirection)</a> - Constructor for class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions-calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions#calculationOptions">calculationOptions</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions" title="class in com.here.sdk.routing">IsolineOptions</a></dt>
 <dd>
 <div class="block">Specifies isoline parameters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK">CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK">CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Camera's look-at distance is already modified by an earlier track that modifies camera's orientation.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK">CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK">CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Camera's look-at distance is already modified by an earlier track that modifies camera's position.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK">CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK">CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Camera's look-at orientation is already modified by an earlier track that modifies camera's orientation.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK">CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK">CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Camera's look-at orientation is already modified by an earlier track that modifies camera's position.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK">CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK">CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Camera's look-at target is already modified by an earlier track that modifies camera's orientation.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK">CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK">CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Camera's look-at target is already modified by an earlier track that modifies camera's position.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK">CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK">CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Camera's orientation is already modified by an earlier track that modifies camera's look-at distance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK">CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK">CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Camera's orientation is already modified by an earlier track that modifies camera's look-at orientation.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK">CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK">CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Camera's position is already modified by an earlier track that modifies camera's look-at distance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK">CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK">CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Camera's position is already modified by an earlier track that modifies camera's look-at orientation.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK">CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK">CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Camera's position is already modified by an earlier track that modifies camera's look-at target.</div>
 </dd>
@@ -2082,7 +2082,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Sets internal state of task to 'canceled'.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource.loadtilerequesthandle#cancel()">cancel()</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource-loadtilerequesthandle#cancel()">cancel()</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></dt>
 <dd>
 <div class="block">Cancels the associated load tile request.</div>
 </dd>
@@ -2134,7 +2134,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Car mode of transport.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#CAR">CAR</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#CAR">CAR</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Car.</div>
 </dd>
@@ -2167,11 +2167,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Exhausted carbon dioxide in grams per kilowatt-hour.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.carbuilder#%3Cinit%3E()">CarBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-carbuilder#%3Cinit%3E()">CarBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#%3Cinit%3E()">CarBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#%3Cinit%3E()">CarBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
@@ -2342,7 +2342,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></dt>
 <dd>
 <div class="block">Area to perform search on.</div>
 </dd>
@@ -2362,7 +2362,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Center of circle.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement#CENTER">CENTER</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement#CENTER">CENTER</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
 <dd>
 <div class="block">Text placed centered over the image.</div>
 </dd>
@@ -2552,11 +2552,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">China</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery.area#circleArea">circleArea</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery-area#circleArea">circleArea</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
 <dd>
 <div class="block">Geographic circle area in which to provide the most relevant places.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-textquery.area#circleArea">circleArea</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-textquery-area#circleArea">circleArea</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
 <dd>
 <div class="block">Geographic circle area in which to provide the most relevant places.</div>
 </dd>
@@ -2564,7 +2564,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The city name for the address, for example, "Brooklyn".</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.addresselements#city">city</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-addresselements#city">city</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
 <dd>
 <div class="block">An optional field of city name, which will be used to get the results only from the given city.</div>
 </dd>
@@ -2572,7 +2572,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Represents a city.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.resulttype#CITY">CITY</a> - Enum constant in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-resulttype#CITY">CITY</a> - Enum constant in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
 <dd>
 <div class="block">Expected result type is city.</div>
 </dd>
@@ -2674,7 +2674,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Represents a color value.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue.valuetype#COLOR">COLOR</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue-valuetype#COLOR">COLOR</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
 <dd>
 <div class="block">Value of color type.</div>
 </dd>
@@ -2820,7 +2820,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">ID of the connector type.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter.ev#connectorTypeIDs">connectorTypeIDs</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter-ev#connectorTypeIDs">connectorTypeIDs</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
 <dd>
 <div class="block">Filter to retrieve EV charging stations with at least one of the connector type IDs.</div>
 </dd>
@@ -2960,11 +2960,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">ID used to correlate multiple, related queries.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery.area#corridorArea">corridorArea</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery-area#corridorArea">corridorArea</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
 <dd>
 <div class="block">Geographic corridor area in which to provide the most relevant places.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-textquery.area#corridorArea">corridorArea</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-textquery-area#corridorArea">corridorArea</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
 <dd>
 <div class="block">Geographic corridor area in which to provide the most relevant places.</div>
 </dd>
@@ -3000,7 +3000,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Total number of ratings.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.counterstyle#%3Cinit%3E()">CounterStyle()</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-counterstyle#%3Cinit%3E()">CounterStyle()</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -3012,7 +3012,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A list of countries that the query is applied in.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-textquery.area#countries">countries</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-textquery-area#countries">countries</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
 <dd>
 <div class="block">A list of countries that the query is applied in.</div>
 </dd>
@@ -3020,7 +3020,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The country name for the address, for example, "United States".</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.addresselements#country">country</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-addresselements#country">country</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
 <dd>
 <div class="block">An optional field of country name or code, which will be used to get the results only from the given country.</div>
 </dd>
@@ -3028,7 +3028,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Represents a country, ie.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.resulttype#COUNTRY">COUNTRY</a> - Enum constant in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-resulttype#COUNTRY">COUNTRY</a> - Enum constant in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
 <dd>
 <div class="block">Expected result type is country.</div>
 </dd>
@@ -3117,7 +3117,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Optional field to define credentials to authenticate a user to the proxy server.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings.credentials#%3Cinit%3E(java.lang.String,java.lang.String)">Credentials(String, String)</a> - Constructor for class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings.credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings-credentials#%3Cinit%3E(java.lang.String,java.lang.String)">Credentials(String, String)</a> - Constructor for class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings-credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -3133,7 +3133,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Costa Rica</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.freeresourceseverity#CRITICAL">CRITICAL</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-freeresourceseverity#CRITICAL">CRITICAL</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a></dt>
 <dd>
 <div class="block">Critical severity: resource should be released as much as possible.</div>
 </dd>
@@ -3182,7 +3182,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Current range provided by the charging station, in amperes.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter.ev#currentType">currentType</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter-ev#currentType">currentType</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
 <dd>
 <div class="block">Filter to retrieve EV charging stations with the given current type
  provided at one of the station EVSE.</div>
@@ -3210,7 +3210,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">CustomMetadataValue based object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene.mappickfilter.contenttype#CUSTOM_LAYER_DATA">CUSTOM_LAYER_DATA</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene.mappickfilter.contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene-mappickfilter-contenttype#CUSTOM_LAYER_DATA">CUSTOM_LAYER_DATA</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene-mappickfilter-contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></dt>
 <dd>
 <div class="block">Custom user map content added using custom datasources e.g.</div>
 </dd>
@@ -3281,12 +3281,12 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Dark watermark, to be used for brighter daytime map schemes.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashimagerepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)">DashImageRepresentation(MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, MapImage)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashimagerepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)">DashImageRepresentation(MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, MapImage)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></dt>
 <dd>
 <div class="block">Creates a uniform dash pattern in which the length of a gap is the same as the length of
  a dash.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashimagerepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)">DashImageRepresentation(MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, MapImage)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashimagerepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)">DashImageRepresentation(MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, MapImage)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></dt>
 <dd>
 <div class="block">Creates a simple dash pattern in which the lengths of a dash and gap can be different.</div>
 </dd>
@@ -3303,11 +3303,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a simple dash pattern in which the lengths of a dash and gap can be different.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color)">DashRepresentation(MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, Color)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color)">DashRepresentation(MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, Color)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
 <dd>
 <div class="block">Creates a representation for a dashed line.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.core.Color)">DashRepresentation(MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, Color, Color)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.core.Color)">DashRepresentation(MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, Color, Color)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
 <dd>
 <div class="block">Creates a representation for a dashed line with both dash and the gap being colored.</div>
 </dd>
@@ -3367,11 +3367,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates an aggregated data attribute value.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Supported types of the data attribute values.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource.tilemetadata#dataExpiryTimestamp">dataExpiryTimestamp</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource-tilemetadata#dataExpiryTimestamp">dataExpiryTimestamp</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></dt>
 <dd>
 <div class="block">Tile data expiry timestamp, relative to Epoch.</div>
 </dd>
@@ -3379,11 +3379,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Path used for storing application internal data, such as the offline search index and other essential data required for proper functionality.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource.tilemetadata#dataVersion">dataVersion</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource-tilemetadata#dataVersion">dataVersion</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></dt>
 <dd>
 <div class="block">Tile data version.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource.dataversion#%3Cinit%3E(int,int)">DataVersion(int, int)</a> - Constructor for class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource-dataversion#%3Cinit%3E(int,int)">DataVersion(int, int)</a> - Constructor for class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -3471,7 +3471,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Demostration</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rendersize.unit#DENSITY_INDEPENDENT_PIXELS">DENSITY_INDEPENDENT_PIXELS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rendersize-unit#DENSITY_INDEPENDENT_PIXELS">DENSITY_INDEPENDENT_PIXELS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></dt>
 <dd>
 <div class="block">Size expressed in device independent pixels, meaning that on devices
  with different display resolutions and sizes it will represent approximately
@@ -3595,16 +3595,16 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Destroys the rendering surface.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#DETAIL_RENDERING">DETAIL_RENDERING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#DETAIL_RENDERING">DETAIL_RENDERING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Additional rendering details like buildings.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#DETAILED_RENDERING">DETAILED_RENDERING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#DETAILED_RENDERING">DETAILED_RENDERING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the
- <a href="sdk-for-android-explore-layerconfiguration.feature#DETAIL_RENDERING"><code>LayerConfiguration.Feature.DETAIL_RENDERING</code></a> layer configuration.</div>
+ <a href="sdk-for-android-explore-layerconfiguration-feature#DETAIL_RENDERING"><code>LayerConfiguration.Feature.DETAIL_RENDERING</code></a> layer configuration.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#DETAILED_TERRAIN">DETAILED_TERRAIN</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#DETAILED_TERRAIN">DETAILED_TERRAIN</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that provides detailed topography information.</div>
 </dd>
@@ -3621,7 +3621,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Contains details of a specific place, such as contact information,
  opening hours and assigned categories.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#%3Cinit%3E()">Details()</a> - Constructor for class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#%3Cinit%3E()">Details()</a> - Constructor for class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -3681,7 +3681,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Diesel with additives fuel type.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresult#diffBetweenVideoMemoryLimitAndRequirementInKiB">diffBetweenVideoMemoryLimitAndRequirementInKiB</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresult#diffBetweenVideoMemoryLimitAndRequirementInKiB">diffBetweenVideoMemoryLimitAndRequirementInKiB</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a></dt>
 <dd>
 <div class="block">The difference in kibibytes between the limit and the video-memory requirement
  for only the currently visible data.</div>
@@ -3703,11 +3703,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Road direction.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.direction#%3Cinit%3E()">Direction()</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-direction#%3Cinit%3E()">Direction()</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></dt>
 <dd>
 <div class="block">Constructs a Direction with default values: azimuth = 0.0, altitude = 0.0.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.direction#%3Cinit%3E(double,double)">Direction(double, double)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-direction#%3Cinit%3E(double,double)">Direction(double, double)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></dt>
 <dd>
 <div class="block">Constructs a Direction from the values.</div>
 </dd>
@@ -3751,7 +3751,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Discover credit card</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.cache#diskSize">diskSize</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-cache#diskSize">diskSize</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></dt>
 <dd>
 <div class="block">The maximum size to use on disk for the cache, in bytes.</div>
 </dd>
@@ -3779,7 +3779,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Cancels pending requests and closes the background worker thread.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasure.kind#DISTANCE_IN_METERS">DISTANCE_IN_METERS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasure-kind#DISTANCE_IN_METERS">DISTANCE_IN_METERS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></dt>
 <dd>
 <div class="block">The measure kind distance, in meters.</div>
 </dd>
@@ -3787,7 +3787,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Distance range in meters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera.farplaneconfiguration#distanceFactor">distanceFactor</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera-farplaneconfiguration#distanceFactor">distanceFactor</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera-farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></dt>
 <dd>
 <div class="block">Multiplier applied to the camera distance to target when calculating the far plane.</div>
 </dd>
@@ -3795,7 +3795,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Computes distance (in meters) along the great circle between two coordinates.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera.state#distanceToTargetInMeters">distanceToTargetInMeters</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera-state#distanceToTargetInMeters">distanceToTargetInMeters</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a></dt>
 <dd>
 <div class="block">Distance from the camera to the target point in meters.</div>
 </dd>
@@ -3807,7 +3807,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The district name for the address.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.addresselements#district">district</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-addresselements#district">district</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
 <dd>
 <div class="block">An optional field of district, which will be used to get the results only from the given district.</div>
 </dd>
@@ -3815,7 +3815,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Represents a district.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.resulttype#DISTRICT">DISTRICT</a> - Enum constant in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-resulttype#DISTRICT">DISTRICT</a> - Enum constant in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
 <dd>
 <div class="block">Expected result type is district.</div>
 </dd>
@@ -3911,7 +3911,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Double sized floating point value.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue.valuetype#DOUBLE">DOUBLE</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue-valuetype#DOUBLE">DOUBLE</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
 <dd>
 <div class="block">Value of double precision float type.</div>
 </dd>
@@ -3943,9 +3943,9 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Specifies the endpoint URL for a map catalog.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode#DUPLICATE_TEXT_PLACEMENT_VALUES">DUPLICATE_TEXT_PLACEMENT_VALUES</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode#DUPLICATE_TEXT_PLACEMENT_VALUES">DUPLICATE_TEXT_PLACEMENT_VALUES</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></dt>
 <dd>
-<div class="block">Instantiation parameters contain unsupported list with duplicate <a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview"><code>MapMarker.TextStyle.Placement</code></a> entries.</div>
+<div class="block">Instantiation parameters contain unsupported list with duplicate <a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview"><code>MapMarker.TextStyle.Placement</code></a> entries.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-anchor2dkeyframe#duration">duration</a> - Variable in class com.here.sdk.animation.<a href="sdk-for-android-explore-anchor2dkeyframe" title="class in com.here.sdk.animation">Anchor2DKeyframe</a></dt>
 <dd>
@@ -3999,7 +3999,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Represents duration in time (both positive and negative).</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementstrategy#DYNAMIC">DYNAMIC</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementstrategy#DYNAMIC">DYNAMIC</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></dt>
 <dd>
 <div class="block">The cache of all loaded map-data can adjust dynamically to fit visible data.</div>
 </dd>
@@ -4051,11 +4051,11 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Creates an instance of customized <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation"><code>Easing</code></a> using a specified number of points describing an
  easing function.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-easing-instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
 <dd>
 <div class="block">Describes a reason for failing to create an <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation"><code>Easing</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-easing.instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-easing-instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
 <dd>
 <div class="block">Thrown when a problem occurs while trying to create an <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation"><code>Easing</code></a>.</div>
 </dd>
@@ -4103,7 +4103,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Egypt</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#EHORIZON">EHORIZON</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#EHORIZON">EHORIZON</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data which provides information about the parts of foreign segments in a tile,
  where a foreign segment is a segment that is stored in another tile but intersects the current tile.</div>
@@ -4160,7 +4160,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter.ev#eMobilityServiceProviderPartnerIDs">eMobilityServiceProviderPartnerIDs</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter-ev#eMobilityServiceProviderPartnerIDs">eMobilityServiceProviderPartnerIDs</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
 <dd>
 <div class="block">Filter to retrieve EV charging stations with at least one matching e-Mobility Service Provider Partner ID.</div>
 </dd>
@@ -4184,7 +4184,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Restriction is for empty weight.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraupdate.instantiationerrorcode#EMPTY_COMPOSITE_CAMERA_UPDATE_LIST">EMPTY_COMPOSITE_CAMERA_UPDATE_LIST</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraupdate.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraupdate-instantiationerrorcode#EMPTY_COMPOSITE_CAMERA_UPDATE_LIST">EMPTY_COMPOSITE_CAMERA_UPDATE_LIST</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraupdate-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">List of camera updates that should form a composite camera update is empty.</div>
 </dd>
@@ -4192,23 +4192,23 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Empty list of IDs passed.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapitemkeyframetrack.instantiationerrorcode#EMPTY_KEYFRAME_LIST">EMPTY_KEYFRAME_LIST</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapitemkeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapitemkeyframetrack-instantiationerrorcode#EMPTY_KEYFRAME_LIST">EMPTY_KEYFRAME_LIST</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapitemkeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">List of keyframes is empty.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationerrorcode#EMPTY_KEYFRAME_LIST">EMPTY_KEYFRAME_LIST</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationerrorcode#EMPTY_KEYFRAME_LIST">EMPTY_KEYFRAME_LIST</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">List of keyframes is empty.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode#EMPTY_SIZES">EMPTY_SIZES</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode#EMPTY_SIZES">EMPTY_SIZES</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block"><code>sizes</code> dictionary is empty</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode#EMPTY_TEXT_PLACEMENT_LIST">EMPTY_TEXT_PLACEMENT_LIST</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode#EMPTY_TEXT_PLACEMENT_LIST">EMPTY_TEXT_PLACEMENT_LIST</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></dt>
 <dd>
-<div class="block">Instantiation parameters contain unsupported empty list without any <a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview"><code>MapMarker.TextStyle.Placement</code></a> entries.</div>
+<div class="block">Instantiation parameters contain unsupported empty list without any <a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview"><code>MapMarker.TextStyle.Placement</code></a> entries.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#EMPTY_TRACK_LIST">EMPTY_TRACK_LIST</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#EMPTY_TRACK_LIST">EMPTY_TRACK_LIST</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">List of keyframe tracks is empty.</div>
 </dd>
@@ -4428,7 +4428,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-networksettings#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings.credentials#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings.credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings-credentials#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings-credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></dt>
 <dd> </dd>
@@ -4496,7 +4496,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-tilekey#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera.farplaneconfiguration#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera-farplaneconfiguration#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera-farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-maplayervisibilityrange#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayervisibilityrange" title="class in com.here.sdk.mapview">MapLayerVisibilityRange</a></dt>
 <dd> </dd>
@@ -4506,7 +4506,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasurerange#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.direction#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-direction#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-mapviewoptions#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a></dt>
 <dd> </dd>
@@ -4674,7 +4674,7 @@ slug: "sdk-for-android-explore-index-all"
  </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-vehiclerestrictionmaxweight#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.routing.<a href="sdk-for-android-explore-vehiclerestrictionmaxweight" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a></dt>
 <dd> </dd>
@@ -4686,7 +4686,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-businessdetails#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-businessdetails" title="class in com.here.sdk.search">BusinessDetails</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery.area#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery-area#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a></dt>
 <dd> </dd>
@@ -4768,7 +4768,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-placefilter#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter" title="class in com.here.sdk.search">PlaceFilter</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter.ev#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter-ev#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-placefoodtype#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-placefoodtype" title="class in com.here.sdk.search">PlaceFoodType</a></dt>
 <dd> </dd>
@@ -4782,13 +4782,13 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-searchoptions#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-searchoptions" title="class in com.here.sdk.search">SearchOptions</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.addresselements#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-addresselements#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-supplierreference#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-supplierreference" title="class in com.here.sdk.search">SupplierReference</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-textquery.area#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-textquery-area#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-textquery#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery" title="class in com.here.sdk.search">TextQuery</a></dt>
 <dd> </dd>
@@ -4812,7 +4812,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-trafficflowqueryoptions#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-trafficincidentlookupoptions#equals(java.lang.Object)">equals(Object)</a> - Method in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincidentlookupoptions" title="class in com.here.sdk.traffic">TrafficIncidentLookupOptions</a></dt>
 <dd> </dd>
@@ -4860,39 +4860,39 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">convenient function to print a message with log level ERROR and tag.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrordetails#errorCode">errorCode</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory.instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationerrordetails#errorCode">errorCode</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory-instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a></dt>
 <dd>
 <div class="block">The error code.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrordetails#errorCode">errorCode</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationerrordetails#errorCode">errorCode</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a></dt>
 <dd>
 <div class="block">The error code.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrordetails#errorCode">errorCode</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordetails#errorCode">errorCode</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a></dt>
 <dd>
 <div class="block">The error code.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-translucentmaplayergroup.errordetails#errorCode">errorCode</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-translucentmaplayergroup.errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-translucentmaplayergroup-errordetails#errorCode">errorCode</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-translucentmaplayergroup-errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a></dt>
 <dd>
 <div class="block">The error code.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrordetails#errorDescription">errorDescription</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory.instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationerrordetails#errorDescription">errorDescription</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory-instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a></dt>
 <dd>
 <div class="block">A description of the error, if available.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrordetails#errorDescription">errorDescription</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationerrordetails#errorDescription">errorDescription</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a></dt>
 <dd>
 <div class="block">A description of the error, if available.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrordetails#errorDescription">errorDescription</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordetails#errorDescription">errorDescription</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a></dt>
 <dd>
 <div class="block">A description of the error, if available.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-translucentmaplayergroup.errordetails#errorDescription">errorDescription</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-translucentmaplayergroup.errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-translucentmaplayergroup-errordetails#errorDescription">errorDescription</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-translucentmaplayergroup-errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a></dt>
 <dd>
 <div class="block">A description of the error, if available.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-translucentmaplayergroup.errordetails#%3Cinit%3E(com.here.sdk.mapview.TranslucentMapLayerGroup.ErrorCode,java.lang.String)">ErrorDetails(TranslucentMapLayerGroup.ErrorCode, String)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-translucentmaplayergroup.errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-translucentmaplayergroup-errordetails#%3Cinit%3E(com.here.sdk.mapview.TranslucentMapLayerGroup.ErrorCode,java.lang.String)">ErrorDetails(TranslucentMapLayerGroup.ErrorCode, String)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-translucentmaplayergroup-errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -4956,31 +4956,31 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Basque</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions.emissiontype#EURO_EEV">EURO_EEV</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions-emissiontype#EURO_EEV">EURO_EEV</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
 <dd>
 <div class="block">toll emission type; euroEev</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions.emissiontype#EURO1">EURO1</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions-emissiontype#EURO1">EURO1</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
 <dd>
 <div class="block">toll emission type; euro1</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions.emissiontype#EURO2">EURO2</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions-emissiontype#EURO2">EURO2</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
 <dd>
 <div class="block">toll emission type; euro2</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions.emissiontype#EURO3">EURO3</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions-emissiontype#EURO3">EURO3</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
 <dd>
 <div class="block">toll emission type; euro3</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions.emissiontype#EURO4">EURO4</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions-emissiontype#EURO4">EURO4</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
 <dd>
 <div class="block">toll emission type; euro4</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions.emissiontype#EURO5">EURO5</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions-emissiontype#EURO5">EURO5</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
 <dd>
 <div class="block">toll emission type; euro5</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions.emissiontype#EURO6">EURO6</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions-emissiontype#EURO6">EURO6</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
 <dd>
 <div class="block">toll emission type; euro6</div>
 </dd>
@@ -4988,23 +4988,23 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Constraints that are applicable on the places of category EV station.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter.ev#%3Cinit%3E()">Ev()</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter-ev#%3Cinit%3E()">Ev()</a> - Constructor for class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#EV">EV</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#EV">EV</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Offline map data for <code>EVChargingStation</code>.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#EV_RENDERING">EV_RENDERING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#EV_RENDERING">EV_RENDERING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the
- "ev_charging_station_rendering_premium" layer group, enabled with <a href="sdk-for-android-explore-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>.</div>
+ "ev_charging_station_rendering_premium" layer group, enabled with <a href="sdk-for-android-explore-layerconfiguration-feature#EV"><code>LayerConfiguration.Feature.EV</code></a>.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#EV_SEARCH">EV_SEARCH</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#EV_SEARCH">EV_SEARCH</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the
- "ev_charging_station_search_premium" layer group, enabled with <a href="sdk-for-android-explore-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>.</div>
+ "ev_charging_station_search_premium" layer group, enabled with <a href="sdk-for-android-explore-layerconfiguration-feature#EV"><code>LayerConfiguration.Feature.EV</code></a>.</div>
 </dd>
 <dt><a class="type-name-link" href="sdk-for-android-explore-evaccessrestrictionreason" title="enum class in com.here.sdk.search">EVAccessRestrictionReason</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></dt>
 <dd>
@@ -5494,19 +5494,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Represents facility type available at the location.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-linetilesource.loadresulthandler#failed(com.here.sdk.mapview.datasource.TileKey)">failed(TileKey)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-linetilesource-loadresulthandler#failed(com.here.sdk.mapview.datasource.TileKey)">failed(TileKey)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-linetilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></dt>
 <dd>
 <div class="block">Called upon failed load tile request.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-pointtilesource.loadresulthandler#failed(com.here.sdk.mapview.datasource.TileKey)">failed(TileKey)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-pointtilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-pointtilesource-loadresulthandler#failed(com.here.sdk.mapview.datasource.TileKey)">failed(TileKey)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-pointtilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a></dt>
 <dd>
 <div class="block">Called upon failed load tile request.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-polygontilesource.loadresulthandler#failed(com.here.sdk.mapview.datasource.TileKey)">failed(TileKey)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-polygontilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-polygontilesource-loadresulthandler#failed(com.here.sdk.mapview.datasource.TileKey)">failed(TileKey)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-polygontilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a></dt>
 <dd>
 <div class="block">Called upon failed load tile request.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rastertilesource.loadresulthandler#failed(com.here.sdk.mapview.datasource.TileKey)">failed(TileKey)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rastertilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rastertilesource-loadresulthandler#failed(com.here.sdk.mapview.datasource.TileKey)">failed(TileKey)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rastertilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></dt>
 <dd>
 <div class="block">Called upon failed load tile request.</div>
 </dd>
@@ -5514,11 +5514,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Instantiation attempt failed.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresultcode#FAILED">FAILED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresultcode#FAILED">FAILED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
 <dd>
 <div class="block">The memory management options could not be applied due to other errors.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresultcode#FAILED_BOTH_MEMORY_LIMITS_EXCEEDED">FAILED_BOTH_MEMORY_LIMITS_EXCEEDED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresultcode#FAILED_BOTH_MEMORY_LIMITS_EXCEEDED">FAILED_BOTH_MEMORY_LIMITS_EXCEEDED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
 <dd>
 <div class="block">Both video memory and CPU tile cache limits were exceeded and limits were not applied.</div>
 </dd>
@@ -5584,7 +5584,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">List of tickets to pay for this section of the route.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera.farplaneconfiguration#%3Cinit%3E(double,double)">FarPlaneConfiguration(double, double)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera-farplaneconfiguration#%3Cinit%3E(double,double)">FarPlaneConfiguration(double, double)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera-farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -5662,7 +5662,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Length of first gap in pixels.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementstrategy#FIXED">FIXED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementstrategy#FIXED">FIXED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></dt>
 <dd>
 <div class="block">The cache of all loaded map-data is constrained to a fixed capacity.</div>
 </dd>
@@ -5690,7 +5690,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Falkland Islands (Malvinas)</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue.valuetype#FLOAT">FLOAT</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue-valuetype#FLOAT">FLOAT</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
 <dd>
 <div class="block">Value of single precision float type.</div>
 </dd>
@@ -5714,7 +5714,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position along an adaptive ballistic curve.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.counterstyle#fontSize">fontSize</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-counterstyle#fontSize">fontSize</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></dt>
 <dd>
 <div class="block">Font size of counter.</div>
 </dd>
@@ -5734,30 +5734,30 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The provided credentials don't give access to the requested resource.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#forbiddenAxleCount">forbiddenAxleCount</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#forbiddenAxleCount">forbiddenAxleCount</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">The restriction to trucks with axles number within specified range during the trip.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#forbiddenHazardousGoods">forbiddenHazardousGoods</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#forbiddenHazardousGoods">forbiddenHazardousGoods</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used
  for the route calculation provided using <a href="sdk-for-android-explore-vehiclespecification#hazardousMaterials"><code>VehicleSpecification.hazardousMaterials</code></a> from
  <a href="sdk-for-android-explore-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="sdk-for-android-explore-routingoptions#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#forbiddenTrailerCount">forbiddenTrailerCount</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#forbiddenTrailerCount">forbiddenTrailerCount</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Constrains the restriction to trucks with number of trailer within specified range during the trip.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#forbiddenTruckCategory">forbiddenTruckCategory</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#forbiddenTruckCategory">forbiddenTruckCategory</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">This property will be set if a restriction applies to the value of <a href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a>
  parameter used for route calculation.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#forbiddenTruckRoadTypes">forbiddenTruckRoadTypes</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#forbiddenTruckRoadTypes">forbiddenTruckRoadTypes</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Contains violated restrictions for truck road types.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#forbiddenTruckType">forbiddenTruckType</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#forbiddenTruckType">forbiddenTruckType</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.27.0. Use <code>forbidden_truck_category</code> instead.</p></div>
@@ -5902,7 +5902,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A fuel station.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#FUEL_STATION_ATTRIBUTES">FUEL_STATION_ATTRIBUTES</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES">FUEL_STATION_ATTRIBUTES</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Enables fuel attributes to be returned by Offline Search engine.</div>
 </dd>
@@ -5943,7 +5943,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">The list of <a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport"><code>FuelType</code></a> elements that should be used to find only
  the <a href="sdk-for-android-explore-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results that support all of them.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-sdknativeengine.purgememorystrategy#FULL">FULL</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdknativeengine.purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-sdknativeengine-purgememorystrategy#FULL">FULL</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></dt>
 <dd>
 <div class="block">No content in the caches preserved.</div>
 </dd>
@@ -6253,7 +6253,7 @@ slug: "sdk-for-android-explore-index-all"
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack#getAnchor2DKeyframes()">getAnchor2DKeyframes()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapview.viewpin#getAnchorPoint()">getAnchorPoint()</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapview-viewpin#getAnchorPoint()">getAnchorPoint()</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview-viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></dt>
 <dd>
 <div class="block">Gets anchor point for this instance.</div>
 </dd>
@@ -6375,7 +6375,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets the camera to control the view for the map.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.solidrepresentation#getCapShape()">getCapShape()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-solidrepresentation#getCapShape()">getCapShape()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
 <dd>
 <div class="block">Returns the cap shape of the polyline and its outline.</div>
 </dd>
@@ -6446,7 +6446,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Gets the 3D marker's position on the map corresponding to the origin of the 3D marker model
  coordinate system.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult#getCoordinates()">getCoordinates()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult#getCoordinates()">getCoordinates()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
 <dd>
 <div class="block">Gets the geographic coordinates of the traffic incident.</div>
 </dd>
@@ -6474,23 +6474,23 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Obtains an instance of the CustomMetadataValue class associated with a given key.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashrepresentation#getDashColor()">getDashColor()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashrepresentation#getDashColor()">getDashColor()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
 <dd>
 <div class="block">Gets the color of the dashes of the polyline.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashimagerepresentation#getDashImage()">getDashImage()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashimagerepresentation#getDashImage()">getDashImage()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></dt>
 <dd>
 <div class="block">Gets the image that is rendered in place of dash space.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashimagerepresentation#getDashLength()">getDashLength()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashimagerepresentation#getDashLength()">getDashLength()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></dt>
 <dd>
 <div class="block">Gets the map measure dependent length of a dash, to which image width is stretched.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashrepresentation#getDashLength()">getDashLength()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashrepresentation#getDashLength()">getDashLength()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
 <dd>
 <div class="block">Gets the map measure dependent polyline dash length.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashimagerepresentation#getDashWidth()">getDashWidth()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashimagerepresentation#getDashWidth()">getDashWidth()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></dt>
 <dd>
 <div class="block">Gets the map measure dependent width of a dash, to which image height is stretched.</div>
 </dd>
@@ -6530,7 +6530,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets the departure place.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult#getDescription()">getDescription()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult#getDescription()">getDescription()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
 <dd>
 <div class="block">Gets the human readable description of the incident, possibly with location information.</div>
 </dd>
@@ -6645,7 +6645,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets the position indicating the end of the highlighted part, exclusive.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult#getEndTime()">getEndTime()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult#getEndTime()">getEndTime()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
 <dd>
 <div class="block">Get the time until which the incident is valid, after this time the incident should not be considered.</div>
 </dd>
@@ -6718,7 +6718,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets the value of a single precision floating decimal attribute or <code>null</code> if it is not contained or the type doesn't match.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle#getFontName()">getFontName()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle#getFontName()">getFontName()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
 <dd>
 <div class="block">Gets the font name.</div>
 </dd>
@@ -6746,19 +6746,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets the functional road class of the span.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashrepresentation#getGapColor()">getGapColor()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashrepresentation#getGapColor()">getGapColor()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
 <dd>
 <div class="block">Gets the color for the gaps of the polyline.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashimagerepresentation#getGapLength()">getGapLength()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashimagerepresentation#getGapLength()">getGapLength()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></dt>
 <dd>
 <div class="block">Gets the map measure dependent length of a gap between dash images.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashrepresentation#getGapLength()">getGapLength()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashrepresentation#getGapLength()">getGapLength()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
 <dd>
 <div class="block">Gets the map measure dependent polyline gap length.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapview.viewpin#getGeoCoordinates()">getGeoCoordinates()</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapview-viewpin#getGeoCoordinates()">getGeoCoordinates()</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview-viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></dt>
 <dd>
 <div class="block">Returns the current GeoCoordinates on the map.</div>
 </dd>
@@ -6874,7 +6874,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets currently used map image.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult#getImpact()">getImpact()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult#getImpact()">getImpact()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
 <dd>
 <div class="block">Gets the impact of the incident.</div>
 </dd>
@@ -7002,15 +7002,15 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets a MapCameraLimits instance that controls limits for the camera settings.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.solidrepresentation#getLineColor()">getLineColor()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-solidrepresentation#getLineColor()">getLineColor()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
 <dd>
 <div class="block">Gets the color of the polyline.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.dashrepresentation#getLineWidth()">getLineWidth()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-dashrepresentation#getLineWidth()">getLineWidth()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></dt>
 <dd>
 <div class="block">Gets the map measure dependent polyline width.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.solidrepresentation#getLineWidth()">getLineWidth()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-solidrepresentation#getLineWidth()">getLineWidth()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
 <dd>
 <div class="block">Gets the map measure dependent polyline width.</div>
 </dd>
@@ -7184,7 +7184,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets the options used by this instance of <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult#getOriginalId()">getOriginalId()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult#getOriginalId()">getOriginalId()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
 <dd>
 <div class="block">Gets the unique traffic event ID.</div>
 </dd>
@@ -7196,7 +7196,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets the color of the polygon outline.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.solidrepresentation#getOutlineColor()">getOutlineColor()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-solidrepresentation#getOutlineColor()">getOutlineColor()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
 <dd>
 <div class="block">Gets the color of outline of the polyline.</div>
 </dd>
@@ -7204,7 +7204,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets the outline width of the polygon in pixels.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.solidrepresentation#getOutlineWidth()">getOutlineWidth()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-solidrepresentation#getOutlineWidth()">getOutlineWidth()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
 <dd>
 <div class="block">Gets the map measure dependent polyline outline width.</div>
 </dd>
@@ -7260,7 +7260,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets the suggested place item.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle#getPlacements()">getPlacements()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle#getPlacements()">getPlacements()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
 <dd>
 <div class="block">Gets the possible text placements relative to the icon of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </dd>
@@ -7494,7 +7494,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets the position of the first character that matches a query.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult#getStartTime()">getStartTime()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult#getStartTime()">getStartTime()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
 <dd>
 <div class="block">Gets the time from which the incident is valid, before this time the incident should not be considered.</div>
 </dd>
@@ -7595,19 +7595,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets the maneuver instruction.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle#getTextColor()">getTextColor()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle#getTextColor()">getTextColor()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
 <dd>
 <div class="block">Gets the text color.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle#getTextOutlineColor()">getTextOutlineColor()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle#getTextOutlineColor()">getTextOutlineColor()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
 <dd>
 <div class="block">Gets the text outline color.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle#getTextOutlineSize()">getTextOutlineSize()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle#getTextOutlineSize()">getTextOutlineSize()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
 <dd>
 <div class="block">Gets the text outline size in pixels.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle#getTextSize()">getTextSize()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle#getTextSize()">getTextSize()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
 <dd>
 <div class="block">Gets the text size in pixels.</div>
 </dd>
@@ -7703,7 +7703,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the type of the value.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult#getType()">getType()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult#getType()">getType()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a></dt>
 <dd>
 <div class="block">Gets the category of the incident.</div>
 </dd>
@@ -7924,7 +7924,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Gross truck weight, including trailers and shipped goods when loaded at capacity, specified in
  kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.grouping#%3Cinit%3E(java.util.List,com.here.sdk.mapview.MapMarkerCluster)">Grouping(List&lt;MapMarker&gt;, MapMarkerCluster)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-grouping#%3Cinit%3E(java.util.List,com.here.sdk.mapview.MapMarkerCluster)">Grouping(List&lt;MapMarker&gt;, MapMarkerCluster)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -7979,7 +7979,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Materials that are harmful to water.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.provider#hasAlphaChannel">hasAlphaChannel</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-provider#hasAlphaChannel">hasAlphaChannel</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
 <dd>
 <div class="block">A flag indicating whether the image content contains an alpha channel for transparency.</div>
 </dd>
@@ -8032,7 +8032,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-networksettings#hashCode()">hashCode()</a> - Method in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-networksettings" title="class in com.here.sdk.core.engine">NetworkSettings</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings.credentials#hashCode()">hashCode()</a> - Method in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings.credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings-credentials#hashCode()">hashCode()</a> - Method in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings-credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings#hashCode()">hashCode()</a> - Method in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></dt>
 <dd> </dd>
@@ -8100,7 +8100,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-tilekey#hashCode()">hashCode()</a> - Method in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera.farplaneconfiguration#hashCode()">hashCode()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera-farplaneconfiguration#hashCode()">hashCode()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera-farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-maplayervisibilityrange#hashCode()">hashCode()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayervisibilityrange" title="class in com.here.sdk.mapview">MapLayerVisibilityRange</a></dt>
 <dd> </dd>
@@ -8110,7 +8110,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasurerange#hashCode()">hashCode()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.direction#hashCode()">hashCode()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-direction#hashCode()">hashCode()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-mapviewoptions#hashCode()">hashCode()</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a></dt>
 <dd> </dd>
@@ -8278,7 +8278,7 @@ slug: "sdk-for-android-explore-index-all"
  </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-vehiclerestrictionmaxweight#hashCode()">hashCode()</a> - Method in class com.here.sdk.routing.<a href="sdk-for-android-explore-vehiclerestrictionmaxweight" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#hashCode()">hashCode()</a> - Method in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#hashCode()">hashCode()</a> - Method in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction#hashCode()">hashCode()</a> - Method in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a></dt>
 <dd> </dd>
@@ -8290,7 +8290,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-businessdetails#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-businessdetails" title="class in com.here.sdk.search">BusinessDetails</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery.area#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery-area#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-categoryquery#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a></dt>
 <dd> </dd>
@@ -8370,7 +8370,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-placechain#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-placechain" title="class in com.here.sdk.search">PlaceChain</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter.ev#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter-ev#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-placefilter#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter" title="class in com.here.sdk.search">PlaceFilter</a></dt>
 <dd> </dd>
@@ -8386,13 +8386,13 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-searchoptions#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-searchoptions" title="class in com.here.sdk.search">SearchOptions</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.addresselements#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-addresselements#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-supplierreference#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-supplierreference" title="class in com.here.sdk.search">SupplierReference</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-textquery.area#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-textquery-area#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-textquery#hashCode()">hashCode()</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-textquery" title="class in com.here.sdk.search">TextQuery</a></dt>
 <dd> </dd>
@@ -8416,7 +8416,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-trafficflowqueryoptions#hashCode()">hashCode()</a> - Method in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a></dt>
 <dd> </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#hashCode()">hashCode()</a> - Method in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#hashCode()">hashCode()</a> - Method in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd> </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-trafficincidentlookupoptions#hashCode()">hashCode()</a> - Method in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincidentlookupoptions" title="class in com.here.sdk.traffic">TrafficIncidentLookupOptions</a></dt>
 <dd> </dd>
@@ -8536,7 +8536,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Hebrew</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.provider#headers">headers</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-provider#headers">headers</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
 <dd>
 <div class="block">The optional name-value pairs specifying HTTP headers that are passed with each tile request.</div>
 </dd>
@@ -8562,7 +8562,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Heavy class truck.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#HEAVY_GOODS_VEHICLE">HEAVY_GOODS_VEHICLE</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#HEAVY_GOODS_VEHICLE">HEAVY_GOODS_VEHICLE</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Heavy goods vehicle (or large goods vehicle).</div>
 </dd>
@@ -8690,7 +8690,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Haiti</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings.proxytype#HTTP">HTTP</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings.proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings-proxytype#HTTP">HTTP</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></dt>
 <dd>
 <div class="block">Http</div>
 </dd>
@@ -8710,7 +8710,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Network request error.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings.proxytype#HTTPS">HTTPS</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings.proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings-proxytype#HTTPS">HTTPS</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></dt>
 <dd>
 <div class="block">Https</div>
 </dd>
@@ -8766,7 +8766,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates an IconProvider.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-iconprovider.iconcallback" title="interface in com.here.sdk.mapview">IconProvider.IconCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-iconprovider-iconcallback" title="interface in com.here.sdk.mapview">IconProvider.IconCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Interface which is used as callback to pass back an image or error code after calling
  the createRoadShieldIcon() method.</div>
@@ -8907,11 +8907,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Illegal arguments.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.representation.instantiationerrorcode#ILLEGAL_ARGUMENTS">ILLEGAL_ARGUMENTS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.representation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-representation-instantiationerrorcode#ILLEGAL_ARGUMENTS">ILLEGAL_ARGUMENTS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-representation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Instantiation parameters contain unsupported values.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.imagestyle#image">image</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-imagestyle#image">image</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></dt>
 <dd>
 <div class="block">The map image for the cluster marker.</div>
 </dd>
@@ -8927,11 +8927,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The list of images associated with the place.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.imagestyle#%3Cinit%3E(com.here.sdk.mapview.MapImage)">ImageStyle(MapImage)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-imagestyle#%3Cinit%3E(com.here.sdk.mapview.MapImage)">ImageStyle(MapImage)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></dt>
 <dd>
 <div class="block">Creates a marker cluster image representation with default anchor.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.imagestyle#%3Cinit%3E(com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)">ImageStyle(MapImage, Anchor2D)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-imagestyle#%3Cinit%3E(com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)">ImageStyle(MapImage, Anchor2D)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></dt>
 <dd>
 <div class="block">Creates a cluster marker image style using a map image with anchor.</div>
 </dd>
@@ -9205,11 +9205,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">List of food types to be included.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkeranimation.instantiationerrorcode#INCOMPATIBLE_TRACK">INCOMPATIBLE_TRACK</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapmarkeranimation.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkeranimation-instantiationerrorcode#INCOMPATIBLE_TRACK">INCOMPATIBLE_TRACK</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapmarkeranimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Incompatible type of track provided.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolylineanimation.instantiationerrorcode#INCOMPATIBLE_TRACK">INCOMPATIBLE_TRACK</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mappolylineanimation.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolylineanimation-instantiationerrorcode#INCOMPATIBLE_TRACK">INCOMPATIBLE_TRACK</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Incompatible type of track provided.</div>
 </dd>
@@ -9325,15 +9325,15 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Instantiation error.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrordetails#%3Cinit%3E(com.here.sdk.mapview.JsonStyleFactory.InstantiationErrorCode,java.lang.String)">InstantiationErrorDetails(JsonStyleFactory.InstantiationErrorCode, String)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory.instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationerrordetails#%3Cinit%3E(com.here.sdk.mapview.JsonStyleFactory.InstantiationErrorCode,java.lang.String)">InstantiationErrorDetails(JsonStyleFactory.InstantiationErrorCode, String)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory-instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrordetails#%3Cinit%3E(com.here.sdk.mapview.MapLayerBuilder.InstantiationErrorCode,java.lang.String)">InstantiationErrorDetails(MapLayerBuilder.InstantiationErrorCode, String)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationerrordetails#%3Cinit%3E(com.here.sdk.mapview.MapLayerBuilder.InstantiationErrorCode,java.lang.String)">InstantiationErrorDetails(MapLayerBuilder.InstantiationErrorCode, String)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrordetails#%3Cinit%3E(com.here.sdk.mapview.MapSceneLoadOptionsBuilder.InstantiationErrorCode,java.lang.String)">InstantiationErrorDetails(MapSceneLoadOptionsBuilder.InstantiationErrorCode, String)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordetails#%3Cinit%3E(com.here.sdk.mapview.MapSceneLoadOptionsBuilder.InstantiationErrorCode,java.lang.String)">InstantiationErrorDetails(MapSceneLoadOptionsBuilder.InstantiationErrorCode, String)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -9341,7 +9341,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Instantiation error.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue.valuetype#INT64">INT64</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue-valuetype#INT64">INT64</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
 <dd>
 <div class="block">Value of 64-bit integer type.</div>
 </dd>
@@ -9373,7 +9373,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">All the intermediate stops between departure and destination of this section.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperioderrorcode#INTERNAL_ERROR">INTERNAL_ERROR</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperioderrorcode#INTERNAL_ERROR">INTERNAL_ERROR</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></dt>
 <dd>
 <div class="block">Internal error occured.</div>
 </dd>
@@ -9454,15 +9454,15 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Invalid incident ID, type, earliestStartTime or latestEndTime.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrorcode#INVALID_JSON_STYLE_SYNTAX">INVALID_JSON_STYLE_SYNTAX</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationerrorcode#INVALID_JSON_STYLE_SYNTAX">INVALID_JSON_STYLE_SYNTAX</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory-instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">JSON style syntax validation failed.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapitemkeyframetrack.instantiationerrorcode#INVALID_KEYFRAME_DURATION">INVALID_KEYFRAME_DURATION</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapitemkeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapitemkeyframetrack-instantiationerrorcode#INVALID_KEYFRAME_DURATION">INVALID_KEYFRAME_DURATION</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapitemkeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Duration of first keyframe is not 0, which is invalid.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationerrorcode#INVALID_KEYFRAME_DURATION">INVALID_KEYFRAME_DURATION</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationerrorcode#INVALID_KEYFRAME_DURATION">INVALID_KEYFRAME_DURATION</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Invalid keyframe duration value.</div>
 </dd>
@@ -9470,7 +9470,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Invalid parameter is received.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-translucentmaplayergroup.errorcode#INVALID_PARAMETER">INVALID_PARAMETER</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-translucentmaplayergroup.errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-translucentmaplayergroup-errorcode#INVALID_PARAMETER">INVALID_PARAMETER</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-translucentmaplayergroup-errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></dt>
 <dd>
 <div class="block">Invalid parameter provided.</div>
 </dd>
@@ -9543,7 +9543,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Gets a boolean indicating if this task is cancelled.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isCaravanRestricted">isCaravanRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isCaravanRestricted">isCaravanRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if a driving with a caravan is restricted for vehicles of the matching category.</div>
 </dd>
@@ -9559,35 +9559,35 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns <code>true</code> if depth check is enabled.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isDestinationInIncidentAreaRestricted">isDestinationInIncidentAreaRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isDestinationInIncidentAreaRestricted">isDestinationInIncidentAreaRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if a traffic destination in the incident area is restricted for vehicles of the matching category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isDieselFuelRestricted">isDieselFuelRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isDieselFuelRestricted">isDieselFuelRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if diesel fuel is restricted for vehicles of the matching category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isDrivingWithoutSnowChainsRestricted">isDrivingWithoutSnowChainsRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isDrivingWithoutSnowChainsRestricted">isDrivingWithoutSnowChainsRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if a driving without snow chains is restricted for vehicles of the matching category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isDrivingWithoutWinterTyresRestricted">isDrivingWithoutWinterTyresRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isDrivingWithoutWinterTyresRestricted">isDrivingWithoutWinterTyresRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if a driving without winter tyres is restricted for vehicles of the matching category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isEuro3EmissionStandardRestricted">isEuro3EmissionStandardRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isEuro3EmissionStandardRestricted">isEuro3EmissionStandardRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if euro3 and weaker emission standards are restricted for vehicles of the matching category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isEuro4EmissionStandardRestricted">isEuro4EmissionStandardRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isEuro4EmissionStandardRestricted">isEuro4EmissionStandardRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if euro4 and weaker emission standards are restricted for vehicles of the matching category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isEuro5EmissionStandardRestricted">isEuro5EmissionStandardRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isEuro5EmissionStandardRestricted">isEuro5EmissionStandardRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if euro5 and weaker emission standards are restricted for vehicles of the matching category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isEvenNumberPlateRestricted">isEvenNumberPlateRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isEvenNumberPlateRestricted">isEvenNumberPlateRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if a plate with even number is restricted for vehicles of the matching category.</div>
 </dd>
@@ -9603,7 +9603,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Iceland</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isLpgFuelRestricted">isLpgFuelRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isLpgFuelRestricted">isLpgFuelRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if LPG fuel is restricted for vehicles of the matching category.</div>
 </dd>
@@ -9611,7 +9611,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Allow the client to access info about is it my place or not.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isOddNumberPlateRestricted">isOddNumberPlateRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isOddNumberPlateRestricted">isOddNumberPlateRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if a plate with odd number is restricted for vehicles of the matching category.</div>
 </dd>
@@ -9635,7 +9635,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Indicates a <code>IsolineRoutingEngine</code> endpoint.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions.calculation#isolineCalculationMode">isolineCalculationMode</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions.calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions-calculation#isolineCalculationMode">isolineCalculationMode</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions-calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
 <dd>
 <div class="block">Specifies how isoline calculation is optimized.</div>
 </dd>
@@ -9643,7 +9643,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Specifies how isoline calculation is optimized.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions.calculation#isolineDirection">isolineDirection</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions.calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions-calculation#isolineDirection">isolineDirection</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions-calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
 <dd>
 <div class="block">Specifies if calculations will be from or to a specific point.</div>
 </dd>
@@ -9680,7 +9680,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the constructor with <code>RoutingOptions</code> parameter instead.</p></div>
 </div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-isolineoptions.calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-isolineoptions-calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></dt>
 <dd>
 <div class="block">Specifies isoline parameters.</div>
 </dd>
@@ -9716,7 +9716,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns <code>true</code> if the marker allows overlap with other markers, <code>false</code> otherwise.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isPetrolFuelRestricted">isPetrolFuelRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isPetrolFuelRestricted">isPetrolFuelRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if petrol fuel is restricted for vehicles of the matching category.</div>
 </dd>
@@ -9729,11 +9729,11 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Returns a flag indicating whether to render internal geometry of a 3D marker occluded by its front
  facing polygons.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isResidentsTrafficRestricted">isResidentsTrafficRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isResidentsTrafficRestricted">isResidentsTrafficRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if a residents traffic is restricted for vehicles of the matching category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isRestrictedAlways">isRestrictedAlways</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isRestrictedAlways">isRestrictedAlways</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if vehicles of the matching category are restricted anyway (not depending on any vehicle parameter).</div>
 </dd>
@@ -9745,11 +9745,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns <code>true</code> if the marker allows text to be hidden, <code>false</code> otherwise.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isThroughTrafficRestricted">isThroughTrafficRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isThroughTrafficRestricted">isThroughTrafficRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if a through traffic is restricted for vehicles of the matching category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#isTrailerRestricted">isTrailerRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#isTrailerRestricted">isTrailerRestricted</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">The flag indicating if a driving with a trailer is restricted for vehicles of the matching category.</div>
 </dd>
@@ -9817,43 +9817,43 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A factory of <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> objects from styles defined in JSON format.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Describes reasons for failing to create a <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Describes the reason for failing to create a <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationexception" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationexception" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Thrown when failing to create a <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#JUNCTION_SIGN_16X9">JUNCTION_SIGN_16X9</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#JUNCTION_SIGN_16X9">JUNCTION_SIGN_16X9</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that provides junction sign images with aspect ratio 16x9.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#JUNCTION_SIGN_3X4">JUNCTION_SIGN_3X4</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#JUNCTION_SIGN_3X4">JUNCTION_SIGN_3X4</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that provides junction sign images with aspect ratio 3x4.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#JUNCTION_SIGN_3X5">JUNCTION_SIGN_3X5</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#JUNCTION_SIGN_3X5">JUNCTION_SIGN_3X5</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that provides junction sign images with aspect ratio 3x5.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#JUNCTION_SIGN_4X3">JUNCTION_SIGN_4X3</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#JUNCTION_SIGN_4X3">JUNCTION_SIGN_4X3</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that provides junction sign images with aspect ratio 4x3.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#JUNCTION_SIGN_5X3">JUNCTION_SIGN_5X3</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#JUNCTION_SIGN_5X3">JUNCTION_SIGN_5X3</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that provides junction sign images with aspect ratio 5x3.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#JUNCTION_VIEW_16X9">JUNCTION_VIEW_16X9</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#JUNCTION_VIEW_16X9">JUNCTION_VIEW_16X9</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that provides junction view images and assets with aspect ratio 16x9.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#JUNCTION_VIEW_3X4">JUNCTION_VIEW_3X4</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#JUNCTION_VIEW_3X4">JUNCTION_VIEW_3X4</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that provides junction view images and assets with aspect ratio 3x4.</div>
 </dd>
@@ -9888,7 +9888,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Cambodia</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-sdkoptions.actiononcachelock#KILL_LOCKING_APP">KILL_LOCKING_APP</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-sdkoptions-actiononcachelock#KILL_LOCKING_APP">KILL_LOCKING_APP</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></dt>
 <dd>
 <div class="block">The HERE SDK will make several attempts to kill the locking process for a maximum period of 500 milliseconds.</div>
 </dd>
@@ -9971,7 +9971,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The list of landline phone numbers with associated categories.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#LANDMARKS_3D">LANDMARKS_3D</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#LANDMARKS_3D">LANDMARKS_3D</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that is used to render 3D landmarks.</div>
 </dd>
@@ -10117,13 +10117,13 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
 <dd>
 <div class="block">Defines a list of possible map data features that can be enabled / disabled.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-searcherror#LAYERS_NOT_DOWNLOADED">LAYERS_NOT_DOWNLOADED</a> - Enum constant in enum class com.here.sdk.search.<a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></dt>
 <dd>
-<div class="block">Downloaded regions missing <a href="sdk-for-android-explore-layerconfiguration.feature#OFFLINE_SEARCH_GLOBAL"><code>LayerConfiguration.Feature.OFFLINE_SEARCH_GLOBAL</code></a>
+<div class="block">Downloaded regions missing <a href="sdk-for-android-explore-layerconfiguration-feature#OFFLINE_SEARCH_GLOBAL"><code>LayerConfiguration.Feature.OFFLINE_SEARCH_GLOBAL</code></a>
  feature.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-languagecode#LB_LU">LB_LU</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></dt>
@@ -10150,7 +10150,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Leave a space or area.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement#LEFT">LEFT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement#LEFT">LEFT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
 <dd>
 <div class="block">Text placed next to the left edge of the image's bounding rectangle.</div>
 </dd>
@@ -10384,7 +10384,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Polyline data source allows the rendering engine access to the user provided
  polylines geometry and their attributes.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-linedatasource.linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Called for each line, allowing inspection, removal or update of coordinates and attributes.</div>
 </dd>
@@ -10405,7 +10405,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A source of geodetic line tiles.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-linetilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Result handler of a load tile request.</div>
 </dd>
@@ -10451,19 +10451,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Liquefied natural gas</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rastertilesource.loadresulthandler#loaded(com.here.sdk.mapview.datasource.TileKey,byte%5B%5D,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded(TileKey, byte[], TileSource.TileMetadata)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rastertilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rastertilesource-loadresulthandler#loaded(com.here.sdk.mapview.datasource.TileKey,byte%5B%5D,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded(TileKey, byte[], TileSource.TileMetadata)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rastertilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></dt>
 <dd>
 <div class="block">Called upon successful load tile request.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-linetilesource.loadresulthandler#loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded(TileKey, List&lt;LineData&gt;, TileSource.TileMetadata)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-linetilesource-loadresulthandler#loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded(TileKey, List&lt;LineData&gt;, TileSource.TileMetadata)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-linetilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></dt>
 <dd>
 <div class="block">Called upon successful load tile request.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-pointtilesource.loadresulthandler#loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded(TileKey, List&lt;PointData&gt;, TileSource.TileMetadata)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-pointtilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-pointtilesource-loadresulthandler#loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded(TileKey, List&lt;PointData&gt;, TileSource.TileMetadata)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-pointtilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a></dt>
 <dd>
 <div class="block">Called upon successful load tile request.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-polygontilesource.loadresulthandler#loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded(TileKey, List&lt;PolygonData&gt;, TileSource.TileMetadata)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-polygontilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-polygontilesource-loadresulthandler#loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded(TileKey, List&lt;PolygonData&gt;, TileSource.TileMetadata)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-polygontilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a></dt>
 <dd>
 <div class="block">Called upon successful load tile request.</div>
 </dd>
@@ -10602,11 +10602,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates an instance of LocationIndicator and adds it to provided <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">The predefined styles for the location indicator which are pedestrian and navigation mode.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Enum to identify different types of markers of the location indicator.</div>
 </dd>
@@ -10674,7 +10674,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">This class provides functionality to enable/disable console logs as well as
  setting a custom log appender to receive log messages from the SDK.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-logcontrol.invalidpathexception" title="class in com.here.sdk.core.engine">LogControl.InvalidPathException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-logcontrol-invalidpathexception" title="class in com.here.sdk.core.engine">LogControl.InvalidPathException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
 <dd>
 <div class="block">Invalid file path exception.</div>
 </dd>
@@ -10884,7 +10884,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Saint Martin (French part)</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.category#MAIN">MAIN</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-category#MAIN">MAIN</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></dt>
 <dd>
 <div class="block">Main light</div>
 </dd>
@@ -10896,7 +10896,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The incident with a significant impact on traffic flow.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource.dataversion#majorVersion">majorVersion</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource-dataversion#majorVersion">majorVersion</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></dt>
 <dd>
 <div class="block">Major version number.</div>
 </dd>
@@ -10909,7 +10909,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Makes a new instance of this class using the supplied options and stores it as shared instance
  see <a href="sdk-for-android-explore-sdknativeengine#getSharedInstance()"><code>SDKNativeEngine.getSharedInstance()</code></a>.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrorcode#MALFORMED_JSON_CONTENT">MALFORMED_JSON_CONTENT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationerrorcode#MALFORMED_JSON_CONTENT">MALFORMED_JSON_CONTENT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory-instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">JSON parsing failed.</div>
 </dd>
@@ -10929,7 +10929,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Asset with Map optimized icons.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene.mappickfilter.contenttype#MAP_CONTENT">MAP_CONTENT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene.mappickfilter.contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene-mappickfilter-contenttype#MAP_CONTENT">MAP_CONTENT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene-mappickfilter-contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></dt>
 <dd>
 <div class="block">Pickable map content currently consists of:
  
@@ -10938,7 +10938,7 @@ slug: "sdk-for-android-explore-index-all"
  with <a href="sdk-for-android-explore-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>.
  Vehicle restrictions are only available for the Navigate license.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene.mappickfilter.contenttype#MAP_ITEMS">MAP_ITEMS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene.mappickfilter.contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene-mappickfilter-contenttype#MAP_ITEMS">MAP_ITEMS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene-mappickfilter-contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></dt>
 <dd>
 <div class="block">Map items added through a <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> like <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>, <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>, <a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview"><code>MapPolygon</code></a>.</div>
 </dd>
@@ -10966,15 +10966,15 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Represents the camera looking onto the map view.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcamera.drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcamera-drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Used to report back results of dry update application to camera.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcamera-farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Far plane distance configuration for a zoom level.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Encapsulates state of the camera.</div>
 </dd>
@@ -10982,11 +10982,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">An animation that can be applied to a <a href="sdk-for-android-explore-mapcamera" title="class in com.here.sdk.mapview"><code>MapCamera</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Describes a reason for failing to create a multi-track <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationexception" title="class in com.here.sdk.mapview">MapCameraAnimation.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationexception" title="class in com.here.sdk.mapview">MapCameraAnimation.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Thrown when a problem occurs while trying to create a multi-track
  <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a>.</div>
@@ -11000,11 +11000,11 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Stores keyframes for interpolation of a camera property using a specific easing function
  and interpolation mode.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Describes a reason for failing to create a MapCameraKeyframeTrack.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack</code></a>.</div>
 </dd>
@@ -11021,11 +11021,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">An update that can be applied to the map camera.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcameraupdate.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcameraupdate-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcameraupdate.instantiationexception" title="class in com.here.sdk.mapview">MapCameraUpdate.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcameraupdate-instantiationexception" title="class in com.here.sdk.mapview">MapCameraUpdate.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview"><code>MapCameraUpdate</code></a>.</div>
 </dd>
@@ -11041,11 +11041,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Provides settings regarding map data which are applied globally to all map views.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Traffic refresh period error code</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Traffic refresh period error exception</div>
 </dd>
@@ -11057,31 +11057,31 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">MapContext is the rendering engine and the context in which virtual geographic maps get rendered.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext.freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext-freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">The severity of a free resource request.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Memory management options.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Memory management result.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">The memory management result code.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">The memory management strategy.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext.resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext-resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Types of system resources used by <a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview"><code>MapContext</code></a> or any of the entities attached to it, like <a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext.setmemorymanagementoptionscallback" title="interface in com.here.sdk.mapview">MapContext.SetMemoryManagementOptionsCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback" title="interface in com.here.sdk.mapview">MapContext.SetMemoryManagementOptionsCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Callback to handle the memory management result.</div>
 </dd>
@@ -11144,11 +11144,11 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Stores keyframes for interpolation of a map item property using a specific
  easing function and interpolation mode.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapitemkeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapitemkeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
 <dd>
 <div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapitemkeyframetrack-instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
 <dd>
 <div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a>.</div>
 </dd>
@@ -11169,15 +11169,15 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates an instance of the layer builder interface.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Describes a reason for failing to build a <a href="sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Describes the reason for failing to build a <a href="sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Thrown when failing to build a <a href="sdk-for-android-explore-maplayer" title="class in com.here.sdk.mapview"><code>MapLayer</code></a>.</div>
 </dd>
@@ -11223,19 +11223,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a <code>MapMarker</code> instance at given coordinates with specified image and text and a default text style.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
-<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a>.</div>
+<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarker.textstyle.instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarker-textstyle-instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
-<div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a> instance.</div>
+<div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a> instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Represents text placement with respect to the icon of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </dd>
@@ -11287,11 +11287,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new 3D model from path to .obj file, texture and color.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarker3dmodel.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarker3dmodel-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Indicates the reason for a failure to create <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarker3dmodel.instantiationexception" title="class in com.here.sdk.mapview">MapMarker3DModel.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarker3dmodel-instantiationexception" title="class in com.here.sdk.mapview">MapMarker3DModel.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a>.</div>
 </dd>
@@ -11303,11 +11303,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates an animation of <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> based on provided keyframe track.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarkeranimation.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarkeranimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
 <dd>
 <div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarkeranimation.instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarkeranimation-instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
 <dd>
 <div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.</div>
 </dd>
@@ -11325,15 +11325,15 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Creates a new instance of a map marker cluster which is represented as an image along with a counter
  showing how many markers are actually grouped under particular cluster icon.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarkercluster.counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Styling options for a marker cluster which is represented by the marker count as a text.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarkercluster.grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarkercluster-grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Represents a group of map markers belonging to a cluster.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarkercluster.imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">This class specifies the visual appearance of a cluster marker.</div>
 </dd>
@@ -11357,7 +11357,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Constructs a MapMeasure from the kind and value.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Kinds of measures.</div>
 </dd>
@@ -11373,11 +11373,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Constructs a <code>MapMeasureDependentRenderSize</code> from single size value which is constant across all map measures.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a>.</div>
 </dd>
@@ -11393,9 +11393,9 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Interface represents descriptor of a pickable map object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene.mappickfilter#%3Cinit%3E(java.util.List)">MapPickFilter(List&lt;MapScene.MapPickFilter.ContentType&gt;)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene-mappickfilter#%3Cinit%3E(java.util.List)">MapPickFilter(List&lt;MapScene.MapPickFilter.ContentType&gt;)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene-mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a></dt>
 <dd>
-<div class="block">Creates a new instance of <a href="sdk-for-android-explore-mapscene.mappickfilter" title="class in com.here.sdk.mapview"><code>MapScene.MapPickFilter</code></a>.</div>
+<div class="block">Creates a new instance of <a href="sdk-for-android-explore-mapscene-mappickfilter" title="class in com.here.sdk.mapview"><code>MapScene.MapPickFilter</code></a>.</div>
 </dd>
 <dt><a class="type-name-link" href="sdk-for-android-explore-mappickresult" title="class in com.here.sdk.mapview">MapPickResult</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
@@ -11421,33 +11421,33 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new <code>MapPolyline</code> instance with a specified visual representation.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline.dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline-dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Represents a dash pattern for the map polyline consisting of images rendered with certain gaps
  from each other.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Represents a dash pattern for map polyline where the dash can be rendered as a colored
  line and the gap can be either empty or colored.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Base class to represent the visual appearance of a <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline.representation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline-representation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
-<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>.</div>
+<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mappolyline-representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
-<div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>.</div>
+<div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mappolyline-representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline.solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline-solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Representation allows map polyline to be colored in multiple specified color segments.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Representation for a solid line without outline.</div>
 </dd>
@@ -11459,11 +11459,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates an animation of <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a> based on provided keyframe track.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mappolylineanimation.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
 <dd>
 <div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mappolylineanimation" title="class in com.here.sdk.animation"><code>MapPolylineAnimation</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mappolylineanimation.instantiationexception" title="class in com.here.sdk.animation">MapPolylineAnimation.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mappolylineanimation-instantiationexception" title="class in com.here.sdk.animation">MapPolylineAnimation.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-animation-package-summary">com.here.sdk.animation</a></dt>
 <dd>
 <div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-mappolylineanimation" title="class in com.here.sdk.animation"><code>MapPolylineAnimation</code></a>.</div>
 </dd>
@@ -11479,16 +11479,16 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Represents a map scene and exposes the functionality to manipulate its content.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapscene-loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Called on the main thread after <code>loadScene()</code> method finishes loading
  the scene.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapscene-mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Filter for the map content to be picked.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapscene.mappickfilter.contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapscene-mappickfilter-contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Type of the map content to be picked.</div>
 </dd>
@@ -11496,20 +11496,20 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Manage the lights and their attributes in a scene.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapscenelights-attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">This callback function allows handling errors that occur during the setting of light attributes.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapscenelights-attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Error enum indicating reasons for failure when setting light attributes.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">The scene uses three categories of lighting which are:
  Main light, Back light and Rim light.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapscenelights-direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">The direction of lights as a pair of azimuth and altitude angles.</div>
 </dd>
@@ -11525,15 +11525,15 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new builder instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Describes a reason for failing to build a <a href="sdk-for-android-explore-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Describes the reason for failing to build a <a href="sdk-for-android-explore-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationexception" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationexception" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Thrown when failing to build a <a href="sdk-for-android-explore-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a>.</div>
 </dd>
@@ -11561,7 +11561,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapsurface.renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapsurface-renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Listener of MapSurface render events.</div>
 </dd>
@@ -11593,17 +11593,17 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapview-onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Listener that gets notified when MapView is fully initialized and ready to handle all
  operations, which means that map scene is loaded and drawing surface is ready to render
  a map.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapview-takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Callback to be called on retrieval of screenshot.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapview-viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">A ViewPin is used to display Android views at a fixed location on the map.</div>
 </dd>
@@ -11611,7 +11611,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Represents the available public API from  <code>MapView</code>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-mapviewbase-mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Callback for a pick request.</div>
 </dd>
@@ -11632,7 +11632,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Morocco</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.grouping#markers">markers</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-grouping#markers">markers</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a></dt>
 <dd>
 <div class="block">List of map markers grouped on map view under map marker cluster icon.</div>
 </dd>
@@ -11710,7 +11710,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Maximum charging voltage supported by the vehicle's battery in Volts.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.counterstyle#maxCountNumber">maxCountNumber</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-counterstyle#maxCountNumber">maxCountNumber</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></dt>
 <dd>
 <div class="block">Maximal number of markers represented as exact number.</div>
 </dd>
@@ -11723,7 +11723,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">The maximum duration the user plans to charge at the station,
  including <a href="sdk-for-android-explore-batteryspecifications#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#maxHeightInCentimeters">maxHeightInCentimeters</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#maxHeightInCentimeters">maxHeightInCentimeters</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Max permitted height during the trip, in centimeters.</div>
 </dd>
@@ -11751,28 +11751,28 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Max jam factor value.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#maxKingpinToRearAxleDistanceInCentimeters">maxKingpinToRearAxleDistanceInCentimeters</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#maxKingpinToRearAxleDistanceInCentimeters">maxKingpinToRearAxleDistanceInCentimeters</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Contains the maximum permitted distance from kingpin to the rear axle in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#maxLengthInCentimeters">maxLengthInCentimeters</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#maxLengthInCentimeters">maxLengthInCentimeters</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Max permitted length during the trip, in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#maxNumberOfTires">maxNumberOfTires</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#maxNumberOfTires">maxNumberOfTires</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Contains the maximum permitted number of tires.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#maxPayloadCapacityInKilograms">maxPayloadCapacityInKilograms</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#maxPayloadCapacityInKilograms">maxPayloadCapacityInKilograms</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Max permitted payload capacity during the trip, in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-polylinesimplifier.options#maxPoints">maxPoints</a> - Variable in class com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-polylinesimplifier-options#maxPoints">maxPoints</a> - Variable in class com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></dt>
 <dd>
 <div class="block">Sets the upper limit on the resulting collection for
  the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions.calculation#maxPoints">maxPoints</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions.calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions-calculation#maxPoints">maxPoints</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions-calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
 <dd>
 <div class="block">Limits the number of points in the resulting isoline polygon.</div>
 </dd>
@@ -11879,7 +11879,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The general speed limit on urban roads for the country / state.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#maxTunnelCategory">maxTunnelCategory</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#maxTunnelCategory">maxTunnelCategory</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Tunnel category to restrict transport of specific goods during the trip.</div>
 </dd>
@@ -11887,7 +11887,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Max voltage (in volts) of the connector.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#maxWeight">maxWeight</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#maxWeight">maxWeight</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction.</div>
 </dd>
@@ -11895,15 +11895,15 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Limit of the axle weight in kilograms</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#maxWeightPerAxleGroupInKilograms">maxWeightPerAxleGroupInKilograms</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#maxWeightPerAxleGroupInKilograms">maxWeightPerAxleGroupInKilograms</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Max permitted weight per axle group during the trip, in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#maxWeightPerAxleInKilograms">maxWeightPerAxleInKilograms</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#maxWeightPerAxleInKilograms">maxWeightPerAxleInKilograms</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Max permitted weight per axle during the trip, in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#maxWidthInCentimeters">maxWidthInCentimeters</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#maxWidthInCentimeters">maxWidthInCentimeters</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Max permitted width during the trip, in centimeters.</div>
 </dd>
@@ -11947,19 +11947,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Medium class truck.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.resourcetype#MEMORY">MEMORY</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-resourcetype#MEMORY">MEMORY</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a></dt>
 <dd>
 <div class="block">Memory including CPU and GPU RAM.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementoptions#%3Cinit%3E()">MemoryManagementOptions()</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementoptions#%3Cinit%3E()">MemoryManagementOptions()</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresult#%3Cinit%3E(com.here.sdk.mapview.MapContext.MemoryManagementResultCode)">MemoryManagementResult(MapContext.MemoryManagementResultCode)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresult#%3Cinit%3E(com.here.sdk.mapview.MapContext.MemoryManagementResultCode)">MemoryManagementResult(MapContext.MemoryManagementResultCode)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementoptions#memoryManagementStrategy">memoryManagementStrategy</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementoptions#memoryManagementStrategy">memoryManagementStrategy</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></dt>
 <dd>
 <div class="block">The default setting MemoryManagementStrategy.DYNAMIC is suitable for common cases.</div>
 </dd>
@@ -11987,12 +11987,12 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Different types of objects that can be stored in a Metadata class instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rendersize.unit#METERS">METERS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rendersize-unit#METERS">METERS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></dt>
 <dd>
 <div class="block">Size expressed in meters, meaning it will stay constant relative to map content
  and change on the screen as the map is zoomed in and out.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.networkstats#methodCall">methodCall</a> - Variable in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-networkstats#methodCall">methodCall</a> - Variable in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></dt>
 <dd>
 <div class="block">Name or description of the method being called.</div>
 </dd>
@@ -12057,7 +12057,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Optional distance in meters during which the user wants to avoid taking actions.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera.farplaneconfiguration#minDistanceInMeters">minDistanceInMeters</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera-farplaneconfiguration#minDistanceInMeters">minDistanceInMeters</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera-farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></dt>
 <dd>
 <div class="block">Minimum far plane clamp in meters.</div>
 </dd>
@@ -12066,7 +12066,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">The minimum duration the user expects to charge at the station,
  including <a href="sdk-for-android-explore-batteryspecifications#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions.vehiclecategory#MINIBUS">MINIBUS</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions.vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions-vehiclecategory#MINIBUS">MINIBUS</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions-vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></dt>
 <dd>
 <div class="block">Commercial buses with a seating capacity of 16-25 passengers
  or small bus that is used to transport a maximum of 15 passengers.</div>
@@ -12091,11 +12091,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The incident with a moderate impact on traffic flow.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource.dataversion#minorVersion">minorVersion</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource-dataversion#minorVersion">minorVersion</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></dt>
 <dd>
 <div class="block">Minor version number.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter.ev#minPowerInKilowatts">minPowerInKilowatts</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter-ev#minPowerInKilowatts">minPowerInKilowatts</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
 <dd>
 <div class="block">Filter to retrieve EV charging stations with the given minimum charging power in KW
  delivered by at least one of the station EVSE.</div>
@@ -12108,11 +12108,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Pass is valid for a specified number of minutes.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrorcode#MISSING_MANDATORY_PARAMETER">MISSING_MANDATORY_PARAMETER</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationerrorcode#MISSING_MANDATORY_PARAMETER">MISSING_MANDATORY_PARAMETER</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Missing mandatory parameter.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker3dmodel.instantiationerrorcode#MISSING_TEXTURE_COORDINATES">MISSING_TEXTURE_COORDINATES</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker3dmodel.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker3dmodel-instantiationerrorcode#MISSING_TEXTURE_COORDINATES">MISSING_TEXTURE_COORDINATES</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker3dmodel-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">The provided <a href="sdk-for-android-explore-mesh" title="class in com.here.sdk.mapview"><code>Mesh</code></a> does not contain texture coordinates.</div>
 </dd>
@@ -12192,7 +12192,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Defines inclusion or exclusion of transit modes for route calculation.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.freeresourceseverity#MODERATE">MODERATE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-freeresourceseverity#MODERATE">MODERATE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a></dt>
 <dd>
 <div class="block">Moderate severity: some resource should be released.</div>
 </dd>
@@ -12217,11 +12217,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Pass is valid for a specified number of months.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#MOTOR_VEHICLE">MOTOR_VEHICLE</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#MOTOR_VEHICLE">MOTOR_VEHICLE</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Motor vehicle.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#MOTORCYCLE">MOTORCYCLE</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#MOTORCYCLE">MOTORCYCLE</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Motorcycle.</div>
 </dd>
@@ -12270,35 +12270,35 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Martinique</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS">MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS">MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">List of keyframe tracks contains multiple camera field-of-view tracks.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS">MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS">MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">List of keyframe tracks contains multiple camera focal length tracks.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS">MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS">MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">List of keyframe tracks contains multiple camera look-at distance tracks.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS">MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS">MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">List of keyframe tracks contains multiple camera look-at orientation tracks.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS">MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS">MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">List of keyframe tracks contains multiple camera look-at target tracks.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#MULTIPLE_CAMERA_ORIENTATION_TRACKS">MULTIPLE_CAMERA_ORIENTATION_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_ORIENTATION_TRACKS">MULTIPLE_CAMERA_ORIENTATION_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">List of keyframe tracks contains multiple camera orientation tracks.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#MULTIPLE_CAMERA_POSITION_TRACKS">MULTIPLE_CAMERA_POSITION_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_POSITION_TRACKS">MULTIPLE_CAMERA_POSITION_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">List of keyframe tracks contains multiple camera position tracks.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS">MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS">MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">List of keyframe tracks contains multiple camera principal point tracks.</div>
 </dd>
@@ -12434,24 +12434,24 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Located in, or close to, a park, nature reserve etc.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#NAVIGATION">NAVIGATION</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#NAVIGATION">NAVIGATION</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that is used for map matching during navigation.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#NAVIGATION">NAVIGATION</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#NAVIGATION">NAVIGATION</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the "adas", "ehorizon", "interop", "isa" OCM layers.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator.indicatorstyle#NAVIGATION">NAVIGATION</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator-indicatorstyle#NAVIGATION">NAVIGATION</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></dt>
 <dd>
 <div class="block">The location is indicated using a triangular green arrow which indicates the direction
  into which the user is moving.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator.markertype#NAVIGATION">NAVIGATION</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator-markertype#NAVIGATION">NAVIGATION</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></dt>
 <dd>
 <div class="block">Vehicle navigation represented by a green triangular arrow by default.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator.markertype#NAVIGATION_INACTIVE">NAVIGATION_INACTIVE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator-markertype#NAVIGATION_INACTIVE">NAVIGATION_INACTIVE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></dt>
 <dd>
 <div class="block">Vehicle navigation in inactive state, represented by a gray triangular arrow by default.</div>
 </dd>
@@ -12475,15 +12475,15 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Negative travel direction.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode#NEGATIVE_MAP_MEASURE">NEGATIVE_MAP_MEASURE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode#NEGATIVE_MAP_MEASURE">NEGATIVE_MAP_MEASURE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Negative map measure in <code>sizes</code> dictionary</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode#NEGATIVE_SIZE">NEGATIVE_SIZE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode#NEGATIVE_SIZE">NEGATIVE_SIZE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Negative size in in <code>sizes</code> dictionary</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode#NEGATIVE_TEXT_OUTLINE_SIZE">NEGATIVE_TEXT_OUTLINE_SIZE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode#NEGATIVE_TEXT_OUTLINE_SIZE">NEGATIVE_TEXT_OUTLINE_SIZE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Instantiation parameters contain unsupported negative text outline size.</div>
 </dd>
@@ -12551,7 +12551,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Provides network statistics.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.networkstats#%3Cinit%3E(long,long,java.lang.String,long)">NetworkStats(long, long, String, long)</a> - Constructor for class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-networkstats#%3Cinit%3E(long,long,java.lang.String,long)">NetworkStats(long, long, String, long)</a> - Constructor for class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -12587,7 +12587,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Norwegian (Nynorsk)</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-sdkoptions.actiononcachelock#NO_ACTION">NO_ACTION</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-sdkoptions-actiononcachelock#NO_ACTION">NO_ACTION</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></dt>
 <dd>
 <div class="block">No action is performed.</div>
 </dd>
@@ -12603,7 +12603,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">No isoline can be calculated for the given input.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.attributesettingerror#NO_LIGHTS">NO_LIGHTS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-attributesettingerror#NO_LIGHTS">NO_LIGHTS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a></dt>
 <dd>
 <div class="block">No lights available in the scene.</div>
 </dd>
@@ -12631,7 +12631,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">No schedule information is available for a transit section.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode#NO_SOURCE_SET">NO_SOURCE_SET</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrorcode#NO_SOURCE_SET">NO_SOURCE_SET</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Neither mapScheme nor configurationFile was set.</div>
 </dd>
@@ -12647,7 +12647,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Route goes through a road that does not allow through traffic.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode#NON_POSITIVE_TEXT_SIZE">NON_POSITIVE_TEXT_SIZE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode#NON_POSITIVE_TEXT_SIZE">NON_POSITIVE_TEXT_SIZE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Instantiation parameters contain unsupported non positive text size.</div>
 </dd>
@@ -12824,19 +12824,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The device has no internet connection.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#OFFLINE_BUS_ROUTING">OFFLINE_BUS_ROUTING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#OFFLINE_BUS_ROUTING">OFFLINE_BUS_ROUTING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that is used to calculate bus routes.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#OFFLINE_ROUTING">OFFLINE_ROUTING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#OFFLINE_ROUTING">OFFLINE_ROUTING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that is used to calculate routes.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#OFFLINE_SEARCH">OFFLINE_SEARCH</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#OFFLINE_SEARCH">OFFLINE_SEARCH</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that is used to search.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#OFFLINE_SEARCH_GLOBAL">OFFLINE_SEARCH_GLOBAL</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#OFFLINE_SEARCH_GLOBAL">OFFLINE_SEARCH_GLOBAL</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data used for global search indexing.</div>
 </dd>
@@ -12904,7 +12904,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Called when adding <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to the map view.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.attributesettingcallback#onAttributeSetting(com.here.sdk.mapview.MapSceneLights.AttributeSettingError)">onAttributeSetting(MapSceneLights.AttributeSettingError)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-attributesettingcallback#onAttributeSetting(com.here.sdk.mapview.MapSceneLights.AttributeSettingError)">onAttributeSetting(MapSceneLights.AttributeSettingError)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a></dt>
 <dd>
 <div class="block">This callback function allows handling errors that occur during the setting of light attributes.</div>
 </dd>
@@ -12918,11 +12918,11 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Call this method in the onCreate() method of the lifecycle owner before calling any other
  MapView methods if there are multiple MapViews instances to (re)create.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-iconprovider.iconcallback#onCreateIconReply(android.graphics.Bitmap,java.lang.String,com.here.sdk.mapview.IconProviderError)">onCreateIconReply(Bitmap, String, IconProviderError)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-iconprovider.iconcallback" title="interface in com.here.sdk.mapview">IconProvider.IconCallback</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-iconprovider-iconcallback#onCreateIconReply(android.graphics.Bitmap,java.lang.String,com.here.sdk.mapview.IconProviderError)">onCreateIconReply(Bitmap, String, IconProviderError)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-iconprovider-iconcallback" title="interface in com.here.sdk.mapview">IconProvider.IconCallback</a></dt>
 <dd>
 <div class="block">Called when the image was created successfully or an error has occurred</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource.listener#onDataVersionChanged(com.here.sdk.mapview.datasource.TileSource.DataVersion)">onDataVersionChanged(TileSource.DataVersion)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource-listener#onDataVersionChanged(com.here.sdk.mapview.datasource.TileSource.DataVersion)">onDataVersionChanged(TileSource.DataVersion)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a></dt>
 <dd>
 <div class="block">Called when tile source data version changes.</div>
 </dd>
@@ -12946,7 +12946,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Called when the double-tap gesture occurs.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera.drycameraupdatecallback#onDryApplyUpdateResult(com.here.sdk.mapview.MapCamera.State)">onDryApplyUpdateResult(MapCamera.State)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera.drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera-drycameraupdatecallback#onDryApplyUpdateResult(com.here.sdk.mapview.MapCamera.State)">onDryApplyUpdateResult(MapCamera.State)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera-drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a></dt>
 <dd>
 <div class="block">Used to report back results of dry update application to camera.</div>
 </dd>
@@ -12959,7 +12959,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">To be called to trigger fling gesture handling.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapsurface.renderlistener#onFramePrepared()">onFramePrepared()</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsurface.renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapsurface-renderlistener#onFramePrepared()">onFramePrepared()</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsurface-renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a></dt>
 <dd>
 <div class="block">Called after each frame is prepared for rendering, before presenting it, from inside the
  render loop.</div>
@@ -12998,7 +12998,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">When set, online search can be performed by the HERE SDK, allowing the retrieval of up-to-date
  search information from online services even when offline mode is enabled.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene.loadscenecallback#onLoadScene(com.here.sdk.mapview.MapError)">onLoadScene(MapError)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene-loadscenecallback#onLoadScene(com.here.sdk.mapview.MapError)">onLoadScene(MapError)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene-loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a></dt>
 <dd>
 <div class="block">Called on the main thread after <code>loadScene()</code> method finishes loading
  the scene.</div>
@@ -13027,7 +13027,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Called when map finishes all state updates.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapview.onreadylistener#onMapViewReady()">onMapViewReady()</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapview-onreadylistener#onMapViewReady()">onMapViewReady()</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview-onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a></dt>
 <dd>
 <div class="block">Callback to be called when MapView is fully initialized and ready to handle all
  operations.</div>
@@ -13049,7 +13049,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Called when the map view to which this <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> is attached to gets paused
  (usually when the app goes into background).</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapviewbase.mappickcallback#onPickMap(com.here.sdk.mapview.MapPickResult)">onPickMap(MapPickResult)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapviewbase-mappickcallback#onPickMap(com.here.sdk.mapview.MapPickResult)">onPickMap(MapPickResult)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapviewbase-mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a></dt>
 <dd>
 <div class="block">Callback for a pick request.</div>
 </dd>
@@ -13078,7 +13078,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The method to call on the listener when data source is ready to use.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapsurface.renderlistener#onRenderTargetReleased()">onRenderTargetReleased()</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsurface.renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapsurface-renderlistener#onRenderTargetReleased()">onRenderTargetReleased()</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsurface-renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a></dt>
 <dd>
 <div class="block">Called after the render target has been released.</div>
 </dd>
@@ -13117,7 +13117,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">To be called to trigger scale gesture handling.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapview.takescreenshotcallback#onScreenshotTaken(android.graphics.Bitmap)">onScreenshotTaken(Bitmap)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapview-takescreenshotcallback#onScreenshotTaken(android.graphics.Bitmap)">onScreenshotTaken(Bitmap)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview-takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a></dt>
 <dd>
 <div class="block">Callback to be called when screenshot is ready.</div>
 </dd>
@@ -13133,7 +13133,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The method will be called on the main thread when a search call has been completed.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.setmemorymanagementoptionscallback#onSetMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementResult)">onSetMemoryManagementOptions(MapContext.MemoryManagementResult)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.setmemorymanagementoptionscallback" title="interface in com.here.sdk.mapview">MapContext.SetMemoryManagementOptionsCallback</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback#onSetMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementResult)">onSetMemoryManagementOptions(MapContext.MemoryManagementResult)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback" title="interface in com.here.sdk.mapview">MapContext.SetMemoryManagementOptionsCallback</a></dt>
 <dd>
 <div class="block">Callback to handle the memory management result.</div>
 </dd>
@@ -13286,14 +13286,14 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A flag that indicates whether the order of waypoints that is passed to <code>calculateRoute()</code> should be optimized in the best order.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-polylinesimplifier.options#%3Cinit%3E()">Options()</a> - Constructor for class com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-polylinesimplifier-options#%3Cinit%3E()">Options()</a> - Constructor for class com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></dt>
 <dd>
-<div class="block">Creates default options with <a href="sdk-for-android-explore-polylinesimplifier.options#maxPoints"><code>PolylineSimplifier.Options.maxPoints</code></a> equal to 0 and
- <a href="sdk-for-android-explore-polylinesimplifier.options#simplificationToleranceInMeters"><code>PolylineSimplifier.Options.simplificationToleranceInMeters</code></a> equal to <a href="sdk-for-android-explore-polylinesimplifier.options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>PolylineSimplifier.Options.SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</div>
+<div class="block">Creates default options with <a href="sdk-for-android-explore-polylinesimplifier-options#maxPoints"><code>PolylineSimplifier.Options.maxPoints</code></a> equal to 0 and
+ <a href="sdk-for-android-explore-polylinesimplifier-options#simplificationToleranceInMeters"><code>PolylineSimplifier.Options.simplificationToleranceInMeters</code></a> equal to <a href="sdk-for-android-explore-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>PolylineSimplifier.Options.SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-polylinesimplifier.options#%3Cinit%3E(long,long)">Options(long, long)</a> - Constructor for class com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-polylinesimplifier-options#%3Cinit%3E(long,long)">Options(long, long)</a> - Constructor for class com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></dt>
 <dd>
-<div class="block">Creates options with explicitly specified <a href="sdk-for-android-explore-polylinesimplifier.options#maxPoints"><code>PolylineSimplifier.Options.maxPoints</code></a> and <a href="sdk-for-android-explore-polylinesimplifier.options#simplificationToleranceInMeters"><code>PolylineSimplifier.Options.simplificationToleranceInMeters</code></a>.</div>
+<div class="block">Creates options with explicitly specified <a href="sdk-for-android-explore-polylinesimplifier-options#maxPoints"><code>PolylineSimplifier.Options.maxPoints</code></a> and <a href="sdk-for-android-explore-polylinesimplifier-options#simplificationToleranceInMeters"><code>PolylineSimplifier.Options.simplificationToleranceInMeters</code></a>.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-languagecode#OR_IN">OR_IN</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></dt>
 <dd>
@@ -13312,7 +13312,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Organic material.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera.state#orientationAtTarget">orientationAtTarget</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera-state#orientationAtTarget">orientationAtTarget</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a></dt>
 <dd>
 <div class="block">Camera's orientation at target point.</div>
 </dd>
@@ -13328,7 +13328,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">User-defined geographic coordinates.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#OTHER">OTHER</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#OTHER">OTHER</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for feature that doesn't fit into other categories.</div>
 </dd>
@@ -13340,7 +13340,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">No status information available.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#OTHER">OTHER</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#OTHER">OTHER</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Other vehicles.</div>
 </dd>
@@ -13500,9 +13500,9 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance of <a href="sdk-for-android-explore-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.grouping#parent">parent</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-grouping#parent">parent</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a></dt>
 <dd>
-<div class="block">Map marker cluster that entries in <a href="sdk-for-android-explore-mapmarkercluster.grouping#markers"><code>MapMarkerCluster.Grouping.markers</code></a> belong to.</div>
+<div class="block">Map marker cluster that entries in <a href="sdk-for-android-explore-mapmarkercluster-grouping#markers"><code>MapMarkerCluster.Grouping.markers</code></a> belong to.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-walkattributes#PARK">PARK</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-walkattributes" title="enum class in com.here.sdk.routing">WalkAttributes</a></dt>
 <dd>
@@ -13591,7 +13591,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings.credentials#password">password</a> - Variable in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings.credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings-credentials#password">password</a> - Variable in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings-credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></dt>
 <dd>
 <div class="block">Password for specified username</div>
 </dd>
@@ -13600,7 +13600,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Some catalogs may have additional modifications to their data
  contained in an entirely separate catalog, called the patch catalog.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.cache#path">path</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-cache#path">path</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></dt>
 <dd>
 <div class="block">The path to the directory to use for the cache.</div>
 </dd>
@@ -13645,12 +13645,12 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">EVSE has a payment terminal with a pin-code entry device.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator.indicatorstyle#PEDESTRIAN">PEDESTRIAN</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator-indicatorstyle#PEDESTRIAN">PEDESTRIAN</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></dt>
 <dd>
 <div class="block">The location is indicated using a green dot with a small arrow indicating the north-up
  direction of the device.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator.markertype#PEDESTRIAN">PEDESTRIAN</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator-markertype#PEDESTRIAN">PEDESTRIAN</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></dt>
 <dd>
 <div class="block">Pedestrian navigation represented by a green dot by default.</div>
 </dd>
@@ -13662,7 +13662,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The calculated route is optimized for pedestrians.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator.markertype#PEDESTRIAN_INACTIVE">PEDESTRIAN_INACTIVE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator-markertype#PEDESTRIAN_INACTIVE">PEDESTRIAN_INACTIVE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></dt>
 <dd>
 <div class="block">Pedestrian navigation in inactive state, represented by a gray dot by default.</div>
 </dd>
@@ -13670,7 +13670,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">This part of the route requires the usage of a pedestrian ramp.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.pedestrianbuilder#%3Cinit%3E()">PedestrianBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-pedestrianbuilder#%3Cinit%3E()">PedestrianBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
@@ -13815,7 +13815,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A class that contains possible results from picking map content on the map scene.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Carries the result of picking a Carto traffic incident object.</div>
 </dd>
@@ -13840,7 +13840,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Pitch of this location, in degrees.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rendersize.unit#PIXELS">PIXELS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rendersize-unit#PIXELS">PIXELS</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></dt>
 <dd>
 <div class="block">Size expressed in physical pixels on the device screen.</div>
 </dd>
@@ -13904,7 +13904,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></dt>
 <dd>
 <div class="block">Constraints that are applicable on the places of category EV station.</div>
 </dd>
@@ -13937,7 +13937,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">This parameter can be used to customize the name of the origin place and will
  affect the generated actions descriptions.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#PLACES">PLACES</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#PLACES">PLACES</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for places search.</div>
 </dd>
@@ -14039,7 +14039,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Point data source allows the rendering engine access to the user provided
  geographical locations and their attributes.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-pointdatasource.pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-pointdatasource-pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Called for each point, allowing inspection, removal or update of coordinates and attributes.</div>
 </dd>
@@ -14060,7 +14060,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A source of geodetic point tiles.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-pointtilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-pointtilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Result handler of a load tile request.</div>
 </dd>
@@ -14123,7 +14123,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Polygon data source allows the rendering engine access to the user provided
  polygons geometry and their attributes.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-polygondatasource-polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Called for each polygon, allowing inspection, removal or update of coordinates and attributes.</div>
 </dd>
@@ -14156,7 +14156,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A source of geodetic polygon tiles.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-polygontilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-polygontilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Result handler of a load tile request.</div>
 </dd>
@@ -14187,13 +14187,13 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">PolylineSimplifier helps to reduce the number of points
  in the polyline by removing redundant elements using
  Douglas–Peucker algorithm, so that result stays
- within <a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.</div>
+ within <a href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-polylinesimplifier#%3Cinit%3E()">PolylineSimplifier()</a> - Constructor for class com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier" title="class in com.here.sdk.core">PolylineSimplifier</a></dt>
 <dd>
 <div class="block">Creates a new instance of <a href="sdk-for-android-explore-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-core-package-summary">com.here.sdk.core</a></dt>
 <dd>
 <div class="block">Controls the strategy of <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>
  when reducing a size of polyline.</div>
@@ -14206,7 +14206,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Optional port number of the network endpoint.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#POSITIONING">POSITIONING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#POSITIONING">POSITIONING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for Here Positioning.</div>
 </dd>
@@ -14230,7 +14230,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Represents a postal code area.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.resulttype#POSTAL_CODE">POSTAL_CODE</a> - Enum constant in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-resulttype#POSTAL_CODE">POSTAL_CODE</a> - Enum constant in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
 <dd>
 <div class="block">Expected result type is postal code.</div>
 </dd>
@@ -14238,7 +14238,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The postal code for the address.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.addresselements#postalCode">postalCode</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-addresselements#postalCode">postalCode</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></dt>
 <dd>
 <div class="block">An optional field of postal code, which will be used to get the results only within the given postal code.</div>
 </dd>
@@ -14361,11 +14361,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The street is a private road.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.privatebusbuilder#%3Cinit%3E()">PrivateBusBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-privatebusbuilder#%3Cinit%3E()">PrivateBusBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#%3Cinit%3E()">PrivateBusBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#%3Cinit%3E()">PrivateBusBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
@@ -14384,15 +14384,15 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Korea (Democratic People's Republic of)</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-linedatasource.linedataprocessor#process(com.here.sdk.mapview.datasource.LineDataAccessor)">process(LineDataAccessor)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-linedatasource.linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-linedatasource-linedataprocessor#process(com.here.sdk.mapview.datasource.LineDataAccessor)">process(LineDataAccessor)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a></dt>
 <dd>
 <div class="block">Called for each line, allowing inspection, removal or update of coordinates and attributes.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-pointdatasource.pointdataprocessor#process(com.here.sdk.mapview.datasource.PointDataAccessor)">process(PointDataAccessor)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-pointdatasource.pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-pointdatasource-pointdataprocessor#process(com.here.sdk.mapview.datasource.PointDataAccessor)">process(PointDataAccessor)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-pointdatasource-pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a></dt>
 <dd>
 <div class="block">Called for each point, allowing inspection, removal or update of coordinates and attributes.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-polygondatasource.polygondataprocessor#process(com.here.sdk.mapview.datasource.PolygonDataAccessor)">process(PolygonDataAccessor)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-polygondatasource-polygondataprocessor#process(com.here.sdk.mapview.datasource.PolygonDataAccessor)">process(PolygonDataAccessor)</a> - Method in interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-polygondatasource-polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a></dt>
 <dd>
 <div class="block">Called for each polygon, allowing inspection, removal or update of coordinates and attributes.</div>
 </dd>
@@ -14412,11 +14412,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Data provider configuration.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.provider#%3Cinit%3E(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List)">Provider(TileUrlProviderCallback, TilingScheme, List&lt;Integer&gt;)</a> - Constructor for class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-provider#%3Cinit%3E(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List)">Provider(TileUrlProviderCallback, TilingScheme, List&lt;Integer&gt;)</a> - Constructor for class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.provider#%3Cinit%3E(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List,boolean,java.util.Map)">Provider(TileUrlProviderCallback, TilingScheme, List&lt;Integer&gt;, boolean, Map&lt;String, String&gt;)</a> - Constructor for class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-provider#%3Cinit%3E(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List,boolean,java.util.Map)">Provider(TileUrlProviderCallback, TilingScheme, List&lt;Integer&gt;, boolean, Map&lt;String, String&gt;)</a> - Constructor for class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -14468,11 +14468,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-proxysettings.credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-proxysettings-credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
 <dd>
 <div class="block">Authentication data</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-proxysettings.proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
 <dd>
 <div class="block">Supported types of proxy connection.</div>
 </dd>
@@ -14636,11 +14636,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A price range from <a href="sdk-for-android-explore-fareprice#minimum"><code>FarePrice.minimum</code></a> to <a href="sdk-for-android-explore-fareprice#maximum"><code>FarePrice.maximum</code></a>.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions.calculation#rangeType">rangeType</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions.calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions-calculation#rangeType">rangeType</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions-calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
 <dd>
 <div class="block">Specifies the range of values to be included in the isoline.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions.calculation#rangeValues">rangeValues</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions.calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-isolineoptions-calculation#rangeValues">rangeValues</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-isolineoptions-calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></dt>
 <dd>
 <div class="block">A list of ranges.</div>
 </dd>
@@ -14687,11 +14687,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Configuration of a local data cache.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Configuration of a data provider.</div>
 </dd>
@@ -14715,7 +14715,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A source of raster tiles.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-rastertilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-rastertilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Result handler of a load tile request.</div>
 </dd>
@@ -14727,20 +14727,20 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The list of ratings associated with the place.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#RDS_TRAFFIC">RDS_TRAFFIC</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#RDS_TRAFFIC">RDS_TRAFFIC</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that provides traffic broadcast functionality using RDS-TMC format.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#RDS_TRAFFIC">RDS_TRAFFIC</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#RDS_TRAFFIC">RDS_TRAFFIC</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the
- <a href="sdk-for-android-explore-layerconfiguration.feature#RDS_TRAFFIC"><code>LayerConfiguration.Feature.RDS_TRAFFIC</code></a> layer configuration.</div>
+ <a href="sdk-for-android-explore-layerconfiguration-feature#RDS_TRAFFIC"><code>LayerConfiguration.Feature.RDS_TRAFFIC</code></a> layer configuration.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-fare#reason">reason</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-fare" title="class in com.here.sdk.routing">Fare</a></dt>
 <dd>
 <div class="block">Reason of this cost.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.networkstats#receivedBytes">receivedBytes</a> - Variable in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-networkstats#receivedBytes">receivedBytes</a> - Variable in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></dt>
 <dd>
 <div class="block">Number of bytes received from the network.</div>
 </dd>
@@ -15101,14 +15101,14 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Sets the priority as rendered after all layers and categories.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#RENDERING">RENDERING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#RENDERING">RENDERING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">A basic set of rendering features such as carto POIs.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#RENDERING">RENDERING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#RENDERING">RENDERING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the
- <a href="sdk-for-android-explore-layerconfiguration.feature#RENDERING"><code>LayerConfiguration.Feature.RENDERING</code></a> layer configuration.</div>
+ <a href="sdk-for-android-explore-layerconfiguration-feature#RENDERING"><code>LayerConfiguration.Feature.RENDERING</code></a> layer configuration.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-mapviewoptions#renderMode">renderMode</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a></dt>
 <dd>
@@ -15120,7 +15120,7 @@ slug: "sdk-for-android-explore-index-all"
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-rendersize#%3Cinit%3E()">RenderSize()</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-rendersize" title="class in com.here.sdk.mapview">RenderSize</a></dt>
 <dd> </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Defines different units in which the size is described.</div>
 </dd>
@@ -15129,7 +15129,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">A trip that was in the schedule but is removed and replaced with
  additional trip, for example, to replace a broken vehicle or handle detour.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.networkstats#requestCounter">requestCounter</a> - Variable in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-networkstats#requestCounter">requestCounter</a> - Variable in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></dt>
 <dd>
 <div class="block">Amount of calls for particular family of methodCall.</div>
 </dd>
@@ -15192,55 +15192,55 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Accessible only to a limited group, such as customers, taxis, or vehicles from specific brands.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#restrictedIfAxleWeightLessThanInKilograms">restrictedIfAxleWeightLessThanInKilograms</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#restrictedIfAxleWeightLessThanInKilograms">restrictedIfAxleWeightLessThanInKilograms</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Vehicles of the matching category are restricted if the vehicle weight per axle is less than the weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#restrictedIfAxleWeightMoreThanInKilograms">restrictedIfAxleWeightMoreThanInKilograms</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#restrictedIfAxleWeightMoreThanInKilograms">restrictedIfAxleWeightMoreThanInKilograms</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Vehicles of the matching category are restricted if the vehicle weight per axle is more than the weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#restrictedIfGrossWeightLessThanInKilograms">restrictedIfGrossWeightLessThanInKilograms</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#restrictedIfGrossWeightLessThanInKilograms">restrictedIfGrossWeightLessThanInKilograms</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Vehicles of the matching category are restricted if the vehicle gross weight is less than the weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#restrictedIfGrossWeightMoreThanInKilograms">restrictedIfGrossWeightMoreThanInKilograms</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#restrictedIfGrossWeightMoreThanInKilograms">restrictedIfGrossWeightMoreThanInKilograms</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Vehicles of the matching category are restricted if the vehicle gross weight is more than the weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#restrictedIfHigherThanInCentimeters">restrictedIfHigherThanInCentimeters</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#restrictedIfHigherThanInCentimeters">restrictedIfHigherThanInCentimeters</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Vehicles of the matching category are restricted if the vehicle is higher than the height in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#restrictedIfLongerThanInCentimeters">restrictedIfLongerThanInCentimeters</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#restrictedIfLongerThanInCentimeters">restrictedIfLongerThanInCentimeters</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Vehicles of the matching category are restricted if the vehicle is longer than the length in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#restrictedIfLowerThanInCentimeters">restrictedIfLowerThanInCentimeters</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#restrictedIfLowerThanInCentimeters">restrictedIfLowerThanInCentimeters</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Vehicles of the matching category are restricted if the vehicle is lower than the height in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#restrictedIfNarrowerThanInCentimeters">restrictedIfNarrowerThanInCentimeters</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#restrictedIfNarrowerThanInCentimeters">restrictedIfNarrowerThanInCentimeters</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Vehicles of the matching category are restricted if the vehicle is narrower than the width in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#restrictedIfOccupantsFewerThan">restrictedIfOccupantsFewerThan</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#restrictedIfOccupantsFewerThan">restrictedIfOccupantsFewerThan</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Vehicles of the matching category are restricted if the occupants number is fewer than the value.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#restrictedIfOccupantsMoreThan">restrictedIfOccupantsMoreThan</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#restrictedIfOccupantsMoreThan">restrictedIfOccupantsMoreThan</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Vehicles of the matching category are restricted if the occupants number is more than the value.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#restrictedIfShorterThanInCentimeters">restrictedIfShorterThanInCentimeters</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#restrictedIfShorterThanInCentimeters">restrictedIfShorterThanInCentimeters</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Vehicles of the matching category are restricted if the vehicle is shorter than the length in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#restrictedIfWiderThanInCentimeters">restrictedIfWiderThanInCentimeters</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#restrictedIfWiderThanInCentimeters">restrictedIfWiderThanInCentimeters</a> - Variable in class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Vehicles of the matching category are restricted if the vehicle is wider than the width in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresult#resultCode">resultCode</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresult#resultCode">resultCode</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a></dt>
 <dd>
 <div class="block">The result code of the memory management request.</div>
 </dd>
@@ -15276,7 +15276,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Fare for ride.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement#RIGHT">RIGHT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement#RIGHT">RIGHT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
 <dd>
 <div class="block">Text placed next to the right edge of the image's bounding rectangle.</div>
 </dd>
@@ -15376,7 +15376,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Right u-turn maneuver, such as "Make a U-turn".</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.category#RIM">RIM</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-category#RIM">RIM</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></dt>
 <dd>
 <div class="block">Rim light</div>
 </dd>
@@ -15636,7 +15636,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Identifies the route place type.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#ROUTER">ROUTER</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#ROUTER">ROUTER</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  <code>RoutingEngine</code>.</div>
@@ -15681,13 +15681,13 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Indicates the level of significance of a route in a range from 1 to 6.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#ROUTING">ROUTING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#ROUTING">ROUTING</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  following layer configurations:
  
- <a href="sdk-for-android-explore-layerconfiguration.feature#OFFLINE_ROUTING"><code>LayerConfiguration.Feature.OFFLINE_ROUTING</code></a>
-<a href="sdk-for-android-explore-layerconfiguration.feature#OFFLINE_BUS_ROUTING"><code>LayerConfiguration.Feature.OFFLINE_BUS_ROUTING</code></a>
+ <a href="sdk-for-android-explore-layerconfiguration-feature#OFFLINE_ROUTING"><code>LayerConfiguration.Feature.OFFLINE_ROUTING</code></a>
+<a href="sdk-for-android-explore-layerconfiguration-feature#OFFLINE_BUS_ROUTING"><code>LayerConfiguration.Feature.OFFLINE_BUS_ROUTING</code></a>
  Counted when data for the corresponding layer is requested by the application
  by performing one of the following actions:
  Pan the map view to areas that have not been cached, prefetched or installed before.
@@ -15749,7 +15749,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#routingZoneReference">routingZoneReference</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#routingZoneReference">routingZoneReference</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Contains the restricted routing zone reference
  This property will be set if the <a href="sdk-for-android-explore-avoidanceoptions#zoneCategories"><code>AvoidanceOptions.zoneCategories</code></a> is not empty</div>
@@ -15794,23 +15794,23 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Tesla connector "Model-S"-type (oval, 5 pin), standardized as NACS SAE J3400.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-easing.instantiationerrorcode#SAMPLED_DATA_POINT_COUNT_TOO_SMALL">SAMPLED_DATA_POINT_COUNT_TOO_SMALL</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-easing-instantiationerrorcode#SAMPLED_DATA_POINT_COUNT_TOO_SMALL">SAMPLED_DATA_POINT_COUNT_TOO_SMALL</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing-instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Number of sampled data points in the list that defines an easing function is too small (i.e.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-easing.instantiationerrorcode#SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID">SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-easing-instantiationerrorcode#SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID">SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing-instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Invalid first value of X in the list of sampled data points that define an easing function.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-easing.instantiationerrorcode#SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID">SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-easing-instantiationerrorcode#SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID">SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing-instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Invalid last value of X in the list of sampled data points that define an easing function.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-easing.instantiationerrorcode#SAMPLED_DATA_X_VALUE_OUT_OF_RANGE">SAMPLED_DATA_X_VALUE_OUT_OF_RANGE</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-easing-instantiationerrorcode#SAMPLED_DATA_X_VALUE_OUT_OF_RANGE">SAMPLED_DATA_X_VALUE_OUT_OF_RANGE</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing-instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Sampled data point X values that define an easing function are out of range [0, 1].</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-easing.instantiationerrorcode#SAMPLED_DATA_X_VALUES_NON_MONOTONIC">SAMPLED_DATA_X_VALUES_NON_MONOTONIC</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-easing-instantiationerrorcode#SAMPLED_DATA_X_VALUES_NON_MONOTONIC">SAMPLED_DATA_X_VALUES_NON_MONOTONIC</a> - Enum constant in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing-instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Sampled data point X values in the list that defines an easing function don't increase monotonically.</div>
 </dd>
@@ -15818,7 +15818,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Satellite imagery.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#SATELLITES">SATELLITES</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#SATELLITES">SATELLITES</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics to show satellite map scheme.</div>
 </dd>
@@ -15838,7 +15838,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Constructs a ScalarKeyframe from the value and offset.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasure.kind#SCALE">SCALE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasure-kind#SCALE">SCALE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></dt>
 <dd>
 <div class="block">The measure kind scale, in meters on screen per meters in geo space.</div>
 </dd>
@@ -15879,11 +15879,11 @@ slug: "sdk-for-android-explore-index-all"
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Vehicle type is a scooter.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.scooterbuilder#%3Cinit%3E()">ScooterBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-scooterbuilder#%3Cinit%3E()">ScooterBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.scooterbuilder#%3Cinit%3E()">ScooterBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-scooterbuilder#%3Cinit%3E()">ScooterBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
@@ -15951,7 +15951,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Makes a new instance of SDKNativeEngine using supplied options.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-sdknativeengine.purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
 <dd>
 <div class="block">Enum representing a strategy to flush memory caches.</div>
 </dd>
@@ -15964,7 +15964,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Constructs a SDKOptions from authentication mode.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
 <dd>
 <div class="block">Action on cache lock</div>
 </dd>
@@ -16019,7 +16019,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Performs an asynchronous request for <a href="sdk-for-android-explore-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#SEARCH">SEARCH</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#SEARCH">SEARCH</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  "search", "ev_charging_station_search_premium", "fueling_station_premium" OCM layers.</div>
@@ -16028,7 +16028,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Indicates a <code>SearchEngine</code> endpoint.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#SEARCH_ONLINE">SEARCH_ONLINE</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#SEARCH_ONLINE">SEARCH_ONLINE</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the <code>SearchEngine</code>.</div>
 </dd>
@@ -16078,11 +16078,11 @@ slug: "sdk-for-android-explore-index-all"
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-searchengine#searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByText(TextQuery, SearchOptions, SearchCallback)</a> - Method in class com.here.sdk.search.<a href="sdk-for-android-explore-searchengine" title="class in com.here.sdk.search">SearchEngine</a></dt>
 <dd>
-<div class="block">Performs an asynchronous text query search for <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> instances within a given <a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search"><code>TextQuery.Area</code></a>.</div>
+<div class="block">Performs an asynchronous text query search for <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> instances within a given <a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search"><code>TextQuery.Area</code></a>.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-searchinterface#searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByText(TextQuery, SearchOptions, SearchCallback)</a> - Method in interface com.here.sdk.search.<a href="sdk-for-android-explore-searchinterface" title="interface in com.here.sdk.search">SearchInterface</a></dt>
 <dd>
-<div class="block">Performs an asynchronous text query search for <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> instances within a given <a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search"><code>TextQuery.Area</code></a>.</div>
+<div class="block">Performs an asynchronous text query search for <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> instances within a given <a href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search"><code>TextQuery.Area</code></a>.</div>
 </dd>
 <dt><a class="type-name-link" href="sdk-for-android-explore-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></dt>
 <dd>
@@ -16219,7 +16219,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">This pass is valid only if presented by a senior person.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.networkstats#sentBytes">sentBytes</a> - Variable in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-networkstats#sentBytes">sentBytes</a> - Variable in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></dt>
 <dd>
 <div class="block">Number of bytes sent over the network.</div>
 </dd>
@@ -16277,7 +16277,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Sets anchor point of the marker image which specifies the position offset relative
  to the marker's coordinates.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapview.viewpin#setAnchorPoint(com.here.sdk.core.Anchor2D)">setAnchorPoint(Anchor2D)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapview-viewpin#setAnchorPoint(com.here.sdk.core.Anchor2D)">setAnchorPoint(Anchor2D)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview-viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></dt>
 <dd>
 <div class="block">Sets an anchor point for this instance.</div>
 </dd>
@@ -16422,7 +16422,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Sets maximum render frame rate in frames per second.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapview.viewpin#setGeoCoordinates(com.here.sdk.core.GeoCoordinates)">setGeoCoordinates(GeoCoordinates)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapview-viewpin#setGeoCoordinates(com.here.sdk.core.GeoCoordinates)">setGeoCoordinates(GeoCoordinates)</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview-viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></dt>
 <dd>
 <div class="block">Sets the GeoCoordinates on the map.</div>
 </dd>
@@ -16485,7 +16485,7 @@ slug: "sdk-for-android-explore-index-all"
 <dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType)">setMarker3dModel(MapMarker3DModel, double, LocationIndicator.MarkerType)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator" title="class in com.here.sdk.mapview">LocationIndicator</a></dt>
 <dd>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
-<div class="deprecation-comment"><p>Will be removed in v4.27.0. Please use the overloaded method with <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> instead.</p></div>
+<div class="deprecation-comment"><p>Will be removed in v4.27.0. Please use the overloaded method with <a href="sdk-for-android-explore-rendersize-unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> instead.</p></div>
 </div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType,com.here.sdk.mapview.RenderSize.Unit)">setMarker3dModel(MapMarker3DModel, double, LocationIndicator.MarkerType, RenderSize.Unit)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator" title="class in com.here.sdk.mapview">LocationIndicator</a></dt>
@@ -16520,11 +16520,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Sets the <code>Metadata</code> instance attached to this polyline.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.solidmulticolorrepresentation#setMultiColorGradientLength(double)">setMultiColorGradientLength(double)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-solidmulticolorrepresentation#setMultiColorGradientLength(double)">setMultiColorGradientLength(double)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></dt>
 <dd>
 <div class="block">Sets the multiple color segment gradient length.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.solidmulticolorrepresentation#setMultiColors(java.util.List,java.util.List,java.util.List)">setMultiColors(List&lt;Double&gt;, List&lt;Long&gt;, List&lt;Color&gt;)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-solidmulticolorrepresentation#setMultiColors(java.util.List,java.util.List,java.util.List)">setMultiColors(List&lt;Double&gt;, List&lt;Long&gt;, List&lt;Color&gt;)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></dt>
 <dd>
 <div class="block">Sets lists of colors and multiple color segment stops for the polyline to be colored in.</div>
 </dd>
@@ -16951,11 +16951,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">An accurate polyline is not available for this section.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-polylinesimplifier.options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL">SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</a> - Static variable in class com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL">SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</a> - Static variable in class com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></dt>
 <dd>
 <div class="block">Value for simplification tolerance for 14 zoom level without significant artifacts.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-polylinesimplifier.options#simplificationToleranceInMeters">simplificationToleranceInMeters</a> - Variable in class com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-polylinesimplifier-options#simplificationToleranceInMeters">simplificationToleranceInMeters</a> - Variable in class com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></dt>
 <dd>
 <div class="block">Sets the accuracy limit for the <a href="sdk-for-android-explore-polylinesimplifier#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>PolylineSimplifier.simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>:
  
@@ -17047,7 +17047,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The connector is a socket.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings.proxytype#SOCKS5">SOCKS5</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings.proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings-proxytype#SOCKS5">SOCKS5</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></dt>
 <dd>
 <div class="block">Socks 5</div>
 </dd>
@@ -17055,19 +17055,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Regenerative power from sunlight.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.solidmulticolorrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.LineCap,java.util.List,java.util.List,java.util.List,double)">SolidMultiColorRepresentation(MapMeasureDependentRenderSize, LineCap, List&lt;Double&gt;, List&lt;Long&gt;, List&lt;Color&gt;, double)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-solidmulticolorrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.LineCap,java.util.List,java.util.List,java.util.List,double)">SolidMultiColorRepresentation(MapMeasureDependentRenderSize, LineCap, List&lt;Double&gt;, List&lt;Long&gt;, List&lt;Color&gt;, double)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></dt>
 <dd>
 <div class="block">Creates a representation for a multicolored line without an outline.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.solidmulticolorrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap,java.util.List,java.util.List,java.util.List,double)">SolidMultiColorRepresentation(MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, Color, LineCap, List&lt;Double&gt;, List&lt;Long&gt;, List&lt;Color&gt;, double)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-solidmulticolorrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap,java.util.List,java.util.List,java.util.List,double)">SolidMultiColorRepresentation(MapMeasureDependentRenderSize, MapMeasureDependentRenderSize, Color, LineCap, List&lt;Double&gt;, List&lt;Long&gt;, List&lt;Color&gt;, double)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></dt>
 <dd>
 <div class="block">Creates a representation for a multicolored line with an outline.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.solidrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)">SolidRepresentation(MapMeasureDependentRenderSize, Color, LineCap)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-solidrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)">SolidRepresentation(MapMeasureDependentRenderSize, Color, LineCap)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
 <dd>
 <div class="block">Creates a representation for a solid line without outline.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.solidrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)">SolidRepresentation(MapMeasureDependentRenderSize, Color, MapMeasureDependentRenderSize, Color, LineCap)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-solidrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)">SolidRepresentation(MapMeasureDependentRenderSize, Color, MapMeasureDependentRenderSize, Color, LineCap)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></dt>
 <dd>
 <div class="block">Creates a representation for a solid line with outline.</div>
 </dd>
@@ -17224,7 +17224,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The state name for the address.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera.state#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientation,double,double)">State(GeoCoordinates, GeoOrientation, double, double)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera-state#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientation,double,double)">State(GeoCoordinates, GeoOrientation, double, double)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -17277,7 +17277,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Stopover mode will cause the route to exactly pass through this point, generating
  maneuvers and splitting the route into sections.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.provider#storageLevels">storageLevels</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-provider#storageLevels">storageLevels</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
 <dd>
 <div class="block">The storage levels available for this data source.</div>
 </dd>
@@ -17306,7 +17306,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A street.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.resulttype#STREET">STREET</a> - Enum constant in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-resulttype#STREET">STREET</a> - Enum constant in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
 <dd>
 <div class="block">Expected result type is street.</div>
 </dd>
@@ -17330,7 +17330,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">String object.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue.valuetype#STRING">STRING</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue-valuetype#STRING">STRING</a> - Enum constant in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
 <dd>
 <div class="block">Value of string type.</div>
 </dd>
@@ -17342,11 +17342,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></dt>
 <dd>
 <div class="block">Defines query address elements which will be used to build address hierarchy during searches.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></dt>
 <dd>
 <div class="block">Specifies expected result type.</div>
 </dd>
@@ -17433,7 +17433,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The EV charging station operator.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter.ev#supplierNames">supplierNames</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-placefilter-ev#supplierNames">supplierNames</a> - Variable in class com.here.sdk.search.<a href="sdk-for-android-explore-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></dt>
 <dd>
 <div class="block">Sets a constraint on the charge point operator name of the EV station.</div>
 </dd>
@@ -17536,7 +17536,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Level to which vehicle battery should be charged by this action (in kWh).</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera.state#targetCoordinates">targetCoordinates</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera-state#targetCoordinates">targetCoordinates</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a></dt>
 <dd>
 <div class="block">Camera's 'LookAt' target position in geodetic space.</div>
 </dd>
@@ -17572,7 +17572,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Taxi mode of transport.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#TAXI">TAXI</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#TAXI">TAXI</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Taxi.</div>
 </dd>
@@ -17585,11 +17585,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A taxi stand.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.taxibuilder#%3Cinit%3E()">TaxiBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-taxibuilder#%3Cinit%3E()">TaxiBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#%3Cinit%3E()">TaxiBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#%3Cinit%3E()">TaxiBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
@@ -17653,7 +17653,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">URL to the operator’s terms and conditions, if available.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#TERRAIN">TERRAIN</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#TERRAIN">TERRAIN</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that provides topography information.</div>
 </dd>
@@ -17679,11 +17679,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The list of opening hours presented as localized text.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.counterstyle#textAnchor">textAnchor</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-counterstyle#textAnchor">textAnchor</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></dt>
 <dd>
 <div class="block">Anchor of counter in regards to marker cluster image.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster.counterstyle#textColor">textColor</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster.counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkercluster-counterstyle#textColor">textColor</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></dt>
 <dd>
 <div class="block">Font color of counter.</div>
 </dd>
@@ -17769,11 +17769,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Constructs a TextQuery from the provided text query and geographic area.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-search-package-summary">com.here.sdk.search</a></dt>
 <dd>
 <div class="block">Area to perform search on.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle#%3Cinit%3E()">TextStyle()</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle#%3Cinit%3E()">TextStyle()</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
 <dd>
 <div class="block">Creates a default set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> that consists of
  the following values:
@@ -17782,14 +17782,14 @@ slug: "sdk-for-android-explore-index-all"
  Text color: opaque white
  Text outline size: 0 pixels
  Text outline color: opaque black
- Text placement: <a href="sdk-for-android-explore-mapmarker.textstyle.placement#BOTTOM"><code>MapMarker.TextStyle.Placement.BOTTOM</code></a>
+ Text placement: <a href="sdk-for-android-explore-mapmarker-textstyle-placement#BOTTOM"><code>MapMarker.TextStyle.Placement.BOTTOM</code></a>
 </div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle#%3Cinit%3E(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List)">TextStyle(double, Color, double, Color, List&lt;MapMarker.TextStyle.Placement&gt;)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle#%3Cinit%3E(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List)">TextStyle(double, Color, double, Color, List&lt;MapMarker.TextStyle.Placement&gt;)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
 <dd>
 <div class="block">Creates a set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle#%3Cinit%3E(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List,java.lang.String)">TextStyle(double, Color, double, Color, List&lt;MapMarker.TextStyle.Placement&gt;, String)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle#%3Cinit%3E(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List,java.lang.String)">TextStyle(double, Color, double, Color, List&lt;MapMarker.TextStyle.Placement&gt;, String)</a> - Constructor for class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></dt>
 <dd>
 <div class="block">Creates a set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</div>
 </dd>
@@ -17841,11 +17841,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Tigrinya (Ethiopia)</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresultcode#TILE_CACHE_CPU_MEMORY_LIMIT_EXCEEDED">TILE_CACHE_CPU_MEMORY_LIMIT_EXCEEDED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresultcode#TILE_CACHE_CPU_MEMORY_LIMIT_EXCEEDED">TILE_CACHE_CPU_MEMORY_LIMIT_EXCEEDED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
 <dd>
 <div class="block">The requested memory limit exceeds the maximum allowed limit for CPU tile cache.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementoptions#tileCacheMemoryLimitInKiB">tileCacheMemoryLimitInKiB</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementoptions#tileCacheMemoryLimitInKiB">tileCacheMemoryLimitInKiB</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></dt>
 <dd>
 <div class="block">Tile cache memory limit in kibibytes.</div>
 </dd>
@@ -17866,7 +17866,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource.tilemetadata#%3Cinit%3E(com.here.sdk.mapview.datasource.TileSource.DataVersion,java.util.Date)">TileMetadata(TileSource.DataVersion, Date)</a> - Constructor for class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tilesource-tilemetadata#%3Cinit%3E(com.here.sdk.mapview.datasource.TileSource.DataVersion,java.util.Date)">TileMetadata(TileSource.DataVersion, Date)</a> - Constructor for class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></dt>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
@@ -17878,19 +17878,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A source of tiles.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Tile data version.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Listener of <a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource"><code>TileSource</code></a> events.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a> - Interface in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Handle of a load request.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary">com.here.sdk.mapview.datasource</a></dt>
 <dd>
 <div class="block">Tile metadata.</div>
 </dd>
@@ -17902,7 +17902,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Factory for generating a <a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource"><code>TileUrlProviderCallback</code></a> utilized in creating a tile URL.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.provider#tilingScheme">tilingScheme</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-provider#tilingScheme">tilingScheme</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
 <dd>
 <div class="block">The tiling scheme used by this source.</div>
 </dd>
@@ -17975,7 +17975,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">The time domain when this fare is valid.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction.details#timeRule">timeRule</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-violatedrestriction-details#timeRule">timeRule</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></dt>
 <dd>
 <div class="block">Time intervals during which restrictions are enforced.</div>
 </dd>
@@ -18175,11 +18175,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></dt>
 <dd>
 <div class="block">Supported options of emission type</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-tolloptions.vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-tolloptions-vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></dt>
 <dd>
 <div class="block">Supported options of vehicle category for toll calculation.</div>
 </dd>
@@ -18228,15 +18228,15 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Server has received an excessive number of requests from client within a specific timeframe
  and client should slow down or wait before sending more requests.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement#TOP">TOP</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement#TOP">TOP</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
 <dd>
 <div class="block">Text placed over the top edge of the image's bounding rectangle.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement#TOP_LEFT">TOP_LEFT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement#TOP_LEFT">TOP_LEFT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
 <dd>
 <div class="block">Text placed at the top left corner of the image's bounding rectangle.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement#TOP_RIGHT">TOP_RIGHT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement#TOP_RIGHT">TOP_RIGHT</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
 <dd>
 <div class="block">Text placed at the top right corner of the image's bounding rectangle.</div>
 </dd>
@@ -18271,7 +18271,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">A towing vehicle that can pull one or more semi-trailers (AKA semi-truck.)</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#TRAFFIC">TRAFFIC</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#TRAFFIC">TRAFFIC</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  calls of <code>TrafficEngine</code>.</div>
@@ -18331,7 +18331,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Indicates a <code>Traffic Vector Tile API</code> endpoint.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#TRAFFIC_VECTOR_TILES">TRAFFIC_VECTOR_TILES</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#TRAFFIC_VECTOR_TILES">TRAFFIC_VECTOR_TILES</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for traffic vector tiles.</div>
 </dd>
@@ -18388,11 +18388,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">TrafficIncident provides details about a traffic incident.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a></dt>
 <dd>
 <div class="block">The vehicle categories that can be restricted.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-traffic-package-summary">com.here.sdk.traffic</a></dt>
 <dd>
 <div class="block">The vehicle restriction representing a vehicle category and relevant restriction rules.</div>
 </dd>
@@ -18547,7 +18547,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Defines number of trailers attached to the vehicle.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#TRAIN">TRAIN</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#TRAIN">TRAIN</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Train.</div>
 </dd>
@@ -18567,12 +18567,12 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Defines the increase of the timeout for the connection.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#TRANSIT">TRANSIT</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#TRANSIT">TRANSIT</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the
  "transit" OCM layer.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#TRANSIT_ROUTING_ENGINE">TRANSIT_ROUTING_ENGINE</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#TRANSIT_ROUTING_ENGINE">TRANSIT_ROUTING_ENGINE</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the <code>TransitRoutingEngine</code>.</div>
 </dd>
@@ -18682,15 +18682,15 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates an instance of the group.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup.errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup-errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Error codes for creating the group.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup.errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup-errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Describes the reason for failing to create the group.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup-instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a> - Exception in <a href="sdk-for-android-explore-com-here-sdk-mapview-package-summary">com.here.sdk.mapview</a></dt>
 <dd>
 <div class="block">Thrown when failing to build the group.</div>
 </dd>
@@ -18731,11 +18731,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">An establishment along a motorway (controlled access road) that provides restrooms and parking.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#TRANSPORTING_ABNORMAL_SIZE_LOAD">TRANSPORTING_ABNORMAL_SIZE_LOAD</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#TRANSPORTING_ABNORMAL_SIZE_LOAD">TRANSPORTING_ABNORMAL_SIZE_LOAD</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Transporting an abnormal size load.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#TRANSPORTING_HAZARDOUS_GOODS">TRANSPORTING_HAZARDOUS_GOODS</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#TRANSPORTING_HAZARDOUS_GOODS">TRANSPORTING_HAZARDOUS_GOODS</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Transporting hazardous goods.</div>
 </dd>
@@ -18775,35 +18775,35 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification.bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification-bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a bicycle.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification.busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification-busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a bus.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification.carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a car.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification-pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for pedestrian.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification.privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification-privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a private bus.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a scooter.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification.taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a taxi.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification.truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-transportspecification-truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a truck.</div>
 </dd>
@@ -18848,20 +18848,20 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Triple axle group in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#TRUCK">TRUCK</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#TRUCK">TRUCK</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Map data that is used to calculate truck routes.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#TRUCK">TRUCK</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#TRUCK">TRUCK</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the
- <a href="sdk-for-android-explore-layerconfiguration.feature#TRUCK"><code>LayerConfiguration.Feature.TRUCK</code></a> layer configuration.</div>
+ <a href="sdk-for-android-explore-layerconfiguration-feature#TRUCK"><code>LayerConfiguration.Feature.TRUCK</code></a> layer configuration.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-sectiontransportmode#TRUCK">TRUCK</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></dt>
 <dd>
 <div class="block">Truck mode of transport.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#TRUCK">TRUCK</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#TRUCK">TRUCK</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Truck.</div>
 </dd>
@@ -18878,7 +18878,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block"><a href="sdk-for-android-explore-evcharginglocation#getTruckRestrictions()"><code>EVChargingLocation.getTruckRestrictions()</code></a> will be returned.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#TRUCK_SERVICE_ATTRIBUTES">TRUCK_SERVICE_ATTRIBUTES</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES">TRUCK_SERVICE_ATTRIBUTES</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Enables truck related attributes to be returned by Offline Search engine.</div>
 </dd>
@@ -18900,11 +18900,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.truckbuilder#%3Cinit%3E()">TruckBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-truckbuilder#%3Cinit%3E()">TruckBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#%3Cinit%3E()">TruckBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#%3Cinit%3E()">TruckBuilder()</a> - Constructor for class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Creates a new instance of this class.</div>
 </dd>
@@ -19253,19 +19253,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Connectors have mechanical lock that can be requested by the eMSP to be unlocked.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapview.viewpin#unpin()">unpin()</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapview-viewpin#unpin()">unpin()</a> - Method in interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview-viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></dt>
 <dd>
 <div class="block">Removes the view from the <code>MapView</code> it was pinned to.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-mapview#unpinView(android.view.View)">unpinView(View)</a> - Method in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapview" title="class in com.here.sdk.mapview">MapView</a></dt>
 <dd>
-<div class="block">Removes a <a href="sdk-for-android-explore-mapview.viewpin" title="interface in com.here.sdk.mapview"><code>MapView.ViewPin</code></a> from the <code>MapView</code> by specifying the corresponding view.</div>
+<div class="block">Removes a <a href="sdk-for-android-explore-mapview-viewpin" title="interface in com.here.sdk.mapview"><code>MapView.ViewPin</code></a> from the <code>MapView</code> by specifying the corresponding view.</div>
 </dd>
 <dt><a class="member-name-link" href="sdk-for-android-explore-routerailwaycrossingtype#UNPROTECTED_WITH_BARRIER">UNPROTECTED_WITH_BARRIER</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-routerailwaycrossingtype" title="enum class in com.here.sdk.routing">RouteRailwayCrossingType</a></dt>
 <dd>
 <div class="block">Railway crossing is not protected with a barrier.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrorcode#UNSUPPORTED_CONTENT_TYPE">UNSUPPORTED_CONTENT_TYPE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationerrorcode#UNSUPPORTED_CONTENT_TYPE">UNSUPPORTED_CONTENT_TYPE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Unsupported content type.</div>
 </dd>
@@ -19297,7 +19297,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Link to the original incident published at the agency website.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.provider#urlProvider">urlProvider</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-provider#urlProvider">urlProvider</a> - Variable in class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></dt>
 <dd>
 <div class="block">Provides a function that generates URLs based on tile coordinates and storage level.</div>
 </dd>
@@ -19317,11 +19317,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a> - Enum Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
 <dd>
 <div class="block">Represents the feature enum associated with the gathered usage stats.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-usagestats-networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-core-engine-package-summary">com.here.sdk.core.engine</a></dt>
 <dd>
 <div class="block">Provides network statistics in bytes per method.</div>
 </dd>
@@ -19338,7 +19338,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Information is not included in the notification.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings.credentials#userName">userName</a> - Variable in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings.credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings-credentials#userName">userName</a> - Variable in class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings-credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></dt>
 <dd>
 <div class="block">Username to use to connect to proxy.</div>
 </dd>
@@ -19410,7 +19410,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">A fixed value where <a href="sdk-for-android-explore-fareprice#minimum"><code>FarePrice.minimum</code></a> = <a href="sdk-for-android-explore-fareprice#maximum"><code>FarePrice.maximum</code></a> = price value.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperioderrorcode#VALUE_OUTSIDE_ALLOWED_RANGE">VALUE_OUTSIDE_ALLOWED_RANGE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperioderrorcode#VALUE_OUTSIDE_ALLOWED_RANGE">VALUE_OUTSIDE_ALLOWED_RANGE</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></dt>
 <dd>
 <div class="block">Value is outside allowed range.</div>
 </dd>
@@ -19432,7 +19432,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-easing.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-easing-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing-instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19444,15 +19444,15 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapitemkeyframetrack.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapitemkeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapitemkeyframetrack-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapitemkeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkeranimation.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapmarkeranimation.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkeranimation-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapmarkeranimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolylineanimation.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mappolylineanimation.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolylineanimation-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19480,7 +19480,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19492,19 +19492,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings.proxytype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings.proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings-proxytype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-sdknativeengine.purgememorystrategy#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdknativeengine.purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-sdknativeengine-purgememorystrategy#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-sdkoptions.actiononcachelock#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-sdkoptions-actiononcachelock#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19576,7 +19576,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue.valuetype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue-valuetype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19604,7 +19604,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory-instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19612,23 +19612,23 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator.indicatorstyle#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator-indicatorstyle#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator.markertype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator-markertype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraupdate.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraupdate.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraupdate-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraupdate-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19636,7 +19636,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperioderrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperioderrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19644,19 +19644,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.freeresourceseverity#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-freeresourceseverity#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresultcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresultcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementstrategy#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementstrategy#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.resourcetype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-resourcetype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19664,31 +19664,31 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker3dmodel.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker3dmodel.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker3dmodel-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker3dmodel-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasure.kind#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasure-kind#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.representation.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.representation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-representation-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-representation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19700,19 +19700,19 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene.mappickfilter.contenttype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene.mappickfilter.contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene-mappickfilter-contenttype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene-mappickfilter-contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.attributesettingerror#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-attributesettingerror#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.category#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-category#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19720,7 +19720,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rendersize.unit#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rendersize-unit#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19728,7 +19728,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-translucentmaplayergroup.errorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-translucentmaplayergroup.errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-translucentmaplayergroup-errorcode#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-translucentmaplayergroup-errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19860,11 +19860,11 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions.emissiontype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions-emissiontype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions.vehiclecategory#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions.vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions-vehiclecategory#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions-vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -19988,7 +19988,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.resulttype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-resulttype#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -20000,7 +20000,7 @@ slug: "sdk-for-android-explore-index-all"
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#valueOf(java.lang.String)">valueOf(String)</a> - Static method in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </dd>
@@ -20071,7 +20071,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-easing.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-easing-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-easing-instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20086,17 +20086,17 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapitemkeyframetrack.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapitemkeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapitemkeyframetrack-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapitemkeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkeranimation.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapmarkeranimation.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarkeranimation-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mapmarkeranimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolylineanimation.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mappolylineanimation.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolylineanimation-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.animation.<a href="sdk-for-android-explore-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20131,7 +20131,7 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration.feature#values()">values()</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-layerconfiguration-feature#values()">values()</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20146,22 +20146,22 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings.proxytype#values()">values()</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings.proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-proxysettings-proxytype#values()">values()</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-sdknativeengine.purgememorystrategy#values()">values()</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdknativeengine.purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-sdknativeengine-purgememorystrategy#values()">values()</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-sdkoptions.actiononcachelock#values()">values()</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-sdkoptions-actiononcachelock#values()">values()</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#values()">values()</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#values()">values()</a> - Static method in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20251,7 +20251,7 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue.valuetype#values()">values()</a> - Static method in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-dataattributevalue-valuetype#values()">values()</a> - Static method in enum class com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20286,7 +20286,7 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-jsonstylefactory-instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20296,27 +20296,27 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator.indicatorstyle#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator-indicatorstyle#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator.markertype#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-locationindicator-markertype#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraupdate.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraupdate.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcameraupdate-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcameraupdate-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20326,7 +20326,7 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperioderrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperioderrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20336,22 +20336,22 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.freeresourceseverity#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-freeresourceseverity#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresultcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresultcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementstrategy#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementstrategy#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.resourcetype#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-resourcetype#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20361,37 +20361,37 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-maplayerbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker3dmodel.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker3dmodel.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmarker3dmodel-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmarker3dmodel-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasure.kind#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasure-kind#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline.representation.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline.representation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mappolyline-representation-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mappolyline-representation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20406,22 +20406,22 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene.mappickfilter.contenttype#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene.mappickfilter.contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscene-mappickfilter-contenttype#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscene-mappickfilter-contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.attributesettingerror#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-attributesettingerror#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights.category#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapscenelights-category#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20431,7 +20431,7 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-rendersize.unit#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-rendersize-unit#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20441,7 +20441,7 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-translucentmaplayergroup.errorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-translucentmaplayergroup.errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-translucentmaplayergroup-errorcode#values()">values()</a> - Static method in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-translucentmaplayergroup-errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20606,12 +20606,12 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions.emissiontype#values()">values()</a> - Static method in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions-emissiontype#values()">values()</a> - Static method in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions.vehiclecategory#values()">values()</a> - Static method in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions.vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-tolloptions-vehiclecategory#values()">values()</a> - Static method in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-tolloptions-vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20766,7 +20766,7 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery.resulttype#values()">values()</a> - Static method in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-structuredquery-resulttype#values()">values()</a> - Static method in enum class com.here.sdk.search.<a href="sdk-for-android-explore-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20781,7 +20781,7 @@ the order they are declared.</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#values()">values()</a> - Static method in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#values()">values()</a> - Static method in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
@@ -20875,7 +20875,7 @@ the order they are declared.</div>
 <dd>
 <div class="block">Saint Vincent and the Grenadines</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats.feature#VECTOR_TILES">VECTOR_TILES</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-usagestats-feature#VECTOR_TILES">VECTOR_TILES</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></dt>
 <dd>
 <div class="block">Represents network traffic statistics for online usage corresponding to the vector tiles.</div>
 </dd>
@@ -20883,7 +20883,7 @@ the order they are declared.</div>
 <dd>
 <div class="block">Vehicle restriction icons</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory#VEHICLE_WITH_TRAILER">VEHICLE_WITH_TRAILER</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory#VEHICLE_WITH_TRAILER">VEHICLE_WITH_TRAILER</a> - Enum constant in enum class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></dt>
 <dd>
 <div class="block">Vehicle with trailer.</div>
 </dd>
@@ -20907,7 +20907,7 @@ the order they are declared.</div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction#%3Cinit%3E()">VehicleRestriction()</a> - Constructor for class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction#%3Cinit%3E()">VehicleRestriction()</a> - Constructor for class com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></dt>
 <dd>
 <div class="block">Creates a new instance with default values.</div>
 </dd>
@@ -20936,27 +20936,27 @@ the order they are declared.</div>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> for a bus.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> for a car.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> for a private bus.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-vehiclespecification.scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> for a scooter.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> for a taxi.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-transport-package-summary">com.here.sdk.transport</a></dt>
 <dd>
 <div class="block">This class constructs a <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a> for a truck.</div>
 </dd>
@@ -21043,7 +21043,7 @@ the order they are declared.</div>
 <dd>
 <div class="block">Vietnamese</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresultcode#VIDEO_MEMORY_LIMIT_EXCEEDED">VIDEO_MEMORY_LIMIT_EXCEEDED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresultcode#VIDEO_MEMORY_LIMIT_EXCEEDED">VIDEO_MEMORY_LIMIT_EXCEEDED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></dt>
 <dd>
 <div class="block">The requested memory limit exceeds the maximum allowed limit for video memory.</div>
 </dd>
@@ -21051,7 +21051,7 @@ the order they are declared.</div>
 <dd>
 <div class="block">Payment with a video toll, i.e.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementoptions#videoMemoryLimitInKiB">videoMemoryLimitInKiB</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext.memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementoptions#videoMemoryLimitInKiB">videoMemoryLimitInKiB</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcontext-memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></dt>
 <dd>
 <div class="block">Target video memory limit in kibibytes.</div>
 </dd>
@@ -21182,7 +21182,7 @@ the order they are declared.</div>
 <dd>
 <div class="block">Creates a new instance.</div>
 </dd>
-<dt><a class="type-name-link" href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></dt>
+<dt><a class="type-name-link" href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a> - Class in <a href="sdk-for-android-explore-com-here-sdk-routing-package-summary">com.here.sdk.routing</a></dt>
 <dd>
 <div class="block">Optional restriction details, contains additional information depending on the specific violation, zero or more member might be set.</div>
 </dd>
@@ -21237,7 +21237,7 @@ the order they are declared.</div>
 <dd>
 <div class="block">An action to be performed at or during a specific portion of a section.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-sdkoptions.actiononcachelock#WAIT_LOCKING_APP_FINISH">WAIT_LOCKING_APP_FINISH</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-sdkoptions-actiononcachelock#WAIT_LOCKING_APP_FINISH">WAIT_LOCKING_APP_FINISH</a> - Enum constant in enum class com.here.sdk.core.engine.<a href="sdk-for-android-explore-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></dt>
 <dd>
 <div class="block">Current process waits 500 milliseconds for the cache to be unlocked.</div>
 </dd>
@@ -21502,23 +21502,23 @@ the order they are declared.</div>
 <dd>
 <div class="block">Configures the builder with custom attributes for polygon to be created.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withAxleCount(int)">withAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withAxleCount(int)">withAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle axle count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withAxleCount(int)">withAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withAxleCount(int)">withAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle axle count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withAxleCount(int)">withAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withAxleCount(int)">withAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle axle count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withAxleCount(int)">withAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withAxleCount(int)">withAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle axle count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withAxleCount(int)">withAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withAxleCount(int)">withAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle axle count.</div>
 </dd>
@@ -21535,23 +21535,23 @@ the order they are declared.</div>
 <dd>
 <div class="block">Configures the builder with geodetic coordinates for point to be created.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withCurrentWeightInKilograms(int)">withCurrentWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withCurrentWeightInKilograms(int)">withCurrentWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle current weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withCurrentWeightInKilograms(int)">withCurrentWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withCurrentWeightInKilograms(int)">withCurrentWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle current weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withCurrentWeightInKilograms(int)">withCurrentWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withCurrentWeightInKilograms(int)">withCurrentWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle current weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withCurrentWeightInKilograms(int)">withCurrentWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withCurrentWeightInKilograms(int)">withCurrentWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle current weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withCurrentWeightInKilograms(int)">withCurrentWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withCurrentWeightInKilograms(int)">withCurrentWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle current weight in kilograms.</div>
 </dd>
@@ -21564,23 +21564,23 @@ the order they are declared.</div>
 <dd>
 <div class="block">Sets the features to disable in the new configuration.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withEmptyWeightInKilograms(int)">withEmptyWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withEmptyWeightInKilograms(int)">withEmptyWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle empty weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withEmptyWeightInKilograms(int)">withEmptyWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withEmptyWeightInKilograms(int)">withEmptyWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle empty weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withEmptyWeightInKilograms(int)">withEmptyWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withEmptyWeightInKilograms(int)">withEmptyWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle empty weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withEmptyWeightInKilograms(int)">withEmptyWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withEmptyWeightInKilograms(int)">withEmptyWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle empty weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withEmptyWeightInKilograms(int)">withEmptyWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withEmptyWeightInKilograms(int)">withEmptyWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle empty weight in kilograms.</div>
 </dd>
@@ -21588,27 +21588,27 @@ the order they are declared.</div>
 <dd>
 <div class="block">Sets the features to enable in the new configuration.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle engine size in cubic centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle engine size in cubic centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle engine size in cubic centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.scooterbuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-scooterbuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle engine size in cubic centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle engine size in cubic centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withEngineSizeInCubicCentimeters(int)">withEngineSizeInCubicCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle engine size in cubic centimeters.</div>
 </dd>
@@ -21624,71 +21624,71 @@ the order they are declared.</div>
 <dd>
 <div class="block">Configures the builder with geometry for line to be created.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withGrossWeightInKilograms(int)">withGrossWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withGrossWeightInKilograms(int)">withGrossWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle gross weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withGrossWeightInKilograms(int)">withGrossWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withGrossWeightInKilograms(int)">withGrossWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle gross weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withGrossWeightInKilograms(int)">withGrossWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withGrossWeightInKilograms(int)">withGrossWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle gross weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withGrossWeightInKilograms(int)">withGrossWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withGrossWeightInKilograms(int)">withGrossWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle gross weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withGrossWeightInKilograms(int)">withGrossWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withGrossWeightInKilograms(int)">withGrossWeightInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle gross weight in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withHazardousMaterials(java.util.List)">withHazardousMaterials(List&lt;HazardousMaterial&gt;)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withHazardousMaterials(java.util.List)">withHazardousMaterials(List&lt;HazardousMaterial&gt;)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the hazardous materials transported in the vehicle.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withHeightInCentimeters(int)">withHeightInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withHeightInCentimeters(int)">withHeightInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle height in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withHeightInCentimeters(int)">withHeightInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withHeightInCentimeters(int)">withHeightInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle height in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withHeightInCentimeters(int)">withHeightInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withHeightInCentimeters(int)">withHeightInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle height in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withHeightInCentimeters(int)">withHeightInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withHeightInCentimeters(int)">withHeightInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle height in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withHeightInCentimeters(int)">withHeightInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withHeightInCentimeters(int)">withHeightInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle height in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withIsCommercial(boolean)">withIsCommercial(boolean)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withIsCommercial(boolean)">withIsCommercial(boolean)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle is commercial flag.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withIsCommercial(boolean)">withIsCommercial(boolean)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withIsCommercial(boolean)">withIsCommercial(boolean)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle is commercial flag.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withIsCommercial(boolean)">withIsCommercial(boolean)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withIsCommercial(boolean)">withIsCommercial(boolean)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle is commercial flag.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withIsCommercial(boolean)">withIsCommercial(boolean)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withIsCommercial(boolean)">withIsCommercial(boolean)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle is commercial flag.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withIsCommercial(boolean)">withIsCommercial(boolean)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withIsCommercial(boolean)">withIsCommercial(boolean)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle is commercial flag.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withIsTruckLight(boolean)">withIsTruckLight(boolean)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withIsTruckLight(boolean)">withIsTruckLight(boolean)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle truck light flag.</div>
 </dd>
@@ -21696,55 +21696,55 @@ the order they are declared.</div>
 <dd>
 <div class="block">SDK will authenticate with access key id access key secret to obtain authentication token.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withKingpinToRearAxleDistanceInCentimeters(int)">withKingpinToRearAxleDistanceInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withKingpinToRearAxleDistanceInCentimeters(int)">withKingpinToRearAxleDistanceInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle kingpin to rear axle distance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withKingpinToRearAxleDistanceInCentimeters(int)">withKingpinToRearAxleDistanceInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withKingpinToRearAxleDistanceInCentimeters(int)">withKingpinToRearAxleDistanceInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle kingpin to rear axle distance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withKingpinToRearAxleDistanceInCentimeters(int)">withKingpinToRearAxleDistanceInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withKingpinToRearAxleDistanceInCentimeters(int)">withKingpinToRearAxleDistanceInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle kingpin to rear axle distance.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withLastCharacterOfLicensePlate(java.lang.String)">withLastCharacterOfLicensePlate(String)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withLastCharacterOfLicensePlate(java.lang.String)">withLastCharacterOfLicensePlate(String)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle last character of the license plate.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withLastCharacterOfLicensePlate(java.lang.String)">withLastCharacterOfLicensePlate(String)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withLastCharacterOfLicensePlate(java.lang.String)">withLastCharacterOfLicensePlate(String)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle last character of the license plate.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withLastCharacterOfLicensePlate(java.lang.String)">withLastCharacterOfLicensePlate(String)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withLastCharacterOfLicensePlate(java.lang.String)">withLastCharacterOfLicensePlate(String)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle last character of the license plate.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withLastCharacterOfLicensePlate(java.lang.String)">withLastCharacterOfLicensePlate(String)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withLastCharacterOfLicensePlate(java.lang.String)">withLastCharacterOfLicensePlate(String)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle last character of the license plate.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withLastCharacterOfLicensePlate(java.lang.String)">withLastCharacterOfLicensePlate(String)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withLastCharacterOfLicensePlate(java.lang.String)">withLastCharacterOfLicensePlate(String)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle last character of the license plate.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withLengthInCentimeters(int)">withLengthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withLengthInCentimeters(int)">withLengthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle length in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withLengthInCentimeters(int)">withLengthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withLengthInCentimeters(int)">withLengthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle length in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withLengthInCentimeters(int)">withLengthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withLengthInCentimeters(int)">withLengthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle length in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withLengthInCentimeters(int)">withLengthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withLengthInCentimeters(int)">withLengthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle length in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withLengthInCentimeters(int)">withLengthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withLengthInCentimeters(int)">withLengthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle length in centimeters.</div>
 </dd>
@@ -21776,27 +21776,27 @@ the order they are declared.</div>
 <dd>
 <div class="block">Configures builder to use the given name as a layer name.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withOccupancy(int)">withOccupancy(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withOccupancy(int)">withOccupancy(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle occupants number.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withOccupancy(int)">withOccupancy(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withOccupancy(int)">withOccupancy(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle occupants number.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withOccupancy(int)">withOccupancy(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withOccupancy(int)">withOccupancy(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle occupants number.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.scooterbuilder#withOccupancy(int)">withOccupancy(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-scooterbuilder#withOccupancy(int)">withOccupancy(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle occupants number.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withOccupancy(int)">withOccupancy(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withOccupancy(int)">withOccupancy(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle occupants number.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withOccupancy(int)">withOccupancy(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withOccupancy(int)">withOccupancy(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle occupants number.</div>
 </dd>
@@ -21804,19 +21804,19 @@ the order they are declared.</div>
 <dd>
 <div class="block">Sets the style to override what is defined in the scene configuration.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withPayloadCapacityInKilograms(int)">withPayloadCapacityInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withPayloadCapacityInKilograms(int)">withPayloadCapacityInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle payload capacity in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withPayloadCapacityInKilograms(int)">withPayloadCapacityInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withPayloadCapacityInKilograms(int)">withPayloadCapacityInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle payload capacity in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withPayloadCapacityInKilograms(int)">withPayloadCapacityInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withPayloadCapacityInKilograms(int)">withPayloadCapacityInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle payload capacity in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.pedestrianbuilder#withPedestrianSpecification(com.here.sdk.transport.PedestrianSpecification)">withPedestrianSpecification(PedestrianSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-pedestrianbuilder#withPedestrianSpecification(com.here.sdk.transport.PedestrianSpecification)">withPedestrianSpecification(PedestrianSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></dt>
 <dd>
 <div class="block">Sets the pedestrian specification.</div>
 </dd>
@@ -21848,7 +21848,7 @@ the order they are declared.</div>
 <dd>
 <div class="block">Configures the builder to set the MapLayerPriority to be used by the layer.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.scooterbuilder#withScooterSpecification(com.here.sdk.transport.ScooterSpecification)">withScooterSpecification(ScooterSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-scooterbuilder#withScooterSpecification(com.here.sdk.transport.ScooterSpecification)">withScooterSpecification(ScooterSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></dt>
 <dd>
 <div class="block">Sets the scooter specification.</div>
 </dd>
@@ -21860,7 +21860,7 @@ the order they are declared.</div>
 <dd>
 <div class="block">Configures the builder to use a style.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.taxibuilder#withTaxiSpecification(com.here.sdk.transport.TaxiSpecification)">withTaxiSpecification(TaxiSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-taxibuilder#withTaxiSpecification(com.here.sdk.transport.TaxiSpecification)">withTaxiSpecification(TaxiSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the taxi specification.</div>
 </dd>
@@ -21872,23 +21872,23 @@ the order they are declared.</div>
 <dd>
 <div class="block">Adds texture coordinates to a quad.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withTiresCount(int)">withTiresCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withTiresCount(int)">withTiresCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle tires count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withTiresCount(int)">withTiresCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withTiresCount(int)">withTiresCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle tires count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withTiresCount(int)">withTiresCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withTiresCount(int)">withTiresCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle tires count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withTiresCount(int)">withTiresCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withTiresCount(int)">withTiresCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle tires count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withTiresCount(int)">withTiresCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withTiresCount(int)">withTiresCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle tires count.</div>
 </dd>
@@ -21900,91 +21900,91 @@ the order they are declared.</div>
 <dd>
 <div class="block">SDK will use access token provider to retrieve access token.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withTrailerAxleCount(int)">withTrailerAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withTrailerAxleCount(int)">withTrailerAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle trailer axle count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withTrailerAxleCount(int)">withTrailerAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withTrailerAxleCount(int)">withTrailerAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle trailer axle count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withTrailerAxleCount(int)">withTrailerAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withTrailerAxleCount(int)">withTrailerAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle trailer axle count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withTrailerAxleCount(int)">withTrailerAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withTrailerAxleCount(int)">withTrailerAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle trailer axle count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withTrailerAxleCount(int)">withTrailerAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withTrailerAxleCount(int)">withTrailerAxleCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle trailer axle count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withTrailerCount(int)">withTrailerCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withTrailerCount(int)">withTrailerCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle trailer count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withTrailerCount(int)">withTrailerCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withTrailerCount(int)">withTrailerCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle trailer count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withTrailerCount(int)">withTrailerCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withTrailerCount(int)">withTrailerCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle trailer count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withTrailerCount(int)">withTrailerCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withTrailerCount(int)">withTrailerCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle trailer count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withTrailerCount(int)">withTrailerCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withTrailerCount(int)">withTrailerCount(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle trailer count.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withTruckCategory(com.here.sdk.transport.TruckCategory)">withTruckCategory(TruckCategory)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withTruckCategory(com.here.sdk.transport.TruckCategory)">withTruckCategory(TruckCategory)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle truck category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withTunnelCategory(com.here.sdk.transport.TunnelCategory)">withTunnelCategory(TunnelCategory)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withTunnelCategory(com.here.sdk.transport.TunnelCategory)">withTunnelCategory(TunnelCategory)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle tunnel category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withTunnelCategory(com.here.sdk.transport.TunnelCategory)">withTunnelCategory(TunnelCategory)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withTunnelCategory(com.here.sdk.transport.TunnelCategory)">withTunnelCategory(TunnelCategory)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle tunnel category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withTunnelCategory(com.here.sdk.transport.TunnelCategory)">withTunnelCategory(TunnelCategory)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withTunnelCategory(com.here.sdk.transport.TunnelCategory)">withTunnelCategory(TunnelCategory)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle tunnel category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withTunnelCategory(com.here.sdk.transport.TunnelCategory)">withTunnelCategory(TunnelCategory)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withTunnelCategory(com.here.sdk.transport.TunnelCategory)">withTunnelCategory(TunnelCategory)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle tunnel category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withTunnelCategory(com.here.sdk.transport.TunnelCategory)">withTunnelCategory(TunnelCategory)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withTunnelCategory(com.here.sdk.transport.TunnelCategory)">withTunnelCategory(TunnelCategory)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle tunnel category.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.busbuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification(VehicleSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-busbuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification(VehicleSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle specification.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.carbuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification(VehicleSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-carbuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification(VehicleSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle specification.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.privatebusbuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification(VehicleSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-privatebusbuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification(VehicleSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle specification.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.scooterbuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification(VehicleSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-scooterbuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification(VehicleSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle specification.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.taxibuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification(VehicleSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-taxibuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification(VehicleSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle specification.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification.truckbuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification(VehicleSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification.truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-transportspecification-truckbuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification(VehicleSpecification)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-transportspecification-truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle specification.</div>
 </dd>
@@ -21996,55 +21996,55 @@ the order they are declared.</div>
 <dd>
 <div class="block">Sets the watermark style.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withWeightPerAxleGroup(com.here.sdk.transport.WeightPerAxleGroup)">withWeightPerAxleGroup(WeightPerAxleGroup)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withWeightPerAxleGroup(com.here.sdk.transport.WeightPerAxleGroup)">withWeightPerAxleGroup(WeightPerAxleGroup)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle weight per axle group.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withWeightPerAxleGroup(com.here.sdk.transport.WeightPerAxleGroup)">withWeightPerAxleGroup(WeightPerAxleGroup)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withWeightPerAxleGroup(com.here.sdk.transport.WeightPerAxleGroup)">withWeightPerAxleGroup(WeightPerAxleGroup)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle weight per axle group.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withWeightPerAxleGroup(com.here.sdk.transport.WeightPerAxleGroup)">withWeightPerAxleGroup(WeightPerAxleGroup)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withWeightPerAxleGroup(com.here.sdk.transport.WeightPerAxleGroup)">withWeightPerAxleGroup(WeightPerAxleGroup)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle weight per axle group.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withWeightPerAxleInKilograms(int)">withWeightPerAxleInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withWeightPerAxleInKilograms(int)">withWeightPerAxleInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle weight per axle in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withWeightPerAxleInKilograms(int)">withWeightPerAxleInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withWeightPerAxleInKilograms(int)">withWeightPerAxleInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle weight per axle in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withWeightPerAxleInKilograms(int)">withWeightPerAxleInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withWeightPerAxleInKilograms(int)">withWeightPerAxleInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle weight per axle in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withWeightPerAxleInKilograms(int)">withWeightPerAxleInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withWeightPerAxleInKilograms(int)">withWeightPerAxleInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle weight per axle in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withWeightPerAxleInKilograms(int)">withWeightPerAxleInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withWeightPerAxleInKilograms(int)">withWeightPerAxleInKilograms(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle weight per axle in kilograms.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder#withWidthInCentimeters(int)">withWidthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder#withWidthInCentimeters(int)">withWidthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle width in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder#withWidthInCentimeters(int)">withWidthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder#withWidthInCentimeters(int)">withWidthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle width in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder#withWidthInCentimeters(int)">withWidthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder#withWidthInCentimeters(int)">withWidthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle width in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder#withWidthInCentimeters(int)">withWidthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder#withWidthInCentimeters(int)">withWidthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle width in centimeters.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder#withWidthInCentimeters(int)">withWidthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder#withWidthInCentimeters(int)">withWidthInCentimeters(int)</a> - Method in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></dt>
 <dd>
 <div class="block">Sets the vehicle width in centimeters.</div>
 </dd>
@@ -22142,7 +22142,7 @@ the order they are declared.</div>
 <dd>
 <div class="block">List containing identifiers of zones that routes should avoid going through.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL">ZOOM_LEVEL</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapmeasure-kind#ZOOM_LEVEL">ZOOM_LEVEL</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></dt>
 <dd>
 <div class="block">The measure kind zoom level.</div>
 </dd>
@@ -22154,7 +22154,7 @@ the order they are declared.</div>
 <dd>
 <div class="block">Creates an update to zoom map camera by a given factor preserving a given focus point.</div>
 </dd>
-<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera.state#zoomLevel">zoomLevel</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a></dt>
+<dt><a class="member-name-link" href="sdk-for-android-explore-mapcamera-state#zoomLevel">zoomLevel</a> - Variable in class com.here.sdk.mapview.<a href="sdk-for-android-explore-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a></dt>
 <dd>
 <div class="block">Zoom level corresponding to the current distance to target.</div>
 </dd>

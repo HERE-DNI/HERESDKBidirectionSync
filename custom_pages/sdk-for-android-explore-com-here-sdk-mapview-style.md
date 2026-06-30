@@ -20,16 +20,16 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-style"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.Style</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Style</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A style that defines the visual appearance of map rendered features.
- A <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> can be created using a <a href="sdk-for-android-explore-jsonstylefactory" title="class in com.here.sdk.mapview"><code>JsonStyleFactory</code></a>.
+ A <a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview"><code>Style</code></a> can be created using a <a href="sdk-for-android-explore-com-here-sdk-mapview-jsonstylefactory" title="class in com.here.sdk.mapview"><code>JsonStyleFactory</code></a>.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -47,7 +47,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-style"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-style#update(com.here.sdk.mapview.Style)">update</a><wbr/>(<a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a> style)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-style#update(com.here.sdk.mapview.Style)">update</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">Style</a> style)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Updates this style with content from another style.</div>
 </div>
@@ -72,7 +72,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-style"
 <section class="detail" id="update(com.here.sdk.mapview.Style)">
 <h3>update</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">update</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a> style)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">Style</a> style)</span></div>
 <div class="block"><p>Updates this style with content from another style.
  Only style definitions update is curently supported.</p></div>
 <dl class="notes">

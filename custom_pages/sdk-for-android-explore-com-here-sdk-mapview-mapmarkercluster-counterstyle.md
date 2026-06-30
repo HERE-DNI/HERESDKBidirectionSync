@@ -25,7 +25,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyl
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></dd>
+<dd><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapMarkerCluster.CounterStyle</span>

@@ -171,7 +171,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingpooldetails"
 <h3>EVChargingPoolDetails</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">EVChargingPoolDetails</span>()</div>
 <div class="block"><p>Creates a new instance.
- For offline EV rich attributes, also enable <a href="sdk-for-android-explore-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
+ For offline EV rich attributes, also enable <a href="sdk-for-android-explore-layerconfiguration-feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
  in <a href="sdk-for-android-explore-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.</p></div>
 </section>
 </li>

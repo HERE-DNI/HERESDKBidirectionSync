@@ -22,7 +22,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Subinterfaces:</dt>
-<dd><code><a href="sdk-for-android-explore-linetilesource" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a></code>, <code><a href="sdk-for-android-explore-pointtilesource" title="interface in com.here.sdk.mapview.datasource">PointTileSource</a></code>, <code><a href="sdk-for-android-explore-polygontilesource" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource</a></code>, <code><a href="sdk-for-android-explore-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a></code>, <code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource" title="interface in com.here.sdk.mapview.datasource">PointTileSource</a></code>, <code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource</a></code>, <code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TileSource</span></div>
@@ -43,22 +43,22 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource"
 <div class="table-header col-second">Interface</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Tile data version.</div>
 </div>
 <div class="col-first odd-row-color"><code>static interface </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Listener of <a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource"><code>TileSource</code></a> events.</div>
+<div class="block">Listener of <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource"><code>TileSource</code></a> events.</div>
 </div>
 <div class="col-first even-row-color"><code>static interface </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Handle of a load request.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tile metadata.</div>
 </div>
@@ -77,12 +77,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#addListener(com.here.sdk.mapview.datasource.TileSource.Listener)">addListener</a><wbr/>(<a href="sdk-for-android-explore-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#addListener(com.here.sdk.mapview.datasource.TileSource.Listener)">addListener</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Adds a listener for receiving state notifications.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#getDataVersion(com.here.sdk.mapview.datasource.TileKey)">getDataVersion</a><wbr/>(<a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#getDataVersion(com.here.sdk.mapview.datasource.TileKey)">getDataVersion</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the current data version of a tile.</div>
 </div>
@@ -91,13 +91,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the storage levels available for this data source.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#getTilingScheme()">getTilingScheme</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets the tiling scheme used by this source.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#removeListener(com.here.sdk.mapview.datasource.TileSource.Listener)">removeListener</a><wbr/>(<a href="sdk-for-android-explore-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource#removeListener(com.here.sdk.mapview.datasource.TileSource.Listener)">removeListener</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Removes a listener from receiving state notifications.</div>
 </div>
@@ -119,8 +119,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource"
 <section class="detail" id="getDataVersion(com.here.sdk.mapview.datasource.TileKey)">
 <h3>getDataVersion</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></span> <span class="element-name">getDataVersion</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</span></div>
+</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></span> <span class="element-name">getDataVersion</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</span></div>
 <div class="block"><p>Gets the current data version of a tile.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -134,7 +134,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource"
 <section class="detail" id="addListener(com.here.sdk.mapview.datasource.TileSource.Listener)">
 <h3>addListener</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">addListener</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</span></div>
 <div class="block"><p>Adds a listener for receiving state notifications.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -146,7 +146,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource"
 <section class="detail" id="removeListener(com.here.sdk.mapview.datasource.TileSource.Listener)">
 <h3>removeListener</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">removeListener</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a> listener)</span></div>
 <div class="block"><p>Removes a listener from receiving state notifications.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -158,7 +158,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource"
 <section class="detail" id="getTilingScheme()">
 <h3>getTilingScheme</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></span> <span class="element-name">getTilingScheme</span>()</div>
+</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></span> <span class="element-name">getTilingScheme</span>()</div>
 <div class="block"><p>Gets the tiling scheme used by this source.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

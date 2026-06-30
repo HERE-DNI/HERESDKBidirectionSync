@@ -20,14 +20,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapContentSettings</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapContentSettings</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Provides settings regarding map data which are applied globally to all map views. The settings
  can already be changed before a map view instance is created.</p></div>
 </section>
@@ -43,12 +43,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Traffic refresh period error code</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Traffic refresh period error exception</div>
 </div>
@@ -140,7 +140,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings"
 <h3>setTrafficRefreshPeriod</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setTrafficRefreshPeriod</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> value)</span>
-                                    throws <span class="exceptions"><a href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></span></div>
+                                    throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></span></div>
 <div class="block"><p>Sets the traffic data refresh period for both <a href="sdk-for-android-explore-mapfeatures#TRAFFIC_FLOW"><code>MapFeatures.TRAFFIC_FLOW</code></a> and
  <a href="sdk-for-android-explore-mapfeatures#TRAFFIC_INCIDENTS"><code>MapFeatures.TRAFFIC_INCIDENTS</code></a>. By default, the traffic information
  validity time and the refresh period is derived from the refresh period of HERE's traffic server.
@@ -160,7 +160,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings"
      frequent viewport changes can result in missing traffic data, causing new requests
      to be made more often.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></code> - <p><a href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview"><code>MapContentSettings.TrafficRefreshPeriodException</code></a> indicates what went wrong.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></code> - <p><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentsettings-trafficrefreshperiodexception" title="class in com.here.sdk.mapview"><code>MapContentSettings.TrafficRefreshPeriodException</code></a> indicates what went wrong.</p></dd>
 </dl>
 </section>
 </li>

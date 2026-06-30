@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></code></div>
+<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange#kind">kind</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The kind of measure represented by value.</div>
@@ -65,7 +65,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange#%3Cinit%3E(com.here.sdk.mapview.MapMeasure.Kind,double,double)">MapMeasureRange</a><wbr/>(<a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> kind,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange#%3Cinit%3E(com.here.sdk.mapview.MapMeasure.Kind,double,double)">MapMeasureRange</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> kind,
  double minimumValue,
  double maximumValue)</code></div>
 <div class="col-last even-row-color">
@@ -112,7 +112,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange"
 <section class="detail" id="kind">
 <h3>kind</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></span> <span class="element-name">kind</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></span> <span class="element-name">kind</span></div>
 <div class="block"><p>The kind of measure represented by value.</p></div>
 </section>
 </li>
@@ -142,7 +142,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapMeasure.Kind,double,double)">
 <h3>MapMeasureRange</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMeasureRange</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> kind,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> kind,
  double minimumValue,
  double maximumValue)</span></div>
 <div class="block"><p>Constructs a MapMeasureRange from the kind and range values.</p></div>

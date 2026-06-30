@@ -27,10 +27,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-addressquery"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">AddressQuery</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>The options to specify an address query. A <a href="sdk-for-android-explore-com-here-sdk-search-addressquery#query"><code>query</code></a> can consist of parts of an address or full addresses,
- optionally comma separated. <a href="sdk-for-android-explore-addressquery" title="class in com.here.sdk.search"><code>AddressQuery</code></a> should only be used to search for parts of the address,
+ optionally comma separated. <a href="sdk-for-android-explore-com-here-sdk-search-addressquery" title="class in com.here.sdk.search"><code>AddressQuery</code></a> should only be used to search for parts of the address,
  excluding the POI name. For example, "Invalidenstraße 116, Berlin, Germany" is appropriate, whereas
  "HERE, Invalidenstraße 116, Berlin, Germany" is not. To be able to include the POI name, use
- <a href="sdk-for-android-explore-textquery" title="class in com.here.sdk.search"><code>TextQuery</code></a> instead. <a href="sdk-for-android-explore-searchoptions#languageCode"><code>SearchOptions.languageCode</code></a> specifies the language of the
+ <a href="sdk-for-android-explore-com-here-sdk-search-textquery" title="class in com.here.sdk.search"><code>TextQuery</code></a> instead. <a href="sdk-for-android-explore-searchoptions#languageCode"><code>SearchOptions.languageCode</code></a> specifies the language of the
  <a href="sdk-for-android-explore-com-here-sdk-search-addressquery#query"><code>query</code></a> and determines the preferred language of the results.</p></div>
 </section>
 <section class="summary">

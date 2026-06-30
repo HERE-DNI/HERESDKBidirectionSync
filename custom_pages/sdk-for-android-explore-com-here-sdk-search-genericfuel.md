@@ -41,7 +41,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-genericfuel"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-fueladditive" title="class in com.here.sdk.search">FuelAdditive</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-fueladditive" title="class in com.here.sdk.search">FuelAdditive</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-genericfuel#additives">additives</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of available fuel additives.</div>
@@ -115,7 +115,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-genericfuel"
 <section class="detail" id="additives">
 <h3>additives</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-fueladditive" title="class in com.here.sdk.search">FuelAdditive</a>&gt;</span> <span class="element-name">additives</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-fueladditive" title="class in com.here.sdk.search">FuelAdditive</a>&gt;</span> <span class="element-name">additives</span></div>
 <div class="block"><p>The list of available fuel additives.
  The list can be empty when no fuel additives are available or when the information is unknown.</p></div>
 </section>

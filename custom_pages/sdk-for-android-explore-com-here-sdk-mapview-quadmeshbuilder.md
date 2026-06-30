@@ -20,8 +20,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div class="inheritance"><a href="sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview">com.here.sdk.mapview.MeshBuilder</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-sdk-mapview-meshbuilder" title="class in com.here.sdk.mapview">com.here.sdk.mapview.MeshBuilder</a>
 <div class="inheritance">com.here.sdk.mapview.QuadMeshBuilder</div>
 </div>
 </div>
@@ -29,7 +29,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder"
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">QuadMeshBuilder</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview">MeshBuilder</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-sdk-mapview-meshbuilder" title="class in com.here.sdk.mapview">MeshBuilder</a></span></div>
 <div class="block"><p>Builder for a single quad.</p></div>
 </section>
 <section class="summary">
@@ -45,7 +45,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview">MeshBuilder</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-meshbuilder" title="class in com.here.sdk.mapview">MeshBuilder</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder#withTextureCoordinates(com.here.sdk.core.Anchor2D,com.here.sdk.core.Anchor2D,com.here.sdk.core.Anchor2D,com.here.sdk.core.Anchor2D)">withTextureCoordinates</a><wbr/>(<a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> a,
  <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> b,
  <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> c,
@@ -57,7 +57,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder"
 </div>
 </div>
 <div class="inherited-list">
-<h3 id="methods-inherited-from-class-com.here.sdk.mapview.MeshBuilder">Methods inherited from class com.here.sdk.mapview.<a href="sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview">MeshBuilder</a></h3>
+<h3 id="methods-inherited-from-class-com.here.sdk.mapview.MeshBuilder">Methods inherited from class com.here.sdk.mapview.<a href="sdk-for-android-explore-com-here-sdk-mapview-meshbuilder" title="class in com.here.sdk.mapview">MeshBuilder</a></h3>
 <code><a href="sdk-for-android-explore-meshbuilder#build()">build</a>, <a href="sdk-for-android-explore-meshbuilder#quad(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)">quad</a>, <a href="sdk-for-android-explore-meshbuilder#triangle(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)">triangle</a></code></div>
 <div class="inherited-list">
 <h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
@@ -77,7 +77,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder"
 <section class="detail" id="withTextureCoordinates(com.here.sdk.core.Anchor2D,com.here.sdk.core.Anchor2D,com.here.sdk.core.Anchor2D,com.here.sdk.core.Anchor2D)">
 <h3>withTextureCoordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview">MeshBuilder</a></span> <span class="element-name">withTextureCoordinates</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-meshbuilder" title="class in com.here.sdk.mapview">MeshBuilder</a></span> <span class="element-name">withTextureCoordinates</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> a,
  @NonNull
  <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> b,
@@ -94,7 +94,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-quadmeshbuilder"
 <dd><code>c</code> - <p>Texture coordinate for vertex c. See <a href="sdk-for-android-explore-meshbuilder#quad(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)"><code>MeshBuilder.quad(com.here.sdk.core.Point3D, com.here.sdk.core.Point3D, com.here.sdk.core.Point3D, com.here.sdk.core.Point3D)</code></a></p></dd>
 <dd><code>d</code> - <p>Texture coordinate for vertex d. See <a href="sdk-for-android-explore-meshbuilder#quad(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)"><code>MeshBuilder.quad(com.here.sdk.core.Point3D, com.here.sdk.core.Point3D, com.here.sdk.core.Point3D, com.here.sdk.core.Point3D)</code></a></p></dd>
 <dt>Returns:</dt>
-<dd><p>A <a href="sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview"><code>MeshBuilder</code></a> instance.</p></dd>
+<dd><p>A <a href="sdk-for-android-explore-com-here-sdk-mapview-meshbuilder" title="class in com.here.sdk.mapview"><code>MeshBuilder</code></a> instance.</p></dd>
 </dl>
 </section>
 </li>

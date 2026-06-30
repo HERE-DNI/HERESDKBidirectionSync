@@ -59,7 +59,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fareprice"
 <div class="col-last odd-row-color">
 <div class="block">Minimum price when the price is of <a href="sdk-for-android-explore-farepricetype#RANGE"><code>FarePriceType.RANGE</code></a> type.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-farepricetype" title="enum class in com.here.sdk.routing">FarePriceType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-farepricetype" title="enum class in com.here.sdk.routing">FarePriceType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-fareprice#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of price represented by this object.</div>
@@ -125,7 +125,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fareprice"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-farepricetype" title="enum class in com.here.sdk.routing">FarePriceType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-farepricetype" title="enum class in com.here.sdk.routing">FarePriceType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>Type of price represented by this object.
  Defaults to <a href="sdk-for-android-explore-farepricetype#VALUE"><code>FarePriceType.VALUE</code></a>.</p></div>
 </section>
@@ -175,7 +175,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fareprice"
  3600 seconds - price for one hour
  28800 seconds - price for eight hours
  86400 seconds - price for one day
- <strong>Note:</strong> When the ticket validity period starts depends on the <a href="sdk-for-android-explore-agency" title="class in com.here.sdk.routing"><code>Agency</code></a> providing the service.
+ <strong>Note:</strong> When the ticket validity period starts depends on the <a href="sdk-for-android-explore-com-here-sdk-routing-agency" title="class in com.here.sdk.routing"><code>Agency</code></a> providing the service.
  Defaults to <code>null</code>.</p></div>
 </section>
 </li>

@@ -20,14 +20,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.DataAttributeValue</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">DataAttributeValue</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Encapsulates a data attribute value.
  Supports basic types and arrays of basic types.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected
@@ -45,7 +45,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Supported types of the data attribute values.</div>
 </div>
@@ -84,7 +84,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <div class="col-last odd-row-color">
 <div class="block">Creates a string data attribute value.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue#%3Cinit%3E(java.util.List)">DataAttributeValue</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a>&gt; value)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue#%3Cinit%3E(java.util.List)">DataAttributeValue</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a>&gt; value)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates an aggregated data attribute value.</div>
 </div>
@@ -102,7 +102,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a>&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue#getArray()">getArray</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the array value or <code>null</code> if the type doesn't match.</div>
@@ -142,7 +142,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the string value or <code>null</code> if the type doesn't match.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue#getType()">getType</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the type of the value.</div>
@@ -236,7 +236,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <section class="detail" id="&lt;init&gt;(java.util.List)">
 <h3>DataAttributeValue</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">DataAttributeValue</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a>&gt; value)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a>&gt; value)</span></div>
 <div class="block"><p>Creates an aggregated data attribute value.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -256,7 +256,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <section class="detail" id="getType()">
 <h3>getType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></span> <span class="element-name">getType</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></span> <span class="element-name">getType</span>()</div>
 <div class="block"><p>Returns the type of the value.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -340,7 +340,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalu
 <section class="detail" id="getArray()">
 <h3>getArray</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a>&gt;</span> <span class="element-name">getArray</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a>&gt;</span> <span class="element-name">getArray</span>()</div>
 <div class="block"><p>Gets the array value or <code>null</code> if the type doesn't match.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

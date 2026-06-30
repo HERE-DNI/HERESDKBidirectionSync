@@ -49,7 +49,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 <div class="col-last odd-row-color">
 <div class="block">Charging station charge-point-operator.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#connectorAttributes">connectorAttributes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Details of the connector suggested to be used.</div>
@@ -82,13 +82,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.routing.ChargingConnectorAttributes)">ChargingStation</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> id,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="sdk-for-android-explore-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingstation#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.routing.ChargingConnectorAttributes,com.here.sdk.core.NameID,com.here.sdk.core.NameID,java.util.List)">ChargingStation</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> id,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="sdk-for-android-explore-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes,
  <a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a> brand,
  <a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a> chargePointOperator,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a>&gt; matchingEMobilityServiceProviders)</code></div>
@@ -155,7 +155,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
 <section class="detail" id="connectorAttributes">
 <h3>connectorAttributes</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a></span> <span class="element-name">connectorAttributes</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a></span> <span class="element-name">connectorAttributes</span></div>
 <div class="block"><p>Details of the connector suggested to be used.</p></div>
 </section>
 </li>
@@ -208,7 +208,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @Nullable
- <a href="sdk-for-android-explore-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -229,7 +229,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstation"
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @Nullable
- <a href="sdk-for-android-explore-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a> connectorAttributes,
  @Nullable
  <a href="sdk-for-android-explore-nameid" title="class in com.here.sdk.core">NameID</a> brand,
  @Nullable

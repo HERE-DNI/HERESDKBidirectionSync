@@ -28,7 +28,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstop"
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>The options to specify a user-planned charging stop.
  <strong>Note:</strong>
- In order to specify this <a href="sdk-for-android-explore-chargingstop" title="class in com.here.sdk.routing"><code>ChargingStop</code></a>, it is also required to set
+ In order to specify this <a href="sdk-for-android-explore-com-here-sdk-routing-chargingstop" title="class in com.here.sdk.routing"><code>ChargingStop</code></a>, it is also required to set
  [sdk.routing.BatterySpecifications.total_capacity_in_kilowatt_hours], [sdk.routing.BatterySpecifications.initial_charge_in_kilowatt_hours],
  and [sdk.routing.BatterySpecifications.charging_curve].
  Without all of them, the route calculation will fail as an invalid parameter error.</p></div>
@@ -66,7 +66,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstop"
 <div class="col-last odd-row-color">
 <div class="block">The value of rated power of the connector (in kW).</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#supplyType">supplyType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Supply type of the suggested connector.</div>
@@ -94,7 +94,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstop"
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-chargingstop#%3Cinit%3E(double,double,double,com.here.sdk.routing.ChargingSupplyType,com.here.time.Duration,com.here.time.Duration)">ChargingStop</a><wbr/>(double powerInKilowatts,
  double currentInAmperes,
  double voltageInVolts,
- <a href="sdk-for-android-explore-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
  <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> minDuration,
  <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> maxDuration)</code></div>
 <div class="col-last odd-row-color">
@@ -162,7 +162,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstop"
 <section class="detail" id="supplyType">
 <h3>supplyType</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></span> <span class="element-name">supplyType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></span> <span class="element-name">supplyType</span></div>
 <div class="block"><p>Supply type of the suggested connector.</p></div>
 </section>
 </li>
@@ -212,7 +212,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-chargingstop"
  double currentInAmperes,
  double voltageInVolts,
  @Nullable
- <a href="sdk-for-android-explore-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
  @Nullable
  <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> minDuration,
  @Nullable

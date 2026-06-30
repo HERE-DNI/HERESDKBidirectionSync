@@ -44,7 +44,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routetextoptions"
 <div class="col-last even-row-color">
 <div class="block">The language for all textual information.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions#textUsageOptions">textUsageOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An option whether street name, road number and sign post direction should be used when generating notification.</div>
@@ -128,7 +128,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routetextoptions"
 <section class="detail" id="textUsageOptions">
 <h3>textUsageOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></span> <span class="element-name">textUsageOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></span> <span class="element-name">textUsageOptions</span></div>
 <div class="block"><p>An option whether street name, road number and sign post direction should be used when generating notification.
  Defaults to each attribute as <a href="sdk-for-android-explore-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
 </section>

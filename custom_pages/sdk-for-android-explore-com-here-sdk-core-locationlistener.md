@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-locationlistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-locationlistener#onLocationUpdated(com.here.sdk.core.Location)">onLocationUpdated</a><wbr/>(<a href="sdk-for-android-explore-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-locationlistener#onLocationUpdated(com.here.sdk.core.Location)">onLocationUpdated</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called each time a new location is available.</div>
 </div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-locationlistener"
 <section class="detail" id="onLocationUpdated(com.here.sdk.core.Location)">
 <h3>onLocationUpdated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onLocationUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-location" title="class in com.here.sdk.core">Location</a> location)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location)</span></div>
 <div class="block"><p>Called each time a new location is available.
  In a navigation context while using the <code>Navigator</code> or <code>VisualNavigator</code>,
  it's required to set the <code>Location.time</code> parameter for each <code>Location</code>

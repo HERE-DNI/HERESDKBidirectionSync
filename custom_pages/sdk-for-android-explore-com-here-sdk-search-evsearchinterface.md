@@ -22,7 +22,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchinterface"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
-<dd><code><a href="sdk-for-android-explore-evsearchengine" title="class in com.here.sdk.search">EVSearchEngine</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-search-evsearchengine" title="class in com.here.sdk.search">EVSearchEngine</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">EVSearchInterface</span></div>
@@ -45,9 +45,9 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchinterface"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evsearchinterface#search(java.util.List,com.here.sdk.search.EVSearchCallback)">search</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; ids,
- <a href="sdk-for-android-explore-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-search-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Performs an asynchronous request for <a href="sdk-for-android-explore-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</div>
+<div class="block">Performs an asynchronous request for <a href="sdk-for-android-explore-com-here-sdk-search-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</div>
 </div>
 </div>
 </div>
@@ -70,8 +70,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evsearchinterface"
 </span><span class="return-type"><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; ids,
  @NonNull
- <a href="sdk-for-android-explore-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous request for <a href="sdk-for-android-explore-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</p></div>
+ <a href="sdk-for-android-explore-com-here-sdk-search-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous request for <a href="sdk-for-android-explore-com-here-sdk-search-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>ids</code> - <p>List of charging location identifiers.</p></dd>

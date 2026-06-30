@@ -31,7 +31,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingstation"
  Use <a href="sdk-for-android-explore-placecategory#BUSINESS_AND_SERVICES_EV_CHARGING_STATION"><code>PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION</code></a> to find stations.
  In the <code>Details</code> of a <code>Place</code> result you can find the list of found pools containing stations,
  if any.
- For offline EV rich attributes, enable <a href="sdk-for-android-explore-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
+ For offline EV rich attributes, enable <a href="sdk-for-android-explore-layerconfiguration-feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
  in <a href="sdk-for-android-explore-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.</p></div>
 </section>
 <section class="summary">

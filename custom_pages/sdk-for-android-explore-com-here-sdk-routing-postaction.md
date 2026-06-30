@@ -39,12 +39,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-postaction"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-postactiontype" title="enum class in com.here.sdk.routing">PostActionType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-postactiontype" title="enum class in com.here.sdk.routing">PostActionType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-postaction#action">action</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of this action.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-chargingactiondetails" title="class in com.here.sdk.routing">ChargingActionDetails</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-chargingactiondetails" title="class in com.here.sdk.routing">ChargingActionDetails</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-postaction#chargingDetails">chargingDetails</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The additional information that is available if the action is of type charging.</div>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-postaction"
 <section class="detail" id="action">
 <h3>action</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-postactiontype" title="enum class in com.here.sdk.routing">PostActionType</a></span> <span class="element-name">action</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-postactiontype" title="enum class in com.here.sdk.routing">PostActionType</a></span> <span class="element-name">action</span></div>
 <div class="block"><p>Type of this action.
  Defaults to <a href="sdk-for-android-explore-postactiontype#CHARGING_SETUP"><code>PostActionType.CHARGING_SETUP</code></a>.</p></div>
 </section>
@@ -128,7 +128,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-postaction"
 <section class="detail" id="chargingDetails">
 <h3>chargingDetails</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-chargingactiondetails" title="class in com.here.sdk.routing">ChargingActionDetails</a></span> <span class="element-name">chargingDetails</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-chargingactiondetails" title="class in com.here.sdk.routing">ChargingActionDetails</a></span> <span class="element-name">chargingDetails</span></div>
 <div class="block"><p>The additional information that is available if the action is of type charging.</p></div>
 </section>
 </li>

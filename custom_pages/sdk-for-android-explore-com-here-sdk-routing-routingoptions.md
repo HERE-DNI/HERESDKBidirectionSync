@@ -44,7 +44,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routingoptions"
 </ul>
 By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachability"><code>ElectricVehicleOptions.ensureReachability</code></a> the <code>RoutingEngine</code> inserts additional charging stations
  to reach the waypoints.
- This feature requires setting the <a href="sdk-for-android-explore-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a>.
+ This feature requires setting the <a href="sdk-for-android-explore-com-here-sdk-routing-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a>.
  By default a vehicle might not reach the waypoint, when the initial charge is not enough to reach all waypoints.
  See the parameter description below for more details.</p></div>
 </section>
@@ -59,38 +59,38 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-allowoptions" title="class in com.here.sdk.routing">AllowOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-allowoptions" title="class in com.here.sdk.routing">AllowOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#allowOptions">allowOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The options explicitly allowed by user for route calculations.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#avoidanceOptions">avoidanceOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Options to specify restrictions for route calculations.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-electricvehicleoptions" title="class in com.here.sdk.routing">ElectricVehicleOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions" title="class in com.here.sdk.routing">ElectricVehicleOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#evOptions">evOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the electric vehicle (EV) related parameters to calculate the consumption and reachability.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#maxSpeedOnSegments">maxSpeedOnSegments</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Segments with restriction on maximum <a href="sdk-for-android-explore-dynamicspeedinfo#baseSpeedInMetersPerSecond"><code>DynamicSpeedInfo.baseSpeedInMetersPerSecond</code></a>.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#routeOptions">routeOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies the common route calculation options.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#textOptions">textOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Customize textual content returned from the route calculation, such
  as localization, format, and unit system.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#tollOptions">tollOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Options to specify how the tolls should be calculated,
@@ -134,7 +134,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-routingoptions" title="class in com.here.sdk.routing">RoutingOptions</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions" title="class in com.here.sdk.routing">RoutingOptions</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routingoptions#fromDefaultParameterConfiguration()">fromDefaultParameterConfiguration</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the default configuration for the transport specification selected in <a href="sdk-for-android-explore-parameterconfiguration#transportSpecification"><code>ParameterConfiguration.transportSpecification</code></a>
@@ -181,7 +181,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <li>The <a href="sdk-for-android-explore-pedestrianspecification#walkingSpeedInMetersPerSecond"><code>PedestrianSpecification.walkingSpeedInMetersPerSecond</code></a> from <a href="sdk-for-android-explore-transportspecification#pedestrianSpecification"><code>TransportSpecification.pedestrianSpecification</code></a>
  if present, will be used by the service as the walking speed for pedestrian routing. It influences the duration of walking
  along the route. The provided value must be in the range [0.5, 2.0]. When the value is outside this
- range, an invalid parameter error is raised. Refer to <a href="sdk-for-android-explore-routingerror" title="enum class in com.here.sdk.routing"><code>RoutingError</code></a> for details. The
+ range, an invalid parameter error is raised. Refer to <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror" title="enum class in com.here.sdk.routing"><code>RoutingError</code></a> for details. The
  default speed is 1 meter per second.</li>
 </ul></p></div>
 </section>
@@ -190,7 +190,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <section class="detail" id="routeOptions">
 <h3>routeOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span></div>
 <div class="block"><p>Specifies the common route calculation options.</p></div>
 </section>
 </li>
@@ -198,7 +198,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <section class="detail" id="textOptions">
 <h3>textOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></span> <span class="element-name">textOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></span> <span class="element-name">textOptions</span></div>
 <div class="block"><p>Customize textual content returned from the route calculation, such
  as localization, format, and unit system.</p></div>
 </section>
@@ -207,7 +207,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <section class="detail" id="avoidanceOptions">
 <h3>avoidanceOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></span> <span class="element-name">avoidanceOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></span> <span class="element-name">avoidanceOptions</span></div>
 <div class="block"><p>Options to specify restrictions for route calculations.
  By default no restrictions are applied.</p></div>
 </section>
@@ -216,7 +216,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <section class="detail" id="allowOptions">
 <h3>allowOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-allowoptions" title="class in com.here.sdk.routing">AllowOptions</a></span> <span class="element-name">allowOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-allowoptions" title="class in com.here.sdk.routing">AllowOptions</a></span> <span class="element-name">allowOptions</span></div>
 <div class="block"><p>The options explicitly allowed by user for route calculations.
  By default no options are opt in.</p></div>
 </section>
@@ -225,7 +225,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <section class="detail" id="tollOptions">
 <h3>tollOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></span> <span class="element-name">tollOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></span> <span class="element-name">tollOptions</span></div>
 <div class="block"><p>Options to specify how the tolls should be calculated,
  such as transponders, vehicle category, and emission type.
  <strong>Note</strong> Not used for offline calculations.</p></div>
@@ -235,7 +235,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <section class="detail" id="maxSpeedOnSegments">
 <h3>maxSpeedOnSegments</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</span> <span class="element-name">maxSpeedOnSegments</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</span> <span class="element-name">maxSpeedOnSegments</span></div>
 <div class="block"><p>Segments with restriction on maximum <a href="sdk-for-android-explore-dynamicspeedinfo#baseSpeedInMetersPerSecond"><code>DynamicSpeedInfo.baseSpeedInMetersPerSecond</code></a>.
  <strong>Note</strong> Not used for offline calculations.</p></div>
 </section>
@@ -244,7 +244,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <section class="detail" id="evOptions">
 <h3>evOptions</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-electricvehicleoptions" title="class in com.here.sdk.routing">ElectricVehicleOptions</a></span> <span class="element-name">evOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-electricvehicleoptions" title="class in com.here.sdk.routing">ElectricVehicleOptions</a></span> <span class="element-name">evOptions</span></div>
 <div class="block"><p>Defines the electric vehicle (EV) related parameters to calculate the consumption and reachability.
  When no EV options are defined an internal combustion engine is assumed.</p></div>
 </section>
@@ -296,7 +296,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
 <section class="detail" id="fromDefaultParameterConfiguration()">
 <h3>fromDefaultParameterConfiguration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-routingoptions" title="class in com.here.sdk.routing">RoutingOptions</a></span> <span class="element-name">fromDefaultParameterConfiguration</span>()</div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions" title="class in com.here.sdk.routing">RoutingOptions</a></span> <span class="element-name">fromDefaultParameterConfiguration</span>()</div>
 <div class="block"><p>Returns the default configuration for the transport specification selected in <a href="sdk-for-android-explore-parameterconfiguration#transportSpecification"><code>ParameterConfiguration.transportSpecification</code></a>
  from <a href="sdk-for-android-explore-sdknativeengine#getParameterConfig()"><code>SDKNativeEngine.getParameterConfig()</code></a>.
  <strong>Note</strong> By default, the [sdk.core.ParameterConfiguration.transport_specification] from [sdk.core.engine.SDKNativeEngine.parameter_config]
@@ -304,7 +304,7 @@ By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachab
  set to <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-explore-routingoptions" title="class in com.here.sdk.routing"><code>RoutingOptions</code></a> object with the default configuration for the transport specification selected in
+<dd><p>The <a href="sdk-for-android-explore-com-here-sdk-routing-routingoptions" title="class in com.here.sdk.routing"><code>RoutingOptions</code></a> object with the default configuration for the transport specification selected in
      <a href="sdk-for-android-explore-parameterconfiguration#transportSpecification"><code>ParameterConfiguration.transportSpecification</code></a> from <a href="sdk-for-android-explore-sdknativeengine#getParameterConfig()"><code>SDKNativeEngine.getParameterConfig()</code></a>.</p></dd>
 </dl>
 </section>

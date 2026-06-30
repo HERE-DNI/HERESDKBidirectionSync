@@ -20,7 +20,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.routing.TrafficIncidentOnRoute</div>
 </div>
 </div>
@@ -31,7 +31,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-trafficincidentonroute"
 </dl>
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficIncidentOnRoute</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a>
 implements <a href="sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></span></div>
 <div class="block"><p>Traffic incidents on a route. Use <a href="sdk-for-android-explore-section#getTrafficIncidents()"><code>Section.getTrafficIncidents()</code></a> to get a list of incidents on a route section.
  Use <a href="sdk-for-android-explore-span#getTrafficIncidentIndexes()"><code>Span.getTrafficIncidentIndexes()</code></a> to associate incidents with spans. Each incident takes at least the whole geometry of matching spans.

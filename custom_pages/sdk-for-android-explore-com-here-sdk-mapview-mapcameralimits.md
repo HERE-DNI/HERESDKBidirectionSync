@@ -20,14 +20,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapCameraLimits</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapCameraLimits</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Controls constraints on map camera parameters.
  When constraints are set, they are enforced for current camera state
  and for all future changes to the camera.
@@ -104,7 +104,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits"
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current tilt range.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#getZoomRange()">getZoomRange</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the currently set camera zoom range.</div>
@@ -115,7 +115,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits"
 <div class="block">Sets a new bearing range.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#setBearingRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)">setBearingRangeAtZoom</a><wbr/>(<a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#setBearingRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)">setBearingRangeAtZoom</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
  <a href="sdk-for-android-explore-anglerange" title="class in com.here.sdk.core">AngleRange</a> bearingRange)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the bearing range within which the camera can rotate at a given zoom.</div>
@@ -131,13 +131,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits"
 <div class="block">Sets a new tilt limit range.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#setTiltRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)">setTiltRangeAtZoom</a><wbr/>(<a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#setTiltRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)">setTiltRangeAtZoom</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
  <a href="sdk-for-android-explore-anglerange" title="class in com.here.sdk.core">AngleRange</a> tiltRange)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets tilt ranges that can be set on the camera at given zoom.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#setZoomRange(com.here.sdk.mapview.MapMeasureRange)">setZoomRange</a><wbr/>(<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#setZoomRange(com.here.sdk.mapview.MapMeasureRange)">setZoomRange</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets a new camera zoom range.</div>
 </div>
@@ -230,7 +230,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits"
 <section class="detail" id="setBearingRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)">
 <h3>setBearingRangeAtZoom</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setBearingRangeAtZoom</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
  @NonNull
  <a href="sdk-for-android-explore-anglerange" title="class in com.here.sdk.core">AngleRange</a> bearingRange)</span></div>
 <div class="block"><p>Sets the bearing range within which the camera can rotate at a given zoom.
@@ -258,7 +258,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits"
 <section class="detail" id="setTiltRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)">
 <h3>setTiltRangeAtZoom</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTiltRangeAtZoom</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
  @NonNull
  <a href="sdk-for-android-explore-anglerange" title="class in com.here.sdk.core">AngleRange</a> tiltRange)</span></div>
 <div class="block"><p>Sets tilt ranges that can be set on the camera at given zoom.
@@ -347,7 +347,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits"
 <section class="detail" id="getZoomRange()">
 <h3>getZoomRange</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a></span> <span class="element-name">getZoomRange</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a></span> <span class="element-name">getZoomRange</span>()</div>
 <div class="block"><p>Gets the currently set camera zoom range.
  By default, a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MIN_ZOOM_LEVEL"><code>MIN_ZOOM_LEVEL</code></a>-<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MAX_ZOOM_LEVEL"><code>MAX_ZOOM_LEVEL</code></a> zoom range is set during initialization.</p></div>
 <dl class="notes">
@@ -360,7 +360,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits"
 <section class="detail" id="setZoomRange(com.here.sdk.mapview.MapMeasureRange)">
 <h3>setZoomRange</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setZoomRange</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a> value)</span></div>
 <div class="block"><p>Sets a new camera zoom range.
  The supported values fall inside <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MIN_ZOOM_LEVEL"><code>MIN_ZOOM_LEVEL</code></a>-<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits#MAX_ZOOM_LEVEL"><code>MAX_ZOOM_LEVEL</code></a> range.
  Values outside the supported zoom range are ignored.

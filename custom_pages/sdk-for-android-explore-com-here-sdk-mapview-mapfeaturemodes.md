@@ -29,9 +29,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <div class="block"><p>Holds constants for map feature modes, to be used with <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>.
  Use <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#DEFAULT"><code>DEFAULT</code></a> to enable a feature with its default mode.
  Note: The default mode is defined by the currently loaded map scene configuration and
- may vary per <a href="sdk-for-android-explore-mapscheme" title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a>. The currently active features and modes can be inspected
+ may vary per <a href="sdk-for-android-explore-com-here-sdk-mapview-mapscheme" title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a>. The currently active features and modes can be inspected
  using <a href="sdk-for-android-explore-mapscene#getActiveFeatures()"><code>MapScene.getActiveFeatures()</code></a> after the scene is loaded.
- See <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for constants representing the feature names.</p></div>
+ See <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for constants representing the feature names.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">

@@ -20,18 +20,18 @@ slug: "sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>&gt;
 <div class="inheritance">com.here.sdk.core.errors.InstantiationErrorCode</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">InstantiationErrorCode</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>&gt;</span></div>
 <div class="block"><p>Instantiation error.</p></div>
 </section>
 <section class="summary">
@@ -120,12 +120,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -154,21 +154,21 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="ILLEGAL_ARGUMENTS">
 <h3>ILLEGAL_ARGUMENTS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">ILLEGAL_ARGUMENTS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">ILLEGAL_ARGUMENTS</span></div>
 <div class="block"><p>Illegal arguments.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FAILED">
 <h3>FAILED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">FAILED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">FAILED</span></div>
 <div class="block"><p>Instantiation attempt failed. Please check log for error.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SHARED_SDK_ENGINE_NOT_INSTANTIATED">
 <h3>SHARED_SDK_ENGINE_NOT_INSTANTIATED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">SHARED_SDK_ENGINE_NOT_INSTANTIATED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">SHARED_SDK_ENGINE_NOT_INSTANTIATED</span></div>
 <div class="block"><p>Instantiation attempt failed because the shared SDK engine is not instantiated.
  Please initialise the SDK.</p></div>
 </section>
@@ -176,35 +176,35 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="CACHE_FOLDER_ACCESS_DENIED">
 <h3>CACHE_FOLDER_ACCESS_DENIED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">CACHE_FOLDER_ACCESS_DENIED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">CACHE_FOLDER_ACCESS_DENIED</span></div>
 <div class="block"><p>Access to the specified cache folder is denied</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED">
 <h3>PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED</span></div>
 <div class="block"><p>Access to the specified persistent map storage folder is denied</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FAILED_TO_LOCK_CACHE_FOLDER">
 <h3>FAILED_TO_LOCK_CACHE_FOLDER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">FAILED_TO_LOCK_CACHE_FOLDER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">FAILED_TO_LOCK_CACHE_FOLDER</span></div>
 <div class="block"><p>The cache folder for given access key id is locked by other instance of SDKNativeEngine</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FAILED_TO_CREATE_ANALYTICS_SERVICE">
 <h3>FAILED_TO_CREATE_ANALYTICS_SERVICE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">FAILED_TO_CREATE_ANALYTICS_SERVICE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">FAILED_TO_CREATE_ANALYTICS_SERVICE</span></div>
 <div class="block"><p>Analytics service can not be created</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL">
 <h3>ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL</span></div>
 <div class="block"><p>Access key contains illegal symbols.
  The below characters are not supported:
  A. '(single quote)
@@ -214,7 +214,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL">
 <h3>ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL</span></div>
 <div class="block"><p>Access key secret contains illegal symbols.
  The below characters are not supported:
  A. '(single quote)
@@ -224,14 +224,14 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="LAYER_CONFIGURATION_MISMATCH">
 <h3>LAYER_CONFIGURATION_MISMATCH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">LAYER_CONFIGURATION_MISMATCH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">LAYER_CONFIGURATION_MISMATCH</span></div>
 <div class="block"><p>Please check SDKOptions.layerConfiguration against SDK modules configuration.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SDK_ENGINE_ALREADY_DISPOSED">
 <h3>SDK_ENGINE_ALREADY_DISPOSED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">SDK_ENGINE_ALREADY_DISPOSED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">SDK_ENGINE_ALREADY_DISPOSED</span></div>
 <div class="block"><p>Instantiation attempt failed because the <code>dispose()</code> method from <code>SDKNativeEngine</code>
  was called already.</p></div>
 </section>
@@ -239,7 +239,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="INVALID_CATALOG_CONFIGURATION">
 <h3>INVALID_CATALOG_CONFIGURATION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">INVALID_CATALOG_CONFIGURATION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">INVALID_CATALOG_CONFIGURATION</span></div>
 <div class="block"><p><code>CatalogConfiguration</code> contains invalid parameters.
  Check the corectness of HRNs and versions.</p></div>
 </section>
@@ -247,7 +247,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="DATA_FOLDER_ACCESS_DENIED">
 <h3>DATA_FOLDER_ACCESS_DENIED</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">DATA_FOLDER_ACCESS_DENIED</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">DATA_FOLDER_ACCESS_DENIED</span></div>
 <div class="block"><p>Access to the specified data folder is denied</p></div>
 </section>
 </li>
@@ -262,7 +262,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -274,7 +274,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

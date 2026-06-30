@@ -58,7 +58,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration#%3Cinit%3E()">ParameterConfiguration</a>()</code></div>
 <div class="col-last even-row-color">
-<div class="block">Creates a new instance of <a href="sdk-for-android-explore-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.</div>
+<div class="block">Creates a new instance of <a href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.</div>
 </div>
 </div>
 </section>
@@ -117,7 +117,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-parameterconfiguration"
 <section class="detail" id="&lt;init&gt;()">
 <h3>ParameterConfiguration</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ParameterConfiguration</span>()</div>
-<div class="block"><p>Creates a new instance of <a href="sdk-for-android-explore-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.
+<div class="block"><p>Creates a new instance of <a href="sdk-for-android-explore-com-here-sdk-core-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.
  <strong>Note</strong> By default, the [ParameterConfiguration.transport_specification] will return a
  valid <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object with the [sdk.transport.TransportSpecification.transport_mode] set
  to <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a>.</p></div>

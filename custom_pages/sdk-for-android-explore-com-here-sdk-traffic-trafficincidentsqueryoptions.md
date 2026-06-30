@@ -44,7 +44,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions
 <div class="col-last even-row-color">
 <div class="block">The earliest start time of incidents to be queried.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions#impactFilter">impactFilter</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The list of incident impacts to be queried.</div>
@@ -59,7 +59,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions
 <div class="col-last odd-row-color">
 <div class="block">The latest end time of incidents to be queried.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions#typeFilter">typeFilter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of incident types to be queried.</div>
@@ -120,7 +120,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions
 <section class="detail" id="typeFilter">
 <h3>typeFilter</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>&gt;</span> <span class="element-name">typeFilter</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a>&gt;</span> <span class="element-name">typeFilter</span></div>
 <div class="block"><p>The list of incident types to be queried. If the list is empty, all types will be queried.</p></div>
 </section>
 </li>
@@ -128,7 +128,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentsqueryoptions
 <section class="detail" id="impactFilter">
 <h3>impactFilter</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a>&gt;</span> <span class="element-name">impactFilter</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a>&gt;</span> <span class="element-name">impactFilter</span></div>
 <div class="block"><p>The list of incident impacts to be queried. If the list is empty, all incident impacts will be queried.</p></div>
 </section>
 </li>

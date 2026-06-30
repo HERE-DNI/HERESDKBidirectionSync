@@ -54,7 +54,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transittransport"
 <div class="col-last even-row-color">
 <div class="block">Transit line headsign.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transittransport#mode">mode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Transit mode of transport in the route.</div>
@@ -80,7 +80,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transittransport"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transittransport#%3Cinit%3E(com.here.sdk.routing.TransitMode,java.lang.String,java.lang.String,java.lang.String,com.here.sdk.core.Color,com.here.sdk.core.Color)">TransitTransport</a><wbr/>(<a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a> mode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transittransport#%3Cinit%3E(com.here.sdk.routing.TransitMode,java.lang.String,java.lang.String,java.lang.String,com.here.sdk.core.Color,com.here.sdk.core.Color)">TransitTransport</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a> mode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> headsign,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> category,
@@ -130,7 +130,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transittransport"
 <section class="detail" id="mode">
 <h3>mode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">mode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">mode</span></div>
 <div class="block"><p>Transit mode of transport in the route.</p></div>
 </section>
 </li>
@@ -186,7 +186,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transittransport"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.TransitMode,java.lang.String,java.lang.String,java.lang.String,com.here.sdk.core.Color,com.here.sdk.core.Color)">
 <h3>TransitTransport</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TransitTransport</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a> mode,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a> mode,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @Nullable

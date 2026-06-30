@@ -22,11 +22,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Superinterfaces:</dt>
-<dd><code><a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">RasterTileSource</span><span class="extends-implements">
-extends <a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></span></div>
+extends <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></span></div>
 <div class="block"><p>A source of raster tiles.
  The implementations must be thread-safe.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected
@@ -44,14 +44,14 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 <div class="table-header col-second">Interface</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static interface </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-rastertilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Result handler of a load tile request.</div>
 </div>
 </div>
 <div class="inherited-list">
 
-<code><a href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a>, <a href="sdk-for-android-explore-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a>, <a href="sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a>, <a href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></code></div>
+<code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></code></div>
 </section>
 </li>
 <!-- ========== METHOD SUMMARY =========== -->
@@ -65,9 +65,9 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource#loadTile(com.here.sdk.mapview.datasource.TileKey,com.here.sdk.mapview.datasource.RasterTileSource.LoadResultHandler)">loadTile</a><wbr/>(<a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
- <a href="sdk-for-android-explore-rastertilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a> completionHandler)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource#loadTile(com.here.sdk.mapview.datasource.TileKey,com.here.sdk.mapview.datasource.RasterTileSource.LoadResultHandler)">loadTile</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a> completionHandler)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Load data of a tile.</div>
 </div>
@@ -75,7 +75,7 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 </div>
 </div>
 <div class="inherited-list">
-<h3 id="methods-inherited-from-class-com.here.sdk.mapview.datasource.TileSource">Methods inherited from interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></h3>
+<h3 id="methods-inherited-from-class-com.here.sdk.mapview.datasource.TileSource">Methods inherited from interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></h3>
 <code><a href="sdk-for-android-explore-tilesource#addListener(com.here.sdk.mapview.datasource.TileSource.Listener)">addListener</a>, <a href="sdk-for-android-explore-tilesource#getDataVersion(com.here.sdk.mapview.datasource.TileKey)">getDataVersion</a>, <a href="sdk-for-android-explore-tilesource#getStorageLevels()">getStorageLevels</a>, <a href="sdk-for-android-explore-tilesource#getTilingScheme()">getTilingScheme</a>, <a href="sdk-for-android-explore-tilesource#removeListener(com.here.sdk.mapview.datasource.TileSource.Listener)">removeListener</a></code></div>
 </section>
 </li>
@@ -92,10 +92,10 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 <section class="detail" id="loadTile(com.here.sdk.mapview.datasource.TileKey,com.here.sdk.mapview.datasource.RasterTileSource.LoadResultHandler)">
 <h3>loadTile</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="return-type"><a href="sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></span> <span class="element-name">loadTile</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
+</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></span> <span class="element-name">loadTile</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
  @NonNull
- <a href="sdk-for-android-explore-rastertilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a> completionHandler)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a> completionHandler)</span></div>
 <div class="block"><p>Load data of a tile.
  Upon completion, the handler gets informed.</p></div>
 <dl class="notes">

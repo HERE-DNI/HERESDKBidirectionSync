@@ -20,14 +20,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapCameraKeyframeTrack</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapCameraKeyframeTrack</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Stores keyframes for interpolation of a camera property using a specific easing function
  and interpolation mode. Can only hold keyframes of a single type.</p></div>
 </section>
@@ -43,14 +43,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Describes a reason for failing to create a MapCameraKeyframeTrack.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack</code></a>.</div>
+<div class="block">Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview"><code>MapCameraKeyframeTrack</code></a>.</div>
 </div>
 </div>
 </section>
@@ -66,7 +66,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack#fieldOfView(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">fieldOfView</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>&gt; keyframes,
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</code></div>
@@ -93,15 +93,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack#getScalarKeyframes()">getScalarKeyframes</a>()</code></div>
 
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack#lookAtDistance(com.here.sdk.mapview.MapMeasure.Kind,java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">lookAtDistance</a><wbr/>(<a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> distanceKind,
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack#lookAtDistance(com.here.sdk.mapview.MapMeasure.Kind,java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">lookAtDistance</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> distanceKind,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>&gt; keyframes,
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a map camera look-at distance keyframe track.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code>static <a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code>static <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack#lookAtDistance(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">lookAtDistance</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>&gt; keyframes,
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</code></div>
@@ -110,28 +110,28 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <div class="deprecation-comment">Will be removed in v4.27.0.</div>
 </div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack#lookAtOrientation(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">lookAtOrientation</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geoorientationkeyframe" title="class in com.here.sdk.animation">GeoOrientationKeyframe</a>&gt; keyframes,
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a map camera look-at orientation keyframe track.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack#lookAtTarget(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">lookAtTarget</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinateskeyframe" title="class in com.here.sdk.animation">GeoCoordinatesKeyframe</a>&gt; keyframes,
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a map camera look-at target keyframe track.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack#normalizedPrincipalPoint(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">normalizedPrincipalPoint</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-anchor2dkeyframe" title="class in com.here.sdk.animation">Anchor2DKeyframe</a>&gt; keyframes,
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a map camera principal point keyframe track.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack#principalPoint(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">principalPoint</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-point2dkeyframe" title="class in com.here.sdk.animation">Point2DKeyframe</a>&gt; keyframes,
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</code></div>
@@ -215,13 +215,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <h3>lookAtDistance</h3>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 @NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">lookAtDistance</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">lookAtDistance</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>&gt; keyframes,
  @NonNull
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  @NonNull
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
-                                             throws <span class="exceptions"><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
+                                             throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.27.0. Use <scalarkeyframe>, Easing, KeyframeInterpolationMode) instead.</scalarkeyframe></p></div>
 </div>
@@ -241,7 +241,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <dt>Returns:</dt>
 <dd><p>A keyframe track over the distance from the map camera to its target.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
 </dl>
 </section>
 </li>
@@ -249,15 +249,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <section class="detail" id="lookAtDistance(com.here.sdk.mapview.MapMeasure.Kind,java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">
 <h3>lookAtDistance</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">lookAtDistance</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> distanceKind,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">lookAtDistance</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a> distanceKind,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>&gt; keyframes,
  @NonNull
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  @NonNull
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
-                                             throws <span class="exceptions"><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
+                                             throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
 <div class="block"><p>Creates a map camera look-at distance keyframe track. It enables animations of the distance
  from the map camera to the target point that the camera looks at. The measure kind of that distance can be
  specified. The values will be clamped according to the minimum and maximum zoom levels set for the map
@@ -276,7 +276,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <dt>Returns:</dt>
 <dd><p>A keyframe track over the distance from the map camera to its target.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
 </dl>
 </section>
 </li>
@@ -284,13 +284,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <section class="detail" id="lookAtTarget(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">
 <h3>lookAtTarget</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">lookAtTarget</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">lookAtTarget</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinateskeyframe" title="class in com.here.sdk.animation">GeoCoordinatesKeyframe</a>&gt; keyframes,
  @NonNull
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  @NonNull
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
-                                           throws <span class="exceptions"><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
+                                           throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
 <div class="block"><p>Creates a map camera look-at target keyframe track. It enables animations over the
  geographical coordinates of the target point that the map camera is looking at.
  Altitude components of coordinates are ignored.</p></div>
@@ -307,7 +307,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <dt>Returns:</dt>
 <dd><p>A keyframe track over the map camera target coordinates.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
 </dl>
 </section>
 </li>
@@ -315,13 +315,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <section class="detail" id="lookAtOrientation(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">
 <h3>lookAtOrientation</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">lookAtOrientation</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">lookAtOrientation</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geoorientationkeyframe" title="class in com.here.sdk.animation">GeoOrientationKeyframe</a>&gt; keyframes,
  @NonNull
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  @NonNull
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
-                                                throws <span class="exceptions"><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
+                                                throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
 <div class="block"><p>Creates a map camera look-at orientation keyframe track. It enables animations over the
  orientation of the map camera target (bearing and tilt).</p></div>
 <dl class="notes">
@@ -337,7 +337,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <dt>Returns:</dt>
 <dd><p>A keyframe track over the map camera target orientation.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
 </dl>
 </section>
 </li>
@@ -345,13 +345,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <section class="detail" id="principalPoint(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">
 <h3>principalPoint</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">principalPoint</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">principalPoint</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-point2dkeyframe" title="class in com.here.sdk.animation">Point2DKeyframe</a>&gt; keyframes,
  @NonNull
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  @NonNull
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
-                                             throws <span class="exceptions"><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
+                                             throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
 <div class="block"><p>Creates a map camera principal point keyframe track. It enables animations on the pixel point
  where the map camera's target is placed in view coordinates. (0,0) is top left of the
  viewport, (viewport width, viewport height) is bottom right.</p></div>
@@ -370,7 +370,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <dt>Returns:</dt>
 <dd><p>A keyframe track over the principal point.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
 </dl>
 </section>
 </li>
@@ -378,13 +378,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <section class="detail" id="normalizedPrincipalPoint(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">
 <h3>normalizedPrincipalPoint</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">normalizedPrincipalPoint</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">normalizedPrincipalPoint</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-anchor2dkeyframe" title="class in com.here.sdk.animation">Anchor2DKeyframe</a>&gt; keyframes,
  @NonNull
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  @NonNull
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
-                                                       throws <span class="exceptions"><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
+                                                       throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
 <div class="block"><p>Creates a map camera principal point keyframe track. It enables animations on the point
  where the map camera's target is placed in normalized view coordinates. (0,0) is top left of
  the viewport, (1, 1) is bottom right.</p></div>
@@ -403,7 +403,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <dt>Returns:</dt>
 <dd><p>A keyframe track over the principal point.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
 </dl>
 </section>
 </li>
@@ -411,13 +411,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <section class="detail" id="fieldOfView(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">
 <h3>fieldOfView</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">fieldOfView</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a></span> <span class="element-name">fieldOfView</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-scalarkeyframe" title="class in com.here.sdk.animation">ScalarKeyframe</a>&gt; keyframes,
  @NonNull
  <a href="sdk-for-android-explore-easing" title="class in com.here.sdk.animation">Easing</a> easing,
  @NonNull
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
-                                          throws <span class="exceptions"><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
+                                          throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></span></div>
 <div class="block"><p>Creates a map camera field-of-view keyframe track. It enables animations over the angle of
  the field of view captured by the map camera in degrees. Values will be clamped to a range
  from 1 to 150.</p></div>
@@ -434,7 +434,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack"
 <dt>Returns:</dt>
 <dd><p>A keyframe track over the map camera field-of-view.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
+<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
 </dl>
 </section>
 </li>

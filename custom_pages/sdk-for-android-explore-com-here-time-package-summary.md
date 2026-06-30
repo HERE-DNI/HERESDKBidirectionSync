@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-time-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Represents duration in time (both positive and negative).</div>
 </div>

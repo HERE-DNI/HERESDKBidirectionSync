@@ -20,14 +20,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-locationindicator"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.LocationIndicator</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">LocationIndicator</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Graphical object to represent the location of the user on the map.
  It is either a green dot for pedestrian style or a triangular arrow for vehicle navigation style.
  This style can be changed by <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)"><code>setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)</code></a>
@@ -54,12 +54,12 @@ The location is made available to an instance of this class by calling <a href="
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The predefined styles for the location indicator which are pedestrian and navigation mode.</div>
 </div>
 <div class="col-first odd-row-color"><code>static enum </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Enum to identify different types of markers of the location indicator.</div>
 </div>
@@ -78,9 +78,9 @@ The location is made available to an instance of this class by calling <a href="
 <div class="col-last even-row-color">
 <div class="block">Creates an instance of LocationIndicator.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#%3Cinit%3E(com.here.sdk.mapview.MapViewBase)">LocationIndicator</a><wbr/>(<a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#%3Cinit%3E(com.here.sdk.mapview.MapViewBase)">LocationIndicator</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
 <div class="col-last odd-row-color">
-<div class="block">Creates an instance of LocationIndicator and adds it to provided <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>.</div>
+<div class="block">Creates an instance of LocationIndicator and adds it to provided <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>.</div>
 </div>
 </div>
 </section>
@@ -99,24 +99,24 @@ The location is made available to an instance of this class by calling <a href="
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#disable()">disable</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">This function removes <a href="sdk-for-android-explore-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> from map view.</div>
+<div class="block">This function removes <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> from map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#enable(com.here.sdk.mapview.MapViewBase)">enable</a><wbr/>(<a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#enable(com.here.sdk.mapview.MapViewBase)">enable</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Enables <a href="sdk-for-android-explore-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> for provided <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>.</div>
+<div class="block">Enables <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> for provided <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#getHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)">getHaloColor</a><wbr/>(<a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#getHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)">getHaloColor</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Retrieves the color of the accuracy indicator halo for the requested IndicatorStyle.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#getLocationIndicatorStyle()">getLocationIndicatorStyle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns visual style of location indicator.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#getMaterialReflectivity()">getMaterialReflectivity</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Retrieves the material reflectivity applied to all markers of location indicator.</div>
@@ -148,35 +148,35 @@ The location is made available to an instance of this class by calling <a href="
 <div class="block">Sets whether the active or inactive version of location indicator is to be shown.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#setHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle,com.here.sdk.core.Color)">setHaloColor</a><wbr/>(<a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#setHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle,com.here.sdk.core.Color)">setHaloColor</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style,
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the color of the accuracy indicator halo for a given style.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)">setLocationIndicatorStyle</a><wbr/>(<a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)">setLocationIndicatorStyle</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the visual style of location indicator.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType)">setMarker3dModel</a><wbr/>(<a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType)">setMarker3dModel</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
  double scale,
- <a href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> type)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> type)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment">Will be removed in v4.27.0.</div>
 </div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType,com.here.sdk.mapview.RenderSize.Unit)">setMarker3dModel</a><wbr/>(<a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType,com.here.sdk.mapview.RenderSize.Unit)">setMarker3dModel</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
  double scale,
- <a href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> type,
- <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> renderSizeUnit)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> type,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> renderSizeUnit)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Sets the <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> asset to be displayed as location indicator for a specified type.</div>
+<div class="block">Sets the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> asset to be displayed as location indicator for a specified type.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#setMaterialReflectivity(com.here.sdk.mapview.MaterialReflectivity)">setMaterialReflectivity</a><wbr/>(<a href="sdk-for-android-explore-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#setMaterialReflectivity(com.here.sdk.mapview.MaterialReflectivity)">setMaterialReflectivity</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the material reflectivity properties for all markers of location indicator including its halo.</div>
 </div>
@@ -192,7 +192,7 @@ The location is made available to an instance of this class by calling <a href="
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator#updateLocation(com.here.sdk.core.Location,com.here.sdk.mapview.MapCameraUpdate)">updateLocation</a><wbr/>(<a href="sdk-for-android-explore-location" title="class in com.here.sdk.core">Location</a> location,
- <a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Updates the indicator to a new location and applies a camera update at the same time.</div>
 </div>
@@ -224,11 +224,11 @@ The location is made available to an instance of this class by calling <a href="
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapViewBase)">
 <h3>LocationIndicator</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">LocationIndicator</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span></div>
-<div class="block"><p>Creates an instance of LocationIndicator and adds it to provided <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>.</p></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span></div>
+<div class="block"><p>Creates an instance of LocationIndicator and adds it to provided <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>mapView</code> - <p>The <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a> instance.</p></dd>
+<dd><code>mapView</code> - <p>The <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a> instance.</p></dd>
 </dl>
 </section>
 </li>
@@ -244,14 +244,14 @@ The location is made available to an instance of this class by calling <a href="
 <section class="detail" id="enable(com.here.sdk.mapview.MapViewBase)">
 <h3>enable</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">enable</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span></div>
-<div class="block"><p>Enables <a href="sdk-for-android-explore-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> for provided <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>.
- If <a href="sdk-for-android-explore-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> is already enabled (added to map view) for passed map view, this function does nothing.
- If <a href="sdk-for-android-explore-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> is added to different <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>, this function removes first <a href="sdk-for-android-explore-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span></div>
+<div class="block"><p>Enables <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> for provided <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>.
+ If <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> is already enabled (added to map view) for passed map view, this function does nothing.
+ If <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> is added to different <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a>, this function removes first <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a>
  from previous map view before adding to new one.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>mapView</code> - <p>The <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a> instance.</p></dd>
+<dd><code>mapView</code> - <p>The <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a> instance.</p></dd>
 </dl>
 </section>
 </li>
@@ -259,8 +259,8 @@ The location is made available to an instance of this class by calling <a href="
 <section class="detail" id="disable()">
 <h3>disable</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">disable</span>()</div>
-<div class="block"><p>This function removes <a href="sdk-for-android-explore-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> from map view.
- If <a href="sdk-for-android-explore-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> was not added to any map view yet, this function does nothing.</p></div>
+<div class="block"><p>This function removes <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> from map view.
+ If <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> was not added to any map view yet, this function does nothing.</p></div>
 </section>
 </li>
 <li>
@@ -284,7 +284,7 @@ The location is made available to an instance of this class by calling <a href="
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">updateLocation</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-location" title="class in com.here.sdk.core">Location</a> location,
  @NonNull
- <a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</span></div>
 <div class="block"><p>Updates the indicator to a new location and applies a camera update at the same time.
  Does nothing if the indicator instance is not enabled.
  If accuracy visualized is set to <code>true</code> the field <a href="sdk-for-android-explore-location#horizontalAccuracyInMeters"><code>Location.horizontalAccuracyInMeters</code></a>
@@ -302,12 +302,12 @@ The location is made available to an instance of this class by calling <a href="
 <h3>setMarker3dModel</h3>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 </span><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMarker3dModel</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
  double scale,
  @NonNull
- <a href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> type)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> type)</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
-<div class="deprecation-comment"><p>Will be removed in v4.27.0. Please use the overloaded method with <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> instead.</p></div>
+<div class="deprecation-comment"><p>Will be removed in v4.27.0. Please use the overloaded method with <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> instead.</p></div>
 </div>
 <div class="block"><p>Sets the MapMarker3DModel asset to be displayed as location indicator for a specified type.
  The 3D model should be oriented with y axis up and thus standing on the x/z plane where the
@@ -321,7 +321,7 @@ The location is made available to an instance of this class by calling <a href="
 <dd><code>scale</code> - <p>The scaling which will be applied to the marker model. As the size of the
      location marker should be aligned on devices with different resolutions the
      scale factor is applied relative to the ppi value and thus differs from the
-     scale which is passed to <a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview"><code>MapMarker3D</code></a> objects.
+     scale which is passed to <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview"><code>MapMarker3D</code></a> objects.
      Meter is used for the unit of the map marker 3d model coordinate system.
      For historical reason, the scale factor is internally devided by 6.
      To display a unit qube of 1x1x1 meter as is, please use a scale value of 6.0.</p></dd>
@@ -333,35 +333,35 @@ The location is made available to an instance of this class by calling <a href="
 <section class="detail" id="setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType,com.here.sdk.mapview.RenderSize.Unit)">
 <h3>setMarker3dModel</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMarker3dModel</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a> model,
  double scale,
  @NonNull
- <a href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> type,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a> type,
  @NonNull
- <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> renderSizeUnit)</span></div>
-<div class="block"><p>Sets the <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> asset to be displayed as location indicator for a specified type.
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a> renderSizeUnit)</span></div>
+<div class="block"><p>Sets the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> asset to be displayed as location indicator for a specified type.
  The 3D model should be oriented with y axis up and thus standing on the x/z plane where the
  z axis is the depth. The direction in which the location indicator is pointing is the
- positive z axis. Please note that only <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> created from <code>obj</code> files are
+ positive z axis. Please note that only <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> created from <code>obj</code> files are
  supported. Models created from Mesh will be ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>model</code> - <p>The <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> object to be displayed for the specified type. Only models
+<dd><code>model</code> - <p>The <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> object to be displayed for the specified type. Only models
      created from <code>obj</code> files are supported. Those created from mesh will be ignored.</p></dd>
 <dd><code>scale</code> - <p>A scale factor applied to the marker model.</p></dd>
 <dd><code>type</code> - <p>The type of location marker for which the marker 3d model should be replaced.</p></dd>
-<dd><code>renderSizeUnit</code> - <p>The <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> specifying how the vertex coordinates of the
+<dd><code>renderSizeUnit</code> - <p>The <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> specifying how the vertex coordinates of the
      3D model are being interpreted. It specifies whether the 3D model is placed in world or
      screen coordinate space.
-     <a href="sdk-for-android-explore-rendersize.unit#METERS"><code>RenderSize.Unit.METERS</code></a> will make the 3D model use world
+     <a href="sdk-for-android-explore-rendersize-unit#METERS"><code>RenderSize.Unit.METERS</code></a> will make the 3D model use world
      coordinate space, meaning that it will change size together with the map
      when it is zoomed in and out. A simple 10 by 10 by 10 (in model space) cube
      will have a size of 10 by 10 by 10 meters in world space.
-     <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> makes the 3D model use screen coordinate space,
+     <a href="sdk-for-android-explore-rendersize-unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> makes the 3D model use screen coordinate space,
      meaning that it will have constant size on the screen regardless
      of how the map zoom changes. A simple 10 by 10 (in model space) rectangle
      will have a size of 10 by 10 pixels on the screen.
-     <a href="sdk-for-android-explore-rendersize.unit#DENSITY_INDEPENDENT_PIXELS"><code>RenderSize.Unit.DENSITY_INDEPENDENT_PIXELS</code></a> is similar to pixels,
+     <a href="sdk-for-android-explore-rendersize-unit#DENSITY_INDEPENDENT_PIXELS"><code>RenderSize.Unit.DENSITY_INDEPENDENT_PIXELS</code></a> is similar to pixels,
      but the resulting size will take into account the pixel density of the
      display, meaning that physical size on the screen will be approximately
      the same regardless of the size or resolution of the display.</p></dd>
@@ -372,7 +372,7 @@ The location is made available to an instance of this class by calling <a href="
 <section class="detail" id="setHaloColor(com.here.sdk.mapview.LocationIndicator.IndicatorStyle,com.here.sdk.core.Color)">
 <h3>setHaloColor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setHaloColor</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style,
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style,
  @NonNull
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</span></div>
 <div class="block"><p>Sets the color of the accuracy indicator halo for a given style.</p></div>
@@ -390,7 +390,7 @@ The location is made available to an instance of this class by calling <a href="
 <h3>getHaloColor</h3>
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getHaloColor</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> style)</span></div>
 <div class="block"><p>Retrieves the color of the accuracy indicator halo for the requested IndicatorStyle.
  The default color is a translucent turquoise (rgba(0, 199, 194, 76)) for all IndicatorStyle settings.</p></div>
 <dl class="notes">
@@ -457,9 +457,9 @@ The location is made available to an instance of this class by calling <a href="
 <section class="detail" id="getLocationIndicatorStyle()">
 <h3>getLocationIndicatorStyle</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></span> <span class="element-name">getLocationIndicatorStyle</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></span> <span class="element-name">getLocationIndicatorStyle</span>()</div>
 <div class="block"><p>Returns visual style of location indicator.
- By default, it is set to <a href="sdk-for-android-explore-locationindicator.indicatorstyle#NAVIGATION"><code>LocationIndicator.IndicatorStyle.NAVIGATION</code></a>.</p></div>
+ By default, it is set to <a href="sdk-for-android-explore-locationindicator-indicatorstyle#NAVIGATION"><code>LocationIndicator.IndicatorStyle.NAVIGATION</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The visual style of location indicator.</p></dd>
@@ -470,9 +470,9 @@ The location is made available to an instance of this class by calling <a href="
 <section class="detail" id="setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)">
 <h3>setLocationIndicatorStyle</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setLocationIndicatorStyle</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> value)</span></div>
 <div class="block"><p>Sets the visual style of location indicator.
- By default, it is set to <a href="sdk-for-android-explore-locationindicator.indicatorstyle#NAVIGATION"><code>LocationIndicator.IndicatorStyle.NAVIGATION</code></a>.</p></div>
+ By default, it is set to <a href="sdk-for-android-explore-locationindicator-indicatorstyle#NAVIGATION"><code>LocationIndicator.IndicatorStyle.NAVIGATION</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The visual style of location indicator.</p></dd>
@@ -535,7 +535,7 @@ The location is made available to an instance of this class by calling <a href="
 <section class="detail" id="getMaterialReflectivity()">
 <h3>getMaterialReflectivity</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a></span> <span class="element-name">getMaterialReflectivity</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a></span> <span class="element-name">getMaterialReflectivity</span>()</div>
 <div class="block"><p>Retrieves the material reflectivity applied to all markers of location indicator.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.
@@ -554,7 +554,7 @@ The location is made available to an instance of this class by calling <a href="
 <section class="detail" id="setMaterialReflectivity(com.here.sdk.mapview.MaterialReflectivity)">
 <h3>setMaterialReflectivity</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMaterialReflectivity</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-explore-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a> value)</span></div>
 <div class="block"><p>Sets the material reflectivity properties for all markers of location indicator including its halo.
  This value affects also any custom markers set with <code>setMarker3dModel</code>.
  Enables per‑pixel lighting for all internal markers (navigation, pedestrian,

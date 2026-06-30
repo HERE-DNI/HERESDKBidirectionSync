@@ -42,12 +42,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tolloptions"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-routing-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Supported options of emission type</div>
 </div>
 <div class="col-first odd-row-color"><code>static enum </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-tolloptions.vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-routing-tolloptions-vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Supported options of vehicle category for toll calculation.</div>
 </div>
@@ -68,7 +68,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tolloptions"
 <div class="col-last even-row-color">
 <div class="block">Defines the CO2 class of the vehicle as defined by the toll operator.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-tolloptions#emissionType">emissionType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines the emission type as defined by the toll operator for toll calculation based on vehicle emissions class.</div>
@@ -78,7 +78,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tolloptions"
 <div class="col-last even-row-color">
 <div class="block">Specifies the toll collection systems for which the user has valid transponders.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-tolloptions.vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions-vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-tolloptions#vehicleCategory">vehicleCategory</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines special vehicle category for toll calculation.</div>
@@ -148,7 +148,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tolloptions"
 <section class="detail" id="vehicleCategory">
 <h3>vehicleCategory</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-tolloptions.vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></span> <span class="element-name">vehicleCategory</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions-vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></span> <span class="element-name">vehicleCategory</span></div>
 <div class="block"><p>Defines special vehicle category for toll calculation. Usual types like car or truck
  are determined from transport mode.</p></div>
 </section>
@@ -157,7 +157,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tolloptions"
 <section class="detail" id="emissionType">
 <h3>emissionType</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></span> <span class="element-name">emissionType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></span> <span class="element-name">emissionType</span></div>
 <div class="block"><p>Defines the emission type as defined by the toll operator for toll calculation based on vehicle emissions class.
  The emission type is based on the European emission standards (Euro 1 to Euro 6, and Euro EEV).</p></div>
 </section>

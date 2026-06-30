@@ -48,7 +48,7 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-catalogconfiguration" title="class in com.here.sdk.core.engine">CatalogConfiguration</a></li>
 <li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-catalogidentifier" title="class in com.here.sdk.core.engine">CatalogIdentifier</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a></li>
-<li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-categoryquery.area" title="class in com.here.sdk.search">CategoryQuery.Area</a></li>
+<li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-categoryquery-area" title="class in com.here.sdk.search">CategoryQuery.Area</a></li>
 <li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-certificatesettings" title="class in com.here.sdk.core.engine">CertificateSettings</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-chargingactiondetails" title="class in com.here.sdk.routing">ChargingActionDetails</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-chargingconnectorattributes" title="class in com.here.sdk.routing">ChargingConnectorAttributes</a></li>
@@ -123,8 +123,8 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.engine.<a class="type-name-link" href="sdk-for-android-explore-initprovider" title="class in com.here.sdk.engine">InitProvider</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-integerrange" title="class in com.here.sdk.core">IntegerRange</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-isolineoptions" title="class in com.here.sdk.routing">IsolineOptions</a></li>
-<li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-isolineoptions.calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a></li>
+<li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-isolineoptions-calculation" title="class in com.here.sdk.routing">IsolineOptions.Calculation</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-landlinephone" title="class in com.here.sdk.search">LandlinePhone</a></li>
 <li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a></li>
@@ -134,24 +134,24 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-location" title="class in com.here.sdk.core">Location</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-locationdetails" title="class in com.here.sdk.search">LocationDetails</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-locationtime" title="class in com.here.sdk.core">LocationTime</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcamera-farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementoptions" title="class in com.here.sdk.mapview">MapContext.MemoryManagementOptions</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapfeaturemodes" title="class in com.here.sdk.mapview">MapFeatureModes</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview">MapFeatures</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapimagefactory" title="class in com.here.sdk.mapview">MapImageFactory</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorDetails</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-maplayervisibilityrange" title="class in com.here.sdk.mapview">MapLayerVisibilityRange</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarkercluster.counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarkercluster.grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarkercluster.imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarkercluster-grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-mapmatchedcoordinates" title="class in com.here.sdk.routing">MapMatchedCoordinates</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscenelights.direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscenelights-direction" title="class in com.here.sdk.mapview">MapSceneLights.Direction</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordetails" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapsurface" title="class in com.here.sdk.mapview">MapSurface</a> (implements com.here.sdk.mapview.<a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a>)</li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a></li>
@@ -207,12 +207,12 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapitemrepresentation" title="class in com.here.sdk.mapview">MapItemRepresentation</a>
 <ul>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a>
 <ul>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline.dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline.solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline-dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline-solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></li>
 </ul>
 </li>
 </ul>
@@ -223,7 +223,7 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview">MapLayerPriority</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-maplayerprioritybuilder" title="class in com.here.sdk.mapview">MapLayerPriorityBuilder</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker-textstyle" title="class in com.here.sdk.mapview">MapMarker.TextStyle</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview">MapMarker3DModel</a></li>
 <li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a></li>
@@ -234,7 +234,7 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a></li>
 <li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview">MapScene</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscene-mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscenelights" title="class in com.here.sdk.mapview">MapSceneLights</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptions" title="class in com.here.sdk.mapview">MapSceneLoadOptions</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></li>
@@ -247,7 +247,7 @@ slug: "sdk-for-android-explore-overview-tree"
 </li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-metadata" title="class in com.here.sdk.core">Metadata</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-pickmapcontentresult" title="class in com.here.sdk.mapview">PickMapContentResult</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-pickmapcontentresult.trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a> (implements com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a>)</li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-pickmapcontentresult-trafficincidentresult" title="class in com.here.sdk.mapview">PickMapContentResult.TrafficIncidentResult</a> (implements com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a>)</li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-pickmapitemsresult" title="class in com.here.sdk.mapview">PickMapItemsResult</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-place" title="class in com.here.sdk.search">Place</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-placecategory" title="class in com.here.sdk.search">PlaceCategory</a></li>
@@ -289,20 +289,20 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-trafficincidentonroute" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a> (implements com.here.sdk.traffic.<a href="sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a>)</li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-transitroutingengine" title="class in com.here.sdk.routing">TransitRoutingEngine</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification.bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification.busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification.carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification.pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification.privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification.scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification.taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification.truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification.busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification.carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification.privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification.scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification.taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification.truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></li>
 </ul>
 </li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-networkendpoint" title="class in com.here.sdk.core">NetworkEndpoint</a></li>
@@ -317,7 +317,7 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-pickedplace" title="class in com.here.sdk.core">PickedPlace</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-placechain" title="class in com.here.sdk.search">PlaceChain</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-placefilter" title="class in com.here.sdk.search">PlaceFilter</a></li>
-<li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-placefilter.ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></li>
+<li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-placefilter-ev" title="class in com.here.sdk.search">PlaceFilter.Ev</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-placefoodtype" title="class in com.here.sdk.search">PlaceFoodType</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search">PlaceIdQuery</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a></li>
@@ -325,15 +325,15 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-point3d" title="class in com.here.sdk.core">Point3D</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-poipaymentdetails" title="class in com.here.sdk.search">POIPaymentDetails</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-poipaymentmethod" title="class in com.here.sdk.search">POIPaymentMethod</a></li>
-<li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></li>
+<li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-postaction" title="class in com.here.sdk.routing">PostAction</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-preaction" title="class in com.here.sdk.routing">PreAction</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-privatebusoptions" title="class in com.here.sdk.routing">PrivateBusOptions</a></li>
 <li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></li>
-<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-proxysettings.credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></li>
+<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-proxysettings-credentials" title="class in com.here.sdk.core.engine">ProxySettings.Credentials</a></li>
 <li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></li>
 <li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceconfigurationupdate" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfigurationUpdate</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing">RefreshRouteParameters</a></li>
@@ -365,51 +365,51 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-signpostlabel" title="class in com.here.sdk.routing">SignpostLabel</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-size2d" title="class in com.here.sdk.core">Size2D</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-structuredquery" title="class in com.here.sdk.search">StructuredQuery</a></li>
-<li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-structuredquery.addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></li>
+<li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-structuredquery-addresselements" title="class in com.here.sdk.search">StructuredQuery.AddressElements</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-supplierreference" title="class in com.here.sdk.search">SupplierReference</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-taxioptions" title="class in com.here.sdk.routing">TaxiOptions</a></li>
 <li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-textquery" title="class in com.here.sdk.search">TextQuery</a></li>
-<li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search">TextQuery.Area</a></li>
+<li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-textquery-area" title="class in com.here.sdk.search">TextQuery.Area</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></li>
 <li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html" title="class or interface in java.lang">Throwable</a> (implements java.io.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
 <ul>
 <li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a>
 <ul>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-authenticationexception" title="class in com.here.sdk.core">AuthenticationException</a></li>
-<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-easing.instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a></li>
+<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-easing-instantiationexception" title="class in com.here.sdk.animation">Easing.InstantiationException</a></li>
 <li class="circle">com.here.sdk.core.errors.<a class="type-name-link" href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationexception" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a></li>
-<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-logcontrol.invalidpathexception" title="class in com.here.sdk.core.engine">LogControl.InvalidPathException</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationexception" title="class in com.here.sdk.mapview">MapCameraAnimation.InstantiationException</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcameraupdate.instantiationexception" title="class in com.here.sdk.mapview">MapCameraUpdate.InstantiationException</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></li>
-<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker.textstyle.instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker3dmodel.instantiationexception" title="class in com.here.sdk.mapview">MapMarker3DModel.InstantiationException</a></li>
-<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mapmarkeranimation.instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></li>
-<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mappolylineanimation.instantiationexception" title="class in com.here.sdk.animation">MapPolylineAnimation.InstantiationException</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationexception" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationException</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationexception" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a></li>
+<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-logcontrol-invalidpathexception" title="class in com.here.sdk.core.engine">LogControl.InvalidPathException</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationexception" title="class in com.here.sdk.mapview">MapCameraAnimation.InstantiationException</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationexception" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationException</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcameraupdate-instantiationexception" title="class in com.here.sdk.mapview">MapCameraUpdate.InstantiationException</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperiodexception" title="class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodException</a></li>
+<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mapitemkeyframetrack-instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationexception" title="class in com.here.sdk.mapview">MapLayerBuilder.InstantiationException</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker-textstyle-instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker3dmodel-instantiationexception" title="class in com.here.sdk.mapview">MapMarker3DModel.InstantiationException</a></li>
+<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mapmarkeranimation-instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></li>
+<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mappolylineanimation-instantiationexception" title="class in com.here.sdk.animation">MapPolylineAnimation.InstantiationException</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationexception" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationException</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-placeserializationexception" title="class in com.here.sdk.search">PlaceSerializationException</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup-instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-toll" title="class in com.here.sdk.routing">Toll</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-tollfare" title="class in com.here.sdk.routing">TollFare</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-tollfarepass" title="class in com.here.sdk.routing">TollFarePass</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></li>
 <li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-trafficflowqueryoptions" title="class in com.here.sdk.traffic">TrafficFlowQueryOptions</a></li>
-<li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></li>
+<li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a></li>
 <li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-trafficincidentlookupoptions" title="class in com.here.sdk.traffic">TrafficIncidentLookupOptions</a></li>
 <li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic">TrafficIncidentsQueryOptions</a></li>
 <li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-trafficlocation" title="class in com.here.sdk.traffic">TrafficLocation</a></li>
@@ -423,7 +423,7 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-transitstop" title="class in com.here.sdk.routing">TransitStop</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-transittransport" title="class in com.here.sdk.routing">TransitTransport</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-transitwaypoint" title="class in com.here.sdk.routing">TransitWaypoint</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup.errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup-errordetails" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorDetails</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-transportprofile" title="class in com.here.sdk.core">TransportProfile</a></li>
 <li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-truckamenities" title="class in com.here.sdk.search">TruckAmenities</a></li>
@@ -431,7 +431,7 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-truckoptions" title="class in com.here.sdk.routing">TruckOptions</a></li>
 <li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-truckspecifications" title="class in com.here.sdk.transport">TruckSpecifications</a></li>
 <li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a></li>
-<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></li>
+<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-usagestats-networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></li>
 <li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehicleprofile" title="class in com.here.sdk.transport">VehicleProfile</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-vehiclerestrictionmaxweight" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></li>
 <li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></li>
@@ -449,7 +449,7 @@ slug: "sdk-for-android-explore-overview-tree"
 </ul>
 </li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a></li>
-<li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-violatedrestriction.details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></li>
+<li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-violatedrestriction-details" title="class in com.here.sdk.routing">ViolatedRestriction.Details</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-webdetails" title="class in com.here.sdk.search">WebDetails</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-webeditorial" title="class in com.here.sdk.search">WebEditorial</a></li>
@@ -467,7 +467,7 @@ slug: "sdk-for-android-explore-overview-tree"
 <ul>
 <li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-authenticationcallback" title="interface in com.here.sdk.core">AuthenticationCallback</a></li>
-<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-authenticationmode.accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a></li>
+<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-authenticationmode-accesstokenprovider" title="interface in com.here.sdk.core.engine">AuthenticationMode.AccessTokenProvider</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-calculateisolinecallback" title="interface in com.here.sdk.routing">CalculateIsolineCallback</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-calculatetrafficonroutecallback" title="interface in com.here.sdk.routing">CalculateTrafficOnRouteCallback</a></li>
@@ -477,24 +477,24 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.gestures.<a class="type-name-link" href="sdk-for-android-explore-doubletaplistener" title="interface in com.here.sdk.gestures">DoubleTapListener</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-evsearchinterface" title="interface in com.here.sdk.search">EVSearchInterface</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-iconprovider.iconcallback" title="interface in com.here.sdk.mapview">IconProvider.IconCallback</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-linedatasource.linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-iconprovider-iconcallback" title="interface in com.here.sdk.mapview">IconProvider.IconCallback</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-linetilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></li>
 <li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-logappender" title="interface in com.here.sdk.core.engine">LogAppender</a></li>
 <li class="circle">com.here.sdk.gestures.<a class="type-name-link" href="sdk-for-android-explore-longpresslistener" title="interface in com.here.sdk.gestures">LongPressListener</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcamera.drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcamera-drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext.setmemorymanagementoptionscallback" title="interface in com.here.sdk.mapview">MapContext.SetMemoryManagementOptionsCallback</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback" title="interface in com.here.sdk.mapview">MapContext.SetMemoryManagementOptionsCallback</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscenelights.attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapsurface.renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapview.viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscene-loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscenelights-attributesettingcallback" title="interface in com.here.sdk.mapview">MapSceneLights.AttributeSettingCallback</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapsurface-renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapview-onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapview-takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapview-viewpin" title="interface in com.here.sdk.mapview">MapView.ViewPin</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapviewbase-mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a></li>
 <li class="circle">com.here.sdk.core.threading.<a class="type-name-link" href="sdk-for-android-explore-ontaskcompleted" title="interface in com.here.sdk.core.threading">OnTaskCompleted</a></li>
 <li class="circle">com.here.sdk.gestures.<a class="type-name-link" href="sdk-for-android-explore-panlistener" title="interface in com.here.sdk.gestures">PanListener</a></li>
@@ -502,13 +502,13 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-placeidsearchcallbackextended" title="interface in com.here.sdk.search">PlaceIdSearchCallbackExtended</a></li>
 <li class="circle">com.here.sdk.core.threading.<a class="type-name-link" href="sdk-for-android-explore-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-pointdatasource.pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-pointtilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-polygontilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-pointdatasource-pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-pointtilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-polygondatasource-polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-polygontilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-polylinesimplificationcallback" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a></li>
 <li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-rastertilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-rastertilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-routinginterface" title="interface in com.here.sdk.routing">RoutingInterface</a></li>
 <li class="circle">com.here.sdk.core.threading.<a class="type-name-link" href="sdk-for-android-explore-runnable" title="interface in com.here.sdk.core.threading">Runnable</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a></li>
@@ -526,8 +526,8 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a></li>
 </ul>
 </li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></li>
 <li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></li>
 <li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></li>
 <li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a></li>
@@ -557,10 +557,10 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-currenttype" title="enum class in com.here.sdk.core">CurrentType</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></li>
+<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-dayofweek" title="enum class in com.here.sdk.search">DayOfWeek</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></li>
-<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-easing.instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-easing-instantiationerrorcode" title="enum class in com.here.sdk.animation">Easing.InstantiationErrorCode</a></li>
 <li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-easingfunction" title="enum class in com.here.sdk.animation">EasingFunction</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-energysourcetype" title="enum class in com.here.sdk.search">EnergySourceType</a></li>
 <li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-enginebaseurl" title="enum class in com.here.sdk.core.engine">EngineBaseURL</a></li>
@@ -597,46 +597,46 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.core.errors.<a class="type-name-link" href="sdk-for-android-explore-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory-instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></li>
 <li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></li>
 <li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></li>
-<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></li>
+<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-layerconfiguration-feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-linecap" title="enum class in com.here.sdk.mapview">LineCap</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-localizedtextpreference" title="enum class in com.here.sdk.routing">LocalizedTextPreference</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-locationindicator.markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-locationindicator-indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-locationindicator-markertype" title="enum class in com.here.sdk.mapview">LocationIndicator.MarkerType</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-locationsource" title="enum class in com.here.sdk.core">LocationSource</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-locationtechnology" title="enum class in com.here.sdk.core">LocationTechnology</a></li>
 <li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcameraanimation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcameraupdate.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcameraanimation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraAnimation.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcamerakeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraKeyframeTrack.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcameraupdate-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapCameraUpdate.InstantiationErrorCode</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontentsettings.trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontentsettings-trafficrefreshperioderrorcode" title="enum class in com.here.sdk.mapview">MapContentSettings.TrafficRefreshPeriodErrorCode</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontenttype" title="enum class in com.here.sdk.mapview">MapContentType</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext.freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext.memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext.resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext-freeresourceseverity" title="enum class in com.here.sdk.mapview">MapContext.FreeResourceSeverity</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext-memorymanagementstrategy" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementStrategy</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapcontext-resourcetype" title="enum class in com.here.sdk.mapview">MapContext.ResourceType</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-maperror" title="enum class in com.here.sdk.mapview">MapError</a></li>
-<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mapitemkeyframetrack.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker.textstyle.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker3dmodel.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a></li>
-<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mapmarkeranimation.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline.representation.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a></li>
-<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mappolylineanimation.instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mapitemkeyframetrack-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-maplayerbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapLayerBuilder.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker-textstyle-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker-textstyle-placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmarker3dmodel-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMarker3DModel.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mapmarkeranimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmeasure-kind" title="enum class in com.here.sdk.mapview">MapMeasure.Kind</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapmeasuredependentrendersize-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mappolyline-representation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.animation.<a class="type-name-link" href="sdk-for-android-explore-mappolylineanimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapPolylineAnimation.InstantiationErrorCode</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapprojection" title="enum class in com.here.sdk.mapview">MapProjection</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-maprendermode" title="enum class in com.here.sdk.mapview">MapRenderMode</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscene.mappickfilter.contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscenelights.attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscenelights.category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscene-mappickfilter-contenttype" title="enum class in com.here.sdk.mapview">MapScene.MapPickFilter.ContentType</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscenelights-attributesettingerror" title="enum class in com.here.sdk.mapview">MapSceneLights.AttributeSettingError</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscenelights-category" title="enum class in com.here.sdk.mapview">MapSceneLights.Category</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-mapscheme" title="enum class in com.here.sdk.mapview">MapScheme</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-matchsideofstreet" title="enum class in com.here.sdk.routing">MatchSideOfStreet</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-metadatatype" title="enum class in com.here.sdk.core">MetadataType</a></li>
@@ -651,9 +651,9 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-postactiontype" title="enum class in com.here.sdk.routing">PostActionType</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-powertype" title="enum class in com.here.sdk.core">PowerType</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-preactiontype" title="enum class in com.here.sdk.routing">PreActionType</a></li>
-<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-proxysettings.proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></li>
+<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-proxysettings-proxytype" title="enum class in com.here.sdk.core.engine">ProxySettings.ProxyType</a></li>
 <li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-rendersize-unit" title="enum class in com.here.sdk.mapview">RenderSize.Unit</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-routelabeltype" title="enum class in com.here.sdk.routing">RouteLabelType</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a></li>
@@ -661,21 +661,21 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-routerailwaycrossingtype" title="enum class in com.here.sdk.routing">RouteRailwayCrossingType</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-routetype" title="enum class in com.here.sdk.core">RouteType</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a></li>
-<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-sdknativeengine.purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></li>
-<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-sdkoptions.actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></li>
+<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-sdknativeengine-purgememorystrategy" title="enum class in com.here.sdk.core.engine">SDKNativeEngine.PurgeMemoryStrategy</a></li>
+<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-sdkoptions-actiononcachelock" title="enum class in com.here.sdk.core.engine">SDKOptions.ActionOnCacheLock</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-sideofdestination" title="enum class in com.here.sdk.routing">SideOfDestination</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></li>
-<li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-structuredquery.resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></li>
+<li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-structuredquery-resulttype" title="enum class in com.here.sdk.search">StructuredQuery.ResultType</a></li>
 <li class="circle">com.here.sdk.search.<a class="type-name-link" href="sdk-for-android-explore-suggestiontype" title="enum class in com.here.sdk.search">SuggestionType</a></li>
 <li class="circle">com.here.sdk.core.threading.<a class="type-name-link" href="sdk-for-android-explore-taskoutcome" title="enum class in com.here.sdk.core.threading">TaskOutcome</a></li>
 <li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></li>
-<li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-tolloptions.emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></li>
-<li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-tolloptions.vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></li>
-<li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></li>
+<li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-tolloptions-emissiontype" title="enum class in com.here.sdk.routing">TollOptions.EmissionType</a></li>
+<li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-tolloptions-vehiclecategory" title="enum class in com.here.sdk.routing">TollOptions.VehicleCategory</a></li>
+<li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></li>
 <li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a></li>
 <li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a></li>
@@ -685,7 +685,7 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-transitmodefilter" title="enum class in com.here.sdk.routing">TransitModeFilter</a></li>
-<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup.errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></li>
+<li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-translucentmaplayergroup-errorcode" title="enum class in com.here.sdk.mapview">TranslucentMapLayerGroup.ErrorCode</a></li>
 <li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></li>
 <li class="circle">com.here.sdk.traffic.<a class="type-name-link" href="sdk-for-android-explore-traversability" title="enum class in com.here.sdk.traffic">Traversability</a></li>
@@ -696,7 +696,7 @@ slug: "sdk-for-android-explore-overview-tree"
 <li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></li>
 <li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></li>
 <li class="circle">com.here.sdk.core.<a class="type-name-link" href="sdk-for-android-explore-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></li>
-<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></li>
+<li class="circle">com.here.sdk.core.engine.<a class="type-name-link" href="sdk-for-android-explore-usagestats-feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></li>
 <li class="circle">com.here.sdk.routing.<a class="type-name-link" href="sdk-for-android-explore-vehiclerestrictionmaxweighttype" title="enum class in com.here.sdk.routing">VehicleRestrictionMaxWeightType</a></li>
 <li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehicletype" title="enum class in com.here.sdk.transport">VehicleType</a></li>
 <li class="circle">com.here.sdk.mapview.<a class="type-name-link" href="sdk-for-android-explore-visibilitystate" title="enum class in com.here.sdk.mapview">VisibilityState</a></li>

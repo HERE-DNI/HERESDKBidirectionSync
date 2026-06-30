@@ -20,7 +20,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-traffic
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.PickMapContentResult.TrafficIncidentResult</div>
 </div>
 </div>
@@ -31,11 +31,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult-traffic
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-pickmapcontentresult" title="class in com.here.sdk.mapview">PickMapContentResult</a></dd>
+<dd><a href="sdk-for-android-explore-com-here-sdk-mapview-pickmapcontentresult" title="class in com.here.sdk.mapview">PickMapContentResult</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">PickMapContentResult.TrafficIncidentResult</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a>
 implements <a href="sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></span></div>
 <div class="block"><p>Carries the result of picking a Carto traffic incident object.
  Description of incident is currently not present in our map data, so

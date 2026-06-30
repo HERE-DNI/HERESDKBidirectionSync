@@ -45,7 +45,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 <div class="col-last even-row-color">
 <div class="block">Index over <a href="sdk-for-android-explore-section#getGeometry()"><code>Section.getGeometry()</code></a> where the passthrough waypoint is located.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint#place">place</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The location information of passthrough waypoint.</div>
@@ -61,7 +61,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint#%3Cinit%3E(com.here.sdk.routing.RoutePlace)">PassThroughWaypoint</a><wbr/>(<a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> place)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint#%3Cinit%3E(com.here.sdk.routing.RoutePlace)">PassThroughWaypoint</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> place)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -106,7 +106,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 <section class="detail" id="place">
 <h3>place</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">place</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">place</span></div>
 <div class="block"><p>The location information of passthrough waypoint.</p></div>
 </section>
 </li>
@@ -130,7 +130,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-passthroughwaypoint"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.RoutePlace)">
 <h3>PassThroughWaypoint</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">PassThroughWaypoint</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> place)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-routing-routeplace" title="class in com.here.sdk.routing">RoutePlace</a> place)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

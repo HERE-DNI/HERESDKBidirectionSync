@@ -20,14 +20,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapPolyline</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapPolyline</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A visual representation of a line on the map.
  The geometry to be visualized is represented by an instance of <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a>.
  Altitude component of <code>GeoPolyline</code>'s vertices is ignored.</p></div>
@@ -44,29 +44,29 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mappolyline.dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashimagerepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashImageRepresentation</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents a dash pattern for the map polyline consisting of images rendered with certain gaps
  from each other.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mappolyline.dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentation" title="class in com.here.sdk.mapview">MapPolyline.DashRepresentation</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Represents a dash pattern for map polyline where the dash can be rendered as a colored
  line and the gap can be either empty or colored.</div>
 </div>
 <div class="col-first even-row-color"><code>static class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Base class to represent the visual appearance of a <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>.</div>
+<div class="block">Base class to represent the visual appearance of a <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mappolyline.solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidmulticolorrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidMultiColorRepresentation</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Representation allows map polyline to be colored in multiple specified color segments.</div>
 </div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mappolyline.solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation" title="class in com.here.sdk.mapview">MapPolyline.SolidRepresentation</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Representation for a solid line without outline.</div>
 </div>
@@ -82,7 +82,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#%3Cinit%3E(com.here.sdk.core.GeoPolyline,com.here.sdk.mapview.MapPolyline.Representation)">MapPolyline</a><wbr/>(<a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry,
- <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</code></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new <code>MapPolyline</code> instance with a specified visual representation.</div>
 </div>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the draw order of the polyline.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#getDrawOrderType()">getDrawOrderType</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the draw order type of the polyline.</div>
@@ -120,7 +120,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the geometry of the polyline.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#getMapContentCategoriesToBlock()">getMapContentCategoriesToBlock</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets list of map content categories this polyline should block.</div>
@@ -140,7 +140,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the progress color of the polyline, opaque white by default.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#getProgressGradientLength()">getProgressGradientLength</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the maximum gradient length between <code>MapPolyline.lineColor' and 'MapPolyline.progressColor</code> in zoom level dependent pixels.</div>
@@ -150,7 +150,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the progress outline color of the polyline, opaque white by default.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#getVisibilityRanges()">getVisibilityRanges</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the list of visibility ranges.</div>
@@ -161,7 +161,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="block">Sets the draw order of the polyline.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setDrawOrderType(com.here.sdk.mapview.DrawOrderType)">setDrawOrderType</a><wbr/>(<a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setDrawOrderType(com.here.sdk.mapview.DrawOrderType)">setDrawOrderType</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the draw order type of the polyline.</div>
 </div>
@@ -171,7 +171,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="block">Sets the geometry of the polyline.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setMapContentCategoriesToBlock(java.util.List)">setMapContentCategoriesToBlock</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>&gt; value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setMapContentCategoriesToBlock(java.util.List)">setMapContentCategoriesToBlock</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>&gt; value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets list of map content categories this polyline should block.</div>
 </div>
@@ -192,7 +192,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="block">Sets the progress color of the polyline.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setProgressGradientLength(com.here.sdk.mapview.MapMeasureDependentRenderSize)">setProgressGradientLength</a><wbr/>(<a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setProgressGradientLength(com.here.sdk.mapview.MapMeasureDependentRenderSize)">setProgressGradientLength</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the maximum gradient length between <code>MapPolyline.lineColor' and 'MapPolyline.progressColor</code> in zoom level dependent pixels.</div>
 </div>
@@ -202,12 +202,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="block">Sets the progress outline color of the polyline.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setRepresentation(com.here.sdk.mapview.MapPolyline.Representation)">setRepresentation</a><wbr/>(<a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setRepresentation(com.here.sdk.mapview.MapPolyline.Representation)">setRepresentation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Changes the appearance of the <code>MapPolyline</code> instance.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setVisibilityRanges(java.util.List)">setVisibilityRanges</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setVisibilityRanges(java.util.List)">setVisibilityRanges</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets visibility ranges for this map polyline.</div>
 </div>
@@ -240,7 +240,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapPolyline</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> geometry,
  @NonNull
- <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</span></div>
 <div class="block"><p>Creates a new <code>MapPolyline</code> instance with a specified visual representation.
  Altitude component of <code>GeoPolyline</code>'s vertices is ignored.
  After creating a <code>MapPolyline</code> with this representation, the deprecated <code>MapPolyline</code>
@@ -265,7 +265,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="setRepresentation(com.here.sdk.mapview.MapPolyline.Representation)">
 <h3>setRepresentation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRepresentation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</span></div>
 <div class="block"><p>Changes the appearance of the <code>MapPolyline</code> instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -388,7 +388,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="getDrawOrderType()">
 <h3>getDrawOrderType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></span> <span class="element-name">getDrawOrderType</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></span> <span class="element-name">getDrawOrderType</span>()</div>
 <div class="block"><p>Gets the draw order type of the polyline.
  The default value is <a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a>.</p></div>
 <dl class="notes">
@@ -401,7 +401,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="setDrawOrderType(com.here.sdk.mapview.DrawOrderType)">
 <h3>setDrawOrderType</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDrawOrderType</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a> value)</span></div>
 <div class="block"><p>Sets the draw order type of the polyline.
  For <a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a>, map polylines with outlines having
  the same draw order are drawn as a whole in the order of addition to a map scene. There
@@ -413,7 +413,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
  and then all mainlines are drawn on top of those polylines in an arbitrary order.
  <a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a> allows speeding up the rendering
  process and keeping high frame rates when many similar polylines (with same styling
- attributes and <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>) are present in a map scene.</p></div>
+ attributes and <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>) are present in a map scene.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The draw order type of the polyline.</p></dd>
@@ -424,7 +424,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="getVisibilityRanges()">
 <h3>getVisibilityRanges</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</span> <span class="element-name">getVisibilityRanges</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</span> <span class="element-name">getVisibilityRanges</span>()</div>
 <div class="block"><p>Gets the list of visibility ranges. The map polyline is visible only inside these map measure
  ranges. When empty (the default), the map polyline is visible without map measure restrictions.</p></div>
 <dl class="notes">
@@ -437,12 +437,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="setVisibilityRanges(java.util.List)">
 <h3>setVisibilityRanges</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</span></div>
 <div class="block"><p>Sets visibility ranges for this map polyline. A range is half open -
  [minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
  The map polyline is visible only inside these map measure ranges.
  When empty (the default), the map polyline is visible without map measure restrictions.
- Only <code>MapMeasureRange</code>(s) of <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> type are supported.
+ Only <code>MapMeasureRange</code>(s) of <a href="sdk-for-android-explore-mapmeasure-kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> type are supported.
  <code>MapMeasureRange</code>(s) of other unsupported types will be ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -531,7 +531,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="getProgressGradientLength()">
 <h3>getProgressGradientLength</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></span> <span class="element-name">getProgressGradientLength</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></span> <span class="element-name">getProgressGradientLength</span>()</div>
 <div class="block"><p>Gets the maximum gradient length between <code>MapPolyline.lineColor' and 'MapPolyline.progressColor</code> in zoom level dependent pixels.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -543,15 +543,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="setProgressGradientLength(com.here.sdk.mapview.MapMeasureDependentRenderSize)">
 <h3>setProgressGradientLength</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProgressGradientLength</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> value)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> value)</span></div>
 <div class="block"><p>Sets the maximum gradient length between <code>MapPolyline.lineColor' and 'MapPolyline.progressColor</code> in zoom level dependent pixels.
- To achieve a constant gradient length, use <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a>
+ To achieve a constant gradient length, use <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a>
  with a single value. To achieve a gradient length dependent on map zoom,
- use <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> with multiple values. The default value is a constant
+ use <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> with multiple values. The default value is a constant
  gradient length of zero pixels. The gradient is guaranteed to fit into polyline, i.e. the
  actual gradient can be shorter then <code>progressGradientLength</code>.
- For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
- For <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
+ For <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure-kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
+ For <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize-unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
  A parameter with unsupported values is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -563,7 +563,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="getMapContentCategoriesToBlock()">
 <h3>getMapContentCategoriesToBlock</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>&gt;</span> <span class="element-name">getMapContentCategoriesToBlock</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>&gt;</span> <span class="element-name">getMapContentCategoriesToBlock</span>()</div>
 <div class="block"><p>Gets list of map content categories this polyline should block.
  Default value is an empty list meaning none of the map categories will be blocked.</p></div>
 <dl class="notes">
@@ -576,7 +576,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <section class="detail" id="setMapContentCategoriesToBlock(java.util.List)">
 <h3>setMapContentCategoriesToBlock</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMapContentCategoriesToBlock</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>&gt; value)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>&gt; value)</span></div>
 <div class="block"><p>Sets list of map content categories this polyline should block.
  Map content categories overlapping the polyline geometry
  (progress and non-progress) will be discarded from being rendered.

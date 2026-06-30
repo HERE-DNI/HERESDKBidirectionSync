@@ -45,7 +45,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routelabel"
 <div class="col-last even-row-color">
 <div class="block">The street name or route number for the route label.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routelabeltype" title="enum class in com.here.sdk.routing">RouteLabelType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-routelabeltype" title="enum class in com.here.sdk.routing">RouteLabelType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routelabel#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of the route label, describing if the route label contains a street name or a route number.</div>
@@ -114,7 +114,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routelabel"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routelabeltype" title="enum class in com.here.sdk.routing">RouteLabelType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routelabeltype" title="enum class in com.here.sdk.routing">RouteLabelType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>The type of the route label, describing if the route label contains a street name or a route number.</p></div>
 </section>
 </li>

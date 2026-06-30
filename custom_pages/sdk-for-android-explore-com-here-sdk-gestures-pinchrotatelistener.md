@@ -40,7 +40,7 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener#onPinchRotate(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D,com.here.sdk.core.Point2D,double,com.here.sdk.core.Angle)">onPinchRotate</a><wbr/>(<a href="sdk-for-android-explore-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener#onPinchRotate(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D,com.here.sdk.core.Point2D,double,com.here.sdk.core.Angle)">onPinchRotate</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-gestures-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
  <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> pinchOrigin,
  <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> rotationOrigin,
  double twoFingerDistance,
@@ -66,7 +66,7 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-pinchrotatelistener"
 <section class="detail" id="onPinchRotate(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D,com.here.sdk.core.Point2D,double,com.here.sdk.core.Angle)">
 <h3>onPinchRotate</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onPinchRotate</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
+ <a href="sdk-for-android-explore-com-here-sdk-gestures-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a> state,
  @NonNull
  <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> pinchOrigin,
  @NonNull

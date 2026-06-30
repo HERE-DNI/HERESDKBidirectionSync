@@ -151,8 +151,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchoptions"
 <div class="block"><p>Indicates if search along the route should produce well-distributed results.
  It is only supported for:
  <ul>
-<li><code>searchByCategory</code> API with <a href="sdk-for-android-explore-categoryquery.area#corridorArea"><code>CategoryQuery.Area.corridorArea</code></a> set</li>
-<li><code>searchByText</code> API with <a href="sdk-for-android-explore-textquery.area#corridorArea"><code>TextQuery.Area.corridorArea</code></a> set
+<li><code>searchByCategory</code> API with <a href="sdk-for-android-explore-categoryquery-area#corridorArea"><code>CategoryQuery.Area.corridorArea</code></a> set</li>
+<li><code>searchByText</code> API with <a href="sdk-for-android-explore-textquery-area#corridorArea"><code>TextQuery.Area.corridorArea</code></a> set
  Otherwise, this value is ignored.</li>
 </ul></p></div>
 </section>

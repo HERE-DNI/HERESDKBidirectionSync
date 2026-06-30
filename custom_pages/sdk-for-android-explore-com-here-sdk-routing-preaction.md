@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-preaction"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-preactiontype" title="enum class in com.here.sdk.routing">PreActionType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-preactiontype" title="enum class in com.here.sdk.routing">PreActionType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-preaction#action">action</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of this action.</div>
@@ -105,7 +105,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-preaction"
 <section class="detail" id="action">
 <h3>action</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-preactiontype" title="enum class in com.here.sdk.routing">PreActionType</a></span> <span class="element-name">action</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-preactiontype" title="enum class in com.here.sdk.routing">PreActionType</a></span> <span class="element-name">action</span></div>
 <div class="block"><p>Type of this action.
  Defaults to <a href="sdk-for-android-explore-preactiontype#BOARD"><code>PreActionType.BOARD</code></a>.</p></div>
 </section>

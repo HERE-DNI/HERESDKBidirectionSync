@@ -40,12 +40,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#routeHandle">routeHandle</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The route handle holding the route to be refreshed.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#startingPoint">startingPoint</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Identify the new starting point of the route.</div>
@@ -71,23 +71,23 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#%3Cinit%3E(com.here.sdk.routing.RouteHandle,int,int)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#%3Cinit%3E(com.here.sdk.routing.RouteHandle,int,int)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  int startingSectionIndex,
  int traveledDistanceOnStartingSectionInMeters)</code></div>
 <div class="col-last even-row-color">
-<div class="block">Create a new instance of <a href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the point on the section of the route as a new starting point.</div>
+<div class="block">Create a new instance of <a href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the point on the section of the route as a new starting point.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#%3Cinit%3E(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
- <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#%3Cinit%3E(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint)</code></div>
 <div class="col-last odd-row-color">
-<div class="block">Create a new instance of <a href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point on the route.</div>
+<div class="block">Create a new instance of <a href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point on the route.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#%3Cinit%3E(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
- <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters#%3Cinit%3E(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)">RefreshRouteParameters</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint,
  int startingSectionIndex,
  int traveledDistanceOnStartingSectionInMeters)</code></div>
 <div class="col-last even-row-color">
-<div class="block">Create a new instance of <a href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point and the section position on the route.</div>
+<div class="block">Create a new instance of <a href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point and the section position on the route.</div>
 </div>
 </div>
 </section>
@@ -130,7 +130,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <section class="detail" id="routeHandle">
 <h3>routeHandle</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a></span> <span class="element-name">routeHandle</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a></span> <span class="element-name">routeHandle</span></div>
 <div class="block"><p>The route handle holding the route to be refreshed.</p></div>
 </section>
 </li>
@@ -138,13 +138,13 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <section class="detail" id="startingPoint">
 <h3>startingPoint</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a></span> <span class="element-name">startingPoint</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a></span> <span class="element-name">startingPoint</span></div>
 <div class="block"><p>Identify the new starting point of the route. It should be of type <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.
  Otherwise, an <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated. Moreover, it should be very close to the
- original route specified with the <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>. The location of this waypoint may by provided,
+ original route specified with the <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>. The location of this waypoint may by provided,
  for example, by a <code>RouteProgress</code> event. Since the new starting point is expected to be
  along the original route, the original route geometry is used to reach the remaining waypoints. The new route
- will not include the <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that
+ will not include the <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing"><code>Waypoint</code></a> items that lie behind the new starting point (i.e. the path that
  was already traveled). Plus, <a href="sdk-for-android-explore-route#getLengthInMeters()"><code>Route.getLengthInMeters()</code></a>, <a href="sdk-for-android-explore-route#getDuration()"><code>Route.getDuration()</code></a>, and similar
  values are from the new starting point to the destination. If the new waypoint is too far off the original
  route, the route refresh may fail and an <a href="sdk-for-android-explore-routingerror#COULD_NOT_MATCH_ORIGIN"><code>RoutingError.COULD_NOT_MATCH_ORIGIN</code></a> error is triggered.
@@ -183,10 +183,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)">
 <h3>RefreshRouteParameters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RefreshRouteParameters</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  @NonNull
- <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint)</span></div>
-<div class="block"><p>Create a new instance of <a href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point on the route.</p></div>
+ <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint)</span></div>
+<div class="block"><p>Create a new instance of <a href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point on the route.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>routeHandle</code> - <p>The route handle holding the route to be refreshed.</p></dd>
@@ -198,10 +198,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.RouteHandle,int,int)">
 <h3>RefreshRouteParameters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RefreshRouteParameters</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  int startingSectionIndex,
  int traveledDistanceOnStartingSectionInMeters)</span></div>
-<div class="block"><p>Create a new instance of <a href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the point on the section of the route as a new starting point.</p></div>
+<div class="block"><p>Create a new instance of <a href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the point on the section of the route as a new starting point.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>routeHandle</code> - <p>The route handle holding the route to be refreshed.</p></dd>
@@ -214,12 +214,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)">
 <h3>RefreshRouteParameters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RefreshRouteParameters</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing">RouteHandle</a> routeHandle,
  @NonNull
- <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint,
+ <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing">Waypoint</a> startingPoint,
  int startingSectionIndex,
  int traveledDistanceOnStartingSectionInMeters)</span></div>
-<div class="block"><p>Create a new instance of <a href="sdk-for-android-explore-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point and the section position on the route.</p></div>
+<div class="block"><p>Create a new instance of <a href="sdk-for-android-explore-com-here-sdk-routing-refreshrouteparameters" title="class in com.here.sdk.routing"><code>RefreshRouteParameters</code></a> with the new starting point and the section position on the route.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>routeHandle</code> - <p>The route handle holding the route to be refreshed.</p></dd>

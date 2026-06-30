@@ -22,13 +22,13 @@ slug: "sdk-for-android-explore-constant-values"
 
 <ul class="block-list">
 <li>
-<div class="caption"><span>com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></span></div>
+<div class="caption"><span>com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Constant Field</div>
 <div class="table-header col-last">Value</div>
 <div class="col-first even-row-color"><code id="com.here.sdk.core.PolylineSimplifier.Options.SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL">public static final long</code></div>
-<div class="col-second even-row-color"><code><a href="sdk-for-android-explore-polylinesimplifier.options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL">SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</a></code></div>
+<div class="col-second even-row-color"><code><a href="sdk-for-android-explore-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL">SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</a></code></div>
 <div class="col-last even-row-color"><code>10L</code></div>
 </div>
 </li>

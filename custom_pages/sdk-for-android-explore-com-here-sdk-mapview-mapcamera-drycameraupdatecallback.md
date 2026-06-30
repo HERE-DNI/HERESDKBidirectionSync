@@ -22,7 +22,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecal
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></dd>
+<dd><a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -49,7 +49,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecal
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecallback#onDryApplyUpdateResult(com.here.sdk.mapview.MapCamera.State)">onDryApplyUpdateResult</a><wbr/>(<a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecallback#onDryApplyUpdateResult(com.here.sdk.mapview.MapCamera.State)">onDryApplyUpdateResult</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Used to report back results of dry update application to camera.</div>
 </div>
@@ -71,7 +71,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecal
 <section class="detail" id="onDryApplyUpdateResult(com.here.sdk.mapview.MapCamera.State)">
 <h3>onDryApplyUpdateResult</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onDryApplyUpdateResult</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</span></div>
+ <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</span></div>
 <div class="block"><p>Used to report back results of dry update application to camera.
  Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>

@@ -139,7 +139,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 <div class="col-last odd-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use the <code>routing_options</code> instead.</p></div>
 </div>
-<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-violatedrestriction.details#forbiddenTruckType">com.here.sdk.routing.ViolatedRestriction.Details.forbiddenTruckType</a></div>
+<div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-violatedrestriction-details#forbiddenTruckType">com.here.sdk.routing.ViolatedRestriction.Details.forbiddenTruckType</a></div>
 <div class="col-last even-row-color">
 <div class="deprecation-comment"><p>Will be removed in v4.27.0. Use <code>forbidden_truck_category</code> instead.</p></div>
 </div>
@@ -168,7 +168,7 @@ slug: "sdk-for-android-explore-deprecated-list"
 </div>
 <div class="col-summary-item-name even-row-color"><a href="sdk-for-android-explore-locationindicator#setMarker3dModel(com.here.sdk.mapview.MapMarker3DModel,double,com.here.sdk.mapview.LocationIndicator.MarkerType)">com.here.sdk.mapview.LocationIndicator.setMarker3dModel<wbr/>(MapMarker3DModel, double, LocationIndicator.MarkerType)</a></div>
 <div class="col-last even-row-color">
-<div class="deprecation-comment"><p>Will be removed in v4.27.0. Please use the overloaded method with <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> instead.</p></div>
+<div class="deprecation-comment"><p>Will be removed in v4.27.0. Please use the overloaded method with <a href="sdk-for-android-explore-rendersize-unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> instead.</p></div>
 </div>
 <div class="col-summary-item-name odd-row-color"><a href="sdk-for-android-explore-mapcamerakeyframetrack#lookAtDistance(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)">com.here.sdk.mapview.MapCameraKeyframeTrack.lookAtDistance<wbr/>(List&lt;ScalarKeyframe&gt;, Easing, KeyframeInterpolationMode)</a></div>
 <div class="col-last odd-row-color">

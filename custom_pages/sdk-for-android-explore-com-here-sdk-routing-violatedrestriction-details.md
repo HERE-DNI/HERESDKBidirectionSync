@@ -25,7 +25,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a></dd>
+<dd><a href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">ViolatedRestriction.Details</span>
@@ -110,12 +110,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <div class="col-last odd-row-color">
 <div class="block">Tunnel category to restrict transport of specific goods during the trip.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-vehiclerestrictionmaxweight" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweight" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWeight">maxWeight</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-maxaxlegroupweight" title="class in com.here.sdk.routing">MaxAxleGroupWeight</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-maxaxlegroupweight" title="class in com.here.sdk.routing">MaxAxleGroupWeight</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details#maxWeightPerAxleGroupInKilograms">maxWeightPerAxleGroupInKilograms</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Max permitted weight per axle group during the trip, in kilograms.</div>
@@ -207,7 +207,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <section class="detail" id="maxWeightPerAxleGroupInKilograms">
 <h3>maxWeightPerAxleGroupInKilograms</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maxaxlegroupweight" title="class in com.here.sdk.routing">MaxAxleGroupWeight</a></span> <span class="element-name">maxWeightPerAxleGroupInKilograms</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-maxaxlegroupweight" title="class in com.here.sdk.routing">MaxAxleGroupWeight</a></span> <span class="element-name">maxWeightPerAxleGroupInKilograms</span></div>
 <div class="block"><p>Max permitted weight per axle group during the trip, in kilograms.
  This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#weightPerAxleGroup"><code>VehicleSpecification.weightPerAxleGroup</code></a>
  exceeds this value.</p></div>
@@ -348,7 +348,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-violatedrestriction-details"
 <section class="detail" id="maxWeight">
 <h3>maxWeight</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-vehiclerestrictionmaxweight" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></span> <span class="element-name">maxWeight</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-vehiclerestrictionmaxweight" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></span> <span class="element-name">maxWeight</span></div>
 <div class="block"><p>Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction.
  This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#grossWeightInKilograms"><code>VehicleSpecification.grossWeightInKilograms</code></a>
  parameter used for route calculation exceeds this value.</p></div>

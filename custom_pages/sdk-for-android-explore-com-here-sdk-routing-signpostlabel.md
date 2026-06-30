@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-signpostlabel"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-signpostlabel#localizedRoadNumber">localizedRoadNumber</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Road number.</div>
@@ -114,7 +114,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-signpostlabel"
 <section class="detail" id="localizedRoadNumber">
 <h3>localizedRoadNumber</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a></span> <span class="element-name">localizedRoadNumber</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a></span> <span class="element-name">localizedRoadNumber</span></div>
 <div class="block"><p>Road number.
  Can be null if the road has no number assigned.</p></div>
 </section>

@@ -39,17 +39,17 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webdetails"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-webdetails#editorials">editorials</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of editorials associated with the place.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-webimage" title="class in com.here.sdk.search">WebImage</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-webimage" title="class in com.here.sdk.search">WebImage</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-webdetails#images">images</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The list of images associated with the place.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-webrating" title="class in com.here.sdk.search">WebRating</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-webrating" title="class in com.here.sdk.search">WebRating</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-webdetails#ratings">ratings</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of ratings associated with the place.</div>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webdetails"
 <section class="detail" id="images">
 <h3>images</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-webimage" title="class in com.here.sdk.search">WebImage</a>&gt;</span> <span class="element-name">images</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-webimage" title="class in com.here.sdk.search">WebImage</a>&gt;</span> <span class="element-name">images</span></div>
 <div class="block"><p>The list of images associated with the place.
  The images are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></div>
@@ -120,7 +120,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webdetails"
 <section class="detail" id="editorials">
 <h3>editorials</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>&gt;</span> <span class="element-name">editorials</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>&gt;</span> <span class="element-name">editorials</span></div>
 <div class="block"><p>The list of editorials associated with the place.
  The editorials are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></div>
@@ -130,7 +130,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webdetails"
 <section class="detail" id="ratings">
 <h3>ratings</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-webrating" title="class in com.here.sdk.search">WebRating</a>&gt;</span> <span class="element-name">ratings</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-webrating" title="class in com.here.sdk.search">WebRating</a>&gt;</span> <span class="element-name">ratings</span></div>
 <div class="block"><p>The list of ratings associated with the place.
  The ratings are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></div>
