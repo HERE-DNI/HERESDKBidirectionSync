@@ -20,17 +20,17 @@ slug: "sdk-for-android-explore-com-here-sdk-search-suggestion"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.search.Suggestion</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Suggestion</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Suggestion is meant to provide relevant suggestions to partial queries, like "restaur", "starbu", "eiffel".
  Represents a relevant response to user queries.
- Suggestions (please check <a href="sdk-for-android-explore-com-here-sdk-search-suggestiontype" title="enum class in com.here.sdk.search"><code>SuggestionType</code></a>) are either:
+ Suggestions (please check <a href="sdk-for-android-explore-suggestiontype" title="enum class in com.here.sdk.search"><code>SuggestionType</code></a>) are either:
  Place: <a href="sdk-for-android-explore-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>
  Query: <a href="sdk-for-android-explore-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a> or <a href="sdk-for-android-explore-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>
 With "Place" you get data for a concrete place in the world.
@@ -49,7 +49,7 @@ With "Place" you get data for a concrete place in the world.
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-highlighttype" title="enum class in com.here.sdk.search">HighlightType</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-indexrange" title="class in com.here.sdk.search">IndexRange</a>&gt;&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-explore-highlighttype" title="enum class in com.here.sdk.search">HighlightType</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-indexrange" title="class in com.here.sdk.search">IndexRange</a>&gt;&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-suggestion#getHighlights()">getHighlights</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">The text slices matching the input query.</div>
@@ -64,7 +64,7 @@ With "Place" you get data for a concrete place in the world.
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the suggested item id.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search">Place</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-place" title="class in com.here.sdk.search">Place</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-suggestion#getPlace()">getPlace</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the suggested place item.</div>
@@ -74,7 +74,7 @@ With "Place" you get data for a concrete place in the world.
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the localized title for the suggestion.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-search-suggestiontype" title="enum class in com.here.sdk.search">SuggestionType</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-suggestiontype" title="enum class in com.here.sdk.search">SuggestionType</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-suggestion#getType()">getType</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the type of suggestion.</div>
@@ -100,11 +100,11 @@ With "Place" you get data for a concrete place in the world.
 <section class="detail" id="getHighlights()">
 <h3>getHighlights</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-highlighttype" title="enum class in com.here.sdk.search">HighlightType</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-indexrange" title="class in com.here.sdk.search">IndexRange</a>&gt;&gt;</span> <span class="element-name">getHighlights</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-explore-highlighttype" title="enum class in com.here.sdk.search">HighlightType</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-indexrange" title="class in com.here.sdk.search">IndexRange</a>&gt;&gt;</span> <span class="element-name">getHighlights</span>()</div>
 <div class="block"><p>The text slices matching the input query.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>Associated container where <a href="sdk-for-android-explore-com-here-sdk-search-highlighttype" title="enum class in com.here.sdk.search"><code>HighlightType</code></a> is a key and list of <a href="sdk-for-android-explore-com-here-sdk-search-indexrange" title="class in com.here.sdk.search"><code>IndexRange</code></a> value.</p></dd>
+<dd><p>Associated container where <a href="sdk-for-android-explore-highlighttype" title="enum class in com.here.sdk.search"><code>HighlightType</code></a> is a key and list of <a href="sdk-for-android-explore-indexrange" title="class in com.here.sdk.search"><code>IndexRange</code></a> value.</p></dd>
 </dl>
 </section>
 </li>
@@ -124,7 +124,7 @@ With "Place" you get data for a concrete place in the world.
 <section class="detail" id="getType()">
 <h3>getType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-suggestiontype" title="enum class in com.here.sdk.search">SuggestionType</a></span> <span class="element-name">getType</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-suggestiontype" title="enum class in com.here.sdk.search">SuggestionType</a></span> <span class="element-name">getType</span>()</div>
 <div class="block"><p>Gets the type of suggestion.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -136,7 +136,7 @@ With "Place" you get data for a concrete place in the world.
 <section class="detail" id="getPlace()">
 <h3>getPlace</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search">Place</a></span> <span class="element-name">getPlace</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-place" title="class in com.here.sdk.search">Place</a></span> <span class="element-name">getPlace</span>()</div>
 <div class="block"><p>Gets the suggested place item.
  Available only for <a href="sdk-for-android-explore-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>.</p></div>
 <dl class="notes">

@@ -83,14 +83,14 @@ slug: "sdk-for-android-explore-com-here-sdk-core-color"
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-color#toString()">toString</a>()</code></div>
 
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-color#valueOf(float,float,float)">valueOf</a><wbr/>(float red,
  float green,
  float blue)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a new opaque color from individual RGB components.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-color#valueOf(float,float,float,float)">valueOf</a><wbr/>(float red,
  float green,
  float blue,
@@ -98,7 +98,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-color"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a new color from individual RGBA components.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-color#valueOf(int)">valueOf</a><wbr/>(int color)</code></div>
 
 </div>
@@ -122,7 +122,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-color"
 <section class="detail" id="valueOf(float,float,float)">
 <h3>valueOf</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(float red,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(float red,
  float green,
  float blue)</span></div>
 <div class="block">Creates a new opaque color from individual RGB components.</div>
@@ -140,7 +140,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-color"
 <section class="detail" id="valueOf(float,float,float,float)">
 <h3>valueOf</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(float red,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(float red,
  float green,
  float blue,
  float alpha)</span></div>
@@ -160,7 +160,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-color"
 <section class="detail" id="valueOf(int)">
 <h3>valueOf</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(@ColorInt
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(@ColorInt
  int color)</span></div>
 <dl class="notes">
 <dt>Parameters:</dt>

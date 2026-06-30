@@ -58,7 +58,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="col-first odd-row-color"><code>boolean</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteHandle">enableRouteHandle</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.</div>
+<div class="block">A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.</div>
 </div>
 <div class="col-first even-row-color"><code>boolean</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteLabels">enableRouteLabels</a></code></div>
@@ -71,7 +71,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="block">A flag that indicates whether the resulting route <a href="sdk-for-android-explore-section#getTolls()"><code>Section.getTolls()</code></a> properties should contain
  tolls data.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#optimizationMode">optimizationMode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The optimization mode to be used for route calculation.</div>
@@ -86,7 +86,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="col-last even-row-color">
 <div class="block">Specifies the maximum speed in meters per second, which the user wishes not to exceed.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode">trafficOptimizationMode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The traffic optimization mode to be used for route calculation.</div>
@@ -106,29 +106,29 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime,
@@ -136,7 +136,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime,
@@ -145,46 +145,46 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
  boolean enableRouteHandle,
- <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode)</code></div>
+ <a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
  boolean enableRouteHandle,
- <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode,
+ <a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode,
  boolean enableTolls)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
  boolean enableRouteHandle,
- <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode,
+ <a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode,
  boolean enableTolls,
  boolean optimizeWaypointsOrder)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#%3Cinit%3E(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean,boolean)">RouteOptions</a><wbr/>(<a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> arrivalTime,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
  boolean enableRouteHandle,
- <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode,
+ <a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode,
  boolean enableTolls,
  boolean optimizeWaypointsOrder,
  boolean enableRouteLabels)</code></div>
@@ -232,7 +232,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="optimizationMode">
 <h3>optimizationMode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a></span> <span class="element-name">optimizationMode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a></span> <span class="element-name">optimizationMode</span></div>
 <div class="block"><p>The optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-optimizationmode#FASTEST"><code>OptimizationMode.FASTEST</code></a>.</p></div>
 </section>
 </li>
@@ -302,7 +302,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="enableRouteHandle">
 <h3>enableRouteHandle</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">enableRouteHandle</span></div>
-<div class="block"><p>A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.
+<div class="block"><p>A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.
  Defaults to <code>false</code>.
  Note that a <code>RouteHandle</code> generated by the online <code>RoutingEngine</code> is not compatible with the <code>OfflineRoutingEngine</code> and vice versa.</p></div>
 </section>
@@ -311,7 +311,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="trafficOptimizationMode">
 <h3>trafficOptimizationMode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a></span> <span class="element-name">trafficOptimizationMode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a></span> <span class="element-name">trafficOptimizationMode</span></div>
 <div class="block"><p>The traffic optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-trafficoptimizationmode#TIME_DEPENDENT"><code>TrafficOptimizationMode.TIME_DEPENDENT</code></a>, which enables traffic-aware routing.</p></div>
 </section>
 </li>
@@ -332,8 +332,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <h3>optimizeWaypointsOrder</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">optimizeWaypointsOrder</span></div>
 <div class="block"><p>A flag that indicates whether the order of waypoints that is passed to <code>calculateRoute()</code> should be optimized in the best order.
- The best order is calculated by the same metrics that are used during regular calculation, e.g. <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing"><code>OptimizationMode</code></a>.
- The starting and destination <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing"><code>Waypoint</code></a> are not reordered.
+ The best order is calculated by the same metrics that are used during regular calculation, e.g. <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing"><code>OptimizationMode</code></a>.
+ The starting and destination <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing"><code>Waypoint</code></a> are not reordered.
  If the whole number of waypoints is fewer than 4 - the flag doesn't affect the resulting route (nothing to optimize).
  The resulting order of waypoints can be identified by their waypoint indices in the route sections
  (see <a href="sdk-for-android-explore-route#getSections()"><code>Route.getSections()</code></a>, <a href="sdk-for-android-explore-section#getDeparturePlace()"><code>Section.getDeparturePlace()</code></a>, <a href="sdk-for-android-explore-section#getArrivalPlace()"><code>Section.getArrivalPlace()</code></a>, <a href="sdk-for-android-explore-routeplace#waypointIndex"><code>RoutePlace.waypointIndex</code></a>).
@@ -369,7 +369,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.OptimizationMode)">
 <h3>RouteOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode)</span></div>
+ <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -381,7 +381,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.OptimizationMode,int)">
 <h3>RouteOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+ <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
@@ -401,7 +401,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.OptimizationMode,int,java.util.Date)">
 <h3>RouteOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+ <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime)</span></div>
@@ -434,7 +434,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date)">
 <h3>RouteOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+ <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
@@ -480,7 +480,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double)">
 <h3>RouteOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+ <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
@@ -534,7 +534,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean)">
 <h3>RouteOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+ <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
@@ -582,7 +582,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  For car, truck and scooter transport modes, it will affect <a href="sdk-for-android-explore-route#getDuration()"><code>Route.getDuration()</code></a> of
  the route. Only for scooter transport mode, it may affect the route geometry. Defaults to <code>null</code>,
  which means that no speed cap is set.</p></dd>
-<dd><code>enableRouteHandle</code> - <p>A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.
+<dd><code>enableRouteHandle</code> - <p>A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.
  Defaults to <code>false</code>.
  Note that a <code>RouteHandle</code> generated by the online <code>RoutingEngine</code> is not compatible with the <code>OfflineRoutingEngine</code> and vice versa.</p></dd>
 </dl>
@@ -592,7 +592,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode)">
 <h3>RouteOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+ <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
@@ -602,7 +602,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
  boolean enableRouteHandle,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode)</span></div>
+ <a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -642,7 +642,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  For car, truck and scooter transport modes, it will affect <a href="sdk-for-android-explore-route#getDuration()"><code>Route.getDuration()</code></a> of
  the route. Only for scooter transport mode, it may affect the route geometry. Defaults to <code>null</code>,
  which means that no speed cap is set.</p></dd>
-<dd><code>enableRouteHandle</code> - <p>A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.
+<dd><code>enableRouteHandle</code> - <p>A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.
  Defaults to <code>false</code>.
  Note that a <code>RouteHandle</code> generated by the online <code>RoutingEngine</code> is not compatible with the <code>OfflineRoutingEngine</code> and vice versa.</p></dd>
 <dd><code>trafficOptimizationMode</code> - <p>The traffic optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-trafficoptimizationmode#TIME_DEPENDENT"><code>TrafficOptimizationMode.TIME_DEPENDENT</code></a>, which enables traffic-aware routing.</p></dd>
@@ -653,7 +653,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean)">
 <h3>RouteOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+ <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
@@ -663,7 +663,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
  boolean enableRouteHandle,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode,
+ <a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode,
  boolean enableTolls)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
@@ -704,7 +704,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  For car, truck and scooter transport modes, it will affect <a href="sdk-for-android-explore-route#getDuration()"><code>Route.getDuration()</code></a> of
  the route. Only for scooter transport mode, it may affect the route geometry. Defaults to <code>null</code>,
  which means that no speed cap is set.</p></dd>
-<dd><code>enableRouteHandle</code> - <p>A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.
+<dd><code>enableRouteHandle</code> - <p>A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.
  Defaults to <code>false</code>.
  Note that a <code>RouteHandle</code> generated by the online <code>RoutingEngine</code> is not compatible with the <code>OfflineRoutingEngine</code> and vice versa.</p></dd>
 <dd><code>trafficOptimizationMode</code> - <p>The traffic optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-trafficoptimizationmode#TIME_DEPENDENT"><code>TrafficOptimizationMode.TIME_DEPENDENT</code></a>, which enables traffic-aware routing.</p></dd>
@@ -721,7 +721,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean)">
 <h3>RouteOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+ <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
@@ -731,7 +731,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
  boolean enableRouteHandle,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode,
+ <a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode,
  boolean enableTolls,
  boolean optimizeWaypointsOrder)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
@@ -773,7 +773,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  For car, truck and scooter transport modes, it will affect <a href="sdk-for-android-explore-route#getDuration()"><code>Route.getDuration()</code></a> of
  the route. Only for scooter transport mode, it may affect the route geometry. Defaults to <code>null</code>,
  which means that no speed cap is set.</p></dd>
-<dd><code>enableRouteHandle</code> - <p>A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.
+<dd><code>enableRouteHandle</code> - <p>A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.
  Defaults to <code>false</code>.
  Note that a <code>RouteHandle</code> generated by the online <code>RoutingEngine</code> is not compatible with the <code>OfflineRoutingEngine</code> and vice versa.</p></dd>
 <dd><code>trafficOptimizationMode</code> - <p>The traffic optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-trafficoptimizationmode#TIME_DEPENDENT"><code>TrafficOptimizationMode.TIME_DEPENDENT</code></a>, which enables traffic-aware routing.</p></dd>
@@ -784,8 +784,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  <strong>Note:</strong> For users of the <code>OfflineRoutingEngine</code> this is a beta release of this feature,
  so there could be a few bugs and unexpected behaviors. The <code>OfflineRoutingEngine</code> is only available for the Navigate license. For users of the <code>RoutingEngine</code> the feature is stable.</p></dd>
 <dd><code>optimizeWaypointsOrder</code> - <p>A flag that indicates whether the order of waypoints that is passed to <code>calculateRoute()</code> should be optimized in the best order.
- The best order is calculated by the same metrics that are used during regular calculation, e.g. <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing"><code>OptimizationMode</code></a>.
- The starting and destination <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing"><code>Waypoint</code></a> are not reordered.
+ The best order is calculated by the same metrics that are used during regular calculation, e.g. <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing"><code>OptimizationMode</code></a>.
+ The starting and destination <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing"><code>Waypoint</code></a> are not reordered.
  If the whole number of waypoints is fewer than 4 - the flag doesn't affect the resulting route (nothing to optimize).
  The resulting order of waypoints can be identified by their waypoint indices in the route sections
  (see <a href="sdk-for-android-explore-route#getSections()"><code>Route.getSections()</code></a>, <a href="sdk-for-android-explore-section#getDeparturePlace()"><code>Section.getDeparturePlace()</code></a>, <a href="sdk-for-android-explore-section#getArrivalPlace()"><code>Section.getArrivalPlace()</code></a>, <a href="sdk-for-android-explore-routeplace#waypointIndex"><code>RoutePlace.waypointIndex</code></a>).
@@ -798,7 +798,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean,boolean)">
 <h3>RouteOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
+ <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing">OptimizationMode</a> optimizationMode,
  int alternatives,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> departureTime,
@@ -808,7 +808,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
  boolean enableRouteHandle,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode,
+ <a href="sdk-for-android-explore-trafficoptimizationmode" title="enum class in com.here.sdk.routing">TrafficOptimizationMode</a> trafficOptimizationMode,
  boolean enableTolls,
  boolean optimizeWaypointsOrder,
  boolean enableRouteLabels)</span></div>
@@ -851,7 +851,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  For car, truck and scooter transport modes, it will affect <a href="sdk-for-android-explore-route#getDuration()"><code>Route.getDuration()</code></a> of
  the route. Only for scooter transport mode, it may affect the route geometry. Defaults to <code>null</code>,
  which means that no speed cap is set.</p></dd>
-<dd><code>enableRouteHandle</code> - <p>A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-com-here-sdk-routing-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.
+<dd><code>enableRouteHandle</code> - <p>A flag that indicates whether the resulting route should contain a <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a>.
  Defaults to <code>false</code>.
  Note that a <code>RouteHandle</code> generated by the online <code>RoutingEngine</code> is not compatible with the <code>OfflineRoutingEngine</code> and vice versa.</p></dd>
 <dd><code>trafficOptimizationMode</code> - <p>The traffic optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-explore-trafficoptimizationmode#TIME_DEPENDENT"><code>TrafficOptimizationMode.TIME_DEPENDENT</code></a>, which enables traffic-aware routing.</p></dd>
@@ -862,8 +862,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routeoptions"
  <strong>Note:</strong> For users of the <code>OfflineRoutingEngine</code> this is a beta release of this feature,
  so there could be a few bugs and unexpected behaviors. The <code>OfflineRoutingEngine</code> is only available for the Navigate license. For users of the <code>RoutingEngine</code> the feature is stable.</p></dd>
 <dd><code>optimizeWaypointsOrder</code> - <p>A flag that indicates whether the order of waypoints that is passed to <code>calculateRoute()</code> should be optimized in the best order.
- The best order is calculated by the same metrics that are used during regular calculation, e.g. <a href="sdk-for-android-explore-com-here-sdk-routing-optimizationmode" title="enum class in com.here.sdk.routing"><code>OptimizationMode</code></a>.
- The starting and destination <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint" title="class in com.here.sdk.routing"><code>Waypoint</code></a> are not reordered.
+ The best order is calculated by the same metrics that are used during regular calculation, e.g. <a href="sdk-for-android-explore-optimizationmode" title="enum class in com.here.sdk.routing"><code>OptimizationMode</code></a>.
+ The starting and destination <a href="sdk-for-android-explore-waypoint" title="class in com.here.sdk.routing"><code>Waypoint</code></a> are not reordered.
  If the whole number of waypoints is fewer than 4 - the flag doesn't affect the resulting route (nothing to optimize).
  The resulting order of waypoints can be identified by their waypoint indices in the route sections
  (see <a href="sdk-for-android-explore-route#getSections()"><code>Route.getSections()</code></a>, <a href="sdk-for-android-explore-section#getDeparturePlace()"><code>Section.getDeparturePlace()</code></a>, <a href="sdk-for-android-explore-section#getArrivalPlace()"><code>Section.getArrivalPlace()</code></a>, <a href="sdk-for-android-explore-routeplace#waypointIndex"><code>RoutePlace.waypointIndex</code></a>).

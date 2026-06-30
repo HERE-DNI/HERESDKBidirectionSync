@@ -62,7 +62,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geoorientationupdate"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-geoorientationupdate#%3Cinit%3E(com.here.sdk.core.GeoOrientation)">GeoOrientationUpdate</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientation)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-geoorientationupdate#%3Cinit%3E(com.here.sdk.core.GeoOrientation)">GeoOrientationUpdate</a><wbr/>(<a href="sdk-for-android-explore-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientation)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a new GeoOrientationUpdate instance from a GeoOrientation instance.</div>
 </div>
@@ -153,7 +153,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geoorientationupdate"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoOrientation)">
 <h3>GeoOrientationUpdate</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GeoOrientationUpdate</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientation)</span></div>
+ <a href="sdk-for-android-explore-geoorientation" title="class in com.here.sdk.core">GeoOrientation</a> orientation)</span></div>
 <div class="block"><p>Constructs a new GeoOrientationUpdate instance from a GeoOrientation instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

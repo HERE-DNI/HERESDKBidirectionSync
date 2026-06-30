@@ -49,7 +49,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routestop"
 <div class="col-last even-row-color">
 <div class="block">Index of location, used for route stop.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-routestop#stopDuration">stopDuration</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Time that will be spent on route stop.</div>
@@ -102,7 +102,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routestop"
 <section class="detail" id="stopDuration">
 <h3>stopDuration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">stopDuration</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">stopDuration</span></div>
 <div class="block"><p>Time that will be spent on route stop.</p></div>
 </section>
 </li>

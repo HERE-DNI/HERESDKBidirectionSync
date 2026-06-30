@@ -51,7 +51,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-fueladditive"
 <div class="col-last odd-row-color">
 <div class="block">Indicates if the fuel additive is available in cans or not.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-fueladditive#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The type of the fuel additive.</div>
@@ -112,7 +112,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-fueladditive"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>The type of the fuel additive. For now, only AUS 32 is supported.</p></div>
 </section>
 </li>

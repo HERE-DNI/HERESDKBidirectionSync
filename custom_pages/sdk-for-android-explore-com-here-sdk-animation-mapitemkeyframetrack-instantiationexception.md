@@ -33,12 +33,12 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack-insta
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></dd>
+<dd><a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapItemKeyFrameTrack.InstantiationException</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a></span></div>
-<div class="block"><p>Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-com-here-sdk-animation-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a>.</p></div>
+<div class="block"><p>Thrown when a problem occurs while trying to create <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a>.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
 <dd>

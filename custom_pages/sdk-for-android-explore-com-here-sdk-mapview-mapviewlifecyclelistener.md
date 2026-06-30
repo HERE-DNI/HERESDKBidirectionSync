@@ -30,7 +30,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener"
  object passed in <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener#onAttach(com.here.sdk.mapview.MapViewBase)"><code>onAttach(com.here.sdk.mapview.MapViewBase)</code></a> until <code>onDetach()</code> or <code>onDestroy()</code>
  gets called. However, it is important that the listener <em>does not</em> hold a strong reference
  to an <code>Activity</code>, directly or indirectly (for example by holding a reference to a
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview" title="class in com.here.sdk.mapview"><code>MapView</code></a>. A component implementing this interface should interact with the map view
+ <a href="sdk-for-android-explore-mapview" title="class in com.here.sdk.mapview"><code>MapView</code></a>. A component implementing this interface should interact with the map view
  only through the <code>MapViewBase</code> object passed in <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener#onAttach(com.here.sdk.mapview.MapViewBase)"><code>onAttach(com.here.sdk.mapview.MapViewBase)</code></a>.
  A <code>MapView</code> is using a <a href="https://developer.android.com/reference/android/view/SurfaceView">SurfaceView</a>
 to render its content.</p></div>
@@ -49,9 +49,9 @@ to render its content.</p></div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener#onAttach(com.here.sdk.mapview.MapViewBase)">onAttach</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener#onAttach(com.here.sdk.mapview.MapViewBase)">onAttach</a><wbr/>(<a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Called when adding <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to the map view.</div>
+<div class="block">Called when adding <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to the map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener#onDestroy()">onDestroy</a>()</code></div>
@@ -59,20 +59,20 @@ to render its content.</p></div>
 <div class="block">Called when the map view to which this is attached to is destroyed.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener#onDetach(com.here.sdk.mapview.MapViewBase)">onDetach</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener#onDetach(com.here.sdk.mapview.MapViewBase)">onDetach</a><wbr/>(<a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Called when removing <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from the map view.</div>
+<div class="block">Called when removing <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from the map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener#onPause()">onPause</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Called when the map view to which this <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> is attached to gets paused
+<div class="block">Called when the map view to which this <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> is attached to gets paused
  (usually when the app goes into background).</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener#onResume()">onResume</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Called when the map view to which this <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> is attached to gets resumed
+<div class="block">Called when the map view to which this <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> is attached to gets resumed
  (usually when the app goes into foreground).</div>
 </div>
 </div>
@@ -93,8 +93,8 @@ to render its content.</p></div>
 <section class="detail" id="onAttach(com.here.sdk.mapview.MapViewBase)">
 <h3>onAttach</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onAttach</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span></div>
-<div class="block"><p>Called when adding <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to the map view. If the map view does not
+ <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span></div>
+<div class="block"><p>Called when adding <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to the map view. If the map view does not
  have render target attached at the time of adding the listener, then this method will
  be called later, after render target is attached. This means that the map view it
  receives is always fully initialized.
@@ -110,8 +110,8 @@ to render its content.</p></div>
 <section class="detail" id="onDetach(com.here.sdk.mapview.MapViewBase)">
 <h3>onDetach</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onDetach</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span></div>
-<div class="block"><p>Called when removing <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from the map view. Can be used to implement
+ <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a> mapView)</span></div>
+<div class="block"><p>Called when removing <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from the map view. Can be used to implement
  the logic to remove visual components from the map view and release resources if necessary.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -123,7 +123,7 @@ to render its content.</p></div>
 <section class="detail" id="onPause()">
 <h3>onPause</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onPause</span>()</div>
-<div class="block"><p>Called when the map view to which this <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> is attached to gets paused
+<div class="block"><p>Called when the map view to which this <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> is attached to gets paused
  (usually when the app goes into background). This should be used by components that
  perform continuous updates to pause those updates until <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener#onResume()"><code>onResume()</code></a>
  is called.</p></div>
@@ -133,7 +133,7 @@ to render its content.</p></div>
 <section class="detail" id="onResume()">
 <h3>onResume</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onResume</span>()</div>
-<div class="block"><p>Called when the map view to which this <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> is attached to gets resumed
+<div class="block"><p>Called when the map view to which this <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> is attached to gets resumed
  (usually when the app goes into foreground). This should be used by components that
  perform continuous updates to resume those updates after a previous call to
  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener#onPause()"><code>onPause()</code></a>.</p></div>
@@ -144,7 +144,7 @@ to render its content.</p></div>
 <h3>onDestroy</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onDestroy</span>()</div>
 <div class="block"><p>Called when the map view to which this is attached to is destroyed.
- After this is called, no other <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> method will be invoked.
+ After this is called, no other <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> method will be invoked.
  This should be used to make sure all resources are freed.</p></div>
 </section>
 </li>

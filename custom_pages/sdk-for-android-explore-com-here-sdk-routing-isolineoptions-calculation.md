@@ -25,7 +25,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions" title="class in com.here.sdk.routing">IsolineOptions</a></dd>
+<dd><a href="sdk-for-android-explore-isolineoptions" title="class in com.here.sdk.routing">IsolineOptions</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">IsolineOptions.Calculation</span>
@@ -44,12 +44,12 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#isolineCalculationMode">isolineCalculationMode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies how isoline calculation is optimized.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#isolineDirection">isolineDirection</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies if calculations will be from or to a specific point.</div>
@@ -59,7 +59,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 <div class="col-last even-row-color">
 <div class="block">Limits the number of points in the resulting isoline polygon.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#rangeType">rangeType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies the range of values to be included in the isoline.</div>
@@ -80,22 +80,22 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List)">Calculation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List)">Calculation</a><wbr/>(<a href="sdk-for-android-explore-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; rangeValues)</code></div>
 
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode)">Calculation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode)">Calculation</a><wbr/>(<a href="sdk-for-android-explore-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; rangeValues,
- <a href="sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a> isolineCalculationMode)</code></div>
+ <a href="sdk-for-android-explore-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a> isolineCalculationMode)</code></div>
 
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode,java.lang.Integer,com.here.sdk.routing.RoutePlaceDirection)">Calculation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode,java.lang.Integer,com.here.sdk.routing.RoutePlaceDirection)">Calculation</a><wbr/>(<a href="sdk-for-android-explore-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; rangeValues,
- <a href="sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a> isolineCalculationMode,
+ <a href="sdk-for-android-explore-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a> isolineCalculationMode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a> maxPoints,
- <a href="sdk-for-android-explore-com-here-sdk-routing-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a> isolineDirection)</code></div>
+ <a href="sdk-for-android-explore-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a> isolineDirection)</code></div>
 
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.RoutePlaceDirection)">Calculation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#%3Cinit%3E(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.RoutePlaceDirection)">Calculation</a><wbr/>(<a href="sdk-for-android-explore-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; rangeValues,
- <a href="sdk-for-android-explore-com-here-sdk-routing-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a> isolineDirection)</code></div>
+ <a href="sdk-for-android-explore-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a> isolineDirection)</code></div>
 
 </div>
 </section>
@@ -122,7 +122,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 <section class="detail" id="rangeType">
 <h3>rangeType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a></span> <span class="element-name">rangeType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a></span> <span class="element-name">rangeType</span></div>
 <div class="block"><p>Specifies the range of values to be included in the isoline.</p></div>
 </section>
 </li>
@@ -133,15 +133,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</span> <span class="element-name">rangeValues</span></div>
 <div class="block"><p>A list of ranges. The unit is defined by the type parameter.
  Each range defines the maximum allowed value to reach a destination.
- For each value an <a href="sdk-for-android-explore-com-here-sdk-routing-isoline" title="class in com.here.sdk.routing"><code>Isoline</code></a> is calculated indicating the reachable area.
- If empty, <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions" title="class in com.here.sdk.routing"><code>IsolineOptions</code></a> object is considered invalid.</p></div>
+ For each value an <a href="sdk-for-android-explore-isoline" title="class in com.here.sdk.routing"><code>Isoline</code></a> is calculated indicating the reachable area.
+ If empty, <a href="sdk-for-android-explore-isolineoptions" title="class in com.here.sdk.routing"><code>IsolineOptions</code></a> object is considered invalid.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="isolineCalculationMode">
 <h3>isolineCalculationMode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a></span> <span class="element-name">isolineCalculationMode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a></span> <span class="element-name">isolineCalculationMode</span></div>
 <div class="block"><p>Specifies how isoline calculation is optimized.
  The default waypoint type is <a href="sdk-for-android-explore-isolinecalculationmode#BALANCED"><code>IsolineCalculationMode.BALANCED</code></a>.</p></div>
 </section>
@@ -154,7 +154,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 <div class="block"><p>Limits the number of points in the resulting isoline polygon. If the
  isoline consists of multiple polygons, the sum of points from all
  polygons is considered. Note that this parameter does not affect the calculation,
- but the shape of the polygon. Look at <a href="sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode" title="enum class in com.here.sdk.routing"><code>IsolineCalculationMode</code></a> parameter
+ but the shape of the polygon. Look at <a href="sdk-for-android-explore-isolinecalculationmode" title="enum class in com.here.sdk.routing"><code>IsolineCalculationMode</code></a> parameter
  to optimize performance.
  A higher value will result in a more accurate polygon shape. Rendering a polygon
  with a high number of points can negatively impact rendering performance.
@@ -165,7 +165,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 <section class="detail" id="isolineDirection">
 <h3>isolineDirection</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a></span> <span class="element-name">isolineDirection</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a></span> <span class="element-name">isolineDirection</span></div>
 <div class="block"><p>Specifies if calculations will be from or to a specific point.
  The default isoline direction is <a href="sdk-for-android-explore-routeplacedirection#DEPARTURE"><code>RoutePlaceDirection.DEPARTURE</code></a>.</p></div>
 </section>
@@ -182,7 +182,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.IsolineRangeType,java.util.List)">
 <h3>Calculation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Calculation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
+ <a href="sdk-for-android-explore-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; rangeValues)</span></div>
 <dl class="notes">
@@ -196,11 +196,11 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.RoutePlaceDirection)">
 <h3>Calculation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Calculation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
+ <a href="sdk-for-android-explore-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; rangeValues,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a> isolineDirection)</span></div>
+ <a href="sdk-for-android-explore-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a> isolineDirection)</span></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>rangeType</code> - <p>The range type.</p></dd>
@@ -213,11 +213,11 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode)">
 <h3>Calculation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Calculation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
+ <a href="sdk-for-android-explore-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; rangeValues,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a> isolineCalculationMode)</span></div>
+ <a href="sdk-for-android-explore-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a> isolineCalculationMode)</span></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>rangeType</code> - <p>The range type.</p></dd>
@@ -230,15 +230,15 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode,java.lang.Integer,com.here.sdk.routing.RoutePlaceDirection)">
 <h3>Calculation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Calculation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
+ <a href="sdk-for-android-explore-isolinerangetype" title="enum class in com.here.sdk.routing">IsolineRangeType</a> rangeType,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt; rangeValues,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a> isolineCalculationMode,
+ <a href="sdk-for-android-explore-isolinecalculationmode" title="enum class in com.here.sdk.routing">IsolineCalculationMode</a> isolineCalculationMode,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a> maxPoints,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a> isolineDirection)</span></div>
+ <a href="sdk-for-android-explore-routeplacedirection" title="enum class in com.here.sdk.routing">RoutePlaceDirection</a> isolineDirection)</span></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>rangeType</code> - <p>The range type.</p></dd>

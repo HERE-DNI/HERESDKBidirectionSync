@@ -50,7 +50,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-toll"
 <div class="col-last even-row-color">
 <div class="block">The country in which the toll is to be paid in ISO-3166-1 alpha-3 format, e.g.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-tollfare" title="class in com.here.sdk.routing">TollFare</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-tollfare" title="class in com.here.sdk.routing">TollFare</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-toll#fares">fares</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The list of toll fares possible for the toll which may depend on time of day, payment method, vehicle
@@ -133,7 +133,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-toll"
 <section class="detail" id="fares">
 <h3>fares</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-tollfare" title="class in com.here.sdk.routing">TollFare</a>&gt;</span> <span class="element-name">fares</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-tollfare" title="class in com.here.sdk.routing">TollFare</a>&gt;</span> <span class="element-name">fares</span></div>
 <div class="block"><p>The list of toll fares possible for the toll which may depend on time of day, payment method, vehicle
  characteristics, etc. If there are multiple toll fares that the router cannot disambiguate, then the
  list will contain more than one toll fare. Note that this list contains at least one element, i.e. it

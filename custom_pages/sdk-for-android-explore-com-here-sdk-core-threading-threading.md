@@ -20,14 +20,14 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-threading"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.threading.Threading</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Threading</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Initializes threading support on native side.</p></div>
 </section>
 <section class="summary">
@@ -43,13 +43,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-threading"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-threading-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-threading-threading#getPlatformThreading()">getPlatformThreading</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns threading bridge which was set before.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-threading-threading#setPlatformThreading(com.here.sdk.core.threading.PlatformThreading)">setPlatformThreading</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-threading-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a> platformThreading)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-threading-threading#setPlatformThreading(com.here.sdk.core.threading.PlatformThreading)">setPlatformThreading</a><wbr/>(<a href="sdk-for-android-explore-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a> platformThreading)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Sets threading bridge which is used for interaction with the platform side.</div>
 </div>
@@ -74,7 +74,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-threading"
 <section class="detail" id="setPlatformThreading(com.here.sdk.core.threading.PlatformThreading)">
 <h3>setPlatformThreading</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setPlatformThreading</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-threading-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a> platformThreading)</span></div>
+ <a href="sdk-for-android-explore-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a> platformThreading)</span></div>
 <div class="block"><p>Sets threading bridge which is used for interaction with the platform side.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -86,7 +86,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-threading"
 <section class="detail" id="getPlatformThreading()">
 <h3>getPlatformThreading</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a></span> <span class="element-name">getPlatformThreading</span>()</div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-platformthreading" title="interface in com.here.sdk.core.threading">PlatformThreading</a></span> <span class="element-name">getPlatformThreading</span>()</div>
 <div class="block"><p>Returns threading bridge which was set before.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

@@ -46,12 +46,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-energymix"
 <div class="col-last even-row-color">
 <div class="block">Name of the energy suppliers product or plan.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-energysource" title="class in com.here.sdk.search">EnergySource</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-energysource" title="class in com.here.sdk.search">EnergySource</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-energymix#energySources">energySources</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The list of energy sources.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-environmentalimpact" title="class in com.here.sdk.search">EnvironmentalImpact</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-environmentalimpact" title="class in com.here.sdk.search">EnvironmentalImpact</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-energymix#environmentalImpacts">environmentalImpacts</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of environmental impacts from this energy mix.</div>
@@ -129,7 +129,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-energymix"
 <section class="detail" id="energySources">
 <h3>energySources</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-energysource" title="class in com.here.sdk.search">EnergySource</a>&gt;</span> <span class="element-name">energySources</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-energysource" title="class in com.here.sdk.search">EnergySource</a>&gt;</span> <span class="element-name">energySources</span></div>
 <div class="block"><p>The list of energy sources.
  The sum of the percentages over the energy sources should be 100%.</p></div>
 </section>
@@ -154,7 +154,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-energymix"
 <section class="detail" id="environmentalImpacts">
 <h3>environmentalImpacts</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-environmentalimpact" title="class in com.here.sdk.search">EnvironmentalImpact</a>&gt;</span> <span class="element-name">environmentalImpacts</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-environmentalimpact" title="class in com.here.sdk.search">EnvironmentalImpact</a>&gt;</span> <span class="element-name">environmentalImpacts</span></div>
 <div class="block"><p>The list of environmental impacts from this energy mix.</p></div>
 </section>
 </li>

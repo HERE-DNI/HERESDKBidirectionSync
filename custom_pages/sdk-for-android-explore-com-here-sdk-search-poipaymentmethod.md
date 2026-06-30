@@ -27,7 +27,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-poipaymentmethod"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">POIPaymentMethod</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Holds constants that represent payment methods.
- See <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentdetails" title="class in com.here.sdk.search"><code>POIPaymentDetails</code></a> for usage.
+ See <a href="sdk-for-android-explore-poipaymentdetails" title="class in com.here.sdk.search"><code>POIPaymentDetails</code></a> for usage.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>

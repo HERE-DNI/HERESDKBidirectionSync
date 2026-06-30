@@ -141,7 +141,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogidentifier"
  The field defaults to <code>null</code>.
  Since the data inside a catalog can be updated, each published modification needs to correlate
  to a specific version number.
- Note: when <code>CatalogIdentifier</code> created with <a href="sdk-for-android-explore-com-here-sdk-core-engine-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a> then:
+ Note: when <code>CatalogIdentifier</code> created with <a href="sdk-for-android-explore-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a> then:
  <ul>
 <li>numerical <code>-1</code> corresponds to <a href="sdk-for-android-explore-catalogversionhint#latest(boolean)"><code>CatalogVersionHint.latest(boolean)</code></a> with <code>ignoreCachedData</code> set to <code>true</code>;</li>
 <li><code>null</code> corresponds to <a href="sdk-for-android-explore-catalogversionhint#latest(boolean)"><code>CatalogVersionHint.latest(boolean)</code></a> with <code>ignoreCachedData</code> set to <code>false</code>;</li>

@@ -44,10 +44,10 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiod"
 <div class="col-last even-row-color">
 <div class="block">Specifies how many <a href="sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiod#periodType"><code>periodType</code></a>s are covered by the pass.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiod#periodType">periodType</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Specifies one of the <a href="sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing"><code>FarePassValidityPeriodType</code></a> periods.</div>
+<div class="block">Specifies one of the <a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing"><code>FarePassValidityPeriodType</code></a> periods.</div>
 </div>
 </div>
 </section>
@@ -105,8 +105,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiod"
 <section class="detail" id="periodType">
 <h3>periodType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">periodType</span></div>
-<div class="block"><p>Specifies one of the <a href="sdk-for-android-explore-com-here-sdk-routing-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing"><code>FarePassValidityPeriodType</code></a> periods.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing">FarePassValidityPeriodType</a></span> <span class="element-name">periodType</span></div>
+<div class="block"><p>Specifies one of the <a href="sdk-for-android-explore-farepassvalidityperiodtype" title="enum class in com.here.sdk.routing"><code>FarePassValidityPeriodType</code></a> periods.</p></div>
 </section>
 </li>
 <li>

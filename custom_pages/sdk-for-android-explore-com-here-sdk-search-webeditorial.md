@@ -49,7 +49,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webeditorial"
 <div class="col-last odd-row-color">
 <div class="block">Information about language in which edtitorial was written.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-websource" title="class in com.here.sdk.search">WebSource</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-webeditorial#source">source</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Detailed information about editorial article.</div>
@@ -71,7 +71,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webeditorial"
 </div>
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-webeditorial#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.search.WebSource)">WebEditorial</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> description,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> language,
- <a href="sdk-for-android-explore-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a> source)</code></div>
+ <a href="sdk-for-android-explore-websource" title="class in com.here.sdk.search">WebSource</a> source)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -132,7 +132,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webeditorial"
 <section class="detail" id="source">
 <h3>source</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a></span> <span class="element-name">source</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-websource" title="class in com.here.sdk.search">WebSource</a></span> <span class="element-name">source</span></div>
 <div class="block"><p>Detailed information about editorial article.</p></div>
 </section>
 </li>
@@ -152,7 +152,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-webeditorial"
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> language,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-websource" title="class in com.here.sdk.search">WebSource</a> source)</span></div>
+ <a href="sdk-for-android-explore-websource" title="class in com.here.sdk.search">WebSource</a> source)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

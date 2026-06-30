@@ -41,7 +41,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-engineoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-engineoptions#customAuthenticationMode">customAuthenticationMode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Allows bearer authentication mode for engines.</div>
@@ -118,7 +118,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-engineoptions"
 <section class="detail" id="customAuthenticationMode">
 <h3>customAuthenticationMode</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">customAuthenticationMode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-authenticationmode" title="class in com.here.sdk.core.engine">AuthenticationMode</a></span> <span class="element-name">customAuthenticationMode</span></div>
 <div class="block"><p>Allows bearer authentication mode for engines. This mode adds a header
  ("Authorization", "Bearer $Token") to each online request made by the
  module the object is added to. The token can either be provided directly

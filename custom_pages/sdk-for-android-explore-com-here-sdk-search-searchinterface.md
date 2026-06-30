@@ -22,7 +22,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchinterface"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
-<dd><code><a href="sdk-for-android-explore-com-here-sdk-search-searchengine" title="class in com.here.sdk.search">SearchEngine</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-searchengine" title="class in com.here.sdk.search">SearchEngine</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">SearchInterface</span></div>
@@ -42,54 +42,54 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchinterface"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByAddress(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByAddress</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-search-addressquery" title="class in com.here.sdk.search">AddressQuery</a> query,
- <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
- <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByAddress(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByAddress</a><wbr/>(<a href="sdk-for-android-explore-addressquery" title="class in com.here.sdk.search">AddressQuery</a> query,
+ <a href="sdk-for-android-explore-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
+ <a href="sdk-for-android-explore-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Performs an asynchronous address query search for <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> instances.</div>
+<div class="block">Performs an asynchronous address query search for <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> instances.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByCategory(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByCategory</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-search-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a> query,
- <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
- <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByCategory(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByCategory</a><wbr/>(<a href="sdk-for-android-explore-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a> query,
+ <a href="sdk-for-android-explore-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
+ <a href="sdk-for-android-explore-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Performs an asynchronous category search for <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> instances.</div>
+<div class="block">Performs an asynchronous category search for <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> instances.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByCoordinates(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByCoordinates</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
- <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
- <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByCoordinates(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByCoordinates</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+ <a href="sdk-for-android-explore-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
+ <a href="sdk-for-android-explore-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Performs an asynchronous search for <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> instances based on the given
+<div class="block">Performs an asynchronous search for <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> instances based on the given
  geographic coordinates.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByPickedPlace(com.here.sdk.core.PickedPlace,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)">searchByPickedPlace</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-pickedplace" title="class in com.here.sdk.core">PickedPlace</a> pickedPlace,
- <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
- <a href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a> callback)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByPickedPlace(com.here.sdk.core.PickedPlace,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)">searchByPickedPlace</a><wbr/>(<a href="sdk-for-android-explore-pickedplace" title="class in com.here.sdk.core">PickedPlace</a> pickedPlace,
+ <a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
+ <a href="sdk-for-android-explore-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Performs an asynchronous search for a <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> based on the content found in <a href="sdk-for-android-explore-com-here-sdk-core-pickedplace" title="class in com.here.sdk.core"><code>PickedPlace</code></a>.</div>
+<div class="block">Performs an asynchronous search for a <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> based on the content found in <a href="sdk-for-android-explore-pickedplace" title="class in com.here.sdk.core"><code>PickedPlace</code></a>.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByPlaceId(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)">searchByPlaceId</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-search-placeidquery" title="class in com.here.sdk.search">PlaceIdQuery</a> query,
- <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
- <a href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByPlaceId(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)">searchByPlaceId</a><wbr/>(<a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search">PlaceIdQuery</a> query,
+ <a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
+ <a href="sdk-for-android-explore-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Performs an asynchronous search for a <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> based on its ID and
- <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core"><code>LanguageCode</code></a>.</div>
+<div class="block">Performs an asynchronous search for a <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> based on its ID and
+ <a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core"><code>LanguageCode</code></a>.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByText</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-search-textquery" title="class in com.here.sdk.search">TextQuery</a> query,
- <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
- <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">searchByText</a><wbr/>(<a href="sdk-for-android-explore-textquery" title="class in com.here.sdk.search">TextQuery</a> query,
+ <a href="sdk-for-android-explore-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
+ <a href="sdk-for-android-explore-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Performs an asynchronous text query search for <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> instances within a given <a href="sdk-for-android-explore-com-here-sdk-search-textquery.area" title="class in com.here.sdk.search"><code>TextQuery.Area</code></a>.</div>
+<div class="block">Performs an asynchronous text query search for <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> instances within a given <a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search"><code>TextQuery.Area</code></a>.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)">suggestByText</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-search-textquery" title="class in com.here.sdk.search">TextQuery</a> query,
- <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
- <a href="sdk-for-android-explore-com-here-sdk-search-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchinterface#suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)">suggestByText</a><wbr/>(<a href="sdk-for-android-explore-textquery" title="class in com.here.sdk.search">TextQuery</a> query,
+ <a href="sdk-for-android-explore-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
+ <a href="sdk-for-android-explore-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Performs an asynchronous request to suggest places for text queries and
  returns suggestions sorted by relevance.</div>
@@ -112,13 +112,13 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchinterface"
 <section class="detail" id="searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">
 <h3>searchByText</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByText</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-textquery" title="class in com.here.sdk.search">TextQuery</a> query,
+</span><span class="return-type"><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByText</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-textquery" title="class in com.here.sdk.search">TextQuery</a> query,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
+ <a href="sdk-for-android-explore-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous text query search for <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> instances within a given <a href="sdk-for-android-explore-com-here-sdk-search-textquery.area" title="class in com.here.sdk.search"><code>TextQuery.Area</code></a>.
+ <a href="sdk-for-android-explore-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous text query search for <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> instances within a given <a href="sdk-for-android-explore-textquery.area" title="class in com.here.sdk.search"><code>TextQuery.Area</code></a>.
  The returned places are sorted by relevance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -134,16 +134,16 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchinterface"
 <section class="detail" id="searchByAddress(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">
 <h3>searchByAddress</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByAddress</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-addressquery" title="class in com.here.sdk.search">AddressQuery</a> query,
+</span><span class="return-type"><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByAddress</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-addressquery" title="class in com.here.sdk.search">AddressQuery</a> query,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
+ <a href="sdk-for-android-explore-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous address query search for <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> instances.
+ <a href="sdk-for-android-explore-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous address query search for <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> instances.
  This is the same type of search as forward geocoding, except that more data is returned
  than just the geographic coordinates of a given address. Note that an address can
- belong to more than one <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> result, although all found places will
+ belong to more than one <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> result, although all found places will
  share the same geographic coordinates.
  The returned places are sorted by relevance.</p></div>
 <dl class="notes">
@@ -160,14 +160,14 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchinterface"
 <section class="detail" id="searchByCategory(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">
 <h3>searchByCategory</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByCategory</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a> query,
+</span><span class="return-type"><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByCategory</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a> query,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
+ <a href="sdk-for-android-explore-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous category search for <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> instances.
- A list containing at least one <a href="sdk-for-android-explore-com-here-sdk-search-placecategory" title="class in com.here.sdk.search"><code>PlaceCategory</code></a> must be provided
+ <a href="sdk-for-android-explore-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous category search for <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> instances.
+ A list containing at least one <a href="sdk-for-android-explore-placecategory" title="class in com.here.sdk.search"><code>PlaceCategory</code></a> must be provided
  as part of the <code>query</code>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -183,17 +183,17 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchinterface"
 <section class="detail" id="searchByCoordinates(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)">
 <h3>searchByCoordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
+</span><span class="return-type"><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByCoordinates</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
+ <a href="sdk-for-android-explore-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous search for <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> instances based on the given
+ <a href="sdk-for-android-explore-searchcallback" title="interface in com.here.sdk.search">SearchCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous search for <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> instances based on the given
  geographic coordinates.
  This is the same search type as reverse geocoding, except that more data is returned
- than just the <a href="sdk-for-android-explore-com-here-sdk-search-address" title="class in com.here.sdk.search"><code>Address</code></a> related to the given coordinates.
- Note that more than one <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> can be related to the given coordinates.
+ than just the <a href="sdk-for-android-explore-address" title="class in com.here.sdk.search"><code>Address</code></a> related to the given coordinates.
+ Note that more than one <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> can be related to the given coordinates.
  The returned places are sorted by relevance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -209,14 +209,14 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchinterface"
 <section class="detail" id="searchByPlaceId(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)">
 <h3>searchByPlaceId</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByPlaceId</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-placeidquery" title="class in com.here.sdk.search">PlaceIdQuery</a> query,
+</span><span class="return-type"><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByPlaceId</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search">PlaceIdQuery</a> query,
  @Nullable
- <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
+ <a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous search for a <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> based on its ID and
- <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core"><code>LanguageCode</code></a>.</p></div>
+ <a href="sdk-for-android-explore-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous search for a <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> based on its ID and
+ <a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core"><code>LanguageCode</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>query</code> - <p>The id of place to search.</p></dd>
@@ -232,14 +232,14 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchinterface"
 <section class="detail" id="searchByPickedPlace(com.here.sdk.core.PickedPlace,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)">
 <h3>searchByPickedPlace</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByPickedPlace</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-pickedplace" title="class in com.here.sdk.core">PickedPlace</a> pickedPlace,
+</span><span class="return-type"><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">searchByPickedPlace</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-pickedplace" title="class in com.here.sdk.core">PickedPlace</a> pickedPlace,
  @Nullable
- <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
+ <a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a> languageCode,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous search for a <a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search"><code>Place</code></a> based on the content found in <a href="sdk-for-android-explore-com-here-sdk-core-pickedplace" title="class in com.here.sdk.core"><code>PickedPlace</code></a>.
- If <a href="sdk-for-android-explore-com-here-sdk-core-pickedplace" title="class in com.here.sdk.core"><code>PickedPlace</code></a> data is obtained from the offline map, it may happen that the newer version
+ <a href="sdk-for-android-explore-placeidsearchcallback" title="interface in com.here.sdk.search">PlaceIdSearchCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous search for a <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search"><code>Place</code></a> based on the content found in <a href="sdk-for-android-explore-pickedplace" title="class in com.here.sdk.core"><code>PickedPlace</code></a>.
+ If <a href="sdk-for-android-explore-pickedplace" title="class in com.here.sdk.core"><code>PickedPlace</code></a> data is obtained from the offline map, it may happen that the newer version
  that is used by the online service represented by <code>SearchEngine</code> no longer contains the
  related POI. In that case, <a href="sdk-for-android-explore-searcherror#NO_RESULTS_FOUND"><code>SearchError.NO_RESULTS_FOUND</code></a> error is reported.
  When that happens, you may try to obtain the POI from the offline map by calling
@@ -259,17 +259,17 @@ slug: "sdk-for-android-explore-com-here-sdk-search-searchinterface"
 <section class="detail" id="suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)">
 <h3>suggestByText</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">suggestByText</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-textquery" title="class in com.here.sdk.search">TextQuery</a> query,
+</span><span class="return-type"><a href="sdk-for-android-explore-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">suggestByText</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-textquery" title="class in com.here.sdk.search">TextQuery</a> query,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
+ <a href="sdk-for-android-explore-searchoptions" title="class in com.here.sdk.search">SearchOptions</a> options,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-search-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a> callback)</span></div>
+ <a href="sdk-for-android-explore-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a> callback)</span></div>
 <div class="block"><p>Performs an asynchronous request to suggest places for text queries and
  returns suggestions sorted by relevance.
  Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
  <code>SearchEngine</code> includes only the information that is relevant for autosuggest use cases.
- Complete details can be obtained by searching with <a href="sdk-for-android-explore-com-here-sdk-search-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
+ Complete details can be obtained by searching with <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>query</code> - <p>Desired text query to search.</p></dd>

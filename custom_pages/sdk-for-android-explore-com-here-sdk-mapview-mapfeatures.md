@@ -28,7 +28,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Holds constants for map features, to be used with
  <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> and <a href="sdk-for-android-explore-mapscene#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a>.
- See <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> for constants representing feature modes.</p></div>
+ See <a href="sdk-for-android-explore-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> for constants representing feature modes.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -338,7 +338,7 @@ Default mode is <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABEL
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">SHADOWS</span></div>
 <div class="block"><p>Shadows for all building types (extruded buildings and landmarks).
  Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#SHADOWS_ALL"><code>MapFeatureModes.SHADOWS_ALL</code></a>.
- A <a href="sdk-for-android-explore-com-here-sdk-mapview-shadowquality" title="enum class in com.here.sdk.mapview"><code>ShadowQuality</code></a> must be set on the MapContext through a MapView or the feature has no
+ A <a href="sdk-for-android-explore-shadowquality" title="enum class in com.here.sdk.mapview"><code>ShadowQuality</code></a> must be set on the MapContext through a MapView or the feature has no
  effect.
  Shadows have a performance impact and should be considered only for devices with
  sufficient performance.

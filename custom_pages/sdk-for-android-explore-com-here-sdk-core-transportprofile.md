@@ -44,13 +44,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-transportprofile"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-pedestrianprofile" title="class in com.here.sdk.core">PedestrianProfile</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-pedestrianprofile" title="class in com.here.sdk.core">PedestrianProfile</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-transportprofile#pedestrianProfile">pedestrianProfile</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Defines the pedestrian profile.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile" title="class in com.here.sdk.transport">VehicleProfile</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-vehicleprofile" title="class in com.here.sdk.transport">VehicleProfile</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-transportprofile#vehicleProfile">vehicleProfile</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
@@ -117,7 +117,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-transportprofile"
 <section class="detail" id="pedestrianProfile">
 <h3>pedestrianProfile</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-pedestrianprofile" title="class in com.here.sdk.core">PedestrianProfile</a></span> <span class="element-name">pedestrianProfile</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-pedestrianprofile" title="class in com.here.sdk.core">PedestrianProfile</a></span> <span class="element-name">pedestrianProfile</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Defines the pedestrian profile.</p></div>
 </section>
@@ -126,7 +126,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-transportprofile"
 <section class="detail" id="vehicleProfile">
 <h3>vehicleProfile</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile" title="class in com.here.sdk.transport">VehicleProfile</a></span> <span class="element-name">vehicleProfile</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-vehicleprofile" title="class in com.here.sdk.transport">VehicleProfile</a></span> <span class="element-name">vehicleProfile</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Defines the vehicle profile.</p></div>
 </section>

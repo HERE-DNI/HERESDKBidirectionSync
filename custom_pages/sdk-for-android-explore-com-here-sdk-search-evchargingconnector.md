@@ -46,7 +46,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingconnector"
 <div class="col-last even-row-color">
 <div class="block">Standardized type of the connector.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectorformat" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-evchargingconnectorformat" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#format">format</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Format of the connector, whether it is a socket or a cable.</div>
@@ -71,7 +71,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingconnector"
 <div class="col-last odd-row-color">
 <div class="block">Max voltage (in volts) of the connector.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-powertype" title="enum class in com.here.sdk.core">PowerType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-powertype" title="enum class in com.here.sdk.core">PowerType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnector#powerType">powerType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of electrical power used by the connector.</div>
@@ -152,14 +152,14 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingconnector"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">connectorType</span></div>
 <div class="block"><p>Standardized type of the connector.
- Should be one of the constants defined in <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype" title="class in com.here.sdk.ev"><code>EVChargingConnectorType</code></a>.</p></div>
+ Should be one of the constants defined in <a href="sdk-for-android-explore-evchargingconnectortype" title="class in com.here.sdk.ev"><code>EVChargingConnectorType</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="format">
 <h3>format</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectorformat" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></span> <span class="element-name">format</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evchargingconnectorformat" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></span> <span class="element-name">format</span></div>
 <div class="block"><p>Format of the connector, whether it is a socket or a cable.</p></div>
 </section>
 </li>
@@ -167,7 +167,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingconnector"
 <section class="detail" id="powerType">
 <h3>powerType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-powertype" title="enum class in com.here.sdk.core">PowerType</a></span> <span class="element-name">powerType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-powertype" title="enum class in com.here.sdk.core">PowerType</a></span> <span class="element-name">powerType</span></div>
 <div class="block"><p>Type of electrical power used by the connector.</p></div>
 </section>
 </li>

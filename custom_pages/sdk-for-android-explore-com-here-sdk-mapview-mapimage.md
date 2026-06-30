@@ -20,16 +20,16 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimage"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapImage</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapImage</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Represents a drawable resource that can be used by a <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker3d" title="class in com.here.sdk.mapview"><code>MapMarker3D</code></a> or <a href="sdk-for-android-explore-com-here-sdk-mapview-mapimageoverlay" title="class in com.here.sdk.mapview"><code>MapImageOverlay</code></a> to be shown on the map.
- Supported formats are listed in <a href="sdk-for-android-explore-com-here-sdk-mapview-imageformat" title="enum class in com.here.sdk.mapview"><code>ImageFormat</code></a>.
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Represents a drawable resource that can be used by a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>, <a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview"><code>MapMarker3D</code></a> or <a href="sdk-for-android-explore-mapimageoverlay" title="class in com.here.sdk.mapview"><code>MapImageOverlay</code></a> to be shown on the map.
+ Supported formats are listed in <a href="sdk-for-android-explore-imageformat" title="enum class in com.here.sdk.mapview"><code>ImageFormat</code></a>.
  SVG format allows custom fonts in text using font-family attribute by prior registration via <code>AssetsManager.registerFont</code>.
  It is recommended to associate a resource with a single <code>MapImage</code> instance in order to enable
  resource sharing and reduce the amount of needed memory.</p></div>
@@ -45,12 +45,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimage"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapimage#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat)">MapImage</a><wbr/>(byte[] pixelData,
- <a href="sdk-for-android-explore-com-here-sdk-mapview-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat)</code></div>
+ <a href="sdk-for-android-explore-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new map image from the provided image data.</div>
 </div>
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapimage#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat,long,long)">MapImage</a><wbr/>(byte[] imageData,
- <a href="sdk-for-android-explore-com-here-sdk-mapview-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat,
+ <a href="sdk-for-android-explore-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat,
  long width,
  long height)</code></div>
 <div class="col-last odd-row-color">
@@ -89,7 +89,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimage"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapImage</span><wbr/><span class="parameters">(@NonNull
  byte[] pixelData,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat)</span></div>
+ <a href="sdk-for-android-explore-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat)</span></div>
 <div class="block"><p>Creates a new map image from the provided image data. Currently only <a href="sdk-for-android-explore-imageformat#PNG"><code>ImageFormat.PNG</code></a>
  is accepted.</p></div>
 <dl class="notes">
@@ -106,7 +106,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimage"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapImage</span><wbr/><span class="parameters">(@NonNull
  byte[] imageData,
  @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat,
+ <a href="sdk-for-android-explore-imageformat" title="enum class in com.here.sdk.mapview">ImageFormat</a> imageFormat,
  long width,
  long height)</span></div>
 <div class="block"><p>Creates a new map image from the provided image data.</p></div>
@@ -128,7 +128,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimage"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> filePath,
  long width,
  long height)</span>
-         throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+         throws <span class="exceptions"><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new map image from the provided path to the SVG Tiny or PNG image.
  Will throw an error if either the height or width equals zero or the path is empty.
  Trying to load a file that is not compliant with SVG Tiny or PNG results
@@ -146,7 +146,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapimage"
 <dd><code>width</code> - <p>The width of image in pixels.</p></dd>
 <dd><code>height</code> - <p>The height of image in pixels.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="sdk-for-android-explore-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>

@@ -46,7 +46,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocorridor"
 <div class="col-last even-row-color">
 <div class="block">The shortest distance from any point on the polyline to the border of the corridor.</div>
 </div>
-<div class="col-first odd-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-geocorridor#polyline">polyline</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The polyline passing through the middle of the corridor.</div>
@@ -62,11 +62,11 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocorridor"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-geocorridor#%3Cinit%3E(java.util.List)">GeoCorridor</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-geocorridor#%3Cinit%3E(java.util.List)">GeoCorridor</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a GeoCorridor from the provided polyline.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-geocorridor#%3Cinit%3E(java.util.List,int)">GeoCorridor</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-geocorridor#%3Cinit%3E(java.util.List,int)">GeoCorridor</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
  int halfWidthInMeters)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs a GeoCorridor from the provided polyline and half-width in meters.</div>
@@ -112,7 +112,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocorridor"
 <section class="detail" id="polyline">
 <h3>polyline</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</span> <span class="element-name">polyline</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</span> <span class="element-name">polyline</span></div>
 <div class="block"><p>The polyline passing through the middle of the corridor.</p></div>
 </section>
 </li>
@@ -136,7 +136,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocorridor"
 <section class="detail" id="&lt;init&gt;(java.util.List,int)">
 <h3>GeoCorridor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GeoCorridor</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
  int halfWidthInMeters)</span></div>
 <div class="block"><p>Constructs a GeoCorridor from the provided polyline and half-width in meters.</p></div>
 <dl class="notes">
@@ -150,7 +150,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocorridor"
 <section class="detail" id="&lt;init&gt;(java.util.List)">
 <h3>GeoCorridor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GeoCorridor</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline)</span></div>
 <div class="block"><p>Constructs a GeoCorridor from the provided polyline.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

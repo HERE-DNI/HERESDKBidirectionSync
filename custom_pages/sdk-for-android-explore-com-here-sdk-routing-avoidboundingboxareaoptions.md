@@ -39,22 +39,22 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#avoidBoundingBoxArea">avoidBoundingBoxArea</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Area of rectangular shape which routes must not cross.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#boundingBoxExceptionAreas">boundingBoxExceptionAreas</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Areas of rectangular shape to exclude from avoidance.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#corridorExceptionAreas">corridorExceptionAreas</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Areas of corridor shape to exclude from avoidance.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#polygonExceptionAreas">polygonExceptionAreas</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Areas of polygon shape to exclude from avoidance.</div>
@@ -70,7 +70,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#%3Cinit%3E(com.here.sdk.core.GeoBox)">AvoidBoundingBoxAreaOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> avoidBoundingBoxArea)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions#%3Cinit%3E(com.here.sdk.core.GeoBox)">AvoidBoundingBoxAreaOptions</a><wbr/>(<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> avoidBoundingBoxArea)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -115,7 +115,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions"
 <section class="detail" id="avoidBoundingBoxArea">
 <h3>avoidBoundingBoxArea</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">avoidBoundingBoxArea</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">avoidBoundingBoxArea</span></div>
 <div class="block"><p>Area of rectangular shape which routes must not cross. Strictly enforced.
  <strong>Note:</strong>
  Violations are reported as [sdk.routing.SectionNoticeCode.VIOLATED_BLOCKED_ROAD].
@@ -126,7 +126,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions"
 <section class="detail" id="boundingBoxExceptionAreas">
 <h3>boundingBoxExceptionAreas</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</span> <span class="element-name">boundingBoxExceptionAreas</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</span> <span class="element-name">boundingBoxExceptionAreas</span></div>
 <div class="block"><p>Areas of rectangular shape to exclude from avoidance.</p></div>
 </section>
 </li>
@@ -134,7 +134,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions"
 <section class="detail" id="polygonExceptionAreas">
 <h3>polygonExceptionAreas</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</span> <span class="element-name">polygonExceptionAreas</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</span> <span class="element-name">polygonExceptionAreas</span></div>
 <div class="block"><p>Areas of polygon shape to exclude from avoidance.</p></div>
 </section>
 </li>
@@ -142,7 +142,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions"
 <section class="detail" id="corridorExceptionAreas">
 <h3>corridorExceptionAreas</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>&gt;</span> <span class="element-name">corridorExceptionAreas</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>&gt;</span> <span class="element-name">corridorExceptionAreas</span></div>
 <div class="block"><p>Areas of corridor shape to exclude from avoidance.
  <strong>Note:</strong>
  Even though <code>GeoCorridor.half_width_in_meters</code> is an optional property in case of exception areas it is mandatory.
@@ -161,7 +161,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoBox)">
 <h3>AvoidBoundingBoxAreaOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">AvoidBoundingBoxAreaOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a> avoidBoundingBoxArea)</span></div>
+ <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> avoidBoundingBoxArea)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

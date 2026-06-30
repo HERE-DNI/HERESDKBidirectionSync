@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-signpost"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-signpostlabel" title="class in com.here.sdk.routing">SignpostLabel</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-signpostlabel" title="class in com.here.sdk.routing">SignpostLabel</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-signpost#labels">labels</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of signpost labels.</div>
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-signpost"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-signpost#%3Cinit%3E(java.util.List)">Signpost</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-signpostlabel" title="class in com.here.sdk.routing">SignpostLabel</a>&gt; labels)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-signpost#%3Cinit%3E(java.util.List)">Signpost</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-signpostlabel" title="class in com.here.sdk.routing">SignpostLabel</a>&gt; labels)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -100,7 +100,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-signpost"
 <section class="detail" id="labels">
 <h3>labels</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-signpostlabel" title="class in com.here.sdk.routing">SignpostLabel</a>&gt;</span> <span class="element-name">labels</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-signpostlabel" title="class in com.here.sdk.routing">SignpostLabel</a>&gt;</span> <span class="element-name">labels</span></div>
 <div class="block"><p>List of signpost labels.</p></div>
 </section>
 </li>
@@ -116,7 +116,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-signpost"
 <section class="detail" id="&lt;init&gt;(java.util.List)">
 <h3>Signpost</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Signpost</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-signpostlabel" title="class in com.here.sdk.routing">SignpostLabel</a>&gt; labels)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-signpostlabel" title="class in com.here.sdk.routing">SignpostLabel</a>&gt; labels)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

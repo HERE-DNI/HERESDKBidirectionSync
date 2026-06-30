@@ -20,18 +20,18 @@ slug: "sdk-for-android-explore-com-here-sdk-core-languagecode"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>&gt;
 <div class="inheritance">com.here.sdk.core.LanguageCode</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">LanguageCode</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>&gt;</span></div>
 <div class="block"><p>This enum represents language codes. The basic naming pattern
  consists of a 2-letter ISO 639-1 language code followed by a 2-letter ISO
  3166-1 country code. Some language codes consist only of a language code, i.e.
@@ -520,12 +520,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-languagecode"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-languagecode#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-languagecode#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -554,784 +554,784 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="EN_US">
 <h3>EN_US</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">EN_US</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">EN_US</span></div>
 <div class="block"><p>English (United States)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="AF_ZA">
 <h3>AF_ZA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AF_ZA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AF_ZA</span></div>
 <div class="block"><p>Afrikaans</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SQ_AL">
 <h3>SQ_AL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SQ_AL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SQ_AL</span></div>
 <div class="block"><p>Albanian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="AM_ET">
 <h3>AM_ET</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AM_ET</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AM_ET</span></div>
 <div class="block"><p>Amharic (Ethiopia)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="AR_SA">
 <h3>AR_SA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AR_SA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AR_SA</span></div>
 <div class="block"><p>Arabic (Saudi Arabia)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HY_AM">
 <h3>HY_AM</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HY_AM</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HY_AM</span></div>
 <div class="block"><p>Armenian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="AS_IN">
 <h3>AS_IN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AS_IN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AS_IN</span></div>
 <div class="block"><p>Assamese (India)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="AZ_LATN_AZ">
 <h3>AZ_LATN_AZ</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AZ_LATN_AZ</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">AZ_LATN_AZ</span></div>
 <div class="block"><p>Azeri - Latin</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BN_BD">
 <h3>BN_BD</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BN_BD</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BN_BD</span></div>
 <div class="block"><p>Bangla (Bangladesh)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BN_IN">
 <h3>BN_IN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BN_IN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BN_IN</span></div>
 <div class="block"><p>Bangla (India)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="EU_ES">
 <h3>EU_ES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">EU_ES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">EU_ES</span></div>
 <div class="block"><p>Basque</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BE_BY">
 <h3>BE_BY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BE_BY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BE_BY</span></div>
 <div class="block"><p>Belarusian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BS_LATN_BA">
 <h3>BS_LATN_BA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BS_LATN_BA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BS_LATN_BA</span></div>
 <div class="block"><p>Bosnian - Latin</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BG_BG">
 <h3>BG_BG</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BG_BG</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">BG_BG</span></div>
 <div class="block"><p>Bulgarian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CA_ES">
 <h3>CA_ES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">CA_ES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">CA_ES</span></div>
 <div class="block"><p>Catalan (Spain)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="KU_ARAB">
 <h3>KU_ARAB</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KU_ARAB</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KU_ARAB</span></div>
 <div class="block"><p>Central Kurdish - Arabic</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ZH_CN">
 <h3>ZH_CN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ZH_CN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ZH_CN</span></div>
 <div class="block"><p>Chinese (Simplified China)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ZH_HK">
 <h3>ZH_HK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ZH_HK</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ZH_HK</span></div>
 <div class="block"><p>Chinese (Traditional Hong Kong)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ZH_TW">
 <h3>ZH_TW</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ZH_TW</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ZH_TW</span></div>
 <div class="block"><p>Chinese (Traditional Taiwan)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HR_HR">
 <h3>HR_HR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HR_HR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HR_HR</span></div>
 <div class="block"><p>Croatian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CS_CZ">
 <h3>CS_CZ</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">CS_CZ</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">CS_CZ</span></div>
 <div class="block"><p>Czech</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DA_DK">
 <h3>DA_DK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">DA_DK</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">DA_DK</span></div>
 <div class="block"><p>Danish</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PRS_ARAB_AF">
 <h3>PRS_ARAB_AF</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PRS_ARAB_AF</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PRS_ARAB_AF</span></div>
 <div class="block"><p>Dari - Arabic (Afghanistan)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NL_BE">
 <h3>NL_BE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NL_BE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NL_BE</span></div>
 <div class="block"><p>Flemish Dutch (Belgium)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NL_NL">
 <h3>NL_NL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NL_NL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NL_NL</span></div>
 <div class="block"><p>Dutch</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="EN_GB">
 <h3>EN_GB</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">EN_GB</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">EN_GB</span></div>
 <div class="block"><p>English (British)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ET_EE">
 <h3>ET_EE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ET_EE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ET_EE</span></div>
 <div class="block"><p>Estonian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FA_IR">
 <h3>FA_IR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FA_IR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FA_IR</span></div>
 <div class="block"><p>Farsi (Iran)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FIL_PH">
 <h3>FIL_PH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FIL_PH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FIL_PH</span></div>
 <div class="block"><p>Filipino</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FI_FI">
 <h3>FI_FI</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FI_FI</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FI_FI</span></div>
 <div class="block"><p>Finnish</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FR_FR">
 <h3>FR_FR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FR_FR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FR_FR</span></div>
 <div class="block"><p>French</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="FR_CA">
 <h3>FR_CA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FR_CA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">FR_CA</span></div>
 <div class="block"><p>French (Canada)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="GL_ES">
 <h3>GL_ES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">GL_ES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">GL_ES</span></div>
 <div class="block"><p>Galician</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="KA_GE">
 <h3>KA_GE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KA_GE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KA_GE</span></div>
 <div class="block"><p>Georgian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DE_DE">
 <h3>DE_DE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">DE_DE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">DE_DE</span></div>
 <div class="block"><p>German</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="EL_GR">
 <h3>EL_GR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">EL_GR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">EL_GR</span></div>
 <div class="block"><p>Greek</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="GU_IN">
 <h3>GU_IN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">GU_IN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">GU_IN</span></div>
 <div class="block"><p>Gujarati (India)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HA_LATN_NG">
 <h3>HA_LATN_NG</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HA_LATN_NG</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HA_LATN_NG</span></div>
 <div class="block"><p>Hausa - Latin (Nigeria)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HE_IL">
 <h3>HE_IL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HE_IL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HE_IL</span></div>
 <div class="block"><p>Hebrew</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HI_IN">
 <h3>HI_IN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HI_IN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HI_IN</span></div>
 <div class="block"><p>Hindi</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HU_HU">
 <h3>HU_HU</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HU_HU</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">HU_HU</span></div>
 <div class="block"><p>Hungarian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="IS_IS">
 <h3>IS_IS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">IS_IS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">IS_IS</span></div>
 <div class="block"><p>Icelandic</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="IG_LATN_NG">
 <h3>IG_LATN_NG</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">IG_LATN_NG</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">IG_LATN_NG</span></div>
 <div class="block"><p>Igbo - Latin (Nigera)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ID_ID">
 <h3>ID_ID</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ID_ID</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ID_ID</span></div>
 <div class="block"><p>Indonesian (Bahasa)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="GA_IE">
 <h3>GA_IE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">GA_IE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">GA_IE</span></div>
 <div class="block"><p>Irish</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="XH">
 <h3>XH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">XH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">XH</span></div>
 <div class="block"><p>IsiXhosa</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ZU_ZA">
 <h3>ZU_ZA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ZU_ZA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ZU_ZA</span></div>
 <div class="block"><p>IsiZulu (South Africa)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="IT_IT">
 <h3>IT_IT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">IT_IT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">IT_IT</span></div>
 <div class="block"><p>Italian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="JA_JP">
 <h3>JA_JP</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">JA_JP</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">JA_JP</span></div>
 <div class="block"><p>Japanese</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="KN_IN">
 <h3>KN_IN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KN_IN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KN_IN</span></div>
 <div class="block"><p>Kannada (India)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="KK_KZ">
 <h3>KK_KZ</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KK_KZ</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KK_KZ</span></div>
 <div class="block"><p>Kazakh</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="KM_KH">
 <h3>KM_KH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KM_KH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KM_KH</span></div>
 <div class="block"><p>Khmer (Cambodia)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="QUC_LATN_GT">
 <h3>QUC_LATN_GT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">QUC_LATN_GT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">QUC_LATN_GT</span></div>
 <div class="block"><p>K'iche' - Latin (Guatemala)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RW_RW">
 <h3>RW_RW</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">RW_RW</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">RW_RW</span></div>
 <div class="block"><p>Kinyarwanda (Rwanda)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SW">
 <h3>SW</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SW</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SW</span></div>
 <div class="block"><p>KiSwahili</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="KOK_IN">
 <h3>KOK_IN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KOK_IN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KOK_IN</span></div>
 <div class="block"><p>Konkani (India)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="KO_KR">
 <h3>KO_KR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KO_KR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KO_KR</span></div>
 <div class="block"><p>Korean</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="KY_CYRL_KG">
 <h3>KY_CYRL_KG</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KY_CYRL_KG</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">KY_CYRL_KG</span></div>
 <div class="block"><p>Kyrgyz - Cyrillic</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LV_LV">
 <h3>LV_LV</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">LV_LV</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">LV_LV</span></div>
 <div class="block"><p>Latvian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LT_LT">
 <h3>LT_LT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">LT_LT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">LT_LT</span></div>
 <div class="block"><p>Lithuanian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LB_LU">
 <h3>LB_LU</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">LB_LU</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">LB_LU</span></div>
 <div class="block"><p>Luxembourgish</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MK_MK">
 <h3>MK_MK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MK_MK</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MK_MK</span></div>
 <div class="block"><p>Macedonian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MS_MY">
 <h3>MS_MY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MS_MY</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MS_MY</span></div>
 <div class="block"><p>Malay (Bahasa)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ML_IN">
 <h3>ML_IN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ML_IN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ML_IN</span></div>
 <div class="block"><p>Malayalam (India)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MT_MT">
 <h3>MT_MT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MT_MT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MT_MT</span></div>
 <div class="block"><p>Maltese  (Malta)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MI_LATN_NZ">
 <h3>MI_LATN_NZ</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MI_LATN_NZ</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MI_LATN_NZ</span></div>
 <div class="block"><p>Maori - Latin (New Zealand)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MR_IN">
 <h3>MR_IN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MR_IN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MR_IN</span></div>
 <div class="block"><p>Marathi (India)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MN_CYRL_MN">
 <h3>MN_CYRL_MN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MN_CYRL_MN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">MN_CYRL_MN</span></div>
 <div class="block"><p>Mongolian - Cyrillic</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NE_NP">
 <h3>NE_NP</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NE_NP</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NE_NP</span></div>
 <div class="block"><p>Nepali (Nepal)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NB_NO">
 <h3>NB_NO</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NB_NO</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NB_NO</span></div>
 <div class="block"><p>Norwegian (Bokmal)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NN_NO">
 <h3>NN_NO</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NN_NO</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NN_NO</span></div>
 <div class="block"><p>Norwegian (Nynorsk)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OR_IN">
 <h3>OR_IN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">OR_IN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">OR_IN</span></div>
 <div class="block"><p>Odia (India)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PL_PL">
 <h3>PL_PL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PL_PL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PL_PL</span></div>
 <div class="block"><p>Polish</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PT_BR">
 <h3>PT_BR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PT_BR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PT_BR</span></div>
 <div class="block"><p>Portuguese (Brazil)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PT_PT">
 <h3>PT_PT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PT_PT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PT_PT</span></div>
 <div class="block"><p>Portuguese (Portugal)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PA_GURU">
 <h3>PA_GURU</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PA_GURU</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PA_GURU</span></div>
 <div class="block"><p>Punjabi - Gurmukhi</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PA_ARAB">
 <h3>PA_ARAB</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PA_ARAB</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">PA_ARAB</span></div>
 <div class="block"><p>Punjabi - Arabic</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="QU_LATN_PE">
 <h3>QU_LATN_PE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">QU_LATN_PE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">QU_LATN_PE</span></div>
 <div class="block"><p>Quechua - Latin (Peru)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RO_RO">
 <h3>RO_RO</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">RO_RO</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">RO_RO</span></div>
 <div class="block"><p>Romanian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RU_RU">
 <h3>RU_RU</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">RU_RU</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">RU_RU</span></div>
 <div class="block"><p>Russian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="GD_LATN_GB">
 <h3>GD_LATN_GB</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">GD_LATN_GB</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">GD_LATN_GB</span></div>
 <div class="block"><p>Scottish Gaelic - Latin</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SR_CYRL_BA">
 <h3>SR_CYRL_BA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SR_CYRL_BA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SR_CYRL_BA</span></div>
 <div class="block"><p>Serbian - Cyrillic (Bosnia)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SR_CYRL_RS">
 <h3>SR_CYRL_RS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SR_CYRL_RS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SR_CYRL_RS</span></div>
 <div class="block"><p>Serbian - Cyrillic (Serbia)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SR_LATN_RS">
 <h3>SR_LATN_RS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SR_LATN_RS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SR_LATN_RS</span></div>
 <div class="block"><p>Serbian - Latin (Serbia)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="NSO_ZA">
 <h3>NSO_ZA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NSO_ZA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">NSO_ZA</span></div>
 <div class="block"><p>Sesotho Sa Leboa (South Africa)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TN">
 <h3>TN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TN</span></div>
 <div class="block"><p>Setswana</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SD_ARAB">
 <h3>SD_ARAB</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SD_ARAB</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SD_ARAB</span></div>
 <div class="block"><p>Sindhi - Arabic</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SI_LK">
 <h3>SI_LK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SI_LK</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SI_LK</span></div>
 <div class="block"><p>Sinhala (Sri Lanka)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SK_SK">
 <h3>SK_SK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SK_SK</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SK_SK</span></div>
 <div class="block"><p>Slovak</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SL_SI">
 <h3>SL_SI</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SL_SI</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SL_SI</span></div>
 <div class="block"><p>Slovenian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ES_AR">
 <h3>ES_AR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ES_AR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ES_AR</span></div>
 <div class="block"><p>Spanish (Argentina)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ES_MX">
 <h3>ES_MX</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ES_MX</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ES_MX</span></div>
 <div class="block"><p>Spanish (Mexico)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ES_ES">
 <h3>ES_ES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ES_ES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">ES_ES</span></div>
 <div class="block"><p>Spanish (Spain)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="SV_SE">
 <h3>SV_SE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SV_SE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">SV_SE</span></div>
 <div class="block"><p>Swedish</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TG_CYRL_TJ">
 <h3>TG_CYRL_TJ</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TG_CYRL_TJ</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TG_CYRL_TJ</span></div>
 <div class="block"><p>Tajik - Cyrillic</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TA">
 <h3>TA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TA</span></div>
 <div class="block"><p>Tamil</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TT_CYRL_RU">
 <h3>TT_CYRL_RU</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TT_CYRL_RU</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TT_CYRL_RU</span></div>
 <div class="block"><p>Tatar - Cyrillic (Russia)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TE_IN">
 <h3>TE_IN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TE_IN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TE_IN</span></div>
 <div class="block"><p>Telugu (India)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TH_TH">
 <h3>TH_TH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TH_TH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TH_TH</span></div>
 <div class="block"><p>Thai</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TI_ET">
 <h3>TI_ET</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TI_ET</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TI_ET</span></div>
 <div class="block"><p>Tigrinya (Ethiopia)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TR_TR">
 <h3>TR_TR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TR_TR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TR_TR</span></div>
 <div class="block"><p>Turkish</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TK_LATN_TM">
 <h3>TK_LATN_TM</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TK_LATN_TM</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">TK_LATN_TM</span></div>
 <div class="block"><p>Turkmen - Latin</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="UK_UA">
 <h3>UK_UA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UK_UA</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UK_UA</span></div>
 <div class="block"><p>Ukrainian</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="UR">
 <h3>UR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UR</span></div>
 <div class="block"><p>Urdu</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="UG_ARAB">
 <h3>UG_ARAB</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UG_ARAB</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UG_ARAB</span></div>
 <div class="block"><p>Uyghur - Arabic</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="UZ_CYRL_UZ">
 <h3>UZ_CYRL_UZ</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UZ_CYRL_UZ</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UZ_CYRL_UZ</span></div>
 <div class="block"><p>Uzbek - Cyrillic</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="UZ_LATN_UZ">
 <h3>UZ_LATN_UZ</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UZ_LATN_UZ</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">UZ_LATN_UZ</span></div>
 <div class="block"><p>Uzbek - Latin</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CAT_ES">
 <h3>CAT_ES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">CAT_ES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">CAT_ES</span></div>
 <div class="block"><p>Valencian (Spain)</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="VI_VN">
 <h3>VI_VN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">VI_VN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">VI_VN</span></div>
 <div class="block"><p>Vietnamese</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CY_GB">
 <h3>CY_GB</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">CY_GB</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">CY_GB</span></div>
 <div class="block"><p>Welsh</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="WO_LATN">
 <h3>WO_LATN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">WO_LATN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">WO_LATN</span></div>
 <div class="block"><p>Wolof - Latin</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="YO_LATN">
 <h3>YO_LATN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">YO_LATN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">YO_LATN</span></div>
 <div class="block"><p>Yoruba - Latin</p></div>
 </section>
 </li>
@@ -1346,7 +1346,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -1358,7 +1358,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

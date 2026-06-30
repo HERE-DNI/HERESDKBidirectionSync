@@ -20,15 +20,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.PointDataBuilder</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PointDataBuilder</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Builder of <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata" title="class in com.here.sdk.mapview.datasource"><code>PointData</code></a> instances.
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Builder of <a href="sdk-for-android-explore-pointdata" title="class in com.here.sdk.mapview.datasource"><code>PointData</code></a> instances.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
@@ -60,18 +60,18 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Builds an instance of <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata" title="class in com.here.sdk.mapview.datasource"><code>PointData</code></a> and resets the builder instance.</div>
+<div class="block">Builds an instance of <a href="sdk-for-android-explore-pointdata" title="class in com.here.sdk.mapview.datasource"><code>PointData</code></a> and resets the builder instance.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder" title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder#withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">withAttributes</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-pointdatabuilder" title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder#withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">withAttributes</a><wbr/>(<a href="sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder with custom attributes for point to be created.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder" title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder#withCoordinates(com.here.sdk.core.GeoCoordinates)">withCoordinates</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-pointdatabuilder" title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder#withCoordinates(com.here.sdk.core.GeoCoordinates)">withCoordinates</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder with geodetic coordinates for point to be created.</div>
 </div>
@@ -111,8 +111,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder"
 <section class="detail" id="withCoordinates(com.here.sdk.core.GeoCoordinates)">
 <h3>withCoordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder" title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a></span> <span class="element-name">withCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-pointdatabuilder" title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a></span> <span class="element-name">withCoordinates</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
 <div class="block"><p>Configures the builder with geodetic coordinates for point to be created.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -127,8 +127,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder"
 <section class="detail" id="withAttributes(com.here.sdk.mapview.datasource.DataAttributes)">
 <h3>withAttributes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder" title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a></span> <span class="element-name">withAttributes</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-pointdatabuilder" title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a></span> <span class="element-name">withAttributes</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> attributes)</span></div>
 <div class="block"><p>Configures the builder with custom attributes for point to be created.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -142,11 +142,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder"
 <section class="detail" id="build()">
 <h3>build</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a></span> <span class="element-name">build</span>()</div>
-<div class="block"><p>Builds an instance of <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata" title="class in com.here.sdk.mapview.datasource"><code>PointData</code></a> and resets the builder instance.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a></span> <span class="element-name">build</span>()</div>
+<div class="block"><p>Builds an instance of <a href="sdk-for-android-explore-pointdata" title="class in com.here.sdk.mapview.datasource"><code>PointData</code></a> and resets the builder instance.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>Instance of <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata" title="class in com.here.sdk.mapview.datasource"><code>PointData</code></a> created with the configured parameters.</p></dd>
+<dd><p>Instance of <a href="sdk-for-android-explore-pointdata" title="class in com.here.sdk.mapview.datasource"><code>PointData</code></a> created with the configured parameters.</p></dd>
 </dl>
 </section>
 </li>

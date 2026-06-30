@@ -20,15 +20,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderfa
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.TileUrlProviderFactory</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TileUrlProviderFactory</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Factory for generating a <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource"><code>TileUrlProviderCallback</code></a> utilized in creating a tile URL.</p></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>Factory for generating a <a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource"><code>TileUrlProviderCallback</code></a> utilized in creating a tile URL.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -43,10 +43,10 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderfa
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderfactory#fromXyzUrlTemplate(java.lang.String)">fromXyzUrlTemplate</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> urlTemplate)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Creates <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource"><code>TileUrlProviderCallback</code></a> for the given URL template.</div>
+<div class="block">Creates <a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource"><code>TileUrlProviderCallback</code></a> for the given URL template.</div>
 </div>
 </div>
 </div>
@@ -69,9 +69,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderfa
 <section class="detail" id="fromXyzUrlTemplate(java.lang.String)">
 <h3>fromXyzUrlTemplate</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></span> <span class="element-name">fromXyzUrlTemplate</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></span> <span class="element-name">fromXyzUrlTemplate</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> urlTemplate)</span></div>
-<div class="block"><p>Creates <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource"><code>TileUrlProviderCallback</code></a> for the given URL template.
+<div class="block"><p>Creates <a href="sdk-for-android-explore-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource"><code>TileUrlProviderCallback</code></a> for the given URL template.
  A url template should look like this 'https://TestRasterTileService.com/{z}/{x}/{y}/'
  here the z parameter is the storage level, x and y define the location of the tile.
  The valid range for X and Y is from 0 to 2^level − 1.</p></div>

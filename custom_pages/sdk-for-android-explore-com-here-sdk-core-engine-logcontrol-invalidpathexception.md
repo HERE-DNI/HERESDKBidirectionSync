@@ -33,7 +33,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-logcontrol-invalidpathex
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-com-here-sdk-core-engine-logcontrol" title="class in com.here.sdk.core.engine">LogControl</a></dd>
+<dd><a href="sdk-for-android-explore-logcontrol" title="class in com.here.sdk.core.engine">LogControl</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">LogControl.InvalidPathException</span>

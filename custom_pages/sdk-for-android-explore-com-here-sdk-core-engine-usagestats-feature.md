@@ -20,22 +20,22 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature"
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>&gt;
 <div class="inheritance">com.here.sdk.core.engine.UsageStats.Feature</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a></dd>
+<dd><a href="sdk-for-android-explore-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static enum </span><span class="element-name type-name-label">UsageStats.Feature</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>&gt;</span></div>
 <div class="block"><p>Represents the feature enum associated with the gathered usage stats.</p></div>
 </section>
 <section class="summary">
@@ -171,12 +171,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -205,7 +205,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="DETAILED_RENDERING">
 <h3>DETAILED_RENDERING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">DETAILED_RENDERING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">DETAILED_RENDERING</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the
  <a href="sdk-for-android-explore-layerconfiguration.feature#DETAIL_RENDERING"><code>LayerConfiguration.Feature.DETAIL_RENDERING</code></a> layer configuration.
  Counted when data for the corresponding layer is requested by the application
@@ -223,7 +223,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="EV_RENDERING">
 <h3>EV_RENDERING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">EV_RENDERING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">EV_RENDERING</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the
  "ev_charging_station_rendering_premium" layer group, enabled with <a href="sdk-for-android-explore-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>.
  Note, that <a href="sdk-for-android-explore-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a> also enables "ev_charging_station_search_premium" layer group,
@@ -242,7 +242,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="EV_SEARCH">
 <h3>EV_SEARCH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">EV_SEARCH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">EV_SEARCH</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the
  "ev_charging_station_search_premium" layer group, enabled with <a href="sdk-for-android-explore-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>.
  Note, that <a href="sdk-for-android-explore-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a> also enables "ev_charging_station_rendering_premium" layer group,
@@ -261,7 +261,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="NAVIGATION">
 <h3>NAVIGATION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">NAVIGATION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">NAVIGATION</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the "adas", "ehorizon", "interop", "isa" OCM layers.
  In addition, it is also tracking the following layer configurations:
  <ul>
@@ -287,7 +287,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="PLACES">
 <h3>PLACES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">PLACES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">PLACES</span></div>
 <div class="block"><p>Represents network traffic statistics for places search.
  This is legacy statistic which is now replaced by <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#SEARCH_ONLINE"><code>SEARCH_ONLINE</code></a>.</p></div>
 </section>
@@ -295,7 +295,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="RDS_TRAFFIC">
 <h3>RDS_TRAFFIC</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">RDS_TRAFFIC</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">RDS_TRAFFIC</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the
  <a href="sdk-for-android-explore-layerconfiguration.feature#RDS_TRAFFIC"><code>LayerConfiguration.Feature.RDS_TRAFFIC</code></a> layer configuration.
  Counted when data for the corresponding layer is requested by the application
@@ -313,7 +313,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="RENDERING">
 <h3>RENDERING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">RENDERING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">RENDERING</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the
  <a href="sdk-for-android-explore-layerconfiguration.feature#RENDERING"><code>LayerConfiguration.Feature.RENDERING</code></a> layer configuration.
  Counted when data for the corresponding layer is requested by the application
@@ -331,7 +331,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="ROUTER">
 <h3>ROUTER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">ROUTER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">ROUTER</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the
  <code>RoutingEngine</code>.
  Includes the following transaction counts and APIs:
@@ -354,7 +354,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="ROUTING">
 <h3>ROUTING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">ROUTING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">ROUTING</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the
  following layer configurations:
  <ul>
@@ -374,7 +374,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="SATELLITES">
 <h3>SATELLITES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">SATELLITES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">SATELLITES</span></div>
 <div class="block"><p>Represents network traffic statistics to show satellite map scheme.
  This includes a <strong>Raster Tile Base</strong> transaction count with HRN <code>hrn:here:service::olp-here:rendering-raster-tiles-3:base</code>.</p></div>
 </section>
@@ -382,7 +382,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="SEARCH">
 <h3>SEARCH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">SEARCH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">SEARCH</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the
  "search", "ev_charging_station_search_premium", "fueling_station_premium" OCM layers.
  Counted when data for the corresponding layer is requested by the application
@@ -399,7 +399,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="SEARCH_ONLINE">
 <h3>SEARCH_ONLINE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">SEARCH_ONLINE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">SEARCH_ONLINE</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the <code>SearchEngine</code>.
  Includes the following transaction counts and APIs:
  <ul>
@@ -412,7 +412,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="TRANSIT">
 <h3>TRANSIT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRANSIT</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRANSIT</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the
  "transit" OCM layer.
  Counted when data for the corresponding layer is requested by the application
@@ -429,7 +429,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="TRANSIT_ROUTING_ENGINE">
 <h3>TRANSIT_ROUTING_ENGINE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRANSIT_ROUTING_ENGINE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRANSIT_ROUTING_ENGINE</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the <code>TransitRoutingEngine</code>.
  This includes a <strong>Public Transit</strong> transaction count with HRN: <code>hrn:here:service::olp-here:transit-8</code>.</p></div>
 </section>
@@ -437,7 +437,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="TRAFFIC">
 <h3>TRAFFIC</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRAFFIC</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRAFFIC</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the
  calls of <code>TrafficEngine</code>. All calls to <code>TrafficEngine</code> result in transaction counts for
  HRN <code>hrn:here:service::olp-here:traffic-api-7:standard</code>.</p></div>
@@ -446,7 +446,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="TRAFFIC_VECTOR_TILES">
 <h3>TRAFFIC_VECTOR_TILES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRAFFIC_VECTOR_TILES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRAFFIC_VECTOR_TILES</span></div>
 <div class="block"><p>Represents network traffic statistics for traffic vector tiles.
  This includes a <strong>Traffic vector tile</strong> transaction count with HRN: <code>hrn:here:service::olp-here:traffic-vector-tiles-2</code>.</p></div>
 </section>
@@ -454,7 +454,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="TRUCK">
 <h3>TRUCK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRUCK</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">TRUCK</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the
  <a href="sdk-for-android-explore-layerconfiguration.feature#TRUCK"><code>LayerConfiguration.Feature.TRUCK</code></a> layer configuration.
  Counted when data for the corresponding layer is requested by the application
@@ -472,7 +472,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="VECTOR_TILES">
 <h3>VECTOR_TILES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">VECTOR_TILES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">VECTOR_TILES</span></div>
 <div class="block"><p>Represents network traffic statistics for online usage corresponding to the vector tiles.
  This includes a <strong>Vector tile</strong> transaction count with HRN: <code>hrn:here:service::olp-here:rendering-vector-tiles-2</code>.
  This statistic is only counted for the HERE SDK (Explore) when showing the map view.</p></div>
@@ -481,7 +481,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="OTHER">
 <h3>OTHER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">OTHER</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">OTHER</span></div>
 <div class="block"><p>Represents network traffic statistics for feature that doesn't fit into other categories.
  Some examples include:
  <ul>
@@ -494,7 +494,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="POSITIONING">
 <h3>POSITIONING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">POSITIONING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">POSITIONING</span></div>
 <div class="block"><p>Represents network traffic statistics for Here Positioning.
  This includes a <strong>Network Positioning</strong> transaction count with HRN <code>hrn:here:service::olp-here:positioning-2</code>.</p></div>
 </section>
@@ -510,7 +510,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -522,7 +522,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

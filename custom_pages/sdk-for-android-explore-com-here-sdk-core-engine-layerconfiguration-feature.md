@@ -20,22 +20,22 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-featu
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;
 <div class="inheritance">com.here.sdk.core.engine.LayerConfiguration.Feature</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></dd>
+<dd><a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine">LayerConfiguration</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static enum </span><span class="element-name type-name-label">LayerConfiguration.Feature</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</span></div>
 <div class="block"><p>Defines a list of possible map data features that can be enabled / disabled.
  See <a href="sdk-for-android-explore-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>
 Following features are enabled by default:
@@ -195,12 +195,12 @@ Implicit prefetch downloads map content for implicit prefetch features within a 
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -229,7 +229,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="DETAIL_RENDERING">
 <h3>DETAIL_RENDERING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">DETAIL_RENDERING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">DETAIL_RENDERING</span></div>
 <div class="block"><p>Additional rendering details like buildings. Only used for the MapView.
  When not set, the data will be excluded when downloading offline regions or prefetching areas
  that contain such data. However, during online usage such data may still be downloaded into the
@@ -243,7 +243,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="NAVIGATION">
 <h3>NAVIGATION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">NAVIGATION</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">NAVIGATION</span></div>
 <div class="block"><p>Map data that is used for map matching during navigation. When not set,
  navigation may not work properly when being used offline.
  Increase of 5-7% is to be expected for map size, but pay attention, that this feature is depended on
@@ -260,7 +260,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="OFFLINE_SEARCH">
 <h3>OFFLINE_SEARCH</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_SEARCH</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_SEARCH</span></div>
 <div class="block"><p>Map data that is used to search. When not set, the OfflineSearchEngine may not
  work properly when being used offline.
  Feature enables following OCM layer groups:
@@ -274,7 +274,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="OFFLINE_SEARCH_GLOBAL">
 <h3>OFFLINE_SEARCH_GLOBAL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_SEARCH_GLOBAL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_SEARCH_GLOBAL</span></div>
 <div class="block"><p>Map data used for global search indexing. This feature enables searches
  across broader geographic areas and improves both performance and accuracy
  by leveraging global search indices.
@@ -318,7 +318,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="OFFLINE_ROUTING">
 <h3>OFFLINE_ROUTING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_ROUTING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_ROUTING</span></div>
 <div class="block"><p>Map data that is used to calculate routes. When not set, the OfflineRoutingEngine
  may not work properly when being used offline.  Increase of 12-16.5% is to be expected for map size, but pay attention,
  that this feature is depended on other layer groups (e.g. navigation), so, in total is takes about 33-45 % of map size.
@@ -335,7 +335,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="RENDERING">
 <h3>RENDERING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">RENDERING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">RENDERING</span></div>
 <div class="block"><p>A basic set of rendering features such as carto POIs. Increase of 16-22% is to be expected for map size, but pay attention,
  that this feature is depended on other layer groups (e.g. navigation), so, in total is takes about 21-29 % of map size.
  Feature enables following OCM layer groups:
@@ -347,7 +347,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="TRUCK">
 <h3>TRUCK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">TRUCK</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">TRUCK</span></div>
 <div class="block"><p>Map data that is used to calculate truck routes. When not set,
  the <code>OfflineRoutingEngine</code> may not work properly when being used to calculate truck routes.
  It is also used for map matching during truck navigation and for vehicle restriction
@@ -367,7 +367,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="LANDMARKS_3D">
 <h3>LANDMARKS_3D</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">LANDMARKS_3D</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">LANDMARKS_3D</span></div>
 <div class="block"><p>Map data that is used to render 3D landmarks. When not set, the data
  will be excluded when downloading offline regions or prefetching areas that contain such data.
  When the <code>landmarks</code> <code>MapFeature</code> is set to be visible for a <code>MapScene</code>, 3D landmarks will still be loaded and
@@ -384,7 +384,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="EV">
 <h3>EV</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">EV</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">EV</span></div>
 <div class="block"><p>Offline map data for <code>EVChargingStation</code>.
  Feature enables following OCM layer groups:
  <ul>
@@ -396,7 +396,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="TRUCK_SERVICE_ATTRIBUTES">
 <h3>TRUCK_SERVICE_ATTRIBUTES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">TRUCK_SERVICE_ATTRIBUTES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">TRUCK_SERVICE_ATTRIBUTES</span></div>
 <div class="block"><p>Enables truck related attributes to be returned by Offline Search engine.
  Feature enables following OCM layer groups:
  <ul>
@@ -407,7 +407,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="FUEL_STATION_ATTRIBUTES">
 <h3>FUEL_STATION_ATTRIBUTES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">FUEL_STATION_ATTRIBUTES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">FUEL_STATION_ATTRIBUTES</span></div>
 <div class="block"><p>Enables fuel attributes to be returned by Offline Search engine.
  Feature enables following OCM layer groups:
  <ul>
@@ -418,7 +418,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="OFFLINE_BUS_ROUTING">
 <h3>OFFLINE_BUS_ROUTING</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_BUS_ROUTING</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_BUS_ROUTING</span></div>
 <div class="block"><p>Map data that is used to calculate bus routes.
  When not set, the <code>OfflineRoutingEngine</code> may not be able to calculate routes with <code>BusOptions</code>.
  Feature enables following OCM layer groups:
@@ -430,7 +430,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="JUNCTION_VIEW_3X4">
 <h3>JUNCTION_VIEW_3X4</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_VIEW_3X4</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_VIEW_3X4</span></div>
 <div class="block"><p>Map data that provides junction view images and assets with aspect ratio 3x4.
  This will also provide common assets that do not depend on specific aspect ratio.
  By default this feature is disabled.
@@ -445,7 +445,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="JUNCTION_VIEW_16X9">
 <h3>JUNCTION_VIEW_16X9</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_VIEW_16X9</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_VIEW_16X9</span></div>
 <div class="block"><p>Map data that provides junction view images and assets with aspect ratio 16x9.
  This will also provide common assets that do not depend on specific aspect ratio.
  By default this feature is disabled.
@@ -460,7 +460,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="JUNCTION_SIGN_3X4">
 <h3>JUNCTION_SIGN_3X4</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_3X4</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_3X4</span></div>
 <div class="block"><p>Map data that provides junction sign images with aspect ratio 3x4.
  By default this feature is disabled.
  Feature enables following OCM layer groups:
@@ -472,7 +472,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="JUNCTION_SIGN_3X5">
 <h3>JUNCTION_SIGN_3X5</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_3X5</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_3X5</span></div>
 <div class="block"><p>Map data that provides junction sign images with aspect ratio 3x5.
  By default this feature is disabled.
  Feature enables following OCM layer groups:
@@ -484,7 +484,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="JUNCTION_SIGN_4X3">
 <h3>JUNCTION_SIGN_4X3</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_4X3</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_4X3</span></div>
 <div class="block"><p>Map data that provides junction sign images with aspect ratio 4x3.
  By default this feature is disabled.
  Feature enables following OCM layer groups:
@@ -496,7 +496,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="JUNCTION_SIGN_5X3">
 <h3>JUNCTION_SIGN_5X3</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_5X3</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_5X3</span></div>
 <div class="block"><p>Map data that provides junction sign images with aspect ratio 5x3.
  By default this feature is disabled.
  Feature enables following OCM layer groups:
@@ -508,7 +508,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="JUNCTION_SIGN_16X9">
 <h3>JUNCTION_SIGN_16X9</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_16X9</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_16X9</span></div>
 <div class="block"><p>Map data that provides junction sign images with aspect ratio 16x9.
  By default this feature is disabled.
  Feature enables following OCM layer groups:
@@ -520,7 +520,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="TERRAIN">
 <h3>TERRAIN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">TERRAIN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">TERRAIN</span></div>
 <div class="block"><p>Map data that provides topography information.
  The related map feature  with mode
  is enabled by default on topo map schemes.
@@ -540,7 +540,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="DETAILED_TERRAIN">
 <h3>DETAILED_TERRAIN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">DETAILED_TERRAIN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">DETAILED_TERRAIN</span></div>
 <div class="block"><p>Map data that provides detailed topography information.
  By default this feature is disabled.
  Feature enables following OCM layer groups:
@@ -552,7 +552,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="ADAS">
 <h3>ADAS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">ADAS</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">ADAS</span></div>
 <div class="block"><p>Map data which provides ADAS information which includes slope,
  elevation and curvature information.
  By default this feature is disabled.
@@ -565,7 +565,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="EHORIZON">
 <h3>EHORIZON</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">EHORIZON</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">EHORIZON</span></div>
 <div class="block"><p>Map data which provides information about the parts of foreign segments in a tile,
  where a foreign segment is a segment that is stored in another tile but intersects the current tile.
  By default this feature is disabled.
@@ -578,7 +578,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="RDS_TRAFFIC">
 <h3>RDS_TRAFFIC</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">RDS_TRAFFIC</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">RDS_TRAFFIC</span></div>
 <div class="block"><p>Map data that provides traffic broadcast functionality using RDS-TMC format.
  It should be used when there is no internet connection, so that the routing module can utilize
  traffic data coming over the radio channel to build a route in the offline mode.
@@ -599,7 +599,7 @@ Note: This is a beta release of this feature, so there could be a few bugs and u
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -611,7 +611,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

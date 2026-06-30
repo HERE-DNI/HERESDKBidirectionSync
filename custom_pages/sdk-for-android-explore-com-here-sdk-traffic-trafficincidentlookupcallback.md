@@ -46,8 +46,8 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupcallbac
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupcallback#onTrafficIncidentFetched(com.here.sdk.traffic.TrafficQueryError,com.here.sdk.traffic.TrafficIncident)">onTrafficIncidentFetched</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror" title="enum class in com.here.sdk.traffic">TrafficQueryError</a> queryError,
- <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident" title="class in com.here.sdk.traffic">TrafficIncident</a> result)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupcallback#onTrafficIncidentFetched(com.here.sdk.traffic.TrafficQueryError,com.here.sdk.traffic.TrafficIncident)">onTrafficIncidentFetched</a><wbr/>(<a href="sdk-for-android-explore-trafficqueryerror" title="enum class in com.here.sdk.traffic">TrafficQueryError</a> queryError,
+ <a href="sdk-for-android-explore-trafficincident" title="class in com.here.sdk.traffic">TrafficIncident</a> result)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback passed to <a href="sdk-for-android-explore-trafficengine#lookupIncident(java.lang.String,com.here.sdk.traffic.TrafficIncidentLookupOptions,com.here.sdk.traffic.TrafficIncidentLookupCallback)"><code>TrafficEngine.lookupIncident(java.lang.String, com.here.sdk.traffic.TrafficIncidentLookupOptions, com.here.sdk.traffic.TrafficIncidentLookupCallback)</code></a>.</div>
 </div>
@@ -69,9 +69,9 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentlookupcallbac
 <section class="detail" id="onTrafficIncidentFetched(com.here.sdk.traffic.TrafficQueryError,com.here.sdk.traffic.TrafficIncident)">
 <h3>onTrafficIncidentFetched</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onTrafficIncidentFetched</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror" title="enum class in com.here.sdk.traffic">TrafficQueryError</a> queryError,
+ <a href="sdk-for-android-explore-trafficqueryerror" title="enum class in com.here.sdk.traffic">TrafficQueryError</a> queryError,
  @Nullable
- <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident" title="class in com.here.sdk.traffic">TrafficIncident</a> result)</span></div>
+ <a href="sdk-for-android-explore-trafficincident" title="class in com.here.sdk.traffic">TrafficIncident</a> result)</span></div>
 <div class="block"><p>Callback passed to <a href="sdk-for-android-explore-trafficengine#lookupIncident(java.lang.String,com.here.sdk.traffic.TrafficIncidentLookupOptions,com.here.sdk.traffic.TrafficIncidentLookupCallback)"><code>TrafficEngine.lookupIncident(java.lang.String, com.here.sdk.traffic.TrafficIncidentLookupOptions, com.here.sdk.traffic.TrafficIncidentLookupCallback)</code></a>.
  The method will be called on the main thread when a search call has been completed.
  The first argument is the error in the case of the failure. It is <code>null</code> for an operation that succeeds.

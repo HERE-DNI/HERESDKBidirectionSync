@@ -20,14 +20,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <!-- ======== START OF CLASS DATA ======== -->
 
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.PolygonDataSourceBuilder</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PolygonDataSourceBuilder</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Builder of the polygons data source.
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
@@ -42,7 +42,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder#%3Cinit%3E(com.here.sdk.mapview.MapContext)">PolygonDataSourceBuilder</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder#%3Cinit%3E(com.here.sdk.mapview.MapContext)">PolygonDataSourceBuilder</a><wbr/>(<a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a data source builder instance in the given context.</div>
 </div>
@@ -60,23 +60,23 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource" title="class in com.here.sdk.mapview.datasource">PolygonDataSource</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-polygondatasource" title="class in com.here.sdk.mapview.datasource">PolygonDataSource</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Builds a PolygonDataSource instance.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder#withName(java.lang.String)">withName</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> dataSourceName)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to use the given name for data source.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder#withPolygon(com.here.sdk.mapview.datasource.PolygonData)">withPolygon</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a> polygon)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder#withPolygon(com.here.sdk.mapview.datasource.PolygonData)">withPolygon</a><wbr/>(<a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a> polygon)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to insert the given polygon in the data source.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder#withPolygons(java.util.List)">withPolygons</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a>&gt; polygon)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder#withPolygons(java.util.List)">withPolygons</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a>&gt; polygon)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Configures the builder to insert the given polygons in the data source.</div>
 </div>
@@ -101,7 +101,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapContext)">
 <h3>PolygonDataSourceBuilder</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">PolygonDataSourceBuilder</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</span></div>
+ <a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context)</span></div>
 <div class="block"><p>Creates a data source builder instance in the given context.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -121,7 +121,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <section class="detail" id="withName(java.lang.String)">
 <h3>withName</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></span> <span class="element-name">withName</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></span> <span class="element-name">withName</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> dataSourceName)</span></div>
 <div class="block"><p>Configures the builder to use the given name for data source.</p></div>
 <dl class="notes">
@@ -136,8 +136,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <section class="detail" id="withPolygon(com.here.sdk.mapview.datasource.PolygonData)">
 <h3>withPolygon</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></span> <span class="element-name">withPolygon</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a> polygon)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></span> <span class="element-name">withPolygon</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a> polygon)</span></div>
 <div class="block"><p>Configures the builder to insert the given polygon in the data source.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -151,8 +151,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <section class="detail" id="withPolygons(java.util.List)">
 <h3>withPolygons</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></span> <span class="element-name">withPolygons</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a>&gt; polygon)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></span> <span class="element-name">withPolygons</span><wbr/><span class="parameters">(@NonNull
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a>&gt; polygon)</span></div>
 <div class="block"><p>Configures the builder to insert the given polygons in the data source.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -166,7 +166,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <section class="detail" id="build()">
 <h3>build</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource" title="class in com.here.sdk.mapview.datasource">PolygonDataSource</a></span> <span class="element-name">build</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-polygondatasource" title="class in com.here.sdk.mapview.datasource">PolygonDataSource</a></span> <span class="element-name">build</span>()</div>
 <div class="block"><p>Builds a PolygonDataSource instance.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficlocation"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficlocation#additionalPolylines">additionalPolylines</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of polylines that were not included in continuous polyline.</div>
@@ -54,7 +54,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficlocation"
 <div class="col-last even-row-color">
 <div class="block">The affected road length in meters.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficlocation#polyline">polyline</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The polyline representing the traffic entity shape.</div>
@@ -70,8 +70,8 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficlocation"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficlocation#%3Cinit%3E(com.here.sdk.core.GeoPolyline,java.util.List,int)">TrafficLocation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> polyline,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a>&gt; additionalPolylines,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficlocation#%3Cinit%3E(com.here.sdk.core.GeoPolyline,java.util.List,int)">TrafficLocation</a><wbr/>(<a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> polyline,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a>&gt; additionalPolylines,
  int lengthInMeters)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -130,7 +130,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficlocation"
 <section class="detail" id="polyline">
 <h3>polyline</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">polyline</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">polyline</span></div>
 <div class="block"><p>The polyline representing the traffic entity shape.
  The current field contains a continuous polyline with no gaps between geo-coordinates.
  All others following the gap are present in the <code>additional_polylines</code> field.</p></div>
@@ -140,7 +140,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficlocation"
 <section class="detail" id="additionalPolylines">
 <h3>additionalPolylines</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a>&gt;</span> <span class="element-name">additionalPolylines</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a>&gt;</span> <span class="element-name">additionalPolylines</span></div>
 <div class="block"><p>List of polylines that were not included in continuous polyline.
  Use this to fill any gaps in the continuous polyline.</p></div>
 </section>
@@ -165,9 +165,9 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficlocation"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoPolyline,java.util.List,int)">
 <h3>TrafficLocation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TrafficLocation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> polyline,
+ <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a> polyline,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a>&gt; additionalPolylines,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a>&gt; additionalPolylines,
  int lengthInMeters)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">

@@ -45,7 +45,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitincident"
 <div class="col-last even-row-color">
 <div class="block">A human readable description of the incident</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitincident#effect">effect</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Effect of the incident.</div>
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitincident"
 <div class="col-last even-row-color">
 <div class="block">A human readable summary of the incident.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitincident#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Type of the incident.</div>
@@ -88,8 +88,8 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitincident"
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitincident#%3Cinit%3E(java.lang.String,java.lang.String,com.here.sdk.routing.TransitIncidentType,com.here.sdk.routing.TransitIncidentEffect,java.util.Date,java.util.Date,java.lang.String)">TransitIncident</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> summary,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> description,
- <a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a> type,
- <a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a> effect,
+ <a href="sdk-for-android-explore-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a> type,
+ <a href="sdk-for-android-explore-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a> effect,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> validFrom,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> validUntil,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> url)</code></div>
@@ -153,7 +153,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitincident"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>Type of the incident.</p></div>
 </section>
 </li>
@@ -161,7 +161,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitincident"
 <section class="detail" id="effect">
 <h3>effect</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a></span> <span class="element-name">effect</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a></span> <span class="element-name">effect</span></div>
 <div class="block"><p>Effect of the incident.</p></div>
 </section>
 </li>
@@ -205,9 +205,9 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitincident"
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> description,
  @Nullable
- <a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a> type,
+ <a href="sdk-for-android-explore-transitincidenttype" title="enum class in com.here.sdk.routing">TransitIncidentType</a> type,
  @Nullable
- <a href="sdk-for-android-explore-com-here-sdk-routing-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a> effect,
+ <a href="sdk-for-android-explore-transitincidenteffect" title="enum class in com.here.sdk.routing">TransitIncidentEffect</a> effect,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a> validFrom,
  @Nullable

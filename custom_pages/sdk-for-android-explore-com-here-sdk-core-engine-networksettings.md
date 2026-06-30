@@ -26,7 +26,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-networksettings"
 
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">NetworkSettings</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Network configuration to be used by <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> during the initialization.</p></div>
+<div class="block"><p>Network configuration to be used by <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> during the initialization.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-networksettings"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings" title="class in com.here.sdk.core.engine">CertificateSettings</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-certificatesettings" title="class in com.here.sdk.core.engine">CertificateSettings</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-networksettings#certificates">certificates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Certificate settings
@@ -51,12 +51,12 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-networksettings"
 <div class="col-last odd-row-color">
 <div class="block">Absolute file path to be used for redirecting CURL verbose output.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-networkendpoint" title="class in com.here.sdk.core">NetworkEndpoint</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-networkendpoint" title="class in com.here.sdk.core">NetworkEndpoint</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-networksettings#domainNameSystemServers">domainNameSystemServers</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Domain Name Server list.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-engine-networksettings#proxySettings">proxySettings</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Proxy settings.</div>
@@ -117,7 +117,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-networksettings"
 <section class="detail" id="proxySettings">
 <h3>proxySettings</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></span> <span class="element-name">proxySettings</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></span> <span class="element-name">proxySettings</span></div>
 <div class="block"><p>Proxy settings. It can be later accessed or changed with <a href="sdk-for-android-explore-sdknativeengine#getProxySettings()"><code>SDKNativeEngine.getProxySettings()</code></a>.</p></div>
 </section>
 </li>
@@ -125,7 +125,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-networksettings"
 <section class="detail" id="domainNameSystemServers">
 <h3>domainNameSystemServers</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-networkendpoint" title="class in com.here.sdk.core">NetworkEndpoint</a>&gt;</span> <span class="element-name">domainNameSystemServers</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-networkendpoint" title="class in com.here.sdk.core">NetworkEndpoint</a>&gt;</span> <span class="element-name">domainNameSystemServers</span></div>
 <div class="block"><p>Domain Name Server list. This list fully replaces embedded mechanism to detect DNS.
  The order is important. To reduce response time make sure that most probably servers
  are at the beginning.
@@ -136,7 +136,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-networksettings"
 <section class="detail" id="certificates">
 <h3>certificates</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-engine-certificatesettings" title="class in com.here.sdk.core.engine">CertificateSettings</a></span> <span class="element-name">certificates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-certificatesettings" title="class in com.here.sdk.core.engine">CertificateSettings</a></span> <span class="element-name">certificates</span></div>
 <div class="block"><p>Certificate settings
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>

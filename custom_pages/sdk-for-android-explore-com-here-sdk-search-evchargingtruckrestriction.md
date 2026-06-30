@@ -46,7 +46,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction"
 <div class="col-last even-row-color">
 <div class="block">Indication if vehicles carrying hazardous / dangerous goods (ADR) can enter the EV Charging Location.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction#truckAccess">truckAccess</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Access categories for trucks and light commercial vehicles that the
@@ -108,7 +108,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtruckrestriction"
 <section class="detail" id="truckAccess">
 <h3>truckAccess</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a>&gt;</span> <span class="element-name">truckAccess</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a>&gt;</span> <span class="element-name">truckAccess</span></div>
 <div class="block"><p>Access categories for trucks and light commercial vehicles that the
  EV charging location is designed to serve.
  While the classifications used as basis for the categories are solely based on vehicle mass,

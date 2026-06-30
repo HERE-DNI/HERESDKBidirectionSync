@@ -39,18 +39,18 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions#initialBackgroundColor">initialBackgroundColor</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Initial loading background color that will be shown between rendering the first frame without a scene loaded and before
  rendering the first frame after a scene is loaded.If not set, it will default to</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapprojection" title="enum class in com.here.sdk.mapview">MapProjection</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-mapprojection" title="enum class in com.here.sdk.mapview">MapProjection</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions#projection">projection</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Projection of map</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-maprendermode" title="enum class in com.here.sdk.mapview">MapRenderMode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-maprendermode" title="enum class in com.here.sdk.mapview">MapRenderMode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions#renderMode">renderMode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies whether the <code>MapView</code> will use <code>SurfaceView</code> or <code>TextureView</code> for map rendering.</div>
@@ -111,7 +111,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions"
 <section class="detail" id="projection">
 <h3>projection</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapprojection" title="enum class in com.here.sdk.mapview">MapProjection</a></span> <span class="element-name">projection</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapprojection" title="enum class in com.here.sdk.mapview">MapProjection</a></span> <span class="element-name">projection</span></div>
 <div class="block"><p>Projection of map</p></div>
 </section>
 </li>
@@ -119,7 +119,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions"
 <section class="detail" id="initialBackgroundColor">
 <h3>initialBackgroundColor</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">initialBackgroundColor</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">initialBackgroundColor</span></div>
 <div class="block"><p>Initial loading background color that will be shown between rendering the first frame without a scene loaded and before
  rendering the first frame after a scene is loaded.If not set, it will default to
  #D3D3D3. Alpha value gets ignored and is assumed as 1.0.</p></div>
@@ -129,7 +129,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapviewoptions"
 <section class="detail" id="renderMode">
 <h3>renderMode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-maprendermode" title="enum class in com.here.sdk.mapview">MapRenderMode</a></span> <span class="element-name">renderMode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maprendermode" title="enum class in com.here.sdk.mapview">MapRenderMode</a></span> <span class="element-name">renderMode</span></div>
 <div class="block"><p>Specifies whether the <code>MapView</code> will use <code>SurfaceView</code> or <code>TextureView</code> for map rendering.
  Defaults to <a href="sdk-for-android-explore-maprendermode#SURFACE"><code>MapRenderMode.SURFACE</code></a>.</p></div>
 </section>

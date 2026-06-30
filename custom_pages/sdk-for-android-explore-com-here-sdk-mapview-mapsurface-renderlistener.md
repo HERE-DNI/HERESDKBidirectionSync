@@ -22,7 +22,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-com-here-sdk-mapview-mapsurface" title="class in com.here.sdk.mapview">MapSurface</a></dd>
+<dd><a href="sdk-for-android-explore-mapsurface" title="class in com.here.sdk.mapview">MapSurface</a></dd>
 </dl>
 
 <div class="type-signature"><span class="modifiers">public static interface </span><span class="element-name type-name-label">MapSurface.RenderListener</span></div>

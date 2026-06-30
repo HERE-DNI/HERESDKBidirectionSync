@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers#items">items</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of road number information items.</div>
@@ -111,7 +111,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-localizedroadnumbers"
 <section class="detail" id="items">
 <h3>items</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a>&gt;</span> <span class="element-name">items</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-localizedroadnumber" title="class in com.here.sdk.routing">LocalizedRoadNumber</a>&gt;</span> <span class="element-name">items</span></div>
 <div class="block"><p>The list of road number information items.
  Recommended to use helper methods instead of directly accessing the items.</p></div>
 </section>

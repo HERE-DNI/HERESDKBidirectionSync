@@ -30,7 +30,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-address"
  Used in <a href="sdk-for-android-explore-place#getAddress()"><code>Place.getAddress()</code></a>.
  Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
  <code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only <a href="sdk-for-android-explore-com-here-sdk-search-address#addressText"><code>addressText</code></a>.
- Complete address details can be obtained by searching with <a href="sdk-for-android-explore-com-here-sdk-search-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
+ Complete address details can be obtained by searching with <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -113,7 +113,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-address"
 <div class="col-last odd-row-color">
 <div class="block">The subdistrict name for the address.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-search-addresstype" title="enum class in com.here.sdk.search">AddressType</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-addresstype" title="enum class in com.here.sdk.search">AddressType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-address#type">type</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies the address type.</div>
@@ -299,7 +299,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-address"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-search-addresstype" title="enum class in com.here.sdk.search">AddressType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-addresstype" title="enum class in com.here.sdk.search">AddressType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>Specifies the address type.</p></div>
 </section>
 </li>
