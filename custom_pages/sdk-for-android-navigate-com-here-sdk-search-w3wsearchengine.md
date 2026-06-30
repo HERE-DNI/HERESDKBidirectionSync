@@ -34,8 +34,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-w3wsearchengine"
  "///wage.mere.heap".
  <code>W3WSearchEngine</code> allows you to convert 3 word addresses to coordinates and also coordinates
  to 3 word addresses.
- </p><p><strong>Note:</strong> Using W3WSearchEngine requires a licence to access HERE what3words APIs.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> Using W3WSearchEngine requires a licence to access HERE what3words APIs.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

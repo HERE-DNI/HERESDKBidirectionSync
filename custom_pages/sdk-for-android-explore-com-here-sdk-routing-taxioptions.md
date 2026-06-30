@@ -31,7 +31,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-taxioptions"
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
 <div class="block"><p>All the options to specify how a taxi route should be calculated. See, <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a>.
- </p><p><strong>Note:</strong> Specify the optional <a href="sdk-for-android-explore-waypoint#sideOfStreetHint"><code>Waypoint.sideOfStreetHint</code></a> to indicate at which side of
+ <strong>Note:</strong> Specify the optional <a href="sdk-for-android-explore-waypoint#sideOfStreetHint"><code>Waypoint.sideOfStreetHint</code></a> to indicate at which side of
  the street a passenger wants to leave the taxi.</p></div>
 </section>
 <section class="summary">
@@ -212,7 +212,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-taxioptions"
  When this value is provided, the HERE SDK considers it during route calculation to
  avoid roads or areas where your vehicle may be restricted based on local regulations.
  Example usage: "7", when the license plate of a vehicle looks like "B-ET-182487".
- </p><p>If this value is not set, such license plate-based restrictions are ignored, and
+ If this value is not set, such license plate-based restrictions are ignored, and
  routing is performed without considering them.</p></div>
 </section>
 </li>

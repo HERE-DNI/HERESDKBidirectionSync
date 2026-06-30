@@ -34,7 +34,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-physicalstructure"
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-physicalstructure" title="enum class in com.here.sdk.mapdata">PhysicalStructure</a>&gt;</span></div>
 <div class="block"><p>Physical structure of a road feature that causes an access restriction,
  such as a bridge or tunnel that may limit vehicle dimensions or weight.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

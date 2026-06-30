@@ -27,8 +27,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roadusages"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">RoadUsages</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Road Usages of the segment.
- </p><p><em><strong>Note</strong></em> a road can have more than one attribute at the same time.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <em><strong>Note</strong></em> a road can have more than one attribute at the same time.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

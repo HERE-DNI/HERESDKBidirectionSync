@@ -148,7 +148,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-tollstop"
  countries. An empty list means that the complex junction has been passed and that the lane information is not
  valid anymore. Exactly one event with a non-empty list is delivered before reaching a complex junction and
  one event with an empty list afterwards.
- </p><p><strong>Note:</strong> Lanes going in opposite direction are not included in the list.</p></div>
+ <strong>Note:</strong> Lanes going in opposite direction are not included in the list.</p></div>
 </section>
 </li>
 </ul>
@@ -178,7 +178,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-tollstop"
  countries. An empty list means that the complex junction has been passed and that the lane information is not
  valid anymore. Exactly one event with a non-empty list is delivered before reaching a complex junction and
  one event with an empty list afterwards.
- </p><p><strong>Note:</strong> Lanes going in opposite direction are not included in the list.</p></dd>
+ <strong>Note:</strong> Lanes going in opposite direction are not included in the list.</p></dd>
 </dl>
 </section>
 </li>

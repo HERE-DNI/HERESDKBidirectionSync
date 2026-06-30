@@ -160,7 +160,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-isoline"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapmatchedcoordinates" title="class in com.here.sdk.routing">MapMatchedCoordinates</a></span> <span class="element-name">getCenter</span>()</div>
 <div class="block"><p>Gets the center point that was used to calculate this isoline.
- </p><p>Specifies the center point that was used to calculate this isoline.
+ Specifies the center point that was used to calculate this isoline.
  This includes the original center that was passed to the RoutingEngine.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

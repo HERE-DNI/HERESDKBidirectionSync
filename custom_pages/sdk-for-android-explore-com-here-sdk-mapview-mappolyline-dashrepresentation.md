@@ -38,7 +38,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 <span class="extends-implements">extends <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a></span></div>
 <div class="block"><p>Represents a dash pattern for map polyline where the dash can be rendered as a colored
  line and the gap can be either empty or colored.
- </p><p>The length of the dash and gap are set independently, allowing for patterns
+ The length of the dash and gap are set independently, allowing for patterns
  like <code>' — — — —'</code> (dash length = gap length) or <code>' ——— ——— ———'</code> (dash length != gap length).</p></div>
 </section>
 <section class="summary">
@@ -144,19 +144,19 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> dashColor)</span>
                    throws <span class="exceptions"><a href="sdk-for-android-explore-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a representation for a dashed line. Gaps are not displayed.
- </p><p>At map measures smaller than the smallest map measure in the <code>lineWidth</code>,
+ At map measures smaller than the smallest map measure in the <code>lineWidth</code>,
  <code>dashLength</code> and <code>gapLength</code>, the value used for rendering is constant
  and equal to the value given for the smallest map measure in the
  respective <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> object.
- </p><p>At map measures bigger than the biggest map measure in the <code>lineWidth</code>,
+ At map measures bigger than the biggest map measure in the <code>lineWidth</code>,
  <code>dashLength</code> and <code>gapLength</code>, the value used for rendering is constant
  and equal to the value given for the biggest map measure in the
  respective <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> object.
- </p><p>At map measures between two nearest given map measures, the values are
+ At map measures between two nearest given map measures, the values are
  linearly interpolated between values given for these map measures.
- </p><p>For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
- </p><p>For <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
- </p><p>All sizes must not be 0 (<a href="sdk-for-android-explore-mapmeasuredependentrendersize#sizes"><code>MapMeasureDependentRenderSize.sizes</code></a> with all values set to 0.0).</p></div>
+ For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
+ For <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
+ All sizes must not be 0 (<a href="sdk-for-android-explore-mapmeasuredependentrendersize#sizes"><code>MapMeasureDependentRenderSize.sizes</code></a> with all values set to 0.0).</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>lineWidth</code> - <p>The width of the polyline depending on the map measure.</p></dd>
@@ -183,19 +183,19 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> gapColor)</span>
                    throws <span class="exceptions"><a href="sdk-for-android-explore-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a representation for a dashed line with both dash and the gap being colored.
- </p><p>At map measures smaller than the smallest map measure in the <code>lineWidth</code>,
+ At map measures smaller than the smallest map measure in the <code>lineWidth</code>,
  <code>dashLength</code> and <code>gapLength</code>, the value used for rendering is constant
  and equal to the value given for the smallest map measure in the
  respective <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> object.
- </p><p>At map measures bigger than the biggest map measure in the <code>lineWidth</code>,
+ At map measures bigger than the biggest map measure in the <code>lineWidth</code>,
  <code>dashLength</code> and <code>gapLength</code>, the value used for rendering is constant
  and equal to the value given for the biggest map measure in the
  respective <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> object.
- </p><p>At map measures between two nearest given map measures, the values are
+ At map measures between two nearest given map measures, the values are
  linearly interpolated between values given for these map measures.
- </p><p>For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
- </p><p>For <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
- </p><p>All sizes must not be 0 (<a href="sdk-for-android-explore-mapmeasuredependentrendersize#sizes"><code>MapMeasureDependentRenderSize.sizes</code></a> with all values set to 0.0).</p></div>
+ For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
+ For <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
+ All sizes must not be 0 (<a href="sdk-for-android-explore-mapmeasuredependentrendersize#sizes"><code>MapMeasureDependentRenderSize.sizes</code></a> with all values set to 0.0).</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>lineWidth</code> - <p>The width of the polyline depending on the map measure.</p></dd>
@@ -222,13 +222,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></span> <span class="element-name">getLineWidth</span>()</div>
 <div class="block"><p>Gets the map measure dependent polyline width.
- </p><p>At map measures smaller than smallest map measure in the <code>lineWidth</code>
+ At map measures smaller than smallest map measure in the <code>lineWidth</code>
  line width is constant and equal to the width given for the smallest
  map measure in the <code>lineWidth</code>.
- </p><p>At map measures bigger than biggest map measure in the <code>lineWidth</code>
+ At map measures bigger than biggest map measure in the <code>lineWidth</code>
  line width is constant and equal to the width given for the biggest
  map measure in the <code>lineWidth</code>.
- </p><p>At map measures between two nearest given map measures, the values are
+ At map measures between two nearest given map measures, the values are
  linearly interpolated between values given for these map measures.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -242,13 +242,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></span> <span class="element-name">getDashLength</span>()</div>
 <div class="block"><p>Gets the map measure dependent polyline dash length.
- </p><p>At map measures smaller than smallest map measure in the <code>dashLength</code>
+ At map measures smaller than smallest map measure in the <code>dashLength</code>
  line width is constant and equal to the width given for the smallest
  map measure in the <code>dashLength</code>.
- </p><p>At map measures bigger than biggest map measure in the <code>dashLength</code>
+ At map measures bigger than biggest map measure in the <code>dashLength</code>
  line width is constant and equal to the width given for the biggest
  map measure in the <code>dashLength</code>.
- </p><p>At map measures between two nearest given map measures, the values are
+ At map measures between two nearest given map measures, the values are
  linearly interpolated between values given for these map measures.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -262,13 +262,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-dashrepresentati
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></span> <span class="element-name">getGapLength</span>()</div>
 <div class="block"><p>Gets the map measure dependent polyline gap length.
- </p><p>At map measures smaller than smallest map measure in the <code>gapLength</code>
+ At map measures smaller than smallest map measure in the <code>gapLength</code>
  line width is constant and equal to the width given for the smallest
  map measure in the <code>gapLength</code>.
- </p><p>At map measures bigger than biggest map measure in the <code>gapLength</code>
+ At map measures bigger than biggest map measure in the <code>gapLength</code>
  line width is constant and equal to the width given for the biggest
  map measure in the <code>gapLength</code>.
- </p><p>At map measures between two nearest given map measures, the values are
+ At map measures between two nearest given map measures, the values are
  linearly interpolated between values given for these map measures.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

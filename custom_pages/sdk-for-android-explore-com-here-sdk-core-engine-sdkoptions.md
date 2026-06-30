@@ -240,8 +240,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">dataPath</span></div>
 <div class="block"><p>Path used for storing application internal data, such as the offline search index and other essential data required for proper functionality.
- </p><p><strong>Note:</strong> For common use cases, prefer <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"><code>persistentMapStoragePath</code></a>, or keep the default paths. Use <code>dataPath</code> only as a fallback if <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> is not writable, for example, when you have an agreement with HERE to flash data at factory time.
- </p><p>By default, this returns an empty string. In this case, the same path as <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> will be used.
+ <strong>Note:</strong> For common use cases, prefer <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"><code>persistentMapStoragePath</code></a>, or keep the default paths. Use <code>dataPath</code> only as a fallback if <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> is not writable, for example, when you have an agreement with HERE to flash data at factory time.
+ By default, this returns an empty string. In this case, the same path as <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> will be used.
  If an absolute path is set, it will be used instead.
  If a relative path is set then directory <code>Context.getFilesDir().getPath()</code>
  is used as parent path.
@@ -257,7 +257,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
  Note:
  If the <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> is writable, <code>dataPath</code> can be left empty.
  If the <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> is not writable, <code>dataPath</code> must be set and also be writable. Note that <code>dataPath</code> is used to store essential HERE SDK data.
- </p><p><strong>Important:</strong>
+ <strong>Important:</strong>
  There is no automatic migration of stored data between the <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> and the <code>dataPath</code>. For ease of management,
  it's recommended to set the persistence path as writable and ignore <code>dataPath</code>.
  If <code>dataPath</code> is set differently from the <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"><code>persistentMapStoragePath</code></a>, some data that would typically be saved in the <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#persistentMapStoragePath"><code>persistentMapStoragePath</code></a> will now be saved to <code>dataPath</code>.
@@ -280,7 +280,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
  <strong>Note</strong>: Offline maps stored at <code>&lt;persistent_map_storage_path&gt;/v1/&lt;access_key_id&gt;/ocm-map/</code>, where <code>&lt;access_key_id&gt;</code> is
  taken from <code>SDKOptions.authenticationMode</code>.
  When <code>SDKOptions</code> initialized with <code>AuthenticationMode.withToken</code> or <code>AuthenticationMode.withExternal</code>, then <code>&lt;access_key_id&gt;</code> left empty.
- </p><p>Note, persistent map storage path should be located
+ Note, persistent map storage path should be located
  under <a href="https://developer.android.com/training/data-storage/app-specific">app-specific directory</a>.
  Using shared directories such as <code>Documents</code> is not recommended as it will expose HERE SDK files to the other apps.
  It will also require additional permissions such as <code>MANAGE_EXTERNAL_STORAGE</code> and results in a poorer HERE SDK performance overall.
@@ -288,7 +288,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
  which may cause some functionality to not behave as expected.
  The recommended location in terms of file I/O speed is the app's internal storage directory, whereas an external SD card is expected to be slower.
  This also depends on the quality of the used SD card.
- </p><p>Note: If the persistent map storage location has the read only permission, then the <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#dataPath"><code>dataPath</code></a> must be configured.</p></div>
+ Note: If the persistent map storage location has the read only permission, then the <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions#dataPath"><code>dataPath</code></a> must be configured.</p></div>
 </section>
 </li>
 <li>
@@ -299,8 +299,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <div class="block"><p>Geopolitical view of a country, defined as a three letter country code by ISO 3166-1 alpha-3. Each disputed territory has
  an international and an alternative geopolitical view.
  When set, the map view will show all country boundaries according to the geopolitical view of the country that has been set.
- </p><p>Note: Defaults to an empty string which enables the international view.
- </p><p>This is a beta feature and thus there can be bugs and unexpected behavior.</p></div>
+ Note: Defaults to an empty string which enables the international view.
+ This is a beta feature and thus there can be bugs and unexpected behavior.</p></div>
 </section>
 </li>
 <li>
@@ -329,7 +329,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
  not update the <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a>. Only the <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> will be used that was set
  globally when a region was downloaded for the first time. If you want to update the
  <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> for an already downloaded region, please delete the region and download it again.
- </p><p>Please also note
+ Please also note
  <ul>
 <li>The <a href="sdk-for-android-explore-layerconfiguration" title="class in com.here.sdk.core.engine"><code>LayerConfiguration</code></a> is only applicable for the HERE SDK (Navigate) that contains the offline maps
  feature. It has no effect on other licenses.</li>
@@ -353,7 +353,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
  also custom catalogs such as for self-hosted or BYOD (bring your own data) use cases.
  For further information about catalogs and related concepts see
  <a href="sdk-for-android-explore-catalogconfiguration" title="class in com.here.sdk.core.engine"><code>CatalogConfiguration</code></a>
-</p><p><strong>Note:</strong>
+<strong>Note:</strong>
  This API is only available for the Navigate license. It has no affect on other license.</p></div>
 </section>
 </li>
@@ -362,22 +362,22 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <h3>autoUpdateOfOnlineCache</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">autoUpdateOfOnlineCache</span></div>
 <div class="block"><p>Parameter to enable automatic cache updates.
- </p><p>When it is false, the cache will always use the same map version as
+ When it is false, the cache will always use the same map version as
  offline maps. If offline maps are updated, the cache will be also updated.
  The cache version will never be older than the offline maps version.
- </p><p>When it is true, the cache will be automatically updated to use the latest map data
+ When it is true, the cache will be automatically updated to use the latest map data
  that is available. In that case, the cache may contain map data that is newer than
  the offline maps data. Note that auto updates may also lead to increased network traffic, as
  the cached data will be evicted tile-by-tile before it is filled with newer map data. This
  process continues everytime the user views a new map view area until the data is replaced.
  Once also the offline map data is updated by the user, both map versions will
  be the same again.
- </p><p>If the value is also specified via the manifest (Android) or plist (iOS), than the
+ If the value is also specified via the manifest (Android) or plist (iOS), than the
  value set via <code>SDKOptions</code> will overrule the value that was set in manifest/plist - until
  the current session ends and the value is read/set again.
- </p><p>Note that offline maps are only available for the Navigate license.
- </p><p>Defaults to <code>false</code>.
- </p><p><strong>Note:</strong> Do not use this yet, the behavior of this feature may be inconsistent.
+ Note that offline maps are only available for the Navigate license.
+ Defaults to <code>false</code>.
+ <strong>Note:</strong> Do not use this yet, the behavior of this feature may be inconsistent.
  Once it will be usable, it will be announced in the regular HERE SDK release notes.</p></div>
 </section>
 </li>
@@ -442,13 +442,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">billingTag</span></div>
 <div class="block"><p>Internal to HERE SDK. DO NOT USE THIS YET.
- </p><p><strong>Warning:</strong> This is a placeholder and under developement. We will announce its availability in our changelog once it is ready for use.
- </p><p>A parameter to set a billing tag to track your HERE platform usage across the various HERE services your application may contact.
+ <strong>Warning:</strong> This is a placeholder and under developement. We will announce its availability in our changelog once it is ready for use.
+ A parameter to set a billing tag to track your HERE platform usage across the various HERE services your application may contact.
  For more information on the billing tag, see our
  <a href="https://www.here.com/docs/bundle/cost-management-developer-guide/page/topics/tutorial-billing-tags.html">cost management guide</a>.
  The tag needs to follow the format as described in the guide or it will be ignored.
  The parameter defaults to <code>null</code>, which also means that the tag is ignored for all requests.
- </p><p><strong>Note:</strong> The billing tag is optional, but when set, it can help you to understand
+ <strong>Note:</strong> The billing tag is optional, but when set, it can help you to understand
  how often your app uses certain services, for example, the number of hits to our
  HERE backend routing services. For more details on tracking such details,
  please consult the <em>cost management guide</em> or get in touch with the HERE billing team.</p></div>
@@ -463,7 +463,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-sdkoptions"
  of internal thread pools and resource management for advanced use cases.
  These options are intended for <em>internal</em> usage only and should not be modified unless
  instructed by HERE support.
- </p><p>Note: This is a <em>beta</em> release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a <em>beta</em> release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>

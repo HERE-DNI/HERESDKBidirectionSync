@@ -30,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
  Speed limits that are described as conditional can be time-dependent. For time-dependent speed limits,
  the HERE SDK internally reads the current device time and notifies only on speed limits
  that are currently active.
- </p><p>It is recommended to use <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#effectiveSpeedLimitInMetersPerSecond()"><code>effectiveSpeedLimitInMetersPerSecond()</code></a> when
+ It is recommended to use <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedlimit#effectiveSpeedLimitInMetersPerSecond()"><code>effectiveSpeedLimitInMetersPerSecond()</code></a> when
  an application does not offer dedicated speed limit indicators for other cases, such as
  weather-dependent speed limits.</p></div>
 </section>
@@ -151,7 +151,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">speedLimitInMetersPerSecond</span></div>
 <div class="block"><p>Regular speed limit if available. In case of unbounded speed limit, the value is zero.
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  When following a route, then this value will depend on the selected transport mode.
  For other speed limits, like weather-dependent speed limits only the value as shown
  on the local road sign is provided. It may not be applicable to all transport modes.
@@ -176,7 +176,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
 <li>Advisory speed signs due to construction are not included.</li>
 <li>A speed value is published for advisory signs.</li>
 </ul>
-</p><p>A possible usage example can be to show an icon on the device's screen containing both
+A possible usage example can be to show an icon on the device's screen containing both
  special speed limit value and a visual cue in order to warn the user about the conditional
  speed limit.</p></div>
 </section>
@@ -188,7 +188,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">snowSpeedLimitInMetersPerSecond</span></div>
 <div class="block"><p>A conditional speed limit as indicated on the local road signs.
  The road speed limit that is in effect only when there is snow on the road.
- </p><p>A possible usage example can be to show an icon on the device's screen containing both
+ A possible usage example can be to show an icon on the device's screen containing both
  special speed limit value and a visual cue in order to warn the user about the conditional
  speed limit.</p></div>
 </section>
@@ -200,7 +200,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">rainSpeedLimitInMetersPerSecond</span></div>
 <div class="block"><p>A conditional speed limit as indicated on the local road signs.
  The road speed limit that is in effect only when it is raining or there is water on the road.
- </p><p>A possible usage example can be to show an icon on the device's screen containing both
+ A possible usage example can be to show an icon on the device's screen containing both
  special speed limit value and a visual cue in order to warn the user about the conditional
  speed limit.</p></div>
 </section>
@@ -212,7 +212,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">fogSpeedLimitInMetersPerSecond</span></div>
 <div class="block"><p>A conditional speed limit as indicated on the local road signs.
  The road speed limit that is in effect only when the visibility decreases due to fog.
- </p><p>A possible usage example can be to show an icon on the device's screen containing both
+ A possible usage example can be to show an icon on the device's screen containing both
  special speed limit value and a visual cue in order to warn the user about the conditional
  speed limit.</p></div>
 </section>
@@ -225,10 +225,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
 <div class="block"><p>A conditional speed limit as indicated on the local road signs.
  The road speed limit that is in effect only when the visibility is optimal due to weather
  conditions.
- </p><p>A possible usage example can be to show an icon on the device's screen containing both
+ A possible usage example can be to show an icon on the device's screen containing both
  special speed limit value and a visual cue in order to warn the user about the conditional
  speed limit.
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  This speed limit is conditioned by factors not expressed by the other ones.
  For example, it may be a time-related speed limit or a vehicle-related one.</p></div>
 </section>
@@ -241,7 +241,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedlimit"
 <div class="block"><p>A conditional speed limit as indicated on the local road signs.
  School zone signs are often placed to slow drivers before reaching an intersection where
  children are crossing.
- </p><p>A possible usage example can be to show an icon on the device's screen containing both
+ A possible usage example can be to show an icon on the device's screen containing both
  special speed limit value and a visual cue in order to warn the user about the conditional
  speed limit.</p></div>
 </section>

@@ -24,7 +24,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuelistener"
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">LocationIssueListener</span></div>
 <div class="block"><p>interface receiving notifications when the set of
  currently active location issues changes.
- </p><p>Location issues represent unexpected or degraded conditions affecting positioning quality,
+ Location issues represent unexpected or degraded conditions affecting positioning quality,
  availability, or functionality. The LocationEngine monitors various positioning subsystems
  and aggregates detected issues into a unified snapshot delivered via this interface.
  <ul>
@@ -72,7 +72,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationissuelistener"
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onLocationIssueChanged</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-locationissuetype" title="enum class in com.here.sdk.location">LocationIssueType</a>&gt; issues)</span></div>
 <div class="block"><p>Called when the snapshot of currently active location issues changes.
- </p><p>Invoked whenever the LocationEngine detects a change in the set of active issues,
+ Invoked whenever the LocationEngine detects a change in the set of active issues,
  including when all issues clear (empty list). Replace any previously stored issue
  list with this snapshot.</p></div>
 <dl class="notes">

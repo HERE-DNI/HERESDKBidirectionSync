@@ -28,7 +28,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneview
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A class that provides current situation lane assistance view
  information for the street at the current position of a single lane.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

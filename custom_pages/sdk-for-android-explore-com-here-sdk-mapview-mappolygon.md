@@ -30,10 +30,10 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A visual representation of a polygon on the map. Can be used to visualize areas of all shapes
  and sizes.
- </p><p>The geometry to be visualized is represented by an instance of <a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core"><code>GeoPolygon</code></a>.
+ The geometry to be visualized is represented by an instance of <a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core"><code>GeoPolygon</code></a>.
  To display circular areas (for example, a position accuracy indicator) use a GeoPolygon
  created from a <a href="sdk-for-android-explore-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> using <a href="sdk-for-android-explore-geopolygon#%3Cinit%3E(com.here.sdk.core.GeoBox)"><code>GeoPolygon(GeoCircle)</code></a>.
- </p><p>Note:
+ Note:
  <ul>
 <li>The polygon shape should not cover more than half of the globe,
  otherwise unexpected results may occur.</li>
@@ -173,9 +173,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
  @NonNull
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color)</span></div>
 <div class="block"><p>Creates a new MapPolygon instance with outline visualization disabled and containing the geometry passed in.
- </p><p>The winding order of the vertices can be in clockwise or counter-clockwise order.
+ The winding order of the vertices can be in clockwise or counter-clockwise order.
  It is recomended to provide the outer boundary ordered clockwise and closed.
- </p><p>Note:
+ Note:
  <ul>
 <li>The polygon shape should not cover more than half of the globe,
  otherwise unexpected results may occur.</li>
@@ -201,11 +201,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> outlineColor,
  double outlineWidthInPixels)</span></div>
 <div class="block"><p>Creates a new MapPolygon instance with outline visualization enabled and containing the geometry passed in.
- </p><p>Transparent outlines are not supported. Any color with transparency (alpha value other than 1)
+ Transparent outlines are not supported. Any color with transparency (alpha value other than 1)
  will be rendered as fully opaque by interpreting the alpha value as 1.
- </p><p>The winding order of the vertices can be in clockwise or counter-clockwise order.
+ The winding order of the vertices can be in clockwise or counter-clockwise order.
  It is recomended to provide the outer boundary ordered clockwise and closed.
- </p><p>Note:
+ Note:
  <ul>
 <li>The polygon shape should not cover more than half of the globe,
  otherwise unexpected results may occur.</li>
@@ -248,9 +248,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setGeometry</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> value)</span></div>
 <div class="block"><p>Sets a new geometry to update the appearance.
- </p><p>The winding order of the vertices can be in clockwise or counter-clockwise order.
+ The winding order of the vertices can be in clockwise or counter-clockwise order.
  It is recomended to provide the outer boundary ordered clockwise and closed.
- </p><p>Note:
+ Note:
  <ul>
 <li>The polygon shape should not cover more than half of the globe,
  otherwise unexpected results may occur.</li>
@@ -306,7 +306,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFillColor</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
 <div class="block"><p>Sets the current color of the fill.
- </p><p>Fully transparent color (alpha set to 0) disables the fill completely.</p></div>
+ Fully transparent color (alpha set to 0) disables the fill completely.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Color of the polygon's fill.</p></dd>
@@ -329,11 +329,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <h3>setDrawOrder</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDrawOrder</span><wbr/><span class="parameters">(int value)</span></div>
 <div class="block"><p>Sets the draw order of this map polygon relative to other map polygons.
- </p><p>Polygon with higher draw order value are drawn
+ Polygon with higher draw order value are drawn
  on top of polygons with lower draw order.
- </p><p>In case multiple polygons have the same draw order value
+ In case multiple polygons have the same draw order value
  then the order in which they were added to the scene matters. Last added polygon is drawn on top.
- </p><p>Allowed range is 0-1023. Values outside this range will be clamped.</p></div>
+ Allowed range is 0-1023. Values outside this range will be clamped.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The draw order of this map polygon relative to other map polygons.</p></dd>
@@ -361,7 +361,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <div class="block"><p>Sets visibility ranges for this map polygon. A range is half open -
  [minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
  The map polygon is visible only inside these map measure ranges.
- </p><p>When empty (the default), the map polygon is visible without map measure restrictions.
+ When empty (the default), the map polygon is visible without map measure restrictions.
  Only <code>MapMeasureRange</code>(s) of <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> type are supported.
  <code>MapMeasureRange</code>(s) of other unsupported types will be ignored.</p></div>
 <dl class="notes">
@@ -388,7 +388,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOutlineColor</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
 <div class="block"><p>Sets the color of the polygon outline.
- </p><p>Transparent outlines are not supported. Any color with transparency (alpha value other than 1)
+ Transparent outlines are not supported. Any color with transparency (alpha value other than 1)
  will be rendered as fully opaque.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -401,7 +401,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <h3>getOutlineWidth</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">getOutlineWidth</span>()</div>
 <div class="block"><p>Gets the outline width of the polygon in pixels.
- </p><p>By default, the outline width is set to zero.</p></div>
+ By default, the outline width is set to zero.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The width of the polygon outline in pixels.</p></dd>
@@ -413,7 +413,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolygon"
 <h3>setOutlineWidth</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOutlineWidth</span><wbr/><span class="parameters">(double value)</span></div>
 <div class="block"><p>Sets the outline width of the polygon in pixels.
- </p><p>The value should be greater than or equal to 0.
+ The value should be greater than or equal to 0.
  Negative values are clamped to zero.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

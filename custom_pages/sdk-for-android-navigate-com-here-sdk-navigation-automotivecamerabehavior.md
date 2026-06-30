@@ -37,14 +37,14 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
  and area camera behaviors. This class acts as a facade, delegating camera operations to either
  a <a href="sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior</code></a> for following the vehicle during navigation or an <a href="sdk-for-android-navigate-areacamerabehavior" title="class in com.here.sdk.navigation"><code>AreaCameraBehavior</code></a>
  for showing overview areas such as points of interest or route previews.
- </p><p>The controller supports three states: tracking mode (following the vehicle), area mode (showing
+ The controller supports three states: tracking mode (following the vehicle), area mode (showing
  geographic regions), or inactive (no automatic camera control). The inactive state allows
  external control of the camera, such as when responding to user touch events or when UI logic
  temporarily disables automatic camera behavior.
- </p><p>Camera configuration, including animation durations, zoom policies, and maneuver handling
+ Camera configuration, including animation durations, zoom policies, and maneuver handling
  settings, can be provided through a JSON configuration string or file. The configuration is
  validated and parsed during construction.
- </p><p>Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -224,9 +224,9 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
  The camera calculates the optimal zoom level and center position to display
  all provided coordinates within the viewport. Use this for showing a single
  point of interest or multiple points such as safety cameras.
- </p><p>This function does not change <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getActiveCameraType()"><code>getActiveCameraType()</code></a>. To display the configured
+ This function does not change <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getActiveCameraType()"><code>getActiveCameraType()</code></a>. To display the configured
  area view, set <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getActiveCameraType()"><code>getActiveCameraType()</code></a> to <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#AREA"><code>AutomotiveCameraBehavior.ActiveCameraType.AREA</code></a>.
- </p><p>Calling this function overrides any previously set geographic bounding box
+ Calling this function overrides any previously set geographic bounding box
  configured via <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#setAreaCameraBehaviorGeobox(com.here.sdk.core.GeoBox)"><code>setAreaCameraBehaviorGeobox(com.here.sdk.core.GeoBox)</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -245,9 +245,9 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="block"><p>Configures the Area camera to frame the specified geographic bounding box.
  The camera automatically calculates the appropriate zoom level and center
  position to ensure the entire area is visible within the viewport.
- </p><p>This function does not change <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getActiveCameraType()"><code>getActiveCameraType()</code></a>. To display the configured
+ This function does not change <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getActiveCameraType()"><code>getActiveCameraType()</code></a>. To display the configured
  area view, set <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#getActiveCameraType()"><code>getActiveCameraType()</code></a> to <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#AREA"><code>AutomotiveCameraBehavior.ActiveCameraType.AREA</code></a>.
- </p><p>Calling this function overrides any previously set visible points configured
+ Calling this function overrides any previously set visible points configured
  via <a href="sdk-for-android-navigate-com-here-sdk-navigation-automotivecamerabehavior#setAreaCameraBehaviorVisiblePoints(java.util.List,boolean)"><code>setAreaCameraBehaviorVisiblePoints(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, boolean)</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -260,10 +260,10 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <h3>isManeuverDetectionEnabled</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isManeuverDetectionEnabled</span>()</div>
 <div class="block"><p>Gets whether maneuver-based camera adjustments are enabled.
- </p><p>When enabled, the tracking camera automatically adjusts zoom and framing to provide
+ When enabled, the tracking camera automatically adjusts zoom and framing to provide
  better visibility of upcoming turns and maneuvers during navigation. The specific
  adjustments and their timing are defined in the camera configuration.
- </p><p>If tracking is currently active when this property is changed, the setting takes effect
+ If tracking is currently active when this property is changed, the setting takes effect
  immediately. Otherwise, it will apply the next time tracking is activated. The initial
  state is determined by the camera configuration provided during construction.</p></div>
 <dl class="notes">
@@ -277,10 +277,10 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <h3>setManeuverDetectionEnabled</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setManeuverDetectionEnabled</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets whether maneuver-based camera adjustments are enabled.
- </p><p>When enabled, the tracking camera automatically adjusts zoom and framing to provide
+ When enabled, the tracking camera automatically adjusts zoom and framing to provide
  better visibility of upcoming turns and maneuvers during navigation. The specific
  adjustments and their timing are defined in the camera configuration.
- </p><p>If tracking is currently active when this property is changed, the setting takes effect
+ If tracking is currently active when this property is changed, the setting takes effect
  immediately. Otherwise, it will apply the next time tracking is activated. The initial
  state is determined by the camera configuration provided during construction.</p></div>
 <dl class="notes">
@@ -295,7 +295,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a></span> <span class="element-name">getViewRectangle</span>()</div>
 <div class="block"><p>Gets the current view rectangle, if it's set.
- </p><p>Defines a sub-space of the screen that the behavior should consider
+ Defines a sub-space of the screen that the behavior should consider
  for camera updates. This property is forwarded to both the tracking and area cameras,
  ensuring consistent viewport constraints across all camera modes.
  If not set, it uses the viewport bounds of the underlying map view.</p></div>
@@ -311,7 +311,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setViewRectangle</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> value)</span></div>
 <div class="block"><p>Sets a view rectangle for both child cameras.
- </p><p>Defines a sub-space of the screen that the behavior should consider
+ Defines a sub-space of the screen that the behavior should consider
  for camera updates. This property is forwarded to both the tracking and area cameras,
  ensuring consistent viewport constraints across all camera modes.
  If not set, it uses the viewport bounds of the underlying map view.</p></div>
@@ -327,7 +327,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype" title="enum class in com.here.sdk.navigation">AutomotiveCameraBehavior.ActiveCameraType</a></span> <span class="element-name">getActiveCameraType</span>()</div>
 <div class="block"><p>Gets the type of camera currently handling camera updates.
- </p><p>Defines which camera behavior is currently active:
+ Defines which camera behavior is currently active:
  <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#NONE"><code>AutomotiveCameraBehavior.ActiveCameraType.NONE</code></a> (free navigation), <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#TRACKING"><code>AutomotiveCameraBehavior.ActiveCameraType.TRACKING</code></a>,
  or <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#AREA"><code>AutomotiveCameraBehavior.ActiveCameraType.AREA</code></a>.</p></div>
 <dl class="notes">
@@ -344,7 +344,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="block"><p>Sets the type of camera currently handling camera updates. If <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#AREA"><code>AutomotiveCameraBehavior.ActiveCameraType.AREA</code></a> is selected,
  the most recently configured area framing is used. If <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#TRACKING"><code>AutomotiveCameraBehavior.ActiveCameraType.TRACKING</code></a> is selected,
  the tracking camera behavior is used. To deactivate set to <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#NONE"><code>AutomotiveCameraBehavior.ActiveCameraType.NONE</code></a>.
- </p><p>Defines which camera behavior is currently active:
+ Defines which camera behavior is currently active:
  <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#NONE"><code>AutomotiveCameraBehavior.ActiveCameraType.NONE</code></a> (free navigation), <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#TRACKING"><code>AutomotiveCameraBehavior.ActiveCameraType.TRACKING</code></a>,
  or <a href="sdk-for-android-navigate-automotivecamerabehavior.activecameratype#AREA"><code>AutomotiveCameraBehavior.ActiveCameraType.AREA</code></a>.</p></div>
 <dl class="notes">
@@ -359,11 +359,11 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode" title="enum class in com.here.sdk.navigation">AutomotiveCameraBehavior.OrientationMode</a></span> <span class="element-name">getOrientationMode</span>()</div>
 <div class="block"><p>Gets the current orientation mode.
- </p><p>Defines the camera's viewing angle and orientation for tracking mode.
+ Defines the camera's viewing angle and orientation for tracking mode.
  In <a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode#MODE_2D"><code>AutomotiveCameraBehavior.OrientationMode.MODE_2D</code></a>, the camera looks straight down and rotates with the vehicle heading.
  In <a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode#MODE_3D"><code>AutomotiveCameraBehavior.OrientationMode.MODE_3D</code></a>, the camera is tilted for a perspective view.
  In <a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode#MODE_NORTH_UP"><code>AutomotiveCameraBehavior.OrientationMode.MODE_NORTH_UP</code></a>, the camera maintains north-up orientation regardless of vehicle heading.
- </p><p>Changes to this property take effect immediately on the tracking camera and are
+ Changes to this property take effect immediately on the tracking camera and are
  preserved when switching between tracking and area modes.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -377,11 +377,11 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOrientationMode</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode" title="enum class in com.here.sdk.navigation">AutomotiveCameraBehavior.OrientationMode</a> value)</span></div>
 <div class="block"><p>Sets the orientation mode for the tracking camera.
- </p><p>Defines the camera's viewing angle and orientation for tracking mode.
+ Defines the camera's viewing angle and orientation for tracking mode.
  In <a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode#MODE_2D"><code>AutomotiveCameraBehavior.OrientationMode.MODE_2D</code></a>, the camera looks straight down and rotates with the vehicle heading.
  In <a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode#MODE_3D"><code>AutomotiveCameraBehavior.OrientationMode.MODE_3D</code></a>, the camera is tilted for a perspective view.
  In <a href="sdk-for-android-navigate-automotivecamerabehavior.orientationmode#MODE_NORTH_UP"><code>AutomotiveCameraBehavior.OrientationMode.MODE_NORTH_UP</code></a>, the camera maintains north-up orientation regardless of vehicle heading.
- </p><p>Changes to this property take effect immediately on the tracking camera and are
+ Changes to this property take effect immediately on the tracking camera and are
  preserved when switching between tracking and area modes.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -395,7 +395,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getNormalizedPrincipalPoint</span>()</div>
 <div class="block"><p>Gets the currently set normalized principal point to be used during navigation.
- </p><p>Normalized principal point to be used during navigation.
+ Normalized principal point to be used during navigation.
  Defaults to (0.5, 0.775), which means the camera will use the position slightly at the bottom
  of the mapview.</p></div>
 <dl class="notes">
@@ -412,7 +412,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setNormalizedPrincipalPoint</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</span></div>
 <div class="block"><p>Sets a normalized principal point to be used during navigation.
- </p><p>Normalized principal point to be used during navigation.
+ Normalized principal point to be used during navigation.
  Defaults to (0.5, 0.775), which means the camera will use the position slightly at the bottom
  of the mapview.</p></div>
 <dl class="notes">

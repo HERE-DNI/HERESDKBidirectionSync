@@ -28,9 +28,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A class containing the full set of available paths
  predicted for the current vehicle state.
- </p><p>Represents a snapshot of the horizon estimation at the moment the update
+ Represents a snapshot of the horizon estimation at the moment the update
  was generated.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -128,7 +128,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <h3>ElectronicHorizon</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ElectronicHorizon</span>()</div>
 <div class="block"><p>Creates a new instance.
- </p><p>Offline availability: This property is available online and offline.</p></div>
+ Offline availability: This property is available online and offline.</p></div>
 </section>
 </li>
 </ul>

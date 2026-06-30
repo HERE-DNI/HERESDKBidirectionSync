@@ -257,9 +257,9 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geocoordinates"
  double factor)</span></div>
 <div class="block"><p>Computes the coordinates of the interpolated location along the great circle between
  the two coordinates.
- </p><p>The interpolation factor is clamped to the range <code>[0.0, 1.0]</code> where <code>0.0</code> identifies this
+ The interpolation factor is clamped to the range <code>[0.0, 1.0]</code> where <code>0.0</code> identifies this
  <code>GeoCoordinates</code> and <code>1.0</code> indicates the other coordinates.
- </p><p>The ratio between the distance to the interpolated coordinates and the distance to the other
+ The ratio between the distance to the interpolated coordinates and the distance to the other
  coordinates is approximately equal to the interpolation factor. When both coordinates have
  the altitude, then the altitude is interpolated as well; <code>null</code> otherwise.</p></div>
 <dl class="notes">

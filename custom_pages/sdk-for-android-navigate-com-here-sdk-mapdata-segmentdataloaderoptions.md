@@ -27,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloaderoptions"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SegmentDataLoaderOptions</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Specifies which data should be loaded by the <a href="sdk-for-android-navigate-segmentdataloader#loadData(com.here.sdk.mapdata.OCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadData(com.here.sdk.mapdata.OCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> or <a href="sdk-for-android-navigate-segmentdataloader#loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId,com.here.sdk.mapdata.SegmentDataLoaderOptions)"><code>SegmentDataLoader.loadDirectedSegmentData(com.here.sdk.mapdata.DirectedOCMSegmentId, com.here.sdk.mapdata.SegmentDataLoaderOptions)</code></a> function.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

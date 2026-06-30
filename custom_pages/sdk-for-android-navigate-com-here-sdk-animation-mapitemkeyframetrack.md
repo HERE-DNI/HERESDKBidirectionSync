@@ -30,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack"
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Stores keyframes for interpolation of a map item property using a specific
  easing function and interpolation mode.
- </p><p>The keyframe track object is used to create animations,
+ The keyframe track object is used to create animations,
  see <a href="sdk-for-android-navigate-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a> and <a href="sdk-for-android-navigate-mappolylineanimation" title="class in com.here.sdk.animation"><code>MapPolylineAnimation</code></a>.</p></div>
 </section>
 <section class="summary">
@@ -136,7 +136,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-animation-mapitemkeyframetrack"
  <a href="sdk-for-android-navigate-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
                                              throws <span class="exceptions"><a href="sdk-for-android-navigate-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></span></div>
 <div class="block"><p>Creates a keyframe track used to animate the progress of a polyline.
- </p><p>Each scalar keyframe specifies the progress property
+ Each scalar keyframe specifies the progress property
  (as passed to <a href="sdk-for-android-navigate-mappolyline#setProgress(double)"><code>MapPolyline.setProgress(double)</code></a>) at key points of the animation.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

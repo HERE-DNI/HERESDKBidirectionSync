@@ -35,7 +35,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-locationmanager"
 implements <a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core">LocationListener</a></span></div>
 <div class="block"><p>LocationManager listens to position updates and provides the
  map-matched location using the LocationManagerListener.
- </p><p><strong>Note:</strong> This is a <strong>beta</strong> release of this feature. There may be bugs and unexpected
+ <strong>Note:</strong> This is a <strong>beta</strong> release of this feature. There may be bugs and unexpected
  behaviors. Related APIs may change in future releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -137,7 +137,7 @@ implements <a href="sdk-for-android-navigate-locationlistener" title="interface 
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMapMatcher</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-mapmatcher" title="class in com.here.sdk.mapmatcher">MapMatcher</a> mapMatcher)</span></div>
 <div class="block"><p>Sets the <a href="sdk-for-android-navigate-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a> for exclusive use by <a href="sdk-for-android-navigate-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a>.
- </p><p><strong>Threading:</strong> This method is asynchronous and performs the switch in an internal thread of <a href="sdk-for-android-navigate-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a>.
+ <strong>Threading:</strong> This method is asynchronous and performs the switch in an internal thread of <a href="sdk-for-android-navigate-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a>.
  <strong>Note:</strong> After calling this method, the <a href="sdk-for-android-navigate-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a> is owned and used exclusively
  by <a href="sdk-for-android-navigate-locationmanager" title="class in com.here.sdk.mapmatcher"><code>LocationManager</code></a> in its internal processing thread.
  Do not use or access the <a href="sdk-for-android-navigate-mapmatcher" title="class in com.here.sdk.mapmatcher"><code>MapMatcher</code></a> elsewhere while it is set.</p></div>

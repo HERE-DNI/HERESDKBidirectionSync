@@ -259,7 +259,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both departure time and <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -277,7 +277,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -321,9 +321,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">enableTolls</span></div>
 <div class="block"><p>A flag that indicates whether the resulting route <a href="sdk-for-android-navigate-section#getTolls()"><code>Section.getTolls()</code></a> properties should contain
  tolls data. Defaults to <code>false</code>.
- </p><p><strong>Note:</strong> When a route calculation request asks tolls, a pricing scheme with higher rates might be applied.
+ <strong>Note:</strong> When a route calculation request asks tolls, a pricing scheme with higher rates might be applied.
  Consult your HERE representative to get more information on the related pricing schemes.
- </p><p><strong>Note:</strong> For users of the <code>OfflineRoutingEngine</code> this is a beta release of this feature,
+ <strong>Note:</strong> For users of the <code>OfflineRoutingEngine</code> this is a beta release of this feature,
  so there could be a few bugs and unexpected behaviors. The <code>OfflineRoutingEngine</code> is only available for the Navigate license. For users of the <code>RoutingEngine</code> the feature is stable.</p></div>
 </section>
 </li>
@@ -421,7 +421,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both departure time and <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -456,7 +456,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both departure time and <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -467,7 +467,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -504,7 +504,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both departure time and <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -515,7 +515,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -559,7 +559,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both departure time and <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -570,7 +570,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -619,7 +619,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both departure time and <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -630,7 +630,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -681,7 +681,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both departure time and <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -692,7 +692,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -710,9 +710,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
 <dd><code>trafficOptimizationMode</code> - <p>The traffic optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-navigate-trafficoptimizationmode#TIME_DEPENDENT"><code>TrafficOptimizationMode.TIME_DEPENDENT</code></a>, which enables traffic-aware routing.</p></dd>
 <dd><code>enableTolls</code> - <p>A flag that indicates whether the resulting route <a href="sdk-for-android-navigate-section#getTolls()"><code>Section.getTolls()</code></a> properties should contain
  tolls data. Defaults to <code>false</code>.
- </p><p><strong>Note:</strong> When a route calculation request asks tolls, a pricing scheme with higher rates might be applied.
+ <strong>Note:</strong> When a route calculation request asks tolls, a pricing scheme with higher rates might be applied.
  Consult your HERE representative to get more information on the related pricing schemes.
- </p><p><strong>Note:</strong> For users of the <code>OfflineRoutingEngine</code> this is a beta release of this feature,
+ <strong>Note:</strong> For users of the <code>OfflineRoutingEngine</code> this is a beta release of this feature,
  so there could be a few bugs and unexpected behaviors. The <code>OfflineRoutingEngine</code> is only available for the Navigate license. For users of the <code>RoutingEngine</code> the feature is stable.</p></dd>
 </dl>
 </section>
@@ -750,7 +750,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both departure time and <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -761,7 +761,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -779,9 +779,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
 <dd><code>trafficOptimizationMode</code> - <p>The traffic optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-navigate-trafficoptimizationmode#TIME_DEPENDENT"><code>TrafficOptimizationMode.TIME_DEPENDENT</code></a>, which enables traffic-aware routing.</p></dd>
 <dd><code>enableTolls</code> - <p>A flag that indicates whether the resulting route <a href="sdk-for-android-navigate-section#getTolls()"><code>Section.getTolls()</code></a> properties should contain
  tolls data. Defaults to <code>false</code>.
- </p><p><strong>Note:</strong> When a route calculation request asks tolls, a pricing scheme with higher rates might be applied.
+ <strong>Note:</strong> When a route calculation request asks tolls, a pricing scheme with higher rates might be applied.
  Consult your HERE representative to get more information on the related pricing schemes.
- </p><p><strong>Note:</strong> For users of the <code>OfflineRoutingEngine</code> this is a beta release of this feature,
+ <strong>Note:</strong> For users of the <code>OfflineRoutingEngine</code> this is a beta release of this feature,
  so there could be a few bugs and unexpected behaviors. The <code>OfflineRoutingEngine</code> is only available for the Navigate license. For users of the <code>RoutingEngine</code> the feature is stable.</p></dd>
 <dd><code>optimizeWaypointsOrder</code> - <p>A flag that indicates whether the order of waypoints that is passed to <code>calculateRoute()</code> should be optimized in the best order.
  The best order is calculated by the same metrics that are used during regular calculation, e.g. <a href="sdk-for-android-navigate-optimizationmode" title="enum class in com.here.sdk.routing"><code>OptimizationMode</code></a>.
@@ -828,7 +828,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, i.e. now.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both departure time and <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#arrivalTime"><code>arrivalTime</code></a> cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -839,7 +839,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
  By default, the time is not set.
  If the time is not set, the current time will be used internally, to predict the arrival time.
  Therefore, by default, a time-aware route request is initiated including traffic.
- </p><p><strong>Note</strong>:
+ <strong>Note</strong>:
  <ul>
 <li>Both <a href="sdk-for-android-navigate-com-here-sdk-routing-routeoptions#departureTime"><code>departureTime</code></a> and arrival time cannot be set at the same time.</li>
 <li>This parameter is handled as local time. Therefore, it is necessary to specify the time zone offset
@@ -857,9 +857,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routeoptions"
 <dd><code>trafficOptimizationMode</code> - <p>The traffic optimization mode to be used for route calculation. By default, it is <a href="sdk-for-android-navigate-trafficoptimizationmode#TIME_DEPENDENT"><code>TrafficOptimizationMode.TIME_DEPENDENT</code></a>, which enables traffic-aware routing.</p></dd>
 <dd><code>enableTolls</code> - <p>A flag that indicates whether the resulting route <a href="sdk-for-android-navigate-section#getTolls()"><code>Section.getTolls()</code></a> properties should contain
  tolls data. Defaults to <code>false</code>.
- </p><p><strong>Note:</strong> When a route calculation request asks tolls, a pricing scheme with higher rates might be applied.
+ <strong>Note:</strong> When a route calculation request asks tolls, a pricing scheme with higher rates might be applied.
  Consult your HERE representative to get more information on the related pricing schemes.
- </p><p><strong>Note:</strong> For users of the <code>OfflineRoutingEngine</code> this is a beta release of this feature,
+ <strong>Note:</strong> For users of the <code>OfflineRoutingEngine</code> this is a beta release of this feature,
  so there could be a few bugs and unexpected behaviors. The <code>OfflineRoutingEngine</code> is only available for the Navigate license. For users of the <code>RoutingEngine</code> the feature is stable.</p></dd>
 <dd><code>optimizeWaypointsOrder</code> - <p>A flag that indicates whether the order of waypoints that is passed to <code>calculateRoute()</code> should be optimized in the best order.
  The best order is calculated by the same metrics that are used during regular calculation, e.g. <a href="sdk-for-android-navigate-optimizationmode" title="enum class in com.here.sdk.routing"><code>OptimizationMode</code></a>.

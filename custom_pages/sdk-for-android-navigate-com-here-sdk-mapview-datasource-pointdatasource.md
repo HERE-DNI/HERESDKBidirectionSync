@@ -30,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasource"
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Point data source allows the rendering engine access to the user provided
  geographical locations and their attributes.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -152,7 +152,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasource"
  <a href="sdk-for-android-navigate-pointdatasource.pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a> processor)</span></div>
 <div class="block"><p>Iterates through all the points from the data source and passes them to the
  given processor, one by one. The processor can update the point data.
- </p><p>The iteration stops after all points have been processed or the processor returns false
+ The iteration stops after all points have been processed or the processor returns false
  from the process call.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

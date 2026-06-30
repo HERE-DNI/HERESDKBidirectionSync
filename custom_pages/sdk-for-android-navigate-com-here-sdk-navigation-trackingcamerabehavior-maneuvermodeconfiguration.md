@@ -31,12 +31,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TrackingCameraBehavior.ManeuverModeConfiguration</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Configuration that defines how <a href="sdk-for-android-navigate-trackingcamerabehavior" title="class in com.here.sdk.navigation"><code>TrackingCameraBehavior</code></a> reacts to nearby maneuvers.
- </p><p>On each frame, and based on the current position, the availability of its functional road
+ On each frame, and based on the current position, the availability of its functional road
  class, and the availability of maneuver data for at least one adjacent maneuver, the camera
  checks for a match against the <a href="sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-maneuvermodeconfiguration#maneuverRules"><code>maneuverRules</code></a> in the order they are listed. If a match is
  found, subsequent rules are not checked. If no match is found, if inputs are unavailable,
  or if the matched rule has <code>null</code> options, the camera does not react.
- </p><p>For correct default initialization, use <a href="sdk-for-android-navigate-trackingcamerabehavior#defaultManeuverModeConfiguration()"><code>TrackingCameraBehavior.defaultManeuverModeConfiguration()</code></a>.</p></div>
+ For correct default initialization, use <a href="sdk-for-android-navigate-trackingcamerabehavior#defaultManeuverModeConfiguration()"><code>TrackingCameraBehavior.defaultManeuverModeConfiguration()</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -129,7 +129,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-m
 <h3>ManeuverModeConfiguration</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ManeuverModeConfiguration</span>()</div>
 <div class="block"><p>Creates a new instance.
- </p><p>Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and
+ Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and
  unexpected behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>

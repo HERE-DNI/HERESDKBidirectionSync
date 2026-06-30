@@ -122,8 +122,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulatoroptions
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">notificationInterval</span></div>
 <div class="block"><p>Interval between notifications.
  Defaults to 1 second.
- </p><p>Values less than 1 ms are not acceptable and the interval is raised to this minimum in object constructors.
- </p><p>Note: This value does not affect <code>LocationSimulator</code> when created with a <code>GPXTrack</code>.</p></div>
+ Values less than 1 ms are not acceptable and the interval is raised to this minimum in object constructors.
+ Note: This value does not affect <code>LocationSimulator</code> when created with a <code>GPXTrack</code>.</p></div>
 </section>
 </li>
 </ul>

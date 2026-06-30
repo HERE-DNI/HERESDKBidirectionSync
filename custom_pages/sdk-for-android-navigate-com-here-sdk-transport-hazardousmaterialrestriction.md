@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-hazardousmaterialrestrict
 <div class="block"><p>Represents restriction on transport of hazardous materials.
  A generic restriction, applying to any hazardous material, is encoded with empty member
  variables.
- </p><p><strong>Note:</strong> This is a beta release of this feature.
+ <strong>Note:</strong> This is a beta release of this feature.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

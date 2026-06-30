@@ -35,7 +35,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-roaddivider"
 <div class="block"><p>A physical structure or painted road marking intended to legally prohibit
  left turns in right-side driving countries, right turns in left-side driving countries,
  and U-turns at divided intersections or in the middle of divided segments.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

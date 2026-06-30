@@ -122,7 +122,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-f
 <h3>FunctionalRoadClassZoomPolicyOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">FunctionalRoadClassZoomPolicyOptions</span>()</div>
 <div class="block"><p>Creates a new instance.
- </p><p>Note: This is a beta feature; there maybe bugs and unexpected behavior. Related API's are
+ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related API's are
  subject to change without a deprecation process.</p></div>
 </section>
 </li>

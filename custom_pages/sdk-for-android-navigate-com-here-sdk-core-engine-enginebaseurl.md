@@ -201,7 +201,7 @@ the order they are declared.</div>
 <div class="block"><p>Indicates a <code>Traffic Vector Tile API</code> endpoint.
  Note that the provided string value will replace the base URL.
  This is only relevant for traffic presented in the map view. For the TrafficEngine, please use <a href="sdk-for-android-navigate-com-here-sdk-core-engine-enginebaseurl#TRAFFIC_DATA"><code>TRAFFIC_DATA</code></a>.
- </p><p>The service needs to comply with https://www.here.com/docs/bundle/traffic-vector-tile-api-v2-api-reference/page/index.html
+ The service needs to comply with https://www.here.com/docs/bundle/traffic-vector-tile-api-v2-api-reference/page/index.html
  The endpoint name for this engine is "v2/traffictiles". A valid base string value
  could look like "www.my-company.com". The resulting URL looks like this:
  "https://www.my-company.com/v2/traffictiles/{layer}/mc/{z}/{x}/{y}/omv", with concrete tile

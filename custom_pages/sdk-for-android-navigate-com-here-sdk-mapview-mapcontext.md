@@ -29,10 +29,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapContext</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>MapContext is the rendering engine and the context in which virtual geographic maps get rendered.
- </p><p>It runs the render loop or offers the means for the user to run a custom one.
- </p><p>Data sources, assets and virtual maps can be attached to the context. A virtual map can only
+ It runs the render loop or offers the means for the user to run a custom one.
+ Data sources, assets and virtual maps can be attached to the context. A virtual map can only
  render data from sources attached to the same context.
- </p><p>The graphics backend to be used by the engine can be choosen by the user or a platform suitable
+ The graphics backend to be used by the engine can be choosen by the user or a platform suitable
  one can be automatically selected internally. Only one graphics backend can be active and once
  selected it cannot be changed.</p></div>
 </section>
@@ -155,7 +155,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext"
 <dd><p>Gets the current memory management options.
      Returns the actual applied memory limits. If the underlying system limits exceed
      int32_t max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped to int32_t max.
-     </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+     Note: This is a beta release of this feature, so there could be a few bugs and unexpected
      behavior. Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>
@@ -170,14 +170,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext"
 <div class="block"><p>Sets memory management options for controlling tile cache and video memory usage.
  In <a href="sdk-for-android-navigate-mapcontext.memorymanagementoptions" title="class in com.here.sdk.mapview"><code>MapContext.MemoryManagementOptions</code></a> optional parameters with <code>null</code>
  or non positive values will be ignored, preserving their existing settings.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>memoryManagementOptions</code> - <p>The memory management options to set.</p></dd>
 <dd><code>callback</code> - <p>Optional callback used upon
      completion to pass the return value to the caller.
-     </p><p>The callback is called on the main thread.</p></dd>
+     The callback is called on the main thread.</p></dd>
 </dl>
 </section>
 </li>

@@ -34,11 +34,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warnerengine"
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a>
 implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="interface in com.here.sdk.electronichorizon">ElectronicHorizonListener</a></span></div>
 <div class="block"><p>Provides the core functionality for generating and managing navigation warnings.
- </p><p><code>WarnerEngine</code> processes Electronic Horizon data and determines when various types
+ <code>WarnerEngine</code> processes Electronic Horizon data and determines when various types
  of warnings should be issued. It is used with <a href="sdk-for-android-navigate-electronichorizonlistener" title="interface in com.here.sdk.electronichorizon"><code>ElectronicHorizonListener</code></a>,
  which supply the road topology and positional updates required for warning evaluation.
- </p><p>The engine monitors enabled warning types and notifies registered listeners when new warnings become available.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ The engine monitors enabled warning types and notifies registered listeners when new warnings become available.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -279,7 +279,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addEnabledWarnings</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; warningTypes)</span></div>
 <div class="block"><p>Adds the given warning types to the set of warnings monitored by the engine.
- </p><p>After this call, the engine will begin generating warnings for all
+ After this call, the engine will begin generating warnings for all
  types included in <code>warningTypes</code>, in addition to those that are already enabled.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -293,7 +293,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeEnabledWarnings</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; warningTypes)</span></div>
 <div class="block"><p>Removes the given warning types from the set of warnings monitored by the engine.
- </p><p>After this call, the engine will stop generating warnings for all
+ After this call, the engine will stop generating warnings for all
  types included in <code>warningTypes</code>, while other enabled types remain unaffected.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -307,7 +307,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setEnabledWarnings</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a>&gt; warningTypes)</span></div>
 <div class="block"><p>Replaces the current set of enabled warning types with the provided list.
- </p><p>After this call, the engine will monitor and generate warnings
+ After this call, the engine will monitor and generate warnings
  only for types included in <code>warningTypes</code>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -375,7 +375,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a></span> <span class="element-name">getWarningNotificationDistances</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation">WarningType</a> warningType)</span></div>
 <div class="block"><p>Returns the warning notification distances for the requested warning type.
- </p><p><strong>Note</strong>: <a href="sdk-for-android-navigate-warningtype#CUSTOM"><code>WarningType.CUSTOM</code></a> is not a valid value for this method.
+ <strong>Note</strong>: <a href="sdk-for-android-navigate-warningtype#CUSTOM"><code>WarningType.CUSTOM</code></a> is not a valid value for this method.
  Use <a href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#getCustomWarningNotificationDistances(int)"><code>getCustomWarningNotificationDistances(int)</code></a> to retrieve distances for a specific
  custom warning type.</p></div>
 <dl class="notes">
@@ -397,7 +397,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
  @NonNull
  <a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a> warningNotificationDistances)</span></div>
 <div class="block"><p>Sets the warning notification distances for the specified warning type.
- </p><p><strong>Note</strong>: <a href="sdk-for-android-navigate-warningtype#CUSTOM"><code>WarningType.CUSTOM</code></a> is not a valid value for this method.
+ <strong>Note</strong>: <a href="sdk-for-android-navigate-warningtype#CUSTOM"><code>WarningType.CUSTOM</code></a> is not a valid value for this method.
  Use <a href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#setCustomWarningNotificationDistances(int,com.here.sdk.navigation.WarningNotificationDistances)"><code>setCustomWarningNotificationDistances(int, com.here.sdk.navigation.WarningNotificationDistances)</code></a> to configure distances for a specific
  custom warning type.</p></div>
 <dl class="notes">
@@ -417,7 +417,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a></span> <span class="element-name">getCustomWarningNotificationDistances</span><wbr/><span class="parameters">(int customWarningType)</span></div>
 <div class="block"><p>Returns the warning notification distances for the specified custom warning type.
- </p><p>Unlike <a href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#getWarningNotificationDistances(com.here.sdk.navigation.WarningType)"><code>getWarningNotificationDistances(com.here.sdk.navigation.WarningType)</code></a>, which operates on a <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation"><code>WarningType</code></a>,
+ Unlike <a href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#getWarningNotificationDistances(com.here.sdk.navigation.WarningType)"><code>getWarningNotificationDistances(com.here.sdk.navigation.WarningType)</code></a>, which operates on a <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation"><code>WarningType</code></a>,
  this method targets a specific custom warning category identified by <code>customWarningType</code>,
  as defined in <a href="sdk-for-android-navigate-customwarning#customWarningType"><code>CustomWarning.customWarningType</code></a> and <a href="sdk-for-android-navigate-warning#customWarningType"><code>Warning.customWarningType</code></a>.</p></div>
 <dl class="notes">
@@ -428,7 +428,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <dd><p>The warning notification distances configured for the given <code>customWarningType</code>.
      If no distances have been explicitly set for this type, a default
      <a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation"><code>WarningNotificationDistances</code></a> value is returned.
-     </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+     <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
      behaviors. Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>
@@ -440,7 +440,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
  @NonNull
  <a href="sdk-for-android-navigate-warningnotificationdistances" title="class in com.here.sdk.navigation">WarningNotificationDistances</a> warningNotificationDistances)</span></div>
 <div class="block"><p>Sets the warning notification distances for the specified custom warning type.
- </p><p>Unlike <a href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#setWarningNotificationDistances(com.here.sdk.navigation.WarningType,com.here.sdk.navigation.WarningNotificationDistances)"><code>setWarningNotificationDistances(com.here.sdk.navigation.WarningType, com.here.sdk.navigation.WarningNotificationDistances)</code></a>, which applies settings to a <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation"><code>WarningType</code></a>,
+ Unlike <a href="sdk-for-android-navigate-com-here-sdk-warner-warnerengine#setWarningNotificationDistances(com.here.sdk.navigation.WarningType,com.here.sdk.navigation.WarningNotificationDistances)"><code>setWarningNotificationDistances(com.here.sdk.navigation.WarningType, com.here.sdk.navigation.WarningNotificationDistances)</code></a>, which applies settings to a <a href="sdk-for-android-navigate-warningtype" title="enum class in com.here.sdk.navigation"><code>WarningType</code></a>,
  this method allows configuring notification distances independently for each custom warning
  category identified by <code>customWarningType</code>, as defined in
  <a href="sdk-for-android-navigate-customwarning#customWarningType"><code>CustomWarning.customWarningType</code></a> and <a href="sdk-for-android-navigate-warning#customWarningType"><code>Warning.customWarningType</code></a>.</p></div>
@@ -452,7 +452,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
      for the specified <code>customWarningType</code>.</p></dd>
 <dt>Returns:</dt>
 <dd><p>True if the distances were successfully set; false otherwise.
-     </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+     <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
      behaviors. Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>
@@ -464,9 +464,9 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="block"><p>Marks all currently active warnings as passed (<code>DistanceType.PASSED</code>), notifies all
  registered <a href="sdk-for-android-navigate-warninglistener" title="interface in com.here.sdk.warner"><code>WarningListener</code></a> instances on the main thread, and then clears these
  warnings from their corresponding registries by invoking the appropriate<code>WarningsRegistry.clear&lt;Type&gt;</code> methods.
- </p><p>This method triggers notifications only for enabled warners. Warning processing may
+ This method triggers notifications only for enabled warners. Warning processing may
  occur asynchronously unless synchronous mode is enabled.
- </p><p><strong>Note</strong>: Although each warning type can also be cleared manually via the respective
+ <strong>Note</strong>: Although each warning type can also be cleared manually via the respective
  <code>WarningsRegistry.clear&lt;Type&gt;()</code> methods, <code>finalizeGivenWarnings()</code> provides a
  unified way to flush all active warnings after they have been reported as
  passed. If this method is not invoked, warnings will continue to accumulate in the
@@ -481,13 +481,13 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
  @NonNull
  <a href="sdk-for-android-navigate-segmentdataloaderoptions" title="class in com.here.sdk.mapdata">SegmentDataLoaderOptions</a> segmentDataLoaderOptions)</span></div>
 <div class="block"><p>Registers a custom warning provider.
- </p><p>The registered provider participates in warning evaluation and is invoked
+ The registered provider participates in warning evaluation and is invoked
  to generate custom warnings based on the current vehicle position.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>customWarningProvider</code> - <p>A provider responsible for generating custom warnings.</p></dd>
 <dd><code>segmentDataLoaderOptions</code> - <p>Specifies which data should be loaded by the <code>SegmentDataLoader</code>.
-     </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+     <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
      behaviors. Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>
@@ -498,12 +498,12 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeCustomWarningProvider</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-customwarningprovider" title="interface in com.here.sdk.warner">CustomWarningProvider</a> customWarningProvider)</span></div>
 <div class="block"><p>Unregisters a custom warning provider.
- </p><p>After removal, the provider will no longer participate in warning evaluation
+ After removal, the provider will no longer participate in warning evaluation
  and will not generate custom warnings.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>customWarningProvider</code> - <p>The provider to be removed.
-     </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+     <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
      behaviors. Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>
@@ -513,9 +513,9 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <h3>clearCustomWarningProviders</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">clearCustomWarningProviders</span>()</div>
 <div class="block"><p>Unregisters all custom warning providers.
- </p><p>After this call, no custom warning providers will participate in warning
+ After this call, no custom warning providers will participate in warning
  evaluation until new providers are registered.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
@@ -525,7 +525,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-warningoptions" title="class in com.here.sdk.warner">WarningOptions</a></span> <span class="element-name">getWarningOptions</span>()</div>
 <div class="block"><p>Gets the currently configured <a href="sdk-for-android-navigate-warningoptions" title="class in com.here.sdk.warner"><code>WarningOptions</code></a>.
- </p><p>Provides configuration parameters for all the warners.</p></div>
+ Provides configuration parameters for all the warners.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Options that define warning behavior for all the warners.</p></dd>
@@ -538,7 +538,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setWarningOptions</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-warningoptions" title="class in com.here.sdk.warner">WarningOptions</a> value)</span></div>
 <div class="block"><p>Sets the <a href="sdk-for-android-navigate-warningoptions" title="class in com.here.sdk.warner"><code>WarningOptions</code></a> and updates the configuration for all the warners.
- </p><p>Provides configuration parameters for all the warners.</p></div>
+ Provides configuration parameters for all the warners.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Options that define warning behavior for all the warners.</p></dd>
@@ -551,7 +551,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation">TimingProfile</a></span> <span class="element-name">getTimingProfile</span>()</div>
 <div class="block"><p>Gets the currently configured <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation"><code>TimingProfile</code></a>.
- </p><p>Configures the base notification thresholds used for delivering
+ Configures the base notification thresholds used for delivering
  navigation warnings. The effective thresholds depend on the selected
  <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation"><code>TimingProfile</code></a> and may adjust automatically according to
  the current speed limit:
@@ -563,7 +563,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <li>For <a href="sdk-for-android-navigate-timingprofile#SLOW_SPEED"><code>TimingProfile.SLOW_SPEED</code></a>, thresholds apply when the current
  speed limit is 60 km/h (37 mph) or below.</li>
 </ul>
-</p><p><strong>Note:</strong> Custom threshold values can be set, but these timing-profile rules will still apply.</p></div>
+<strong>Note:</strong> Custom threshold values can be set, but these timing-profile rules will still apply.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The timing profile that defines when navigation warnings should be triggered.</p></dd>
@@ -576,7 +576,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTimingProfile</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation">TimingProfile</a> value)</span></div>
 <div class="block"><p>Sets the <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation"><code>TimingProfile</code></a> of the current position.
- </p><p>Configures the base notification thresholds used for delivering
+ Configures the base notification thresholds used for delivering
  navigation warnings. The effective thresholds depend on the selected
  <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation"><code>TimingProfile</code></a> and may adjust automatically according to
  the current speed limit:
@@ -588,7 +588,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <li>For <a href="sdk-for-android-navigate-timingprofile#SLOW_SPEED"><code>TimingProfile.SLOW_SPEED</code></a>, thresholds apply when the current
  speed limit is 60 km/h (37 mph) or below.</li>
 </ul>
-</p><p><strong>Note:</strong> Custom threshold values can be set, but these timing-profile rules will still apply.</p></div>
+<strong>Note:</strong> Custom threshold values can be set, but these timing-profile rules will still apply.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The timing profile that defines when navigation warnings should be triggered.</p></dd>
@@ -607,7 +607,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
 <li>a new update,</li>
 <li>an error,</li>
 </ul>
-</p><p>The client must inspect <code>error_code</code> to determine whether the call
+The client must inspect <code>error_code</code> to determine whether the call
  represents an error or a valid update.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -617,7 +617,7 @@ implements <a href="sdk-for-android-navigate-electronichorizonlistener" title="i
      <code>null</code> means no error.</p></dd>
 <dd><code>update</code> - <p>The update describing the current electronic horizon state.
      May be <code>null</code> if an update could not be produced.
-     </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+     <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
      behaviors. Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>

@@ -249,7 +249,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getName</span>()</div>
 <div class="block"><p>Gets a name of the geometry.
- </p><p>If no name has been set, returns a label name.</p></div>
+ If no name has been set, returns a label name.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The name of the geometry.</p></dd>
@@ -286,7 +286,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuegeometry"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a></span> <span class="element-name">getParentGeometry</span>()</div>
 <div class="block"><p>Gets a parent geometry on which the current geometry is located.
- </p><p>Defaults to <code>null</code>, if the geometry represents a base shape.</p></div>
+ Defaults to <code>null</code>, if the geometry represents a base shape.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The parent geometry.</p></dd>

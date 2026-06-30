@@ -200,7 +200,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-venueengine"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service">VenueService</a></span> <span class="element-name">getVenueService</span>()</div>
 <div class="block"><p>Gets the venue service. This service can be used to load the venue model objects.
- </p><p>Gets the <a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a>. This service
+ Gets the <a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a>. This service
  can be used to load the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> objects.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -214,7 +214,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-venueengine"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control">VenueMap</a></span> <span class="element-name">getVenueMap</span>()</div>
 <div class="block"><p>Gets a venue map to visualize venues.
- </p><p>Gets a venue map to visualize venues and control the
+ Gets a venue map to visualize venues and control the
  state of the venues on the map. You need to start the <a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service"><code>VenueService</code></a> to
  be able to load venues.</p></div>
 <dl class="notes">

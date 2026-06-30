@@ -27,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Warning</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A class which represents a warning.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -146,7 +146,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warning"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">customWarningType</span></div>
 <div class="block"><p>Identifier of the custom warning type.
- </p><p>Defines the category of the custom warning and determines which warning
+ Defines the category of the custom warning and determines which warning
  registry should be used to retrieve additional warning details.
  This field is set only when <code>warningType == WarningType.CUSTOM</code> and is
  <code>null</code> for all other warning types.</p></div>

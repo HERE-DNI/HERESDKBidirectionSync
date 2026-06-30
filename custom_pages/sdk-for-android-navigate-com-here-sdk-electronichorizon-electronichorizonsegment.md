@@ -27,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">ElectronicHorizonSegment</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Represents a segment in an <a href="sdk-for-android-navigate-electronichorizonpath" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonPath</code></a>.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -176,7 +176,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
  double startOffsetInMeters,
  double endOffsetInMeters)</span></div>
 <div class="block"><p>Creates a new instance.
- </p><p>Offline availability: This property is available online and offline.</p></div>
+ Offline availability: This property is available online and offline.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>segmentId</code> - <p>The unique identifier of the segment.</p></dd>

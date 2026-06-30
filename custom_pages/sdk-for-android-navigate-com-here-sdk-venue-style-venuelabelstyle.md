@@ -154,7 +154,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-style-venuelabelstyle"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getOutlineColor</span>()</div>
 <div class="block"><p>Gets an outline color.
- </p><p>Defaults to <code>null</code> if an outline color
+ Defaults to <code>null</code> if an outline color
  has not been set for this label style.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

@@ -40,219 +40,219 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Data attributes collection.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-dataattributesaccessor" title="class in com.here.sdk.mapview.datasource">DataAttributesAccessor</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-dataattributesaccessor" title="class in com.here.sdk.mapview.datasource">DataAttributesAccessor</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Accessor used for manipulating data attributes.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">Interface for a collection of data attributes.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">DataAttributesBuilder</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">DataAttributesBuilder</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Data attributes collection builder.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Encapsulates a data attribute value.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab3"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab3"><a href="sdk-for-android-navigate-dataattributevalue.valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab3">
 <div class="block">Supported types of the data attribute values.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Represents a geodetic line with custom attributes.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedataaccessor" title="class in com.here.sdk.mapview.datasource">LineDataAccessor</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-linedataaccessor" title="class in com.here.sdk.mapview.datasource">LineDataAccessor</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Line data accessor used for manipulating polylines that are part of a LineDataSource.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
-<div class="block">Builder of <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource"><code>LineData</code></a> instances.</div>
+<div class="block">Builder of <a href="sdk-for-android-navigate-linedata" title="class in com.here.sdk.mapview.datasource"><code>LineData</code></a> instances.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource" title="class in com.here.sdk.mapview.datasource">LineDataSource</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-linedatasource" title="class in com.here.sdk.mapview.datasource">LineDataSource</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Polyline data source allows the rendering engine access to the user provided
  polylines geometry and their attributes.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasource.linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-linedatasource.linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">Called for each line, allowing inspection, removal or update of coordinates and attributes.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">LineDataSourceBuilder</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">LineDataSourceBuilder</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Builder of lines data source.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linetiledatasource" title="class in com.here.sdk.mapview.datasource">LineTileDataSource</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-linetiledatasource" title="class in com.here.sdk.mapview.datasource">LineTileDataSource</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Line tile data source allows the rendering engine access to user managed data sets of
- geodetic lines and their attributes through a <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linetilesource" title="interface in com.here.sdk.mapview.datasource"><code>LineTileSource</code></a>.</div>
+ geodetic lines and their attributes through a <a href="sdk-for-android-navigate-linetilesource" title="interface in com.here.sdk.mapview.datasource"><code>LineTileSource</code></a>.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linetilesource" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-linetilesource" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">A source of geodetic line tiles.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-linetilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">Result handler of a load tile request.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Represents a geodetic point with custom attributes.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Point data accessor used for manipulating points that are part of a PointDataSource.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatabuilder" title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-pointdatabuilder" title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
-<div class="block">Builder of <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdata" title="class in com.here.sdk.mapview.datasource"><code>PointData</code></a> instances.</div>
+<div class="block">Builder of <a href="sdk-for-android-navigate-pointdata" title="class in com.here.sdk.mapview.datasource"><code>PointData</code></a> instances.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasource" title="class in com.here.sdk.mapview.datasource">PointDataSource</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-pointdatasource" title="class in com.here.sdk.mapview.datasource">PointDataSource</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Point data source allows the rendering engine access to the user provided
  geographical locations and their attributes.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasource.pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-pointdatasource.pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Called for each point, allowing inspection, removal or update of coordinates and attributes.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PointDataSourceBuilder</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PointDataSourceBuilder</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Builder of points data source.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointtiledatasource" title="class in com.here.sdk.mapview.datasource">PointTileDataSource</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-pointtiledatasource" title="class in com.here.sdk.mapview.datasource">PointTileDataSource</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Point tile data source allows the rendering engine access to user managed data sets of
- geographical locations and their attributes through a <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointtilesource" title="interface in com.here.sdk.mapview.datasource"><code>PointTileSource</code></a>.</div>
+ geographical locations and their attributes through a <a href="sdk-for-android-navigate-pointtilesource" title="interface in com.here.sdk.mapview.datasource"><code>PointTileSource</code></a>.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointtilesource" title="interface in com.here.sdk.mapview.datasource">PointTileSource</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-pointtilesource" title="interface in com.here.sdk.mapview.datasource">PointTileSource</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">A source of geodetic point tiles.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointtilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-pointtilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Result handler of a load tile request.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Represents a geodetic polygon with custom attributes.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondataaccessor" title="class in com.here.sdk.mapview.datasource">PolygonDataAccessor</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-polygondataaccessor" title="class in com.here.sdk.mapview.datasource">PolygonDataAccessor</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Polygon data accessor used for manipulating polygons that are part of a PolygonDataSource.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
-<div class="block">Builder of <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> instances.</div>
+<div class="block">Builder of <a href="sdk-for-android-navigate-polygondata" title="class in com.here.sdk.mapview.datasource"><code>PolygonData</code></a> instances.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondatasource" title="class in com.here.sdk.mapview.datasource">PolygonDataSource</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-polygondatasource" title="class in com.here.sdk.mapview.datasource">PolygonDataSource</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Polygon data source allows the rendering engine access to the user provided
  polygons geometry and their attributes.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">Called for each polygon, allowing inspection, removal or update of coordinates and attributes.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Builder of the polygons data source.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygontiledatasource" title="class in com.here.sdk.mapview.datasource">PolygonTileDataSource</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-polygontiledatasource" title="class in com.here.sdk.mapview.datasource">PolygonTileDataSource</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Polygon tile data source allows the rendering engine access to user managed data sets of
- geodetic polygons and their attributes through a <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygontilesource" title="interface in com.here.sdk.mapview.datasource"><code>PolygonTileSource</code></a>.</div>
+ geodetic polygons and their attributes through a <a href="sdk-for-android-navigate-polygontilesource" title="interface in com.here.sdk.mapview.datasource"><code>PolygonTileSource</code></a>.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygontilesource" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-polygontilesource" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">A source of geodetic polygon tiles.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-polygontilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-polygontilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">Result handler of a load tile request.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasource" title="class in com.here.sdk.mapview.datasource">RasterDataSource</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-rasterdatasource" title="class in com.here.sdk.mapview.datasource">RasterDataSource</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Data source to load map layers using a raster image format (jpg, png).</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-rasterdatasourceconfiguration" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Called on the main thread after <code>fromJsonFile()</code> method finishes loading
  the configuration.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Configuration of a local data cache.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Configuration of a data provider.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfigurationUpdate</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-rasterdatasourceconfigurationupdate" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfigurationUpdate</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Configuration update for a RasterDataSource.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-navigate-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab3">
 <div class="block">Raster data source error codes.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Listener for RasterDataSource events.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">A source of raster tiles.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-rastertilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-rastertilesource.loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Result handler of a load tile request.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilegeoboundscalculator" title="class in com.here.sdk.mapview.datasource">TileGeoBoundsCalculator</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-tilegeoboundscalculator" title="class in com.here.sdk.mapview.datasource">TileGeoBoundsCalculator</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">A calculator of geodetic bounds for tiles identified by keys generated
- in a particular tiling scheme (<a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource"><code>TilingScheme</code></a>).</div>
+ in a particular tiling scheme (<a href="sdk-for-android-navigate-tilingscheme" title="enum class in com.here.sdk.mapview.datasource"><code>TilingScheme</code></a>).</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Key of a data source tile.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">A source of tiles.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-tilesource.dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">Tile data version.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-tilesource.listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
-<div class="block">Listener of <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource"><code>TileSource</code></a> events.</div>
+<div class="block">Listener of <a href="sdk-for-android-navigate-tilesource" title="interface in com.here.sdk.mapview.datasource"><code>TileSource</code></a> events.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-tilesource.loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Handle of a load request.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Tile metadata.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Provides the URL as String for the given tile coordinates and storage level.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tileurlproviderfactory" title="class in com.here.sdk.mapview.datasource">TileUrlProviderFactory</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-tileurlproviderfactory" title="class in com.here.sdk.mapview.datasource">TileUrlProviderFactory</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
-<div class="block">Factory for generating a <a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource"><code>TileUrlProviderCallback</code></a> utilized in creating a tile URL.</div>
+<div class="block">Factory for generating a <a href="sdk-for-android-navigate-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource"><code>TileUrlProviderCallback</code></a> utilized in creating a tile URL.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab3"><a href="sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab3"><a href="sdk-for-android-navigate-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab3">
 <div class="block">List of available data tiling schemes.</div>
 </div>

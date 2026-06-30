@@ -29,7 +29,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mesh"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Mesh</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents a mesh in 3D space. Such meshes are built using <a href="sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview"><code>MeshBuilder</code></a>.
- </p><p>The class is not offering any methods, as its data is only meant to be consumed internally
+ The class is not offering any methods, as its data is only meant to be consumed internally
  when being passed to <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> constructor.</p></div>
 </section>
 <section class="summary">

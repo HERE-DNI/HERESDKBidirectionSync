@@ -30,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointdata"
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents a geodetic point with custom attributes.
  Can be created using a <a href="sdk-for-android-navigate-pointdatabuilder" title="class in com.here.sdk.mapview.datasource"><code>PointDataBuilder</code></a>.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

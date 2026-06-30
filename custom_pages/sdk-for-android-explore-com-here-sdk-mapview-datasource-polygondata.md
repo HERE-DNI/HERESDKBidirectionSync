@@ -30,7 +30,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents a geodetic polygon with custom attributes.
  Can be created using a <a href="sdk-for-android-explore-polygondatabuilder" title="class in com.here.sdk.mapview.datasource"><code>PolygonDataBuilder</code></a>.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

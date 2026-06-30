@@ -122,7 +122,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewoptions"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">initialBackgroundColor</span></div>
 <div class="block"><p>Initial loading background color that will be shown between rendering the first frame without a scene loaded and before
  rendering the first frame after a scene is loaded.If not set, it will default to
- </p><p>#D3D3D3. Alpha value gets ignored and is assumed as 1.0.</p></div>
+ #D3D3D3. Alpha value gets ignored and is assumed as 1.0.</p></div>
 </section>
 </li>
 <li>

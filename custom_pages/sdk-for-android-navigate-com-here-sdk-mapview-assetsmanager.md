@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-assetsmanager"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">AssetsManager</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Assets manager interface. Can be used to make assets available to the SDK.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -123,12 +123,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-assetsmanager"
 <li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <a href="sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> with <code>ImageFormat.SVG</code>.</li>
 <li><a href="sdk-for-android-navigate-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a></li>
 </ul>
-</p><p>Repeated registration with the same font name is ignored.</p></div>
+Repeated registration with the same font name is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>fontName</code> - <p>A font name.</p></dd>
 <dd><code>fontPath</code> - <p>A font file path. TTF, OTF and WOFF formats are supported.
-     </p><p>Can be an asset file path or an absolute file path.</p></dd>
+     Can be an asset file path or an absolute file path.</p></dd>
 </dl>
 </section>
 </li>
@@ -147,12 +147,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-assetsmanager"
 <li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <a href="sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> with <code>ImageFormat.SVG</code>.</li>
 <li><a href="sdk-for-android-navigate-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a></li>
 </ul>
-</p><p>Repeated registration with the same font name is ignored.</p></div>
+Repeated registration with the same font name is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>fontName</code> - <p>A font name.</p></dd>
 <dd><code>fontPath</code> - <p>A font file path. TTF, OTF and WOFF formats are supported.
-     </p><p>Can be an asset file path or an absolute file path.</p></dd>
+     Can be an asset file path or an absolute file path.</p></dd>
 <dd><code>fallbackFontFilePaths</code> - <p>Additional font files are intended to be used if main font
      does not contain required character symbol and shall be sorted starting from most useful.</p></dd>
 </dl>

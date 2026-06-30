@@ -133,12 +133,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-electricvehicleoptions"
  not run out of energy along the way.
  It is especially useful for longer routes, because after all, charging stations are much
  less common than petrol stations.
- </p><p><strong>Note</strong> An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> is generated when
+ <strong>Note</strong> An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> is generated when
  this option is set to <code>true</code> in case <code>sdk.routing.RoutingEngine.import_route</code> is called.
  Defaults to <code>false</code>.
- </p><p><strong>Note</strong>
+ <strong>Note</strong>
  Not supported for offline routing.
- </p><p><strong>Note</strong>
+ <strong>Note</strong>
  Only supported for car routing.</p></div>
 </section>
 </li>

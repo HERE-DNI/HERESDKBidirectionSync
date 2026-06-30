@@ -27,7 +27,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-tollfare"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TollFare</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>This struct presents all the fare data for a toll.
- </p><p><strong>Note</strong>: If you're using the <code>OfflineRoutingEngine</code>, be aware that this feature is
+ <strong>Note</strong>: If you're using the <code>OfflineRoutingEngine</code>, be aware that this feature is
  currently in <strong>beta</strong>. As a result, there may be some bugs or unexpected behaviors.
  Additionally, this feature and related APIs may be updated in future releases
  without going through the deprecation process. Note that the <code>OfflineRoutingEngine</code>

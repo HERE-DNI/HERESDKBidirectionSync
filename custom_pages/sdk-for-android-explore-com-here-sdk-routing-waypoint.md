@@ -302,7 +302,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-waypoint"
  Waypoint coordinates need to be on the segment, otherwise waypoint will be matched ignoring the segment hint.
  This parameter can be used when the waypoint is too close to more than one segment to force matching to a specific one.
  Only topology segment id and travel direction are used to define the segment hint
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  The feature is not supported by the <code>OfflineRoutingEngine</code>.</p></div>
 </section>
 </li>
@@ -345,7 +345,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-waypoint"
 <li>This feature is supported in transport modes of <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a>, <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a>, or
  <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>.</li>
 </ul>
-</p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+<strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>

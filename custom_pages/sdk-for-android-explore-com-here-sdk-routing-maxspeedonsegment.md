@@ -27,7 +27,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MaxSpeedOnSegment</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>New base speed for a segment. Affects route calculation and the ETA. Cannot increase base speed on segment.
- </p><p><strong>Note:</strong> This option can only be used with the <code>RoutingEngine</code>. The <code>OfflineRoutingEngine</code> is not supported and the option will be ignored. Note that the <code>OfflineRoutingEngine</code> is only available for the Navigate license.</p></div>
+ <strong>Note:</strong> This option can only be used with the <code>RoutingEngine</code>. The <code>OfflineRoutingEngine</code> is not supported and the option will be ignored. Note that the <code>OfflineRoutingEngine</code> is only available for the Navigate license.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -110,7 +110,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segment</span></div>
 <div class="block"><p>A segment for which the new base speed is specified. Only the <code>segmendId</code> and <code>travelDirection</code>
  parameters are used, other parameters are ignored. Setting a <code>segmendId</code> is mandatory.
- </p><p><strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
+ <strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
  Although, after route calculation you can retrieve the related segments for each <a href="sdk-for-android-explore-span" title="class in com.here.sdk.routing"><code>Span</code></a>.
  The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>.
  These IDs are mostly stable and only change when the underlying map data changes
@@ -144,7 +144,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maxspeedonsegment"
 <dt>Parameters:</dt>
 <dd><code>segment</code> - <p>A segment for which the new base speed is specified. Only the <code>segmendId</code> and <code>travelDirection</code>
  parameters are used, other parameters are ignored. Setting a <code>segmendId</code> is mandatory.
- </p><p><strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
+ <strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
  Although, after route calculation you can retrieve the related segments for each <a href="sdk-for-android-explore-span" title="class in com.here.sdk.routing"><code>Span</code></a>.
  The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>.
  These IDs are mostly stable and only change when the underlying map data changes

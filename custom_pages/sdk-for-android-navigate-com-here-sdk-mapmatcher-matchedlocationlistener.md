@@ -24,7 +24,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-matchedlocationlistener"
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">MatchedLocationListener</span></div>
 <div class="block"><p>This interface should be implemented to receive notifications
  about the current location from <a href="sdk-for-android-navigate-mapmatchedlocation" title="class in com.here.sdk.navigation"><code>MapMatchedLocation</code></a>.
- </p><p><strong>Note:</strong> This is a <strong>beta</strong> release of this feature. There may be bugs and unexpected
+ <strong>Note:</strong> This is a <strong>beta</strong> release of this feature. There may be bugs and unexpected
  behaviors. Related APIs may change in future releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

@@ -86,7 +86,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="return-type"><a href="sdk-for-android-explore-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a></span> <span class="element-name">getImpact</span>()</div>
 <div class="block"><p>Gets the impact of the incident.
- </p><p>The value is <a href="sdk-for-android-explore-trafficincidentimpact#UNKNOWN"><code>TrafficIncidentImpact.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <a href="sdk-for-android-explore-trafficincidentimpact#UNKNOWN"><code>TrafficIncidentImpact.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The impact of the incident.</p></dd>
@@ -99,7 +99,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="return-type"><a href="sdk-for-android-explore-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">getType</span>()</div>
 <div class="block"><p>Gets the category of the incident.
- </p><p>The value is <a href="sdk-for-android-explore-trafficincidenttype#UNKNOWN"><code>TrafficIncidentType.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <a href="sdk-for-android-explore-trafficincidenttype#UNKNOWN"><code>TrafficIncidentType.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The category of the incident.</p></dd>
@@ -112,7 +112,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="return-type"><a href="sdk-for-android-explore-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">getDescription</span>()</div>
 <div class="block"><p>Gets the human readable description of the incident, possibly with location information.
- </p><p>The description is currently not present in our map data. Therefore, when
+ The description is currently not present in our map data. Therefore, when
  accessing the data from a picked carto POI via <code>TrafficIncidentResult</code>, then
  always an empty string is returned. This does not apply when using the <code>TrafficEngine</code>.</p></div>
 <dl class="notes">
@@ -127,7 +127,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()</div>
 <div class="block"><p>Gets the time from which the incident is valid, before this time the incident should not be considered.
- </p><p>The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The time from which the incident is valid, before this time the incident should not be considered.</p></dd>
@@ -140,7 +140,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidentbase"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()</div>
 <div class="block"><p>Get the time until which the incident is valid, after this time the incident should not be considered.
- </p><p>The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The time until which the incident is valid, after this time the incident should not be considered.</p></dd>

@@ -23,9 +23,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapidlelistener"
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">MapIdleListener</span></div>
 <div class="block"><p>Used to detect when the map becomes idle or busy.
- </p><p>Map is considered busy when its state changes (for example as a result of camera manipulation)
+ Map is considered busy when its state changes (for example as a result of camera manipulation)
  and/or when it requires a redraw (for example, as a result of map data being downloaded).
- </p><p>Map is considered idle when current state is fully rendered and no further
+ Map is considered idle when current state is fully rendered and no further
  redraws are necessary.</p></div>
 </section>
 <section class="summary">

@@ -161,7 +161,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-categoryquery-area"
 </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a></span> <span class="element-name">corridorArea</span></div>
 <div class="block"><p>Geographic corridor area in which to provide the most relevant places.
  The contained polyline and half-width define the area that will be used in a search query.
- </p><p>When used with <code>SearchEngine</code>, the polyline is compressed and sent.
+ When used with <code>SearchEngine</code>, the polyline is compressed and sent.
  More complex polylines with large amounts of coordinates and with smaller
  half-width may have the less relevant part removed, such as the one far away from the
  search center. This usually makes no difference, because there will be enough POIs near
@@ -170,7 +170,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-categoryquery-area"
  For example: Route between New York and Chicago with half-width 800 will be added to request
  without removing the far away part, but route of the same length (around 360km) between
  Milan (Italy) and Konstanz (Germany) will have the far away part removed due to its complexity.
- </p><p>When <a href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#corridorArea"><code>corridorArea</code></a> is provided,
+ When <a href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#corridorArea"><code>corridorArea</code></a> is provided,
  <a href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#areaCenter"><code>areaCenter</code></a> has to be within it, otherwise
  <a href="sdk-for-android-navigate-com-here-sdk-search-categoryquery-area#areaCenter"><code>areaCenter</code></a> is ignored when searching.</p></div>
 </section>
@@ -234,7 +234,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-categoryquery-area"
  <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span></div>
 <div class="block"><p>Constructs a new instance of this class from provided parameters.
  The given corridor and center define the area that will be used in the search query.
- </p><p>When used with <code>SearchEngine</code>, the polyline is compressed and sent.
+ When used with <code>SearchEngine</code>, the polyline is compressed and sent.
  More complex polylines with large amounts of coordinates and with smaller
  half-width may have the less relevant part removed, such as the one far away from the
  search center. This usually makes no difference, because there will be enough POIs near
@@ -243,7 +243,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-categoryquery-area"
  For example: Route between New York and Chicago with half-width 800 will be added to request
  without removing the far away part, but route of the same length (around 360km) between
  Milan (Italy) and Konstanz (Germany) will have the far away part removed due to its complexity.
- </p><p>The area center has to be within the corridor, otherwise it is ignored.</p></div>
+ The area center has to be within the corridor, otherwise it is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>corridorArea</code> - <p>Geographic corridor area in which to provide the most relevant places.</p></dd>

@@ -33,7 +33,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-fueladditivetype"
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">FuelAdditiveType</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a>&gt;</span></div>
 <div class="block"><p>Defines possible fuel additives that a fuel could contain.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

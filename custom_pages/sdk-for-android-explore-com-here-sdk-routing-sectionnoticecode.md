@@ -33,7 +33,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode"
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">SectionNoticeCode</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a>&gt;</span></div>
 <div class="block"><p>Notice codes which point the issues encountered during processing of a <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a>.
- </p><p><strong>Note:</strong> The section notice codes are going to be extended for new error situations.</p></div>
+ <strong>Note:</strong> The section notice codes are going to be extended for new error situations.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">

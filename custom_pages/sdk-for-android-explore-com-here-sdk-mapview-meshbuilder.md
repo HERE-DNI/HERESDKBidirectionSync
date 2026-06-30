@@ -35,8 +35,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-meshbuilder"
 <div class="block"><p>Builder for meshes. Such meshes can contain different kinds of primitives, like quads or
  triangles. Both primitives support adding texture coordinates that are mapped to the
  corners of the primitives. See <a href="sdk-for-android-explore-trianglemeshbuilder" title="class in com.here.sdk.mapview"><code>TriangleMeshBuilder</code></a> and <a href="sdk-for-android-explore-quadmeshbuilder" title="class in com.here.sdk.mapview"><code>QuadMeshBuilder</code></a> for more details.
- </p><p>Note: Normals cannot be set as they are not necessary when using the <a href="sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview"><code>MeshBuilder</code></a>.
- </p><p><strong>Example how to build a cube using <a href="sdk-for-android-explore-quadmeshbuilder" title="class in com.here.sdk.mapview"><code>QuadMeshBuilder</code></a></strong>
+ Note: Normals cannot be set as they are not necessary when using the <a href="sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview"><code>MeshBuilder</code></a>.
+ <strong>Example how to build a cube using <a href="sdk-for-android-explore-quadmeshbuilder" title="class in com.here.sdk.mapview"><code>QuadMeshBuilder</code></a></strong>
 <pre><code>    Mesh cube = new MeshBuilder()
          .quad(new Point3D(0.5, 0.5, 0.5),
              new Point3D(-0.5, 0.5, 0.5),
@@ -154,7 +154,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-meshbuilder"
  @NonNull
  <a href="sdk-for-android-explore-point3d" title="class in com.here.sdk.core">Point3D</a> c)</span></div>
 <div class="block"><p>Adds a triangle.
- </p><p>Triangle visibility is determined via back-face culling. Front-facing
+ Triangle visibility is determined via back-face culling. Front-facing
  triangles are expected to have counter-clockwise winding.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -179,7 +179,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-meshbuilder"
  @NonNull
  <a href="sdk-for-android-explore-point3d" title="class in com.here.sdk.core">Point3D</a> d)</span></div>
 <div class="block"><p>Adds a quad. Internally, this will be transformed into triangles abc and bdc.
- </p><p>Triangle visibility is determined via back-face culling. Front-facing triangles are expected to have
+ Triangle visibility is determined via back-face culling. Front-facing triangles are expected to have
  counter-clockwise winding.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

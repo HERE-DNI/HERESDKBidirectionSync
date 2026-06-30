@@ -31,7 +31,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-farplaneconfigurat
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapCamera.FarPlaneConfiguration</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Far plane distance configuration for a zoom level.
- </p><p>Effective far plane is computed from both parameters as:
+ Effective far plane is computed from both parameters as:
  farPlaneInMeters = max(
  minDistanceInMeters,
  distanceToTargetInMeters * distanceFactor

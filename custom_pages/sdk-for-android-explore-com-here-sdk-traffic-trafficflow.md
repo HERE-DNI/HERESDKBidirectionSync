@@ -36,7 +36,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="block"><p>This class provides details about traffic flow along a <a href="sdk-for-android-explore-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>, inside a <a href="sdk-for-android-explore-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> or a <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, that represents particular path of the road network.<br/>
  Backends for TrafficEngine and traffic vector tiles are different however backends may share the same data.<br/>
  For additional information about fields, refer to <a href="https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html#tag/Real-Time-Traffic">Traffic API v7 API Reference: Traffic API v7</a>.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -144,7 +144,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">getSpeedUncappedInMetersPerSecond</span>()</div>
 <div class="block"><p>Gets the expected speed in meters per second along the roadway.
- </p><p>It is based on probe data (GPS coordinates sent by vehicles or mobile devices driving along that roadway).
+ It is based on probe data (GPS coordinates sent by vehicles or mobile devices driving along that roadway).
  The calculated 'expected speed' may be over the legal speed limit for that roadway because people are driving over the speed limit.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -158,7 +158,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Short.html" title="class or interface in java.lang">Short</a></span> <span class="element-name">getJamTendency</span>()</div>
 <div class="block"><p>Gets the jam tendency field value which denotes whether the congestion is increasing, decreasing, or constant.
- </p><p>The congestion tendency may take the following values:
+ The congestion tendency may take the following values:
  <ul>
 <li>+2 - rapidly increasing congestion</li>
 <li>+1 - increasing congestion</li>
@@ -179,13 +179,13 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">getConfidence</span>()</div>
 <div class="block"><p>Gets the confidence field value which is normalized value between 0.0 and 1.0.
- </p><p>It is a normalized value between 0.0 and 1.0 with the following meaning:
+ It is a normalized value between 0.0 and 1.0 with the following meaning:
  <ul>
 <li>0.7 &lt; confidence &lt;= 1.0 indicates real time speeds</li>
 <li>0.5 &lt; confidence &lt;= 0.7 indicates historical speeds</li>
 <li>0.0 &lt; confidence &lt;= 0.5 indicates speed limit</li>
 </ul>
-</p><p>This field can be used to identify whether the data for a location is derived from
+This field can be used to identify whether the data for a location is derived from
  real-time probe sources or historical information only.
  All confidence data 0.71 and above is based on real-time information,
  where a confidence value of 0.75 or greater indicates high confidence real-time information.
@@ -238,7 +238,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <h3>getJamFactor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">getJamFactor</span>()</div>
 <div class="block"><p>Gets a value for the amount of traffic on the roadway.
- </p><p>The value, between 0.0 and 10.0, indicate the expected quality of travel.
+ The value, between 0.0 and 10.0, indicate the expected quality of travel.
  A value of 0.0 indicates that there is no congestion on the roadway.
  As the value approaches 10.0, it indicates increasing congestion.
  A value of 10.0 is reserved to represent a blocked roadway (closure).</p></div>

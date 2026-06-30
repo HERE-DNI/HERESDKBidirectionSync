@@ -38,10 +38,10 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
  applications. It enables to search for HERE points of interests, forward and reverse
  geocode addresses and geographic coordinates from the HERE map and search for suggested addresses
  or place candidates based on incomplete or misspelled queries.
- </p><p>It also allows to search along a given <a href="sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> set inside a <a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>
+ It also allows to search along a given <a href="sdk-for-android-navigate-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> set inside a <a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>
  as part of a <a href="sdk-for-android-navigate-textquery" title="class in com.here.sdk.search"><code>TextQuery</code></a>.
- </p><p>The SearchEngine API requires an online connection to execute the requests.
- </p><p><strong>Note:</strong> All methods are provided in two flavors. One uses a <a href="sdk-for-android-navigate-searchcallback" title="interface in com.here.sdk.search"><code>SearchCallback</code></a> and the
+ The SearchEngine API requires an online connection to execute the requests.
+ <strong>Note:</strong> All methods are provided in two flavors. One uses a <a href="sdk-for-android-navigate-searchcallback" title="interface in com.here.sdk.search"><code>SearchCallback</code></a> and the
  other uses a <a href="sdk-for-android-navigate-searchcallbackextended" title="interface in com.here.sdk.search"><code>SearchCallbackExtended</code></a>: The later adds a <code>ResponseDetails</code> result type
  that provides the <code>requestId</code> of a search request and a <code>correlationId</code> to identify multiple,
  related queries. This may be useful for debug purposes.</p></div>
@@ -744,7 +744,7 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
  <a href="sdk-for-android-navigate-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a> callback)</span></div>
 <div class="block"><p>Performs an asynchronous request to suggest places for text queries and
  returns suggestions sorted by relevance.
- </p><p>Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
+ Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
  <code>SearchEngine</code> includes only the information that is relevant for autosuggest use cases.
  Complete details can be obtained by searching with <a href="sdk-for-android-navigate-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
 <dl class="notes">

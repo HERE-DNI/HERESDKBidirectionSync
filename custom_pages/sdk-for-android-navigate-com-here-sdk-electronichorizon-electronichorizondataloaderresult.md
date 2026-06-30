@@ -28,7 +28,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Represents the result of a data loading operation performed by <a href="sdk-for-android-navigate-electronichorizondataloader" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonDataLoader</code></a>.
  The result contains either the loaded segment data or an error code.
- </p><p>Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -117,7 +117,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <h3>ElectronicHorizonDataLoaderResult</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ElectronicHorizonDataLoaderResult</span>()</div>
 <div class="block"><p>Creates a new instance.
- </p><p>Offline availability: This property is available online and offline.</p></div>
+ Offline availability: This property is available online and offline.</p></div>
 </section>
 </li>
 </ul>

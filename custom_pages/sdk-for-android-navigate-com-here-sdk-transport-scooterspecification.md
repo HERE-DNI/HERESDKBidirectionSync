@@ -111,13 +111,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-scooterspecification"
  In such a case, a <code>SectionNotice</code> will be provided in the related <code>Section</code> to indicate that
  the highway usage restriction is violated on this route.
  A few examples:
- </p><p>1 - If no avoidance option is set, and <code>allowHighway = false</code>, when no route is found without
+ 1 - If no avoidance option is set, and <code>allowHighway = false</code>, when no route is found without
  highway usage, a notice is received.
- </p><p>2 - If no avoidance option is set, and <code>allowHighway = true</code>, when no route is found without
+ 2 - If no avoidance option is set, and <code>allowHighway = true</code>, when no route is found without
  highway usage, no notice is received.
- </p><p>3 - If only <code>avoid[features] = controlledAccessHighway</code> is set, when no route is found without
+ 3 - If only <code>avoid[features] = controlledAccessHighway</code> is set, when no route is found without
  highway usage, a notice is received.
- </p><p>4 - If both <code>avoid[features] = controlledAccessHighway</code> and <code>allowHighway = true</code> are set,
+ 4 - If both <code>avoid[features] = controlledAccessHighway</code> and <code>allowHighway = true</code> are set,
  when no route is found without highway usage, a notice is received.</p></div>
 </section>
 </li>

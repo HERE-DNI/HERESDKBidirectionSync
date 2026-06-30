@@ -31,12 +31,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehicleprofile"
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>sdk.transport.TransportSpecification</code> instead.</p></div>
 </div>
 <div class="block"><p>A vehicle profile describes the vehicle being used with the HSDK.
- </p><p>The profile is planned to be used as single source of information describing the vehicle.
- </p><p>Current modules that use this profile:
+ The profile is planned to be used as single source of information describing the vehicle.
+ Current modules that use this profile:
  <ul>
 <li>Navigation: Tracking mode for truck related vehicle restrictions.</li>
 </ul>
-</p><p><strong>Note:</strong> This is a beta release of this vehicle profile, so there could be a few bugs and unexpected
+<strong>Note:</strong> This is a beta release of this vehicle profile, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases or even become unsupported, without a
  deprecation process.</p></div>
 </section>

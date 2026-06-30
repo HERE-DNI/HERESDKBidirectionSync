@@ -30,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentreferenceconverter"
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A SegmentReferenceConverter provides possibility to convert mapmatched instances of
  <a href="sdk-for-android-navigate-segmentreference" title="class in com.here.sdk.routing"><code>SegmentReference</code></a> to corresponding instances of <a href="sdk-for-android-navigate-directedocmsegmentid" title="class in com.here.sdk.mapdata"><code>DirectedOCMSegmentId</code></a>.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

@@ -33,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-specialspeedtype"
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">SpecialSpeedType</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a>&gt;</span></div>
 <div class="block"><p>Represents the speed situation type.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -211,7 +211,7 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">RAIN</span></div>
 <div class="block"><p>A conditional speed limit as indicated on the local road signs.
  The road speed limit that is in effect only when it is raining or there is water on the road.
- </p><p>A possible usage example can be to show an icon on the device's screen containing both
+ A possible usage example can be to show an icon on the device's screen containing both
  special speed limit value and a visual cue in order to warn the user about the conditional
  speed limit.</p></div>
 </section>
@@ -222,7 +222,7 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">SNOW</span></div>
 <div class="block"><p>A conditional speed limit as indicated on the local road signs.
  The road speed limit that is in effect only when there is snow on the road.
- </p><p>A possible usage example can be to show an icon on the device's screen containing both
+ A possible usage example can be to show an icon on the device's screen containing both
  special speed limit value and a visual cue in order to warn the user about the conditional
  speed limit.</p></div>
 </section>
@@ -233,7 +233,7 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-specialspeedtype" title="enum class in com.here.sdk.mapdata">SpecialSpeedType</a></span> <span class="element-name">FOG</span></div>
 <div class="block"><p>A conditional speed limit as indicated on the local road signs.
  The road speed limit that is in effect only when the visibility decreases due to fog.
- </p><p>A possible usage example can be to show an icon on the device's screen containing both
+ A possible usage example can be to show an icon on the device's screen containing both
  special speed limit value and a visual cue in order to warn the user about the conditional
  speed limit.</p></div>
 </section>

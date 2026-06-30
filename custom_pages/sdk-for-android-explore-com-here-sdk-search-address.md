@@ -27,8 +27,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-address"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Address</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Information about the address of a location.
- </p><p>Used in <a href="sdk-for-android-explore-place#getAddress()"><code>Place.getAddress()</code></a>.
- </p><p>Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
+ Used in <a href="sdk-for-android-explore-place#getAddress()"><code>Place.getAddress()</code></a>.
+ Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
  <code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only <a href="sdk-for-android-explore-com-here-sdk-search-address#addressText"><code>addressText</code></a>.
  Complete address details can be obtained by searching with <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
 </section>

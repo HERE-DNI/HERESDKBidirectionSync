@@ -24,7 +24,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarninglist
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">RealisticViewWarningListener</span></div>
 <div class="block"><p>This interface
  should be implemented in order to receive realistic view warnings.
- </p><p>A <a href="sdk-for-android-navigate-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a> will not be given until the previous warning of that type has been passed.
+ A <a href="sdk-for-android-navigate-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a> will not be given until the previous warning of that type has been passed.
  For example, a route with <a href="sdk-for-android-navigate-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a> 120 meters and <a href="sdk-for-android-navigate-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a> 160 meters ahead,
  the first <a href="sdk-for-android-navigate-realisticviewwarning#distanceToRealisticViewInMeters"><code>RealisticViewWarning.distanceToRealisticViewInMeters</code></a> is 120 meters
  and the next <a href="sdk-for-android-navigate-realisticviewwarning#distanceToRealisticViewInMeters"><code>RealisticViewWarning.distanceToRealisticViewInMeters</code></a> is then 40 meters,

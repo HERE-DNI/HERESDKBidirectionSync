@@ -27,7 +27,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routingconnectionsettings"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">RoutingConnectionSettings</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Defines the settings for the retry logic when connecting to the HERE routing backend.
- </p><p>When a timeout is triggered,
+ When a timeout is triggered,
  the next connection attempt starts with a increased timeout.
  new_timeout = initial_timeout + increment * retry_count</p></div>
 </section>

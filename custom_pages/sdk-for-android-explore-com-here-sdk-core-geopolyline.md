@@ -210,17 +210,17 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geopolyline"
 <div class="block"><p>Returns the coordinates at the given distance along the polyline. When the polyline is
  traversed from the beginning, the distance is calculated from the start of the
  polyline; while a direction from the end indicates a distance from the last vertex.
- </p><p>The offset is expected to be non-negative and smaller than the length of the polyline.
+ The offset is expected to be non-negative and smaller than the length of the polyline.
  When the offset is negative, the function returns the starting end point of the polyline,
  i.e. the first vertex in positive direction and the last vertex in the negative direction.
  Similarly, when the offset is larger than the length of the polyline, then the function
  returns the opposite end point of the polyline.
- </p><p>The distance between two consecutive vertices is calculated using the
+ The distance between two consecutive vertices is calculated using the
  <a href="sdk-for-android-explore-geocoordinates#distanceTo(com.here.sdk.core.GeoCoordinates)"><code>GeoCoordinates.distanceTo(com.here.sdk.core.GeoCoordinates)</code></a> function. Therefore, it computes the distance (in meters) along
  the great circle between the two vertices. Similarly, the full length of the polyline is the
  sum of the distances between its vertices. The interpolation coordinates between two vertices
  is calculated using the <a href="sdk-for-android-explore-geocoordinates#interpolate(com.here.sdk.core.GeoCoordinates,double)"><code>GeoCoordinates.interpolate(com.here.sdk.core.GeoCoordinates, double)</code></a> function.
- </p><p>Note: the result may different from the analogue result from other matching components since
+ Note: the result may different from the analogue result from other matching components since
  they may adapt the result to the length of the underlying object described by the polyline.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

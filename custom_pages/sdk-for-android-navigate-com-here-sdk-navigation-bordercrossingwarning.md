@@ -30,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning"
  is given for a country border or a state border. The <a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#type"><code>type</code></a> must be known.
  The country and state codes are contained in <a href="sdk-for-android-navigate-com-here-sdk-navigation-bordercrossingwarning#administrativeRules"><code>administrativeRules</code></a> along with other information such as speed
  limits, u-turn regulations or pre-trip planning information contained by the <a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata"><code>AdministrativeRules</code></a>.
- </p><p>Use <code>BorderCrossingWarningListener</code> to get notifications about upcoming country or state border crossings.</p></div>
+ Use <code>BorderCrossingWarningListener</code> to get notifications about upcoming country or state border crossings.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">

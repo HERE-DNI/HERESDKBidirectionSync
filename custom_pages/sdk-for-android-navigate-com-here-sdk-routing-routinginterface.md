@@ -28,7 +28,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">RoutingInterface</span></div>
 <div class="block"><p>Provides the interface for the online and offline
  routing engines.
- </p><p><strong>Note</strong>: Clients need to explicitly call <a href="sdk-for-android-navigate-com-here-sdk-routing-routinginterface#dispose()"><code>dispose()</code></a> in order to prevent a possible, though
+ <strong>Note</strong>: Clients need to explicitly call <a href="sdk-for-android-navigate-com-here-sdk-routing-routinginterface#dispose()"><code>dispose()</code></a> in order to prevent a possible, though
  unlikely, deadlock on destruction.</p></div>
 </section>
 <section class="summary">
@@ -187,7 +187,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     </p><p>An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
      <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>options</code> - <p>Options describing routing options.</p></dd>
@@ -219,7 +219,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     </p><p>An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
      <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>carOptions</code> - <p>Options specific for car route calculation, along with
@@ -252,7 +252,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     </p><p>An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
      <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>pedestrianOptions</code> - <p>Options specific for pedestrian route calculation, along with
@@ -287,7 +287,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     </p><p>An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
      <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>truckOptions</code> - <p>Options specific for truck route calculation, along with
@@ -320,7 +320,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     </p><p>An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
      <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>scooterOptions</code> - <p>Options specific for scooter route calculation, along with
@@ -355,7 +355,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     </p><p>An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
      <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>bicycleOptions</code> - <p>Options specific for bicycle route calculation, along with
@@ -390,7 +390,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     </p><p>An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
      <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>taxiOptions</code> - <p>Options specific for taxi route calculation, along with
@@ -425,7 +425,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     </p><p>An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
      <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>evCarOptions</code> - <p>Options specific for an electric car route calculation, along with
@@ -458,7 +458,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     </p><p>An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
      <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>evTruckOptions</code> - <p>Options specific for an electric truck route calculation, along with
@@ -491,7 +491,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     </p><p>An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
      <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>busOptions</code> - <p>Options specific for a bus route calculation, along with
@@ -524,7 +524,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     </p><p>An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     An <a href="sdk-for-android-navigate-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
      <a href="sdk-for-android-navigate-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>privateBusOptions</code> - <p>Options specific for a private bus route calculation, along with
@@ -550,22 +550,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
  <a href="sdk-for-android-navigate-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously calculates a new route that leads back to the original route. The part of
  the original route which was already traveled by the user is ignored.
- </p><p><strong>Note:</strong> Stopover waypoints are guaranteed to be visited. Pass-through waypoints will
+ <strong>Note:</strong> Stopover waypoints are guaranteed to be visited. Pass-through waypoints will
  be ignored.
  Additionally, the following route options are ignored:
  <a href="sdk-for-android-navigate-routeoptions#alternatives"><code>RouteOptions.alternatives</code></a>, <a href="sdk-for-android-navigate-routeoptions#arrivalTime"><code>RouteOptions.arrivalTime</code></a>, and
  <a href="sdk-for-android-navigate-routeoptions#optimizationMode"><code>RouteOptions.optimizationMode</code></a>.
  Most route options are only applied to the newly calculated part back to the route.
- </p><p>An application may use this method to submit a new
+ An application may use this method to submit a new
  starting point for a previously calculated route. This method tries to avoid a costly
  route re-calculation as much as possible. In case returning to the route without
  re-calculation is not possible, a new route is calculated, while trying to salvage
  the previous route as much as possible. However, a completely new route
  containing no part of the previous route is possible, too.
- </p><p>Note that this function uses only a limited amount of map data around the new origin.
+ Note that this function uses only a limited amount of map data around the new origin.
  Therefore, it may also work fine with temporarily cached map data. It may also copy some of the
  original route data into the new route.
- </p><p>A typical use case is to await at least 3 <code>RouteDeviation</code> events before calling this method.
+ A typical use case is to await at least 3 <code>RouteDeviation</code> events before calling this method.
  <ul>
 <li>Or alternatively, wait at least 10 seconds after getting the first deviation event.</li>
 <li>On top, the user experience can be improved by checking if the vehicle has moved at least
@@ -573,7 +573,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routinginterface"
 <li>Optionally, it may make sense to verify if the vehicle was ever following the route by checking if
  <code>RouteDeviation.lastLocationOnRoute</code> is set.</li>
 </ul>
-</p><p>Note that deviation events are sent each time a deviation is detected, i.e. for each new location
+Note that deviation events are sent each time a deviation is detected, i.e. for each new location
  update, regardless if the location has changed or not.
  More information can be found in the Developer Guide in the "Handle route deviations" section.</p></div>
 <dl class="notes">

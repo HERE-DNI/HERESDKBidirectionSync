@@ -143,7 +143,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter"
  supports it only for <code>searchByText</code> and <code>searchByCategory</code> with allowed fuel types <code>DIESEL</code>, <code>LPG</code>,
  <code>BIO_DIESEL</code>, <code>CNG</code>, <code>DIESEL_WITH_ADDITIVES</code>, <code>E10</code>, <code>E85</code>, <code>ETHANOL</code>, <code>ETHANOL_WITH_ADDITIVES</code>,
  <code>GASOLINE</code>, <code>HYDROGEN</code>, <code>LNG</code>, <code>MIDGRADE</code>, <code>PREMIUM</code> and <code>REGULAR</code>.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
@@ -155,7 +155,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter"
 <div class="block"><p>The list of <a href="sdk-for-android-explore-truckfueltype" title="enum class in com.here.sdk.transport"><code>TruckFuelType</code></a> elements that should be used to find only
  the <a href="sdk-for-android-explore-fuelstation" title="class in com.here.sdk.search"><code>FuelStation</code></a> search results that support all of them.
  Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code> (only available for the Navigate license).
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
@@ -169,7 +169,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placefilter"
  The <code>OfflineSearchEngine</code> (only available for the Navigate license) does not apply this filter.
  <a href="sdk-for-android-explore-truckclass#LIGHT_CLASS"><code>TruckClass.LIGHT_CLASS</code></a> is not accepted in the filter.
  Otherwise will result in <a href="sdk-for-android-explore-searcherror#INVALID_TRUCK_CLASS"><code>SearchError.INVALID_TRUCK_CLASS</code></a>.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>

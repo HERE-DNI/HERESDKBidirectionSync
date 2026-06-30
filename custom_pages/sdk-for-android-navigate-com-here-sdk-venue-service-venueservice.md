@@ -30,11 +30,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueservice"
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Offers methods to download venues. Use of this
  object does not necessitate Map involvement.
- </p><p>
+ 
  Before loading the venues, initialize the venue service
  with one of the start methods.
 
- </p><p>
+ 
  The venue service is online only. Even if there is a cached
  venue on the device, the venue service requires an online
  connection to check if the venue is available for the user.</p></div>
@@ -331,19 +331,19 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueservice"
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>labelTextPref</code> - <p>The list of string override labelTextPreference.
-     </p><p>
+     
      "OCCUPANT_NAMES" - To display only occupant names on map as a label text. Example: Boutique Du Chocolat for id 7348
 
-     </p><p>
+     
      "SPACE_NAME" - To display only space names on map as a label text. Example: Family Services/First Aid for id 7348
 
-     </p><p>
+     
      "SPACE_TYPE_NAME" - To display only space types on map as a label text. Example: DEFIBRILLATOR for id 7348
 
-     </p><p>
+     
      "SPACE_CATEGORY_NAME" - To display only space categories on map as a label text. Example: SAFETY for id 7348
 
-     </p><p>
+     
      "INTERNAL_ADDRESS" - To display only internal addresses on map as a label text. Example: 51/D for id 7348</p></dd>
 </dl>
 </section>
@@ -385,7 +385,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueservice"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getLanguage</span>()</div>
 <div class="block"><p>Gets an active language in the venue service.
- </p><p>The venue service will try to load
+ The venue service will try to load
  a venue with a translation in the active language. If such translation doesn't
  exist, a venue will be loaded in its default language.</p></div>
 <dl class="notes">
@@ -400,7 +400,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-service-venueservice"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setLanguage</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> value)</span></div>
 <div class="block"><p>Sets an active language.
- </p><p>The venue service will try to load
+ The venue service will try to load
  a venue with a translation in the active language. If such translation doesn't
  exist, a venue will be loaded in its default language.</p></div>
 <dl class="notes">

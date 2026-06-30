@@ -139,7 +139,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel"
 <h3>recuperationEfficiency</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">recuperationEfficiency</span></div>
 <div class="block"><p>The proportion of the energy gained when braking or going downhill that can be recuperated and restored as battery charge.
- </p><p>Supported range from 0 to 1</p></div>
+ Supported range from 0 to 1</p></div>
 </section>
 </li>
 <li>
@@ -147,7 +147,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel"
 <h3>auxiliaryPowerConsumptionInWatts</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">auxiliaryPowerConsumptionInWatts</span></div>
 <div class="block"><p>Power (in W) consumed by the vehicle's auxiliary systems (for example, air conditioning, lights).
- </p><p>The provided value must be greater than or equal to 0.</p></div>
+ The provided value must be greater than or equal to 0.</p></div>
 </section>
 </li>
 <li>
@@ -157,8 +157,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel"
 <div class="block"><p>Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters.
  Physical consumption model is using this value in combination with <code>airDragCoefficient</code> to calculate the consumption caused by air resistance.
  As fallback <a href="sdk-for-android-navigate-vehiclespecification#widthInCentimeters"><code>VehicleSpecification.widthInCentimeters</code></a> and <a href="sdk-for-android-navigate-vehiclespecification#heightInCentimeters"><code>VehicleSpecification.heightInCentimeters</code></a> are used.
- </p><p>This parameter is used to provide a more accurate consumption prediction for electric vehicles.
- </p><p>In the range from 0.5 to 50</p></div>
+ This parameter is used to provide a more accurate consumption prediction for electric vehicles.
+ In the range from 0.5 to 50</p></div>
 </section>
 </li>
 <li>
@@ -168,8 +168,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel"
 <div class="block"><p>Rolling resistance refers to the resistance experienced by your vehicle tire as it rolls over a surface.
  The main causes of this resistance are tire deformation, wing drag, and friction with the ground.
  The coefficient of rolling resistance is a numerical value indicating the severity of this factor.
- </p><p>This parameter is used to provide a more accurate consumption prediction for electric vehicles.
- </p><p>Supported range from 0 to 1</p></div>
+ This parameter is used to provide a more accurate consumption prediction for electric vehicles.
+ Supported range from 0 to 1</p></div>
 </section>
 </li>
 <li>
@@ -178,8 +178,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-physicalconsumptionmodel"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">airDragCoefficient</span></div>
 <div class="block"><p>The drag coefficient of an vehicle defines the way the vehicle is expected to pass through the surrounding air.
  More streamlined vehicles are more aerodynamic and therefore have smaller drag coefficient.
- </p><p>This parameter is used to provide a more accurate consumption prediction for electric vehicles.
- </p><p>Supported range from 0 to 1</p></div>
+ This parameter is used to provide a more accurate consumption prediction for electric vehicles.
+ Supported range from 0 to 1</p></div>
 </section>
 </li>
 </ul>

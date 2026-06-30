@@ -39,9 +39,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapscenelights-category"
 <div class="block"><p>The scene uses three categories of lighting which are:
  Main light, Back light and Rim light.
  These lights are directional lights.
- </p><p>The properties of all lights have an impact on the shading of 3D objects, for instance, extruded buildings within the scene.
+ The properties of all lights have an impact on the shading of 3D objects, for instance, extruded buildings within the scene.
  However, shadow casting is only affected by the direction of the main light.
- </p><p>Category primarily serves as an identifier type for managing the lights.</p></div>
+ Category primarily serves as an identifier type for managing the lights.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">

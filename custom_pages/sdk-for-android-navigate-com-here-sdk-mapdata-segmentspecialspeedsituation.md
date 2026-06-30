@@ -28,7 +28,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A special speed situation indicates a speed that exists under special circumstances. It can be used to further refine
  the estimation of traversal times, route calculation and calculation of route guidance timing.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -124,7 +124,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <h3>speedLimitInMetersPerSecond</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">speedLimitInMetersPerSecond</span></div>
 <div class="block"><p>Overrides normal speed limit for this situation.
- </p><p>May be 0 to indicate no special speed limit in the case of special_speed_type = SPEED_BUMPS_PRESENT
+ May be 0 to indicate no special speed limit in the case of special_speed_type = SPEED_BUMPS_PRESENT
  and special_speed_type = LANE_DEPENDENT.
  Speed limit in meter per seconds.</p></div>
 </section>
@@ -159,7 +159,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspecialspeedsituatio
 <dt>Parameters:</dt>
 <dd><code>specialSpeedType</code> - <p>Represents the speed situation type.</p></dd>
 <dd><code>speedLimitInMetersPerSecond</code> - <p>Overrides normal speed limit for this situation.
- </p><p>May be 0 to indicate no special speed limit in the case of special_speed_type = SPEED_BUMPS_PRESENT
+ May be 0 to indicate no special speed limit in the case of special_speed_type = SPEED_BUMPS_PRESENT
  and special_speed_type = LANE_DEPENDENT.
  Speed limit in meter per seconds.</p></dd>
 <dd><code>appliesDuring</code> - <p>The times during which the condition applies.

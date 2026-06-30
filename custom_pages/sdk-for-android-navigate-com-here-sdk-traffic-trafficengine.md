@@ -31,14 +31,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficengine"
 <div class="block"><p>Use the TrafficEngine to get information about current traffic flow and incidents in an area
  specified by <a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, <a href="sdk-for-android-navigate-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a>, or <a href="sdk-for-android-navigate-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>.
  Provides optional parameters given in <a href="sdk-for-android-navigate-trafficincidentsqueryoptions" title="class in com.here.sdk.traffic"><code>TrafficIncidentsQueryOptions</code></a> and <a href="sdk-for-android-navigate-trafficflowqueryoptions" title="class in com.here.sdk.traffic"><code>TrafficFlowQueryOptions</code></a> to filter the result.
- </p><p>By default, incidents are localized based on their geographical
+ By default, incidents are localized based on their geographical
  location. You can override that behavior by specifying the
  desired language that should be used for the incidents description and summary.
- </p><p>The resulting traffic data contains information on incident
+ The resulting traffic data contains information on incident
  types such as congestion, construction for road works, road hazard,
  road closure, weather updates for road condition, lane restriction
  and others.
- </p><p>Traffic data is fetched online to get the most precise and freshest data available.
+ Traffic data is fetched online to get the most precise and freshest data available.
  In offline mode, live traffic data can be fetched using the traffic pass-through features.
  See <a href="sdk-for-android-navigate-sdknativeengine#getPassThroughFeatures()"><code>SDKNativeEngine.getPassThroughFeatures()</code></a></p></div>
 </section>
@@ -236,8 +236,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficengine"
      The maximum length for the corridor is 500000 meters and the maximum <code>GeoCorridor.half_width_in_meters</code> is 5000 meters.
      If the number of points in corridor is greater than 300 then request is split into smaller ones and results are
      aggregated into single response, this will result in multiple requests to the backend. This process does not change a shape of the corridor.
-     </p><p>To reduce number of points in the corridor use <a href="sdk-for-android-navigate-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.
-     </p><p>If no <code>GeoCorridor.half_width_in_meters</code> is specified, the default value is used. The default value is 30 meters.</p></dd>
+     To reduce number of points in the corridor use <a href="sdk-for-android-navigate-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.
+     If no <code>GeoCorridor.half_width_in_meters</code> is specified, the default value is used. The default value is 30 meters.</p></dd>
 <dd><code>queryOptions</code> - <p>The options which are specific for incidents query.</p></dd>
 <dd><code>callback</code> - <p>It is always invoked on the main thread.</p></dd>
 <dt>Returns:</dt>
@@ -279,7 +279,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficengine"
  @NonNull
  <a href="sdk-for-android-navigate-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously queries for traffic flow using a bounding box as a filter.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -302,7 +302,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficengine"
  @NonNull
  <a href="sdk-for-android-navigate-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously queries for traffic flow using a circle as a filter.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -326,15 +326,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficengine"
  @NonNull
  <a href="sdk-for-android-navigate-trafficflowquerycallback" title="interface in com.here.sdk.traffic">TrafficFlowQueryCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously queries for traffic flow by a corridor as a filter.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>corridorArea</code> - <p>The corridor box to search for traffic flow.
      The maximum length for the corridor is 500000 meters and the maximum <code>GeoCorridor.half_width_in_meters</code> is 5000 meters.
-     </p><p>Maximum number of points in the corridor is 300.
-     </p><p>To reduce number of points in the corridor use <a href="sdk-for-android-navigate-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.
-     </p><p>If no <code>GeoCorridor.half_width_in_meters</code> is specified, the default value is used. The default value is 30 meters.</p></dd>
+     Maximum number of points in the corridor is 300.
+     To reduce number of points in the corridor use <a href="sdk-for-android-navigate-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.
+     If no <code>GeoCorridor.half_width_in_meters</code> is specified, the default value is used. The default value is 30 meters.</p></dd>
 <dd><code>queryOptions</code> - <p>The options which are specific for flow query.</p></dd>
 <dd><code>callback</code> - <p>It is always invoked on the main thread.</p></dd>
 <dt>Returns:</dt>

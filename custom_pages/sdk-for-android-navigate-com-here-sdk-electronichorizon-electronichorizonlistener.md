@@ -27,9 +27,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">ElectronicHorizonListener</span></div>
 <div class="block"><p>Provides a listener for receiving updates during execution of the <a href="sdk-for-android-navigate-electronichorizonengine#update(com.here.sdk.navigation.MapMatchedLocation)"><code>ElectronicHorizonEngine.update(com.here.sdk.navigation.MapMatchedLocation)</code></a> method.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.
- </p><p>Offline availability: This property is available online and offline.</p></div>
+ Offline availability: This property is available online and offline.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -80,7 +80,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <li>a new update,</li>
 <li>an error,</li>
 </ul>
-</p><p>The client must inspect <code>error_code</code> to determine whether the call
+The client must inspect <code>error_code</code> to determine whether the call
  represents an error or a valid update.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -88,7 +88,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
      <code>null</code> means no error.</p></dd>
 <dd><code>update</code> - <p>The update describing the current electronic horizon state.
      May be <code>null</code> if an update could not be produced.
-     </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+     <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
      behaviors. Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>

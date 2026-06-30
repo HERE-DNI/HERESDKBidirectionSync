@@ -30,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-tilegeoboundscal
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A calculator of geodetic bounds for tiles identified by keys generated
  in a particular tiling scheme (<a href="sdk-for-android-navigate-tilingscheme" title="enum class in com.here.sdk.mapview.datasource"><code>TilingScheme</code></a>).
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

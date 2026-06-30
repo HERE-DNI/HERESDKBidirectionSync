@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-linedataaccessor
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">LineDataAccessor</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Line data accessor used for manipulating polylines that are part of a LineDataSource.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

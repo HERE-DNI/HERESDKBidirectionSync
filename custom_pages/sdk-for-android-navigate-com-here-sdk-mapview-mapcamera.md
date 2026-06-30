@@ -29,45 +29,45 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapCamera</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents the camera looking onto the map view.
- </p><p>Each map instance has exactly one camera that is used to manipulate
+ Each map instance has exactly one camera that is used to manipulate
  the way the map is displayed.
- </p><p>Any updates to the state of the camera will be applied while drawing the next map view frame
+ Any updates to the state of the camera will be applied while drawing the next map view frame
  and the current state of the camera reflects what is currently drawn inside the map view.
- </p><p>Note: The camera can be configured and positioned even before a map scene is loaded for the first time.
+ Note: The camera can be configured and positioned even before a map scene is loaded for the first time.
  This allows for pre-setting the desired camera position, orientation, and zoom level, which will be
  applied once the map scene becomes available.
- </p><p><b>Camera Model</b>
-</p><p><i>Camera Concepts and Units</i>
-</p><p>By default, HERE SDK uses an idealized Earth globe with a 3D-capable camera model. Being a 3D camera model means that the
+ <b>Camera Model</b>
+<i>Camera Concepts and Units</i>
+By default, HERE SDK uses an idealized Earth globe with a 3D-capable camera model. Being a 3D camera model means that the
  world position can be freely specified in geodetic 3D space (i.e. Earth centric) and the orientation can be freely changed around
  two axes - bearing (also known as head) and tilt (also known as pitch).
- </p><p>The camera supports the look-at target with orientation on the ground way of setting up the camera in space. The camera is placed
+ The camera supports the look-at target with orientation on the ground way of setting up the camera in space. The camera is placed
  so that it looks at a specific geo-coordinates (placed at the <code>principal point</code>) from a given orientation and distance.
  <ul>
 <li>the look-at target in geo-coordinates (latitude, longitude) in degrees and an <code>altitude</code> in meters above MSL (mean sea level) at the <code>principal point</code></li>
 <li>the <code>orientation</code> at the look-at target</li>
 <li>the distance of the camera from the look-at target, given as <code>distance</code> in meters or as <code>zoom-level</code></li>
 </ul>
-</p><p><i>Getting the current camera state</i>
-</p><p>The current camera state can be obtained by the <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#getState()"><code>getState()</code></a> call. It contains information about the camera look-at target (geo-coordinates and orientation) in geodetic space.
+<i>Getting the current camera state</i>
+The current camera state can be obtained by the <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#getState()"><code>getState()</code></a> call. It contains information about the camera look-at target (geo-coordinates and orientation) in geodetic space.
  The values are returned for the current <code>principal point</code>. This can lead to surprising or unexpected values in cases where the camera position/orientation was specified for another screen point,
  e.g. when using <a href="sdk-for-android-navigate-mapcameraupdatefactory#lookAt(com.here.sdk.core.GeoBox)"><code>MapCameraUpdateFactory.lookAt(GeoBox)</code></a> with a view rectangle, whose center does not coincide with the <code>principal point</code>.  In this case, the geo-coordinates of the
  look-at target will differ from the center of the geo-box used in the <code>lookAt</code> call.
- </p><p><i>Geo coordinates</i>
-</p><p>Geo-coordinates are given in degrees and follow the common nomenclature of positive northern latitudes and positive eastern longitudes.
- </p><p><i>Altitude</i>
-</p><p>When <code>altitude</code> is specified, it is always in meters above mean sea level (MSL).
+ <i>Geo coordinates</i>
+Geo-coordinates are given in degrees and follow the common nomenclature of positive northern latitudes and positive eastern longitudes.
+ <i>Altitude</i>
+When <code>altitude</code> is specified, it is always in meters above mean sea level (MSL).
  If this value is invalid (not-a-number) or not specified, then the terrain height at the given geo-coordinates will be looked up from the map.
  This is especially interesting in cases where terrain elevation is used within the map display.
- </p><p><i>Distance vs zoom-level vs scale</i>
-</p><p>Map camera <code>distance</code>, <code>zoom-level</code> and <code>scale</code> determine how much of the world is visible on the HERE map. <code>Distance</code>, <code>zoom-level</code> and <code>scale</code> are
+ <i>Distance vs zoom-level vs scale</i>
+Map camera <code>distance</code>, <code>zoom-level</code> and <code>scale</code> determine how much of the world is visible on the HERE map. <code>Distance</code>, <code>zoom-level</code> and <code>scale</code> are
  directly connected and changing one will automatically change the others as well (except for <code>distance</code>/<code>scale</code> changes that map to <code>zoom-level</code> values &lt; 0 or &gt; 23).
  <ul>
 <li><code>distance</code>: the distance from the camera to the look-at target on the surface of the Earth, in meters</li>
 <li><code>zoom-level</code>: the map zoom level, in the range [0, 3]. The relation between the width of the equator in logical pixels <code>w</code> and the zoom level <code>z</code> is: <code>w = 256 * 2^(z)</code></li>
 <li><code>scale</code>: the scale of the map at the look-at target in meters on screen per meters on Earth. So a scale of 0.001 shows 10 meters on Earth within 1 cm on screen.</li>
 </ul>
-</p><p>The following mapping represents the <code>zoom-level</code> values:
+The following mapping represents the <code>zoom-level</code> values:
  <table>
 <thead>
 <tr><th>zoom-level</th><th align="center">~ scale on screen (130dpi)</th><th align="center">width of the equator in logical pixels</th><th align="center">what can be seen</th></tr>
@@ -99,23 +99,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <tr><td>23</td><td align="center">1:95</td><td align="center">2147483648</td><td align="center"> </td></tr>
 </tbody>
 </table>
-</p><p><i>Orientation</i>
-</p><p>The camera <code>orientation</code> is composed of two parts:
+<i>Orientation</i>
+The camera <code>orientation</code> is composed of two parts:
  <ul>
 <li><code>bearing</code>: also known as azimuth, the view direction in clockwise degrees; 0° = north, 90° = east, 180° = south, 270° = west</li>
 <li><code>tilt</code>: the angle in degrees from the vertical that the camera is looking down at the Earth; 0° = straight down.</li>
 </ul>
-</p><p><i>Changing the Camera</i>
-</p><p>All changes to the camera are encapsulated in camera updates that are created using the methods in the <a href="sdk-for-android-navigate-mapcameraupdatefactory" title="class in com.here.sdk.mapview"><code>MapCameraUpdateFactory</code></a> class.
- </p><p>These updates can then be applied to the <a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a> using <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#applyUpdate(com.here.sdk.mapview.MapCameraUpdate)"><code>applyUpdate(com.here.sdk.mapview.MapCameraUpdate)</code></a>.
- </p><p>Camera updates are queued and executed when the next frame is rendered. They are executed in the order in which they were applied.
- </p><p><i>Animating the Camera</i>
-</p><p>Camera updates can be animated by first creating a camera animation using the methods in the <a href="sdk-for-android-navigate-mapcameraanimationfactory" title="class in com.here.sdk.mapview"><code>MapCameraAnimationFactory</code></a> class and then applying this
+<i>Changing the Camera</i>
+All changes to the camera are encapsulated in camera updates that are created using the methods in the <a href="sdk-for-android-navigate-mapcameraupdatefactory" title="class in com.here.sdk.mapview"><code>MapCameraUpdateFactory</code></a> class.
+ These updates can then be applied to the <a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a> using <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#applyUpdate(com.here.sdk.mapview.MapCameraUpdate)"><code>applyUpdate(com.here.sdk.mapview.MapCameraUpdate)</code></a>.
+ Camera updates are queued and executed when the next frame is rendered. They are executed in the order in which they were applied.
+ <i>Animating the Camera</i>
+Camera updates can be animated by first creating a camera animation using the methods in the <a href="sdk-for-android-navigate-mapcameraanimationfactory" title="class in com.here.sdk.mapview"><code>MapCameraAnimationFactory</code></a> class and then applying this
  animation to the <a href="sdk-for-android-navigate-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a> using <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)"><code>startAnimation(MapCameraAnimation, AnimationListener)</code></a>.
- </p><p>Only one camera animation for one camera component at a time is supported. Applying a new animation will cancel the active animation before the new one is started.
+ Only one camera animation for one camera component at a time is supported. Applying a new animation will cancel the active animation before the new one is started.
  The start position in this case is where ever the active animation happened to be at the time. Different components are camera state (<code>target pose</code> and <code>distance/zoom level/scale</code>)
  and camera projection (<code>field of view</code>, <code>focal length</code> and <code>principal point</code>).
- </p><p>The running animations can also be canceled using <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#cancelAnimations()"><code>cancelAnimations()</code></a> or individual ones using <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)"><code>cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)</code></a>.</p></div>
+ The running animations can also be canceled using <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#cancelAnimations()"><code>cancelAnimations()</code></a> or individual ones using <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcamera#cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)"><code>cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -319,17 +319,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFarPlaneConfiguration</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a href="sdk-for-android-navigate-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a>&gt; configs)</span></div>
 <div class="block"><p>Sets far plane distance configs per zoom level.
- </p><p>Values are linearly interpolated between provided zoom levels.
+ Values are linearly interpolated between provided zoom levels.
  For z between z0 and z1:
  t = (z - z0) / (z1 - z0)
  distanceFactor(z) = lerp(distanceFactor0, distanceFactor1, t)
  minDistance(z) = lerp(minDistance0, minDistance1, t)
- </p><p>Effective far plane for the current frame is:
+ Effective far plane for the current frame is:
  farPlaneInMeters = max(
  minDistance(z),
  distanceToTargetInMeters * distanceFactor(z)
  )
- </p><p>Sample Configuration (balanced quality/performance, tune per zoom level):
+ Sample Configuration (balanced quality/performance, tune per zoom level):
  14.4  -&gt; FarPlaneConfiguration(1.3)
  18.34 -&gt; FarPlaneConfiguration(2.0)
  19.60 -&gt; FarPlaneConfiguration(1.3)
@@ -350,7 +350,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
  <a href="sdk-for-android-navigate-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a> listener)</span></div>
 <div class="block"><p>Adds a listener to this camera that will be notified on the main thread
  every time the map is redrawn with new camera parameters.
- </p><p>Adding the same listener multiple times has no effect.</p></div>
+ Adding the same listener multiple times has no effect.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>listener</code> - <p>The listener to add.</p></dd>
@@ -363,7 +363,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeListener</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a> observer)</span></div>
 <div class="block"><p>Removes the listener from the camera.
- </p><p>Trying to remove a listener that is not
+ Trying to remove a listener that is not
  currently registered has no effect.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -384,7 +384,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">applyUpdate</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</span></div>
 <div class="block"><p>Applies camera update to the map camera.
- </p><p>Any ongoing camera animations will be cancelled and the corresponding camera animation listener will be notified.</p></div>
+ Any ongoing camera animations will be cancelled and the corresponding camera animation listener will be notified.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>cameraUpdate</code> - <p>The update that gets applied to camera.</p></dd>
@@ -399,13 +399,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
  @NonNull
  <a href="sdk-for-android-navigate-mapcamera.drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a> callback)</span></div>
 <div class="block"><p>Computes result of applying camera update without changing state of the map camera.
- </p><p>Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>cameraUpdate</code> - <p>The update that gets dryly applied to camera.</p></dd>
 <dd><code>callback</code> - <p>Called upon completion with computed map state.
-     </p><p>callback is called on the main thread.</p></dd>
+     callback is called on the main thread.</p></dd>
 </dl>
 </section>
 </li>
@@ -415,7 +415,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</span></div>
 <div class="block"><p>Starts a given camera animation.
- </p><p>Starting an animation can cause the cancelling of an ongoing animation when they both affect the same category of camera properties,
+ Starting an animation can cause the cancelling of an ongoing animation when they both affect the same category of camera properties,
  like for example any of the look-at properties (target, orientation, map measure) or any of the projection properties (field of view, principal point, focal length).
  The corresponding listener of an ongoing animation will be notified about the cancellation in these cases.</p></div>
 <dl class="notes">
@@ -432,7 +432,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
  @NonNull
  <a href="sdk-for-android-navigate-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</span></div>
 <div class="block"><p>Starts a given camera animation. The state of the animation can be tracked with the provided listener.
- </p><p>Starting an animation can cause the cancelling of an ongoing animation when they both affect the same category of camera properties,
+ Starting an animation can cause the cancelling of an ongoing animation when they both affect the same category of camera properties,
  like for example any of the look-at properties (target, orientation, map measure) or any of the projection properties (field of view, principal point, focal length).
  The corresponding listener of an ongoing animation will be notified about the cancellation in these cases.</p></div>
 <dl class="notes">
@@ -448,7 +448,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimation</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</span></div>
 <div class="block"><p>Cancels an ongoing camera animation.
- </p><p>Upon cancellation, the corresponding listener will be notified.</p></div>
+ Upon cancellation, the corresponding listener will be notified.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>cameraAnimation</code> - <p>The animation to be cancelled.</p></dd>
@@ -460,7 +460,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <h3>cancelAnimations</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimations</span>()</div>
 <div class="block"><p>Cancels any ongoing camera animation.
- </p><p>Upon cancellation, the corresponding listener of any cancelled animation will be notified.</p></div>
+ Upon cancellation, the corresponding listener of any cancelled animation will be notified.</p></div>
 </section>
 </li>
 <li>
@@ -486,16 +486,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
  @NonNull
  <a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</span></div>
 <div class="block"><p>Zooms in or out by a specified factor.
- </p><p>This effectively changes the distance from the camera to the <a href="sdk-for-android-navigate-mapcamera.state#targetCoordinates"><code>MapCamera.State.targetCoordinates</code></a>
+ This effectively changes the distance from the camera to the <a href="sdk-for-android-navigate-mapcamera.state#targetCoordinates"><code>MapCamera.State.targetCoordinates</code></a>
  by the specified factor, which changes <a href="sdk-for-android-navigate-mapcamera.state#zoomLevel"><code>MapCamera.State.zoomLevel</code></a> as well.
- </p><p>Values above 1.0 will zoom in and values below will zoom out.
- </p><p>The relation with <a href="sdk-for-android-navigate-mapcamera.state#distanceToTargetInMeters"><code>MapCamera.State.distanceToTargetInMeters</code></a> is inversely linear,
+ Values above 1.0 will zoom in and values below will zoom out.
+ The relation with <a href="sdk-for-android-navigate-mapcamera.state#distanceToTargetInMeters"><code>MapCamera.State.distanceToTargetInMeters</code></a> is inversely linear,
  meaning that zooming by 4 will decrease distance to target by 4 while zooming by 0.5
  will increase distance to target by 2.
- </p><p>The relation with zoom level is logarithmic. Meaning that zooming by a factor of 4 will
+ The relation with zoom level is logarithmic. Meaning that zooming by a factor of 4 will
  increase zoom level by 2 (because log2(4) == 2). So to zoom in by X zoom levels, the zoom
  factor needs to be 2^X. To zoom out by X zoom levels, zoom factor needs to be 1/(2^X).
- </p><p>The zooming occurs around the specified origin inside the view.</p></div>
+ The zooming occurs around the specified origin inside the view.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>factor</code> - <p>The zoom factor. Values above 1.0 will zoom in and values below will zoom out.</p></dd>
@@ -509,7 +509,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">zoomTo</span><wbr/><span class="parameters">(double zoomLevel)</span></div>
 <div class="block"><p>Zooms to the specified zoom level. The supplied value will be clamped to the range
  of [0, 22], where 0 is a view of whole globe and 22 is street level.
- </p><p>This effectively changes the distance from the camera to the target.
+ This effectively changes the distance from the camera to the target.
  The zooming occurs around the current target point.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -524,7 +524,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
  <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target)</span></div>
 <div class="block"><p>Makes the camera look at a new geodetic target, while
  preserving the current orientation and distance to the target.
- </p><p>The altitude of the target point is ignored. Any subsequent camera updates and animations
+ The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -540,7 +540,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
  @NonNull
  <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</span></div>
 <div class="block"><p>Makes the camera look at the geodetic target with the given zoom.
- </p><p>The altitude of the target point is ignored. Any subsequent camera updates and animations
+ The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -560,10 +560,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
  @NonNull
  <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</span></div>
 <div class="block"><p>Makes the camera look at the geodetic target with the given zoom and orientation.
- </p><p>The supplied orientation is the orientation of the camera looking
+ The supplied orientation is the orientation of the camera looking
  at the target, so the resulting camera state will have the
  same orientation as the one supplied to this method.
- </p><p>The altitude of the target point is ignored. Any subsequent camera updates and animations
+ The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -582,10 +582,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
  @NonNull
  <a href="sdk-for-android-navigate-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</span></div>
 <div class="block"><p>Makes the camera look at the specified geodetic area.
- </p><p>The supplied orientation is the orientation of the camera looking
+ The supplied orientation is the orientation of the camera looking
  at the target, so the resulting camera state will have the
  same orientation as the one supplied to this method.
- </p><p>The altitude of the target points is ignored.</p></div>
+ The altitude of the target points is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>target</code> - <p>Geodetic area at which the camera will point</p></dd>
@@ -604,13 +604,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
  <a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewRectangle)</span></div>
 <div class="block"><p>Makes the camera look at the specified geodetic area and pass a rectangle which specifies
  where the area should appear inside of the map view.
- </p><p>The supplied orientation is the orientation of the camera looking
+ The supplied orientation is the orientation of the camera looking
  at the target, so the resulting camera state will have the
  same orientation as the one supplied to this method. Please note that
  the resulting orientation might deviate from the provided orientation.
  This is particularly the case if a large geobox on world level and a
  view rectangle which is relatively small was passed to the method.
- </p><p>The altitude of the target points is ignored.</p></div>
+ The altitude of the target points is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>target</code> - <p>Geodetic area which will be shown in the viewRectangle.</p></dd>
@@ -625,7 +625,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <h3>setDistanceToTarget</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDistanceToTarget</span><wbr/><span class="parameters">(double distanceInMeters)</span></div>
 <div class="block"><p>Makes the camera look at current target from certain distance
- </p><p>This function neither modifies target coordinates nor target orientation.</p></div>
+ This function neither modifies target coordinates nor target orientation.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>distanceInMeters</code> - <p>Distance in meters to the target point.
@@ -664,7 +664,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">getPrincipalPoint</span>()</div>
 <div class="block"><p>Gets the pixel point that determines where the target is placed within the map view.
  By default, the principal point is located at the center of the map view.
- </p><p>The value of the principal point is adjusted when the dimensions of the
+ The value of the principal point is adjusted when the dimensions of the
  map view change, so that it stays in the same point relative to width
  and height. Meaning that when a principal point it set to bottom
  middle of the map view, it will stay in the bottom middle regardless
@@ -685,16 +685,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <div class="block"><p>Sets the pixel point that determines where the target appears within the map view.
  This instantly moves the map to render the current target coordinates
  at the new principal point.
- </p><p>By default, the principal point is located at the center of the map view.
+ By default, the principal point is located at the center of the map view.
  It is set in pixels relative to the map view's origin top-left (0, 0).
  Values outside the map view's dimensions (x &lt; 0 || x &gt; width, y &lt; 0 || y &gt; height)
  will be rejected silently and the current principal point is kept.
- </p><p>The value of the principal point is adjusted when the dimensions of the
+ The value of the principal point is adjusted when the dimensions of the
  map view change, so that it stays in the same point relative to width
  and height. Meaning that when a principal point it set to bottom
  middle of the map view, it will stay in the bottom middle regardless
  of the changes to dimensions and orientation of the view.
- </p><p>Note: The principal point affects all programmatical map transformations (rotate, orbit, tilt and zoom)
+ Note: The principal point affects all programmatical map transformations (rotate, orbit, tilt and zoom)
  and the two-finger-pan gesture to tilt the map. Other gestures, like pinch-rotate,
  are not affected.</p></div>
 <dl class="notes">
@@ -711,7 +711,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()</div>
 <div class="block"><p>Gets the current visible map area encompassed in a GeoBox.
- </p><p>Note that this bounding box is always rectangular, and its sides are always
+ Note that this bounding box is always rectangular, and its sides are always
  parallel to the latitude and longitude. If the camera is rotated, the returned
  bounding box will be a circumscribed rectangle that is larger than the
  visible map area. Similarly, when the map is tilted (for example, if
@@ -720,7 +720,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcamera"
  circumscribed rectangle that contains this trapezoid area.
  Because on this, corners of the resulting bounding box may be located
  outside of the currently visible area.
- </p><p>When the map area does not fully fill the viewport, <code>null</code> is returned.</p></div>
+ When the map area does not fully fill the viewport, <code>null</code> is returned.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Currently visible map area encompassed in a GeoBox.</p></dd>

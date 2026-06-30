@@ -180,7 +180,7 @@ implements <a href="sdk-for-android-explore-trafficincidentbase" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getOriginalId</span>()</div>
 <div class="block"><p>Gets the unique identifier of the first traffic incident.
- </p><p>The original id remains the same whenever the traffic incident is updated and <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident#getId()"><code>getId()</code></a> is changed.
+ The original id remains the same whenever the traffic incident is updated and <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident#getId()"><code>getId()</code></a> is changed.
  Once an incident chain has been created, this value will never change.
  The traffic incident an be looked up by original id using <a href="sdk-for-android-explore-trafficengine#lookupIncident(java.lang.String,com.here.sdk.traffic.TrafficIncidentLookupOptions,com.here.sdk.traffic.TrafficIncidentLookupCallback)"><code>TrafficEngine.lookupIncident(java.lang.String, com.here.sdk.traffic.TrafficIncidentLookupOptions, com.here.sdk.traffic.TrafficIncidentLookupCallback)</code></a>.</p></div>
 <dl class="notes">
@@ -195,7 +195,7 @@ implements <a href="sdk-for-android-explore-trafficincidentbase" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getParentId</span>()</div>
 <div class="block"><p>Gets the identifier of another incident to which this incident is linked.
- </p><p>The value is <code>null</code> if the incident doesn't have a parent.</p></div>
+ The value is <code>null</code> if the incident doesn't have a parent.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The identifier of another incident to which this incident is linked.</p></dd>
@@ -231,7 +231,7 @@ implements <a href="sdk-for-android-explore-trafficincidentbase" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</span> <span class="element-name">getCodes</span>()</div>
 <div class="block"><p>Gets the list of standardized codes as categorized in ISO 14819-2:2013 standard for this incident category.
- </p><p>Codes are given in order of importance, so the first item in the list is considered the primary cause of the incident.</p></div>
+ Codes are given in order of importance, so the first item in the list is considered the primary cause of the incident.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The list of standardized codes as categorized in ISO 14819-2:2013 standard for this incident category.</p></dd>
@@ -244,7 +244,7 @@ implements <a href="sdk-for-android-explore-trafficincidentbase" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">getSummary</span>()</div>
 <div class="block"><p>Gets the human readable summary of the incident.
- </p><p>The summary field provides a short version of the description containing no location information.
+ The summary field provides a short version of the description containing no location information.
  The expected summary language can be managed
  via <a href="sdk-for-android-explore-trafficincidentsqueryoptions#languageCode"><code>TrafficIncidentsQueryOptions.languageCode</code></a> and <a href="sdk-for-android-explore-trafficincidentlookupoptions#languageCode"><code>TrafficIncidentLookupOptions.languageCode</code></a>.</p></div>
 <dl class="notes">
@@ -259,7 +259,7 @@ implements <a href="sdk-for-android-explore-trafficincidentbase" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></span> <span class="element-name">getEntryTime</span>()</div>
 <div class="block"><p>Gets the time the incident was entered into the system.
- </p><p>The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The time the incident was entered into the system.</p></dd>
@@ -284,7 +284,7 @@ implements <a href="sdk-for-android-explore-trafficincidentbase" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-explore-trafficincident.restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a>,<wbr/><a href="sdk-for-android-explore-trafficincident.vehiclerestriction" title="class in com.here.sdk.traffic">TrafficIncident.VehicleRestriction</a>&gt;</span> <span class="element-name">getVehicleRestrictions</span>()</div>
 <div class="block"><p>Gets the map of restricted vehicle categories to restrictions.
- </p><p>A vehicle is restricted if at least one restriction field is applicable for it.
+ A vehicle is restricted if at least one restriction field is applicable for it.
  If the map is empty, there're no restricted vehicles for the incident.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -298,7 +298,7 @@ implements <a href="sdk-for-android-explore-trafficincidentbase" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a></span> <span class="element-name">getImpact</span>()</div>
 <div class="block"><p>Gets the impact of the incident.
- </p><p>The value is <a href="sdk-for-android-explore-trafficincidentimpact#UNKNOWN"><code>TrafficIncidentImpact.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <a href="sdk-for-android-explore-trafficincidentimpact#UNKNOWN"><code>TrafficIncidentImpact.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-explore-trafficincidentbase#getImpact()">getImpact</a></code> in interface <code><a href="sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
@@ -313,7 +313,7 @@ implements <a href="sdk-for-android-explore-trafficincidentbase" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">getType</span>()</div>
 <div class="block"><p>Gets the category of the incident.
- </p><p>The value is <a href="sdk-for-android-explore-trafficincidenttype#UNKNOWN"><code>TrafficIncidentType.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <a href="sdk-for-android-explore-trafficincidenttype#UNKNOWN"><code>TrafficIncidentType.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-explore-trafficincidentbase#getType()">getType</a></code> in interface <code><a href="sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
@@ -328,7 +328,7 @@ implements <a href="sdk-for-android-explore-trafficincidentbase" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">getDescription</span>()</div>
 <div class="block"><p>Gets the human readable description of the incident, possibly with location information.
- </p><p>The description is currently not present in our map data. Therefore, when
+ The description is currently not present in our map data. Therefore, when
  accessing the data from a picked carto POI via <code>TrafficIncidentResult</code>, then
  always an empty string is returned. This does not apply when using the <code>TrafficEngine</code>.</p></div>
 <dl class="notes">
@@ -345,7 +345,7 @@ implements <a href="sdk-for-android-explore-trafficincidentbase" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()</div>
 <div class="block"><p>Gets the time from which the incident is valid, before this time the incident should not be considered.
- </p><p>The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-explore-trafficincidentbase#getStartTime()">getStartTime</a></code> in interface <code><a href="sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
@@ -360,7 +360,7 @@ implements <a href="sdk-for-android-explore-trafficincidentbase" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()</div>
 <div class="block"><p>Get the time until which the incident is valid, after this time the incident should not be considered.
- </p><p>The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-explore-trafficincidentbase#getEndTime()">getEndTime</a></code> in interface <code><a href="sdk-for-android-explore-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>

@@ -33,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
  if they will lead to the next maneuver or not.
  If the location of a maneuver lies on an upcoming complex junction, the recommended lanes will be
  the same as the ones from <a href="sdk-for-android-navigate-maneuverviewlaneassistance" title="class in com.here.sdk.navigation"><code>ManeuverViewLaneAssistance</code></a>.
- </p><p>A junction is recognized as complex only if:
+ A junction is recognized as complex only if:
  <ul>
 <li>it is at least a bifurcation;</li>
 <li>it has at least two lanes whose directions do not follow the current route.
@@ -130,7 +130,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
  countries. An empty list means that the complex junction has been passed and that the lane information is not
  valid anymore. Exactly one event with a non-empty list is delivered before reaching a complex junction and
  one event with an empty list afterwards.
- </p><p><strong>Note:</strong> Lanes going in opposite direction are not included in the list.</p></div>
+ <strong>Note:</strong> Lanes going in opposite direction are not included in the list.</p></div>
 </section>
 </li>
 <li>
@@ -163,7 +163,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-junctionviewlaneassistan
  countries. An empty list means that the complex junction has been passed and that the lane information is not
  valid anymore. Exactly one event with a non-empty list is delivered before reaching a complex junction and
  one event with an empty list afterwards.
- </p><p><strong>Note:</strong> Lanes going in opposite direction are not included in the list.</p></dd>
+ <strong>Note:</strong> Lanes going in opposite direction are not included in the list.</p></dd>
 <dd><code>distanceToJunctionInMeters</code> - <p>Distance to the next complex junction in meters.</p></dd>
 </dl>
 </section>

@@ -37,12 +37,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentat
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapPolyline.SolidRepresentation</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a></span></div>
 <div class="block"><p>Representation for a solid line without outline.
- </p><p>Can represent polylines that have constant width or width dependent on the map zoom.
- </p><p>To achieve constant width lines, use <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> with a single value.
- </p><p>To achieve line width dependent on map zoom, use <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> with
+ Can represent polylines that have constant width or width dependent on the map zoom.
+ To achieve constant width lines, use <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> with a single value.
+ To achieve line width dependent on map zoom, use <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> with
  multiple values.
- </p><p>For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
- </p><p>For <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.</p></div>
+ For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
+ For <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -144,17 +144,17 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentat
  <a href="sdk-for-android-explore-linecap" title="enum class in com.here.sdk.mapview">LineCap</a> capShape)</span>
                     throws <span class="exceptions"><a href="sdk-for-android-explore-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a representation for a solid line without outline.
- </p><p>At map measures smaller than smallest map measure in the <code>lineWidth</code>
+ At map measures smaller than smallest map measure in the <code>lineWidth</code>
  line width is constant and equal to the width given for the smallest
  map measure in the <code>lineWidth</code>.
- </p><p>At map measures bigger than biggest map measure in the <code>lineWidth</code>
+ At map measures bigger than biggest map measure in the <code>lineWidth</code>
  line width is constant and equal to the width given for the biggest
  map measure in the <code>lineWidth</code>.
- </p><p>At map measures between two nearest given map measures line width is
+ At map measures between two nearest given map measures line width is
  linearly interpolated between width values given for these map measures.
- </p><p>For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
- </p><p>For <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
- </p><p><code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).</p></div>
+ For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
+ For <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
+ <code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>lineWidth</code> - <p>The width of the polyline depending on the map measure.</p></dd>
@@ -180,18 +180,18 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentat
  <a href="sdk-for-android-explore-linecap" title="enum class in com.here.sdk.mapview">LineCap</a> capShape)</span>
                     throws <span class="exceptions"><a href="sdk-for-android-explore-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a representation for a solid line with outline.
- </p><p>The total width of the polyline is <code>line width + 2 * outline width</code>.
- </p><p>At map measures smaller than smallest map measure in the <code>lineWidth</code>
+ The total width of the polyline is <code>line width + 2 * outline width</code>.
+ At map measures smaller than smallest map measure in the <code>lineWidth</code>
  and <code>outlineWidth</code>, the value is constant and equal to the width given for
  the smallest map measure in the <code>lineWidth</code> and <code>outlineWidth</code>.
- </p><p>At map measures bigger than biggest map measure in the <code>lineWidth</code>
+ At map measures bigger than biggest map measure in the <code>lineWidth</code>
  and <code>outlineWidth</code>, the value is constant and equal to the width given for
  the biggest map measure in the <code>lineWidth</code> and <code>outlineWidth</code>.
- </p><p>At map measures between two nearest given map measure is
+ At map measures between two nearest given map measure is
  linearly interpolated between width values given for these map measures.
- </p><p>For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
- </p><p>For <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
- </p><p><code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).</p></div>
+ For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
+ For <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
+ <code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>lineWidth</code> - <p>The width of the polyline depending on the map measure.</p></dd>
@@ -219,13 +219,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentat
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></span> <span class="element-name">getLineWidth</span>()</div>
 <div class="block"><p>Gets the map measure dependent polyline width.
- </p><p>At map measures smaller than smallest map measure in the <code>lineWidth</code>
+ At map measures smaller than smallest map measure in the <code>lineWidth</code>
  line width is constant and equal to the width given for the smallest
  map measure in the <code>lineWidth</code>.
- </p><p>At map measures bigger than biggest map measure in the <code>lineWidth</code>
+ At map measures bigger than biggest map measure in the <code>lineWidth</code>
  line width is constant and equal to the width given for the biggest
  map measure in the <code>lineWidth</code>.
- </p><p>At map measures between two nearest given map measures, the values are
+ At map measures between two nearest given map measures, the values are
  linearly interpolated between values given for these map measures.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -251,14 +251,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentat
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></span> <span class="element-name">getOutlineWidth</span>()</div>
 <div class="block"><p>Gets the map measure dependent polyline outline width.
- </p><p>The total width of the polyline is <code>line width + 2 * outline width</code>.
- </p><p>At map measures smaller than smallest map measure in the <code>outlineWidth</code>,
+ The total width of the polyline is <code>line width + 2 * outline width</code>.
+ At map measures smaller than smallest map measure in the <code>outlineWidth</code>,
  outline width is constant and equal to the width given for the smallest
  map measure in the <code>outlineWidth</code>.
- </p><p>At map measures bigger than biggest map measure in the <code>outlineWidth</code>,
+ At map measures bigger than biggest map measure in the <code>outlineWidth</code>,
  outline width is constant and equal to the width given for the biggest
  map measure in the <code>outlineWidth</code>.
- </p><p>At map measures between two nearest given map measures, the values are
+ At map measures between two nearest given map measures, the values are
  linearly interpolated between values given for these map measures.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

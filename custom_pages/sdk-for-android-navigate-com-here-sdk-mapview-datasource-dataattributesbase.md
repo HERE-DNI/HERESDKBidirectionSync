@@ -27,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-dataattributesba
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">DataAttributesBase</span></div>
 <div class="block"><p>Interface for a collection of data attributes.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

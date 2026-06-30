@@ -27,11 +27,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarning"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">CustomWarning</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>class container for custom warning data.
- </p><p>This structure represents the type-specific payload associated
+ This structure represents the type-specific payload associated
  with a custom warning.
- </p><p>Instances of this structure are typically produced by custom warning
+ Instances of this structure are typically produced by custom warning
  evaluation logic and may also be retrieved from the <code>WarningRegistry</code>.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -136,7 +136,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarning"
 <h3>customWarningType</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">customWarningType</span></div>
 <div class="block"><p>Identifier of the custom warning type.
- </p><p>Defines the category of the custom warning and determines which warning
+ Defines the category of the custom warning and determines which warning
  registry should be used to retrieve additional warning details.</p></div>
 </section>
 </li>
@@ -145,7 +145,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarning"
 <h3>startOffsetInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">startOffsetInMeters</span></div>
 <div class="block"><p>Start offset of the warning range along the segment.
- </p><p>Specifies the distance, in meters, from the beginning of the
+ Specifies the distance, in meters, from the beginning of the
  corresponding <code>ElectronicHorizonSegment</code> at which the warning becomes
  applicable.</p></div>
 </section>
@@ -156,10 +156,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarning"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">endOffsetInMeters</span></div>
 <div class="block"><p>End offset of the warning range along the segment.
- </p><p>Specifies the distance, in meters, from the beginning of the
+ Specifies the distance, in meters, from the beginning of the
  corresponding <code>ElectronicHorizonSegment</code> at which the warning is no
  longer applicable.
- </p><p>May be <code>null</code>. In this case, the value is automatically considered
+ May be <code>null</code>. In this case, the value is automatically considered
  to be equal to <code>startOffsetInMeters</code>.</p></div>
 </section>
 </li>
@@ -169,7 +169,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarning"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-metadata" title="class in com.here.sdk.core">Metadata</a></span> <span class="element-name">payload</span></div>
 <div class="block"><p>Custom warning payload.
- </p><p>Contains warning-specific payload data.
+ Contains warning-specific payload data.
  A value of <code>null</code> indicates that no additional data is associated with the warning.</p></div>
 </section>
 </li>

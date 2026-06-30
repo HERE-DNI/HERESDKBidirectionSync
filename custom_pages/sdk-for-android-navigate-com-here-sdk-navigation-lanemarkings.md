@@ -27,8 +27,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-lanemarkings"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">LaneMarkings</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A class that provides information for the lane markings.
- </p><p>Lane markings indicate the markings on the road.
- </p><p>Lane Divider Marker indicates the lane separator
+ Lane markings indicate the markings on the road.
+ Lane Divider Marker indicates the lane separator
  on the right side of the specified lane in the lane driving direction for Right-side driving countries.
  For left-sided driving countries the Lane Divider Marker is indicating the lane separator
  on the left side of the specified lane in the lane driving direction.</p></div>

@@ -27,14 +27,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-lanedecreasewarning"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">LaneDecreaseWarning</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Represents a lane decrease warning that notifies about upcoming reductions in the number of available lanes.
- </p><p>Lane decrease warnings are generated when the road ahead has fewer lanes
+ Lane decrease warnings are generated when the road ahead has fewer lanes
  than the previous road segment provided by <code>sdk.electronic_horizon.ElectronicHorizonEngine</code>,
  requiring drivers to merge or change lanes.
  Lane decrease is provided only on highways and motorways. It will not be provided for junctions,
  when maneuver is given for the lane decrease situation or when the <a href="sdk-for-android-navigate-trafficmergewarning" title="class in com.here.sdk.navigation"><code>TrafficMergeWarning</code></a>
  is provided. Special lanes (e.g. Bus lane, HOV) will only be included to the lane decrease warning generation
  if the according options are set in <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a>.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

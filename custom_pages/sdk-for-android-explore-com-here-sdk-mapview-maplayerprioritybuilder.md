@@ -30,17 +30,17 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>MapLayerPriorityBuilder is an interface used to define the rendering priority of a layer
  and its categories, relative to other layers or layer-category pairs.
- </p><p>Map layers are rendered in an order according to specified priorities. Rendering order of elements in
+ Map layers are rendered in an order according to specified priorities. Rendering order of elements in
  a single map layer can be controlled with categories. Layer names are unique, and category names have
  to be unique within a layer. The layer's default, main category is unnamed.
- </p><p>The concept of 'category' is tightly linked to styling. The idea behind category is that
+ The concept of 'category' is tightly linked to styling. The idea behind category is that
  one should be able to style separately elements in a map layer. Take, for instance, roads.
  If one wants to style separately the bridges it will create a category 'bridges' and style
  it accordingly in the style file. If the user does not intend to or cannot style elements
  of the layer diffenrently then it should opt for a layer with only the default category (e.g.
  raster layer).
- </p><p>One way to define layers' priorities is by using a layer priority list in the scene configuration.
- </p><p>For example, a priority list in a scene configuration could define:
+ One way to define layers' priorities is by using a layer priority list in the scene configuration.
+ For example, a priority list in a scene configuration could define:
  <ul>
 <li>background</li>
 <li>water</li>
@@ -48,9 +48,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
 <li>roads</li>
 <li>labels</li>
 </ul>
-</p><p>This means layer "background" is rendered first. Next up is layer "water". Then category "outline" of
+This means layer "background" is rendered first. Next up is layer "water". Then category "outline" of
  layer "roads", followed by the main category of layer "roads". Layer "labels" is then rendered last.
- </p><p>
+ 
  Now let's consider a newly created layer 'zone' and its categories:
  <ul>
 <li>zone</li>
@@ -58,7 +58,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
 <li>zone:lines-outline</li>
 <li>zone:lines</li>
 </ul>
-</p><p>The user wants to alter the rendering order so that it looks like:
+The user wants to alter the rendering order so that it looks like:
  <ul>
 <li>background</li>
 <li>water</li>
@@ -70,9 +70,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
 <li>zone:lines</li>
 <li>labels</li>
 </ul>
-</p><p>This could be achieved with the help of the MapLayerPriorityBuilder and a sequence of calls to its
+This could be achieved with the help of the MapLayerPriorityBuilder and a sequence of calls to its
  <code>renderedBeforeLayer()</code> and <code>renderedAfterLayer()</code> member functions.
- </p><p>Note that the order of calls matters and one can use a previously defined layer or category
+ Note that the order of calls matters and one can use a previously defined layer or category
  as a reference:
  <pre><code>MapLayerPriority zoneLayerPriority = new MapLayerPriorityBuilder()
        .renderedAfterLayer("water")            // places "zone" after "water"
@@ -92,9 +92,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
   zoneLayer.setPriority(zoneLayerPriority);    // applies the priority to the zone layer
                                                // and its categories in one single operation.
   </code></pre>
-</p><p>In case an empty MapLayerPriority without any ordering commands is built, it is assumed that the target layer
+In case an empty MapLayerPriority without any ordering commands is built, it is assumed that the target layer
  is going to be rendered last.
- </p><p>Due to a current limitation for point map layers, the mentioned APIs to control the rendering
+ Due to a current limitation for point map layers, the mentioned APIs to control the rendering
  order are not implemented. All labels will be rendered within the "labels" layer, defined in
  the scene configuration file.
  By default, all labels rendered by a point map layer are rendered last and no overlapping is
@@ -281,8 +281,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
  with these functions since previous priorities would be ingored. For example the priority to
  render layer category 'C' after layer 'L' would be overridden by the priority to
  render layer category 'C' before layer 'L' when building something like
- </p><p><code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
-</p><p>The previously defined and prioritised categories can be used as reference.</p></div>
+ <code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
+The previously defined and prioritised categories can be used as reference.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>This class instance.</p></dd>
@@ -303,8 +303,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
  with these functions since previous priorities would be ingored. For example the priority to
  render layer category 'C' after layer 'L' would be overridden by the priority to
  render layer category 'C' before layer 'L' when building something like
- </p><p><code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
-</p><p>The previously defined and prioritised categories can be used as reference.</p></div>
+ <code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
+The previously defined and prioritised categories can be used as reference.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>This class instance.</p></dd>
@@ -327,8 +327,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
  with these functions since previous priorities would be ingored. For example the priority to
  render layer category 'C' after layer 'L' would be overridden by the priority to
  render layer category 'C' before layer 'L' when building something like
- </p><p><code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
-</p><p>The previously defined and prioritised categories can be used as reference.
+ <code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
+The previously defined and prioritised categories can be used as reference.
  If the referenceLayer does not exist, then the function will set the priority as rendered
  before all layers and categories.</p></div>
 <dl class="notes">
@@ -357,8 +357,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
  with these functions since previous priorities would be ingored. For example the priority to
  render layer category 'C' after layer 'L' would be overridden by the priority to
  render layer category 'C' before layer 'L' when building something like
- </p><p><code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
-</p><p>The previously defined and prioritised categories can be used as reference.
+ <code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
+The previously defined and prioritised categories can be used as reference.
  If the referenceLayer and/or the referenceCategory do not exist, then the function will set
  the priority as rendered before all layers and categories.</p></div>
 <dl class="notes">
@@ -386,8 +386,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
  with these functions since previous priorities would be ingored. For example the priority to
  render layer category 'C' after layer 'L' would be overridden by the priority to
  render layer category 'C' before layer 'L' when building something like
- </p><p><code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
-</p><p>The previously defined and prioritised categories can be used as reference.
+ <code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
+The previously defined and prioritised categories can be used as reference.
  If the referenceLayer does not exist, then the function will set the priority as rendered
  after all layers and categories.</p></div>
 <dl class="notes">
@@ -416,8 +416,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-maplayerprioritybuilder"
  with these functions since previous priorities would be ingored. For example the priority to
  render layer category 'C' after layer 'L' would be overridden by the priority to
  render layer category 'C' before layer 'L' when building something like
- </p><p><code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
-</p><p>The previously defined and prioritised categories can be used as reference.
+ <code>withCategory(&amp;quot;C&amp;quot;).renderedAfterLayer(&amp;quot;L&amp;quot;).withCategory(&amp;quot;C&amp;quot;).renderedBeforeLayer(&amp;quot;L&amp;quot;)</code>
+The previously defined and prioritised categories can be used as reference.
  If the referenceLayer and/or the referenceCategory do not exist, then the function will set
  the priority as rendered after all layers and categories.</p></div>
 <dl class="notes">

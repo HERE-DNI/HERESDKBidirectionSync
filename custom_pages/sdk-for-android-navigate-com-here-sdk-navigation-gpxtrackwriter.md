@@ -38,17 +38,17 @@ implements <a href="sdk-for-android-navigate-locationlistener" title="interface 
  <code>LocationEngine</code> for GPX track recording.
  Appends the new location to the back segment of the track whenever the listener is called.
  The following data (if provided) can be recorded and inserted into the resulting <a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation"><code>GPXTrack</code></a>: <code>latitude</code>, <code>longitude</code>, <code>altitude</code>, <code>time</code>, <code>bearingInDegrees</code>, <code>pitchInDegrees</code>, <code>speedInMetersPerSecond</code>, <code>horizontalAccuracyInMeters</code>, <code>verticalAccuracyInMeters</code>, <code>bearingAccuracyInDegrees</code>, <code>speedAccuracyInMetersPerSecond</code> and <code>locationTechnology</code>.
- </p><p>Use case examples:
- </p><p>A user wants to create and save a new <a href="sdk-for-android-navigate-gpxdocument" title="class in com.here.sdk.navigation"><code>GPXDocument</code></a> with one <a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation"><code>GPXTrack</code></a>:
+ Use case examples:
+ A user wants to create and save a new <a href="sdk-for-android-navigate-gpxdocument" title="class in com.here.sdk.navigation"><code>GPXDocument</code></a> with one <a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation"><code>GPXTrack</code></a>:
  - create <a href="sdk-for-android-navigate-gpxtrackwriter" title="class in com.here.sdk.navigation"><code>GPXTrackWriter</code></a> and add it as a location listener to <code>LocationEngine</code>.
  - set user parameters to <a href="sdk-for-android-navigate-com-here-sdk-navigation-gpxtrackwriter#getTrack()"><code>getTrack()</code></a> (e.g. <a href="sdk-for-android-navigate-gpxtrack#getName()"><code>GPXTrack.getName()</code></a> or <a href="sdk-for-android-navigate-gpxtrack#getDescription()"><code>GPXTrack.getDescription()</code></a>).
  - when writing is completed, create a new <a href="sdk-for-android-navigate-gpxdocument" title="class in com.here.sdk.navigation"><code>GPXDocument</code></a> with a list of one <a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation"><code>GPXTrack</code></a> and save the document via <a href="sdk-for-android-navigate-gpxdocument#save(java.lang.String)"><code>GPXDocument.save(java.lang.String)</code></a>.
- </p><p>A user wants to modify and save <a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation"><code>GPXTrack</code></a> in the existing <a href="sdk-for-android-navigate-gpxdocument" title="class in com.here.sdk.navigation"><code>GPXDocument</code></a>:
+ A user wants to modify and save <a href="sdk-for-android-navigate-gpxtrack" title="class in com.here.sdk.navigation"><code>GPXTrack</code></a> in the existing <a href="sdk-for-android-navigate-gpxdocument" title="class in com.here.sdk.navigation"><code>GPXDocument</code></a>:
  - load <a href="sdk-for-android-navigate-gpxdocument" title="class in com.here.sdk.navigation"><code>GPXDocument</code></a> from a file by the relevant constructor.
  - create <a href="sdk-for-android-navigate-gpxtrackwriter" title="class in com.here.sdk.navigation"><code>GPXTrackWriter</code></a> with the required track in the list <a href="sdk-for-android-navigate-gpxdocument#getTracks()"><code>GPXDocument.getTracks()</code></a>,
  add the created instance as a location listener to <code>LocationEngine</code>.
  - when writing is completed, save the document via <a href="sdk-for-android-navigate-gpxdocument#save(java.lang.String)"><code>GPXDocument.save(java.lang.String)</code></a>.
- </p><p>The <code>GPXDocument</code> including all tracks is saved in the <a href="https://www.topografix.com/gpx.asp">GPX</a> file format. Hence, once saved, it can be easily shared with other applications that understand the GPX file format.</p></div>
+ The <code>GPXDocument</code> including all tracks is saved in the <a href="https://www.topografix.com/gpx.asp">GPX</a> file format. Hence, once saved, it can be easily shared with other applications that understand the GPX file format.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">

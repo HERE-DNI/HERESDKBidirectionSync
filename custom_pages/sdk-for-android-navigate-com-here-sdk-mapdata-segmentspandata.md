@@ -30,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Contains attributes that are not necessarily constant on a full segment.
  A Span is a portion of a Segment where the requested attributes are constant.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -164,7 +164,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <h3>getStartOffsetInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getStartOffsetInMeters</span>()</div>
 <div class="block"><p>Gets the start offset in meters of the span.
- </p><p>The offset in meters from the beginning of the segment to the start of the span
+ The offset in meters from the beginning of the segment to the start of the span
  in positive direction or from the end of the segment to the start of the span in negative direction.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -189,7 +189,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing">TravelDirection</a></span> <span class="element-name">getTravelDirection</span>()</div>
 <div class="block"><p>Gets the <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing"><code>TravelDirection</code></a>.
- </p><p>Gets the <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing"><code>TravelDirection</code></a> object for the portion of the segment.
+ Gets the <a href="sdk-for-android-navigate-traveldirection" title="enum class in com.here.sdk.routing"><code>TravelDirection</code></a> object for the portion of the segment.
  Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadTravelDirection"><code>SegmentDataLoaderOptions.loadTravelDirection</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -203,7 +203,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-allowedtransportmodes" title="class in com.here.sdk.mapdata">AllowedTransportModes</a></span> <span class="element-name">getAllowedTransportModes</span>()</div>
 <div class="block"><p>Gets the <a href="sdk-for-android-navigate-allowedtransportmodes" title="class in com.here.sdk.mapdata"><code>AllowedTransportModes</code></a> object.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadTransportModesAccess"><code>SegmentDataLoaderOptions.loadTransportModesAccess</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadTransportModesAccess"><code>SegmentDataLoaderOptions.loadTransportModesAccess</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The <a href="sdk-for-android-navigate-allowedtransportmodes" title="class in com.here.sdk.mapdata"><code>AllowedTransportModes</code></a> object representing the allowed transport modes.</p></dd>
@@ -216,7 +216,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-functionalroadclass" title="enum class in com.here.sdk.routing">FunctionalRoadClass</a></span> <span class="element-name">getFunctionalRoadClass</span>()</div>
 <div class="block"><p>Gets the <a href="sdk-for-android-navigate-functionalroadclass" title="enum class in com.here.sdk.routing"><code>FunctionalRoadClass</code></a> object representing the polyline of this section.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadFunctionalRoadClass"><code>SegmentDataLoaderOptions.loadFunctionalRoadClass</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadFunctionalRoadClass"><code>SegmentDataLoaderOptions.loadFunctionalRoadClass</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The <a href="sdk-for-android-navigate-functionalroadclass" title="enum class in com.here.sdk.routing"><code>FunctionalRoadClass</code></a> object representing the polyline of this segment.</p></dd>
@@ -229,7 +229,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-segmentspeedlimit" title="class in com.here.sdk.mapdata">SegmentSpeedLimit</a></span> <span class="element-name">getPositiveDirectionSpeedLimit</span>()</div>
 <div class="block"><p>Gets the <a href="sdk-for-android-navigate-segmentspeedlimit" title="class in com.here.sdk.mapdata"><code>SegmentSpeedLimit</code></a> object representing the speed limit of this segment span.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadSpeedLimits"><code>SegmentDataLoaderOptions.loadSpeedLimits</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadSpeedLimits"><code>SegmentDataLoaderOptions.loadSpeedLimits</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The <a href="sdk-for-android-navigate-segmentspeedlimit" title="class in com.here.sdk.mapdata"><code>SegmentSpeedLimit</code></a> object representing the speed limit of this segment span in the positive
@@ -243,7 +243,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-segmentspeedlimit" title="class in com.here.sdk.mapdata">SegmentSpeedLimit</a></span> <span class="element-name">getNegativeDirectionSpeedLimit</span>()</div>
 <div class="block"><p>Gets the <a href="sdk-for-android-navigate-segmentspeedlimit" title="class in com.here.sdk.mapdata"><code>SegmentSpeedLimit</code></a> object representing the speed limit of this segment span.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadSpeedLimits"><code>SegmentDataLoaderOptions.loadSpeedLimits</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadSpeedLimits"><code>SegmentDataLoaderOptions.loadSpeedLimits</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The <a href="sdk-for-android-navigate-segmentspeedlimit" title="class in com.here.sdk.mapdata"><code>SegmentSpeedLimit</code></a> object representing the speed limit of this segment span in the negative
@@ -257,7 +257,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-segmentspeedlimit" title="class in com.here.sdk.mapdata">SegmentSpeedLimit</a></span> <span class="element-name">getSpeedLimit</span>()</div>
 <div class="block"><p>Gets the <a href="sdk-for-android-navigate-segmentspeedlimit" title="class in com.here.sdk.mapdata"><code>SegmentSpeedLimit</code></a> object representing the speed limit of this segment span.
- </p><p>Will be loaded if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadSpeedLimits"><code>SegmentDataLoaderOptions.loadSpeedLimits</code></a> is <code>true</code>.</p></div>
+ Will be loaded if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadSpeedLimits"><code>SegmentDataLoaderOptions.loadSpeedLimits</code></a> is <code>true</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The <a href="sdk-for-android-navigate-segmentspeedlimit" title="class in com.here.sdk.mapdata"><code>SegmentSpeedLimit</code></a> object representing the speed limit of this segment span.</p></dd>
@@ -270,7 +270,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">getPositiveDirectionBaseSpeedInMetersPerSecond</span>()</div>
 <div class="block"><p>Gets the average speed in the positive direction.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadBaseSpeeds"><code>SegmentDataLoaderOptions.loadBaseSpeeds</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadBaseSpeeds"><code>SegmentDataLoaderOptions.loadBaseSpeeds</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The average speed expected for this segment in positive direction with a car or a similar
@@ -284,7 +284,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">getNegativeDirectionBaseSpeedInMetersPerSecond</span>()</div>
 <div class="block"><p>Gets the average speed in the negative direction.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadBaseSpeeds"><code>SegmentDataLoaderOptions.loadBaseSpeeds</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadBaseSpeeds"><code>SegmentDataLoaderOptions.loadBaseSpeeds</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The average speed expected for this segment in negative direction with a car or a similar
@@ -298,7 +298,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">getBaseSpeedInMetersPerSecond</span>()</div>
 <div class="block"><p>Gets the average speed for this segment span.
- </p><p>Will be loaded if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadBaseSpeeds"><code>SegmentDataLoaderOptions.loadBaseSpeeds</code></a> is <code>true</code>.</p></div>
+ Will be loaded if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadBaseSpeeds"><code>SegmentDataLoaderOptions.loadBaseSpeeds</code></a> is <code>true</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The average speed expected for this segment span with a car or a similar vehicle.</p></dd>
@@ -311,7 +311,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-localroadcharacteristic" title="enum class in com.here.sdk.mapdata">LocalRoadCharacteristic</a>&gt;</span> <span class="element-name">getLocalRoadCharacteristics</span>()</div>
 <div class="block"><p>Gets the local road characteristics.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadLocalRoadCharacteristics"><code>SegmentDataLoaderOptions.loadLocalRoadCharacteristics</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadLocalRoadCharacteristics"><code>SegmentDataLoaderOptions.loadLocalRoadCharacteristics</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The local road characteristics of the segment: frontage, parking lot road, or POI access road.</p></dd>
@@ -324,7 +324,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getStreetNames</span>()</div>
 <div class="block"><p>The street names on the span.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadStreetNamesAndRoadNumbers"><code>SegmentDataLoaderOptions.loadStreetNamesAndRoadNumbers</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadStreetNamesAndRoadNumbers"><code>SegmentDataLoaderOptions.loadStreetNamesAndRoadNumbers</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The street names on the span.</p></dd>
@@ -338,7 +338,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-localizedroadnumbers" title="class in com.here.sdk.routing">LocalizedRoadNumbers</a></span> <span class="element-name">getRoadNumbers</span>()</div>
 <div class="block"><p>Gets the road numbers on the span enriched with information specific to <em>route numbers</em>
  of a road such as I-10, US-50, or A3.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadStreetNamesAndRoadNumbers"><code>SegmentDataLoaderOptions.loadStreetNamesAndRoadNumbers</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadStreetNamesAndRoadNumbers"><code>SegmentDataLoaderOptions.loadStreetNamesAndRoadNumbers</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The road numbers on the span enriched with information specific to <em>route numbers</em>
@@ -352,7 +352,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-physicalattributes" title="class in com.here.sdk.mapdata">PhysicalAttributes</a></span> <span class="element-name">getPhysicalAttributes</span>()</div>
 <div class="block"><p>Gets the physical attributes.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadRoadAttributes"><code>SegmentDataLoaderOptions.loadRoadAttributes</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadRoadAttributes"><code>SegmentDataLoaderOptions.loadRoadAttributes</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The physical attributes of the segment.</p></dd>
@@ -365,7 +365,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-roadusages" title="class in com.here.sdk.mapdata">RoadUsages</a></span> <span class="element-name">getRoadUsages</span>()</div>
 <div class="block"><p>Gets the road usages.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadRoadAttributes"><code>SegmentDataLoaderOptions.loadRoadAttributes</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadRoadAttributes"><code>SegmentDataLoaderOptions.loadRoadAttributes</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The road usages of the segment.</p></dd>
@@ -378,7 +378,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata">AdministrativeRules</a></span> <span class="element-name">getAdministrativeRules</span>()</div>
 <div class="block"><p>Gets the <a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata"><code>AdministrativeRules</code></a> for the segment.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadAdministrativeRules"><code>SegmentDataLoaderOptions.loadAdministrativeRules</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadAdministrativeRules"><code>SegmentDataLoaderOptions.loadAdministrativeRules</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The <a href="sdk-for-android-navigate-administrativerules" title="class in com.here.sdk.mapdata"><code>AdministrativeRules</code></a> for the segment, containing information
@@ -393,7 +393,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Boolean.html" title="class or interface in java.lang">Boolean</a></span> <span class="element-name">isUrban</span>()</div>
 <div class="block"><p>Gets the urban attribute of the segment.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadUrban"><code>SegmentDataLoaderOptions.loadUrban</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadUrban"><code>SegmentDataLoaderOptions.loadUrban</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The urban attribute of the segment.</p></dd>
@@ -406,7 +406,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentspandata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-segmentspecialspeedsituation" title="class in com.here.sdk.mapdata">SegmentSpecialSpeedSituation</a>&gt;</span> <span class="element-name">getSpecialSpeedSituations</span>()</div>
 <div class="block"><p>Gets the list of <a href="sdk-for-android-navigate-segmentspecialspeedsituation" title="class in com.here.sdk.mapdata"><code>SegmentSpecialSpeedSituation</code></a>.
- </p><p>Will be loaded if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadSpecialSpeedSituations"><code>SegmentDataLoaderOptions.loadSpecialSpeedSituations</code></a> is <code>true</code>.
+ Will be loaded if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadSpecialSpeedSituations"><code>SegmentDataLoaderOptions.loadSpecialSpeedSituations</code></a> is <code>true</code>.
  <strong>Note:</strong> To get timezone offset and daylight saving time values for TimeRule, [sdk.mapdata.SegmentDataLoaderOptions.load_administrative_rules] must also be set to <code>true</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

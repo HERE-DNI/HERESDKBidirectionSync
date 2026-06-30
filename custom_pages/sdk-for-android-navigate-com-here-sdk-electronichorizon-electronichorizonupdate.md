@@ -27,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">ElectronicHorizonUpdate</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A class representing a full update delivered via <a href="sdk-for-android-navigate-electronichorizonlistener" title="interface in com.here.sdk.electronichorizon"><code>ElectronicHorizonListener</code></a> notifications.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -115,7 +115,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-electronichorizon" title="class in com.here.sdk.electronichorizon">ElectronicHorizon</a></span> <span class="element-name">electronicHorizon</span></div>
 <div class="block"><p>The full electronic horizon recomputed for the current vehicle state.
  May be <code>null</code> if there is no update.
- </p><p>Contains the complete set of preferred paths.</p></div>
+ Contains the complete set of preferred paths.</p></div>
 </section>
 </li>
 <li>
@@ -152,7 +152,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ElectronicHorizonUpdate</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-electronichorizonposition" title="class in com.here.sdk.electronichorizon">ElectronicHorizonPosition</a> position)</span></div>
 <div class="block"><p>Creates a new instance.
- </p><p>Offline availability: This property is available online and offline.</p></div>
+ Offline availability: This property is available online and offline.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>position</code> - <p>The vehicle’s updated position relative to the electronic horizon.

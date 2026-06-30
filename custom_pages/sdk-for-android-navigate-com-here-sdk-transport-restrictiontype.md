@@ -33,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-restrictiontype"
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">RestrictionType</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-restrictiontype" title="enum class in com.here.sdk.transport">RestrictionType</a>&gt;</span></div>
 <div class="block"><p>Type of vehicle restriction.
- </p><p><strong>Note:</strong> This is a beta release of this feature.
+ <strong>Note:</strong> This is a beta release of this feature.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

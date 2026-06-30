@@ -27,11 +27,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapFeatureModes</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Holds constants for map feature modes, to be used with <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>.
- </p><p>Use <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#DEFAULT"><code>DEFAULT</code></a> to enable a feature with its default mode.
- </p><p>Note: The default mode is defined by the currently loaded map scene configuration and
+ Use <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#DEFAULT"><code>DEFAULT</code></a> to enable a feature with its default mode.
+ Note: The default mode is defined by the currently loaded map scene configuration and
  may vary per <a href="sdk-for-android-explore-mapscheme" title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a>. The currently active features and modes can be inspected
  using <a href="sdk-for-android-explore-mapscene#getActiveFeatures()"><code>MapScene.getActiveFeatures()</code></a> after the scene is loaded.
- </p><p>See <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for constants representing the feature names.</p></div>
+ See <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for constants representing the feature names.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -248,10 +248,10 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <h3>TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW</span></div>
 <div class="block"><p>Only available when Japan map is used.
- </p><p>Traffic flow shows green lines depending on the region.
- </p><p>In Japan green lines will not be shown,
+ Traffic flow shows green lines depending on the region.
+ In Japan green lines will not be shown,
  as if the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#TRAFFIC_FLOW_WITHOUT_FREE_FLOW"><code>TRAFFIC_FLOW_WITHOUT_FREE_FLOW</code></a> were used.
- </p><p>In rest of the world, green lines will be shown, as if
+ In rest of the world, green lines will be shown, as if
  the <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes#TRAFFIC_FLOW_WITH_FREE_FLOW"><code>TRAFFIC_FLOW_WITH_FREE_FLOW</code></a> were used.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
@@ -358,7 +358,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <h3>SHADOWS_ALL</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">SHADOWS_ALL</span></div>
 <div class="block"><p>Shadows are shown for extruded buildings and landmarks.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
@@ -375,7 +375,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes"
 <h3>AMBIENT_OCCLUSION_ALL</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">AMBIENT_OCCLUSION_ALL</span></div>
 <div class="block"><p>Ambient occlusion effect is shown for extruded buildings and landmarks.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>

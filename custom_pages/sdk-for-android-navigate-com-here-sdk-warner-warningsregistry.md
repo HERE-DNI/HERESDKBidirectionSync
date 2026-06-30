@@ -31,7 +31,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warningsregistry"
 <div class="block"><p>A class that store warning metadata for different warning types.
  Aggregates individual collection for each warning category (safety cameras, truck restrictions, etc.).
  Provided by <code>WarnerEngine</code> so callers can lookup detailed information about specific warnings.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -378,7 +378,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warningsregistry"
 <dd><p>The <code>LaneDecreaseWarning</code> object associated with the provided <code>warning</code>,
      or <code>null</code> if no warning exists for the given <code>warning</code>.
      This object contains the full details and attributes of the corresponding warning.
-     </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+     <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
      behaviors. Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>
@@ -390,7 +390,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warningsregistry"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-customwarning" title="class in com.here.sdk.warner">CustomWarning</a></span> <span class="element-name">getCustomWarning</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-warning" title="class in com.here.sdk.warner">Warning</a> warning)</span></div>
 <div class="block"><p>Returns additional data associated with the given custom warning.
- </p><p>The provided <code>warning</code> identifies a specific custom warning instance by its
+ The provided <code>warning</code> identifies a specific custom warning instance by its
  base warning information and custom warning type. This information is used
  to resolve the corresponding entry in the warning registry and retrieve
  any additional, type-specific data associated with the warning.</p></div>
@@ -403,7 +403,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warningsregistry"
      if no additional data exists for this warning.
      The returned object contains the payload with type-specific
      details and attributes of the corresponding warning.
-     </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+     <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
      behaviors. Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>

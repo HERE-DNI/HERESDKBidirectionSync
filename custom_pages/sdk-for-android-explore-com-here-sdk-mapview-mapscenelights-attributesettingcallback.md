@@ -74,9 +74,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapscenelights-attributesett
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>setLightError</code> - <p>The cause for the failure when setting the light attributes, or <code>null</code> if no error occurred.
-     </p><p>Note: The error code <code>NO_LIGHTS</code> may be returned when attempting to set light attributes in map schemes
+     Note: The error code <code>NO_LIGHTS</code> may be returned when attempting to set light attributes in map schemes
      that do not support lights, for instance <code>road.network</code> map scheme.
-     </p><p>Please refer to the error code documentation for further details on error handling.</p></dd>
+     Please refer to the error code documentation for further details on error handling.</p></dd>
 </dl>
 </section>
 </li>

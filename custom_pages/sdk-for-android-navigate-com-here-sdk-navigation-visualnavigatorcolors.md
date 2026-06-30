@@ -162,7 +162,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getManeuverArrowColor</span>()</div>
 <div class="block"><p>Gets the color used to draw maneuver arrows on the route.
- </p><p>The object containing color used to draw maneuver arrows on the route to highlight lane directions at the end of a street.
+ The object containing color used to draw maneuver arrows on the route to highlight lane directions at the end of a street.
  The alpha channel is ignored. The color is interpreted as fully opaque.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -176,7 +176,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-visualnavigatorcolors"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setManeuverArrowColor</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-color" title="class in com.here.sdk.core">Color</a> value)</span></div>
 <div class="block"><p>Sets the color used to draw maneuver arrows on the route. The alpha channel is ignored.
- </p><p>The object containing color used to draw maneuver arrows on the route to highlight lane directions at the end of a street.
+ The object containing color used to draw maneuver arrows on the route to highlight lane directions at the end of a street.
  The alpha channel is ignored. The color is interpreted as fully opaque.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

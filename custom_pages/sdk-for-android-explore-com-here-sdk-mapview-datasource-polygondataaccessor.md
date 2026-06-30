@@ -29,7 +29,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondataaccess
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PolygonDataAccessor</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Polygon data accessor used for manipulating polygons that are part of a PolygonDataSource.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -113,8 +113,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondataaccess
  <a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> geometry)</span></div>
 <div class="block"><p>Replaces polygon geometry.
  The outer boundary has to be ordered clockwise and closed.
- </p><p>Altitude of the vertices is ignored.
- </p><p>The visual behaviour for self-intersecting outer boundary is undefined.</p></div>
+ Altitude of the vertices is ignored.
+ The visual behaviour for self-intersecting outer boundary is undefined.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>geometry</code> - <p>Geometry of the polygon. The outer boundary has to be ordered clockwise and closed.

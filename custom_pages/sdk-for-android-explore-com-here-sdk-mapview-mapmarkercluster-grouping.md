@@ -31,7 +31,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-grouping"
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapMarkerCluster.Grouping</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Represents a group of map markers belonging to a cluster.
- </p><p>It contains a list of map markers grouped on map view under single icon of marker cluster or
+ It contains a list of map markers grouped on map view under single icon of marker cluster or
  single map marker entry for markers being part of cluster but spread enough not to be grouped.</p></div>
 </section>
 <section class="summary">

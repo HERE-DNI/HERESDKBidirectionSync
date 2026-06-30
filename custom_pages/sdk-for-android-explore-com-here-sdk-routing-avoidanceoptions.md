@@ -201,7 +201,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a>&gt;</span> <span class="element-name">segments</span></div>
 <div class="block"><p>Segments that routes will avoid going through.
  Violations are reported as <a href="sdk-for-android-explore-sectionnoticecode#VIOLATED_BLOCKED_ROAD"><code>SectionNoticeCode.VIOLATED_BLOCKED_ROAD</code></a>.
- </p><p><strong>Notes:</strong>
+ <strong>Notes:</strong>
 <ul>
 <li>This avoidance option is not supported in <code>IsolineOptions</code> for isoline calculation.</li>
 <li>The engine does not support an unlimited number of segments to avoid.

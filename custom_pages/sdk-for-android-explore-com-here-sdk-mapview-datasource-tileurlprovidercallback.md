@@ -28,7 +28,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderca
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface </span><span class="element-name type-name-label">TileUrlProviderCallback</span></div>
 <div class="block"><p>Provides the URL as String for the given tile coordinates and storage level.
- </p><p>The first and second parameters correspond to the X and Y coordinates of the tile, respectively, and have values ranging from 0 to 2^level − 1.
+ The first and second parameters correspond to the X and Y coordinates of the tile, respectively, and have values ranging from 0 to 2^level − 1.
  The third parameter indicates the level of the tile.</p></div>
 </section>
 <section class="summary">
@@ -73,7 +73,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderca
  int y,
  int level)</span></div>
 <div class="block"><p>Provides the URL as String for the given tile coordinates and storage level.
- </p><p>The first and second parameters correspond to the X and Y coordinates of the tile, respectively, and have values ranging from 0 to 2^level − 1.
+ The first and second parameters correspond to the X and Y coordinates of the tile, respectively, and have values ranging from 0 to 2^level − 1.
  The third parameter indicates the level of the tile.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

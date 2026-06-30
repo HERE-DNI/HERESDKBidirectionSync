@@ -299,7 +299,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <div class="block"><p>Computes the intersection with the passed <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.
  The altitude values are ignored.
  Limitation: Geo boxes are considered as non-intersecting if they overlap only on a single point, horizontal line or vertical line.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -319,7 +319,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-geobox"
 <div class="block"><p>Computes intersection of list of <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.
  The altitude values are ignored.
  Limitation: Geo boxes are considered as non-intersecting if they overlap only on a single point, horizontal line or vertical line.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

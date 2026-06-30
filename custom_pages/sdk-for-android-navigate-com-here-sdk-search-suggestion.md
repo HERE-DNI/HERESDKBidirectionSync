@@ -33,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-suggestion"
  Suggestions (please check <a href="sdk-for-android-navigate-suggestiontype" title="enum class in com.here.sdk.search"><code>SuggestionType</code></a>) are either:
  Place: <a href="sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>
  Query: <a href="sdk-for-android-navigate-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a> or <a href="sdk-for-android-navigate-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>
-</p><p>With "Place" you get data for a concrete place in the world.
+With "Place" you get data for a concrete place in the world.
  With "Query" something to follow-up, a way to perform more focused search.</p></div>
 </section>
 <section class="summary">
@@ -138,7 +138,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-suggestion"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-place" title="class in com.here.sdk.search">Place</a></span> <span class="element-name">getPlace</span>()</div>
 <div class="block"><p>Gets the suggested place item.
- </p><p>Available only for <a href="sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>.</p></div>
+ Available only for <a href="sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The suggested place.</p></dd>
@@ -151,7 +151,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-suggestion"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getId</span>()</div>
 <div class="block"><p>Gets the suggested item id.
- </p><p>For online search, suggestion of type <a href="sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>
+ For online search, suggestion of type <a href="sdk-for-android-navigate-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>
  will have Suggestion.id same as Place.id.
  For offline search, only suggestion of type <a href="sdk-for-android-navigate-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a>,
  will have this property filled with identifier number of an associated chain.
@@ -170,7 +170,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-suggestion"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getHref</span>()</div>
 <div class="block"><p>Gets the direct link for Discover query.
- </p><p>Available only for <a href="sdk-for-android-navigate-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a> and <a href="sdk-for-android-navigate-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>.
+ Available only for <a href="sdk-for-android-navigate-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a> and <a href="sdk-for-android-navigate-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>.
  This is not supported in offline search.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

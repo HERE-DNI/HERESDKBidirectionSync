@@ -293,7 +293,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
  and phoneme set. The use of our phoneme data in the notification usually makes the pronunciation of
  direction information sound more natural.
  <strong>Note:</strong> For now, this property is functional for road name and road number information only.
- </p><p>Defaults to <code>false</code>.</p></div>
+ Defaults to <code>false</code>.</p></div>
 </section>
 </li>
 <li>
@@ -303,7 +303,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-notificationformatoption" title="enum class in com.here.sdk.navigation">NotificationFormatOption</a></span> <span class="element-name">notificationFormatOption</span></div>
 <div class="block"><p>A formatting option for the phoneme that is included in the notification. By default, no phoneme is used
  and the <a href="sdk-for-android-navigate-notificationformatoption#PLAIN"><code>NotificationFormatOption.PLAIN</code></a> orthographic form is included in the notification.
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  To use the SSML format for phonemes, <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#enablePhoneme"><code>enablePhoneme</code></a> needs to be set to <code>true</code>.</p></div>
 </section>
 </li>
@@ -343,7 +343,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-naturalguidancetype" title="enum class in com.here.sdk.navigation">NaturalGuidanceType</a>&gt;</span> <span class="element-name">includedNaturalGuidanceTypes</span></div>
 <div class="block"><p>List of <a href="sdk-for-android-navigate-naturalguidancetype" title="enum class in com.here.sdk.navigation"><code>NaturalGuidanceType</code></a> should be included in the notifications. Excluding
  all of them will disable natural guidance information in the notifications completely.
- </p><p>By default, the list is empty and natural guidance is disabled.</p></div>
+ By default, the list is empty and natural guidance is disabled.</p></div>
 </section>
 </li>
 <li>
@@ -439,7 +439,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
  and phoneme set. The use of our phoneme data in the notification usually makes the pronunciation of
  direction information sound more natural.
  <strong>Note:</strong> For now, this property is functional for road name and road number information only.
- </p><p>Defaults to <code>false</code>.</p></dd>
+ Defaults to <code>false</code>.</p></dd>
 <dd><code>textUsageOptions</code> - <p>An option whether street name, road number and sign post direction should be used when generating notification.
  Defaults to each attribute as <a href="sdk-for-android-navigate-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></dd>
 <dd><code>enableHighwayExit</code> - <p>A flag that indicates whether highway exit information should be used when generating notification.
@@ -494,7 +494,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
  and phoneme set. The use of our phoneme data in the notification usually makes the pronunciation of
  direction information sound more natural.
  <strong>Note:</strong> For now, this property is functional for road name and road number information only.
- </p><p>Defaults to <code>false</code>.</p></dd>
+ Defaults to <code>false</code>.</p></dd>
 <dd><code>enableHighwayExit</code> - <p>A flag that indicates whether highway exit information should be used when generating notification.
  Defaults to <code>true</code>.</p></dd>
 </dl>
@@ -549,10 +549,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationopti
  and phoneme set. The use of our phoneme data in the notification usually makes the pronunciation of
  direction information sound more natural.
  <strong>Note:</strong> For now, this property is functional for road name and road number information only.
- </p><p>Defaults to <code>false</code>.</p></dd>
+ Defaults to <code>false</code>.</p></dd>
 <dd><code>notificationFormatOption</code> - <p>A formatting option for the phoneme that is included in the notification. By default, no phoneme is used
  and the <a href="sdk-for-android-navigate-notificationformatoption#PLAIN"><code>NotificationFormatOption.PLAIN</code></a> orthographic form is included in the notification.
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  To use the SSML format for phonemes, <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationoptions#enablePhoneme"><code>enablePhoneme</code></a> needs to be set to <code>true</code>.</p></dd>
 <dd><code>enableHighwayExit</code> - <p>A flag that indicates whether highway exit information should be used when generating notification.
  Defaults to <code>true</code>.</p></dd>

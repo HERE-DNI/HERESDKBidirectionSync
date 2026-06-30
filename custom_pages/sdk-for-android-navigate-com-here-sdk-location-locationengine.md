@@ -341,16 +341,16 @@ implements <a href="sdk-for-android-navigate-locationenginebase" title="interfac
  regarding nearby mobile and Wi-Fi network signals. Additionally, a link to the related
  <a href="https://legal.here.com/here-network-positioning-via-sdk">HERE Privacy Notice</a>
  must be made available to the user.
- </p><p>This information can be included in the application's Terms &amp; Conditions,
+ This information can be included in the application's Terms &amp; Conditions,
  Privacy Policy, or otherwise made accessible to the user.
- </p><p>An example text for informing users about the data collection:
+ An example text for informing users about the data collection:
  "This application uses location services provided by HERE Technologies.
  To maintain, improve, and provide these services, HERE Technologies occasionally collects
  characteristic information about nearby mobile and Wi-Fi network signals.
  For more information, please refer to the HERE Privacy Notice at:
  https://legal.here.com/here-network-positioning-via-sdk"
 
- </p><p>By calling this method, the application developer confirms that
+ By calling this method, the application developer confirms that
  this information is made available to the end user.
 
  For example, it is sufficient to inform users once that using the app requires
@@ -382,9 +382,9 @@ implements <a href="sdk-for-android-navigate-locationenginebase" title="interfac
  Privacy Notice. As a result, the <code>LocationEngine</code> will not collect characteristic
  information about the nearby mobile and Wi-Fi network signals. However, the engine will still
  be fully functional and it will deliver location updates when the exception can be confirmed.
- </p><p>Note that this call should not involve user interaction and it should be executed silently
+ Note that this call should not involve user interaction and it should be executed silently
  by the application before starting the <code>LocationEngine</code>.
- </p><p>The permission for exceptional use will be verified asynchronously using your HERE SDK
+ The permission for exceptional use will be verified asynchronously using your HERE SDK
  credentials. A missing permission will lead to stopping of the <code>LocationEngine</code>
  and
  <a href="sdk-for-android-navigate-locationenginestatus#PRIVACY_NOTICE_UNCONFIRMED"><code>LocationEngineStatus.PRIVACY_NOTICE_UNCONFIRMED</code></a> is delivered to

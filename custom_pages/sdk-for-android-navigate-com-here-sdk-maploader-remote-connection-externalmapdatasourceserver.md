@@ -123,7 +123,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externa
 <div class="block"><p>Exposes map data source as GRPC service on given url for <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a>.
  The exposed service can be consumed with the help of <a href="sdk-for-android-navigate-externalmapdatasourceclient#configureRemoteConnectionAsync(java.lang.String,com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.remote.connection.SslClientCredentialsOptions,com.here.sdk.maploader.remote.connection.ConfigureConnectionCallback)"><code>ExternalMapDataSourceClient.configureRemoteConnectionAsync(java.lang.String, com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.remote.connection.SslClientCredentialsOptions, com.here.sdk.maploader.remote.connection.ConfigureConnectionCallback)</code></a>.
  It is a non-blocking function, and the result will be returned via a callback. <a href="sdk-for-android-navigate-serverstartedcallback" title="interface in com.here.sdk.maploader.remote.connection"><code>ServerStartedCallback</code></a>.
- </p><p>Note: This is a beta release of this feature,
+ Note: This is a beta release of this feature,
  so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
@@ -141,7 +141,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externa
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">stop</span>()
           throws <span class="exceptions"><a href="sdk-for-android-navigate-externalmapdatasourceexception" title="class in com.here.sdk.maploader.remote.connection">ExternalMapDataSourceException</a></span></div>
 <div class="block"><p>Stops the exposed map data source GRPC service started using <a href="sdk-for-android-navigate-com-here-sdk-maploader-remote-connection-externalmapdatasourceserver#start(java.lang.String,com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.remote.connection.SslServerCredentialsOptions,com.here.sdk.maploader.remote.connection.ServerStartedCallback)"><code>start(java.lang.String, com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.remote.connection.SslServerCredentialsOptions, com.here.sdk.maploader.remote.connection.ServerStartedCallback)</code></a>.
- </p><p>Note: This is a beta release of this feature,
+ Note: This is a beta release of this feature,
  so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">

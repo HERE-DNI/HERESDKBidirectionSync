@@ -27,10 +27,10 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingpool"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">EVChargingPool</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A charging pool for electric vehicles is an area equipped with one or more charging stations.
- </p><p>Use <a href="sdk-for-android-explore-placecategory#BUSINESS_AND_SERVICES_EV_CHARGING_STATION"><code>PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION</code></a> to find stations.
+ Use <a href="sdk-for-android-explore-placecategory#BUSINESS_AND_SERVICES_EV_CHARGING_STATION"><code>PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION</code></a> to find stations.
  In the <code>Details</code> of a <code>Place</code> result you can find the list of found pools containing stations,
  if any.
- </p><p>For offline EV rich attributes, also enable <a href="sdk-for-android-explore-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
+ For offline EV rich attributes, also enable <a href="sdk-for-android-explore-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
  in <a href="sdk-for-android-explore-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.</p></div>
 </section>
 <section class="summary">
@@ -179,7 +179,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingpool"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evchargingpooldetails" title="class in com.here.sdk.search">EVChargingPoolDetails</a></span> <span class="element-name">details</span></div>
 <div class="block"><p>EV charging station attributes details. It is available only for a place that has charging station
  for electric vehicles. Only offline search fills this field.
- </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></div>
+ <strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></div>
 </section>
 </li>
 <li>

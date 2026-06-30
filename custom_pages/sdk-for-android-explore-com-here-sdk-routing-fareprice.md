@@ -171,11 +171,11 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-fareprice"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">validityPeriod</span></div>
 <div class="block"><p>When set, the price is paid for a specific duration.
- </p><p><strong>Examples</strong>:
- </p><p>3600 seconds - price for one hour
- </p><p>28800 seconds - price for eight hours
- </p><p>86400 seconds - price for one day
- </p><p><strong>Note:</strong> When the ticket validity period starts depends on the <a href="sdk-for-android-explore-agency" title="class in com.here.sdk.routing"><code>Agency</code></a> providing the service.
+ <strong>Examples</strong>:
+ 3600 seconds - price for one hour
+ 28800 seconds - price for eight hours
+ 86400 seconds - price for one day
+ <strong>Note:</strong> When the ticket validity period starts depends on the <a href="sdk-for-android-explore-agency" title="class in com.here.sdk.routing"><code>Agency</code></a> providing the service.
  Defaults to <code>null</code>.</p></div>
 </section>
 </li>

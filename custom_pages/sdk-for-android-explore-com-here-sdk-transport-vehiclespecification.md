@@ -261,7 +261,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">heightInCentimeters</span></div>
 <div class="block"><p>Vehicle height in centimeters. The provided value must be in the range [0, 5000].
  By default, it is not set.
- </p><p><strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
+ <strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
  <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta) transport modes.</p></div>
 </section>
 </li>
@@ -272,7 +272,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">widthInCentimeters</span></div>
 <div class="block"><p>Vehicle width in centimeters. The provided value must be in the range [0, 5000].
  By default, it is not set.
- </p><p><strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
+ <strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
  <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta) transport modes.</p></div>
 </section>
 </li>
@@ -283,7 +283,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">lengthInCentimeters</span></div>
 <div class="block"><p>Vehicle length in centimeters. The provided value must be in the range [0, 30000].
  By default, it is not set.
- </p><p><strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
+ <strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
  <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta) transport modes.</p></div>
 </section>
 </li>
@@ -297,7 +297,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
  Route calculation: When not set, possible axle count restrictions will not be taken into consideration.
  Rendering: When set, truck restriction icons for an axle count greater than <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#axleCount"><code>axleCount</code></a> will not be displayed.
  When specifying <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#trailerAxleCount"><code>trailerAxleCount</code></a>, then <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#axleCount"><code>axleCount</code></a> is required and must be greater than <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#trailerAxleCount"><code>trailerAxleCount</code></a>.
- </p><p><strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
+ <strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
  <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta) transport modes.</p></div>
 </section>
 </li>
@@ -343,15 +343,15 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
 <div class="block"><p>A flag indicating whether the truck is light enough to be classified more as a car than a truck in Japan.
  The flag should not be set to <code>true</code> in other countries than Japan.
  Defaults to <code>false</code>.
- </p><p>A light truck exempts from many legal restrictions for normal trucks in Japan, for example, which streets
+ A light truck exempts from many legal restrictions for normal trucks in Japan, for example, which streets
  the vehicle can access, which access restrictions apply, and which speed limits are applicable.
  Restrictions related to the dimensions of the truck, or its cargo may still apply and setting this flag will
  not always overwrite these settings. Make sure to not exceed the specifications that classify a truck as light.
- </p><p>In Japan, for light trucks the same restrictions apply as for cars. Therefore, when the flag is set to <code>true</code>,
+ In Japan, for light trucks the same restrictions apply as for cars. Therefore, when the flag is set to <code>true</code>,
  you will get, for example, the same speed limits as for cars. Make sure to set the flag only to <code>true</code>, when
  a vehicle matches the classification for light trucks according to the vehicle regulations in Japan.
- </p><p>When on <code>MapContentSettings</code>, then this flag will be ignored and has no effect.
- </p><p><strong>Notes:</strong>
+ When on <code>MapContentSettings</code>, then this flag will be ignored and has no effect.
+ <strong>Notes:</strong>
 <ul>
 <li>This flag and the concept of light trucks are supported only in Japan as beta and are considered to be
  experimental in other regions. Therefore, for now, it is recommended to use this flag only in Japan.</li>
@@ -369,7 +369,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
 <div class="block"><p>Allowed payload capacity, including trailers, specified in kilograms. The provided value
  must be greater then or equal to 0.
  By default, it is not set.
- </p><p><strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta)
+ <strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta)
  transport modes.</p></div>
 </section>
 </li>
@@ -382,7 +382,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
  This number is included in <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#axleCount"><code>axleCount</code></a>, hence <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#trailerAxleCount"><code>trailerAxleCount</code></a> must be less than <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#axleCount"><code>axleCount</code></a>
  and greater than or equal to 1. <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#axleCount"><code>axleCount</code></a> and <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#trailerCount"><code>trailerCount</code></a> are required to specify <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#trailerAxleCount"><code>trailerAxleCount</code></a>.
  By default, it is not set.
- </p><p><strong>Note:</strong>: This parameter is currently used only for the calculation of tolls in regions where it is applicable.</p></div>
+ <strong>Note:</strong>: This parameter is currently used only for the calculation of tolls in regions where it is applicable.</p></div>
 </section>
 </li>
 <li>
@@ -391,7 +391,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">kingpinToRearAxleDistanceInCentimeters</span></div>
 <div class="block"><p>Defines the kingpin to rear axle distance, in centimeters.
- </p><p><strong>NOTE:</strong> Currently, the KPRA restrictions are only present in California and Idaho.
+ <strong>NOTE:</strong> Currently, the KPRA restrictions are only present in California and Idaho.
  <strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>,
  <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta) transport modes.</p></div>
 </section>
@@ -404,7 +404,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
 <div class="block"><p>Empty weight of the vehicle without any load, excluding trailers, specified in kilograms.
  The provided value must be greater than or equal to 0.
  By default, it is not set.
- </p><p><strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
+ <strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
  <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta) transport modes.</p></div>
 </section>
 </li>
@@ -417,7 +417,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
  kilograms. The provided value must be greater than or equal to 0. If unspecified,
  it will default to <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#currentWeightInKilograms"><code>currentWeightInKilograms</code></a>.
  By default, it is not set.
- </p><p><strong>Notes:</strong>
+ <strong>Notes:</strong>
 <ul>
 <li>Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
  <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta) transport modes.</li>
@@ -435,7 +435,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
  kilograms. The provided value must be greater than or equal to 0. If unspecified,
  it will default to <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#grossWeightInKilograms"><code>grossWeightInKilograms</code></a>.
  By default, it is not set.
- </p><p><strong>Notes:</strong>
+ <strong>Notes:</strong>
 <ul>
 <li>Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
  <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta) transport modes.</li>
@@ -455,7 +455,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
  It is evaluated against all axle weight restrictions, including single axle and tandem axle weight restrictions.
  The provided value must be greater or equal to 0.
  By default, it is not set.
- </p><p><strong>Notes:</strong>
+ <strong>Notes:</strong>
 <ul>
 <li><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#weightPerAxleInKilograms"><code>weightPerAxleInKilograms</code></a> and <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#weightPerAxleGroup"><code>weightPerAxleGroup</code></a> are incompatible.
  When available for your edition, if both attributes are set, during online <code>RoutingEngine</code> an <code>RoutingError.INVALID_PARAMETER</code>
@@ -475,7 +475,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
  This is relevant in countries with signs and regulations that specify different limits for different axle
  groups, like the USA and Sweden.
  By default is not set.
- </p><p><strong>Notes:</strong>
+ <strong>Notes:</strong>
 <ul>
 <li><a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#weightPerAxleInKilograms"><code>weightPerAxleInKilograms</code></a> and <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification#weightPerAxleGroup"><code>weightPerAxleGroup</code></a> are incompatible.
  When available for your edition, if both attributes are set, during online <code>RoutingEngine</code> an <code>RoutingError.INVALID_PARAMETER</code>
@@ -492,7 +492,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isCommercial</span></div>
 <div class="block"><p>Specifies whether the vehicle is a commercial or a non-commercial vehicle.
  Defaults to <code>false</code>.
- </p><p><strong>Notes</strong>
+ <strong>Notes</strong>
 <ul>
 <li>Only supported for online routing.</li>
 <li>This parameter is currently used only for the calculation of tolls in regions where it is applicable.</li>
@@ -520,7 +520,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
 <div class="block"><p>Engine size of the scooter in cubic centimeters. Shouldn't be less than 1 or greater than 65535.
  Default value is <code>null</code>, which means the scooter route calculation ignores all engine size limits on the
  road.
- </p><p><strong>Notes</strong>
+ <strong>Notes</strong>
 <ul>
 <li>For now, this option is only relevant in Japan and will be ignored for other countries. Currently,
  map data for this option is only available for Japan.</li>
@@ -536,7 +536,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
 <div class="block"><p>The total number of tires the vehicle has, i.e., the tires on the base vehicle and any attached trailers.
  By default, it is not set.
  Otherwise it is guaranteed to be in the range [1, 255].
- </p><p><strong>Note</strong>: This parameter is not supported in isoline routing.</p></div>
+ <strong>Note</strong>: This parameter is not supported in isoline routing.</p></div>
 </section>
 </li>
 <li>
@@ -548,7 +548,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
  The route will pass only through tunnels of a less strict category.
  Refer to <a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport"><code>TunnelCategory</code></a> for the available options.
  By default, it is not set.
- </p><p><strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
+ <strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
  <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta) transport modes.</p></div>
 </section>
 </li>
@@ -560,7 +560,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-vehiclespecification"
 <div class="block"><p>Specifies a list of hazardous materials shipped in the vehicle.
  Refer to <a href="sdk-for-android-explore-hazardousmaterial" title="enum class in com.here.sdk.transport"><code>HazardousMaterial</code></a> for the available options.
  By default, it is an empty list.
- </p><p><strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
+ <strong>Note:</strong> Supported in <a href="sdk-for-android-explore-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>, <a href="sdk-for-android-explore-transportmode#BUS"><code>TransportMode.BUS</code></a>, <a href="sdk-for-android-explore-transportmode#PRIVATE_BUS"><code>TransportMode.PRIVATE_BUS</code></a>,
  <a href="sdk-for-android-explore-transportmode#CAR"><code>TransportMode.CAR</code></a> (Beta), <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a> (Beta) transport modes.</p></div>
 </section>
 </li>

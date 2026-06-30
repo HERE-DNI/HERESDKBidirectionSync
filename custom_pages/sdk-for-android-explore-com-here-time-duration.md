@@ -35,7 +35,7 @@ implements <a class="external-link" href="https://docs.oracle.com/en/java/javase
  <p>
      The duration is represented as number of seconds (see <a href="sdk-for-android-explore-com-here-time-duration#getSeconds()"><code>getSeconds()</code></a>)
      and number of nanonseconds in a second (see <a href="sdk-for-android-explore-com-here-time-duration#getNano()"><code>getNano()</code></a>).
- </p><p>
+ 
      Duration can be created from various units of time by calling on of
      <code>of*</code> methods. The <code>to*</code> family of methods convert duration
      to a value expressed in desired unit of time.</p></div>

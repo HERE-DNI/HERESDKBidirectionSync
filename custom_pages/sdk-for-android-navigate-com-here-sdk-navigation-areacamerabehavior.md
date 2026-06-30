@@ -36,7 +36,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="block"><p>Use this class to show an overview of geo points. By default, the orientation of the camera will be
  perpendicular to the Earth's surface (ie. looking towards the center of the Earth),
  while bearing will be towards north.
- </p><p>Note: This is a beta feature; there maybe bugs and unexpected behavior. Related API's are
+ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related API's are
  subject to change without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -219,7 +219,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a></span> <span class="element-name">getViewRectangle</span>()</div>
 <div class="block"><p>Gets the current view rectangle, if it's set.
- </p><p>Defines a sub-space of the screen that the behavior should consider
+ Defines a sub-space of the screen that the behavior should consider
  for camera updates.
  Defaults to <code>null</code>. If not set, it uses the viewport bounds of the underlying map view.</p></div>
 <dl class="notes">
@@ -234,7 +234,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setViewRectangle</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> value)</span></div>
 <div class="block"><p>Sets view rectangle.
- </p><p>Defines a sub-space of the screen that the behavior should consider
+ Defines a sub-space of the screen that the behavior should consider
  for camera updates.
  Defaults to <code>null</code>. If not set, it uses the viewport bounds of the underlying map view.</p></div>
 <dl class="notes">
@@ -249,7 +249,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getCameraAnimationDuration</span>()</div>
 <div class="block"><p>Gets the current animation duration in milliseconds.
- </p><p>If there is an animation, it will last for specified period of time.
+ If there is an animation, it will last for specified period of time.
  Defaults to 500 milliseconds, or half a second.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -263,7 +263,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCameraAnimationDuration</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> value)</span></div>
 <div class="block"><p>Sets the current animation duration in milliseconds.
- </p><p>If there is an animation, it will last for specified period of time.
+ If there is an animation, it will last for specified period of time.
  Defaults to 500 milliseconds, or half a second.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -277,7 +277,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getPrincipalPointAnimationDuration</span>()</div>
 <div class="block"><p>Gets the current principal point animation duration in milliseconds.
- </p><p>If the principal point is changed, the change will be animated
+ If the principal point is changed, the change will be animated
  over this duration.
  Defaults to 500 milliseconds, or half a second.</p></div>
 <dl class="notes">
@@ -292,7 +292,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPrincipalPointAnimationDuration</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> value)</span></div>
 <div class="block"><p>Sets the current principal point animation in milliseconds.
- </p><p>If the principal point is changed, the change will be animated
+ If the principal point is changed, the change will be animated
  over this duration.
  Defaults to 500 milliseconds, or half a second.</p></div>
 <dl class="notes">
@@ -307,7 +307,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a></span> <span class="element-name">getMaxZoom</span>()</div>
 <div class="block"><p>Gets maximal allowed zoom.
- </p><p>Defines maximal zoom level to be applied to enclose geodetic bounding box.
+ Defines maximal zoom level to be applied to enclose geodetic bounding box.
  Defaults to a <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> with kind <a href="sdk-for-android-navigate-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> and value 20.0.
  Note: <a href="sdk-for-android-navigate-mapmeasure.kind#SCALE"><code>MapMeasure.Kind.SCALE</code></a> is not supported.</p></div>
 <dl class="notes">
@@ -322,7 +322,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMaxZoom</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> value)</span></div>
 <div class="block"><p>Sets maximal allowed zoom.
- </p><p>Defines maximal zoom level to be applied to enclose geodetic bounding box.
+ Defines maximal zoom level to be applied to enclose geodetic bounding box.
  Defaults to a <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> with kind <a href="sdk-for-android-navigate-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> and value 20.0.
  Note: <a href="sdk-for-android-navigate-mapmeasure.kind#SCALE"><code>MapMeasure.Kind.SCALE</code></a> is not supported.</p></div>
 <dl class="notes">
@@ -336,7 +336,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <h3>getCameraBearingInDegrees</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">getCameraBearingInDegrees</span>()</div>
 <div class="block"><p>Gets the current camera bearing.
- </p><p>The direction in which the camera will point in degrees clockwise, relative to
+ The direction in which the camera will point in degrees clockwise, relative to
  true North. The input should range between [0, 360]. Defaults to true North (0 degrees).</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -349,7 +349,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <h3>setCameraBearingInDegrees</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCameraBearingInDegrees</span><wbr/><span class="parameters">(double value)</span></div>
 <div class="block"><p>Sets camera bearing.
- </p><p>The direction in which the camera will point in degrees clockwise, relative to
+ The direction in which the camera will point in degrees clockwise, relative to
  true North. The input should range between [0, 360]. Defaults to true North (0 degrees).</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -362,7 +362,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <h3>getCameraTiltInDegrees</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">getCameraTiltInDegrees</span>()</div>
 <div class="block"><p>Gets the current camera tilt.
- </p><p>The tilt of the camera relative to the axis perpendicular to the ground. Defaults to
+ The tilt of the camera relative to the axis perpendicular to the ground. Defaults to
  0 degrees, meaning that it will look straight down into the ground.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -375,7 +375,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <h3>setCameraTiltInDegrees</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCameraTiltInDegrees</span><wbr/><span class="parameters">(double value)</span></div>
 <div class="block"><p>Sets camera tilt.
- </p><p>The tilt of the camera relative to the axis perpendicular to the ground. Defaults to
+ The tilt of the camera relative to the axis perpendicular to the ground. Defaults to
  0 degrees, meaning that it will look straight down into the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -388,7 +388,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <h3>isCurrentPositionIncluded</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isCurrentPositionIncluded</span>()</div>
 <div class="block"><p>Gets whether to include the current position.
- </p><p>Decides if the current position should be added to the set of visible points.
+ Decides if the current position should be added to the set of visible points.
  Note that if the current position is in the vicinity of any of the visible points, setting this to
  <code>false</code> will not explicitly exclude the current position from the camera view. However if displaying
  an area potentially away from the current position, this does need to be explicitly set to <code>false</code>
@@ -404,7 +404,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <h3>setCurrentPositionIncluded</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCurrentPositionIncluded</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets whether to include the current position.
- </p><p>Decides if the current position should be added to the set of visible points.
+ Decides if the current position should be added to the set of visible points.
  Note that if the current position is in the vicinity of any of the visible points, setting this to
  <code>false</code> will not explicitly exclude the current position from the camera view. However if displaying
  an area potentially away from the current position, this does need to be explicitly set to <code>false</code>
@@ -421,7 +421,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getNormalizedPrincipalPoint</span>()</div>
 <div class="block"><p>Gets the currently set normalized principal point to be used during navigation.
- </p><p>Normalized principal point to be used during navigation.
+ Normalized principal point to be used during navigation.
  Defaults to (0.5, 0.775), which means the camera will use the position slightly at the bottom
  of the mapview.</p></div>
 <dl class="notes">
@@ -438,7 +438,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setNormalizedPrincipalPoint</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</span></div>
 <div class="block"><p>Sets a normalized principal point to be used during navigation.
- </p><p>Normalized principal point to be used during navigation.
+ Normalized principal point to be used during navigation.
  Defaults to (0.5, 0.775), which means the camera will use the position slightly at the bottom
  of the mapview.</p></div>
 <dl class="notes">

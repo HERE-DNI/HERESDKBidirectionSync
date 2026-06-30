@@ -32,7 +32,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarker3dmodel"
  Geometry of 3D marker can be provided in form of a Wavefront OBJ file as specified in
  http://www.martinreddy.net/gfx/3d/OBJ.spec or as mesh built via <a href="sdk-for-android-navigate-meshbuilder" title="class in com.here.sdk.mapview"><code>MeshBuilder</code></a>.
  
-</p><p>For OBJ files, HERE SDK only supports the following set of features of the OBJ specification:
+For OBJ files, HERE SDK only supports the following set of features of the OBJ specification:
  <ul>
 <li>Triangle Meshes</li>
 <li>Following vertex attributes must be present:
@@ -45,7 +45,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarker3dmodel"
 </ul>
 </li>
 </ul>
-</p><p>HERE SDK does not support:
+HERE SDK does not support:
  <ul>
 <li>Multi Texturing</li>
 <li>Materials (mtllib [external .mtl file name] )
@@ -56,10 +56,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapmarker3dmodel"
 </ul>
 </li>
 </ul>
-</p><p>For supported texture formats, HERE SDK allows the following formats to be specified:
+For supported texture formats, HERE SDK allows the following formats to be specified:
  JPG, PNG, GPU compressed texture formats: ECT1 (OpenGL only), YUV, ASTC, KTX.
  
-</p><p>A 3D mesh can be specified programatically using <a href="sdk-for-android-navigate-meshbuilder" title="class in com.here.sdk.mapview"><code>MeshBuilder</code></a> and passed to
+A 3D mesh can be specified programatically using <a href="sdk-for-android-navigate-meshbuilder" title="class in com.here.sdk.mapview"><code>MeshBuilder</code></a> and passed to
  <code>MapMarker3DModel</code> constructor. This method supports creating a mesh from
  quads and triangles. Textured geometry is also supported, the mesh faces
  need to have texture coordinates and a texture file needs to be passed

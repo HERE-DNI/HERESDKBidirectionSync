@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="block"><p>A class describing the set of changes in horizon segments
  between two consecutive updates.
  Includes lists of both newly added and removed segments.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -136,7 +136,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <h3>ElectronicHorizonSegmentChanges</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ElectronicHorizonSegmentChanges</span>()</div>
 <div class="block"><p>Creates a new instance.
- </p><p>Offline availability: This property is available online and offline.</p></div>
+ Offline availability: This property is available online and offline.</p></div>
 </section>
 </li>
 </ul>

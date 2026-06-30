@@ -162,8 +162,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 <div class="block"><p>Configure a filter for <a href="sdk-for-android-navigate-mapfeatures#VEHICLE_RESTRICTIONS"><code>MapFeatures.VEHICLE_RESTRICTIONS</code></a> to show only the restrictions
  matching the specified criteria when the feature is enabled.
  
-</p><p>Only restrictions applicable to the supplied truck specifications will be shown.
- </p><p>Examples:
+Only restrictions applicable to the supplied truck specifications will be shown.
+ Examples:
  <ul>
 <li>If the height in <code>truckSpecifications</code> is set to 200 cm, then height restrictions
  with a height greater than 200 cm will not be displayed.</li>
@@ -171,12 +171,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
  restrictions for a count greater than 2 will not be displayed.</li>
 </ul>
 
-</p><p>Only restrictions applicable to specified hazardous materials will be shown.
+Only restrictions applicable to specified hazardous materials will be shown.
  If at least one hazardous material of any type is present in the list, all available
  tunnel category restrictions will be displayed. In order to filter-out non-applicable
  tunnel categories, a tunnel category, that applies to the vehicle, can be specified
  additionally.
- </p><p>Examples:
+ Examples:
  <ul>
 <li>If the <code>hazardousMaterials</code> contains <a href="sdk-for-android-navigate-hazardousmaterial#POISON"><code>HazardousMaterial.POISON</code></a>
  and <a href="sdk-for-android-navigate-hazardousmaterial#GAS"><code>HazardousMaterial.GAS</code></a>, then only material restrictions
@@ -190,10 +190,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
  restrictions will be displayed together with all available tunnel categories.</li>
 </ul>
 
-</p><p>Tunnel categories are labeled and rated based on the level of restriction they provide.
+Tunnel categories are labeled and rated based on the level of restriction they provide.
  The lowest level of restriction is <a href="sdk-for-android-navigate-tunnelcategory#B"><code>TunnelCategory.B</code></a>, the highest and most
  restrictive one is <a href="sdk-for-android-navigate-tunnelcategory#E"><code>TunnelCategory.E</code></a>.
- </p><p>Specifying tunnel category means that:
+ Specifying tunnel category means that:
  <ul>
 <li>The truck carries goods which could cause only the additional dangerous effects
  described in specified tunnel category and other categories below it with lower level
@@ -201,8 +201,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 <li>The truck does not carry goods that could cause the dangerous effects described in
  tunnel categories above with higher restriction levels than the one specified.</li>
 </ul>
-</p><p>Tunnel categories are closely related to hazardous materials.
- </p><p>Since the type of hazardous material alone does not define the exact level of danger,
+Tunnel categories are closely related to hazardous materials.
+ Since the type of hazardous material alone does not define the exact level of danger,
  to ensure comprehensive coverage; the HERE SDK follows:
  <ul>
 <li>If at least one hazardous material is specified but no <code>tunnelCategory</code> is provided,
@@ -212,7 +212,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
  <strong>strictly follows the given tunnel category parameter</strong> and displays only the
  applicable restrictions.</li>
 </ul>
-</p><p>Example:
+Example:
  If <code>tunnelCategory</code> is set to <a href="sdk-for-android-navigate-tunnelcategory#D"><code>TunnelCategory.D</code></a>, then restrictions for
  tunnel category <a href="sdk-for-android-navigate-tunnelcategory#E"><code>TunnelCategory.E</code></a> and <a href="sdk-for-android-navigate-tunnelcategory#D"><code>TunnelCategory.D</code></a>
  will be displayed, but not the categories <a href="sdk-for-android-navigate-tunnelcategory#B"><code>TunnelCategory.B</code></a> and
@@ -241,26 +241,26 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
  <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a> transportSpecs)</span></div>
 <div class="block"><p>Configures a filter for <a href="sdk-for-android-navigate-mapfeatures#VEHICLE_RESTRICTIONS"><code>MapFeatures.VEHICLE_RESTRICTIONS</code></a> to show only the restrictions
  matching the transport specifications when the feature is enabled.
- </p><p>This method provides a unified way to configure vehicle restriction filters using
+ This method provides a unified way to configure vehicle restriction filters using
  a single <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> parameter. This allows you to use the same
  transport configuration for both routing and map rendering, ensuring consistency between
  route calculation and the restrictions displayed on the map.
- </p><p>The method extracts the transport mode, vehicle specifications, hazardous materials, and
+ The method extracts the transport mode, vehicle specifications, hazardous materials, and
  tunnel category from the <code>transportSpecs</code> parameter and applies filtering according to
  the same rules described below.
  
-</p><p>The transport mode is used to distinguish between truck and other transport modes.
+The transport mode is used to distinguish between truck and other transport modes.
  This distinction ensures consistency between the routing logic and the information
  displayed on the map. At present, this is primarily used to suppress the generic
  truck restriction icon for non-truck modes.
- </p><p>Currently, only vehicle-related restrictions are supported. For pedestrian, scooter,
+ Currently, only vehicle-related restrictions are supported. For pedestrian, scooter,
  or taxi transport modes, the transport mode information is used, but no additional
  vehicle-specific restrictions are applied.
  
-</p><p>Only restrictions applicable to the vehicle specifications will be shown.
+Only restrictions applicable to the vehicle specifications will be shown.
  The vehicle specifications include dimensions (height, width, length), weights
  (gross weight, weight per axle), and trailer count.
- </p><p>Examples:
+ Examples:
  <ul>
 <li>If the height in vehicle specifications is set to 200 cm, then height restrictions
  with a height greater than 200 cm will not be displayed.</li>
@@ -268,14 +268,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
  restrictions for a count greater than 2 will not be displayed.</li>
 </ul>
 
-</p><p>Only restrictions applicable to specified hazardous materials will be shown.
+Only restrictions applicable to specified hazardous materials will be shown.
  Hazardous materials are specified within the <a href="sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a>
  contained in the <code>transportSpecs</code> parameter.
- </p><p>If at least one hazardous material of any type is present in the list, all available
+ If at least one hazardous material of any type is present in the list, all available
  tunnel category restrictions will be displayed. In order to filter-out non-applicable
  tunnel categories, a tunnel category that applies to the vehicle can be specified
  additionally.
- </p><p>Examples:
+ Examples:
  <ul>
 <li>If the hazardous materials list contains <a href="sdk-for-android-navigate-hazardousmaterial#POISON"><code>HazardousMaterial.POISON</code></a>
  and <a href="sdk-for-android-navigate-hazardousmaterial#GAS"><code>HazardousMaterial.GAS</code></a>, then only material restrictions
@@ -289,12 +289,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
  restrictions will be displayed together with all available tunnel categories.</li>
 </ul>
 
-</p><p>Tunnel categories are labeled and rated based on the level of restriction they provide.
+Tunnel categories are labeled and rated based on the level of restriction they provide.
  The lowest level of restriction is <a href="sdk-for-android-navigate-tunnelcategory#B"><code>TunnelCategory.B</code></a>, the highest and most
  restrictive one is <a href="sdk-for-android-navigate-tunnelcategory#E"><code>TunnelCategory.E</code></a>.
- </p><p>The tunnel category is specified within the <a href="sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a>
+ The tunnel category is specified within the <a href="sdk-for-android-navigate-vehiclespecification" title="class in com.here.sdk.transport"><code>VehicleSpecification</code></a>
  contained in the <code>transportSpecs</code> parameter.
- </p><p>Specifying tunnel category means that:
+ Specifying tunnel category means that:
  <ul>
 <li>The vehicle carries goods which could cause only the additional dangerous effects
  described in specified tunnel category and other categories below it with lower level
@@ -302,8 +302,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
 <li>The vehicle does not carry goods that could cause the dangerous effects described in
  tunnel categories above with higher restriction levels than the one specified.</li>
 </ul>
-</p><p>Tunnel categories are closely related to hazardous materials.
- </p><p>Since the type of hazardous material alone does not define the exact level of danger,
+Tunnel categories are closely related to hazardous materials.
+ Since the type of hazardous material alone does not define the exact level of danger,
  to ensure comprehensive coverage; the HERE SDK follows:
  <ul>
 <li>If at least one hazardous material is specified but no tunnel category is provided,
@@ -313,7 +313,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
  <strong>strictly follows the given tunnel category parameter</strong> and displays only the
  applicable restrictions.</li>
 </ul>
-</p><p>Example:
+Example:
  If tunnel category is set to <a href="sdk-for-android-navigate-tunnelcategory#D"><code>TunnelCategory.D</code></a>, then restrictions for
  tunnel category <a href="sdk-for-android-navigate-tunnelcategory#E"><code>TunnelCategory.E</code></a> and <a href="sdk-for-android-navigate-tunnelcategory#D"><code>TunnelCategory.D</code></a>
  will be displayed, but not the categories <a href="sdk-for-android-navigate-tunnelcategory#B"><code>TunnelCategory.B</code></a> and
@@ -349,13 +349,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontentsettings"
  map, by default). For HERE standard map schemes all available POI categories are visible by
  default for each selected map scheme. Note that not all POI categories are available for
  all map schemes.
- </p><p>Based on the given list of categories the number of shown carto POIs can be reduced.
+ Based on the given list of categories the number of shown carto POIs can be reduced.
  To find all possible POI category strings look into <code>here.sdk.search.PlaceCategory</code>.
  Note that it is enough to hide a main category like "100" (eat-and-drink) to also affect
  sub categories such as "100-1000" (eat-and-drink-restaurant)
  and "100-1100" (eat-and-drink-coffee-tea). To enable a sub category, also the related
  main categories need have the <code>VISIBLE</code> state.
- </p><p>The POI visibility is a property of the map data itself. Once set it will be applied to
+ The POI visibility is a property of the map data itself. Once set it will be applied to
  all HERE standard map schemes and the selected categories will remain even when
  switching a map scheme.</p></div>
 <dl class="notes">

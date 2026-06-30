@@ -30,23 +30,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher"
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>This class provides map-matching functionality. It determines whether a location can be
  matched to a nearby road network and provides additional OCM map data for that location.
- </p><p><strong>Note:</strong> This is a <strong>beta</strong> release of this feature. There may be bugs and unexpected
+ <strong>Note:</strong> This is a <strong>beta</strong> release of this feature. There may be bugs and unexpected
  behaviors. Related APIs may change in future releases without a deprecation process.
- </p><p>A <code>MapMatcher</code> maintains an internal state across location updates.
+ A <code>MapMatcher</code> maintains an internal state across location updates.
  This helps to check if the match is consistent with previous matches or if an unrealistic jump occurred due to low accuracy
  of the provided location.
- </p><p>A <code>MapMatcher</code> requires OCM tile data, either through caching, prefetching, or installed <code>Region</code> data.
+ A <code>MapMatcher</code> requires OCM tile data, either through caching, prefetching, or installed <code>Region</code> data.
  If the necessary tiles are not found, an online request is initiated. Note that in such cases,
  the download is triggered silently in the background, and <code>null</code> is returned
  immediately.
- </p><p>The <code>MapMatcher</code> supports two layer configurations for retrieving segment geometry data:
+ The <code>MapMatcher</code> supports two layer configurations for retrieving segment geometry data:
  <ul>
 <li>
-<p><strong>Rendering layer (<code>LayerConfiguration.Feature.RENDERING</code>)</strong>: Enabled by default.
+<strong>Rendering layer (<code>LayerConfiguration.Feature.RENDERING</code>)</strong>: Enabled by default.
  If your application uses map rendering or <code>MapView</code> components, using this layer is recommended.
- </p></li>
+ </li>
 <li>
-<p><strong>eHorizon layer (<code>LayerConfiguration.Feature.EHORIZON</code>)</strong>: Not enabled by default.
+<strong>eHorizon layer (<code>LayerConfiguration.Feature.EHORIZON</code>)</strong>: Not enabled by default.
  It encodes segment geometries outside the rendering layer groups to reduce the amount of downloaded data.
  Use the eHorizon layer when:
  <ul>
@@ -54,12 +54,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher"
 <li>Only the eHorizon layer is used in your application.
  In these cases, using the eHorizon layer will reduce the required data to download. If the rendering layer is enabled, it will increase the required data to download.</li>
 </ul>
-</p></li>
+</li>
 </ul>
-</p><p><strong>Important</strong>: If <code>useRenderingLayers</code> is set to <code>false</code> without properly enabling the eHorizon layer,
+<strong>Important</strong>: If <code>useRenderingLayers</code> is set to <code>false</code> without properly enabling the eHorizon layer,
  it may produce incorrect results. Layer configuration is especially important when prefetching or installing
  region data. Missing data will be downloaded online automatically as needed.
- </p><p>If your hardware supports pitch and high precision altitude information and you want to use them in the <code>MapMatcher</code>
+ If your hardware supports pitch and high precision altitude information and you want to use them in the <code>MapMatcher</code>
  to improve map-matching, then enable the <code>LayerConfiguration.Feature.ADAS</code> layer:
  <ol>
 <li>Turn on the <code>ADAS</code> layer via <code>LayerConfiguration.enabledFeatures</code> (it will increase data consumption).</li>
@@ -187,9 +187,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapmatcher-mapmatcher"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapmatchedlocation" title="class in com.here.sdk.navigation">MapMatchedLocation</a></span> <span class="element-name">match</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a> location)</span></div>
 <div class="block"><p>This method computes the map-matched location for the provided input location.
- </p><p>Currently, matching is performed within a 50-meter radius of the provided location. If no road network is found
+ Currently, matching is performed within a 50-meter radius of the provided location. If no road network is found
  within that radius, <code>null</code> is returned.
- </p><p>It's required to set <code>time</code> field for each <code>Location</code> object for the <code>MapMatcher</code> to work properly. In case no time is provided,
+ It's required to set <code>time</code> field for each <code>Location</code> object for the <code>MapMatcher</code> to work properly. In case no time is provided,
  <code>null</code> is returned and an error message is logged. It is used to calculate the distance in time between
  consecutive matches. Together with <code>speed</code>, this allows to calculate how likely a match is consistent with a previous match.
  To improve matching accuracy, it is recommended to provide <code>bearing</code> and <code>speed</code> parameters for each <code>Location</code> object.</p></div>

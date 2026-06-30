@@ -30,7 +30,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>This is a class for capturing user's intent for the
  desired catalog version to use in <a href="sdk-for-android-explore-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a> class.
- </p><p>You can request a specific or latest version of a catalog by calling the
+ You can request a specific or latest version of a catalog by calling the
  static functions <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint#specific(long)"><code>specific(long)</code></a> and
  <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint#latest(boolean)"><code>latest(boolean)</code></a> respectively. The HERE platform will make the
  best effort to provide an appropriate version for the catalog based on this
@@ -111,7 +111,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-catalogversionhint"
  start, if possible. Use this only when you have no installed <code>Regions</code>. Since this affects
  only the map data cache, calling this at initialization time has no or only a very limited
  effect on the start-up time.
- </p><p>In order to auto-update cached OCM-based map data, such as for the HERE SDK (Navigate), use the
+ In order to auto-update cached OCM-based map data, such as for the HERE SDK (Navigate), use the
  default HRN value: "hrn:here:data::olp-here:ocm" in your <code>DesiredCatalog</code>. Note that the
  HERE SDK (Explore) cannot be used with such settings and the
  initialization of the HERE SDK may fail - since it is based on a different map

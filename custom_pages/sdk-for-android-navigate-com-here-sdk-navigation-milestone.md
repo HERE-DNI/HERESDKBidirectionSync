@@ -27,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-milestone"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Milestone</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Represents information about the waypoints along the route.
- </p><p>Note that this can include additional waypoints added during route
+ Note that this can include additional waypoints added during route
  calculation that may not have been part of the original user-defined
  waypoint list. For example, additional waypoints are added automatically
  between sections that require a different transport mode like when taking a

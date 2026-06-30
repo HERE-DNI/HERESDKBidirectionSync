@@ -1623,7 +1623,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placecategory"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getName</span>()</div>
 <div class="block"><p>Gets the localised place category name.
- </p><p>It is available only when when <code>PlaceCategory</code> is obtained from <code>Place</code>.
+ It is available only when when <code>PlaceCategory</code> is obtained from <code>Place</code>.
  That means that when <code>PlaceCategory</code> is constructed directly by the client,
  <code>name</code> is always <code>null</code>.</p></div>
 <dl class="notes">

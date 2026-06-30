@@ -30,22 +30,22 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>This class queries the HERE routing backend
  to find routes with less traffic and therefore an earlier remaining estimated time of arrival.
- </p><p><a href="sdk-for-android-navigate-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngine</code></a> polls the HERE routing backend periodically to find the best new route out
+ <a href="sdk-for-android-navigate-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngine</code></a> polls the HERE routing backend periodically to find the best new route out
  of a given initial route.
  For initial route calculation it is recommended to use the <a href="sdk-for-android-navigate-routingengine" title="class in com.here.sdk.routing"><code>RoutingEngine</code></a>
  as it already requests traffic-optimized routes.
- </p><p>When a better route is found, it is recommended to follow these steps to set the new route:
+ When a better route is found, it is recommended to follow these steps to set the new route:
  <ol>
 <li>Stop the <a href="sdk-for-android-navigate-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngine</code></a>.</li>
 <li>Update the currently active <code>Navigator</code>instance with the newly found route.</li>
 <li>Restart the <a href="sdk-for-android-navigate-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngine</code></a>. This should be done outside of the <code>onBetterRouteFound()</code> callback.</li>
 </ol>
-</p><p>For both <a href="sdk-for-android-navigate-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngine</code></a> and <a href="sdk-for-android-navigate-routingengine" title="class in com.here.sdk.routing"><code>RoutingEngine</code></a>,
+For both <a href="sdk-for-android-navigate-dynamicroutingengine" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngine</code></a> and <a href="sdk-for-android-navigate-routingengine" title="class in com.here.sdk.routing"><code>RoutingEngine</code></a>,
  the resulting routes are optimized based on speed flow changes such as traffic jams,
  street closures or road accidents.
  To get the best result, it is recommended to not specify the
  <a href="sdk-for-android-navigate-routeoptions#departureTime"><code>RouteOptions.departureTime</code></a> as then the current time is used by default.
- </p><p>The poll interval is defined by
+ The poll interval is defined by
  <a href="sdk-for-android-navigate-dynamicroutingengineoptions#pollInterval"><code>DynamicRoutingEngineOptions.pollInterval</code></a> and
  triggered by <a href="sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicroutingengine#updateCurrentLocation(com.here.sdk.navigation.MapMatchedLocation,int)"><code>updateCurrentLocation(com.here.sdk.navigation.MapMatchedLocation, int)</code></a>.</p></div>
 </section>
@@ -209,7 +209,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
            throws <span class="exceptions"><a href="sdk-for-android-navigate-dynamicroutingengine.startexception" title="class in com.here.sdk.trafficawarenavigation">DynamicRoutingEngine.StartException</a></span></div>
 <div class="block"><p>Starts polling the HERE backend services to find a better route,
  as defined by the DynamicRoutingEngineOptions.
- </p><p><strong>Note:</strong> The engine will be internally stopped, if it was started before.
+ <strong>Note:</strong> The engine will be internally stopped, if it was started before.
  Therefore, it is not necessary to stop the engine before starting it again.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -243,7 +243,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 </div>
 <div class="block"><p>Starts polling the HERE backend services to find a better route,
  as defined by the <a href="sdk-for-android-navigate-dynamicroutingengineoptions" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngineOptions</code></a>.
- </p><p><strong>Note:</strong> The engine will be internally stopped, if it was started before.
+ <strong>Note:</strong> The engine will be internally stopped, if it was started before.
  Therefore, it is not necessary to stop the engine before starting it again.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -274,7 +274,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
            throws <span class="exceptions"><a href="sdk-for-android-navigate-dynamicroutingengine.startexception" title="class in com.here.sdk.trafficawarenavigation">DynamicRoutingEngine.StartException</a></span></div>
 <div class="block"><p>Starts polling the HERE backend services to find a better route,
  as defined by the <a href="sdk-for-android-navigate-dynamicroutingengineoptions" title="class in com.here.sdk.trafficawarenavigation"><code>DynamicRoutingEngineOptions</code></a>.
- </p><p><strong>Note:</strong> The engine will be internally stopped, if it was started before.
+ <strong>Note:</strong> The engine will be internally stopped, if it was started before.
  Therefore, it is not necessary to stop the engine before starting it again.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -296,7 +296,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-trafficawarenavigation-dynamicrouti
 <h3>stop</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">stop</span>()</div>
 <div class="block"><p>Stops polling the HERE backend services.
- </p><p><strong>Note:</strong> The engine is not automatically stopped when the destination is reached.
+ <strong>Note:</strong> The engine is not automatically stopped when the destination is reached.
  Therefore, it is recommended to stop the engine when the destination was reached.</p></div>
 </section>
 </li>

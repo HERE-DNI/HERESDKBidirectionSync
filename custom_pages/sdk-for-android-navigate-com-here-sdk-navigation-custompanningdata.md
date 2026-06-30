@@ -40,7 +40,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-custompanningdata"
 <tr><td align="center">0°</td><td align="center">+90°</td><td align="center">+- 180</td><td align="center">-90°</td></tr>
 </tbody>
 </table>
-</p><p>When any of the members of <a href="sdk-for-android-navigate-custompanningdata" title="class in com.here.sdk.navigation"><code>CustomPanningData</code></a> are initialized as null, the default value
+When any of the members of <a href="sdk-for-android-navigate-custompanningdata" title="class in com.here.sdk.navigation"><code>CustomPanningData</code></a> are initialized as null, the default value
  provided by HERE SDK will be used instead.
  The audio cue is spatialized considering the action of both maneuvers, for example,
  the audio cue 'Now turn right and then turn left' will be spatialized as following:

@@ -37,7 +37,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-vehicletype"
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>sdk.transport.TransportMode</code> instead.</p></div>
 </div>
 <div class="block"><p>Defines the type of the vehicle.
- </p><p><strong>Note:</strong> This is a beta release of this vehicle type, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this vehicle type, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases or even become unsupported, without a
  deprecation process.</p></div>
 </section>

@@ -113,7 +113,7 @@ the order they are declared.</div>
 <div class="block"><p>Status when the current speed exceeded the speed limit (plus offset) for the current road segment.
  This status is followed by <a href="sdk-for-android-navigate-com-here-sdk-navigation-speedwarningstatus#SPEED_LIMIT_RESTORED"><code>SPEED_LIMIT_RESTORED</code></a> once the driving
  speed is again below the speed limit (plus offset) for the current road segment.
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  The speed limit used to check this condition does not take into account any temporary special
  speed limit. See <code>SpeedLimitListener</code>.</p></div>
 </section>
@@ -124,7 +124,7 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-navigate-speedwarningstatus" title="enum class in com.here.sdk.navigation">SpeedWarningStatus</a></span> <span class="element-name">SPEED_LIMIT_RESTORED</span></div>
 <div class="block"><p>Status where the current speed is again below the speed limit (plus offset) for the current road segment.
  This status is only possible after previously exceeding a speed limit.
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  The speed limit used to check this condition does not take into account any temporary special
  speed limit. See SpeedLimitListener.</p></div>
 </section>

@@ -161,7 +161,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <a href="sdk-for-android-navigate-com-here-sdk-navigation-fixedcamerabehavior#getZoom()"><code>getZoom()</code></a> instead.</p></div>
 </div>
 <div class="block"><p>Gets the currently set camera distance to current location. The default value is 150 meters.
- </p><p>Camera distance to current location. The default value is 150 meters.</p></div>
+ Camera distance to current location. The default value is 150 meters.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Camera distance in meters.</p></dd>
@@ -177,7 +177,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <a href="sdk-for-android-navigate-com-here-sdk-navigation-fixedcamerabehavior#getZoom()"><code>getZoom()</code></a> instead.</p></div>
 </div>
 <div class="block"><p>Sets the camera distance to current location. The default value is 150 meters.
- </p><p>Camera distance to current location. The default value is 150 meters.</p></div>
+ Camera distance to current location. The default value is 150 meters.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Camera distance in meters.</p></dd>
@@ -190,7 +190,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a></span> <span class="element-name">getZoom</span>()</div>
 <div class="block"><p>Gets the current camera's zoom configuration.
- </p><p>Camera zoom configuration. The default value is 150 meters.
+ Camera zoom configuration. The default value is 150 meters.
  Note: <a href="sdk-for-android-navigate-mapmeasure.kind#SCALE"><code>MapMeasure.Kind.SCALE</code></a> is not supported.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -204,7 +204,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setZoom</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> value)</span></div>
 <div class="block"><p>Sets the current camera's zoom configuration.
- </p><p>Camera zoom configuration. The default value is 150 meters.
+ Camera zoom configuration. The default value is 150 meters.
  Note: <a href="sdk-for-android-navigate-mapmeasure.kind#SCALE"><code>MapMeasure.Kind.SCALE</code></a> is not supported.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -217,7 +217,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <h3>getCameraTiltInDegrees</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">getCameraTiltInDegrees</span>()</div>
 <div class="block"><p>Gets the currently set camera tilt with axis parallel to the ground. The default value is 50 degrees.
- </p><p>The default value is 50 degrees.</p></div>
+ The default value is 50 degrees.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Camera tilt with axis parallel to the ground.</p></dd>
@@ -229,7 +229,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <h3>setCameraTiltInDegrees</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCameraTiltInDegrees</span><wbr/><span class="parameters">(double value)</span></div>
 <div class="block"><p>Sets camera tilt with axis parallel to the ground.
- </p><p>The default value is 50 degrees.</p></div>
+ The default value is 50 degrees.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Camera tilt with axis parallel to the ground.</p></dd>
@@ -242,7 +242,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">getCameraBearingInDegrees</span>()</div>
 <div class="block"><p>Gets the currently set fixed bearing.
- </p><p>Optional fixed bearing, from true North (0 degrees) in clockwise direction. The valid range
+ Optional fixed bearing, from true North (0 degrees) in clockwise direction. The valid range
  is [0, 360].
  If set, it will prevent the map from rotating to the direction of travel. For example, a
  value of zero results in "north up" mode.
@@ -262,7 +262,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCameraBearingInDegrees</span><wbr/><span class="parameters">(@Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a> value)</span></div>
 <div class="block"><p>Sets an optional fixed bearing value, from true North (0 degrees) in clockwise direction.
- </p><p>Optional fixed bearing, from true North (0 degrees) in clockwise direction. The valid range
+ Optional fixed bearing, from true North (0 degrees) in clockwise direction. The valid range
  is [0, 360].
  If set, it will prevent the map from rotating to the direction of travel. For example, a
  value of zero results in "north up" mode.
@@ -282,7 +282,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getNormalizedPrincipalPoint</span>()</div>
 <div class="block"><p>Gets the currently set normalized principal point to be used during navigation.
- </p><p>Normalized principal point to be used during navigation.
+ Normalized principal point to be used during navigation.
  Defaults to (0.5, 0.775), which means the camera will use the position slightly at the bottom
  of the mapview.</p></div>
 <dl class="notes">
@@ -299,7 +299,7 @@ implements <a href="sdk-for-android-navigate-camerabehavior" title="interface in
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setNormalizedPrincipalPoint</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</span></div>
 <div class="block"><p>Sets a normalized principal point to be used during navigation.
- </p><p>Normalized principal point to be used during navigation.
+ Normalized principal point to be used during navigation.
  Defaults to (0.5, 0.775), which means the camera will use the position slightly at the bottom
  of the mapview.</p></div>
 <dl class="notes">

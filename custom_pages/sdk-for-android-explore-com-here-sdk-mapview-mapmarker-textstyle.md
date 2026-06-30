@@ -174,7 +174,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
 <li>Text outline color: opaque black</li>
 <li>Text placement: <a href="sdk-for-android-explore-mapmarker.textstyle.placement#BOTTOM"><code>MapMarker.TextStyle.Placement.BOTTOM</code></a></li>
 </ul>
-</p><p>Once the resulting <code>TextStyle</code> is applied to a <code>MapMarker</code>, its text will be centered over its
+Once the resulting <code>TextStyle</code> is applied to a <code>MapMarker</code>, its text will be centered over its
  image. The font will be 18 pixels wide, colored opaque white and will have no visible outline.</p></div>
 </section>
 </li>
@@ -191,12 +191,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker.textstyle.placement" title="enum class in com.here.sdk.mapview">MapMarker.TextStyle.Placement</a>&gt; placements)</span>
           throws <span class="exceptions"><a href="sdk-for-android-explore-mapmarker.textstyle.instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></span></div>
 <div class="block"><p>Creates a set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.
- </p><p>List of placements is used to specify allowed placement of text relative to the icon.
+ List of placements is used to specify allowed placement of text relative to the icon.
  When marker overlapping is allowed as set by <a href="sdk-for-android-explore-mapmarker#setOverlapAllowed(boolean)"><code>MapMarker.setOverlapAllowed(boolean)</code></a>,
  only first placement element is considered.
  Otherwise the placement value is chosen so that the text does not overlap
  with other <code>MapMarker</code> instances.
- </p><p>Placement values are prioritized according
+ Placement values are prioritized according
  to the order in which they appear in the list. Lists with duplicate entries
  as well as empty lists are not supported.</p></div>
 <dl class="notes">
@@ -228,14 +228,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> fontName)</span>
           throws <span class="exceptions"><a href="sdk-for-android-explore-mapmarker.textstyle.instantiationexception" title="class in com.here.sdk.mapview">MapMarker.TextStyle.InstantiationException</a></span></div>
 <div class="block"><p>Creates a set of styling options for the text of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.
- </p><p>List of placements is used to specify allowed placement of text relative to the icon.
+ List of placements is used to specify allowed placement of text relative to the icon.
  When marker overlapping is allowed as set by <a href="sdk-for-android-explore-mapmarker#setOverlapAllowed(boolean)"><code>MapMarker.setOverlapAllowed(boolean)</code></a>,
  only first placement element is considered.
  Otherwise the placement value is chosen so that the text does not overlap
  with other <code>MapMarker</code> instances.
- </p><p>Placement values are prioritized according
+ Placement values are prioritized according
  to the order in which they appear in the list. Lists with duplicate entries
  as well as empty lists are not supported.</p></div>
 <dl class="notes">

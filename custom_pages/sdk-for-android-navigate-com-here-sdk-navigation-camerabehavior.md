@@ -72,7 +72,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-camerabehavior"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="return-type"><a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getNormalizedPrincipalPoint</span>()</div>
 <div class="block"><p>Gets the currently set normalized principal point to be used during navigation.
- </p><p>Normalized principal point to be used during navigation.
+ Normalized principal point to be used during navigation.
  Defaults to (0.5, 0.775), which means the camera will use the position slightly at the bottom
  of the mapview.</p></div>
 <dl class="notes">
@@ -87,7 +87,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-camerabehavior"
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">setNormalizedPrincipalPoint</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</span></div>
 <div class="block"><p>Sets a normalized principal point to be used during navigation.
- </p><p>Normalized principal point to be used during navigation.
+ Normalized principal point to be used during navigation.
  Defaults to (0.5, 0.775), which means the camera will use the position slightly at the bottom
  of the mapview.</p></div>
 <dl class="notes">

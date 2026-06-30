@@ -881,11 +881,11 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a> navigator)</span>
                 throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class using provided instance of <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> as source of data.
- </p><p><strong>Note:</strong> The <a href="sdk-for-android-navigate-visualnavigator" title="class in com.here.sdk.navigation"><code>VisualNavigator</code></a> implements the <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> interface and forwards
+ <strong>Note:</strong> The <a href="sdk-for-android-navigate-visualnavigator" title="class in com.here.sdk.navigation"><code>VisualNavigator</code></a> implements the <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> interface and forwards
  all calls to the underlying <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> instance. When multiple <a href="sdk-for-android-navigate-visualnavigator" title="class in com.here.sdk.navigation"><code>VisualNavigator</code></a>
  instances share the same <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> instance, method calls on this common instance
  will overwrite changes made by another, which may lead to unexpected behavior.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -904,7 +904,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a> navigator)</span>
                 throws <span class="exceptions"><a href="sdk-for-android-navigate-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new instance of this class using provided instance of <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> as source of data.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -985,7 +985,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-camerabehavior" title="interface in com.here.sdk.navigation">CameraBehavior</a></span> <span class="element-name">getCameraBehavior</span>()</div>
 <div class="block"><p>Gets the currently set camera behavior.
- </p><p>Setting <code>null</code> disables any camera behavior with the result that the camera does not follow
+ Setting <code>null</code> disables any camera behavior with the result that the camera does not follow
  the current location and keeps the last active camera state, i.e., current zoom and tilt.
  Furthermore, when <code>null</code> is set map gestures can be used again to freely pan and zoom
  the map. In opposition, when a camera behavior is defined, then the map cannot be panned and
@@ -1003,7 +1003,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCameraBehavior</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-camerabehavior" title="interface in com.here.sdk.navigation">CameraBehavior</a> value)</span></div>
 <div class="block"><p>Sets how the VisualNavigator handles the camera.
- </p><p>Setting <code>null</code> disables any camera behavior with the result that the camera does not follow
+ Setting <code>null</code> disables any camera behavior with the result that the camera does not follow
  the current location and keeps the last active camera state, i.e., current zoom and tilt.
  Furthermore, when <code>null</code> is set map gestures can be used again to freely pan and zoom
  the map. In opposition, when a camera behavior is defined, then the map cannot be panned and
@@ -1020,7 +1020,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>isRouteVisible</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isRouteVisible</span>()</div>
 <div class="block"><p>Gets the current state of route rendering during visual navigation.
- </p><p>When enabled, the set <code>Route</code> will be rendered as a <code>MapPolyline</code> together with <code>MapArrow</code> items that
+ When enabled, the set <code>Route</code> will be rendered as a <code>MapPolyline</code> together with <code>MapArrow</code> items that
  indicate the next turns. By default, it is enabled.
  When disabled, <code>MapArrow</code> items are still rendered. To hide arrows, use <code>VisualNavigatorColors</code> with
  transparent color.</p></div>
@@ -1035,7 +1035,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>setRouteVisible</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRouteVisible</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets whether to perform route rendering during visual navigation.
- </p><p>When enabled, the set <code>Route</code> will be rendered as a <code>MapPolyline</code> together with <code>MapArrow</code> items that
+ When enabled, the set <code>Route</code> will be rendered as a <code>MapPolyline</code> together with <code>MapArrow</code> items that
  indicate the next turns. By default, it is enabled.
  When disabled, <code>MapArrow</code> items are still rendered. To hide arrows, use <code>VisualNavigatorColors</code> with
  transparent color.</p></div>
@@ -1050,7 +1050,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>isRouteProgressVisible</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isRouteProgressVisible</span>()</div>
 <div class="block"><p>Gets the current state of route progress during visual navigation.
- </p><p>By default, it is enabled.</p></div>
+ By default, it is enabled.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p><code>RouteProgress</code> visibility which defines whether to perform route progress coloring ("eat-up") during visual navigation.</p></dd>
@@ -1062,7 +1062,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>setRouteProgressVisible</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRouteProgressVisible</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets whether to perform route progress coloring ("eat-up") during visual navigation.
- </p><p>By default, it is enabled.</p></div>
+ By default, it is enabled.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p><code>RouteProgress</code> visibility which defines whether to perform route progress coloring ("eat-up") during visual navigation.</p></dd>
@@ -1074,7 +1074,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>isManeuverArrowsVisible</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isManeuverArrowsVisible</span>()</div>
 <div class="block"><p>Gets the current state of maneuver arrow rendering during visual navigation.
- </p><p>By default, it is enabled.</p></div>
+ By default, it is enabled.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Maneuver arrows visibility which defines whether to perform maneuver arrow rendering during visual navigation.</p></dd>
@@ -1086,7 +1086,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>setManeuverArrowsVisible</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setManeuverArrowsVisible</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets whether to perform maneuver arrow rendering during visual navigation.
- </p><p>By default, it is enabled.</p></div>
+ By default, it is enabled.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Maneuver arrows visibility which defines whether to perform maneuver arrow rendering during visual navigation.</p></dd>
@@ -1098,7 +1098,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>isOffRoadDestinationVisible</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isOffRoadDestinationVisible</span>()</div>
 <div class="block"><p>Gets the current state of off-road destination visualization during visual navigation.
- </p><p><strong>Note:</strong> The dashed line will be drawn only if the original destination is off-road.</p></div>
+ <strong>Note:</strong> The dashed line will be drawn only if the original destination is off-road.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Off road destination visibility which defines whether to show a dashed line between the map-matched and the original destination
@@ -1112,7 +1112,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOffRoadDestinationVisible</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets whether to show a dashed line between the map-matched and the original destination
  which is off-road.
- </p><p><strong>Note:</strong> The dashed line will be drawn only if the original destination is off-road.</p></div>
+ <strong>Note:</strong> The dashed line will be drawn only if the original destination is off-road.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Off road destination visibility which defines whether to show a dashed line between the map-matched and the original destination
@@ -1125,7 +1125,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>isTrafficOnRouteVisible</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isTrafficOnRouteVisible</span>()</div>
 <div class="block"><p>Gets the current state whether traffic conditions on route should be displayed during visual navigation.
- </p><p>When enabled the route's <code>MapPolyline</code> will be enhanced with visualization of the traffic conditions.
+ When enabled the route's <code>MapPolyline</code> will be enhanced with visualization of the traffic conditions.
  Colors used for this visualization are defined in <a href="sdk-for-android-navigate-visualnavigatorcolors#getTrafficOnRouteColors()"><code>VisualNavigatorColors.getTrafficOnRouteColors()</code></a>.
  The presented traffic information is either set by the user via <a href="sdk-for-android-navigate-navigatorinterface#getTrafficOnRoute()"><code>NavigatorInterface.getTrafficOnRoute()</code></a> or
  is generated from historical traffic data stored in the map.
@@ -1146,7 +1146,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTrafficOnRouteVisible</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets whether to perform rendering of traffic conditions on the route when <code>Route</code> visualization is enabled
  during visual navigation.
- </p><p>When enabled the route's <code>MapPolyline</code> will be enhanced with visualization of the traffic conditions.
+ When enabled the route's <code>MapPolyline</code> will be enhanced with visualization of the traffic conditions.
  Colors used for this visualization are defined in <a href="sdk-for-android-navigate-visualnavigatorcolors#getTrafficOnRouteColors()"><code>VisualNavigatorColors.getTrafficOnRouteColors()</code></a>.
  The presented traffic information is either set by the user via <a href="sdk-for-android-navigate-navigatorinterface#getTrafficOnRoute()"><code>NavigatorInterface.getTrafficOnRoute()</code></a> or
  is generated from historical traffic data stored in the map.
@@ -1167,7 +1167,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-locationindicator" title="class in com.here.sdk.mapview">LocationIndicator</a></span> <span class="element-name">getCustomLocationIndicator</span>()</div>
 <div class="block"><p>Gets the currently set <code>LocationIndicator</code>.
- </p><p>If set, the user is responsible for adding and removing the object to/from the mapview.
+ If set, the user is responsible for adding and removing the object to/from the mapview.
  It is important to stop sending location updates to the provided <a href="sdk-for-android-navigate-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a>, since
  <a href="sdk-for-android-navigate-visualnavigator" title="class in com.here.sdk.navigation"><code>VisualNavigator</code></a> will control its position when rendering is active, i.e., between startRendering() and
  stopRendering() calls. By default this property is <code>null</code>,
@@ -1186,7 +1186,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  <a href="sdk-for-android-navigate-locationindicator" title="class in com.here.sdk.mapview">LocationIndicator</a> value)</span></div>
 <div class="block"><p>Sets a custom <a href="sdk-for-android-navigate-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a>, so that <a href="sdk-for-android-navigate-visualnavigator" title="class in com.here.sdk.navigation"><code>VisualNavigator</code></a> uses the provided one instead
  of the default.
- </p><p>If set, the user is responsible for adding and removing the object to/from the mapview.
+ If set, the user is responsible for adding and removing the object to/from the mapview.
  It is important to stop sending location updates to the provided <a href="sdk-for-android-navigate-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a>, since
  <a href="sdk-for-android-navigate-visualnavigator" title="class in com.here.sdk.navigation"><code>VisualNavigator</code></a> will control its position when rendering is active, i.e., between startRendering() and
  stopRendering() calls. By default this property is <code>null</code>,
@@ -1207,7 +1207,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  For example, to pan a second instance of a
  <a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a> or move additional markers smoothly. The map-matched locations are
  used if available, otherwise the non-map-matched ones are used instead.
- </p><p>For example, to pan a second instance of a <a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a> or move additional markers smoothly.
+ For example, to pan a second instance of a <a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a> or move additional markers smoothly.
  The map-matched locations are used if available, otherwise the non-map-matched ones are used instead.
  Defaults to <code>null</code>.</p></div>
 <dl class="notes">
@@ -1222,7 +1222,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setInterpolatedLocationListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-interpolatedlocationlistener" title="interface in com.here.sdk.navigation">InterpolatedLocationListener</a> value)</span></div>
 <div class="block"><p>Sets the listener that receives interpolated locations.
- </p><p>For example, to pan a second instance of a <a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a> or move additional markers smoothly.
+ For example, to pan a second instance of a <a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview"><code>MapViewBase</code></a> or move additional markers smoothly.
  The map-matched locations are used if available, otherwise the non-map-matched ones are used instead.
  Defaults to <code>null</code>.</p></div>
 <dl class="notes">
@@ -1248,7 +1248,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-visualnavigatorcolors" title="class in com.here.sdk.navigation">VisualNavigatorColors</a></span> <span class="element-name">getColors</span>()</div>
 <div class="block"><p>Gets an object containing colors used to render route progress and maneuver arrow visualization.
- </p><p>Setting a new instance overwrites the default color settings as specified in <code>VisualNavigatorColors</code>.</p></div>
+ Setting a new instance overwrites the default color settings as specified in <code>VisualNavigatorColors</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Object containing colors used to render route progress and maneuver arrow visualization.</p></dd>
@@ -1261,7 +1261,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setColors</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-visualnavigatorcolors" title="class in com.here.sdk.navigation">VisualNavigatorColors</a> value)</span></div>
 <div class="block"><p>Sets an object containing colors used to render route progress and maneuver arrow visualization.
- </p><p>Setting a new instance overwrites the default color settings as specified in <code>VisualNavigatorColors</code>.</p></div>
+ Setting a new instance overwrites the default color settings as specified in <code>VisualNavigatorColors</code>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Object containing colors used to render route progress and maneuver arrow visualization.</p></dd>
@@ -1274,7 +1274,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt;</span> <span class="element-name">getMeasureDependentWidth</span>()</div>
 <div class="block"><p>Gets the <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> dependent polyline and maneuver arrow width in pixels.
- </p><p>It is a dictionary that has keys that are <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a>s and values
+ It is a dictionary that has keys that are <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a>s and values
  that are width in pixels at this <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a>s.
  This route and maneuver arrows width is multiplied by a pixel_scale <a href="sdk-for-android-navigate-mapviewbase#getPixelScale()"><code>MapViewBase.getPixelScale()</code></a>
  before being rendered. The maneuver arrow width is additionally multiplied by a factor configurable with
@@ -1290,7 +1290,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  The width values should be positive. Dictionary entries with width values less than or equal to 0 are ignored.
  If route and maneuver arrows were not configured with this property,
  then <code>measureDependentWidth</code> contains predefined values chosen to be optimal for different route classes.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -1304,7 +1304,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMeasureDependentWidth</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; value)</span></div>
 <div class="block"><p>Sets the <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> dependent route and maneuver arrows width in pixels.
- </p><p>It is a dictionary that has keys that are <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a>s and values
+ It is a dictionary that has keys that are <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a>s and values
  that are width in pixels at this <a href="sdk-for-android-navigate-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a>s.
  This route and maneuver arrows width is multiplied by a pixel_scale <a href="sdk-for-android-navigate-mapviewbase#getPixelScale()"><code>MapViewBase.getPixelScale()</code></a>
  before being rendered. The maneuver arrow width is additionally multiplied by a factor configurable with
@@ -1320,7 +1320,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  The width values should be positive. Dictionary entries with width values less than or equal to 0 are ignored.
  If route and maneuver arrows were not configured with this property,
  then <code>measureDependentWidth</code> contains predefined values chosen to be optimal for different route classes.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -1334,7 +1334,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">getManeuverArrowWidthFactor</span>()</div>
 <div class="block"><p>Gets the factor that multiplies width of the maneuver arrow defined by
  <a href="sdk-for-android-navigate-com-here-sdk-navigation-visualnavigator#getMeasureDependentWidth()"><code>getMeasureDependentWidth()</code></a>. By default it is set to one.
- </p><p>The factor should be positive. A value less than or equal to 0 is ignored. By default it is set to one.</p></div>
+ The factor should be positive. A value less than or equal to 0 is ignored. By default it is set to one.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>A factor of <a href="sdk-for-android-navigate-com-here-sdk-navigation-visualnavigator#getMeasureDependentWidth()"><code>getMeasureDependentWidth()</code></a> defining the width of the maneuver arrow.</p></dd>
@@ -1347,7 +1347,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setManeuverArrowWidthFactor</span><wbr/><span class="parameters">(double value)</span></div>
 <div class="block"><p>Sets the factor that multiplies the width of the maneuver arrow defined by the
  <a href="sdk-for-android-navigate-com-here-sdk-navigation-visualnavigator#getMeasureDependentWidth()"><code>getMeasureDependentWidth()</code></a>.
- </p><p>The factor should be positive. A value less than or equal to 0 is ignored. By default it is set to one.</p></div>
+ The factor should be positive. A value less than or equal to 0 is ignored. By default it is set to one.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>A factor of <a href="sdk-for-android-navigate-com-here-sdk-navigation-visualnavigator#getMeasureDependentWidth()"><code>getMeasureDependentWidth()</code></a> defining the width of the maneuver arrow.</p></dd>
@@ -1359,7 +1359,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>isExtrapolationEnabled</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isExtrapolationEnabled</span>()</div>
 <div class="block"><p>Gets the current state of the position extrapolation logic.
- </p><p>The predicted location follows the geometry of the route (or road) ahead.
+ The predicted location follows the geometry of the route (or road) ahead.
  By default it is enabled.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -1372,7 +1372,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>setExtrapolationEnabled</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setExtrapolationEnabled</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets whether to enable or disable the position extrapolation logic. By default enabled.
- </p><p>The predicted location follows the geometry of the route (or road) ahead.
+ The predicted location follows the geometry of the route (or road) ahead.
  By default it is enabled.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -1386,7 +1386,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getDebugGpxFilePath</span>()</div>
 <div class="block"><p>Gets the path of the GPX file, is any available, currently being displayed on the map.
- </p><p><strong>Note:</strong> This API should be used for debugging purposes only.</p></div>
+ <strong>Note:</strong> This API should be used for debugging purposes only.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Show the contents of a GPX file on the map.</p></dd>
@@ -1400,7 +1400,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> value)</span></div>
 <div class="block"><p>Sets the path of a GPX file to be displayed on the map. Setting <code>null</code> removes it from
  the map.
- </p><p><strong>Note:</strong> This API should be used for debugging purposes only.</p></div>
+ <strong>Note:</strong> This API should be used for debugging purposes only.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Show the contents of a GPX file on the map.</p></dd>
@@ -1432,8 +1432,8 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 </ul>
 </li>
 </ul>
-</p><p>Fields between brackets ([]'s) are omitted if not available.
- </p><p>Example:
+Fields between brackets ([]'s) are omitted if not available.
+ Example:
  <pre>
  IN: 53.96880,14.77903 167° 8m/s
  RM: 53.96880,14.77903 167° (0.0m)
@@ -1447,7 +1447,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  RD: 2 345m 11:13:55
  FPS: 30.0
  </pre>
-</p><p><strong>Note:</strong> This API should be used for debugging purposes only.</p></div>
+<strong>Note:</strong> This API should be used for debugging purposes only.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>When enabled, it shows useful information for debugging purposes.</p></dd>
@@ -1479,8 +1479,8 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 </ul>
 </li>
 </ul>
-</p><p>Fields between brackets ([]'s) are omitted if not available.
- </p><p>Example:
+Fields between brackets ([]'s) are omitted if not available.
+ Example:
  <pre>
  IN: 53.96880,14.77903 167° 8m/s
  RM: 53.96880,14.77903 167° (0.0m)
@@ -1494,7 +1494,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  RD: 2 345m 11:13:55
  FPS: 30.0
  </pre>
-</p><p><strong>Note:</strong> This API should be used for debugging purposes only.</p></div>
+<strong>Note:</strong> This API should be used for debugging purposes only.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>When enabled, it shows useful information for debugging purposes.</p></dd>
@@ -1506,7 +1506,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>isLocationAccuracyVisualized</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isLocationAccuracyVisualized</span>()</div>
 <div class="block"><p>Gets a boolean indicating if the halo accuracy visualization of the default <a href="sdk-for-android-navigate-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a> is rendered or not.
- </p><p>Does not affect halo accuracy indicator of the <a href="sdk-for-android-navigate-com-here-sdk-navigation-visualnavigator#getCustomLocationIndicator()"><code>getCustomLocationIndicator()</code></a>.
+ Does not affect halo accuracy indicator of the <a href="sdk-for-android-navigate-com-here-sdk-navigation-visualnavigator#getCustomLocationIndicator()"><code>getCustomLocationIndicator()</code></a>.
  If <a href="sdk-for-android-navigate-com-here-sdk-navigation-visualnavigator#getCustomLocationIndicator()"><code>getCustomLocationIndicator()</code></a> is set, then its halo accuracy indicator can be controlled
  using <a href="sdk-for-android-navigate-locationindicator#isAccuracyVisualized()"><code>LocationIndicator.isAccuracyVisualized()</code></a>.</p></div>
 <dl class="notes">
@@ -1520,7 +1520,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>setLocationAccuracyVisualized</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setLocationAccuracyVisualized</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets the halo accuracy visualization of the default <a href="sdk-for-android-navigate-locationindicator" title="class in com.here.sdk.mapview"><code>LocationIndicator</code></a>.
- </p><p>Does not affect halo accuracy indicator of the <a href="sdk-for-android-navigate-com-here-sdk-navigation-visualnavigator#getCustomLocationIndicator()"><code>getCustomLocationIndicator()</code></a>.
+ Does not affect halo accuracy indicator of the <a href="sdk-for-android-navigate-com-here-sdk-navigation-visualnavigator#getCustomLocationIndicator()"><code>getCustomLocationIndicator()</code></a>.
  If <a href="sdk-for-android-navigate-com-here-sdk-navigation-visualnavigator#getCustomLocationIndicator()"><code>getCustomLocationIndicator()</code></a> is set, then its halo accuracy indicator can be controlled
  using <a href="sdk-for-android-navigate-locationindicator#isAccuracyVisualized()"><code>LocationIndicator.isAccuracyVisualized()</code></a>.</p></div>
 <dl class="notes">
@@ -1822,7 +1822,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a></span> <span class="element-name">getRoute</span>()</div>
 <div class="block"><p>Gets the route that is being navigated.
- </p><p>Gets and sets the route that is being navigated.
+ Gets and sets the route that is being navigated.
  If not set, only the current location information will be
  provided through <a href="sdk-for-android-navigate-navigablelocationlistener" title="interface in com.here.sdk.navigation"><code>NavigableLocationListener</code></a>.
  If set, both route progress (<a href="sdk-for-android-navigate-routeprogresslistener" title="interface in com.here.sdk.navigation"><code>RouteProgressListener</code></a>) and route deviation
@@ -1842,7 +1842,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRoute</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> value)</span></div>
 <div class="block"><p>Sets the route to navigate.
- </p><p>Gets and sets the route that is being navigated.
+ Gets and sets the route that is being navigated.
  If not set, only the current location information will be
  provided through <a href="sdk-for-android-navigate-navigablelocationlistener" title="interface in com.here.sdk.navigation"><code>NavigableLocationListener</code></a>.
  If set, both route progress (<a href="sdk-for-android-navigate-routeprogresslistener" title="interface in com.here.sdk.navigation"><code>RouteProgressListener</code></a>) and route deviation
@@ -1866,12 +1866,12 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>NavigatorInterface.trackingTransportSpecification</code> instead.</p></div>
 </div>
 <div class="block"><p>Gets the transport profile for the <a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>, when no route is present.
- </p><p>Properly setting the transport profile optimizes the navigation experience, and improves resource consumption.
+ Properly setting the transport profile optimizes the navigation experience, and improves resource consumption.
  For example, a <a href="sdk-for-android-navigate-transportprofile" title="class in com.here.sdk.core"><code>TransportProfile</code></a> can be defined with a <a href="sdk-for-android-navigate-vehicleprofile" title="class in com.here.sdk.transport"><code>VehicleProfile</code></a>.
  A vehicle profile can have several parameters such as <a href="sdk-for-android-navigate-vehicletype" title="enum class in com.here.sdk.transport"><code>VehicleType</code></a> to set the
  source of information describing the vehicle.
  The default is a <a href="sdk-for-android-navigate-vehicletype#CAR"><code>VehicleType.CAR</code></a> profile.
- </p><p>Currently used members of <a href="sdk-for-android-navigate-transportprofile" title="class in com.here.sdk.core"><code>TransportProfile</code></a>
+ Currently used members of <a href="sdk-for-android-navigate-transportprofile" title="class in com.here.sdk.core"><code>TransportProfile</code></a>
 <ul>
 <li><a href="sdk-for-android-navigate-vehicletype" title="enum class in com.here.sdk.transport"><code>VehicleType</code></a>: Sets the transport mode.</li>
 <li>From <code>vehicleProfile</code>:
@@ -1901,12 +1901,12 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>NavigatorInterface.trackingTransportSpecification</code> instead.</p></div>
 </div>
 <div class="block"><p>Sets the transport profile for the <a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>, when no route is present.
- </p><p>Properly setting the transport profile optimizes the navigation experience, and improves resource consumption.
+ Properly setting the transport profile optimizes the navigation experience, and improves resource consumption.
  For example, a <a href="sdk-for-android-navigate-transportprofile" title="class in com.here.sdk.core"><code>TransportProfile</code></a> can be defined with a <a href="sdk-for-android-navigate-vehicleprofile" title="class in com.here.sdk.transport"><code>VehicleProfile</code></a>.
  A vehicle profile can have several parameters such as <a href="sdk-for-android-navigate-vehicletype" title="enum class in com.here.sdk.transport"><code>VehicleType</code></a> to set the
  source of information describing the vehicle.
  The default is a <a href="sdk-for-android-navigate-vehicletype#CAR"><code>VehicleType.CAR</code></a> profile.
- </p><p>Currently used members of <a href="sdk-for-android-navigate-transportprofile" title="class in com.here.sdk.core"><code>TransportProfile</code></a>
+ Currently used members of <a href="sdk-for-android-navigate-transportprofile" title="class in com.here.sdk.core"><code>TransportProfile</code></a>
 <ul>
 <li><a href="sdk-for-android-navigate-vehicletype" title="enum class in com.here.sdk.transport"><code>VehicleType</code></a>: Sets the transport mode.</li>
 <li>From <code>vehicleProfile</code>:
@@ -1932,12 +1932,12 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">getTrackingTransportSpecification</span>()</div>
 <div class="block"><p>Gets the transport specification for the <a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>, when no route is present.
- </p><p>Properly setting the transport specification optimizes the navigation experience, and improves
+ Properly setting the transport specification optimizes the navigation experience, and improves
  resource consumption. An <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> must have the <a href="sdk-for-android-navigate-transportspecification#transportMode"><code>TransportSpecification.transportMode</code></a> set.
  A transport specification can have several parameters defined such as <a href="sdk-for-android-navigate-vehiclespecification#lengthInCentimeters"><code>VehicleSpecification.lengthInCentimeters</code></a>
  defined in <a href="sdk-for-android-navigate-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> to set the source of information describing the vehicle.
  By default the <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> will have the transport mode set to <a href="sdk-for-android-navigate-transportmode#CAR"><code>TransportMode.CAR</code></a>.
- </p><p>Currently used members of <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a>
+ Currently used members of <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a>
 <ul>
 <li><a href="sdk-for-android-navigate-transportspecification#transportMode"><code>TransportSpecification.transportMode</code></a>: Sets the transport mode.</li>
 <li>From <a href="sdk-for-android-navigate-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a>:
@@ -1963,12 +1963,12 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTrackingTransportSpecification</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a> value)</span></div>
 <div class="block"><p>Sets the transport specification for the <a href="sdk-for-android-navigate-navigator" title="class in com.here.sdk.navigation"><code>Navigator</code></a>, when no route is present.
- </p><p>Properly setting the transport specification optimizes the navigation experience, and improves
+ Properly setting the transport specification optimizes the navigation experience, and improves
  resource consumption. An <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> must have the <a href="sdk-for-android-navigate-transportspecification#transportMode"><code>TransportSpecification.transportMode</code></a> set.
  A transport specification can have several parameters defined such as <a href="sdk-for-android-navigate-vehiclespecification#lengthInCentimeters"><code>VehicleSpecification.lengthInCentimeters</code></a>
  defined in <a href="sdk-for-android-navigate-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> to set the source of information describing the vehicle.
  By default the <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> will have the transport mode set to <a href="sdk-for-android-navigate-transportmode#CAR"><code>TransportMode.CAR</code></a>.
- </p><p>Currently used members of <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a>
+ Currently used members of <a href="sdk-for-android-navigate-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a>
 <ul>
 <li><a href="sdk-for-android-navigate-transportspecification#transportMode"><code>TransportSpecification.transportMode</code></a>: Sets the transport mode.</li>
 <li>From <a href="sdk-for-android-navigate-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a>:
@@ -1994,7 +1994,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-navigablelocationlistener" title="interface in com.here.sdk.navigation">NavigableLocationListener</a></span> <span class="element-name">getNavigableLocationListener</span>()</div>
 <div class="block"><p>Gets the listener that notifies current location updates.
- </p><p>It returns <code>null</code> when no listener is set by an user.</p></div>
+ It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#getNavigableLocationListener()">getNavigableLocationListener</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -2009,7 +2009,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setNavigableLocationListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-navigablelocationlistener" title="interface in com.here.sdk.navigation">NavigableLocationListener</a> value)</span></div>
 <div class="block"><p>Sets the listener that notifies current location updates.
- </p><p>It returns <code>null</code> when no listener is set by an user.</p></div>
+ It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#setNavigableLocationListener(com.here.sdk.navigation.NavigableLocationListener)">setNavigableLocationListener</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -2024,7 +2024,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-routeprogresslistener" title="interface in com.here.sdk.navigation">RouteProgressListener</a></span> <span class="element-name">getRouteProgressListener</span>()</div>
 <div class="block"><p>Gets the listener that notifies when a route progress change occurs.
- </p><p>Route progress notifications only occurs if the route has been set.
+ Route progress notifications only occurs if the route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2041,7 +2041,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRouteProgressListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-routeprogresslistener" title="interface in com.here.sdk.navigation">RouteProgressListener</a> value)</span></div>
 <div class="block"><p>Sets the listener that notifies when a route progress change occurs.
- </p><p>Route progress notifications only occurs if the route has been set.
+ Route progress notifications only occurs if the route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2058,7 +2058,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-routedeviationlistener" title="interface in com.here.sdk.navigation">RouteDeviationListener</a></span> <span class="element-name">getRouteDeviationListener</span>()</div>
 <div class="block"><p>Gets the listener that notifies when deviation from the route is observed.
- </p><p>Route deviation notifications only occurs if a route has been set.
+ Route deviation notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2075,7 +2075,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRouteDeviationListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-routedeviationlistener" title="interface in com.here.sdk.navigation">RouteDeviationListener</a> value)</span></div>
 <div class="block"><p>Sets the listener that notifies when deviation from the route is observed.
- </p><p>Route deviation notifications only occurs if a route has been set.
+ Route deviation notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2092,7 +2092,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation">EventTextListener</a></span> <span class="element-name">getEventTextListener</span>()</div>
 <div class="block"><p>Gets the listener that notifies when a text notification is available.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.
  <strong>Note:</strong> In order to receive the text notification emitted for the traffic merge warner,
  when <code>TrafficMergeWarningOptions.enable_text_notification</code> has been enabled, the <code>sdk.navigation.EventTextListener</code> must be enabled as well.</p></div>
@@ -2110,7 +2110,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setEventTextListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-eventtextlistener" title="interface in com.here.sdk.navigation">EventTextListener</a> value)</span></div>
 <div class="block"><p>Sets the listener that notifies when a text notification is available.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.
  <strong>Note:</strong> In order to receive the text notification emitted for the traffic merge warner,
  when <code>TrafficMergeWarningOptions.enable_text_notification</code> has been enabled, the <code>sdk.navigation.EventTextListener</code> must be enabled as well.</p></div>
@@ -2128,7 +2128,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-milestonestatuslistener" title="interface in com.here.sdk.navigation">MilestoneStatusListener</a></span> <span class="element-name">getMilestoneStatusListener</span>()</div>
 <div class="block"><p>Gets the listener that notifies when a <a href="sdk-for-android-navigate-milestone" title="class in com.here.sdk.navigation"><code>Milestone</code></a> has been reached or missed.
- </p><p>It informs on all waypoints (passed or missed) that
+ It informs on all waypoints (passed or missed) that
  are of type <a href="sdk-for-android-navigate-milestonetype#STOPOVER"><code>MilestoneType.STOPOVER</code></a> but excludes the
  starting waypoint.
  Waypoints of type <a href="sdk-for-android-navigate-milestonetype#PASSTHROUGH"><code>MilestoneType.PASSTHROUGH</code></a> are excluded, by default,
@@ -2150,7 +2150,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMilestoneStatusListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-milestonestatuslistener" title="interface in com.here.sdk.navigation">MilestoneStatusListener</a> value)</span></div>
 <div class="block"><p>Sets the listener that notifies when a <a href="sdk-for-android-navigate-milestone" title="class in com.here.sdk.navigation"><code>Milestone</code></a> has been reached or missed.
- </p><p>It informs on all waypoints (passed or missed) that
+ It informs on all waypoints (passed or missed) that
  are of type <a href="sdk-for-android-navigate-milestonetype#STOPOVER"><code>MilestoneType.STOPOVER</code></a> but excludes the
  starting waypoint.
  Waypoints of type <a href="sdk-for-android-navigate-milestonetype#PASSTHROUGH"><code>MilestoneType.PASSTHROUGH</code></a> are excluded, by default,
@@ -2172,7 +2172,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-destinationreachedlistener" title="interface in com.here.sdk.navigation">DestinationReachedListener</a></span> <span class="element-name">getDestinationReachedListener</span>()</div>
 <div class="block"><p>Gets the listener that notify when the destination has been reached.
- </p><p>Destination reached notifications only occurs if a route has been set.
+ Destination reached notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2189,7 +2189,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDestinationReachedListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-destinationreachedlistener" title="interface in com.here.sdk.navigation">DestinationReachedListener</a> value)</span></div>
 <div class="block"><p>Sets the listener that notify when the destination has been reached.
- </p><p>Destination reached notifications only occurs if a route has been set.
+ Destination reached notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2207,7 +2207,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-speedwarninglistener" title="interface in com.here.sdk.navigation">SpeedWarningListener</a></span> <span class="element-name">getSpeedWarningListener</span>()</div>
 <div class="block"><p>Gets the listener to receive notifications
  when a speed limit on a road is exceeded or driving speed is restored back to normal.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2224,7 +2224,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  <a href="sdk-for-android-navigate-speedwarninglistener" title="interface in com.here.sdk.navigation">SpeedWarningListener</a> value)</span></div>
 <div class="block"><p>Sets the listener to receive notifications
  when a speed limit on a road is exceeded or driving speed is restored back to normal.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2240,7 +2240,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-maneuverviewlaneassistancelistener" title="interface in com.here.sdk.navigation">ManeuverViewLaneAssistanceListener</a></span> <span class="element-name">getManeuverViewLaneAssistanceListener</span>()</div>
 <div class="block"><p>Gets the listener  to receive maneuver view lane assistance notifications.
- </p><p>Maneuver view lane assistance notifications only occurs if a route has been set.
+ Maneuver view lane assistance notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2257,7 +2257,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setManeuverViewLaneAssistanceListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-maneuverviewlaneassistancelistener" title="interface in com.here.sdk.navigation">ManeuverViewLaneAssistanceListener</a> value)</span></div>
 <div class="block"><p>Sets the listener  to receive maneuver view lane assistance notifications.
- </p><p>Maneuver view lane assistance notifications only occurs if a route has been set.
+ Maneuver view lane assistance notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2274,7 +2274,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-currentsituationlaneassistanceviewlistener" title="interface in com.here.sdk.navigation">CurrentSituationLaneAssistanceViewListener</a></span> <span class="element-name">getCurrentSituationLaneAssistanceViewListener</span>()</div>
 <div class="block"><p>Gets the listener  to receive current situation lane assistance view notifications.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2290,7 +2290,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setCurrentSituationLaneAssistanceViewListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-currentsituationlaneassistanceviewlistener" title="interface in com.here.sdk.navigation">CurrentSituationLaneAssistanceViewListener</a> value)</span></div>
 <div class="block"><p>Sets the listener  to receive current situation lane assistance view notifications.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2306,7 +2306,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-environmentalzonewarninglistener" title="interface in com.here.sdk.navigation">EnvironmentalZoneWarningListener</a></span> <span class="element-name">getEnvironmentalZoneWarningListener</span>()</div>
 <div class="block"><p>Gets the listener to receive current environmental zones notifications.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2322,7 +2322,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setEnvironmentalZoneWarningListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-environmentalzonewarninglistener" title="interface in com.here.sdk.navigation">EnvironmentalZoneWarningListener</a> value)</span></div>
 <div class="block"><p>Sets the listener to receive current environmental zones notifications.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2338,7 +2338,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-junctionviewlaneassistancelistener" title="interface in com.here.sdk.navigation">JunctionViewLaneAssistanceListener</a></span> <span class="element-name">getJunctionViewLaneAssistanceListener</span>()</div>
 <div class="block"><p>Gets the listener  to receive junction view lane assistance notifications.
- </p><p>Junction view lane assistance notifications only occurs if a route has been set.
+ Junction view lane assistance notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2355,7 +2355,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setJunctionViewLaneAssistanceListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-junctionviewlaneassistancelistener" title="interface in com.here.sdk.navigation">JunctionViewLaneAssistanceListener</a> value)</span></div>
 <div class="block"><p>Sets the listener  to receive junction view lane assistance notifications.
- </p><p>Junction view lane assistance notifications only occurs if a route has been set.
+ Junction view lane assistance notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2372,7 +2372,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-safetycamerawarninglistener" title="interface in com.here.sdk.navigation">SafetyCameraWarningListener</a></span> <span class="element-name">getSafetyCameraWarningListener</span>()</div>
 <div class="block"><p>Gets the listener  to receive safety camera warning notifications.
- </p><p>If a listener  is present, notifications about
+ If a listener  is present, notifications about
  safety speed cameras will be also sent via <a href="sdk-for-android-navigate-safetycamerawarninglistener" title="interface in com.here.sdk.navigation"><code>SafetyCameraWarningListener</code></a>.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
@@ -2390,7 +2390,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSafetyCameraWarningListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-safetycamerawarninglistener" title="interface in com.here.sdk.navigation">SafetyCameraWarningListener</a> value)</span></div>
 <div class="block"><p>Sets the listener  to receive safety camera warning notifications.
- </p><p>If a listener  is present, notifications about
+ If a listener  is present, notifications about
  safety speed cameras will be also sent via <a href="sdk-for-android-navigate-safetycamerawarninglistener" title="interface in com.here.sdk.navigation"><code>SafetyCameraWarningListener</code></a>.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
@@ -2408,7 +2408,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-safetycamerawarningoptions" title="class in com.here.sdk.navigation">SafetyCameraWarningOptions</a></span> <span class="element-name">getSafetyCameraWarningOptions</span>()</div>
 <div class="block"><p>Gets safety camera warning options to be passed to <a href="sdk-for-android-navigate-safetycamerawarninglistener" title="interface in com.here.sdk.navigation"><code>SafetyCameraWarningListener</code></a>.
- </p><p>These options allow the enabling or disabling the text notification for the warner.</p></div>
+ These options allow the enabling or disabling the text notification for the warner.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#getSafetyCameraWarningOptions()">getSafetyCameraWarningOptions</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -2423,7 +2423,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSafetyCameraWarningOptions</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-safetycamerawarningoptions" title="class in com.here.sdk.navigation">SafetyCameraWarningOptions</a> value)</span></div>
 <div class="block"><p>Sets safety camera warning options to be passed to <a href="sdk-for-android-navigate-safetycamerawarninglistener" title="interface in com.here.sdk.navigation"><code>SafetyCameraWarningListener</code></a>.
- </p><p>These options allow the enabling or disabling the text notification for the warner.</p></div>
+ These options allow the enabling or disabling the text notification for the warner.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#setSafetyCameraWarningOptions(com.here.sdk.navigation.SafetyCameraWarningOptions)">setSafetyCameraWarningOptions</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -2438,7 +2438,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-dangerzonewarninglistener" title="interface in com.here.sdk.navigation">DangerZoneWarningListener</a></span> <span class="element-name">getDangerZoneWarningListener</span>()</div>
 <div class="block"><p>Gets the listener to receive current danger zones notifications.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2454,7 +2454,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDangerZoneWarningListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-dangerzonewarninglistener" title="interface in com.here.sdk.navigation">DangerZoneWarningListener</a> value)</span></div>
 <div class="block"><p>Sets the listener to receive current danger zones notifications.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2471,7 +2471,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-truckrestrictionswarninglistener" title="interface in com.here.sdk.navigation">TruckRestrictionsWarningListener</a></span> <span class="element-name">getTruckRestrictionsWarningListener</span>()</div>
 <div class="block"><p>Gets the listener  to receive notifications about
  truck restrictions on the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2488,7 +2488,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  <a href="sdk-for-android-navigate-truckrestrictionswarninglistener" title="interface in com.here.sdk.navigation">TruckRestrictionsWarningListener</a> value)</span></div>
 <div class="block"><p>Sets the listener  to receive notifications about
  truck restrictions on the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2504,7 +2504,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-warnerengine" title="class in com.here.sdk.warner">WarnerEngine</a></span> <span class="element-name">getWarnerEngine</span>()</div>
 <div class="block"><p>Gets the warner engine used by the navigator.
- </p><p>This engine can be used to configure navigation warnings.</p></div>
+ This engine can be used to configure navigation warnings.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#getWarnerEngine()">getWarnerEngine</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -2549,7 +2549,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-postactionlistener" title="interface in com.here.sdk.navigation">PostActionListener</a></span> <span class="element-name">getPostActionListener</span>()</div>
 <div class="block"><p>Gets the listener  to receive post action notifications, such as a charge action at a charging station.
- </p><p>Post actions notifications only occurs if a route has been set.
+ Post actions notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2566,7 +2566,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPostActionListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-postactionlistener" title="interface in com.here.sdk.navigation">PostActionListener</a> value)</span></div>
 <div class="block"><p>Sets the listener  to receive post action notifications, such as a charge action at a charging station.
- </p><p>Post actions notifications only occurs if a route has been set.
+ Post actions notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2583,7 +2583,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-speedlimitlistener" title="interface in com.here.sdk.navigation">SpeedLimitListener</a></span> <span class="element-name">getSpeedLimitListener</span>()</div>
 <div class="block"><p>Gets the listener  to receive notifications about the speed limit of the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2599,7 +2599,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSpeedLimitListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-speedlimitlistener" title="interface in com.here.sdk.navigation">SpeedLimitListener</a> value)</span></div>
 <div class="block"><p>Sets the listener  to receive notifications about the speed limit of the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2615,7 +2615,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-roadtextslistener" title="interface in com.here.sdk.navigation">RoadTextsListener</a></span> <span class="element-name">getRoadTextsListener</span>()</div>
 <div class="block"><p>Gets the listener  to receive notifications about the textual attributes of the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2631,7 +2631,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRoadTextsListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-roadtextslistener" title="interface in com.here.sdk.navigation">RoadTextsListener</a> value)</span></div>
 <div class="block"><p>Sets the listener  to receive notifications about the textual attributes of the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2647,7 +2647,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-roadattributeslistener" title="interface in com.here.sdk.navigation">RoadAttributesListener</a></span> <span class="element-name">getRoadAttributesListener</span>()</div>
 <div class="block"><p>Gets the listener  to receive notifications about attributes of the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2663,7 +2663,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRoadAttributesListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-roadattributeslistener" title="interface in com.here.sdk.navigation">RoadAttributesListener</a> value)</span></div>
 <div class="block"><p>Sets the listener  to receive notifications about attributes of the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2679,7 +2679,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-roadsignwarninglistener" title="interface in com.here.sdk.navigation">RoadSignWarningListener</a></span> <span class="element-name">getRoadSignWarningListener</span>()</div>
 <div class="block"><p>Gets the listener to receive notifications about road signs on the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2702,7 +2702,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  used and the <code>RoadSignWarning.type</code> should be checked for value <code>RoadSignType.SCHOOL_ZONE</code>.
  The school zone warner is a zone warner, which means that for a school zone there will <em>always</em> be
  3 warnings emitted, with the <code>SchoolZoneWarning.distance_type</code> set to <code>DistanceType.AHEAD</code>, <code>DistanceType.REACHED</code>
-</p><p>Setting <code>null</code> value to the listener will unset the listener.
+Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2746,7 +2746,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-schoolzonewarninglistener" title="interface in com.here.sdk.navigation">SchoolZoneWarningListener</a></span> <span class="element-name">getSchoolZoneWarningListener</span>()</div>
 <div class="block"><p>Gets the listener to receive notifications about school zones on the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  school zones on the current road.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2763,7 +2763,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSchoolZoneWarningListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-schoolzonewarninglistener" title="interface in com.here.sdk.navigation">SchoolZoneWarningListener</a> value)</span></div>
 <div class="block"><p>Sets the listener to receive notifications about school zones on the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  school zones on the current road.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2781,7 +2781,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-schoolzonewarningoptions" title="class in com.here.sdk.navigation">SchoolZoneWarningOptions</a></span> <span class="element-name">getSchoolZoneWarningOptions</span>()</div>
 <div class="block"><p>Gets school zone warning options that allow to configure school zone notifications to be
  passed to <a href="sdk-for-android-navigate-schoolzonewarninglistener" title="interface in com.here.sdk.navigation"><code>SchoolZoneWarningListener</code></a>.
- </p><p>It allow to configure school zone notifications to be passed to
+ It allow to configure school zone notifications to be passed to
  <a href="sdk-for-android-navigate-schoolzonewarninglistener" title="interface in com.here.sdk.navigation"><code>SchoolZoneWarningListener</code></a>.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2798,7 +2798,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  <a href="sdk-for-android-navigate-schoolzonewarningoptions" title="class in com.here.sdk.navigation">SchoolZoneWarningOptions</a> value)</span></div>
 <div class="block"><p>Sets school zone warning options that allow to configure school zone notifications to be
  passed to <a href="sdk-for-android-navigate-schoolzonewarninglistener" title="interface in com.here.sdk.navigation"><code>SchoolZoneWarningListener</code></a>.
- </p><p>It allow to configure school zone notifications to be passed to
+ It allow to configure school zone notifications to be passed to
  <a href="sdk-for-android-navigate-schoolzonewarninglistener" title="interface in com.here.sdk.navigation"><code>SchoolZoneWarningListener</code></a>.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -2814,7 +2814,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation">RealisticViewWarningListener</a></span> <span class="element-name">getRealisticViewWarningListener</span>()</div>
 <div class="block"><p>Gets the listener to receive notifications about junction views on the current road.
- </p><p>Setting <code>null</code> value to the listener will unset
+ Setting <code>null</code> value to the listener will unset
  the listener.
  This feature requires a map version greater or equal to 67 in order to function properly.
  It returns <code>null</code> when no listener is set by an user.</p></div>
@@ -2832,7 +2832,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRealisticViewWarningListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation">RealisticViewWarningListener</a> value)</span></div>
 <div class="block"><p>Sets the listener to receive notifications about junction views on the current road.
- </p><p>Setting <code>null</code> value to the listener will unset
+ Setting <code>null</code> value to the listener will unset
  the listener.
  This feature requires a map version greater or equal to 67 in order to function properly.
  It returns <code>null</code> when no listener is set by an user.</p></div>
@@ -2851,7 +2851,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-realisticviewwarningoptions" title="class in com.here.sdk.navigation">RealisticViewWarningOptions</a></span> <span class="element-name">getRealisticViewWarningOptions</span>()</div>
 <div class="block"><p>Gets realistic view warning options that allow to filter realistic views to be passed to
  <a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation"><code>RealisticViewWarningListener</code></a>.
- </p><p>It allow to filter realistic views to be passed to <a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation"><code>RealisticViewWarningListener</code></a>.
+ It allow to filter realistic views to be passed to <a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation"><code>RealisticViewWarningListener</code></a>.
  <ul>
 <li>This feature requires a map version greater or equal to 67 in order to function properly.</li>
 </ul></p></div>
@@ -2870,7 +2870,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  <a href="sdk-for-android-navigate-realisticviewwarningoptions" title="class in com.here.sdk.navigation">RealisticViewWarningOptions</a> value)</span></div>
 <div class="block"><p>Sets realistic view warning options that allow to filter realistic views to be passed to
  <a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation"><code>RealisticViewWarningListener</code></a>.
- </p><p>It allow to filter realistic views to be passed to <a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation"><code>RealisticViewWarningListener</code></a>.
+ It allow to filter realistic views to be passed to <a href="sdk-for-android-navigate-realisticviewwarninglistener" title="interface in com.here.sdk.navigation"><code>RealisticViewWarningListener</code></a>.
  <ul>
 <li>This feature requires a map version greater or equal to 67 in order to function properly.</li>
 </ul></p></div>
@@ -2888,7 +2888,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-bordercrossingwarninglistener" title="interface in com.here.sdk.navigation">BorderCrossingWarningListener</a></span> <span class="element-name">getBorderCrossingWarningListener</span>()</div>
 <div class="block"><p>Gets the listener to receive notifications about border crossings on the current road.
- </p><p>Border crossing notifications are given only if a route is present.
+ Border crossing notifications are given only if a route is present.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2905,7 +2905,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setBorderCrossingWarningListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-bordercrossingwarninglistener" title="interface in com.here.sdk.navigation">BorderCrossingWarningListener</a> value)</span></div>
 <div class="block"><p>Sets the listener to receive notifications about border crossings on the current road.
- </p><p>Border crossing notifications are given only if a route is present.
+ Border crossing notifications are given only if a route is present.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -2922,7 +2922,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-bordercrossingwarningoptions" title="class in com.here.sdk.navigation">BorderCrossingWarningOptions</a></span> <span class="element-name">getBorderCrossingWarningOptions</span>()</div>
 <div class="block"><p>Gets border crossing warning options to be passed to <a href="sdk-for-android-navigate-bordercrossingwarninglistener" title="interface in com.here.sdk.navigation"><code>BorderCrossingWarningListener</code></a>.
- </p><p>allow the filtering of the border crossing warnings received and set the notification distances.</p></div>
+ allow the filtering of the border crossing warnings received and set the notification distances.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#getBorderCrossingWarningOptions()">getBorderCrossingWarningOptions</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -2937,7 +2937,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setBorderCrossingWarningOptions</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-bordercrossingwarningoptions" title="class in com.here.sdk.navigation">BorderCrossingWarningOptions</a> value)</span></div>
 <div class="block"><p>Sets border crossing warning options to be passed to <a href="sdk-for-android-navigate-bordercrossingwarninglistener" title="interface in com.here.sdk.navigation"><code>BorderCrossingWarningListener</code></a>.
- </p><p>allow the filtering of the border crossing warnings received and set the notification distances.</p></div>
+ allow the filtering of the border crossing warnings received and set the notification distances.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#setBorderCrossingWarningOptions(com.here.sdk.navigation.BorderCrossingWarningOptions)">setBorderCrossingWarningOptions</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -2953,7 +2953,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-tollstopwarninglistener" title="interface in com.here.sdk.navigation">TollStopWarningListener</a></span> <span class="element-name">getTollStopWarningListener</span>()</div>
 <div class="block"><p>Gets the listener to receive notifications about
  the the upcoming toll stop.
- </p><p>Setting <code>null</code> value to the listener will unset
+ Setting <code>null</code> value to the listener will unset
  the listener.
  This is a <strong>beta release</strong> of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
@@ -2972,7 +2972,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  <a href="sdk-for-android-navigate-tollstopwarninglistener" title="interface in com.here.sdk.navigation">TollStopWarningListener</a> value)</span></div>
 <div class="block"><p>Sets the listener to receive notifications about
  the upcoming toll stop.
- </p><p>Setting <code>null</code> value to the listener will unset
+ Setting <code>null</code> value to the listener will unset
  the listener.
  This is a <strong>beta release</strong> of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
@@ -2990,7 +2990,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-railwaycrossingwarninglistener" title="interface in com.here.sdk.navigation">RailwayCrossingWarningListener</a></span> <span class="element-name">getRailwayCrossingWarningListener</span>()</div>
 <div class="block"><p>Gets the listener to receive notifications about railway crossings on the current road.
- </p><p>Railway crossing notifications are given regardless if a route is set.
+ Railway crossing notifications are given regardless if a route is set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -3007,7 +3007,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setRailwayCrossingWarningListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-railwaycrossingwarninglistener" title="interface in com.here.sdk.navigation">RailwayCrossingWarningListener</a> value)</span></div>
 <div class="block"><p>Sets the listener to receive notifications about railway crossings on the current road.
- </p><p>Railway crossing notifications are given regardless if a route is set.
+ Railway crossing notifications are given regardless if a route is set.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
@@ -3024,7 +3024,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-lowspeedzonewarninglistener" title="interface in com.here.sdk.navigation">LowSpeedZoneWarningListener</a></span> <span class="element-name">getLowSpeedZoneWarningListener</span>()</div>
 <div class="block"><p>Gets the listener to receive notifications about low speed zones on the current road.
- </p><p>Low speed zone notifications are given regardless if a route is set. This listener is currently
+ Low speed zone notifications are given regardless if a route is set. This listener is currently
  available <em>only</em> for Japan.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
@@ -3042,7 +3042,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setLowSpeedZoneWarningListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-lowspeedzonewarninglistener" title="interface in com.here.sdk.navigation">LowSpeedZoneWarningListener</a> value)</span></div>
 <div class="block"><p>Sets the listener to receive notifications about low speed zones on the current road.
- </p><p>Low speed zone notifications are given regardless if a route is set. This listener is currently
+ Low speed zone notifications are given regardless if a route is set. This listener is currently
  available <em>only</em> for Japan.
  Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
@@ -3061,7 +3061,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-trafficmergewarninglistener" title="interface in com.here.sdk.navigation">TrafficMergeWarningListener</a></span> <span class="element-name">getTrafficMergeWarningListener</span>()</div>
 <div class="block"><p>Gets the listener to receive notifications about
  merging traffic to the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -3078,7 +3078,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
  <a href="sdk-for-android-navigate-trafficmergewarninglistener" title="interface in com.here.sdk.navigation">TrafficMergeWarningListener</a> value)</span></div>
 <div class="block"><p>Sets the listener to receive notifications about
  merging traffic to the current road.
- </p><p>Setting <code>null</code> value to the listener will unset the listener.
+ Setting <code>null</code> value to the listener will unset the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -3126,7 +3126,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-offroaddestinationreachedlistener" title="interface in com.here.sdk.navigation">OffRoadDestinationReachedListener</a></span> <span class="element-name">getOffRoadDestinationReachedListener</span>()</div>
 <div class="block"><p>Gets the listener that notifies when the off-road destination has been reached.
- </p><p>Off-road destination reached notifications only occurs if a route has been set.
+ Off-road destination reached notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset
  the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
@@ -3144,7 +3144,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOffRoadDestinationReachedListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-offroaddestinationreachedlistener" title="interface in com.here.sdk.navigation">OffRoadDestinationReachedListener</a> value)</span></div>
 <div class="block"><p>Sets the listener that notifies when the off-road destination has been reached.
- </p><p>Off-road destination reached notifications only occurs if a route has been set.
+ Off-road destination reached notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset
  the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
@@ -3162,7 +3162,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-offroadprogresslistener" title="interface in com.here.sdk.navigation">OffRoadProgressListener</a></span> <span class="element-name">getOffRoadProgressListener</span>()</div>
 <div class="block"><p>Gets the listener that notifies about off-road progress.
- </p><p>Off-road progress notifications only occurs if a route has been set.
+ Off-road progress notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset
  the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
@@ -3180,7 +3180,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOffRoadProgressListener</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-offroadprogresslistener" title="interface in com.here.sdk.navigation">OffRoadProgressListener</a> value)</span></div>
 <div class="block"><p>Sets the listener that notifies about off-road progress.
- </p><p>Off-road progress notifications only occurs if a route has been set.
+ Off-road progress notifications only occurs if a route has been set.
  Setting <code>null</code> value to the listener will unset
  the listener.
  It returns <code>null</code> when no listener is set by an user.</p></div>
@@ -3198,7 +3198,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-maneuvernotificationoptions" title="class in com.here.sdk.navigation">ManeuverNotificationOptions</a></span> <span class="element-name">getManeuverNotificationOptions</span>()</div>
 <div class="block"><p>Gets the maneuver notification options.
- </p><p>Notifications are only available if a route is present.</p></div>
+ Notifications are only available if a route is present.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#getManeuverNotificationOptions()">getManeuverNotificationOptions</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -3213,7 +3213,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setManeuverNotificationOptions</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-maneuvernotificationoptions" title="class in com.here.sdk.navigation">ManeuverNotificationOptions</a> value)</span></div>
 <div class="block"><p>Sets the maneuver notification options.
- </p><p>Notifications are only available if a route is present.</p></div>
+ Notifications are only available if a route is present.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#setManeuverNotificationOptions(com.here.sdk.navigation.ManeuverNotificationOptions)">setManeuverNotificationOptions</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -3228,7 +3228,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-eventtextoptions" title="class in com.here.sdk.navigation">EventTextOptions</a></span> <span class="element-name">getEventTextOptions</span>()</div>
 <div class="block"><p>Gets the text notification options.
- </p><p>Notifications are only available if a route is present.</p></div>
+ Notifications are only available if a route is present.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#getEventTextOptions()">getEventTextOptions</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -3243,7 +3243,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setEventTextOptions</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-eventtextoptions" title="class in com.here.sdk.navigation">EventTextOptions</a> value)</span></div>
 <div class="block"><p>Sets the text notification options.
- </p><p>Notifications are only available if a route is present.</p></div>
+ Notifications are only available if a route is present.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#setEventTextOptions(com.here.sdk.navigation.EventTextOptions)">setEventTextOptions</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -3285,7 +3285,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>isEnableTunnelExtrapolation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isEnableTunnelExtrapolation</span>()</div>
 <div class="block"><p>Return <code>true</code> if tunnel extrapolation is enabled otherwise <code>false</code>.
- </p><p>By default the tunnel extrapolation is enabled.</p></div>
+ By default the tunnel extrapolation is enabled.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#isEnableTunnelExtrapolation()">isEnableTunnelExtrapolation</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -3299,7 +3299,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>setEnableTunnelExtrapolation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setEnableTunnelExtrapolation</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Set to <code>true</code> to enable tunnel extrapolation, set to <code>false</code> to disable tunnel extrapolation.
- </p><p>By default the tunnel extrapolation is enabled.</p></div>
+ By default the tunnel extrapolation is enabled.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#setEnableTunnelExtrapolation(boolean)">setEnableTunnelExtrapolation</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -3313,7 +3313,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>isPassthroughWaypointsHandlingEnabled</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isPassthroughWaypointsHandlingEnabled</span>()</div>
 <div class="block"><p>Return <code>true</code> if handling of passthrough waypoints is enabled, otherwise - <code>false</code>.
- </p><p>By default the handling of passthrough waypoints is disabled.</p></div>
+ By default the handling of passthrough waypoints is disabled.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#isPassthroughWaypointsHandlingEnabled()">isPassthroughWaypointsHandlingEnabled</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -3327,7 +3327,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <h3>setPassthroughWaypointsHandlingEnabled</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPassthroughWaypointsHandlingEnabled</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Set to <code>true</code> enables handling of passthrough waypoints, set to <code>false</code> disables handling of passthrough waypoints.
- </p><p>By default the handling of passthrough waypoints is disabled.</p></div>
+ By default the handling of passthrough waypoints is disabled.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-navigatorinterface#setPassthroughWaypointsHandlingEnabled(boolean)">setPassthroughWaypointsHandlingEnabled</a></code> in interface <code><a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation">NavigatorInterface</a></code></dd>
@@ -3342,7 +3342,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-trafficonroute" title="class in com.here.sdk.routing">TrafficOnRoute</a></span> <span class="element-name">getTrafficOnRoute</span>()</div>
 <div class="block"><p>Gets the traffic information for the current route.
- </p><p>This impacts <code>RouteProgress</code> updates as the duration of the <code>SectionProgress</code> might change.
+ This impacts <code>RouteProgress</code> updates as the duration of the <code>SectionProgress</code> might change.
  However, the remaining distance and the route geometry will remain unchanged.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -3358,7 +3358,7 @@ implements <a href="sdk-for-android-navigate-navigatorinterface" title="interfac
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTrafficOnRoute</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-trafficonroute" title="class in com.here.sdk.routing">TrafficOnRoute</a> value)</span></div>
 <div class="block"><p>Sets the traffic information for the current route.
- </p><p>This impacts <code>RouteProgress</code> updates as the duration of the <code>SectionProgress</code> might change.
+ This impacts <code>RouteProgress</code> updates as the duration of the <code>SectionProgress</code> might change.
  However, the remaining distance and the route geometry will remain unchanged.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>

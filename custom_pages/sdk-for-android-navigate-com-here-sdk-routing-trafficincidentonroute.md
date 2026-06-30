@@ -103,7 +103,7 @@ implements <a href="sdk-for-android-navigate-trafficincidentbase" title="interfa
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getId</span>()</div>
 <div class="block"><p>Gets the unique current identifier for a traffic incident.
- </p><p>The identifier can be changed by the backend due to some events, e.g. changing of
+ The identifier can be changed by the backend due to some events, e.g. changing of
  <a href="sdk-for-android-navigate-trafficincidentbase#getEndTime()"><code>TrafficIncidentBase.getEndTime()</code></a>. This field will be empty for <code>OfflineRouting</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -117,7 +117,7 @@ implements <a href="sdk-for-android-navigate-trafficincidentbase" title="interfa
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-trafficincidentimpact" title="enum class in com.here.sdk.traffic">TrafficIncidentImpact</a></span> <span class="element-name">getImpact</span>()</div>
 <div class="block"><p>Gets the impact of the incident.
- </p><p>The value is <a href="sdk-for-android-navigate-trafficincidentimpact#UNKNOWN"><code>TrafficIncidentImpact.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <a href="sdk-for-android-navigate-trafficincidentimpact#UNKNOWN"><code>TrafficIncidentImpact.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-trafficincidentbase#getImpact()">getImpact</a></code> in interface <code><a href="sdk-for-android-navigate-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
@@ -132,7 +132,7 @@ implements <a href="sdk-for-android-navigate-trafficincidentbase" title="interfa
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-trafficincidenttype" title="enum class in com.here.sdk.traffic">TrafficIncidentType</a></span> <span class="element-name">getType</span>()</div>
 <div class="block"><p>Gets the category of the incident.
- </p><p>The value is <a href="sdk-for-android-navigate-trafficincidenttype#UNKNOWN"><code>TrafficIncidentType.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <a href="sdk-for-android-navigate-trafficincidenttype#UNKNOWN"><code>TrafficIncidentType.UNKNOWN</code></a> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-trafficincidentbase#getType()">getType</a></code> in interface <code><a href="sdk-for-android-navigate-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
@@ -147,7 +147,7 @@ implements <a href="sdk-for-android-navigate-trafficincidentbase" title="interfa
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">getDescription</span>()</div>
 <div class="block"><p>Gets the human readable description of the incident, possibly with location information.
- </p><p>The description is currently not present in our map data. Therefore, when
+ The description is currently not present in our map data. Therefore, when
  accessing the data from a picked carto POI via <code>TrafficIncidentResult</code>, then
  always an empty string is returned. This does not apply when using the <code>TrafficEngine</code>.</p></div>
 <dl class="notes">
@@ -164,7 +164,7 @@ implements <a href="sdk-for-android-navigate-trafficincidentbase" title="interfa
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()</div>
 <div class="block"><p>Gets the time from which the incident is valid, before this time the incident should not be considered.
- </p><p>The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-trafficincidentbase#getStartTime()">getStartTime</a></code> in interface <code><a href="sdk-for-android-navigate-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>
@@ -179,7 +179,7 @@ implements <a href="sdk-for-android-navigate-trafficincidentbase" title="interfa
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()</div>
 <div class="block"><p>Get the time until which the incident is valid, after this time the incident should not be considered.
- </p><p>The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
+ The value is <code>null</code> if it hasn't been provided by the traffic incidents supplier.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-trafficincidentbase#getEndTime()">getEndTime</a></code> in interface <code><a href="sdk-for-android-navigate-trafficincidentbase" title="interface in com.here.sdk.traffic">TrafficIncidentBase</a></code></dd>

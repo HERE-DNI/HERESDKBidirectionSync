@@ -167,15 +167,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewbase"
 </span><span class="return-type"><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">viewToGeoCoordinates</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</span></div>
 <div class="block"><p>Converts view coordinates (in pixels) to geographical coordinates.
- </p><p>An optional altitude component of the resulting geographical coordinate is not set.
- </p><p>If the view coordinates specify a point above a horizon, then the result
+ An optional altitude component of the resulting geographical coordinate is not set.
+ If the view coordinates specify a point above a horizon, then the result
  is geographical coordinates of the point on a horizon below the specified
  view coordinates.
- </p><p>The fog effect is ignored for the calculation, meaning that for the view point
+ The fog effect is ignored for the calculation, meaning that for the view point
  within the area covered by the fog, the result is geographical coordinates
  that would be displayed at the specified point if the fog effect was
  not applied.
- </p><p>If the render surface is not attached, it will return <code>null</code>.</p></div>
+ If the render surface is not attached, it will return <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>viewCoordinates</code> - <p>Point inside the view to convert.</p></dd>
@@ -191,12 +191,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewbase"
 </span><span class="return-type"><a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">geoToViewCoordinates</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
 <div class="block"><p>Converts geographical coordinates to view coordinates (in pixels).
- </p><p>If specified, altitude of the input coordinates is interpreted as altitude above sea level.
+ If specified, altitude of the input coordinates is interpreted as altitude above sea level.
  If not specified, the input coordinates are interpreted as being on ground elevation.
  The above distinction is only relevant when 3D terrain feature is enabled.
- </p><p>The resulting view coordinates might be outside of current viewport, i.e. result might contain values
+ The resulting view coordinates might be outside of current viewport, i.e. result might contain values
  less than zero or greater than view's dimensions.
- </p><p>If the render surface is not attached, it will return <code>null</code>.</p></div>
+ If the render surface is not attached, it will return <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>geoCoordinates</code> - <p>Geographical coordinates to convert.</p></dd>
@@ -214,7 +214,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewbase"
  @NonNull
  <a href="sdk-for-android-navigate-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</span></div>
 <div class="block"><p>Sets the position of the HERE logo watermark within the map view.
- </p><p>By default, the watermark is aligned to the bottom-right corner of the view:
+ By default, the watermark is aligned to the bottom-right corner of the view:
  Anchor2D(1.0, 1.0) and Point2D(-watermarkSize.width / 2, -watermarkSize.height / 2).
  It is recommended to change the default position only if necessary to avoid overlapping UI elements.
  The watermark should always be fully visible within the view.
@@ -296,7 +296,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewbase"
 <h3>isValid</h3>
 <div class="member-signature"><span class="return-type">boolean</span> <span class="element-name">isValid</span>()</div>
 <div class="block"><p>Returns <code>true</code> if this instance is valid, <code>false</code> otherwise. It will be made
- </p><p>It will be made invalid when the corresponding <code>SDKNativeEngine</code> is destroyed.</p></div>
+ It will be made invalid when the corresponding <code>SDKNativeEngine</code> is destroyed.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Indicates whether this instance is valid.</p></dd>
@@ -369,7 +369,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewbase"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="return-type"><a href="sdk-for-android-navigate-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getViewportSize</span>()</div>
 <div class="block"><p>Gets the size of this map view in physical pixels.
- </p><p>If internally the map view's render surface is not attached yet
+ If internally the map view's render surface is not attached yet
  (see: <a href="sdk-for-android-navigate-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a>), or after the map view has been destroyed
  then a <code>Size2D</code> with zero width and height is returned.</p></div>
 <dl class="notes">
@@ -406,17 +406,17 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapviewbase"
 <h3>getPixelScale</h3>
 <div class="member-signature"><span class="return-type">double</span> <span class="element-name">getPixelScale</span>()</div>
 <div class="block"><p>Gets the pixel scale factor used by this <code>MapView</code>.
- </p><p>It is used to support screen resolution and size independence.
+ It is used to support screen resolution and size independence.
  This value is a derivative of the device's screen pixel density and is a direct analog of
- </p><p>pixel density from DisplayMetrics.
- </p><p>It can be used to translate between physical pixels and
- </p><p>density-independent pixels
- </p><p>according to the formula:
- </p><p>dp = px / pixelScale.</p></div>
+ pixel density from DisplayMetrics.
+ It can be used to translate between physical pixels and
+ density-independent pixels
+ according to the formula:
+ dp = px / pixelScale.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The pixel scale factor used by this <code>MapView</code>.
-     </p><p>Pixel scale is 0.0 if the map view is not initialized.</p></dd>
+     Pixel scale is 0.0 if the map view is not initialized.</p></dd>
 </dl>
 </section>
 </li>

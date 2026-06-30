@@ -159,7 +159,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitsectiondetails"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-fare" title="class in com.here.sdk.routing">Fare</a>&gt;</span> <span class="element-name">fares</span></div>
 <div class="block"><p>List of tickets to pay for this section of the route.
- </p><p><strong>Note:</strong> Currently, fare information is not supported and the list will be always empty.</p></div>
+ <strong>Note:</strong> Currently, fare information is not supported and the list will be always empty.</p></div>
 </section>
 </li>
 <li>

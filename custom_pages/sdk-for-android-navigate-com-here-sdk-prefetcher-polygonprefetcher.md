@@ -127,8 +127,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-polygonprefetcher"
  If there is not enough space left in the cache to store needed tiles, operation will
  fail with <a href="sdk-for-android-navigate-maploadererror#NOT_ENOUGH_SPACE"><code>MapLoaderError.NOT_ENOUGH_SPACE</code></a>. To increase cache size, use
  <a href="sdk-for-android-navigate-sdkoptions#cacheSizeInBytes"><code>SDKOptions.cacheSizeInBytes</code></a> API.
- </p><p>To control list of map content features for area prefetch, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.
- </p><p>To prefetch map data within user-defined circular area around a given location:
+ To control list of map content features for area prefetch, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.
+ To prefetch map data within user-defined circular area around a given location:
  <ol>
 <li>Create a GeoCircle using the given location and radius.</li>
 <li>Create a GeoPolygon using the GeoCircle.</li>

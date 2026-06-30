@@ -31,8 +31,8 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficdataprovider"
 <div class="block"><p>This interface provides traffic information from
  radio signals to other HERE SDK modules.
  For now, only the <code>OfflineRoutingEngine</code> is supported.
- </p><p>For more information, take a look at the <code>TrafficBroadcast</code> class, if available for your license.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ For more information, take a look at the <code>TrafficBroadcast</code> class, if available for your license.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

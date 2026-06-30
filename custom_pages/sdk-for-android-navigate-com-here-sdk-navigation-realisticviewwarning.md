@@ -32,7 +32,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning"
  will be provided with the junction view and the signpost representations. For <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning#distanceType"><code>distanceType</code></a>
  with value <a href="sdk-for-android-navigate-distancetype#PASSED"><code>DistanceType.PASSED</code></a>, the <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning#realisticViewVectorImage"><code>realisticViewVectorImage</code></a> object will be null.
  Use <code>RealisticViewWarningListener</code> to get notifications about the realistic views of the upcoming junctions.
- </p><p>Realistic view notifications require an online connection in order to function properly, or that the
+ Realistic view notifications require an online connection in order to function properly, or that the
  junction or signpost map layer data is cached, installed or preloaded as part of a <code>Region</code>.
  This can be enabled via feature configurations.</p></div>
 </section>
@@ -150,7 +150,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning"
  Image resources are stored as vector graphics.
  Within <a href="sdk-for-android-navigate-realisticviewwarning" title="class in com.here.sdk.navigation"><code>RealisticViewWarning</code></a>, only one type of image, either raster or vector, will be provided.
  If this property is not <code>null</code>, then <a href="sdk-for-android-navigate-com-here-sdk-navigation-realisticviewwarning#realisticViewRasterImage"><code>realisticViewRasterImage</code></a> will be <code>null</code>.
- </p><p><strong>Note:</strong> The realistic views for most of the countries are stored as vector images.</p></div>
+ <strong>Note:</strong> The realistic views for most of the countries are stored as vector images.</p></div>
 </section>
 </li>
 <li>

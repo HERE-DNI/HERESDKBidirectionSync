@@ -128,7 +128,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle"
  @NonNull
  <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</span></div>
 <div class="block"><p>Creates a cluster marker image style using a map image with anchor.
- </p><p>The anchor is a way of specifying position offset relative to image's dimensions on the
+ The anchor is a way of specifying position offset relative to image's dimensions on the
  screen. For example, (0, 0) places the top-left corner of the image at the cluster's
  position. (1, 1) would place the bottom-right corner of the image at the cluster's
  position.</p></div>

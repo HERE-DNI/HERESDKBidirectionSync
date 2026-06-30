@@ -33,11 +33,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
  search, routing, and other features without an active data connection.
  Users can query available regions, download them to disk, or delete them.
  An instance of this class can be created using <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)"><code>fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapDownloaderConstructionCallback)</code></a>.
- </p><p>The storage path for downloaded maps can be specified via <a href="sdk-for-android-navigate-sdkoptions#persistentMapStoragePath"><code>SDKOptions.persistentMapStoragePath</code></a>.
- </p><p>To control the type of content included in a map download, use <code>LayerConfiguration</code>.
+ The storage path for downloaded maps can be specified via <a href="sdk-for-android-navigate-sdkoptions#persistentMapStoragePath"><code>SDKOptions.persistentMapStoragePath</code></a>.
+ To control the type of content included in a map download, use <code>LayerConfiguration</code>.
  Once applied, it affects both the map cache and offline maps.
  Satellite-based map schemes are not included in the downloaded region data.
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  During turn-by-turn navigation,
  while a map download or update is in progress, navigation may not function as expected,
  and the app may be blocked until the operation is completed.
@@ -184,7 +184,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
  <a href="sdk-for-android-navigate-downloadableregionscallback" title="interface in com.here.sdk.maploader">DownloadableRegionsCallback</a> callback)</span></div>
 <div class="block"><p>Performs an asynchronous request to fetch a list of <a href="sdk-for-android-navigate-region" title="class in com.here.sdk.maploader"><code>Region</code></a> objects
  for downloading map data in a separate request.
- </p><p>The default language for <a href="sdk-for-android-navigate-region#name"><code>Region.name</code></a> is <a href="sdk-for-android-navigate-languagecode#EN_US"><code>LanguageCode.EN_US</code></a>.</p></div>
+ The default language for <a href="sdk-for-android-navigate-region#name"><code>Region.name</code></a> is <a href="sdk-for-android-navigate-languagecode#EN_US"><code>LanguageCode.EN_US</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>callback</code> - <p>Callback which receives the result on the main thread.</p></dd>
@@ -226,21 +226,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
  <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called.
  The returned <a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> can be used to pause or resume the download
  using <code>MapDownloaderTask.pause(boolean)</code> or <a href="sdk-for-android-navigate-mapdownloadertask#resume()"><code>MapDownloaderTask.resume()</code></a>.
- </p><p>To cancel the request, call <a href="sdk-for-android-navigate-mapdownloadertask#cancel()"><code>MapDownloaderTask.cancel()</code></a> on the returned
+ To cancel the request, call <a href="sdk-for-android-navigate-mapdownloadertask#cancel()"><code>MapDownloaderTask.cancel()</code></a> on the returned
  <a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> object. After cancellation,
  <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called
  with the error <a href="sdk-for-android-navigate-maploadererror#OPERATION_CANCELLED"><code>MapLoaderError.OPERATION_CANCELLED</code></a>.
- </p><p><a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> remains operational until <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called.
- </p><p>To get list of downloadable regions use <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getDownloadableRegions(com.here.sdk.core.LanguageCode,com.here.sdk.maploader.DownloadableRegionsCallback)"><code>getDownloadableRegions(LanguageCode, DownloadableRegionsCallback)</code></a> API.
- </p><p>Simultaneous downloads of the same region are not supported.
+ <a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> remains operational until <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called.
+ To get list of downloadable regions use <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getDownloadableRegions(com.here.sdk.core.LanguageCode,com.here.sdk.maploader.DownloadableRegionsCallback)"><code>getDownloadableRegions(LanguageCode, DownloadableRegionsCallback)</code></a> API.
+ Simultaneous downloads of the same region are not supported.
  If this occurs, <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a>
  is called with <a href="sdk-for-android-navigate-maploadererror#SERVICE_ACCESS_FAILED"><code>MapLoaderError.SERVICE_ACCESS_FAILED</code></a> for the new request,
  while the previous one continues uninterrupted.
- </p><p>If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then after
+ If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then after
  the requested regions have been downloaded, the corresponding index will be created.
  The index is used by <code>OfflineSearchEngine</code> to find better results.
  Note: Indexing is a beta feature, so there could be a few bugs and unexpected behaviors.
- </p><p>To control list of map content features for region download, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.
+ To control list of map content features for region download, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.
  <br/>
  Note: If an application is forcefully closed or crashes during a map download operation, then this
  method can be called again to resume the download. For example, if a download was interrupted at 60%,
@@ -271,16 +271,16 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
  <code>MapDownloaderTask.pause(boolean)</code> or <a href="sdk-for-android-navigate-mapdownloadertask#resume()"><code>MapDownloaderTask.resume()</code></a>.
  Request can be cancelled by calling <a href="sdk-for-android-navigate-mapdownloadertask#cancel()"><code>MapDownloaderTask.cancel()</code></a> on returned <a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> object, afterwards
  <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called with error <a href="sdk-for-android-navigate-maploadererror#OPERATION_CANCELLED"><code>MapLoaderError.OPERATION_CANCELLED</code></a>.
- </p><p><a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> remains operational until <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called.
- </p><p>Downloaded area will be associated to a unique id that will be reported via <a href="sdk-for-android-navigate-downloadregionsstatuslistener" title="interface in com.here.sdk.maploader"><code>DownloadRegionsStatusListener</code></a>.
- </p><p>Simultaneous download of the same region twice is not supported. When such condition occurs then
+ <a href="sdk-for-android-navigate-mapdownloadertask" title="class in com.here.sdk.maploader"><code>MapDownloaderTask</code></a> remains operational until <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called.
+ Downloaded area will be associated to a unique id that will be reported via <a href="sdk-for-android-navigate-downloadregionsstatuslistener" title="interface in com.here.sdk.maploader"><code>DownloadRegionsStatusListener</code></a>.
+ Simultaneous download of the same region twice is not supported. When such condition occurs then
  <a href="sdk-for-android-navigate-downloadregionsstatuslistener#onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError,java.util.List)"><code>DownloadRegionsStatusListener.onDownloadRegionsComplete(com.here.sdk.maploader.MapLoaderError, java.util.List&lt;com.here.sdk.maploader.RegionId&gt;)</code></a> is called with error <a href="sdk-for-android-navigate-maploadererror#SERVICE_ACCESS_FAILED"><code>MapLoaderError.SERVICE_ACCESS_FAILED</code></a>
  for a new request, while previous one continues uninterrupted.
- </p><p>If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then after
+ If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then after
  the requested regions have been downloaded, the corresponding index will be created.
  The index is used by <code>OfflineSearchEngine</code> to find better results.
  Note: Indexing is a beta feature, so there could be a few bugs and unexpected behaviors.
- </p><p>To control list of map content features for area download, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.
+ To control list of map content features for area download, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.
  <br/>
  Note: If an application is forcefully closed or crashes during a map download operation, then this
  method can be called again to resume the download. For example, if a download was interrupted at 60%,
@@ -311,7 +311,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
  Note: Deleting a region when there is a pending download returns error
  <a href="sdk-for-android-navigate-maploadererror#INTERNAL_ERROR"><code>MapLoaderError.INTERNAL_ERROR</code></a>. Also, deleting a region when there is an ongoing download returns
  error <a href="sdk-for-android-navigate-maploadererror#PARALLEL_REQUEST"><code>MapLoaderError.PARALLEL_REQUEST</code></a>.
- </p><p>If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then after
+ If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then after
  the requested regions have been deleted, the index over remaining regions will be rebuilt,
  so that entries related to deleted regions are removed.
  The index is used by <code>OfflineSearchEngine</code> to find better results.
@@ -330,7 +330,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
  <a href="sdk-for-android-navigate-sdkcachecallback" title="interface in com.here.sdk.maploader">SDKCacheCallback</a> callback)</span></div>
 <div class="block"><p>Performs an asynchronous operation to clear the persistent map storage from all data. All downloaded regions will be removed.
  Note: Must be called only when no other region operation is ongoing. Returns an error if there is any active operation.
- </p><p>Any previously built index will also be deleted.
+ Any previously built index will also be deleted.
  See <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#downloadRegions(java.util.List,com.here.sdk.maploader.DownloadRegionsStatusListener)"><code>downloadRegions(java.util.List&lt;com.here.sdk.maploader.RegionId&gt;, com.here.sdk.maploader.DownloadRegionsStatusListener)</code></a> to learn more about index.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -387,7 +387,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">repairPersistentMap</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-repairpersistentmapcallback" title="interface in com.here.sdk.maploader">RepairPersistentMapCallback</a> callback)</span></div>
 <div class="block"><p>Tries to repair already downloaded regions that are in a corrupted state (see <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader#getInitialPersistentMapStatus()"><code>getInitialPersistentMapStatus()</code></a>).
- </p><p>If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then index will be
+ If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, then index will be
  rebuilt if existing index does not match with the installed map regions after this operation.
  The index is used by <code>OfflineSearchEngine</code> to find better results.
  Note: Indexing is a beta feature, so there could be a few bugs and unexpected behaviors.</p></div>
@@ -452,7 +452,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <h3>getTaskCount</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">getTaskCount</span>()</div>
 <div class="block"><p>Gets the number of concurrent tasks for downloading a map.
- </p><p>A valid task count is between 1 to 64. When the value set is outside the valid range,
+ A valid task count is between 1 to 64. When the value set is outside the valid range,
  then it is clamped to a valid range:
  <ul>
 <li>when passed in value is 0 or less, then task count is set to 1;</li>
@@ -469,7 +469,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloader"
 <h3>setTaskCount</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTaskCount</span><wbr/><span class="parameters">(long value)</span></div>
 <div class="block"><p>Sets the number of concurrent tasks for downloading a map.
- </p><p>A valid task count is between 1 to 64. When the value set is outside the valid range,
+ A valid task count is between 1 to 64. When the value set is outside the valid range,
  then it is clamped to a valid range:
  <ul>
 <li>when passed in value is 0 or less, then task count is set to 1;</li>

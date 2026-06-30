@@ -33,7 +33,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-tunnelcategory"
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">TunnelCategory</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a>&gt;</span></div>
 <div class="block"><p>Specifies the tunnel categories.
- </p><p>Tunnels are categorized from B (low risk, few restrictions) to E (high risk)
+ Tunnels are categorized from B (low risk, few restrictions) to E (high risk)
  based on their safety features and the potential danger posed by the goods
  transported through them.</p></div>
 </section>

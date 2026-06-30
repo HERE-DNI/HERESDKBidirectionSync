@@ -36,18 +36,18 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
 <div class="block"><p>The OfflineSearchEngine works without internet and unlocks the search and geocoding
  capabilities of HERE services to provide developers with unmatched flexibility
  to create differentiating location-enabled applications.
- </p><p>It provides the same interfaces as the SearchEngine, but the results may slightly
+ It provides the same interfaces as the SearchEngine, but the results may slightly
  differ as the results are taken from already downloaded map data instead of initiating
  a new request to a HERE backend service. This way the data may be, for example, older
  compared to the data you may receive when using the SearchEngine. On the other hand,
  this class provides results faster as no online connection is necessary.
- </p><p>In comparison to the SearchEngine, there are a few limitations:
+ In comparison to the SearchEngine, there are a few limitations:
  <ul>
 <li>The IDs of POIs are different and may differ among different map versions.</li>
 <li>The implementation is different and the resources are limited, so the results can differ.</li>
 <li>OfflineSearchEngine sometimes doesn't return the requested number of results.</li>
 </ul>
-</p><p>Note: You can search only within persistent map data (downloaded via MapDownloader) or existing cached data.
+Note: You can search only within persistent map data (downloaded via MapDownloader) or existing cached data.
  However, cached data may be incomplete, which can result in searches returning partial or incomplete information.
  Therefore, it is recommended to use persistent map data.
  Make sure that at least <a href="sdk-for-android-navigate-layerconfiguration.feature#OFFLINE_SEARCH"><code>LayerConfiguration.Feature.OFFLINE_SEARCH</code></a> is enabled.
@@ -259,7 +259,7 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
  <a href="sdk-for-android-navigate-structuredquery#areaCenter"><code>StructuredQuery.areaCenter</code></a>, <a href="sdk-for-android-navigate-structuredquery.addresselements#country"><code>StructuredQuery.AddressElements.country</code></a> as <code>Germany</code>,
  <a href="sdk-for-android-navigate-structuredquery.addresselements#city"><code>StructuredQuery.AddressElements.city</code></a> as <code>Berlin</code> and <a href="sdk-for-android-navigate-structuredquery.resulttype" title="enum class in com.here.sdk.search"><code>StructuredQuery.ResultType</code></a> as <code>STREET</code>.
  The results will be presented only from the given geographical area.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -288,7 +288,7 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
  <a href="sdk-for-android-navigate-structuredquery#areaCenter"><code>StructuredQuery.areaCenter</code></a>, <a href="sdk-for-android-navigate-structuredquery.addresselements#country"><code>StructuredQuery.AddressElements.country</code></a> as <code>Germany</code>,
  <a href="sdk-for-android-navigate-structuredquery.addresselements#city"><code>StructuredQuery.AddressElements.city</code></a> as <code>Berlin</code> and <a href="sdk-for-android-navigate-structuredquery.resulttype" title="enum class in com.here.sdk.search"><code>StructuredQuery.ResultType</code></a> as <code>STREET</code>.
  The suggestions will be presented only from the given geographical area.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -320,7 +320,7 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
  Also please note that this is a heavy processing task.
  The stored index increases the space taken by offline maps by around 2-5%.
  This may also improve in future versions.
- </p><p>Indexing is disabled by default.
+ Indexing is disabled by default.
  If you want it enabled, make sure to call setIndexOptions with <code>OfflineSearchIndex.Options.enabled</code> as <code>true</code> before
  any operations in <code>MapDownloader</code> or <code>MapUpdater</code> that modify the persistent map.
  Calling setIndexOptions may also create or remove map index to match the previously
@@ -331,7 +331,7 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
  If <code>SDKNativeEngine</code> is disposed during indexing (for example, by closing the app),
  the indexing is cancelled. Recreating <code>SDKNativeEngine</code> and enabling indexing will
  ensure that index is created.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -520,7 +520,7 @@ implements <a href="sdk-for-android-navigate-searchinterface" title="interface i
  <a href="sdk-for-android-navigate-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a> callback)</span></div>
 <div class="block"><p>Performs an asynchronous request to suggest places for text queries and
  returns suggestions sorted by relevance.
- </p><p>Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
+ Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
  <code>SearchEngine</code> includes only the information that is relevant for autosuggest use cases.
  Complete details can be obtained by searching with <a href="sdk-for-android-navigate-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
 <dl class="notes">

@@ -27,11 +27,11 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">EmpiricalConsumptionModel</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>This model defines a data-driven energy consumption model for electric vehicles.
- </p><p>It estimates the electrical energy required to traverse a route by combining empirically derived vehicle
+ It estimates the electrical energy required to traverse a route by combining empirically derived vehicle
  parameters with route characteristics such as distance, elevation changes, and driving speed. Rather than
  relying on a full physical simulation, this model uses observed consumption behavior to produce realistic
  and efficient energy estimates suitable for routing, range prediction, and navigation use cases.
- </p><p>Parameters specific to the electric vehicle are used to calculate energy consumption on a given route.
+ Parameters specific to the electric vehicle are used to calculate energy consumption on a given route.
  At minimum, you must provide <a href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#ascentConsumptionInWattHoursPerMeter"><code>ascentConsumptionInWattHoursPerMeter</code></a>,
  <a href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#descentRecoveryInWattHoursPerMeter"><code>descentRecoveryInWattHoursPerMeter</code></a> and a
  <a href="sdk-for-android-explore-com-here-sdk-routing-empiricalconsumptionmodel#freeFlowSpeedTable"><code>freeFlowSpeedTable</code></a>.

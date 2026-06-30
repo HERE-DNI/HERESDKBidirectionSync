@@ -37,18 +37,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mappolyline-solidmulticolor
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapPolyline.SolidMultiColorRepresentation</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a></span></div>
 <div class="block"><p>Representation allows map polyline to be colored in multiple specified color segments.
- </p><p>Color segment is defined by color stops. Color stop is specified as a polyline
+ Color segment is defined by color stops. Color stop is specified as a polyline
  length ratio (0.0 - start of the polyline, 1.0 - end of the polyline).
  Color stop represents a color change starting at that exact point up until
  either the next color stop (if one exists) or the end of the polyline.
- </p><p>Progress color <code>MapPolyline.progressColor</code> overrides any of the multiple color.
- </p><p>Examples:
+ Progress color <code>MapPolyline.progressColor</code> overrides any of the multiple color.
+ Examples:
  The following configuration will color map polyline as follows:
  - from the start to the middle of it at the 0.5 point - in Red
  - from the middle point 0.5 to the 0.7 point - in Green
  - from 0.7 to 1.0 - in Red
  'colorStops: {0.0, 0.5, 0.7}, colorIndices: {0, 1, 0}, colors: {Red, Green}'
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -149,23 +149,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mappolyline-solidmulticolor
  double gradientLength)</span>
                               throws <span class="exceptions"><a href="sdk-for-android-navigate-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a representation for a multicolored line without an outline.
- </p><p>Color segment is defined by color stops. Color stop is specified as a polyline
+ Color segment is defined by color stops. Color stop is specified as a polyline
  length ratio (0.0 - start of the polyline, 1.0 - end of the polyline).
  Color stop represents a color change starting at that exact point up until
  either the next color stop (if one exists) or the end of the polyline.
- </p><p>Progress color <code>MapPolyline.progressColor</code> overrides any of the multiple color.
- </p><p>At map measures smaller than smallest map measure in the <code>lineWidth</code>
+ Progress color <code>MapPolyline.progressColor</code> overrides any of the multiple color.
+ At map measures smaller than smallest map measure in the <code>lineWidth</code>
  line width is constant and equal to the width given for the smallest
  map measure in the <code>lineWidth</code>.
- </p><p>At map measures bigger than biggest map measure in the <code>lineWidth</code>
+ At map measures bigger than biggest map measure in the <code>lineWidth</code>
  line width is constant and equal to the width given for the biggest
  map measure in the <code>lineWidth</code>.
- </p><p>At map measures between two nearest given map measures line width is
+ At map measures between two nearest given map measures line width is
  linearly interpolated between width values given for these map measures.
- </p><p>For <a href="sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-navigate-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
- </p><p>For <a href="sdk-for-android-navigate-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-navigate-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
- </p><p><code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ For <a href="sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-navigate-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
+ For <a href="sdk-for-android-navigate-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-navigate-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
+ <code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -185,14 +185,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mappolyline-solidmulticolor
      Maximum size is 16 colors.
      An empty list is not allowed.</p></dd>
 <dd><code>gradientLength</code> - <p>Multiple color segment gradient length.
-     </p><p>Colors of two adjacent color segments can be blended to have a nicer visual appeal. Blending produces color
+     Colors of two adjacent color segments can be blended to have a nicer visual appeal. Blending produces color
      gradient of specific length which is part of the color segment being blended.
-     </p><p>Start of the segment is blended with a color from the previous segment.
+     Start of the segment is blended with a color from the previous segment.
      Blending length is specified as a ratio of the smallest color segment length (from the list of color stops).
      E.g. a value of '0.1' means 10% of the length of the smallest segment will be blended with a color from its previous segment.
      For this smallest segment gradient length is applied as-is, for all other segments it is scaled proportionally based on the
      smallest segment's size to other segment size ratio.
-     </p><p>Length of '0.0' is the default value which means blending will not be applied.
+     Length of '0.0' is the default value which means blending will not be applied.
      Valid value range is [0.0, 1.0]. Out of range values are not supported.</p></dd>
 <dt>Throws:</dt>
 <dd><code><a href="sdk-for-android-navigate-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
@@ -219,24 +219,24 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mappolyline-solidmulticolor
  double gradientLength)</span>
                               throws <span class="exceptions"><a href="sdk-for-android-navigate-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a representation for a multicolored line with an outline.
- </p><p>Color segment is defined by color stops. Color stop is specified as a polyline
+ Color segment is defined by color stops. Color stop is specified as a polyline
  length ratio (0.0 - start of the polyline, 1.0 - end of the polyline).
  Color stop represents a color change starting at that exact point up until
  either the next color stop (if one exists) or the end of the polyline.
- </p><p>Progress color <code>MapPolyline.progressColor</code> overrides any of the multiple color.
- </p><p>The total width of the polyline is <code>line width + 2 * outline width</code>.
- </p><p>At map measures smaller than smallest map measure in the <code>lineWidth</code>
+ Progress color <code>MapPolyline.progressColor</code> overrides any of the multiple color.
+ The total width of the polyline is <code>line width + 2 * outline width</code>.
+ At map measures smaller than smallest map measure in the <code>lineWidth</code>
  and <code>outlineWidth</code>, the value is constant and equal to the width given for
  the smallest map measure in the <code>lineWidth</code> and <code>outlineWidth</code>.
- </p><p>At map measures bigger than biggest map measure in the <code>lineWidth</code>
+ At map measures bigger than biggest map measure in the <code>lineWidth</code>
  and <code>outlineWidth</code>, the value is constant and equal to the width given for
  the biggest map measure in the <code>lineWidth</code> and <code>outlineWidth</code>.
- </p><p>At map measures between two nearest given map measure is
+ At map measures between two nearest given map measure is
  linearly interpolated between width values given for these map measures.
- </p><p>For <a href="sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-navigate-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
- </p><p>For <a href="sdk-for-android-navigate-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-navigate-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
- </p><p><code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ For <a href="sdk-for-android-navigate-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-navigate-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
+ For <a href="sdk-for-android-navigate-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-navigate-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
+ <code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -258,14 +258,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mappolyline-solidmulticolor
      Maximum size is 16 colors.
      An empty list is not allowed.</p></dd>
 <dd><code>gradientLength</code> - <p>Multiple color segment gradient length.
-     </p><p>Colors of two adjacent color segments can be blended to have a nicer visual appeal. Blending produces color
+     Colors of two adjacent color segments can be blended to have a nicer visual appeal. Blending produces color
      gradient of specific length which is part of the color segment being blended.
-     </p><p>Start of the segment is blended with a color from the previous segment.
+     Start of the segment is blended with a color from the previous segment.
      Blending length is specified as a ratio of the smallest color segment length (from the list of color stops).
      E.g. a value of '0.1' means 10% of the length of the smallest segment will be blended with a color from its previous segment.
      For this smallest segment gradient length is applied as-is, for all other segments it is scaled proportionally based on the
      smallest segment's size to other segment size ratio.
-     </p><p>Length of '0.0' is the default value which means blending will not be applied.
+     Length of '0.0' is the default value which means blending will not be applied.
      Valid value range is [0.0, 1.0]. Out of range values are not supported.</p></dd>
 <dt>Throws:</dt>
 <dd><code><a href="sdk-for-android-navigate-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
@@ -292,7 +292,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mappolyline-solidmulticolor
 <div class="block"><p>Sets lists of colors and multiple color segment stops for the polyline to be colored in.
  When this representation is already set on any <code>MapPolyline</code>, values will be applied on that <code>MapPolyline</code> right away.
  If this representation is not set on any <code>MapPolyline</code>, values will be applied once representation is set on a <code>MapPolyline</code>.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -319,18 +319,18 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mappolyline-solidmulticolor
 <h3>setMultiColorGradientLength</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">setMultiColorGradientLength</span><wbr/><span class="parameters">(double length)</span></div>
 <div class="block"><p>Sets the multiple color segment gradient length.
- </p><p>Colors of two adjacent color segments can be blended to have a nicer visual appeal. Blending produces color
+ Colors of two adjacent color segments can be blended to have a nicer visual appeal. Blending produces color
  gradient of specific length which is part of the color segment being blended.
- </p><p>Start of the segment is blended with a color from the previous segment.
+ Start of the segment is blended with a color from the previous segment.
  Blending length is specified as a ratio of the smallest color segment length (from the list of color stops).
  E.g. a value of '0.1' means 10% of the length of the smallest segment will be blended with a color from its previous segment.
  For this smallest segment gradient length is applied as-is, for all other segments it is scaled proportionally based on the
  smallest segment's size to other segment size ratio.
- </p><p>Length of '0.0' is the default value which means blending will not be applied.
+ Length of '0.0' is the default value which means blending will not be applied.
  Valid value range is [0.0, 1.0]. Out of range values are not supported.
  When this representation is already set on any <code>MapPolyline</code>, value will be applied on that <code>MapPolyline</code> right away.
  If this representation is not set on any <code>MapPolyline</code>, value will be applied once representation is set on a <code>MapPolyline</code>.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

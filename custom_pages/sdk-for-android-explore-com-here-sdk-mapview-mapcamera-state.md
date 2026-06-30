@@ -108,7 +108,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">targetCoordinates</span></div>
 <div class="block"><p>Camera's 'LookAt' target position in geodetic space.
- </p><p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
+ Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 </section>
 </li>
@@ -155,7 +155,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-state"
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>targetCoordinates</code> - <p>Camera's 'LookAt' target position in geodetic space.
- </p><p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
+ Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></dd>
 <dd><code>orientationAtTarget</code> - <p>Camera's orientation at target point.</p></dd>
 <dd><code>distanceToTargetInMeters</code> - <p>Distance from the camera to the target point in meters.</p></dd>

@@ -106,9 +106,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-currentsituationlaneassi
  The lanes are sorted from left to right: The lane at index 0 represents the leftmost lane and
  the last index represents the rightmost lane. This is valid for right-hand and left-hand driving
  countries. Empty list means unavailability of lane data for the current location.
- </p><p>The left to right order is in the travel direction.
+ The left to right order is in the travel direction.
  Only the lanes for the current driving direction are included.
- </p><p><strong>Note:</strong> Lanes going in opposite direction are not included in the list.</p></div>
+ <strong>Note:</strong> Lanes going in opposite direction are not included in the list.</p></div>
 </section>
 </li>
 </ul>

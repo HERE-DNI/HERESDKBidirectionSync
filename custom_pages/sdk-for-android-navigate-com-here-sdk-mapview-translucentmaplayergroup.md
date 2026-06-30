@@ -36,7 +36,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup"
  instance destruction and any layer (categories) still in the group are not rendered anymore,
  therefore it is recommended to keep a group alive as long as layers using the group are alive and
  in use.
- </p><p>Conceptual example to place line layers into a translucent group:
+ Conceptual example to place line layers into a translucent group:
  <pre><code>// Create a translucent group with a unique name and a render priority
   MapLayerPriority groupPriority = new MapLayerPriorityBuilder().renderedLast().build();
   TranslucentMapLayerGroup group = new TranslucentMapLayerGroup("TranslucentGroupName", map, groupPriority)
@@ -73,7 +73,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup"
       .withStyle(secondTranslucentLineStyle) // E.g. "technique": "line" ... "color": "#FFFFFF80"
       .build();
   </code></pre>
-</p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior.
+Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -204,7 +204,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup"
      <a href="sdk-for-android-navigate-maplayerprioritybuilder#withCategory(java.lang.String)"><code>MapLayerPriorityBuilder.withCategory(java.lang.String)</code></a> should not be used when building the
      <a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a>.
      Example:
-     </p><p><code>new MapLayerPriorityBuilder().renderedAfterLayer(&amp;quot;water&amp;quot;).build()</code></p></dd>
+     <code>new MapLayerPriorityBuilder().renderedAfterLayer(&amp;quot;water&amp;quot;).build()</code></p></dd>
 <dt>Throws:</dt>
 <dd><code><a href="sdk-for-android-navigate-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
 </dl>
@@ -232,7 +232,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-translucentmaplayergroup"
      <a href="sdk-for-android-navigate-maplayerprioritybuilder#withCategory(java.lang.String)"><code>MapLayerPriorityBuilder.withCategory(java.lang.String)</code></a> should not be used when building the
      <a href="sdk-for-android-navigate-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a>.
      Example:
-     </p><p><code>new MapLayerPriorityBuilder().renderedAfterLayer(&amp;quot;water&amp;quot;).build()</code></p></dd>
+     <code>new MapLayerPriorityBuilder().renderedAfterLayer(&amp;quot;water&amp;quot;).build()</code></p></dd>
 </dl>
 </section>
 </li>

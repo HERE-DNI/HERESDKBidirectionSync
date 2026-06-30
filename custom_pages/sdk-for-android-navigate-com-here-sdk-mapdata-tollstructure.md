@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-tollstructure"
 <div class="block"><p>A class that defines tolling configuration for a lane.
  It describes which types of toll structures apply and the acceptable payment methods.
  This information can be used to guide drivers through toll roads based on their preferences or vehicle capabilities.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

@@ -153,7 +153,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher"
  If <code>null</code> is passed as the radius, a default value of 2 km is used.
  It is recommended to call this method once before starting navigation
  to ensure a smooth experience.
- </p><p>To control list of map content features for area prefetch, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.</p></div>
+ To control list of map content features for area prefetch, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>currentLocation</code> - <p>The center of the circle to prefetch data within.</p></dd>
@@ -176,7 +176,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher"
  This method should be called right after navigation has started.
  In case of default prefetch length first prefetching will start after traveling a distance
  of 9 km along the route.
- </p><p>To control list of map content features for prefetch, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.</p></div>
+ To control list of map content features for prefetch, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>navigator</code> - <p>The <a href="sdk-for-android-navigate-navigatorinterface" title="interface in com.here.sdk.navigation"><code>NavigatorInterface</code></a> to listen for Route Progress to prefetch data ahead.</p></dd>
@@ -205,7 +205,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher"
  prefetched tiles <a href="sdk-for-android-navigate-maploadererror#NOT_ENOUGH_SPACE"><code>MapLoaderError.NOT_ENOUGH_SPACE</code></a> is returned.
  When updating mutable cache, all tiles will be unusable. Please re-download the geoCorridor again.
  Please also note, any route calculation may not possible on prefetched tiles.
- </p><p>To control list of map content features for corridor prefetch, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.</p></div>
+ To control list of map content features for corridor prefetch, use <a href="sdk-for-android-navigate-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>corridor</code> - <p>indicates <code>GeoCorridor</code> that can be constructed from the route.</p></dd>
@@ -222,7 +222,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher"
 <h3>getPrefetchCorridorLengthMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getPrefetchCorridorLengthMeters</span>()</div>
 <div class="block"><p>Gets the length of the corridor along the route in front of the car which will be used to prefetch data.
- </p><p>Upper limit for length is 50000 meters, when the requested length is greater than upper limit, then 50000 meters set.
+ Upper limit for length is 50000 meters, when the requested length is greater than upper limit, then 50000 meters set.
  Lower limit for length is 1000 meters, when the requested length is less than lower limit, then 1000 meters set.
  The route corridor has a default length of 10 km and a width of 5 km.</p></div>
 <dl class="notes">
@@ -236,7 +236,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-prefetcher-routeprefetcher"
 <h3>setPrefetchCorridorLengthMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPrefetchCorridorLengthMeters</span><wbr/><span class="parameters">(int value)</span></div>
 <div class="block"><p>Sets the length of the corridor along the route in front of the car which will be used to prefetch data.
- </p><p>Upper limit for length is 50000 meters, when the requested length is greater than upper limit, then 50000 meters set.
+ Upper limit for length is 50000 meters, when the requested length is greater than upper limit, then 50000 meters set.
  Lower limit for length is 1000 meters, when the requested length is less than lower limit, then 1000 meters set.
  The route corridor has a default length of 10 km and a width of 5 km.</p></div>
 <dl class="notes">

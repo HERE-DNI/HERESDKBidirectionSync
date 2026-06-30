@@ -32,7 +32,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-polylinesimplifier"
  in the polyline by removing redundant elements using
  Douglas–Peucker algorithm, so that result stays
  within <a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.
- </p><p>Typical use case is to perform input preparation step
+ Typical use case is to perform input preparation step
  before invoking computationally heavy API. Such API
  have an upper limit on the input collection size
  and is subject to reduced performance when collection

@@ -105,7 +105,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-gpxtrack"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getName</span>()</div>
 <div class="block"><p>Gets the value of the name of the element in the trkType. If nothing was set before, defaults to an empty string.
- </p><p>Can be overridden by the user. If nothing was set before, defaults to an empty string.</p></div>
+ Can be overridden by the user. If nothing was set before, defaults to an empty string.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The value of the name of the element in the trkType.</p></dd>
@@ -118,7 +118,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-gpxtrack"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setName</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> value)</span></div>
 <div class="block"><p>Sets the value of the name of the element in the trkType. Can be overridden by the user. Defaults to an empty string.
- </p><p>Can be overridden by the user. If nothing was set before, defaults to an empty string.</p></div>
+ Can be overridden by the user. If nothing was set before, defaults to an empty string.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The value of the name of the element in the trkType.</p></dd>
@@ -131,7 +131,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-gpxtrack"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getDescription</span>()</div>
 <div class="block"><p>Gets the value of the description of the element in the trkType. If nothing was set before, defaults to an empty string.
- </p><p>Can be overridden by the user. If nothing was set before, defaults to an empty string.</p></div>
+ Can be overridden by the user. If nothing was set before, defaults to an empty string.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The value of the description of the element in the trkType.</p></dd>
@@ -144,7 +144,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-gpxtrack"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDescription</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> value)</span></div>
 <div class="block"><p>Sets the value of the description of the element in the trkType. Can be overridden by the user. Defaults to an empty string.
- </p><p>Can be overridden by the user. If nothing was set before, defaults to an empty string.</p></div>
+ Can be overridden by the user. If nothing was set before, defaults to an empty string.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The value of the description of the element in the trkType.</p></dd>

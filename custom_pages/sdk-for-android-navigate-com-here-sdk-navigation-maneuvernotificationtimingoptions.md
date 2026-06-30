@@ -27,43 +27,43 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimi
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">ManeuverNotificationTimingOptions</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A class defining timing and distance thresholds for maneuver notifications.
- </p><p>Setting custom values will impact the time when the notification for each supported <a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> is sent - dependent on the <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation"><code>TimingProfile</code></a>.
- </p><p><strong>Note:</strong> By default, notification thresholds depend on <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation"><code>TimingProfile</code></a>. When custom values are set, then these rules will still apply.
+ Setting custom values will impact the time when the notification for each supported <a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> is sent - dependent on the <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation"><code>TimingProfile</code></a>.
+ <strong>Note:</strong> By default, notification thresholds depend on <a href="sdk-for-android-navigate-timingprofile" title="enum class in com.here.sdk.navigation"><code>TimingProfile</code></a>. When custom values are set, then these rules will still apply.
  The following rules apply for all transport modes:
  <ul>
 <li>For <a href="sdk-for-android-navigate-timingprofile#FAST_SPEED"><code>TimingProfile.FAST_SPEED</code></a> timing profile, if the current speed limit is less than 62 m/h (100 km/h), then the notification thresholds for <a href="sdk-for-android-navigate-timingprofile#REGULAR_SPEED"><code>TimingProfile.REGULAR_SPEED</code></a> timing profile will be used instead.</li>
 <li>For <a href="sdk-for-android-navigate-timingprofile#REGULAR_SPEED"><code>TimingProfile.REGULAR_SPEED</code></a> timing profile, if the current speed limit is less than 37 m/h (60 km/h), then the notification thresholds for <a href="sdk-for-android-navigate-timingprofile#SLOW_SPEED"><code>TimingProfile.SLOW_SPEED</code></a> timing profile will be used instead.</li>
 <li>For <a href="sdk-for-android-navigate-timingprofile#SLOW_SPEED"><code>TimingProfile.SLOW_SPEED</code></a> timing profile the thresholds will be always used as specified.</li>
 </ul>
-</p><p>The timings follow a strict order:
+The timings follow a strict order:
  <ol>
 <li><a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a>: The first notification, it may be very far away (use 0 for farthest or earliest possible notification).</li>
 <li><a href="sdk-for-android-navigate-maneuvernotificationtype#REMINDER"><code>ManeuverNotificationType.REMINDER</code></a>: The second notification.</li>
 <li><a href="sdk-for-android-navigate-maneuvernotificationtype#DISTANCE"><code>ManeuverNotificationType.DISTANCE</code></a>: A second reminder notification to take action.</li>
 <li><a href="sdk-for-android-navigate-maneuvernotificationtype#ACTION"><code>ManeuverNotificationType.ACTION</code></a>: Final notification, specifying the required action to be taken.</li>
 </ol>
-</p><p>Therefore, it is crucial that the set values do not violate the order: range &gt; reminder &gt; distance &gt; action.
+Therefore, it is crucial that the set values do not violate the order: range &gt; reminder &gt; distance &gt; action.
  For example, the following values are valid: range = 4000, reminder = 2500, distance = 1000, action = 400.
  If <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> is smaller than <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#reminderNotificationDistanceInMeters"><code>reminderNotificationDistanceInMeters</code></a> the new options will be
  silently ignored and the previous values are kept.
- </p><p>You always have the choice to specify the thresholds for time or distance. For each <a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> a
+ You always have the choice to specify the thresholds for time or distance. For each <a href="sdk-for-android-navigate-maneuvernotificationtype" title="enum class in com.here.sdk.navigation"><code>ManeuverNotificationType</code></a> a
  notification is only sent once, so the value that is reached first, wins. However, it is recommended to always update both, time
  and distance values.
  A configuration value of 0 is only allowed for <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationDistanceInMeters"><code>rangeNotificationDistanceInMeters</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#rangeNotificationTimeInSeconds"><code>rangeNotificationTimeInSeconds</code></a>.
  It means that the maneuver notifications of type <a href="sdk-for-android-navigate-maneuvernotificationtype#RANGE"><code>ManeuverNotificationType.RANGE</code></a> should be generated as soon
  as the maneuver location is known - no matter how far away it may be.
  It's impossible for the other types to have 0 as value due to the descending ordering rule mentioned above.
- </p><p>You can also specify the <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#doubleNotificationDistanceInMeters"><code>doubleNotificationDistanceInMeters</code></a> threshold that determines the distance between two maneuvers that
+ You can also specify the <a href="sdk-for-android-navigate-com-here-sdk-navigation-maneuvernotificationtimingoptions#doubleNotificationDistanceInMeters"><code>doubleNotificationDistanceInMeters</code></a> threshold that determines the distance between two maneuvers that
  should be merged into a single maneuver notification, for example, when they are very close to each other. Maneuvers below this
  threshold will be merged like in this example: "After 300 meters turn right and then turn left.".
- </p><p>Tip: To set the timings to the HERE SDK, you can first call <code>getManeuverNotificationTimingOptions()</code> to get the default values
+ Tip: To set the timings to the HERE SDK, you can first call <code>getManeuverNotificationTimingOptions()</code> to get the default values
  for the desired combination of transport mode and timing profile. Then configure the timings, then set it back by calling the
  <code>setManeuverNotificationTimingOptions()</code>.
- </p><p>Note: In the comment of each attribute, the term <code>Others</code> refers to non-pedestrian transport modes such as
+ Note: In the comment of each attribute, the term <code>Others</code> refers to non-pedestrian transport modes such as
  <a href="sdk-for-android-navigate-transportmode#CAR"><code>TransportMode.CAR</code></a>, <a href="sdk-for-android-navigate-transportmode#BICYCLE"><code>TransportMode.BICYCLE</code></a>, <a href="sdk-for-android-navigate-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>.
- </p><p>Attention: The default values for <a href="sdk-for-android-navigate-transportmode#PEDESTRIAN"><code>TransportMode.PEDESTRIAN</code></a> on <a href="sdk-for-android-navigate-timingprofile#FAST_SPEED"><code>TimingProfile.FAST_SPEED</code></a> are theoretical, as such
+ Attention: The default values for <a href="sdk-for-android-navigate-transportmode#PEDESTRIAN"><code>TransportMode.PEDESTRIAN</code></a> on <a href="sdk-for-android-navigate-timingprofile#FAST_SPEED"><code>TimingProfile.FAST_SPEED</code></a> are theoretical, as such
  routes cannot be calculated with the HERE SDK as highways are forbidden for pedestrians.
- </p><p>Usage example:
+ Usage example:
  <pre><code>
  // Get current values or default values, if no values have been set before.
  ManeuverNotificationTimingOptions car_highway_timings = Navigator.getManeuverNotificationTimingOptions(TransportMode.CAR, TimingProfile.FAST_SPEED);

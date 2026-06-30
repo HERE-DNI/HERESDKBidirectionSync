@@ -161,7 +161,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameraanimationfactory"
  Keyframe tracks specify how the map camera properties change during the animation.
  For the animation to be possible, no two different tracks can
  affect the same map camera property. The input tracks are validated with that in mind.
- </p><p>However, the following cases can only be detected at the time when animation is started:
+ However, the following cases can only be detected at the time when animation is started:
  <ul>
 <li>Changing altitude of camera position also changes camera look-at distance
  and at high altitudes, also camera look-at orientation.</li>
@@ -194,8 +194,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameraanimationfactory"
  @NonNull
  <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> duration)</span></div>
 <div class="block"><p>Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position along an adaptive ballistic curve.
- </p><p>The beginning and end of the animation will use the current zoom.
- </p><p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
+ The beginning and end of the animation will use the current zoom.
+ Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -204,14 +204,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameraanimationfactory"
      Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
      will consider the target point as being located on the ground.</p></dd>
 <dd><code>bowFactor</code> - <p>A bow factor that specifies how high (bowFactor &gt; 0) or low (bowFactor &lt; 0) the camera will fly.
-     </p><p>The highest (bowFactor = 1) or lowest point (bowFactor = -1) of the ballistic animation
+     The highest (bowFactor = 1) or lowest point (bowFactor = -1) of the ballistic animation
      curve is relative to the travel distance between current camera target and destination target.
-     </p><p>A bow factor of 0 does not change the camera's zoom over time.
-     </p><p>Values greater 0 result in a convex bow animation, values below 0 in a concave bowl animation.
-     </p><p>The bow factor is clamped to [-1, +1].
-     </p><p>Note that the lowest possible camera distance to earth is 0 meters and that the animation
+     A bow factor of 0 does not change the camera's zoom over time.
+     Values greater 0 result in a convex bow animation, values below 0 in a concave bowl animation.
+     The bow factor is clamped to [-1, +1].
+     Note that the lowest possible camera distance to earth is 0 meters and that the animation
      curve will not go below this value.
-     </p><p>Note that currently, bow factor is ignored and assumed to be 1 if either start or end
+     Note that currently, bow factor is ignored and assumed to be 1 if either start or end
      of animation has a non zero tilt.</p></dd>
 <dd><code>duration</code> - <p>Duration of the flight. Negative duration results in no camera change when applied.</p></dd>
 <dt>Returns:</dt>
@@ -231,8 +231,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameraanimationfactory"
  @NonNull
  <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> duration)</span></div>
 <div class="block"><p>Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position and orientation along an adaptive ballistic curve.
- </p><p>The beginning and end of the animation will use the current zoom.
- </p><p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
+ The beginning and end of the animation will use the current zoom.
+ Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -242,14 +242,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameraanimationfactory"
      will consider the target point as being located on the ground.</p></dd>
 <dd><code>orientation</code> - <p>The orientation at destination.</p></dd>
 <dd><code>bowFactor</code> - <p>A bow factor that specifies how high (bowFactor &gt; 0) or low (bowFactor &lt; 0) the camera will fly.
-     </p><p>The highest (bowFactor = 1) or lowest point (bowFactor = -1) of the ballistic animation
+     The highest (bowFactor = 1) or lowest point (bowFactor = -1) of the ballistic animation
      curve is relative to the travel distance between current camera target and destination target.
-     </p><p>A bow factor of 0 does not change the camera's zoom over time.
-     </p><p>Values greater 0 result in a convex bow animation, values below 0 in a concave bowl animation.
-     </p><p>The bow factor is clamped to [-1, +1].
-     </p><p>Note that the lowest possible camera distance to earth is 0 meters and that the animation
+     A bow factor of 0 does not change the camera's zoom over time.
+     Values greater 0 result in a convex bow animation, values below 0 in a concave bowl animation.
+     The bow factor is clamped to [-1, +1].
+     Note that the lowest possible camera distance to earth is 0 meters and that the animation
      curve will not go below this value.
-     </p><p>Note that currently, bow factor is ignored and assumed to be 1 if either start or end
+     Note that currently, bow factor is ignored and assumed to be 1 if either start or end
      of animation has a non zero tilt.</p></dd>
 <dd><code>duration</code> - <p>Duration of the flight. Negative duration results in no camera change when applied.</p></dd>
 <dt>Returns:</dt>
@@ -269,8 +269,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameraanimationfactory"
  @NonNull
  <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> duration)</span></div>
 <div class="block"><p>Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position along an adaptive ballistic curve.
- </p><p>The beginning of the animation will use the current zoom and the end of the animation will use the provided zoom.
- </p><p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
+ The beginning of the animation will use the current zoom and the end of the animation will use the provided zoom.
+ Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -280,14 +280,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameraanimationfactory"
      will consider the target point as being located on the ground.</p></dd>
 <dd><code>zoom</code> - <p>The zoom at the end of the animation.</p></dd>
 <dd><code>bowFactor</code> - <p>A bow factor that specifies how high (bowFactor &gt; 0) or low (bowFactor &lt; 0) the camera will fly.
-     </p><p>The highest (bowFactor = 1) or lowest point (bowFactor = -1) of the ballistic animation
+     The highest (bowFactor = 1) or lowest point (bowFactor = -1) of the ballistic animation
      curve is relative to the travel distance between current camera target and destination target.
-     </p><p>A bow factor of 0 does not affect the camera's zoom over time.
-     </p><p>Values greater 0 result in a convex bow animation, values below 0 in a concave bowl animation.
-     </p><p>The bow factor is clamped to [-1, +1].
-     </p><p>Note that the lowest possible camera distance to earth is 0 meters and that the animation
+     A bow factor of 0 does not affect the camera's zoom over time.
+     Values greater 0 result in a convex bow animation, values below 0 in a concave bowl animation.
+     The bow factor is clamped to [-1, +1].
+     Note that the lowest possible camera distance to earth is 0 meters and that the animation
      curve will not go below this value.
-     </p><p>Note that currently, bow factor is ignored and assumed to be 1 if either start or end
+     Note that currently, bow factor is ignored and assumed to be 1 if either start or end
      of animation has a non zero tilt.</p></dd>
 <dd><code>duration</code> - <p>Duration of the flight. Negative duration results in no camera change when applied.</p></dd>
 <dt>Returns:</dt>
@@ -309,8 +309,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameraanimationfactory"
  @NonNull
  <a href="sdk-for-android-navigate-duration" title="class in com.here.time">Duration</a> duration)</span></div>
 <div class="block"><p>Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position and orientation along an adaptive ballistic curve.
- </p><p>The beginning of the animation will use the current zoom and the end of the animation will use the provided zoom.
- </p><p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
+ The beginning of the animation will use the current zoom and the end of the animation will use the provided zoom.
+ Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -321,14 +321,14 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameraanimationfactory"
 <dd><code>orientation</code> - <p>The orientation at destination.</p></dd>
 <dd><code>zoom</code> - <p>The zoom at the end of the animation.</p></dd>
 <dd><code>bowFactor</code> - <p>A bow factor that specifies how high (bowFactor &gt; 0) or low (bowFactor &lt; 0) the camera will fly.
-     </p><p>The highest (bowFactor = 1) or lowest point (bowFactor = -1) of the ballistic animation
+     The highest (bowFactor = 1) or lowest point (bowFactor = -1) of the ballistic animation
      curve is relative to the travel distance between current camera target and destination target.
-     </p><p>A bow factor of 0 does not affect the camera's zoom over time.
-     </p><p>Values greater 0 result in a convex bow animation, values below 0 in a concave bowl animation.
-     </p><p>The bow factor is clamped to [-1, +1].
-     </p><p>Note that the lowest possible camera distance to earth is 0 meters and that the animation
+     A bow factor of 0 does not affect the camera's zoom over time.
+     Values greater 0 result in a convex bow animation, values below 0 in a concave bowl animation.
+     The bow factor is clamped to [-1, +1].
+     Note that the lowest possible camera distance to earth is 0 meters and that the animation
      curve will not go below this value.
-     </p><p>Note that currently, bow factor is ignored and assumed to be 1 if either start or end
+     Note that currently, bow factor is ignored and assumed to be 1 if either start or end
      of animation has a non zero tilt.</p></dd>
 <dd><code>duration</code> - <p>Duration of the flight. Negative duration results in no camera change when applied.</p></dd>
 <dt>Returns:</dt>

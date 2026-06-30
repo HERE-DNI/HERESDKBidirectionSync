@@ -29,11 +29,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapImageOverlay</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p><code>MapImageOverlay</code> is used to draw images over the map, at a view coordinate inside the map viewport.
- </p><p>The image to be displayed is represented by a <a href="sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> object.
+ The image to be displayed is represented by a <a href="sdk-for-android-navigate-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> object.
  By default, the overlay is centered on the given view coordinate.
- </p><p>The resulting viewport area covered by the overlay is computed out of the overlay's view coordinate,
+ The resulting viewport area covered by the overlay is computed out of the overlay's view coordinate,
  the anchor point and the image size. The overlay subareas that fall outside of the map viewport get clipped.
- </p><p>To display the map overlay, it needs to be added to the scene using <a href="sdk-for-android-navigate-mapscene#addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"><code>MapScene.addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)</code></a>.
+ To display the map overlay, it needs to be added to the scene using <a href="sdk-for-android-navigate-mapscene#addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"><code>MapScene.addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)</code></a>.
  To stop displaying it, remove it from the scene using <a href="sdk-for-android-navigate-mapscene#removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"><code>MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)</code></a>.</p></div>
 </section>
 <section class="summary">
@@ -156,11 +156,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay"
  <a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</span></div>
 <div class="block"><p>Creates an instance of an overlay at given view coordinates, represented by specified image,
  with anchor point specifying how the image is positioned relative to the overlay's view coordinates.
- </p><p>The anchor is a way of specifying position offset relative to image's dimensions on the view.
+ The anchor is a way of specifying position offset relative to image's dimensions on the view.
  For example, (0, 0) places the top-left corner of the image at the overlay's view coordinates.
  (1, 1) would place the bottom-right corner of the image at the overlay's view coordinates.
  (0.5, 0.5) which is the default value would center the image at the overlay's view coordinates.
- </p><p>Values outside the 0..1 range are also allowed, for example (0.5, 2) would display the image
+ Values outside the 0..1 range are also allowed, for example (0.5, 2) would display the image
  centered horizontally with its bottom edge above the overlay's view coordinates at the distance
  in pixels that is equal to the height of the image.</p></div>
 <dl class="notes">
@@ -220,10 +220,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay"
 <h3>setDrawOrder</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDrawOrder</span><wbr/><span class="parameters">(int value)</span></div>
 <div class="block"><p>Sets draw order of this <code>MapImageOverlay</code>.
- </p><p>Overlays with higher draw order value are drawn on top of overlays with lower draw order.
- </p><p>In case multiple overlays have the same draw order value
+ Overlays with higher draw order value are drawn on top of overlays with lower draw order.
+ In case multiple overlays have the same draw order value
  then the order in which they were added to the scene matters. Last added overlay is drawn on top.
- </p><p>Allowed range is [0, 1023]. Values outside this range will be clamped.</p></div>
+ Allowed range is [0, 1023]. Values outside this range will be clamped.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Draw order of this <code>MapImageOverlay</code>.</p></dd>
@@ -274,10 +274,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapimageoverlay"
  <a href="sdk-for-android-navigate-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</span></div>
 <div class="block"><p>Sets anchor point of the overlay image which specifies the position offset relative
  to the overlay's view coordinates.
- </p><p>For example, (0, 0) places the top-left corner of the image at the overlay's view coordinates.
+ For example, (0, 0) places the top-left corner of the image at the overlay's view coordinates.
  (1, 1) would place the bottom-right corner of the image at the overlay's view coordinates.
  (0.5, 0.5) which is the default value would center the image at the overlay's view coordinates.
- </p><p>Values outside the 0..1 range are also allowed, for example (0.5, 2) would display the image
+ Values outside the 0..1 range are also allowed, for example (0.5, 2) would display the image
  centered horizontally with its bottom edge above the overlay's view coordinates at the distance
  in pixels that is equal to the height of the image.</p></div>
 <dl class="notes">

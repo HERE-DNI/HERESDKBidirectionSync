@@ -30,14 +30,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Groups map markers and enables their clustering to reduce visual clutter when there are many of
  them in a small area.
- </p><p>The markers that are close to each other are replaced by a single cluster marker. Cluster groups
+ The markers that are close to each other are replaced by a single cluster marker. Cluster groups
  are generated based on geographical distance between objects, not based on screen space collision.
  Hence it is possible, that cluster markers can overlap.
- </p><p>The markers can be added to a cluster or to a scene, but not to both. To display the cluster on the
+ The markers can be added to a cluster or to a scene, but not to both. To display the cluster on the
  map, add it to the scene using <a href="sdk-for-android-explore-mapscene#addMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)"><code>MapScene.addMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)</code></a>. The display of a cluster is only
  guaranteed in case its origin is within the viewport. At the moment, this is a known limitation
  that mostly affects clusters which are visually large and cover a sizeable part of the viewport.
- </p><p>Markers part of the cluster with opacity set to zero are still on the map and are considered for picking and clustering.</p></div>
+ Markers part of the cluster with opacity set to zero are still on the map and are considered for picking and clustering.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -163,7 +163,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMarkerCluster</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-mapmarkercluster.imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a> imageStyle)</span></div>
 <div class="block"><p>Creates a new instance of a map marker cluster which is represented as an image.
- </p><p>Any modification to object passed as <code>imageStyle</code> after creation of <code>MapMarkerCluster</code> does not have any effect.</p></div>
+ Any modification to object passed as <code>imageStyle</code> after creation of <code>MapMarkerCluster</code> does not have any effect.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>imageStyle</code> - <p>The visual representation for the cluster.</p></dd>
@@ -179,7 +179,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster"
  <a href="sdk-for-android-explore-mapmarkercluster.counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a> counterStyle)</span></div>
 <div class="block"><p>Creates a new instance of a map marker cluster which is represented as an image along with a counter
  showing how many markers are actually grouped under particular cluster icon.
- </p><p>Any modification to <code>imageStyle</code> or <code>counterStyle</code> after creation of <code>MapMarkerCluster</code> does not have any effect.</p></div>
+ Any modification to <code>imageStyle</code> or <code>counterStyle</code> after creation of <code>MapMarkerCluster</code> does not have any effect.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>imageStyle</code> - <p>Describes the visual appearance of cluster icon.</p></dd>
@@ -214,7 +214,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</span></div>
 <div class="block"><p>Adds a list of map markers to this cluster.
- </p><p>Markers which are already part of the cluster or
+ Markers which are already part of the cluster or
  which were already added to the map scene will be ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -228,7 +228,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarker</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</span></div>
 <div class="block"><p>Removes a map marker from this cluster.
- </p><p>Removing a marker which is not part of this cluster has no effect.</p></div>
+ Removing a marker which is not part of this cluster has no effect.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>marker</code> - <p>The marker.</p></dd>
@@ -241,7 +241,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</span></div>
 <div class="block"><p>Removes a list of map markers from this cluster.
- </p><p>Removing markers which are not part of this cluster has no effect.</p></div>
+ Removing markers which are not part of this cluster has no effect.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>markers</code> - <p>The list of markers.</p></dd>
@@ -261,7 +261,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</span> <span class="element-name">getMarkers</span>()</div>
 <div class="block"><p>Returns the list of map markers which currently belong to this cluster.
- </p><p>Modifying the list has no effect on the marker cluster.</p></div>
+ Modifying the list has no effect on the marker cluster.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The list of map markers which currently belong to this cluster.</p></dd>
@@ -284,10 +284,10 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster"
 <h3>setOpacity</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOpacity</span><wbr/><span class="parameters">(double value)</span></div>
 <div class="block"><p>Sets the opacity of the marker cluster image.
- </p><p>Provided value is clamped in range [0.0, 1.0]. Default value is 1.0 which means marker cluster
+ Provided value is clamped in range [0.0, 1.0]. Default value is 1.0 which means marker cluster
  is displayed with the default opacity of the image.
- </p><p>Marker clusters with opacity value set to 0.0 are still on the map and are considered for picking.
- </p><p>Markers part of cluster will use their respective opacity when not displayed as a cluster icon.</p></div>
+ Marker clusters with opacity value set to 0.0 are still on the map and are considered for picking.
+ Markers part of cluster will use their respective opacity when not displayed as a cluster icon.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Opacity is the factor which is applied to the alpha channel of the image used for marker cluster.</p></dd>

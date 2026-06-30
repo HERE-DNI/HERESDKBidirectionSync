@@ -33,9 +33,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">ElectronicHorizonDataLoaderErrorCode</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-navigate-electronichorizondataloadererrorcode" title="enum class in com.here.sdk.electronichorizon">ElectronicHorizonDataLoaderErrorCode</a>&gt;</span></div>
 <div class="block"><p>Represents error codes that describe the result of the <a href="sdk-for-android-navigate-electronichorizondataloader#getSegment(com.here.sdk.mapdata.DirectedOCMSegmentId)"><code>ElectronicHorizonDataLoader.getSegment(com.here.sdk.mapdata.DirectedOCMSegmentId)</code></a> method.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.
- </p><p>Offline availability: This property is available online and offline.</p></div>
+ Offline availability: This property is available online and offline.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">

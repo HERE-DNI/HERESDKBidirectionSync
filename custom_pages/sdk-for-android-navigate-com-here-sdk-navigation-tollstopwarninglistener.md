@@ -24,9 +24,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-tollstopwarninglistener"
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TollStopWarningListener</span></div>
 <div class="block"><p>This interface
  should be implemented in order to receive information on the upcoming toll booth structure.
- </p><p>The warner might also warn about gates/checkpoints for vignette, border checkpoints
+ The warner might also warn about gates/checkpoints for vignette, border checkpoints
  and similar structures on the street.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.
  A <code>TollStop</code> will not be given until the previous warning of that type has been passed.
  For example, a route with <code>TollStop</code> 120 meters and <code>TollStop</code> 160 meters ahead,

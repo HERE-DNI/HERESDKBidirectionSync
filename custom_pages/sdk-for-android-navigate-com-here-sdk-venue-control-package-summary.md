@@ -48,55 +48,55 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control">Venue</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
-<div class="block">Controls the <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> inside the <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a> object.</div>
+<div class="block">Controls the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> inside the <a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control"><code>VenueMap</code></a> object.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuedrawingselectionlistener" title="interface in com.here.sdk.venue.control">VenueDrawingSelectionListener</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-venuedrawingselectionlistener" title="interface in com.here.sdk.venue.control">VenueDrawingSelectionListener</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">The interface for listeners for
- the <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> selection event.</div>
+ the <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> selection event.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-navigate-com-here-sdk-venue-control-venueerrorcode" title="enum class in com.here.sdk.venue.control">VenueErrorCode</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-navigate-venueerrorcode" title="enum class in com.here.sdk.venue.control">VenueErrorCode</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab3">
 <div class="block">Specifies possible errors that may occur during loading of indoor maps</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab5"><a href="sdk-for-android-navigate-com-here-sdk-venue-control-venueexception" title="class in com.here.sdk.venue.control">VenueException</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab5"><a href="sdk-for-android-navigate-venueexception" title="class in com.here.sdk.venue.control">VenueException</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab5">
 <div class="block">Specifies possible errors that may occur during loading of indoor maps</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-venue-control-venueinfolistlistener" title="interface in com.here.sdk.venue.control">VenueInfoListListener</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-venueinfolistlistener" title="interface in com.here.sdk.venue.control">VenueInfoListListener</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">The interface for listeners for
- the list of <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venueinfo" title="class in com.here.sdk.venue.data"><code>VenueInfo</code></a> load event.</div>
+ the list of <a href="sdk-for-android-navigate-venueinfo" title="class in com.here.sdk.venue.data"><code>VenueInfo</code></a> load event.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuelevelselectionlistener" title="interface in com.here.sdk.venue.control">VenueLevelSelectionListener</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-venuelevelselectionlistener" title="interface in com.here.sdk.venue.control">VenueLevelSelectionListener</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">The interface for listeners for
- the <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selection event.</div>
+ the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selection event.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuelifecyclelistener" title="interface in com.here.sdk.venue.control">VenueLifecycleListener</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-venuelifecyclelistener" title="interface in com.here.sdk.venue.control">VenueLifecycleListener</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">The interface for listeners for
- the <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> lifecycle events.</div>
+ the <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> lifecycle events.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-venue-control-venueloaderrorcallback" title="interface in com.here.sdk.venue.control">VenueLoadErrorCallback</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-venueloaderrorcallback" title="interface in com.here.sdk.venue.control">VenueLoadErrorCallback</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
-<div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a> has been completed.</div>
+<div class="block">A method which is called on the main thread when <a href="sdk-for-android-navigate-venuemap#selectVenueAsync(java.lang.String,com.here.sdk.venue.control.VenueLoadErrorCallback)"><code>VenueMap.selectVenueAsync(String, VenueLoadErrorCallback)</code></a> has been completed.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuemap" title="class in com.here.sdk.venue.control">VenueMap</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-venuemap" title="class in com.here.sdk.venue.control">VenueMap</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Connects a map with venues.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-venue-control-venuemaplifecyclelistener" title="interface in com.here.sdk.venue.control">VenueMapLifecycleListener</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-venuemaplifecyclelistener" title="interface in com.here.sdk.venue.control">VenueMapLifecycleListener</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">The interface for listeners for
- the <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> lifecycle events.</div>
+ the <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> lifecycle events.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-venue-control-venueselectionlistener" title="interface in com.here.sdk.venue.control">VenueSelectionListener</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-venueselectionlistener" title="interface in com.here.sdk.venue.control">VenueSelectionListener</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">The interface for listeners for
- the <a href="sdk-for-android-navigate-com-here-sdk-venue-control-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> selection event.</div>
+ the <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a> selection event.</div>
 </div>
 </div>
 </div>

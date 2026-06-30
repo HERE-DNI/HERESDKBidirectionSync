@@ -105,7 +105,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-property"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-property.propertytype" title="enum class in com.here.sdk.venue.data">Property.PropertyType</a></span> <span class="element-name">getType</span>()</div>
 <div class="block"><p>Gets a type of the property.
- </p><p>It can be used to get type of property.</p></div>
+ It can be used to get type of property.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The type of the property.</p></dd>
@@ -117,7 +117,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-property"
 <h3>isBool</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isBool</span>()</div>
 <div class="block"><p>Gets the property as a Boolean value.
- </p><p>Converts the value of the property to a boolean.</p></div>
+ Converts the value of the property to a boolean.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The Boolean value.</p></dd>
@@ -129,7 +129,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-property"
 <h3>getInt</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getInt</span>()</div>
 <div class="block"><p>Gets the property as an Integer value.
- </p><p>Converts the value of the property to a Integer.</p></div>
+ Converts the value of the property to a Integer.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The Integer value.</p></dd>
@@ -142,7 +142,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-property"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getString</span>()</div>
 <div class="block"><p>Gets the property as a String value.
- </p><p>Converts the value of the property to a boolean.</p></div>
+ Converts the value of the property to a boolean.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The String value.</p></dd>

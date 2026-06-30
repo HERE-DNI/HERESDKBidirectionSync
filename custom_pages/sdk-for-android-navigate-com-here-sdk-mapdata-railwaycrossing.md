@@ -96,7 +96,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing"
 <h3>startOffsetInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">startOffsetInMeters</span></div>
 <div class="block"><p>The start offset, in meters, from the beginning of the segment.
- </p><p>If <a href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing#endOffsetInMeters"><code>endOffsetInMeters</code></a> = 0, then <a href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing#startOffsetInMeters"><code>startOffsetInMeters</code></a> approximately indicates a middle of a railway crossing.
+ If <a href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing#endOffsetInMeters"><code>endOffsetInMeters</code></a> = 0, then <a href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing#startOffsetInMeters"><code>startOffsetInMeters</code></a> approximately indicates a middle of a railway crossing.
  If <a href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing#endOffsetInMeters"><code>endOffsetInMeters</code></a> &gt; 0, it means crossing consists of several rails, and
  <a href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing#startOffsetInMeters"><code>startOffsetInMeters</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-mapdata-railwaycrossing#endOffsetInMeters"><code>endOffsetInMeters</code></a> indicates starting and ending points of the crossing respectively.
  Default value is 0.</p></div>

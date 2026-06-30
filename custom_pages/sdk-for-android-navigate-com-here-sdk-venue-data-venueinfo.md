@@ -81,7 +81,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venueinfo"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getVenueIdentifier</span>()</div>
 <div class="block"><p>Gets the venue info id.
- </p><p>This can be used to get the identifer of type
+ This can be used to get the identifer of type
  string in UUID format for Venue.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -95,7 +95,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venueinfo"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getVenueName</span>()</div>
 <div class="block"><p>Gets the venue info name.
- </p><p>This can be used to get the name for Venue.</p></div>
+ This can be used to get the name for Venue.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The name of the venue info.</p></dd>
@@ -107,7 +107,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venueinfo"
 <h3>getVenueId</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getVenueId</span>()</div>
 <div class="block"><p>Gets the venue info id as number.
- </p><p>This can be used to get the identifer of type
+ This can be used to get the identifer of type
  Integer for Venue.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

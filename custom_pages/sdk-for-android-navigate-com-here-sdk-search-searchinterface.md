@@ -267,7 +267,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-searchinterface"
  <a href="sdk-for-android-navigate-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a> callback)</span></div>
 <div class="block"><p>Performs an asynchronous request to suggest places for text queries and
  returns suggestions sorted by relevance.
- </p><p>Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
+ Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
  <code>SearchEngine</code> includes only the information that is relevant for autosuggest use cases.
  Complete details can be obtained by searching with <a href="sdk-for-android-navigate-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
 <dl class="notes">

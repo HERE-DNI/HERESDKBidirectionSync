@@ -85,7 +85,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
 <h3>isFinished</h3>
 <div class="member-signature"><span class="return-type">boolean</span> <span class="element-name">isFinished</span>()</div>
 <div class="block"><p>Gets a boolean indicating if this task is completed.
- </p><p>True, if this task is completed. Completion may be due to normal termination,
+ True, if this task is completed. Completion may be due to normal termination,
  an exception, or cancellation - in all of these cases, result will return <code>true</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -98,7 +98,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
 <h3>isCancelled</h3>
 <div class="member-signature"><span class="return-type">boolean</span> <span class="element-name">isCancelled</span>()</div>
 <div class="block"><p>Gets a boolean indicating if this task is cancelled.
- </p><p>True, if this task was canceled before it completed normally.</p></div>
+ True, if this task was canceled before it completed normally.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Completion indication.</p></dd>

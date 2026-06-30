@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Internal base class for public non-POD objects to manage the lifecycle of underlying C++ objects.</div>
 </div>

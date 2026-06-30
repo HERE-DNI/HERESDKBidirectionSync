@@ -119,7 +119,7 @@ the order they are declared.</div>
 <h3>OPTIMIZED_CLIENT_MAP_JAPAN</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-catalogtype" title="enum class in com.here.sdk.core.engine">CatalogType</a></span> <span class="element-name">OPTIMIZED_CLIENT_MAP_JAPAN</span></div>
 <div class="block"><p>Catalog type for Japan. Has to be used in combination with <a href="sdk-for-android-explore-com-here-sdk-core-engine-catalogtype#OPTIMIZED_CLIENT_MAP"><code>OPTIMIZED_CLIENT_MAP</code></a>.
- </p><p><strong>Note:</strong> This catalog type is only available on request. Please contact your HERE representative for more
+ <strong>Note:</strong> This catalog type is only available on request. Please contact your HERE representative for more
  details. In order to load this map you need to enable your credentials with the help of the HERE team.</p></div>
 </section>
 </li>

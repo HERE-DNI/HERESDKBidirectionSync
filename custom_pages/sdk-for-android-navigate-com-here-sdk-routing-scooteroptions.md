@@ -219,7 +219,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-scooteroptions"
  When this value is provided, the HERE SDK considers it during route calculation to
  avoid roads or areas where your vehicle may be restricted based on local regulations.
  Example usage: "7", when the license plate of a vehicle looks like "B-ET-182487".
- </p><p>If this value is not set, such license plate-based restrictions are ignored, and
+ If this value is not set, such license plate-based restrictions are ignored, and
  routing is performed without considering them.</p></div>
 </section>
 </li>
@@ -247,13 +247,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-scooteroptions"
  In such a case, a <a href="sdk-for-android-navigate-sectionnotice" title="class in com.here.sdk.routing"><code>SectionNotice</code></a> will be provided in the related <a href="sdk-for-android-navigate-section" title="class in com.here.sdk.routing"><code>Section</code></a>
  to indicate that the highway usage restriction is violated on this route.
  A few examples:
- </p><p>1 - If no avoidance option is set, and <code>allowHighway = false</code>, when no route is found without
+ 1 - If no avoidance option is set, and <code>allowHighway = false</code>, when no route is found without
  highway usage, a notice is received.
- </p><p>2 - If no avoidance option is set, and <code>allowHighway = true</code>, when no route is found without
+ 2 - If no avoidance option is set, and <code>allowHighway = true</code>, when no route is found without
  highway usage, no notice is received.
- </p><p>3 - If only <code>avoid[features] = controlledAccessHighway</code> is set, when no route is found without
+ 3 - If only <code>avoid[features] = controlledAccessHighway</code> is set, when no route is found without
  highway usage, a notice is received.
- </p><p>4 - If both <code>avoid[features] = controlledAccessHighway</code> and <code>allowHighway = true</code> are set,
+ 4 - If both <code>avoid[features] = controlledAccessHighway</code> and <code>allowHighway = true</code> are set,
  when no route is found without highway usage, a notice is received.</p></div>
 </section>
 </li>
@@ -265,7 +265,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-scooteroptions"
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Engine size of the scooter in cubic centimeters. Shouldn't be less than 1 or greater than 65535. Default value
  is <code>null</code>, which means the scooter route calculation ignores all engine size limits on the road.
- </p><p><strong>Note:</strong> For now, this option is only relevant in Japan and will be ignored
+ <strong>Note:</strong> For now, this option is only relevant in Japan and will be ignored
  for other countries. Currently, map data for this option is only available
  for Japan.</p></div>
 </section>

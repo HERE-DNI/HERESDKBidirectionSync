@@ -145,13 +145,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options"
 <li>higher tolerance results in more simplification (fewer points);</li>
 <li>lower tolerance keeps the line closer to its original shape.</li>
 </ul>
-</p><p>If removing a point produces polyline, which deviates from the
+If removing a point produces polyline, which deviates from the
  original one more than <code>simplificationToleranceInMeters</code>, then
  this point is left in the collection.
- </p><p>If specified tolerance will not allow to create a polyline
+ If specified tolerance will not allow to create a polyline
  conforming to <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options#maxPoints"><code>maxPoints</code></a>, then <code>simplificationToleranceInMeters</code>
  is ignored.
- </p><p>Default value is equal to <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></div>
+ Default value is equal to <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></div>
 </section>
 </li>
 </ul>
@@ -192,13 +192,13 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options"
 <li>higher tolerance results in more simplification (fewer points);</li>
 <li>lower tolerance keeps the line closer to its original shape.</li>
 </ul>
-</p><p>If removing a point produces polyline, which deviates from the
+If removing a point produces polyline, which deviates from the
  original one more than <code>simplificationToleranceInMeters</code>, then
  this point is left in the collection.
- </p><p>If specified tolerance will not allow to create a polyline
+ If specified tolerance will not allow to create a polyline
  conforming to <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options#maxPoints"><code>maxPoints</code></a>, then <code>simplificationToleranceInMeters</code>
  is ignored.
- </p><p>Default value is equal to <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></dd>
+ Default value is equal to <a href="sdk-for-android-navigate-com-here-sdk-core-polylinesimplifier-options#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></dd>
 </dl>
 </section>
 </li>

@@ -236,23 +236,23 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationenginebase"
  regarding nearby mobile and Wi-Fi network signals. Additionally, a link to the related
  <a href="https://legal.here.com/en-gb/here-network-positioning-via-sdk">HERE Privacy Notice</a>
  must be made available to the user.
- </p><p>This information can be included in the application's Terms &amp; Conditions,
+ This information can be included in the application's Terms &amp; Conditions,
  Privacy Policy, or otherwise made accessible to the user.
- </p><p>An example text for informing users about the data collection:
+ An example text for informing users about the data collection:
  "This application uses location services provided by HERE Technologies.
  To maintain, improve, and provide these services, HERE Technologies occasionally collects
  characteristic information about nearby mobile and Wi-Fi network signals.
  For more information, please refer to the HERE Privacy Notice at:
  https://legal.here.com/en-gb/here-network-positioning-via-sdk"
- </p><p><strong>Note:</strong> By calling this method, the application developer confirms that
+ <strong>Note:</strong> By calling this method, the application developer confirms that
  this information is made available to the end user.
- </p><p>For example, it is sufficient to inform users once that using the app requires
+ For example, it is sufficient to inform users once that using the app requires
  acceptance of its terms (if any). Then, in the terms include the
  above mentioned data collection information and a link to the related HERE Privacy Notice.
  The user is not required to open the terms to acknowledge the data collection details.
  The "Positioning" example app on <a href="https://github.com/heremaps/here-sdk-examples">GitHub</a>
  provides an example of this.
- </p><p>When the above criteria are met, it is recommended to silently execute this
+ When the above criteria are met, it is recommended to silently execute this
  method each time before starting the <code>LocationEngine</code>, as failure to do so
  will result in the engine being non-functional.</p></div>
 <dl class="notes">
@@ -273,7 +273,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationenginebase"
  can be confirmed.
  Note that this call should not involve user interaction and it should be executed silently
  by the application before starting the <code>LocationEngine</code>.
- </p><p>The permission for exceptional use will be verified asynchronously using your HERE SDK credentials.
+ The permission for exceptional use will be verified asynchronously using your HERE SDK credentials.
  A missing permission will lead to stopping of the <code>LocationEngine</code> and <a href="sdk-for-android-navigate-locationenginestatus#PRIVACY_NOTICE_UNCONFIRMED"><code>LocationEngineStatus.PRIVACY_NOTICE_UNCONFIRMED</code></a>
  is delivered to <code>LocationStatusListener</code>.</p></div>
 <dl class="notes">
@@ -407,7 +407,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-location-locationenginebase"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="return-type"><a href="sdk-for-android-navigate-location" title="class in com.here.sdk.core">Location</a></span> <span class="element-name">getLastKnownLocation</span>()</div>
 <div class="block"><p>Gets the last known location obtained by the <code>LocationEngine</code>. It is persisted throughout the app's lifecycle.
- </p><p>This property can be obtained without starting the <code>LocationEngine</code>. However, the initial value might be <code>null</code>
+ This property can be obtained without starting the <code>LocationEngine</code>. However, the initial value might be <code>null</code>
  if no location has ever been obtained by the <code>LocationEngine</code>.
  The time attribute of the <code>Location</code> object indicates when the last location was obtained.
  Note: In order to receive continuous location updates, add a <code>LocationListener</code>.</p></div>

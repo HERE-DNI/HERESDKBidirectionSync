@@ -632,7 +632,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venuemap"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venueservice" title="class in com.here.sdk.venue.service">VenueService</a></span> <span class="element-name">getVenueService</span>()</div>
 <div class="block"><p>Gets the venue service.
- </p><p>It can be used to search and get the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> objects.</p></div>
+ It can be used to search and get the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> objects.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The <code>VenueService</code> object.</p></dd>
@@ -645,7 +645,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venuemap"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a></span> <span class="element-name">getSelectedVenue</span>()</div>
 <div class="block"><p>Gets the currently selected <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a>.
- </p><p>Use <code>null</code> to deselect the venue.</p></div>
+ Use <code>null</code> to deselect the venue.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The selected venue or <code>null</code> if no venue is selected.</p></dd>
@@ -658,7 +658,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venuemap"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedVenue</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control">Venue</a> value)</span></div>
 <div class="block"><p>Sets the selected <a href="sdk-for-android-navigate-venue" title="class in com.here.sdk.venue.control"><code>Venue</code></a>.
- </p><p>Use <code>null</code> to deselect the venue.</p></div>
+ Use <code>null</code> to deselect the venue.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The selected venue or <code>null</code> if no venue is selected.</p></dd>

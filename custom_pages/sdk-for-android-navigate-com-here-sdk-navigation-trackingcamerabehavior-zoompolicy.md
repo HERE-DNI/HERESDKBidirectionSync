@@ -33,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-trackingcamerabehavior-z
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TrackingCameraBehavior.ZoomPolicy</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Defines zoom behavior in different policy settings.
- </p><p>Note: This is a beta feature; there maybe bugs and unexpected behavior. Related API's are
+ Note: This is a beta feature; there maybe bugs and unexpected behavior. Related API's are
  subject to change without a deprecation process.</p></div>
 </section>
 <section class="summary">

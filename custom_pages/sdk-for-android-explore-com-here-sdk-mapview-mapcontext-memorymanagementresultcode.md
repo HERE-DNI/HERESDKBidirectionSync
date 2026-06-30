@@ -37,7 +37,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcontext-memorymanagementr
 <div class="type-signature"><span class="modifiers">public static enum </span><span class="element-name type-name-label">MapContext.MemoryManagementResultCode</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-mapcontext.memorymanagementresultcode" title="enum class in com.here.sdk.mapview">MapContext.MemoryManagementResultCode</a>&gt;</span></div>
 <div class="block"><p>The memory management result code.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

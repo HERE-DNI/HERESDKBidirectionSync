@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SDKNativeEngine</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Holds internal services and configurations needed by various HERE SDK modules.
- </p><p>You can initialize the HERE SDK in two ways:
+ You can initialize the HERE SDK in two ways:
  <ul>
 <li>Create a shared instance of the <code>SDKNativeEngine</code> with <code>SDKNativeEngine.makeSharedInstance()</code>.</li>
 <li>Create individual instances of the <code>SDKNativeEngine</code> via <code>SDKNativeEngine()</code>. Note that this does not automatically set a shared instance.</li>
@@ -240,7 +240,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> accessKeySecret)</span></div>
 <div class="block"><p>Overrides HERE SDK access key secret with new value.
  The new credentials will be used for new requests.
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  This method can be called from any thread.
  Access key ID can be set with constructor of SDKNativeEngine.
  New instance of SDKNativeEngine should be used if a new access key ID is required.</p></div>
@@ -258,7 +258,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="block"><p>Overrides the token scope of the HERE SDK with new value.
  A new token will be fetched with the set scope and used for future requests.
  Setting an empty string will fetch a token for the global scope.
- </p><p>This method can be called from any thread.</p></div>
+ This method can be called from any thread.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>scope</code> - <p>New scope for token</p></dd>
@@ -284,7 +284,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="block"><p>Enable or disable <a href="sdk-for-android-navigate-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a> for the HERE SDK. Defaults to disabled (false). When enabled, <code>SDKNativeEngine.getSdkUsageStats()</code>
  returns actual online data consumption. Note that the flag does not cancel pending requests.
  <a href="sdk-for-android-navigate-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a> can be enabled or disabled at any time.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -303,7 +303,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="block"><p>Makes a new instance of this class using the supplied options and stores it as shared instance
  see <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getSharedInstance()"><code>getSharedInstance()</code></a>. If there was a previously shared instance
  then it's disposed (so there is no need to call <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#dispose()"><code>dispose()</code></a> on app side) before the new instance is created.
- </p><p><strong>Note:</strong> The HERE SDK is not guaranteed to be thread safe and it is required to make calls
+ <strong>Note:</strong> The HERE SDK is not guaranteed to be thread safe and it is required to make calls
  to the SDK - including this one - from the main thread.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -377,7 +377,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a></span> <span class="element-name">getSharedInstance</span>()</div>
 <div class="block"><p>Gets the shared instance of this SDK engine that can be accessed by any HERE SDK module as the default
  engine.
- </p><p>This is automatically set as a part of the SDK initialization process.</p></div>
+ This is automatically set as a part of the SDK initialization process.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Shared instance of this SDK engine that can be accessed by any HERE SDK module as the default
@@ -392,7 +392,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
  <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> value)</span></div>
 <div class="block"><p>Sets the shared instance of this SDK engine that can be accessed by any HERE SDK module as the default
  engine.
- </p><p>This is automatically set as a part of the SDK initialization process.</p></div>
+ This is automatically set as a part of the SDK initialization process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Shared instance of this SDK engine that can be accessed by any HERE SDK module as the default
@@ -405,7 +405,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <h3>isOfflineMode</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isOfflineMode</span>()</div>
 <div class="block"><p>Gets the current offline mode.
- </p><p>Sets offline mode for the HERE SDK to offline or online.
+ Sets offline mode for the HERE SDK to offline or online.
  Defaults to false, which means the HERE SDK uses an online connection.
  When enabled, this prevents the HERE SDK from initiating any online connection except for provided pass through features if set.
  See <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getPassThroughFeatures()"><code>getPassThroughFeatures()</code></a>.
@@ -414,7 +414,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
  needs to be enabled via <a href="sdk-for-android-navigate-sdkoptions#offlineMode"><code>SDKOptions.offlineMode</code></a>.
  Initialization of the HERE SDK itself does not require an internet connection.
  Returns <code>true</code> if the HERE SDK uses offline connection mode, otherwise returns <code>false</code>.
- </p><p>Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -427,7 +427,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <h3>setOfflineMode</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOfflineMode</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets the offline mode.
- </p><p>Sets offline mode for the HERE SDK to offline or online.
+ Sets offline mode for the HERE SDK to offline or online.
  Defaults to false, which means the HERE SDK uses an online connection.
  When enabled, this prevents the HERE SDK from initiating any online connection except for provided pass through features if set.
  See <a href="sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine#getPassThroughFeatures()"><code>getPassThroughFeatures()</code></a>.
@@ -436,7 +436,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
  needs to be enabled via <a href="sdk-for-android-navigate-sdkoptions#offlineMode"><code>SDKOptions.offlineMode</code></a>.
  Initialization of the HERE SDK itself does not require an internet connection.
  Returns <code>true</code> if the HERE SDK uses offline connection mode, otherwise returns <code>false</code>.
- </p><p>Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -450,12 +450,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" title="class or interface in java.util">Set</a>&lt;<a href="sdk-for-android-navigate-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>&gt;</span> <span class="element-name">getPassThroughFeatures</span>()</div>
 <div class="block"><p>Gets the pass through features.
- </p><p>Sets pass through features which are allowed to use online data when HERE SDK is in offline mode.
+ Sets pass through features which are allowed to use online data when HERE SDK is in offline mode.
  Pass through features can be updated at any time.
  When offline mode is disabled, existing pass through features will be removed.
  These needs to be set again when you enable offline mode next time.
  By default, reporting of HERE SDK <a href="sdk-for-android-navigate-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a> will be enabled when at least one pass-through feature is set.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -469,12 +469,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPassThroughFeatures</span><wbr/><span class="parameters">(@Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Set.html" title="class or interface in java.util">Set</a>&lt;<a href="sdk-for-android-navigate-passthroughfeature" title="enum class in com.here.sdk.core.engine">PassThroughFeature</a>&gt; value)</span></div>
 <div class="block"><p>Sets the pass through features.
- </p><p>Sets pass through features which are allowed to use online data when HERE SDK is in offline mode.
+ Sets pass through features which are allowed to use online data when HERE SDK is in offline mode.
  Pass through features can be updated at any time.
  When offline mode is disabled, existing pass through features will be removed.
  These needs to be set again when you enable offline mode next time.
  By default, reporting of HERE SDK <a href="sdk-for-android-navigate-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a> will be enabled when at least one pass-through feature is set.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -488,7 +488,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-navigate-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a></span> <span class="element-name">getParameterConfig</span>()</div>
 <div class="block"><p>Gets the configuration for default values of parameters used in the HERE SDK.
- </p><p><strong>Note:</strong> This feature is in beta state and thus there can be bugs and unexpected behavior.
+ <strong>Note:</strong> This feature is in beta state and thus there can be bugs and unexpected behavior.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -502,7 +502,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setParameterConfig</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-parameterconfiguration" title="class in com.here.sdk.core">ParameterConfiguration</a> value)</span></div>
 <div class="block"><p>Sets the configuration for default values of parameters used in the HERE SDK.
- </p><p><strong>Note:</strong> This feature is in beta state and thus there can be bugs and unexpected behavior.
+ <strong>Note:</strong> This feature is in beta state and thus there can be bugs and unexpected behavior.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -516,11 +516,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></span> <span class="element-name">getProxySettings</span>()</div>
 <div class="block"><p>Gets the current proxy settings.
- </p><p>Defaults to (<code>null</code>), which indicates proxy is not enabled.
+ Defaults to (<code>null</code>), which indicates proxy is not enabled.
  When setting proxy settings, they will immediately be applied and all the pending and fresh requests will use these settings.
  Pass (<code>null</code>) to indicate that proxy should be disabled.
  If proxy is necessary from the start then it's recommended to use <a href="sdk-for-android-navigate-networksettings#proxySettings"><code>NetworkSettings.proxySettings</code></a> in <a href="sdk-for-android-navigate-sdkoptions#networkSettings"><code>SDKOptions.networkSettings</code></a>.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -534,11 +534,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProxySettings</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-navigate-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a> value)</span></div>
 <div class="block"><p>Sets the proxy settings.
- </p><p>Defaults to (<code>null</code>), which indicates proxy is not enabled.
+ Defaults to (<code>null</code>), which indicates proxy is not enabled.
  When setting proxy settings, they will immediately be applied and all the pending and fresh requests will use these settings.
  Pass (<code>null</code>) to indicate that proxy should be disabled.
  If proxy is necessary from the start then it's recommended to use <a href="sdk-for-android-navigate-networksettings#proxySettings"><code>NetworkSettings.proxySettings</code></a> in <a href="sdk-for-android-navigate-sdkoptions#networkSettings"><code>SDKOptions.networkSettings</code></a>.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -552,9 +552,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-sdknativeengine"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-usagestats" title="class in com.here.sdk.core.engine">UsageStats</a>&gt;</span> <span class="element-name">getSdkUsageStats</span>()</div>
 <div class="block"><p>Gets a list of usage statistics for all available HERE SDK features.
- </p><p><a href="sdk-for-android-navigate-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a> has cache and persistent storage. Reads from the persistent storage happen on <code>SDKNativeEngine</code> creation step.
+ <a href="sdk-for-android-navigate-usagestats" title="class in com.here.sdk.core.engine"><code>UsageStats</code></a> has cache and persistent storage. Reads from the persistent storage happen on <code>SDKNativeEngine</code> creation step.
  Writes to persistent storage happen by reaching internal limit (amount of upload bytes, by default is 50KB).
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

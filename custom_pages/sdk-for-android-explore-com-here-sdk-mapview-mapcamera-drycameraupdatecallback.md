@@ -32,7 +32,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecal
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public static interface </span><span class="element-name type-name-label">MapCamera.DryCameraUpdateCallback</span></div>
 <div class="block"><p>Used to report back results of dry update application to camera.
- </p><p>Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -73,7 +73,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcamera-drycameraupdatecal
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onDryApplyUpdateResult</span><wbr/><span class="parameters">(@Nullable
  <a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a> cameraState)</span></div>
 <div class="block"><p>Used to report back results of dry update application to camera.
- </p><p>Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-transport-specificrestriction"
 <div class="block"><p>Represents a specific vehicle restriction.
  A <code>SpecificRestriction</code> defines what type of restriction applies (weight, height, etc.)
  and the range of allowed values. It is always used as part of a <code>VehicleRestriction</code>.
- </p><p><strong>Note:</strong> This is a beta release of this feature.
+ <strong>Note:</strong> This is a beta release of this feature.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

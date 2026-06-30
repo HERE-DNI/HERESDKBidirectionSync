@@ -28,7 +28,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Holds constants for map features, to be used with
  <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> and <a href="sdk-for-android-explore-mapscene#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a>.
- </p><p>See <a href="sdk-for-android-explore-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> for constants representing feature modes.</p></div>
+ See <a href="sdk-for-android-explore-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> for constants representing feature modes.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -137,13 +137,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <h3>EXTRUDED_BUILDINGS</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">EXTRUDED_BUILDINGS</span></div>
 <div class="block"><p>Simple 3D representation of buildings.
- </p><p>Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#EXTRUDED_BUILDINGS_ALL"><code>MapFeatureModes.EXTRUDED_BUILDINGS_ALL</code></a>.
- </p><p>Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>,
+ Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#EXTRUDED_BUILDINGS_ALL"><code>MapFeatureModes.EXTRUDED_BUILDINGS_ALL</code></a>.
+ Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>,
  <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a> and all hybrid schemes: <a href="sdk-for-android-explore-mapscheme#HYBRID_DAY"><code>MapScheme.HYBRID_DAY</code></a>
 <a href="sdk-for-android-explore-mapscheme#HYBRID_NIGHT"><code>MapScheme.HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_DAY"><code>MapScheme.LITE_HYBRID_DAY</code></a>
 <a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_NIGHT"><code>MapScheme.LITE_HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_DAY"><code>MapScheme.LOGISTICS_HYBRID_DAY</code></a> and
  <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_NIGHT"><code>MapScheme.LOGISTICS_HYBRID_NIGHT</code></a>.
- </p><p>By default, extruded buildings are enabled on all compatible map schemes.</p></div>
+ By default, extruded buildings are enabled on all compatible map schemes.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
 <dd>
@@ -159,13 +159,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <h3>BUILDING_FOOTPRINTS</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">BUILDING_FOOTPRINTS</span></div>
 <div class="block"><p>The 2D footprint of buildings.
- </p><p>Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#BUILDING_FOOTPRINTS_ALL"><code>MapFeatureModes.BUILDING_FOOTPRINTS_ALL</code></a>.
- </p><p>Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>,
+ Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#BUILDING_FOOTPRINTS_ALL"><code>MapFeatureModes.BUILDING_FOOTPRINTS_ALL</code></a>.
+ Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>,
  <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a> and all hybrid schemes: <a href="sdk-for-android-explore-mapscheme#HYBRID_DAY"><code>MapScheme.HYBRID_DAY</code></a>
 <a href="sdk-for-android-explore-mapscheme#HYBRID_NIGHT"><code>MapScheme.HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_DAY"><code>MapScheme.LITE_HYBRID_DAY</code></a>
 <a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_NIGHT"><code>MapScheme.LITE_HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_DAY"><code>MapScheme.LOGISTICS_HYBRID_DAY</code></a> and
  <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_NIGHT"><code>MapScheme.LOGISTICS_HYBRID_NIGHT</code></a>.
- </p><p>By default, building footprints are enabled on all compatible map schemes.</p></div>
+ By default, building footprints are enabled on all compatible map schemes.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
 <dd>
@@ -182,18 +182,18 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_FLOW</span></div>
 <div class="block"><p>Traffic flow speed. An online connection is required for the traffic
  flow to be shown.
- </p><p>If the offline-mode is enabled for offline maps usage,
+ If the offline-mode is enabled for offline maps usage,
  the live traffic flow can still be shown in offline mode by enabling
  pass-through feature for traffic flow on <code>sdk.core.engine.SDKNativeEngine</code>.
  See <code>sdk.core.engine.SDKNativeEngine.pass_through_features</code> for details.
- </p><p>Supported modes:
+ Supported modes:
  <ul>
 <li><a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW"><code>MapFeatureModes.TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW</code></a>,</li>
 <li><a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_FLOW_WITH_FREE_FLOW"><code>MapFeatureModes.TRAFFIC_FLOW_WITH_FREE_FLOW</code></a>,</li>
 <li><a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_FLOW_WITHOUT_FREE_FLOW"><code>MapFeatureModes.TRAFFIC_FLOW_WITHOUT_FREE_FLOW</code></a>.</li>
 </ul>
-</p><p>Default mode is <a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_FLOW_WITH_FREE_FLOW"><code>MapFeatureModes.TRAFFIC_FLOW_WITH_FREE_FLOW</code></a>.
- </p><p>Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
+Default mode is <a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_FLOW_WITH_FREE_FLOW"><code>MapFeatureModes.TRAFFIC_FLOW_WITH_FREE_FLOW</code></a>.
+ Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
  and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.
  By default, this map feature is not enabled.</p></div>
 <dl class="notes">
@@ -212,12 +212,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_INCIDENTS</span></div>
 <div class="block"><p>Traffic incidents. An online connection is required for the traffic
  incidents to be shown.
- </p><p>If the offline-mode is enabled for offline maps usage,
+ If the offline-mode is enabled for offline maps usage,
  the live traffic incidents can still be shown in offline mode by enabling
  pass-through feature for traffic incidents on <code>sdk.core.engine.SDKNativeEngine</code>.
  See <code>sdk.core.engine.SDKNativeEngine.pass_through_features</code> for details.
- </p><p>Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_INCIDENTS_ALL"><code>MapFeatureModes.TRAFFIC_INCIDENTS_ALL</code></a>.
- </p><p>Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
+ Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_INCIDENTS_ALL"><code>MapFeatureModes.TRAFFIC_INCIDENTS_ALL</code></a>.
+ Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
  and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.
  By default, this map feature is not enabled.</p></div>
 <dl class="notes">
@@ -235,10 +235,10 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <h3>TRAFFIC_LIGHTS</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_LIGHTS</span></div>
 <div class="block"><p>Traffic lights.
- </p><p>Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_LIGHTS_ALL"><code>MapFeatureModes.TRAFFIC_LIGHTS_ALL</code></a>
-</p><p>Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
+ Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_LIGHTS_ALL"><code>MapFeatureModes.TRAFFIC_LIGHTS_ALL</code></a>
+Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
  and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.
- </p><p>By default, traffic lights are enabled on all compatible map schemes.</p></div>
+ By default, traffic lights are enabled on all compatible map schemes.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
 <dd>
@@ -255,8 +255,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">ENVIRONMENTAL_ZONES</span></div>
 <div class="block"><p>City areas designated as environmental zones, which empose limitations
  on the type of vehicles that are allowed to enter such areas.
- </p><p>Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#ENVIRONMENTAL_ZONES_ALL"><code>MapFeatureModes.ENVIRONMENTAL_ZONES_ALL</code></a>.
- </p><p>Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
+ Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#ENVIRONMENTAL_ZONES_ALL"><code>MapFeatureModes.ENVIRONMENTAL_ZONES_ALL</code></a>.
+ Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
  and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.
  By default, this map feature is not enabled.</p></div>
 <dl class="notes">
@@ -275,8 +275,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">CONGESTION_ZONES</span></div>
 <div class="block"><p>City areas designated as congestion zones (or congestion charge zones),
  which impose fees on entering such areas.
- </p><p>Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#CONGESTION_ZONES_ALL"><code>MapFeatureModes.CONGESTION_ZONES_ALL</code></a>.
- </p><p>Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
+ Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#CONGESTION_ZONES_ALL"><code>MapFeatureModes.CONGESTION_ZONES_ALL</code></a>.
+ Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
  and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.
  By default, this map feature is not enabled.</p></div>
 <dl class="notes">
@@ -295,8 +295,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">LOW_SPEED_ZONES</span></div>
 <div class="block"><p>City areas designated as low speed zones.
  Only available when Japan map is used.
- </p><p>Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#LOW_SPEED_ZONES_ALL"><code>MapFeatureModes.LOW_SPEED_ZONES_ALL</code></a>.
- </p><p>Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
+ Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#LOW_SPEED_ZONES_ALL"><code>MapFeatureModes.LOW_SPEED_ZONES_ALL</code></a>.
+ Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
  and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.
  By default, this map feature is not enabled.</p></div>
 <dl class="notes">
@@ -314,13 +314,13 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <h3>ROAD_EXIT_LABELS</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">ROAD_EXIT_LABELS</span></div>
 <div class="block"><p>Show or hide road exit labels, if available.
- </p><p>Supported modes: <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_NUMBERS_ONLY"><code>MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY</code></a>,
+ Supported modes: <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_NUMBERS_ONLY"><code>MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY</code></a>,
  <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_ALL"><code>MapFeatureModes.ROAD_EXIT_LABELS_ALL</code></a>
-</p><p>Default mode is <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_NUMBERS_ONLY"><code>MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY</code></a>.
- </p><p>Road exit labels are enabled by default with <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_NUMBERS_ONLY"><code>MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY</code></a>
+Default mode is <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_NUMBERS_ONLY"><code>MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY</code></a>.
+ Road exit labels are enabled by default with <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_NUMBERS_ONLY"><code>MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY</code></a>
  on normal, lite and topo schemes and with <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_ALL"><code>MapFeatureModes.ROAD_EXIT_LABELS_ALL</code></a> on logistics
  schemes. Note that topo schemes are only available in the HERE SDK Navigate variant.
- </p><p>Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
+ Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
  and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.</p></div>
 <dl class="notes">
 <dt>See Also:</dt>
@@ -337,17 +337,17 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <h3>SHADOWS</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">SHADOWS</span></div>
 <div class="block"><p>Shadows for all building types (extruded buildings and landmarks).
- </p><p>Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#SHADOWS_ALL"><code>MapFeatureModes.SHADOWS_ALL</code></a>.
- </p><p>A <a href="sdk-for-android-explore-shadowquality" title="enum class in com.here.sdk.mapview"><code>ShadowQuality</code></a> must be set on the MapContext through a MapView or the feature has no
+ Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#SHADOWS_ALL"><code>MapFeatureModes.SHADOWS_ALL</code></a>.
+ A <a href="sdk-for-android-explore-shadowquality" title="enum class in com.here.sdk.mapview"><code>ShadowQuality</code></a> must be set on the MapContext through a MapView or the feature has no
  effect.
- </p><p>Shadows have a performance impact and should be considered only for devices with
+ Shadows have a performance impact and should be considered only for devices with
  sufficient performance.
- </p><p>Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>,
+ Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>,
  <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a> and all hybrid schemes: <a href="sdk-for-android-explore-mapscheme#HYBRID_DAY"><code>MapScheme.HYBRID_DAY</code></a>
 <a href="sdk-for-android-explore-mapscheme#HYBRID_NIGHT"><code>MapScheme.HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_DAY"><code>MapScheme.LITE_HYBRID_DAY</code></a>
 <a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_NIGHT"><code>MapScheme.LITE_HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_DAY"><code>MapScheme.LOGISTICS_HYBRID_DAY</code></a> and
  <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_NIGHT"><code>MapScheme.LOGISTICS_HYBRID_NIGHT</code></a>.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.
  By default, this map feature is not enabled.</p></div>
 <dl class="notes">
@@ -365,15 +365,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 <h3>AMBIENT_OCCLUSION</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">AMBIENT_OCCLUSION</span></div>
 <div class="block"><p>Ambient occlusion effect for 3D geometries (extruded buildings and landmarks).
- </p><p>Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#AMBIENT_OCCLUSION_ALL"><code>MapFeatureModes.AMBIENT_OCCLUSION_ALL</code></a>.
- </p><p>This visual effect has a performance impact and should be considered only for devices with
+ Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#AMBIENT_OCCLUSION_ALL"><code>MapFeatureModes.AMBIENT_OCCLUSION_ALL</code></a>.
+ This visual effect has a performance impact and should be considered only for devices with
  sufficient performance.
- </p><p>Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>,
+ Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>,
  <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a> and all hybrid schemes: <a href="sdk-for-android-explore-mapscheme#HYBRID_DAY"><code>MapScheme.HYBRID_DAY</code></a>
 <a href="sdk-for-android-explore-mapscheme#HYBRID_NIGHT"><code>MapScheme.HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_DAY"><code>MapScheme.LITE_HYBRID_DAY</code></a>
 <a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_NIGHT"><code>MapScheme.LITE_HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_DAY"><code>MapScheme.LOGISTICS_HYBRID_DAY</code></a> and
  <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_NIGHT"><code>MapScheme.LOGISTICS_HYBRID_NIGHT</code></a>.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.
  By default, this map feature is not enabled.</p></div>
 <dl class="notes">

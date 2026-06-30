@@ -200,7 +200,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a></span> <span class="element-name">getVenueModel</span>()</div>
 <div class="block"><p>Gets the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a> controlled by this object.
- </p><p>It can be used to get the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
+ It can be used to get the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
  belonging to this object, like a building or a complex of buildings.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -215,7 +215,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style">VenueStyle</a></span> <span class="element-name">getVenueStyle</span>()</div>
 <div class="block"><p>Gets the <a href="sdk-for-android-navigate-venuestyle" title="class in com.here.sdk.venue.style"><code>VenueStyle</code></a> associated with the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
  controlled by this object.
- </p><p>It can be used to get the style of the venue. Contains the information about
+ It can be used to get the style of the venue. Contains the information about
  the geometry and label styles available for the venue.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -230,7 +230,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a></span> <span class="element-name">getSelectedDrawing</span>()</div>
 <div class="block"><p>Gets the currently selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> of the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>.
- </p><p>Only the selected drawing will be visible as active on the map. All others will be
+ Only the selected drawing will be visible as active on the map. All others will be
  hidden or displayed without details, depending on the implementation of the renderer.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -244,7 +244,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedDrawing</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data">VenueDrawing</a> value)</span></div>
 <div class="block"><p>Sets the selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.
- </p><p>Only the selected drawing will be visible as active on the map. All others will be
+ Only the selected drawing will be visible as active on the map. All others will be
  hidden or displayed without details, depending on the implementation of the renderer.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -258,7 +258,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a></span> <span class="element-name">getSelectedLevel</span>()</div>
 <div class="block"><p>Gets the currently selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.
- </p><p>Only the selected level will be visible as active on the map. All others will be
+ Only the selected level will be visible as active on the map. All others will be
  hidden or displayed without details, depending on a renderer implementation.
  If the level doesn't belong to the currently selected drawing, it can not be selected.</p></div>
 <dl class="notes">
@@ -273,7 +273,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedLevel</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a> value)</span></div>
 <div class="block"><p>Sets the selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> from the currently selected <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>.
- </p><p>Only the selected level will be visible as active on the map. All others will be
+ Only the selected level will be visible as active on the map. All others will be
  hidden or displayed without details, depending on a renderer implementation.
  If the level doesn't belong to the currently selected drawing, it can not be selected.</p></div>
 <dl class="notes">
@@ -287,7 +287,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <h3>getSelectedLevelZIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getSelectedLevelZIndex</span>()</div>
 <div class="block"><p>Gets the Z index of the currently selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a>.
- </p><p>Z index 0 represents the ground level, negative values represent
+ Z index 0 represents the ground level, negative values represent
  underground levels, positive values - levels above the ground.
  Z index can also be taken from <a href="sdk-for-android-navigate-venuelevel#getZIndex()"><code>VenueLevel.getZIndex()</code></a>.</p></div>
 <dl class="notes">
@@ -301,7 +301,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <h3>setSelectedLevelZIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedLevelZIndex</span><wbr/><span class="parameters">(int value)</span></div>
 <div class="block"><p>Sets the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified Z index as selected.
- </p><p>Z index 0 represents the ground level, negative values represent
+ Z index 0 represents the ground level, negative values represent
  underground levels, positive values - levels above the ground.
  Z index can also be taken from <a href="sdk-for-android-navigate-venuelevel#getZIndex()"><code>VenueLevel.getZIndex()</code></a>.</p></div>
 <dl class="notes">
@@ -317,7 +317,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <div class="block"><p>Gets the index of the currently selected <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> in the level array
  of the related <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a>. The level array can be taken from
  <a href="sdk-for-android-navigate-venuedrawing#getLevels()"><code>VenueDrawing.getLevels()</code></a>.
- </p><p>Unlike the Z index, it can't have a negative value.</p></div>
+ Unlike the Z index, it can't have a negative value.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The index of the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected from the level array
@@ -331,7 +331,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setSelectedLevelIndex</span><wbr/><span class="parameters">(int value)</span></div>
 <div class="block"><p>Sets the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> with the specified index from the level array
  of the <a href="sdk-for-android-navigate-venuedrawing" title="class in com.here.sdk.venue.data"><code>VenueDrawing</code></a> as selected.
- </p><p>Unlike the Z index, it can't have a negative value.</p></div>
+ Unlike the Z index, it can't have a negative value.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The index of the <a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data"><code>VenueLevel</code></a> selected from the level array
@@ -344,7 +344,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <h3>isTopologyVisible</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isTopologyVisible</span>()</div>
 <div class="block"><p>Gets the current status of topology visibility.
- </p><p>It can be used to check the status of topology visibility.</p></div>
+ It can be used to check the status of topology visibility.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Returns true if topology is visible.</p></dd>
@@ -356,7 +356,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-control-venue"
 <h3>setTopologyVisible</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTopologyVisible</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets the topology visibility.
- </p><p>It can be used to check the status of topology visibility.</p></div>
+ It can be used to check the status of topology visibility.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Returns true if topology is visible.</p></dd>

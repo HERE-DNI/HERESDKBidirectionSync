@@ -23,7 +23,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarningprovider"
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">CustomWarningProvider</span></div>
 <div class="block"><p>A interface representing a provider of custom warnings based on vehicle position.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -69,7 +69,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarningprovider"
 <h3>getCustomWarningType</h3>
 <div class="member-signature"><span class="return-type">int</span> <span class="element-name">getCustomWarningType</span>()</div>
 <div class="block"><p>Returns the custom warning type identifier produced by this provider.
- </p><p>The returned value corresponds to <a href="sdk-for-android-navigate-customwarning#customWarningType"><code>CustomWarning.customWarningType</code></a> and
+ The returned value corresponds to <a href="sdk-for-android-navigate-customwarning#customWarningType"><code>CustomWarning.customWarningType</code></a> and
  <a href="sdk-for-android-navigate-warning#customWarningType"><code>Warning.customWarningType</code></a> and is used to apply per-type configuration,
  such as notification distances.</p></div>
 <dl class="notes">
@@ -87,7 +87,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-customwarningprovider"
  @Nullable
  <a href="sdk-for-android-navigate-segmentdata" title="class in com.here.sdk.mapdata">SegmentData</a> previousSegment)</span></div>
 <div class="block"><p>Returns a list of custom warnings for the given vehicle position.
- </p><p>This method evaluates the custom warning provider using the current
+ This method evaluates the custom warning provider using the current
  vehicle position on the electronic horizon and returns the resulting
  custom warnings along with corresponding payload.</p></div>
 <dl class="notes">

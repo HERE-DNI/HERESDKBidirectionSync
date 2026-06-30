@@ -90,7 +90,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-traffic-trafficflowquerycallback"
 <dt>Parameters:</dt>
 <dd><code>queryError</code> - <p>The error in the case of the failure. It is <code>null</code> for an operation that succeeds.</p></dd>
 <dd><code>result</code> - <p>The list of incidents in the case of the success. It is <code>null</code> in case of an error.
-     </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+     Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
      Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>

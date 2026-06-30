@@ -35,12 +35,12 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener"
  operations, which means that map scene is loaded and drawing surface is ready to render
  a map.
 
- </p><p>Whenever there is a need to call any map view related functions directly after
+ Whenever there is a need to call any map view related functions directly after
  the <code>Activity</code> resumes, <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener#onMapViewReady()"><code>onMapViewReady()</code></a> should be used for this purpose,
  as it guarantees that those operations will work. It is not recommended to call
  map view functionality directly from <code>Activity</code>'s <code>onResume()</code>.
 
- </p><p>There are few typical moments in the lifecycle where it's useful to execute map view
+ There are few typical moments in the lifecycle where it's useful to execute map view
  related operations:
      <ul>
 <li>After map is shown for the very first time

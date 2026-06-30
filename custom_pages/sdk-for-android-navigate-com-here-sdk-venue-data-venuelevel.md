@@ -296,7 +296,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel"
 <h3>getZIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getZIndex</span>()</div>
 <div class="block"><p>Gets an order in the z direction (altitude).
- </p><p>Z index 0 represents
+ Z index 0 represents
  a ground level, negative values represent underground levels,
  positive values - levels above ground.</p></div>
 <dl class="notes">
@@ -323,7 +323,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuelevel"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getName</span>()</div>
 <div class="block"><p>Gets a 'name' property of the level from the level properties.
- </p><p>If the 'name' property is missing in the properties, the string will be empty.</p></div>
+ If the 'name' property is missing in the properties, the string will be empty.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The name property of the level.</p></dd>

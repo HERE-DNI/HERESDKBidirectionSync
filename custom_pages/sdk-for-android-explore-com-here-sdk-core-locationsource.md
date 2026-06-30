@@ -33,11 +33,11 @@ slug: "sdk-for-android-explore-com-here-sdk-core-locationsource"
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">LocationSource</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-locationsource" title="enum class in com.here.sdk.core">LocationSource</a>&gt;</span></div>
 <div class="block"><p>Indicates where the location was computed.
- </p><p>Tells whether the location was calculated on the same device
+ Tells whether the location was calculated on the same device
  running HERE SDK or received from an external source.
- </p><p>Example external sources: GNSS modules connected via serial (e.g., u-blox),
+ Example external sources: GNSS modules connected via serial (e.g., u-blox),
  or vehicle positioning systems.
- </p><p>Example internal sources: positions computed on the same phone or embedded device
+ Example internal sources: positions computed on the same phone or embedded device
  using integrated GNSS or sensor fusion components.</p></div>
 </section>
 <section class="summary">

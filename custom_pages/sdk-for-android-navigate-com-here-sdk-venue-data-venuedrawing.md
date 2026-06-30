@@ -184,7 +184,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getIdentifier</span>()</div>
 <div class="block"><p>Gets an id of the drawing.
- </p><p>This describes the identifier for drawing.</p></div>
+ This describes the identifier for drawing.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The <code>id</code> of the drawing.</p></dd>
@@ -196,7 +196,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing"
 <h3>isRoot</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isRoot</span>()</div>
 <div class="block"><p>Checks if this is a root drawing of the venue.
- </p><p>This can be used to check if this is top level
+ This can be used to check if this is top level
  drawing in venue.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -210,7 +210,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data">VenueModel</a></span> <span class="element-name">getVenueModel</span>()</div>
 <div class="block"><p>Gets a parent venue model.
- </p><p>It can be used to get the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
+ It can be used to get the <a href="sdk-for-android-navigate-venuemodel" title="class in com.here.sdk.venue.data"><code>VenueModel</code></a>
  where this Drawing belong.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -224,7 +224,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuelevel" title="class in com.here.sdk.venue.data">VenueLevel</a>&gt;</span> <span class="element-name">getLevels</span>()</div>
 <div class="block"><p>Gets levels of the drawing.
- </p><p>This describes for which all level this
+ This describes for which all level this
  drawing belongs.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -238,7 +238,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCenter</span>()</div>
 <div class="block"><p>Gets a center of the drawing.
- </p><p>It can be used to get center coordinates of drawing.</p></div>
+ It can be used to get center coordinates of drawing.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The Geographic coordinates of the center of the drawing.</p></dd>
@@ -251,7 +251,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()</div>
 <div class="block"><p>Gets a bounding box of the drawing.
- </p><p>This is used to check if at certain zoom level
+ This is used to check if at certain zoom level
  and inside view this GeoBox belongs, then need to render.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -265,7 +265,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a href="sdk-for-android-navigate-property" title="class in com.here.sdk.venue.data">Property</a>&gt;</span> <span class="element-name">getProperties</span>()</div>
 <div class="block"><p>Gets properties of the drawing.
- </p><p>This can be used to get different properties
+ This can be used to get different properties
  like name belonging to Drawing.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -279,7 +279,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a>&gt;</span> <span class="element-name">getGeometriesByName</span>()</div>
 <div class="block"><p>Gets geometries ordered by a name in an ascending order.
- </p><p>This can be used to search geometries by name.</p></div>
+ This can be used to search geometries by name.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The geometries ordered by the name.</p></dd>
@@ -292,7 +292,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuegeometry" title="class in com.here.sdk.venue.data">VenueGeometry</a>&gt;&gt;</span> <span class="element-name">getGeometriesByIconNames</span>()</div>
 <div class="block"><p>Gets geometries mapped by icon names.
- </p><p>This can be used to search the geometries by icon names.</p></div>
+ This can be used to search the geometries by icon names.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The map from the icon names to the geometries in the drawing.</p></dd>
@@ -305,7 +305,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-data-venuedrawing"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-venuetopology" title="class in com.here.sdk.venue.data">VenueTopology</a>&gt;</span> <span class="element-name">getTopologies</span>()</div>
 <div class="block"><p>Gets a list of topologies of the drawing.
- </p><p>This can be used to check for which
+ This can be used to check for which
  all topologies are realted to Drawing.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

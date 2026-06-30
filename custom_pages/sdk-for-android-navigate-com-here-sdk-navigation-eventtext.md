@@ -131,7 +131,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtext"
 <h3>distanceInMeters</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">distanceInMeters</span></div>
 <div class="block"><p>Distance in meters to the location of the event for which the text notification is given.
- </p><p><strong>Note:</strong> For greater distances, distance in kilometers is rounded to the nearest digit (0.5 or
+ <strong>Note:</strong> For greater distances, distance in kilometers is rounded to the nearest digit (0.5 or
  greater rounds up, else down) to simplify the distance phrase in <code>ManeuverNotifications</code> texts
  during navigation. Distance in miles is rounded to the nearest 0.5 step. For example, 3.5 kilometers
  are rounded to 4 kilometers and the notification will begin with <code>After 4 kilometers...</code>. However,
@@ -147,7 +147,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtext"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">text</span></div>
 <div class="block"><p>The text notification instruction. The text is formatted and localized as specified via
  <a href="sdk-for-android-navigate-routetextoptions" title="class in com.here.sdk.routing"><code>RouteTextOptions</code></a>.
- </p><p><strong>Note:</strong> During navigation, the text will be always empty when the <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a> is
+ <strong>Note:</strong> During navigation, the text will be always empty when the <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a> is
  taken from the <code>Navigator</code> or <code>VisualNavigator</code> instance via the provided index.
  The text instruction that can be accessed from the <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing"><code>Route</code></a> instance is meant
  as preview and it is not necessarily matching the more comprehensive maneuver information you
@@ -195,7 +195,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtext"
 <dt>Parameters:</dt>
 <dd><code>type</code> - <p>Indicates the type of text announcement</p></dd>
 <dd><code>distanceInMeters</code> - <p>Distance in meters to the location of the event for which the text notification is given.
- </p><p><strong>Note:</strong> For greater distances, distance in kilometers is rounded to the nearest digit (0.5 or
+ <strong>Note:</strong> For greater distances, distance in kilometers is rounded to the nearest digit (0.5 or
  greater rounds up, else down) to simplify the distance phrase in <code>ManeuverNotifications</code> texts
  during navigation. Distance in miles is rounded to the nearest 0.5 step. For example, 3.5 kilometers
  are rounded to 4 kilometers and the notification will begin with <code>After 4 kilometers...</code>. However,
@@ -204,7 +204,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-eventtext"
  are defined in the <code>UnitSystem</code> class.</p></dd>
 <dd><code>text</code> - <p>The text notification instruction. The text is formatted and localized as specified via
  <a href="sdk-for-android-navigate-routetextoptions" title="class in com.here.sdk.routing"><code>RouteTextOptions</code></a>.
- </p><p><strong>Note:</strong> During navigation, the text will be always empty when the <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a> is
+ <strong>Note:</strong> During navigation, the text will be always empty when the <a href="sdk-for-android-navigate-maneuver" title="class in com.here.sdk.routing"><code>Maneuver</code></a> is
  taken from the <code>Navigator</code> or <code>VisualNavigator</code> instance via the provided index.
  The text instruction that can be accessed from the <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing"><code>Route</code></a> instance is meant
  as preview and it is not necessarily matching the more comprehensive maneuver information you

@@ -30,7 +30,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtiledatasour
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Point tile data source allows the rendering engine access to user managed data sets of
  geographical locations and their attributes through a <a href="sdk-for-android-explore-pointtilesource" title="interface in com.here.sdk.mapview.datasource"><code>PointTileSource</code></a>.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

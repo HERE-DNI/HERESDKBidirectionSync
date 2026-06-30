@@ -30,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloaderconstruction
 <div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)"><code>MapDownloader.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapDownloaderConstructionCallback)</code></a> has been completed.
  The <code>MapDownloader</code> instance is created on a background thread to not block the calling
  thread.
- </p><p>During construction an online connection is established to fetch configuration data for
+ During construction an online connection is established to fetch configuration data for
  internal use. If no online connection is available, cached or default values will be used.
  This is only for internal reasons and has no effect on the operability of the resulting
  instance. When configuration data is available from the cache, construction can still take
@@ -76,7 +76,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapdownloaderconstruction
 <div class="block"><p>A method which is called on the main thread when <a href="sdk-for-android-navigate-mapdownloader#fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.maploader.MapDownloaderConstructionCallback)"><code>MapDownloader.fromEngineAsync(com.here.sdk.core.engine.SDKNativeEngine, com.here.sdk.maploader.MapDownloaderConstructionCallback)</code></a> has been completed.
  The <code>MapDownloader</code> instance is created on a background thread to not block the calling
  thread.
- </p><p>During construction an online connection is established to fetch configuration data for
+ During construction an online connection is established to fetch configuration data for
  internal use. If no online connection is available, cached or default values will be used.
  This is only for internal reasons and has no effect on the operability of the resulting
  instance. When configuration data is available from the cache, construction can still take

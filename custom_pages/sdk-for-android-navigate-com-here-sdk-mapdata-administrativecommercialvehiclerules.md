@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-administrativecommercialveh
 <div class="block"><p>Commercial vehicle regulations for an administrative region (country or state).
  Contains access restrictions, speed limits, and drive/rest rules applicable to
  commercial vehicles on road segments within the region.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

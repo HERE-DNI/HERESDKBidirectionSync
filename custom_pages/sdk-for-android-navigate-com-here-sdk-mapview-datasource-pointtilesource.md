@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-pointtilesource"
 extends <a href="sdk-for-android-navigate-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></span></div>
 <div class="block"><p>A source of geodetic point tiles.
  The implementations must be thread-safe.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

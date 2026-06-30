@@ -462,9 +462,9 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
  If specified, altitude of the input coordinates is interpreted as altitude above sea level.
  If not specified, the input coordinates are interpreted as being on ground elevation.
  The above distinction is only relevant when 3D terrain feature is enabled.
- </p><p>
+ 
  The resulting view coordinates might be outside of current viewport, i.e. result might
- contain values less than zero or greater than view's dimensions. </p><p> If the render surface is
+ contain values less than zero or greater than view's dimensions.  If the render surface is
  not attached, it will return <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -543,16 +543,16 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
 <div class="block">Converts view coordinates to geographical coordinates.
  <p>
  An optional altitude component of the resulting geographical coordinate is not set.
- </p><p>
+ 
  If the view coordinates specify a point above a horizon, then the result
  is geographical coordinates of the point on a horizon below the specified
  view coordinates.
- </p><p>
+ 
  The fog effect is ignored for the calculation, meaning that for the view point
  within the area covered by the fog, the result is geographical coordinates
  that would be displayed at the specified point if the fog effect was
  not applied.
- </p><p>
+ 
  If the render surface is not attached, it will return <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>

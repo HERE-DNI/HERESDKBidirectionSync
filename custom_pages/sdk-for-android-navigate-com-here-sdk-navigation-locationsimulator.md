@@ -39,7 +39,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulator"
  Effectively, this means that traffic-related information is not considered
  to adjust the speed of the simulation.
  For the <code>GPXTrack</code>, a speed is either based on timestamps in the original file or provided by the user. The following data is read from a <code>GPXTrack</code> and inserted into the provided <code>Location</code> object: <code>latitude</code>, <code>longitude</code>, <code>altitude</code>, <code>time</code>, <code>bearingInDegrees</code>, <code>speedInMetersPerSecond</code>, <code>horizontalAccuracyInMeters</code>, <code>verticalAccuracyInMeters</code> and <code>locationTechnology</code>.
- </p><p>Note that simulation works offline and independent from any map data
+ Note that simulation works offline and independent from any map data
  <ul>
 <li>only the information found in the provided route or GPX document is considered.</li>
 <li>When initializing the <code>LocationSimulator</code> with a route, then interpolations take place between the vertices of the route's
@@ -47,8 +47,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-locationsimulator"
 <li>When initializing the <code>LocationSimulator</code> with a GPX file, the <code>LocationSimulator</code> does not apply
  any interpolation on the provided location data as this would shadow the recorded GPX data.</li>
 </ul>
-</p><p>Notifications will stop after the entire route has been traveled.
- </p><p><strong>Note:</strong>
+Notifications will stop after the entire route has been traveled.
+ <strong>Note:</strong>
  Map-matched locations are only accessible from <a href="sdk-for-android-navigate-routeprogress" title="class in com.here.sdk.navigation"><code>RouteProgress</code></a>.</p></div>
 </section>
 <section class="summary">

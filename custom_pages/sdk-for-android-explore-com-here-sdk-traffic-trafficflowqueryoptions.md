@@ -136,7 +136,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowqueryoptions"
 <h3>TrafficFlowQueryOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TrafficFlowQueryOptions</span>()</div>
 <div class="block"><p>Creates a new instance.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>

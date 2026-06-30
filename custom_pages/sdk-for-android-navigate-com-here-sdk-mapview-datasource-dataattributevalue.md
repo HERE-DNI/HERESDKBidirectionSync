@@ -30,7 +30,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-datasource-dataattributeval
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Encapsulates a data attribute value.
  Supports basic types and arrays of basic types.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

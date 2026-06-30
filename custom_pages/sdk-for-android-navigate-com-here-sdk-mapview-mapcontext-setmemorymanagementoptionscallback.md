@@ -32,7 +32,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-setmemorymanagem
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public static interface </span><span class="element-name type-name-label">MapContext.SetMemoryManagementOptionsCallback</span></div>
 <div class="block"><p>Callback to handle the memory management result.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -73,7 +73,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcontext-setmemorymanagem
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSetMemoryManagementOptions</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</span></div>
 <div class="block"><p>Callback to handle the memory management result.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

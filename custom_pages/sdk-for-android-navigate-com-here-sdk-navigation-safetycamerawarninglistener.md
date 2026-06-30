@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-safetycamerawarningliste
  the first <code>SafetyCameraWarning.distance_to_camera_in_meters</code> is 120 meters
  and the next <code>SafetyCameraWarning.distance_to_camera_in_meters</code> is then 40 meters,
  since that is the distance between the first and second warnings.
- </p><p>When <code>SafetyCameraWarningListener</code> is enabled, a new set of text notifications (e.g. "Speed camera ahead") will be trigger if any has been also enabled.
+ When <code>SafetyCameraWarningListener</code> is enabled, a new set of text notifications (e.g. "Speed camera ahead") will be trigger if any has been also enabled.
  The updates for the same safety camera appear in order of the initial <code>DistanceType.AHEAD</code> event.
  That is a first in first out approach is used when multiple safety cameras are reached or passed on the same location.</p></div>
 </section>

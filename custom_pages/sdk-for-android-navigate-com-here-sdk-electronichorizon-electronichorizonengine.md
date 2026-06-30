@@ -33,9 +33,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
  currently out of sight.
  You can subscribe to electronic horizon updates based on position updates by using <a href="sdk-for-android-navigate-electronichorizonlistener" title="interface in com.here.sdk.electronichorizon"><code>ElectronicHorizonListener</code></a>.
  For more information about sub path levels, see <a href="sdk-for-android-navigate-electronichorizonoptions#lookAheadDistancesInMeters"><code>ElectronicHorizonOptions.lookAheadDistancesInMeters</code></a>.
- </p><p>The electronic horizon engine uses map-matched locations and can optionally use a <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing"><code>Route</code></a>
+ The electronic horizon engine uses map-matched locations and can optionally use a <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing"><code>Route</code></a>
  to improve the most-preferred path (MPP).
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -191,7 +191,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a></span> <span class="element-name">getRoute</span>()</div>
 <div class="block"><p>Gets the instance of <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing"><code>Route</code></a> or <code>null</code> if <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing"><code>Route</code></a> is not set.
- </p><p>You can override this property to rebuild the electronic horizon based on a different route.</p></div>
+ You can override this property to rebuild the electronic horizon based on a different route.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The instance of <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing"><code>Route</code></a> that is being used by <a href="sdk-for-android-navigate-electronichorizonengine" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonEngine</code></a>.</p></dd>
@@ -205,7 +205,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-electronichorizon-electronichorizon
  <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing">Route</a> value)</span></div>
 <div class="block"><p>Sets the instance of <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing"><code>Route</code></a> to be used by <a href="sdk-for-android-navigate-electronichorizonengine" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonEngine</code></a>
  or <code>null</code> if no route should be used.
- </p><p>You can override this property to rebuild the electronic horizon based on a different route.</p></div>
+ You can override this property to rebuild the electronic horizon based on a different route.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The instance of <a href="sdk-for-android-navigate-route" title="class in com.here.sdk.routing"><code>Route</code></a> that is being used by <a href="sdk-for-android-navigate-electronichorizonengine" title="class in com.here.sdk.electronichorizon"><code>ElectronicHorizonEngine</code></a>.</p></dd>

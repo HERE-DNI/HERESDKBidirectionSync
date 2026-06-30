@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evchargingtariffdimension"
 <li>flat: One-time fee charged per session.</li>
 <li>parking time: Price per unit of time not charging but parked at the charger.</li>
 </ul>
-</p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+<strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

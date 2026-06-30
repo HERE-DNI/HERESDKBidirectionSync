@@ -29,7 +29,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SegmentData</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Contains the requested information for a segment
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -193,7 +193,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdata"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation">RoadSign</a>&gt;</span> <span class="element-name">getRoadSigns</span>()</div>
 <div class="block"><p>Gets the list of <a href="sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation"><code>RoadSign</code></a>.
- </p><p>Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadRoadSigns"><code>SegmentDataLoaderOptions.loadRoadSigns</code></a> is set to <code>false</code>.</p></div>
+ Returns <code>null</code> if <a href="sdk-for-android-navigate-segmentdataloaderoptions#loadRoadSigns"><code>SegmentDataLoaderOptions.loadRoadSigns</code></a> is set to <code>false</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The list of <a href="sdk-for-android-navigate-roadsign" title="class in com.here.sdk.navigation"><code>RoadSign</code></a> of the given segment.</p></dd>

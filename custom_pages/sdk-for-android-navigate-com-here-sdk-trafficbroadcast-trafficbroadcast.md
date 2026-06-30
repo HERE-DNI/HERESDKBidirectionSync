@@ -37,14 +37,14 @@ implements <a href="sdk-for-android-navigate-locationlistener" title="interface 
  format and it can be used when there is no internet connection, so that the <code>OfflineRoutingEngine</code>
  can utilize traffic data coming over a radio channel. The <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast#activate()"><code>activate()</code></a> method needs to be called to
  receive traffic data events.
- </p><p><strong>Note:</strong> In order to adopt the <code>TrafficDataProvider</code> interface special hardware is required. Talk
+ <strong>Note:</strong> In order to adopt the <code>TrafficDataProvider</code> interface special hardware is required. Talk
  to your HERE representative for more details. Only by adopting the <code>TrafficDataProvider</code> interface
  you can integrate radio station signals providing traffic broadcasts. Traffic broadcasts are meant
  to be used <em>independently</em> from the already included traffic on routes, on the map and from the
  HERE backends (when using the <code>TrafficEngine</code>).
- </p><p>This class continuously reacts to new locations provided from a location source and acts as a
+ This class continuously reacts to new locations provided from a location source and acts as a
  <a href="sdk-for-android-navigate-locationlistener" title="interface in com.here.sdk.core"><code>LocationListener</code></a>. The location must be updated regardless of calling <a href="sdk-for-android-navigate-com-here-sdk-trafficbroadcast-trafficbroadcast#activate()"><code>activate()</code></a>.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

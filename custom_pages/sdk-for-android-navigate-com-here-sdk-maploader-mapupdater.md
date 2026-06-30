@@ -33,24 +33,24 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
  installing the new content.
  It is recommended to regularly call <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)"><code>retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)</code></a> to check for available updates
  for any downloaded regions.
- </p><p>If updates are available, regions can be updated asynchronously using <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#updateCatalog(com.here.sdk.maploader.CatalogUpdateInfo,com.here.sdk.maploader.CatalogUpdateProgressListener)"><code>updateCatalog(com.here.sdk.maploader.CatalogUpdateInfo, com.here.sdk.maploader.CatalogUpdateProgressListener)</code></a>.
+ If updates are available, regions can be updated asynchronously using <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#updateCatalog(com.here.sdk.maploader.CatalogUpdateInfo,com.here.sdk.maploader.CatalogUpdateProgressListener)"><code>updateCatalog(com.here.sdk.maploader.CatalogUpdateInfo, com.here.sdk.maploader.CatalogUpdateProgressListener)</code></a>.
  The <a href="sdk-for-android-navigate-mapupdateprogresslistener" title="interface in com.here.sdk.maploader"><code>MapUpdateProgressListener</code></a> provides update progress for each region.
- </p><p>Incremental map updates are supported, by default: Instead of downloading an entire region,
+ Incremental map updates are supported, by default: Instead of downloading an entire region,
  only the parts that have changed will be installed. This results in a faster update process.
  MapUpdater also aligns previously downloaded content with <code>LayerConfiguration</code> changes made via <code>SDKOptions</code>.
- </p><p>Note that patching (also called "incremental updates") is only supported for up to 8 versions. For example, if an update started
+ Note that patching (also called "incremental updates") is only supported for up to 8 versions. For example, if an update started
  with version x.y.0 then it will be supported till x.y.8 and stopped starting with x.y.9.
  Usually, OCM updates are released weekly. Incremental updates will stop after 2 months and a full update is performed instead.
- </p><p>In case of an error, the previous map data remains available for use. It is only replaced
+ In case of an error, the previous map data remains available for use. It is only replaced
  after new map data has been successfully downloaded. Regions that fail to update
  must be retried in a new call. Paused updates can be resumed later.
- </p><p>During the update process, <a href="sdk-for-android-navigate-mapupdater" title="class in com.here.sdk.maploader"><code>MapUpdater</code></a> internally retries failed downloads
+ During the update process, <a href="sdk-for-android-navigate-mapupdater" title="class in com.here.sdk.maploader"><code>MapUpdater</code></a> internally retries failed downloads
  until a timeout occurs. If this happens, it is reported via <a href="sdk-for-android-navigate-mapupdateprogresslistener" title="interface in com.here.sdk.maploader"><code>MapUpdateProgressListener</code></a>.
- </p><p>If the user cancels the update process during the update phase, it is ignored.
+ If the user cancels the update process during the update phase, it is ignored.
  The update phase begins after all content has been downloaded, then the HERE SDK installs
  and replaces the existing regions. Cancellation is only possible during the download phase,
  and a successful cancellation is indicated via <a href="sdk-for-android-navigate-mapupdateprogresslistener#onComplete(com.here.sdk.maploader.MapLoaderError)"><code>MapUpdateProgressListener.onComplete(com.here.sdk.maploader.MapLoaderError)</code></a>.
- </p><p>Note that a <a href="sdk-for-android-navigate-maploadererror#NOT_READY"><code>MapLoaderError.NOT_READY</code></a> occurs when the <a href="sdk-for-android-navigate-mapdownloader" title="class in com.here.sdk.maploader"><code>MapDownloader</code></a> is used in parallel.
+ Note that a <a href="sdk-for-android-navigate-maploadererror#NOT_READY"><code>MapLoaderError.NOT_READY</code></a> occurs when the <a href="sdk-for-android-navigate-mapdownloader" title="class in com.here.sdk.maploader"><code>MapDownloader</code></a> is used in parallel.
  In general, background updates are not supported explicitly, as the OS can abort background processes.
  In addition, the OfflineSearchEngine and the OfflineRoutingEngine cannot be used while a map update is
  in progress and it will be indicated by a <a href="sdk-for-android-navigate-maploadererror" title="enum class in com.here.sdk.maploader"><code>MapLoaderError</code></a>.</p></div>
@@ -186,21 +186,21 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
  <a href="sdk-for-android-navigate-catalogupdateprogresslistener" title="interface in com.here.sdk.maploader">CatalogUpdateProgressListener</a> callback)</span></div>
 <div class="block"><p>Performs an asynchronous request for each catalog to update map data to the latest available version.
  This applies to all previously installed <a href="sdk-for-android-navigate-region" title="class in com.here.sdk.maploader"><code>Region</code></a> map data and any incomplete downloads in a pending state.
- </p><p>If no regions are downloaded, this method updates only the map version.
+ If no regions are downloaded, this method updates only the map version.
  The map cache and persisted regions are always bound to the same map version.
- </p><p>If no updates are available, <a href="sdk-for-android-navigate-catalogsupdateinfocallback" title="interface in com.here.sdk.maploader"><code>CatalogsUpdateInfoCallback</code></a> from
+ If no updates are available, <a href="sdk-for-android-navigate-catalogsupdateinfocallback" title="interface in com.here.sdk.maploader"><code>CatalogsUpdateInfoCallback</code></a> from
  <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)"><code>retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)</code></a> returns an empty list.
  In this case, <a href="sdk-for-android-navigate-mapupdateprogresslistener#onComplete(com.here.sdk.maploader.MapLoaderError)"><code>MapUpdateProgressListener.onComplete(com.here.sdk.maploader.MapLoaderError)</code></a> is called immediately.
- </p><p>To check for available updates, use <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)"><code>retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)</code></a> to retrieve catalogs with newer versions.
+ To check for available updates, use <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)"><code>retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)</code></a> to retrieve catalogs with newer versions.
  Individual catalogs can then be updated using this method.
  Ensure that the device has enough free disk space to perform a catalog update.
  Information about the required disk space is available in <a href="sdk-for-android-navigate-catalogupdateinfo#diskSizeInBytes"><code>CatalogUpdateInfo.diskSizeInBytes</code></a>.
- </p><p>If there is not enough space to perform the catalog update with the default
+ If there is not enough space to perform the catalog update with the default
  <a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy#ON_COMPLETE"><code>MapUpdater.MapUpdateVersionCommitPolicy.ON_COMPLETE</code></a>, try using <a href="sdk-for-android-navigate-mapupdater.mapupdateversioncommitpolicy#ON_FIRST_REGION"><code>MapUpdater.MapUpdateVersionCommitPolicy.ON_FIRST_REGION</code></a>.
  This option requires less space but follows a different strategy for handling errors during the map update.
- </p><p>If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, the index is rebuilt after the map is updated.
+ If indexing is enabled through <code>OfflineSearchEngine.setIndexOptions</code>, the index is rebuilt after the map is updated.
  The index helps <code>OfflineSearchEngine</code> provide better search results.
- </p><p>Note: Indexing is a beta feature and may have bugs or unexpected behavior.</p></div>
+ Note: Indexing is a beta feature and may have bugs or unexpected behavior.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>catalogInfo</code> - <p>catalog to update. CatalogUpdateInfo should be get from <a href="sdk-for-android-navigate-com-here-sdk-maploader-mapupdater#retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)"><code>retrieveCatalogsUpdateInfo(com.here.sdk.maploader.CatalogsUpdateInfoCallback)</code></a></p></dd>
@@ -244,7 +244,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <h3>getTaskCount</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">getTaskCount</span>()</div>
 <div class="block"><p>Gets the number of concurrent tasks for downloading a map.
- </p><p>A valid task count is between 1 to 64. When the value set is outside the valid range,
+ A valid task count is between 1 to 64. When the value set is outside the valid range,
  then it is clamped to a valid range:
  <ul>
 <li>when passed in value is 0 or less, then task count is set to 1;</li>
@@ -261,7 +261,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <h3>setTaskCount</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTaskCount</span><wbr/><span class="parameters">(long value)</span></div>
 <div class="block"><p>Sets the number of concurrent tasks for downloading a map.
- </p><p>A valid task count is between 1 to 64. When the value set is outside the valid range,
+ A valid task count is between 1 to 64. When the value set is outside the valid range,
  then it is clamped to a valid range:
  <ul>
 <li>when passed in value is 0 or less, then task count is set to 1;</li>
@@ -279,7 +279,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapupdater"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-updatestatistics" title="class in com.here.sdk.maploader">UpdateStatistics</a></span> <span class="element-name">getUpdateStatistics</span>()</div>
 <div class="block"><p>Map update statistics for the ongoing session of the current application.
- </p><p>In the event of binary updates, patches are downloaded and applied. This
+ In the event of binary updates, patches are downloaded and applied. This
  property helps to  determine the success or failure rate of applied patches.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

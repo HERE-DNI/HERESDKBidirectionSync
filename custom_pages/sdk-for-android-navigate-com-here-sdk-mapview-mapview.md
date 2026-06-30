@@ -43,10 +43,10 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
  which is accessible by calling <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#getMapScene()"><code>getMapScene()</code></a>. To display a map, map scene needs
  to be loaded with <a href="sdk-for-android-navigate-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a>.
 
- </p><p>Manipulating the way the map is displayed is possible using <a href="sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview"><code>MapCamera</code></a>, which is
+ Manipulating the way the map is displayed is possible using <a href="sdk-for-android-navigate-mapcamera" title="class in com.here.sdk.mapview"><code>MapCamera</code></a>, which is
  accessible by calling <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#getCamera()"><code>getCamera()</code></a>.
 
- </p><p>Gesture handling can be modified through the <a href="sdk-for-android-navigate-gestures" title="class in com.here.sdk.gestures"><code>Gestures</code></a> object, which is
+ Gesture handling can be modified through the <a href="sdk-for-android-navigate-gestures" title="class in com.here.sdk.gestures"><code>Gestures</code></a> object, which is
  accessible by calling <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#getGestures()"><code>getGestures()</code></a>.
 
  
@@ -56,17 +56,17 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
  
 <code>MapView</code> can draw the map using either <code>SurfaceView</code> or <code>TextureView</code>.
 
- </p><p><code>SurfaceView</code> is the default method, offers best performance and works best for single
+ <code>SurfaceView</code> is the default method, offers best performance and works best for single
  screen applications where there's a single <code>MapView</code> which is not part of a complex view
  hierarchy and takes no part in any UI animations. This method is known to cause graphical
  glitches in some scenarios (like embedding multiple <code>MapView</code>s inside a view pager),
  especially on Android 12 and newer.
 
- </p><p><code>TextureView</code> is less performant, but behaves like any other view and can be easily
+ <code>TextureView</code> is less performant, but behaves like any other view and can be easily
  transformed and animated, making it a better fit for applications with complex UI and/or
  multiple <code>MapView</code>s as part of a complex view hierarchy.
 
- </p><p>Rendering mode can only be set when creating a <code>MapView</code>, by setting
+ Rendering mode can only be set when creating a <code>MapView</code>, by setting
  <a href="sdk-for-android-navigate-mapviewoptions#renderMode"><code>MapViewOptions.renderMode</code></a> and passing the options to the constructor.
 
  
@@ -79,29 +79,29 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
  <a href="sdk-for-android-navigate-mapview.onreadylistener#onMapViewReady()"><code>MapView.OnReadyListener.onMapViewReady()</code></a>. See Lifecycle section below for more details.
 
  
-</p><p>Two caching mechanisms are supported. First is in-memory cache, which keeps some number
+Two caching mechanisms are supported. First is in-memory cache, which keeps some number
  of map tiles around in memory to avoid repeated network requests or storage reads.
  The second mechanism is persistent cache that stores downloaded map data on the device.
  Persistent cache requires storage permission to be granted.
 
  
-</p><p>For <code>MapView</code> to work correctly, it is required to call its lifecycle
+For <code>MapView</code> to work correctly, it is required to call its lifecycle
  methods from the owner Activity: <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a>, <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#onResume()"><code>onResume()</code></a>,
  <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#onPause()"><code>onPause()</code></a>, <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#onDestroy()"><code>onDestroy()</code></a> and <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#onSaveInstanceState(android.os.Bundle)"><code>onSaveInstanceState(Bundle)</code></a>.
 
- </p><p>When dealing with multiple <code>MapView</code>s in a single Activity,
+ When dealing with multiple <code>MapView</code>s in a single Activity,
  an extra identifier needs to be passed to <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle,java.lang.String)"><code>onCreate(Bundle, String)</code></a> and
  <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#onSaveInstanceState(android.os.Bundle,java.lang.String)"><code>onSaveInstanceState(Bundle, String)</code></a>. This identifier needs to be unique
  to all the <code>MapView</code>s owned by the <code>Activity</code> and needs to be the same
  when recreating the <code>Activity</code>.
 
- </p><p>A <code>MapView</code> is considered valid only after
+ A <code>MapView</code> is considered valid only after
  <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a> or <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle,java.lang.String)"><code>onCreate(Bundle, String)</code></a> and before
  <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#onDestroy()"><code>onDestroy()</code></a> is called. <code>MapView</code> is also invalidated when the
  <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> it is using is destroyed.
  <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#isValid()"><code>isValid()</code></a> can be used to check the state of <code>MapView</code>.
 
- </p><p><code>MapView</code> offers additional lifecycle event exposed through <a href="sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a>.
+ <code>MapView</code> offers additional lifecycle event exposed through <a href="sdk-for-android-navigate-mapview.onreadylistener" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a>.
  This can be used to determine when <code>MapView</code> is fully ready for action, which means that
  map scene is loaded and drawing surface is ready to render a map. This is important
  for coordinate conversion methods and <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapview#getViewportSize()"><code>getViewportSize()</code></a>, which work only when those
@@ -113,7 +113,7 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
 <li>some time after <code>Activity</code>'s <code>onResume()</code>, assuming map scene had been
      loaded before</li>
 </ul>
-</p><p>Note: Before using any API in this class, <code>SDKNativeEngine</code> must be already initialized.</p></div>
+Note: Before using any API in this class, <code>SDKNativeEngine</code> must be already initialized.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -819,9 +819,9 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
  If specified, altitude of the input coordinates is interpreted as altitude above sea level.
  If not specified, the input coordinates are interpreted as being on ground elevation.
  The above distinction is only relevant when 3D terrain feature is enabled.
- </p><p>
+ 
  The resulting view coordinates might be outside of current viewport, i.e. result might
- contain values less than zero or greater than view's dimensions. </p><p> If the render surface is
+ contain values less than zero or greater than view's dimensions.  If the render surface is
  not attached, it will return <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -889,7 +889,7 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
  <p>
  Trying to pin a view that was already pinned or a view that has a parent
  has no effect and returns <code>null</code>.
- </p><p>
+ 
  The altitude component of the coordinates, if set, is interpreted as above sea level.
  When not set, the coordinates are interpreted as at ground level.</p></div>
 <dl class="notes">
@@ -935,16 +935,16 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
 <div class="block">Converts view coordinates to geographical coordinates.
  <p>
  An optional altitude component of the resulting geographical coordinate is not set.
- </p><p>
+ 
  If the view coordinates specify a point above a horizon, then the result
  is geographical coordinates of the point on a horizon below the specified
  view coordinates.
- </p><p>
+ 
  The fog effect is ignored for the calculation, meaning that for the view point
  within the area covered by the fog, the result is geographical coordinates
  that would be displayed at the specified point if the fog effect was
  not applied.
- </p><p>
+ 
  If the render surface is not attached, it will return <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
@@ -992,7 +992,7 @@ implements <a href="sdk-for-android-navigate-mapviewbase" title="interface in co
  and is a direct analog of pixel density from DisplayMetrics.
  It can be used to translate between physical pixels and
  density independent pixels according to formula:
- </p><p>dp = px / pixel_scale</p></div>
+ dp = px / pixel_scale</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-navigate-mapviewbase#getPixelScale()">getPixelScale</a></code> in interface <code><a href="sdk-for-android-navigate-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>

@@ -35,7 +35,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-passthroughfeature"
 <div class="block"><p>Represents features that are allowed to consume online data when the HERE SDK's offline mode
  is activated via <a href="sdk-for-android-explore-sdknativeengine#isOfflineMode()"><code>SDKNativeEngine.isOfflineMode()</code></a> and/or
  <a href="sdk-for-android-explore-sdkoptions#offlineMode"><code>SDKOptions.offlineMode</code></a>.
- </p><p>Note: This is a beta release of this feature,
+ Note: This is a beta release of this feature,
  so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>

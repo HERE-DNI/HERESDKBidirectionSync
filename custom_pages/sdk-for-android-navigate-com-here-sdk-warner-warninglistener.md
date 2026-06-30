@@ -23,11 +23,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warninglistener"
 
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">WarningListener</span></div>
 <div class="block"><p>A generic listener interface interface for receiving warning notifications.
- </p><p>Implementations of this interface are notified whenever the <code>WarnerEngine</code> detects new warnings.
+ Implementations of this interface are notified whenever the <code>WarnerEngine</code> detects new warnings.
  The listener receives a list of <code>Warning</code> objects, each describing a specific event or condition that requires user attention.
- </p><p>Classes interested in warning updates should implement this listener
+ Classes interested in warning updates should implement this listener
  and register themselves via <code>WarnerEngine.addWarningListener</code>.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

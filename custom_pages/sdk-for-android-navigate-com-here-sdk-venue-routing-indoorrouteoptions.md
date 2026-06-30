@@ -118,7 +118,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span></div>
 <div class="block"><p>Specifies the common route calculation options.
- </p><p><strong>Note:</strong> Currently, only <a href="sdk-for-android-navigate-routeoptions#optimizationMode"><code>RouteOptions.optimizationMode</code></a> parameter is
+ <strong>Note:</strong> Currently, only <a href="sdk-for-android-navigate-routeoptions#optimizationMode"><code>RouteOptions.optimizationMode</code></a> parameter is
  utilized for indoor route calculation.</p></div>
 </section>
 </li>
@@ -128,7 +128,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-routing-indoorrouteoptions"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-venuetransportmode" title="enum class in com.here.sdk.venue.routing">VenueTransportMode</a></span> <span class="element-name">transportMode</span></div>
 <div class="block"><p>The transport mode for route calculation.
- </p><p><strong>Note:</strong> Indoor route sections of the resulting route will always be
+ <strong>Note:</strong> Indoor route sections of the resulting route will always be
  <a href="sdk-for-android-navigate-venuetransportmode#PEDESTRIAN"><code>VenueTransportMode.PEDESTRIAN</code></a> in the current implementation.
  This option will affect only outdoor route sections.</p></div>
 </section>

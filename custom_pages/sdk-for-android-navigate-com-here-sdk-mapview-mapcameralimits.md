@@ -29,9 +29,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapCameraLimits</span>
 <span class="extends-implements">extends <a href="sdk-for-android-navigate-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Controls constraints on map camera parameters.
- </p><p>When constraints are set, they are enforced for current camera state
+ When constraints are set, they are enforced for current camera state
  and for all future changes to the camera.
- </p><p>When setting, limits are applied on next rendering loop.</p></div>
+ When setting, limits are applied on next rendering loop.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -234,10 +234,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits"
  @NonNull
  <a href="sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a> bearingRange)</span></div>
 <div class="block"><p>Sets the bearing range within which the camera can rotate at a given zoom.
- </p><p>The resulting camera bearing at a zoom is an interpolated value of the ranges set for closest matching zoom values.
+ The resulting camera bearing at a zoom is an interpolated value of the ranges set for closest matching zoom values.
  When no bearing range is specified for <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MIN_ZOOM_LEVEL"><code>MIN_ZOOM_LEVEL</code></a>, the bearing range set through
  <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#setBearingRange(com.here.sdk.core.AngleRange)"><code>setBearingRange(com.here.sdk.core.AngleRange)</code></a> is used for interpolation.
- </p><p>Zoom values outside the supported zoom range are ignored.
+ Zoom values outside the supported zoom range are ignored.
  By default, the maximum bearing range for all zoom values is set during initialization.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -262,9 +262,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits"
  @NonNull
  <a href="sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a> tiltRange)</span></div>
 <div class="block"><p>Sets tilt ranges that can be set on the camera at given zoom.
- </p><p>The resulting camera tilt at a zoom is an interpolated value of the ranges set for closest matching zoom values.
+ The resulting camera tilt at a zoom is an interpolated value of the ranges set for closest matching zoom values.
  When no tilt range is specified for <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MIN_ZOOM_LEVEL"><code>MIN_ZOOM_LEVEL</code></a>, the tilt range set through <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#setTiltRange(com.here.sdk.core.AngleRange)"><code>setTiltRange(com.here.sdk.core.AngleRange)</code></a> is used for interpolation.
- </p><p>Zoom or tilt values outside the supported zoom and tilt range are ignored.
+ Zoom or tilt values outside the supported zoom and tilt range are ignored.
  By default, the maximum tilt range for all zoom values is set during initialization.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -286,8 +286,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">getTiltRange</span>()</div>
 <div class="block"><p>Gets the current tilt range.
- </p><p>By default, a <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MIN_TILT"><code>MIN_TILT</code></a>-<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MAX_TILT"><code>MAX_TILT</code></a> tilt range is set during initialization.
- </p><p>This range might not be yet active if no rendering loop has been executed since the last call to set the range.</p></div>
+ By default, a <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MIN_TILT"><code>MIN_TILT</code></a>-<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MAX_TILT"><code>MAX_TILT</code></a> tilt range is set during initialization.
+ This range might not be yet active if no rendering loop has been executed since the last call to set the range.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The tilt range that can be applied to the camera.</p></dd>
@@ -300,12 +300,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTiltRange</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a> value)</span></div>
 <div class="block"><p>Sets a new tilt limit range.
- </p><p>The supported values fall inside <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MIN_TILT"><code>MIN_TILT</code></a>-<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MAX_TILT"><code>MAX_TILT</code></a> range.
+ The supported values fall inside <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MIN_TILT"><code>MIN_TILT</code></a>-<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MAX_TILT"><code>MAX_TILT</code></a> range.
  Values outside the supported range are ignored.
- </p><p>If the current camera tilt exceeds the new limit range, it will immediately be set to minimum or maximum,
+ If the current camera tilt exceeds the new limit range, it will immediately be set to minimum or maximum,
  depending on which is closest.
- </p><p>This new limit range becomes active during the next rendering loop.
- </p><p>All previously set tilt ranges are cleared and the new tilt range is applied for all zoom values.</p></div>
+ This new limit range becomes active during the next rendering loop.
+ All previously set tilt ranges are cleared and the new tilt range is applied for all zoom values.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The tilt range that can be applied to the camera.</p></dd>
@@ -318,9 +318,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">getBearingRange</span>()</div>
 <div class="block"><p>Gets the currently set bearing range.
- </p><p>This may not be active now if no rendering loop has been executed since
+ This may not be active now if no rendering loop has been executed since
  the last call to set the range.
- </p><p>By default, range for a full circle is set during initialization.</p></div>
+ By default, range for a full circle is set during initialization.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The bearing range within which the camera can be rotated.</p></dd>
@@ -333,9 +333,9 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setBearingRange</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-anglerange" title="class in com.here.sdk.core">AngleRange</a> value)</span></div>
 <div class="block"><p>Sets a new bearing range.
- </p><p>It will be updated during the next rendering loop.
+ It will be updated during the next rendering loop.
  All previously set bearing ranges are cleared and the new bearing range is applied for all zoom values.
- </p><p>If the current camera bearing exceeds the limit range, it will immediately be set to minimum or
+ If the current camera bearing exceeds the limit range, it will immediately be set to minimum or
  maximum, depending on which is closest.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -349,7 +349,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a></span> <span class="element-name">getZoomRange</span>()</div>
 <div class="block"><p>Gets the currently set camera zoom range.
- </p><p>By default, a <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MIN_ZOOM_LEVEL"><code>MIN_ZOOM_LEVEL</code></a>-<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MAX_ZOOM_LEVEL"><code>MAX_ZOOM_LEVEL</code></a> zoom range is set during initialization.</p></div>
+ By default, a <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MIN_ZOOM_LEVEL"><code>MIN_ZOOM_LEVEL</code></a>-<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MAX_ZOOM_LEVEL"><code>MAX_ZOOM_LEVEL</code></a> zoom range is set during initialization.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The zoom range that can be applied to the camera.</p></dd>
@@ -362,10 +362,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setZoomRange</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-navigate-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a> value)</span></div>
 <div class="block"><p>Sets a new camera zoom range.
- </p><p>The supported values fall inside <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MIN_ZOOM_LEVEL"><code>MIN_ZOOM_LEVEL</code></a>-<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MAX_ZOOM_LEVEL"><code>MAX_ZOOM_LEVEL</code></a> range.
+ The supported values fall inside <a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MIN_ZOOM_LEVEL"><code>MIN_ZOOM_LEVEL</code></a>-<a href="sdk-for-android-navigate-com-here-sdk-mapview-mapcameralimits#MAX_ZOOM_LEVEL"><code>MAX_ZOOM_LEVEL</code></a> range.
  Values outside the supported zoom range are ignored.
- </p><p>If the current camera zoom exceeds the limit range, it will immediately be set to minimum or maximum, depending on which is closest.
- </p><p>This new limit range becomes active during the next rendering loop.</p></div>
+ If the current camera zoom exceeds the limit range, it will immediately be set to minimum or maximum, depending on which is closest.
+ This new limit range becomes active during the next rendering loop.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The zoom range that can be applied to the camera.</p></dd>

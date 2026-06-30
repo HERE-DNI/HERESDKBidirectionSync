@@ -28,10 +28,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingstation"
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Group of connectors for electric vehicles (EVs), defined by a common charging connector type and
  maximum power level.
- </p><p>Use <a href="sdk-for-android-navigate-placecategory#BUSINESS_AND_SERVICES_EV_CHARGING_STATION"><code>PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION</code></a> to find stations.
+ Use <a href="sdk-for-android-navigate-placecategory#BUSINESS_AND_SERVICES_EV_CHARGING_STATION"><code>PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION</code></a> to find stations.
  In the <code>Details</code> of a <code>Place</code> result you can find the list of found pools containing stations,
  if any.
- </p><p>For offline EV rich attributes, enable <a href="sdk-for-android-navigate-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
+ For offline EV rich attributes, enable <a href="sdk-for-android-navigate-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
  in <a href="sdk-for-android-navigate-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.</p></div>
 </section>
 <section class="summary">

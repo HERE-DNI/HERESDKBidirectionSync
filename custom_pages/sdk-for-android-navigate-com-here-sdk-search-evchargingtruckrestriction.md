@@ -111,15 +111,15 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-evchargingtruckrestriction"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-navigate-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a>&gt;</span> <span class="element-name">truckAccess</span></div>
 <div class="block"><p>Access categories for trucks and light commercial vehicles that the
  EV charging location is designed to serve.
- </p><p>While the classifications used as basis for the categories are solely based on vehicle mass,
+ While the classifications used as basis for the categories are solely based on vehicle mass,
  in EV charging context they can be interpreted to give an idea of the dimensional class too,
  as well as possible other restrictions set by the operator. If there are true dimensional or
  weight limits at the EV charging location, they are specified separately in vehicleLimitations.
- </p><p>The classification is available only to a subset of EV charging locations, depending on the
+ The classification is available only to a subset of EV charging locations, depending on the
  information available from the operators. Hence, at least vehicles belonging to the
  <a href="sdk-for-android-navigate-truckclass#LIGHT_CLASS"><code>TruckClass.LIGHT_CLASS</code></a> category can be charged also in many EV charging locations not having
  explicit signaling for the <a href="sdk-for-android-navigate-truckclass#LIGHT_CLASS"><code>TruckClass.LIGHT_CLASS</code></a> category.
- </p><p>Furthermore, although the classification is based on mass/weight ranges in growing order,
+ Furthermore, although the classification is based on mass/weight ranges in growing order,
  an upper class does not automatically mean that also all lower class vehicles are welcome to charge.
  For example, a location marked only with category <a href="sdk-for-android-navigate-truckclass#HEAVY_CLASS"><code>TruckClass.HEAVY_CLASS</code></a>
  is reserved for long-haul trucks only.</p></div>

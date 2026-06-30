@@ -137,7 +137,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-routematchedlocation"
 <h3>spanGeometryVertexIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">spanGeometryVertexIndex</span></div>
 <div class="block"><p>Zero-based index of the geometry vertex that precedes this location.
- </p><p>The span geometry is represented as a series of vertices. This index
+ The span geometry is represented as a series of vertices. This index
  points to the vertex immediately before the matched location,
  allowing for interpolation between vertices if needed.</p></div>
 </section>

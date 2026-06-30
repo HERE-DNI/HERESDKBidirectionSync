@@ -24,7 +24,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-search-offlinesearchindexlistener"
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">OfflineSearchIndexListener</span></div>
 <div class="block"><p>Interface to get updates about progress
  of creating persistent map index.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

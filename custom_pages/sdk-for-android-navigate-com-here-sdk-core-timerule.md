@@ -34,8 +34,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-timerule"
  March 2nd Sunday 02h:00m for 9 months
  ONLY DURING November 1st Sunday 02h:00m from 9 months ago
  BUT NOT from 15:00 to 17:00 OR 20:00 to 22:00
- </p><p>The operator * represents reccuring occurrence, <code>+</code> represents a logical OR operation and <code>-</code> represents exclusion meaning, BUT NOT operations.
- </p><p>This example string represents a time period that meets the following criteria:
+ The operator * represents reccuring occurrence, <code>+</code> represents a logical OR operation and <code>-</code> represents exclusion meaning, BUT NOT operations.
+ This example string represents a time period that meets the following criteria:
  <ul>
 <li><code>M3f21h2</code>: M3 denotes third month of the year, i.e. March,
  f2 stands for the second Sunday of the month (as "f" might indicate "first", "second", "third", etc.),
@@ -47,8 +47,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-timerule"
 <li><code>(h15){h2}(h20){h2}</code>: 15:00 to 17:00 OR 20:00 to 22:00
  The brackets {} denotes duration, and the negative sign - represents a past duration.</li>
 </ul>
-</p><p>Note: The time period is a logical AND (&amp;&amp;) combination of two components or points in time and it only applies if a point in time is in both components.
- </p><p>For more advanced examples of <code>TimeRule</code> see <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html#time-domain-advanced-examples">here</a>.</p></div>
+Note: The time period is a logical AND (&amp;&amp;) combination of two components or points in time and it only applies if a point in time is in both components.
+ For more advanced examples of <code>TimeRule</code> see <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html#time-domain-advanced-examples">here</a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">

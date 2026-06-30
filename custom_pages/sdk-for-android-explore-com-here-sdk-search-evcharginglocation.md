@@ -29,8 +29,8 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">EVChargingLocation</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>An electric vehicle (EV) charging location.
- </p><p>The semantics generally follow the OCPI 2.2.1 standard.
- </p><p>Known EV-specific acronyms:
+ The semantics generally follow the OCPI 2.2.1 standard.
+ Known EV-specific acronyms:
  <ul>
 <li>EV: Electric Vehicle</li>
 <li>OCPI: Open Charge Point Interface (a standard with a rather wide adoption worldwide, https://evroaming.org/)</li>
@@ -38,12 +38,12 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 <li>eMSP: e-Mobility Service Provider (customer-facing company)</li>
 <li>EVSE: Electric Vehicle Supply Equipment (the actual charger that can charge one car at a time)</li>
 </ul>
-</p><p>A charging location includes a collection of one or more EV supply equipment (EVSE) instances.
+A charging location includes a collection of one or more EV supply equipment (EVSE) instances.
  Typically, the charging location is the exact location of the group of EVSEs,
  simplified to a single point, but it can also be the entrance of a parking structure
  which contains these EVSEs.
  Each EVSE supports more precise position, where applicable.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -197,7 +197,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getCpoID</span>()</div>
 <div class="block"><p>Gets the CPO's own ID for the location.
- </p><p>This ID may be relevant for some clients to map the charging location data to their own
+ This ID may be relevant for some clients to map the charging location data to their own
  or 3rd party systems.
  Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
  <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></div>
@@ -237,7 +237,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingoperator" title="class in com.here.sdk.search">EVChargingOperator</a>&gt;</span> <span class="element-name">getEMobilityServiceProviders</span>()</div>
 <div class="block"><p>Gets the list of eMSPs with a roaming agreement enabling access to the EV charging location.
- </p><p>Available only if <code>EVChargingLocationFeature.EMSPS</code> is included in
+ Available only if <code>EVChargingLocationFeature.EMSPS</code> is included in
  <code>EVSearchOptions.additional_features</code>, otherwise empty.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -252,7 +252,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-facilitytype" title="enum class in com.here.sdk.search">FacilityType</a>&gt;</span> <span class="element-name">getFacilityTypes</span>()</div>
 <div class="block"><p>Gets the list of facilities available at the charging location, for example
  hotel, wifi, parking lot etc.
- </p><p>Available only if <code>EVChargingLocationFeature.NEARBY</code> is included in
+ Available only if <code>EVChargingLocationFeature.NEARBY</code> is included in
  <code>EVSearchOptions.additional_features</code>, otherwise empty.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -266,7 +266,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-parkingtype" title="enum class in com.here.sdk.search">ParkingType</a></span> <span class="element-name">getParkingType</span>()</div>
 <div class="block"><p>Gets the type of parking at the charging location.
- </p><p>Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
+ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
  <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -294,7 +294,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evseinfo" title="class in com.here.sdk.search">EVSEInfo</a>&gt;</span> <span class="element-name">getEvses</span>()</div>
 <div class="block"><p>Gets the list of EVSEs at the charging station.
- </p><p>Available only if <code>EVChargingLocationFeature.EVSES</code> is included in
+ Available only if <code>EVChargingLocationFeature.EVSES</code> is included in
  <code>EVSearchOptions.additional_features</code>, otherwise empty.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -308,11 +308,11 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingtariff" title="class in com.here.sdk.search">EVChargingTariff</a>&gt;</span> <span class="element-name">getTariffs</span>()</div>
 <div class="block"><p>Gets the list of tariffs or price plans for the connectors of the charging station.
- </p><p>Tariffs are typically connector-type specific. Hence, they are always linked with connectors
+ Tariffs are typically connector-type specific. Hence, they are always linked with connectors
  and/or connector groups, by indexes to this list.
- </p><p>This property is set only when data is available and when <code>EVSearchOptions.additional_features</code>
+ This property is set only when data is available and when <code>EVSearchOptions.additional_features</code>
  include either <code>EVChargingLocationFeature.EVSES</code> or <code>EVChargingLocationFeature.CONNECTOR_GROUPS</code>.
- </p><p>By default, the list includes tariffs for ad-hoc charging, per connector type,
+ By default, the list includes tariffs for ad-hoc charging, per connector type,
  for EVSEs that accept payment without registering.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -326,7 +326,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingconnectorgroup" title="class in com.here.sdk.search">EVChargingConnectorGroup</a>&gt;</span> <span class="element-name">getConnectorGroups</span>()</div>
 <div class="block"><p>Gets the connector groups for the location.
- </p><p>Provides an overview of the charging connectors in the location by type and power.
+ Provides an overview of the charging connectors in the location by type and power.
  Available only if <code>EVChargingLocationFeature.CONNECTOR_GROUPS</code> is included in
  <code>EVSearchOptions.additional_features</code>, otherwise empty.</p></div>
 <dl class="notes">
@@ -342,7 +342,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingvehiclecategory" title="enum class in com.here.sdk.search">EVChargingVehicleCategory</a>&gt;</span> <span class="element-name">getSupportedVehicles</span>()</div>
 <div class="block"><p>Gets the list of vehicle categories this charging location can support. For example,
  the same location can be suitable for charging passenger cars and motorcycles.
- </p><p>There may be some further restrictions specified in other attributes, for example the available
+ There may be some further restrictions specified in other attributes, for example the available
  connector types may not be suitable for all vehicles in the supported category.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -357,7 +357,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evchargingtruckrestriction" title="class in com.here.sdk.search">EVChargingTruckRestriction</a></span> <span class="element-name">getTruckRestrictions</span>()</div>
 <div class="block"><p>Gets the access restrictions for trucks and light commercial vehicles.
- </p><p>Restricted, only available to customers having a specific contract with HERE
+ Restricted, only available to customers having a specific contract with HERE
  and if requested by including <code>EVChargingLocationFeature.TRUCK_RESTRICTIONS</code> in
  <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></div>
 <dl class="notes">
@@ -372,7 +372,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evchargingopeninghours" title="class in com.here.sdk.search">EVChargingOpeningHours</a></span> <span class="element-name">getOpeningHours</span>()</div>
 <div class="block"><p>Gets the times when the EVSEs at the charging location can be accessed for charging.
- </p><p>Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
+ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
  <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -398,7 +398,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getSupportPhoneNumber</span>()</div>
 <div class="block"><p>Gets the phone number that EV drivers should call when need assistance at the charge location.
- </p><p>Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
+ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
  <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -412,7 +412,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-evcharginglocation"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getTimeZone</span>()</div>
 <div class="block"><p>Gets the time zone of the charging location. Based on IANA tzdata's TZ-values.
- </p><p>Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
+ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is included in
  <code>EVSearchOptions.additional_features</code>, otherwise <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

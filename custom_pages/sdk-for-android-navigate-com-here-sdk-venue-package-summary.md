@@ -48,12 +48,12 @@ slug: "sdk-for-android-navigate-com-here-sdk-venue-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-com-here-sdk-venue-venueengine" title="class in com.here.sdk.venue">VenueEngine</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-navigate-venueengine" title="class in com.here.sdk.venue">VenueEngine</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">VenueEngine is an add-on to the base map functionality with its
  own content loading and cache.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-com-here-sdk-venue-venueengineinitcallback" title="interface in com.here.sdk.venue">VenueEngineInitCallback</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-navigate-venueengineinitcallback" title="interface in com.here.sdk.venue">VenueEngineInitCallback</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">This method will be called on the main thread when VenueEngine initialization is completed.</div>
 </div>

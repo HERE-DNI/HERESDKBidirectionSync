@@ -29,7 +29,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapCameraUpdateFactory</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Factory for creating MapCameraUpdate to change map's camera.
- </p><p>For some factory methods you can apply an additional padding in pixels by setting a
+ For some factory methods you can apply an additional padding in pixels by setting a
  <code>viewRectangle</code> parameter based on the current size of the map view:
  <pre><code>int leftPaddingInPixels = 5;
  int rightPaddingInPixels = 5;
@@ -42,7 +42,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  Size2D sizeInPixels = new Size2D(mapView.getWidth() - horizontalPaddingInPixels, mapView.getHeight() - verticalPaddingInPixels);
  Rectangle2D paddedViewRectangle = new Rectangle2D(origin, sizeInPixels);
  </code></pre>
-</p><p>The origin indicates the top-left corner of the rectangle. An origin of (0, 0) indicates
+The origin indicates the top-left corner of the rectangle. An origin of (0, 0) indicates
  also the top-left corner of the map's viewport.</p></div>
 </section>
 <section class="summary">
@@ -219,8 +219,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  <a href="sdk-for-android-explore-geocoordinatesupdate" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target)</span></div>
 <div class="block"><p>Creates an update to position the map camera to look at the given target,
  preserving the current orientation at look-at target and map measure.
- </p><p>Any target sub-element value that is not finite will be excluded from the update.
- </p><p>The altitude of the target point is ignored. Any subsequent camera updates and animations
+ Any target sub-element value that is not finite will be excluded from the update.
+ The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -242,7 +242,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
 <div class="block"><p>Creates an update to position the map camera to look at the given target with the given
  orientation preserving the current map measure (zoom level/distance/scale)
  Any target or orientation sub-element value that is not finite will be excluded from the update.
- </p><p>The altitude of the target point is ignored. Any subsequent camera updates and animations
+ The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -265,7 +265,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  map measure preserving the current orientation at look-at target.
  Any target sub-element value that is not finite will be excluded from the update.
  If the map measure is not valid, the current map camera distance to the target point is preserved.
- </p><p>The altitude of the target point is ignored. Any subsequent camera updates and animations
+ The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -290,7 +290,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  orientation and map measure.
  Any target or orientation sub-element value that is not finite will be excluded from the update.
  If the map measure is not valid, the current map camera distance to the target point is preserved.
- </p><p>The altitude of the target point is ignored. Any subsequent camera updates and animations
+ The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -316,9 +316,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> measure)</span></div>
 <div class="block"><p>Creates an update to position the map camera to look at the map with the given
  orientation and map measure and with the given geo point located at the given view point.
- </p><p>The altitude of the target point is ignored. Any subsequent camera updates and animations
+ The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.
- </p><p>Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -348,7 +348,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  with the given geo point located at the given view point.
  Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.
- </p><p>The altitude of the target point is ignored. Any subsequent camera updates and animations
+ The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -378,14 +378,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> measureLimit)</span></div>
 <div class="block"><p>Create an update to look at the given geo locations and fit them inside the given rectangle,
  in accordance with a map measure limit.
- </p><p>If the provided <code>points</code> list is empty, no update will be applied to the camera.
- </p><p>If the <code>viewRectangle</code> parameter is invalid, fully or partially outside the map view,
+ If the provided <code>points</code> list is empty, no update will be applied to the camera.
+ If the <code>viewRectangle</code> parameter is invalid, fully or partially outside the map view,
  then the entire map viewport will be used as <code>viewRectangle</code>. Thus, no padding will be applied.
  A <code>viewRectangle</code> is considered invalid, when its width or height are negative or zero, its origin
  coordinates (x, y) are invalid, when they are negative.
- </p><p>All <code>viewRectangle</code> values need to be finite to be considered as valid.
+ All <code>viewRectangle</code> values need to be finite to be considered as valid.
  If measure limit is not valid, no update will be applied to the map camera.
- </p><p>The altitude of the target points is ignored. Any subsequent camera updates and animations
+ The altitude of the target points is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -427,14 +427,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
 <div class="block"><p>Creates an update to position the camera to look at the given target with the given
  orientation and obeying map measure limits, so that the given geo locations are inside the given rectangle.
  Such position update can possibly not be found.
- </p><p>Any target or orientation sub-element value that is not finite will be excluded from the update.
- </p><p>If the provided <code>points</code> list is empty, no update will be applied to the map camera.
- </p><p>If the <code>viewRectangle</code> parameter is invalid, fully or partially outside the map view,
+ Any target or orientation sub-element value that is not finite will be excluded from the update.
+ If the provided <code>points</code> list is empty, no update will be applied to the map camera.
+ If the <code>viewRectangle</code> parameter is invalid, fully or partially outside the map view,
  then the entire map viewport will be used as <code>viewRectangle</code>. Thus, no padding will be applied.
  A <code>viewRectangle</code> is considered invalid, when its width or height are negative or zero, its origin
  coordinates (x, y) are invalid, when they are negative.
- </p><p>If map measures are not valid, no update will be applied to the map camera.
- </p><p>The altitude of the target points is ignored. Any subsequent camera updates and animations
+ If map measures are not valid, no update will be applied to the map camera.
+ The altitude of the target points is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -478,15 +478,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  @NonNull
  <a href="sdk-for-android-explore-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewRectangle)</span></div>
 <div class="block"><p>Create an update to look at the given geo-box and fit it inside the given rectangle.
- </p><p>If geoBox is not valid, no update will be applied to the map camera.
- </p><p>If the <code>viewRectangle</code> parameter is invalid, fully or partially outside the map view,
+ If geoBox is not valid, no update will be applied to the map camera.
+ If the <code>viewRectangle</code> parameter is invalid, fully or partially outside the map view,
  then the entire map viewport will be used as <code>viewRectangle</code>. Thus, no padding will be applied.
  A <code>viewRectangle</code> is considered invalid, when its width or height are negative or zero, its origin
  coordinates (x, y) are invalid, when they are negative.
- </p><p>All <code>viewRectangle</code> values need to be finite to be considered as valid.
- </p><p>In cases where it is not possible to find a solution for the given parameters,
+ All <code>viewRectangle</code> values need to be finite to be considered as valid.
+ In cases where it is not possible to find a solution for the given parameters,
  the resulting MapCameraUpdate will not change the map camera.
- </p><p>The altitude of the target points is ignored. Any subsequent camera updates and animations
+ The altitude of the target points is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -508,14 +508,14 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  <a href="sdk-for-android-explore-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewRectangle)</span></div>
 <div class="block"><p>Creates an update to look at the given geo-box and fit it inside the given rectangle,
  preserving current orientation and zooming at the center of view rectangle.
- </p><p>If geoBox is not valid, no update will be applied to the map camera.
- </p><p>If the <code>viewRectangle</code> parameter is invalid, fully or partially outside the map view,
+ If geoBox is not valid, no update will be applied to the map camera.
+ If the <code>viewRectangle</code> parameter is invalid, fully or partially outside the map view,
  then the entire map viewport will be used as <code>viewRectangle</code>. Thus, no padding will be applied.
  A <code>viewRectangle</code> is considered invalid, when its width or height are negative or zero, its origin
  coordinates (x, y) are invalid, when they are negative.
- </p><p>In cases where it is not possible to find a solution for the given parameters,
+ In cases where it is not possible to find a solution for the given parameters,
  the resulting MapCameraUpdate will not change the map camera.
- </p><p>The altitude of the target points is ignored. Any subsequent camera updates and animations
+ The altitude of the target points is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -534,8 +534,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> target)</span></div>
 <div class="block"><p>Creates an update to look at the given geo-box,
  preserving current orientation and zooming at the center of viewport.
- </p><p>If geoBox is not valid, no update will be applied to the map camera.
- </p><p>The altitude of the target points is ignored. Any subsequent camera updates and animations
+ If geoBox is not valid, no update will be applied to the map camera.
+ The altitude of the target points is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -572,7 +572,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</span></div>
 <div class="block"><p>Creates an update to orbit map camera around a pixel origin by specified geodetic orientation delta.
  If the origin cannot be converted to geo coordinates, no update will be applied to the map camera.
- </p><p>Orientation elements that are not valid will be excluded from the update.
+ Orientation elements that are not valid will be excluded from the update.
  Resulting bearing values are wrapped around degrees range [0, 360].
  Resulting tilt values are clamped inside degrees range [0, 180].
  Resulting roll values are wrapped around degrees range [-180, 180].</p></div>
@@ -612,10 +612,10 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  @NonNull
  <a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</span></div>
 <div class="block"><p>Creates an update to zoom map camera by a given factor preserving a given focus point.
- </p><p>Values greater than 1 zoom in map camera, by moving it closer to the ground; less than 1 - zoom out,
+ Values greater than 1 zoom in map camera, by moving it closer to the ground; less than 1 - zoom out,
  which moves map camera further.
- </p><p>If factor is zero, negative or not finite, no update will be applied to the map camera.
- </p><p>If the focusPoint is not inside the viewport bounds, then the current principal point will be used.</p></div>
+ If factor is zero, negative or not finite, no update will be applied to the map camera.
+ If the focusPoint is not inside the viewport bounds, then the current principal point will be used.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>factor</code> - <p>Zooming factor.</p></dd>
@@ -631,7 +631,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a></span> <span class="element-name">zoomTo</span><wbr/><span class="parameters">(double zoomLevel)</span></div>
 <div class="block"><p>Creates an update to move map camera's viewpoint to a particular zoom level by adjusting its position.
- </p><p>If zoomLevel is not finite, no update will be applied to the map camera.</p></div>
+ If zoomLevel is not finite, no update will be applied to the map camera.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>zoomLevel</code> - <p>The desired zoom level.</p></dd>
@@ -666,7 +666,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
  <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> principalPoint)</span></div>
 <div class="block"><p>Creates an update to change the map camera's principal point (where the view vector
  intersects the image plane - default is (0.5, 0.5)). Point values are in normalized screen coordinates.
- </p><p>If the principalPoint is outside [0,1] interval, it is clamped.
+ If the principalPoint is outside [0,1] interval, it is clamped.
  (0,0) is top left of the viewport, (1,1) is bottom right.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -682,8 +682,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a></span> <span class="element-name">setVerticalFieldOfView</span><wbr/><span class="parameters">(double verticalFieldOfView)</span></div>
 <div class="block"><p>Creates an update to change the vertical field of view of the map camera.
- </p><p>If verticalFieldOfView is not finite, no update will be applied to the map camera.
- </p><p>If the verticalFieldOfView is outside [1, 150] interval, it is clamped.</p></div>
+ If verticalFieldOfView is not finite, no update will be applied to the map camera.
+ If the verticalFieldOfView is outside [1, 150] interval, it is clamped.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>verticalFieldOfView</code> - <p>Vertical field of view in degrees.</p></dd>
@@ -701,7 +701,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraupdatefactory"
                                        throws <span class="exceptions"><a href="sdk-for-android-explore-mapcameraupdate.instantiationexception" title="class in com.here.sdk.mapview">MapCameraUpdate.InstantiationException</a></span></div>
 <div class="block"><p>Creates a composite camera update from a list of camera updates. The result update will be
  equivalent to executing all given updates sequentially in the order they were provided.
- </p><p>MapCameraAnimation instances derived from the MapCameraAnimationFactory and a composite camera
+ MapCameraAnimation instances derived from the MapCameraAnimationFactory and a composite camera
  update are not supported. An AnimationListener will receive an AnimationState.Cancelled signal
  when trying to apply such animations.</p></div>
 <dl class="notes">

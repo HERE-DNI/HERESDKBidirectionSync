@@ -29,8 +29,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapPolyline</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A visual representation of a line on the map.
- </p><p>The geometry to be visualized is represented by an instance of <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a>.
- </p><p>Altitude component of <code>GeoPolyline</code>'s vertices is ignored.</p></div>
+ The geometry to be visualized is represented by an instance of <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a>.
+ Altitude component of <code>GeoPolyline</code>'s vertices is ignored.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -242,8 +242,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
  @NonNull
  <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a> representation)</span></div>
 <div class="block"><p>Creates a new <code>MapPolyline</code> instance with a specified visual representation.
- </p><p>Altitude component of <code>GeoPolyline</code>'s vertices is ignored.
- </p><p>After creating a <code>MapPolyline</code> with this representation, the deprecated <code>MapPolyline</code>
+ Altitude component of <code>GeoPolyline</code>'s vertices is ignored.
+ After creating a <code>MapPolyline</code> with this representation, the deprecated <code>MapPolyline</code>
  properties do not work and any change to them will be ignored. Any modifications to polyline's
  appearance must be done with <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#setRepresentation(com.here.sdk.mapview.MapPolyline.Representation)"><code>setRepresentation(com.here.sdk.mapview.MapPolyline.Representation)</code></a>.</p></div>
 <dl class="notes">
@@ -281,8 +281,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
  @NonNull
  <a href="sdk-for-android-explore-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> listener)</span></div>
 <div class="block"><p>Starts an animation of this map polyline.
- </p><p>The <code>MapPolylineAnimation</code> may be shared between multiple instances of <code>MapPolyline</code>.
- </p><p>Starting animation on one polyline does not influence any ongoing animations on
+ The <code>MapPolylineAnimation</code> may be shared between multiple instances of <code>MapPolyline</code>.
+ Starting animation on one polyline does not influence any ongoing animations on
  other polylines.
  Any ongoing animation of this map polyline will get cancelled.</p></div>
 <dl class="notes">
@@ -299,7 +299,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimation</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-mappolylineanimation" title="class in com.here.sdk.animation">MapPolylineAnimation</a> animation)</span></div>
 <div class="block"><p>Cancels single ongoing animation of this map polyline.
- </p><p>Does nothing if the specified animation is not currently in progress for this polyline.
+ Does nothing if the specified animation is not currently in progress for this polyline.
  Does not affect other polylines that might be running this animation.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -361,7 +361,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <h3>getDrawOrder</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getDrawOrder</span>()</div>
 <div class="block"><p>Gets the draw order of the polyline.
- </p><p>The default draw order is 0.</p></div>
+ The default draw order is 0.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The draw order of the polyline.</p></dd>
@@ -373,11 +373,11 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <h3>setDrawOrder</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDrawOrder</span><wbr/><span class="parameters">(int value)</span></div>
 <div class="block"><p>Sets the draw order of the polyline.
- </p><p>Polylines with a higher draw order are drawn on top
+ Polylines with a higher draw order are drawn on top
  of polylines with a lower draw order.
- </p><p>In case multiple polylines have the same draw
+ In case multiple polylines have the same draw
  order, they can be rendered in different ways depending on the <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline#getDrawOrderType()"><code>getDrawOrderType()</code></a> set.
- </p><p>Supplied value is clamped to the range [0; 1023].</p></div>
+ Supplied value is clamped to the range [0; 1023].</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The draw order of the polyline.</p></dd>
@@ -390,7 +390,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></span> <span class="element-name">getDrawOrderType</span>()</div>
 <div class="block"><p>Gets the draw order type of the polyline.
- </p><p>The default value is <a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a>.</p></div>
+ The default value is <a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The draw order type of the polyline.</p></dd>
@@ -403,15 +403,15 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDrawOrderType</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a> value)</span></div>
 <div class="block"><p>Sets the draw order type of the polyline.
- </p><p>For <a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a>, map polylines with outlines having
+ For <a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a>, map polylines with outlines having
  the same draw order are drawn as a whole in the order of addition to a map scene. There
  is no possibility that parts of another polyline, regardless of its draw order value,
  are drawn between outline and mainline of another polyline.
- </p><p>With <a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a>, polylines are rendered one by one.
- </p><p>For <a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a>, for multiple polylines with
+ With <a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a>, polylines are rendered one by one.
+ For <a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a>, for multiple polylines with
  outlines having the same draw order, all outlines are rendered first in an arbitrary order
  and then all mainlines are drawn on top of those polylines in an arbitrary order.
- </p><p><a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a> allows speeding up the rendering
+ <a href="sdk-for-android-explore-drawordertype#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>DrawOrderType.MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a> allows speeding up the rendering
  process and keeping high frame rates when many similar polylines (with same styling
  attributes and <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview"><code>MapPolyline.Representation</code></a>) are present in a map scene.</p></div>
 <dl class="notes">
@@ -441,7 +441,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="block"><p>Sets visibility ranges for this map polyline. A range is half open -
  [minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
  The map polyline is visible only inside these map measure ranges.
- </p><p>When empty (the default), the map polyline is visible without map measure restrictions.
+ When empty (the default), the map polyline is visible without map measure restrictions.
  Only <code>MapMeasureRange</code>(s) of <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> type are supported.
  <code>MapMeasureRange</code>(s) of other unsupported types will be ignored.</p></div>
 <dl class="notes">
@@ -468,7 +468,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setProgress</span><wbr/><span class="parameters">(double value)</span></div>
 <div class="block"><p>Sets the progress of the polyline from its starting point as a ratio of its total length
  clamped to the range [0; 1].
- </p><p>As the progress varies, the equivalent part of the
+ As the progress varies, the equivalent part of the
  polyline gets covered by the progress color and progress outline color. The rest of the
  polyline until its end point retains the line color and outline color along with an
  optional dash pattern.</p></div>
@@ -550,7 +550,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
  use <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> with multiple values. The default value is a constant
  gradient length of zero pixels. The gradient is guaranteed to fit into polyline, i.e. the
  actual gradient can be shorter then <code>progressGradientLength</code>.
- </p><p>For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
+ For <a href="sdk-for-android-explore-mapmeasure.kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
  For <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
  A parameter with unsupported values is ignored.</p></div>
 <dl class="notes">
@@ -565,7 +565,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>&gt;</span> <span class="element-name">getMapContentCategoriesToBlock</span>()</div>
 <div class="block"><p>Gets list of map content categories this polyline should block.
- </p><p>Default value is an empty list meaning none of the map categories will be blocked.</p></div>
+ Default value is an empty list meaning none of the map categories will be blocked.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>List of map content categories this polyline should block.</p></dd>
@@ -578,9 +578,9 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMapContentCategoriesToBlock</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapcontentcategory" title="enum class in com.here.sdk.mapview">MapContentCategory</a>&gt; value)</span></div>
 <div class="block"><p>Sets list of map content categories this polyline should block.
- </p><p>Map content categories overlapping the polyline geometry
+ Map content categories overlapping the polyline geometry
  (progress and non-progress) will be discarded from being rendered.
- </p><p>Duplicate entries will be ignored and will have no additional effect.</p></div>
+ Duplicate entries will be ignored and will have no additional effect.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>List of map content categories this polyline should block.</p></dd>

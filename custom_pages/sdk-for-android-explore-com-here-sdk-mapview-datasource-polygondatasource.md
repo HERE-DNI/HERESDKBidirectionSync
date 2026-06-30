@@ -30,8 +30,8 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Polygon data source allows the rendering engine access to the user provided
  polygons geometry and their attributes.
- </p><p>Polygon segments are rendered following the shortest path between their end points.
- </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ Polygon segments are rendered following the shortest path between their end points.
+ Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -151,7 +151,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource
  <a href="sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> processor)</span></div>
 <div class="block"><p>Iterates through all the polygons from the data source and passes them to the
  given processor, one by one. The processor can update the polygon data.
- </p><p>The iteration stops after all polygons have been processed or the processor returns false
+ The iteration stops after all polygons have been processed or the processor returns false
  from the process call.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

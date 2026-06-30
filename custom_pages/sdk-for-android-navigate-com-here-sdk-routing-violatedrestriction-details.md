@@ -272,7 +272,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-violatedrestriction-details
  for the route calculation provided using <a href="sdk-for-android-navigate-vehiclespecification#hazardousMaterials"><code>VehicleSpecification.hazardousMaterials</code></a> from
  <a href="sdk-for-android-navigate-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="sdk-for-android-navigate-routingoptions#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>.
  This property is the intersection of the two lists.
- </p><p><strong>Note</strong> <code>RoadSignWarning</code> events and <code>RouteViolations</code> are only given for violations that are
+ <strong>Note</strong> <code>RoadSignWarning</code> events and <code>RouteViolations</code> are only given for violations that are
  indicated on a road sign. Additional legal restrictions might apply when transporting hazardous materials.</p></div>
 </section>
 </li>

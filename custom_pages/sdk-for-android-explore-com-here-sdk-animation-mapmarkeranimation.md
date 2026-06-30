@@ -94,8 +94,8 @@ slug: "sdk-for-android-explore-com-here-sdk-animation-mapmarkeranimation"
  <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a> track)</span>
                    throws <span class="exceptions"><a href="sdk-for-android-explore-mapmarkeranimation.instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></span></div>
 <div class="block"><p>Creates an animation of <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> based on provided keyframe track.
- </p><p>Supports tracks created with <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a> 'moveTo*' methods.
- </p><p>For starting the animation see <a href="sdk-for-android-explore-mapmarker#startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)"><code>MapMarker.startAnimation(com.here.sdk.animation.MapMarkerAnimation, com.here.sdk.animation.AnimationListener)</code></a>.</p></div>
+ Supports tracks created with <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a> 'moveTo*' methods.
+ For starting the animation see <a href="sdk-for-android-explore-mapmarker#startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)"><code>MapMarker.startAnimation(com.here.sdk.animation.MapMarkerAnimation, com.here.sdk.animation.AnimationListener)</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>track</code> - <p>The track holding the keyframes for the animation.</p></dd>

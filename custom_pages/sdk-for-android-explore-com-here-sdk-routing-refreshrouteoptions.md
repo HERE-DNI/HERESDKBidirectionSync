@@ -41,7 +41,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-refreshrouteoptions"
  <a href="sdk-for-android-explore-evcaroptions#ensureReachability"><code>EVCarOptions.ensureReachability</code></a> is set to true, the route refresh request will fail as this option
  is incompatible with a fixed route shape.
  If any of the ignored options are important, consider calculating a new route instead.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">

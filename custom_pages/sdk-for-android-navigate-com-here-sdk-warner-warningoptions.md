@@ -27,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warningoptions"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">WarningOptions</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A class with options to configure <a href="sdk-for-android-navigate-warnerengine#getWarningOptions()"><code>WarnerEngine.getWarningOptions()</code></a>
-</p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+<strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
@@ -208,7 +208,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warningoptions"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-navigate-lanedecreasewarningoptions" title="class in com.here.sdk.warner">LaneDecreaseWarningOptions</a></span> <span class="element-name">laneDecreaseWarningOptions</span></div>
 <div class="block"><p>A struct that provides lane decrease warning options.
  Set the options for filtering the lane decrease notifications.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
@@ -256,7 +256,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-warner-warningoptions"
  Set the options for filtering the traffic merge notifications.</p></dd>
 <dd><code>laneDecreaseWarningOptions</code> - <p>A struct that provides lane decrease warning options.
  Set the options for filtering the lane decrease notifications.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>

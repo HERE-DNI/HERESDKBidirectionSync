@@ -27,8 +27,8 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routingoptions"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">RoutingOptions</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>The options defines how a route should be calculated.
- </p><p>The options are used for all transport modes and engines.
- </p><p>** Electric vehicle specific requirements **
+ The options are used for all transport modes and engines.
+ ** Electric vehicle specific requirements **
  Electric vehicle consumption are estimated when at least one consumption model is defined.
  Currently two models are supported:
  <ul>
@@ -42,7 +42,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-routingoptions"
 </li>
 <li>EmpiricalConsumptionModel</li>
 </ul>
-</p><p>By setting <a href="sdk-for-android-navigate-electricvehicleoptions#ensureReachability"><code>ElectricVehicleOptions.ensureReachability</code></a> the <code>RoutingEngine</code> inserts additional charging stations
+By setting <a href="sdk-for-android-navigate-electricvehicleoptions#ensureReachability"><code>ElectricVehicleOptions.ensureReachability</code></a> the <code>RoutingEngine</code> inserts additional charging stations
  to reach the waypoints.
  This feature requires setting the <a href="sdk-for-android-navigate-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a>.
  By default a vehicle might not reach the waypoint, when the initial charge is not enough to reach all waypoints.

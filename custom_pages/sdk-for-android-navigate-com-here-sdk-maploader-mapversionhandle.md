@@ -81,7 +81,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-maploader-mapversionhandle"
 <dd><code>separator</code> - <p>Separator being used between elements of the map version.
      In case map version has single element to it, separator is not used.
      <code>none</code> token is used, when it is not possible to determine the version of the map.
-     </p><p>Examples:
+     Examples:
      <ul>
 <li>separator=", " possible result is "8.10, 9.10"</li>
 <li>separator="."  possible result is "8.10.9.10"</li>

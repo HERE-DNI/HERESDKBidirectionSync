@@ -28,11 +28,11 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-catalogconfiguration"
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Using this class you can configure in the <a href="sdk-for-android-navigate-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>,
  how the <a href="sdk-for-android-navigate-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> should access, use and store the data for the desired catalog.
- </p><p>Using this class, you can access default catalogs on the HERE platform and also custom catalogs
+ Using this class, you can access default catalogs on the HERE platform and also custom catalogs
  such as for self-hosted or BYOD (bring your own data) use cases.
- </p><p>For information on how the user can identify a catalog on the HERE platform, see <a href="sdk-for-android-navigate-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a>
+ For information on how the user can identify a catalog on the HERE platform, see <a href="sdk-for-android-navigate-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a>
  For further information about catalogs and related concepts see <a href="sdk-for-android-navigate-catalogidentifier" title="class in com.here.sdk.core.engine"><code>CatalogIdentifier</code></a>.
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  This API is only applicable for the Navigate license.</p></div>
 </section>
 <section class="summary">

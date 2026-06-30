@@ -24,7 +24,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-navigation-speedwarninglistener"
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">SpeedWarningListener</span></div>
 <div class="block"><p>This interface should be implemented in order to receive notifications
  when a speed limit on a road is exceeded or driving speed is restored back to normal.
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  The warnings issued by this interface
  don't take into account any temporary special speed limits. See <code>SpeedLimitListener</code>.</p></div>
 </section>

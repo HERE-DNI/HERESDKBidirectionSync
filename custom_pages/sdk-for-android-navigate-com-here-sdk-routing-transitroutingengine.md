@@ -34,7 +34,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-routing-transitroutingengine"
  online connection. The resulting route contains various
  information such as the polyline, route length in meters,
  estimated time to traverse along the route and maneuver data.
- </p><p><strong>Note</strong>: Clients need to explicitly call <a href="sdk-for-android-navigate-com-here-sdk-routing-transitroutingengine#dispose()"><code>dispose()</code></a> in order to prevent a possible, though
+ <strong>Note</strong>: Clients need to explicitly call <a href="sdk-for-android-navigate-com-here-sdk-routing-transitroutingengine#dispose()"><code>dispose()</code></a> in order to prevent a possible, though
  unlikely, deadlock on destruction.</p></div>
 </section>
 <section class="summary">

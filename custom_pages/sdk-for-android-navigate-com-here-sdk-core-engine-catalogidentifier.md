@@ -27,7 +27,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-catalogidentifier"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">CatalogIdentifier</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>This class is used to identify any catalog in the HERE platform.
- </p><p>A catalog is a storage-representation to store map data on the HERE platform.
+ A catalog is a storage-representation to store map data on the HERE platform.
  The data inside a catalog is divided into layers, where each layer consists
  of datasets with similar functional attributes in the physical world.
  For example, there can be a layer for road-topology, a layer for

@@ -108,10 +108,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess"
  Note that the PID might belong to the current app process, so it is recommended to check this
  before a process is killed as otherwise you will kill your own app process.
  Alternatively, call the convenient function <a href="sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a>.
- </p><p>If a PID is available it means that there is a lock on either the cache or the persistant map storage
+ If a PID is available it means that there is a lock on either the cache or the persistant map storage
  and that the HERE SDK will be non-functional until the locking process is killed. In such a case, consider
  to kill the locking process.
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  The Operation is not atomic and may return a PID for a process which is already destroyed or the file might
  be locked by another thread or process after this function returned <code>null</code>.</p></div>
 <dl class="notes">
@@ -138,10 +138,10 @@ slug: "sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess"
  Note that the PID might belong to the current app process, so it is recommended to check this
  before a process is killed as otherwise you will kill your own app process.
  Alternatively, call the convenient function <a href="sdk-for-android-navigate-com-here-sdk-core-engine-lockingprocess#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a>.
- </p><p>If a PID is available it means that there is a lock on either the cache or the persistant map storage
+ If a PID is available it means that there is a lock on either the cache or the persistant map storage
  and that the HERE SDK will be non-functional until the locking process is killed. In such a case, consider
  to kill the locking process.
- </p><p><strong>Note:</strong>
+ <strong>Note:</strong>
  The Operation is not atomic and may return a PID for a process which is already destroyed or the file might
  be locked by another thread or process after this function returned <code>null</code>.</p></div>
 <dl class="notes">

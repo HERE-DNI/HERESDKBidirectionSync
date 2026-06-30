@@ -33,7 +33,7 @@ slug: "sdk-for-android-navigate-com-here-sdk-mapdata-segmentdataloader"
  load map data synchronously. In the event of absent data in the disk cache, the data will be
  retrieved from the remote server. To mitigate the potential freezing of the calling thread,
  it is advisable to proactively prefetch map data around the working area.
- </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
