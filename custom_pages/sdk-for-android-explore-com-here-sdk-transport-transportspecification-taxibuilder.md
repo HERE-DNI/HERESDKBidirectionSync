@@ -3,171 +3,304 @@ title: "TransportSpecification.TaxiBuilder (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- TransportSpecification.TaxiBuilder.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.transport</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div class="inheritance">com.here.sdk.transport.TransportSpecification.TaxiBuilder</div>
-</div>
-</div>
-<section class="class-description" id="class-description">
-<dl class="notes">
-<dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></dd>
-</dl>
 
-<div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TransportSpecification.TaxiBuilder</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>This class constructs a <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a taxi.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section class="constructor-summary" id="constructor-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="caption"><span>Constructors</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Constructor</div>
-<div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder#%3Cinit%3E()">TaxiBuilder</a>()</code></div>
-<div class="col-last even-row-color">
-<div class="block">Creates a new instance of this class.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder#build()">build</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Builds the <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a taxi with the specifications taken
- from the <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.TaxiBuilder</code></a> object.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder#withTaxiSpecification(com.here.sdk.transport.TaxiSpecification)">withTaxiSpecification</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-transport-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a> taxiSpecification)</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Sets the taxi specification.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Sets the vehicle specification.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section class="constructor-details" id="constructor-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="&lt;init&gt;()">
-<h3>TaxiBuilder</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TaxiBuilder</span>()</div>
-<div class="block"><p>Creates a new instance of this class.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="withTaxiSpecification(com.here.sdk.transport.TaxiSpecification)">
-<h3>withTaxiSpecification</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></span> <span class="element-name">withTaxiSpecification</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-transport-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a> taxiSpecification)</span></div>
-<div class="block"><p>Sets the taxi specification.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>taxiSpecification</code> - <p>The taxi specification.</p></dd>
-<dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.TaxiBuilder</code></a> object with the taxi specification set to the new value.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">
-<h3>withVehicleSpecification</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></span> <span class="element-name">withVehicleSpecification</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-transport-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</span></div>
-<div class="block"><p>Sets the vehicle specification.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>vehicleSpecification</code> - <p>The vehicle specification.</p></dd>
-<dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.TaxiBuilder</code></a> object with the vehicle specification set to the new value.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="build()">
-<h3>build</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">build</span>()</div>
-<div class="block"><p>Builds the <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a taxi with the specifications taken
- from the <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.TaxiBuilder</code></a> object.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object created from the <a href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.TaxiBuilder</code></a> object.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object →
+com.here.NativeBasecom.here.sdk.transport.TransportSpecification.TaxiBuilder
+→ com.here.NativeBase →
+com.here.sdk.transport.TransportSpecification.TaxiBuilder
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+Enclosing class:  
+[TransportSpecification](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")
+
+<div class="type-signature">
+
+<span class="modifiers">public static final class
+</span><span class="element-name type-name-label">TransportSpecification.TaxiBuilder</span>
+<span class="extends-implements">extends
+[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+
 </div>
 
+<div class="block">
 
+This class constructs a TransportSpecification for a taxi.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Constructor</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><pre><code>TaxiBuilder()</code></pre></td>
+  <td><div class="block">
+  Creates a new instance of this class.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification"
+  title="class in com.here.sdk.transport"><code>TransportSpecification</code></a></td>
+  <td><pre><code>build()</code></pre></td>
+  <td><div class="block">
+  Builds the TransportSpecification object for a taxi with the
+  specifications taken from the TransportSpecification.TaxiBuilder object.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder"
+  title="class in com.here.sdk.transport"><code>TransportSpecification.TaxiBuilder</code></a></td>
+  <td><pre><code>withTaxiSpecification(TaxiSpecification taxiSpecification)</code></pre></td>
+  <td><div class="block">
+  Sets the taxi specification.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder"
+  title="class in com.here.sdk.transport"><code>TransportSpecification.TaxiBuilder</code></a></td>
+  <td><pre><code>withVehicleSpecification(VehicleSpecification vehicleSpecification)</code></pre></td>
+  <td><div class="block">
+  Sets the vehicle specification.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="constructor-detail" class="section constructor-details">
+
+  - <div id="<init>()" class="section detail">
+
+    ### TaxiBuilder
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">TaxiBuilder</span>()
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance of this class.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="withTaxiSpecification(com.here.sdk.transport.TaxiSpecification)"
+    class="section detail">
+
+    ### withTaxiSpecification
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[TransportSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withTaxiSpecification</span><span class="parameters">(@NonNull
+    [TaxiSpecification](sdk-for-android-explore-com-here-sdk-transport-taxispecification "class in com.here.sdk.transport") taxiSpecification)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the taxi specification.
+
+    </div>
+
+    Parameters:  
+    `taxiSpecification` -
+
+    The taxi specification.
+
+    Returns:  
+    The
+    [`TransportSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder "class in com.here.sdk.transport")
+    object with the taxi specification set to the new value.
+
+    </div>
+
+  - <div id="withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)"
+    class="section detail">
+
+    ### withVehicleSpecification
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[TransportSpecification.TaxiBuilder](sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder "class in com.here.sdk.transport")</span> <span class="element-name">withVehicleSpecification</span><span class="parameters">(@NonNull
+    [VehicleSpecification](sdk-for-android-explore-com-here-sdk-transport-vehiclespecification "class in com.here.sdk.transport") vehicleSpecification)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the vehicle specification.
+
+    </div>
+
+    Parameters:  
+    `vehicleSpecification` -
+
+    The vehicle specification.
+
+    Returns:  
+    The
+    [`TransportSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder "class in com.here.sdk.transport")
+    object with the vehicle specification set to the new value.
+
+    </div>
+
+  - <div id="build()" class="section detail">
+
+    ### build
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[TransportSpecification](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")</span> <span class="element-name">build</span>()
+
+    </div>
+
+    <div class="block">
+
+    Builds the TransportSpecification object for a taxi with the
+    specifications taken from the TransportSpecification.TaxiBuilder
+    object.
+
+    </div>
+
+    Returns:  
+    The
+    [`TransportSpecification`](sdk-for-android-explore-com-here-sdk-transport-transportspecification "class in com.here.sdk.transport")
+    object created from the
+    [`TransportSpecification.TaxiBuilder`](sdk-for-android-explore-com-here-sdk-transport-transportspecification-taxibuilder "class in com.here.sdk.transport")
+    object.
+
+    </div>
+
+  </div>
+
+</div>
+

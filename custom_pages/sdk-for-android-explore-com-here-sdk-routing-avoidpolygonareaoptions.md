@@ -3,216 +3,416 @@ title: "AvoidPolygonAreaOptions (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- AvoidPolygonAreaOptions.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance">com.here.sdk.routing.AvoidPolygonAreaOptions</div>
-</div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">AvoidPolygonAreaOptions</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>The options to specify polygon shape which routes must not cross.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section class="field-summary" id="field-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="caption"><span>Fields</span></div>
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Field</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions#avoidPolygonArea">avoidPolygonArea</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Area of polygon shape which routes must not cross.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions#boundingBoxExceptionAreas">boundingBoxExceptionAreas</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Areas of rectangular shape to exclude from avoidance.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions#corridorExceptionAreas">corridorExceptionAreas</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Areas of corridor shape to exclude from avoidance.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions#polygonExceptionAreas">polygonExceptionAreas</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Areas of polygon shape to exclude from avoidance.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section class="constructor-summary" id="constructor-summary">
-
-<div class="caption"><span>Constructors</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Constructor</div>
-<div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions#%3Cinit%3E(com.here.sdk.core.GeoPolygon)">AvoidPolygonAreaOptions</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> avoidPolygonArea)</code></div>
-<div class="col-last even-row-color">
-<div class="block">Creates a new instance.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions#hashCode()">hashCode</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section class="field-details" id="field-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="avoidPolygonArea">
-<h3>avoidPolygonArea</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a></span> <span class="element-name">avoidPolygonArea</span></div>
-<div class="block"><p>Area of polygon shape which routes must not cross. Strictly enforced.
- Violations are reported as <a href="sdk-for-android-explore-sectionnoticecode#VIOLATED_BLOCKED_ROAD"><code>SectionNoticeCode.VIOLATED_BLOCKED_ROAD</code></a>.
- <strong>Note:</strong> This avoidance option is not supported for <code>IsolineOptions</code>. If it is defined for isoline calculation then an [sdk.routing.RoutingError.INVALID_PARAMETER] error is generated.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="boundingBoxExceptionAreas">
-<h3>boundingBoxExceptionAreas</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geobox" title="class in com.here.sdk.core">GeoBox</a>&gt;</span> <span class="element-name">boundingBoxExceptionAreas</span></div>
-<div class="block"><p>Areas of rectangular shape to exclude from avoidance.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="polygonExceptionAreas">
-<h3>polygonExceptionAreas</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a>&gt;</span> <span class="element-name">polygonExceptionAreas</span></div>
-<div class="block"><p>Areas of polygon shape to exclude from avoidance.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="corridorExceptionAreas">
-<h3>corridorExceptionAreas</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a>&gt;</span> <span class="element-name">corridorExceptionAreas</span></div>
-<div class="block"><p>Areas of corridor shape to exclude from avoidance.
- <strong>Note:</strong>
- Even though <code>GeoCorridor.half_width_in_meters</code> is an optional property in case of exception areas it is mandatory.
- Otherwise route calculation will fail with an [sdk.routing.RoutingError.INVALID_PARAMETER] error.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section class="constructor-details" id="constructor-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoPolygon)">
-<h3>AvoidPolygonAreaOptions</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">AvoidPolygonAreaOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon" title="class in com.here.sdk.core">GeoPolygon</a> avoidPolygonArea)</span></div>
-<div class="block"><p>Creates a new instance.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>avoidPolygonArea</code> - <p>Area of polygon shape which routes must not cross. Strictly enforced.
- Violations are reported as <a href="sdk-for-android-explore-sectionnoticecode#VIOLATED_BLOCKED_ROAD"><code>SectionNoticeCode.VIOLATED_BLOCKED_ROAD</code></a>.
- <strong>Note:</strong> This avoidance option is not supported for <code>IsolineOptions</code>. If it is defined for isoline calculation then an [sdk.routing.RoutingError.INVALID_PARAMETER] error is generated.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="equals(java.lang.Object)">
-<h3>equals</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</span></div>
-<dl class="notes">
-<dt>Overrides:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a></code> in class <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="hashCode()">
-<h3>hashCode</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()</div>
-<dl class="notes">
-<dt>Overrides:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a></code> in class <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object → com.here.sdk.routing.AvoidPolygonAreaOptions
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class
+</span><span class="element-name type-name-label">AvoidPolygonAreaOptions</span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
+
 </div>
 
+<div class="block">
 
+The options to specify polygon shape which routes must not cross.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Field</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a href="sdk-for-android-explore-com-here-sdk-core-geopolygon"
+  title="class in com.here.sdk.core"><code>GeoPolygon</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions#avoidPolygonArea"
+  class="member-name-link"><code>avoidPolygonArea</code></a></td>
+  <td><div class="block">
+  Area of polygon shape which routes must not cross.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-core-geobox"
+  title="class in com.here.sdk.core"><code>GeoBox</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions#boundingBoxExceptionAreas"
+  class="member-name-link"><code>boundingBoxExceptionAreas</code></a></td>
+  <td><div class="block">
+  Areas of rectangular shape to exclude from avoidance.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-core-geocorridor"
+  title="class in com.here.sdk.core"><code>GeoCorridor</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions#corridorExceptionAreas"
+  class="member-name-link"><code>corridorExceptionAreas</code></a></td>
+  <td><div class="block">
+  Areas of corridor shape to exclude from avoidance.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-core-geopolygon"
+  title="class in com.here.sdk.core"><code>GeoPolygon</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions#polygonExceptionAreas"
+  class="member-name-link"><code>polygonExceptionAreas</code></a></td>
+  <td><div class="block">
+  Areas of polygon shape to exclude from avoidance.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Constructor</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><pre><code>AvoidPolygonAreaOptions(GeoPolygon avoidPolygonArea)</code></pre></td>
+  <td><div class="block">
+  Creates a new instance.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>boolean</code></td>
+  <td><pre><code>equals(Object obj)</code></pre></td>
+  <td> </td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>hashCode()</code></pre></td>
+  <td> </td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="field-detail" class="section field-details">
+
+  - <div id="avoidPolygonArea" class="section detail">
+
+    ### avoidPolygonArea
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")</span> <span class="element-name">avoidPolygonArea</span>
+
+    </div>
+
+    <div class="block">
+
+    Area of polygon shape which routes must not cross. Strictly
+    enforced. Violations are reported as
+    SectionNoticeCode.VIOLATED_BLOCKED_ROAD . Note: This avoidance
+    option is not supported for IsolineOptions . If it is defined for
+    isoline calculation then an
+    \[sdk.routing.RoutingError.INVALID_PARAMETER\] error is generated.
+
+    </div>
+
+    </div>
+
+  - <div id="boundingBoxExceptionAreas" class="section detail">
+
+    ### boundingBoxExceptionAreas
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[GeoBox](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core")></span> <span class="element-name">boundingBoxExceptionAreas</span>
+
+    </div>
+
+    <div class="block">
+
+    Areas of rectangular shape to exclude from avoidance.
+
+    </div>
+
+    </div>
+
+  - <div id="polygonExceptionAreas" class="section detail">
+
+    ### polygonExceptionAreas
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core")></span> <span class="element-name">polygonExceptionAreas</span>
+
+    </div>
+
+    <div class="block">
+
+    Areas of polygon shape to exclude from avoidance.
+
+    </div>
+
+    </div>
+
+  - <div id="corridorExceptionAreas" class="section detail">
+
+    ### corridorExceptionAreas
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[GeoCorridor](sdk-for-android-explore-com-here-sdk-core-geocorridor "class in com.here.sdk.core")></span> <span class="element-name">corridorExceptionAreas</span>
+
+    </div>
+
+    <div class="block">
+
+    Areas of corridor shape to exclude from avoidance. Note: Even though
+    GeoCorridor.half_width_in_meters is an optional property in case of
+    exception areas it is mandatory. Otherwise route calculation will
+    fail with an \[sdk.routing.RoutingError.INVALID_PARAMETER\] error.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="constructor-detail" class="section constructor-details">
+
+  - <div id="<init>(com.here.sdk.core.GeoPolygon)"
+    class="section detail">
+
+    ### AvoidPolygonAreaOptions
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">AvoidPolygonAreaOptions</span><span class="parameters">(@NonNull
+    [GeoPolygon](sdk-for-android-explore-com-here-sdk-core-geopolygon "class in com.here.sdk.core") avoidPolygonArea)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    Parameters:  
+    `avoidPolygonArea` -
+
+    Area of polygon shape which routes must not cross. Strictly
+    enforced. Violations are reported as
+    [`SectionNoticeCode.VIOLATED_BLOCKED_ROAD`](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_BLOCKED_ROAD).
+    **Note:** This avoidance option is not supported for
+    `IsolineOptions`. If it is defined for isoline calculation then an
+    \[sdk.routing.RoutingError.INVALID_PARAMETER\] error is generated.
+
+    </div>
+
+  </div>
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="equals(java.lang.Object)" class="section detail">
+
+    ### equals
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+
+    </div>
+
+    Overrides:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="hashCode()" class="section detail">
+
+    ### hashCode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()
+
+    </div>
+
+    Overrides:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  </div>
+
+</div>
+

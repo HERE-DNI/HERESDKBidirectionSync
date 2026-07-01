@@ -3,65 +3,61 @@ title: "com.here.sdk.core.errors Class Hierarchy (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-errors-package-tree"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- package-tree.html -->
-
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<div class="header">
-
 <span class="package-hierarchy-label">Package Hierarchies:</span>
-<ul class="horizontal">
-<li><a href="sdk-for-android-explore-overview-tree">All Packages</a></li>
-</ul>
-</div>
-<section class="hierarchy">
 
-<ul>
-<li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-<ul>
-<li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html" title="class or interface in java.lang">Throwable</a> (implements java.io.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
-<ul>
-<li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" title="class or interface in java.lang">Exception</a>
-<ul>
-<li class="circle">com.here.sdk.core.errors.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</section>
-<section class="hierarchy">
+- [All Packages](sdk-for-android-explore-overview-tree)
 
-<ul>
-<li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-<ul>
-<li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a><e> (implements java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a><t>, java.lang.constant.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a>, java.io.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
-<ul>
-<li class="circle">com.here.sdk.core.errors.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode" title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a></li>
-</ul>
-</t></e></li>
-</ul>
-</li>
-</ul>
-</section>
+<div class="section hierarchy">
+
+- java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="type-name-link external-link"
+  title="class or interface in java.lang">Object</a>
+  - java.lang.<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html"
+    class="type-name-link external-link"
+    title="class or interface in java.lang">Throwable</a> (implements
+    java.io.<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
+    class="external-link"
+    title="class or interface in java.io">Serializable</a>)
+    - java.lang.<a
+      href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
+      class="type-name-link external-link"
+      title="class or interface in java.lang">Exception</a>
+      - com.here.sdk.core.errors.<a
+        href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception"
+        class="type-name-link"
+        title="class in com.here.sdk.core.errors">InstantiationErrorException</a>
 
 </div>
+
+<div class="section hierarchy">
+
+- java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="type-name-link external-link"
+  title="class or interface in java.lang">Object</a>
+  - java.lang.<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+    class="type-name-link external-link"
+    title="class or interface in java.lang">Enum</a> (implements
+    java.lang.<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
+    class="external-link"
+    title="class or interface in java.lang">Comparable</a>,
+    java.lang.constant.<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
+    class="external-link"
+    title="class or interface in java.lang.constant">Constable</a>,
+    java.io.<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
+    class="external-link"
+    title="class or interface in java.io">Serializable</a>)
+    - com.here.sdk.core.errors.<a
+      href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorcode"
+      class="type-name-link"
+      title="enum class in com.here.sdk.core.errors">InstantiationErrorCode</a>
+
 </div>
 
-
-
-</div>
-`
-}</HTMLBlock>

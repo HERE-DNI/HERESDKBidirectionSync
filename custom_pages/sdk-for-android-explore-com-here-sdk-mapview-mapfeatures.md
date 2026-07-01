@@ -3,418 +3,671 @@ title: "MapFeatures (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapfeatures"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- MapFeatures.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance">com.here.sdk.mapview.MapFeatures</div>
-</div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapFeatures</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Holds constants for map features, to be used with
- <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a> and <a href="sdk-for-android-explore-mapscene#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List<java.lang.string>)</java.lang.string></code></a>.
- See <a href="sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> for constants representing feature modes.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section class="field-summary" id="field-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="caption"><span>Fields</span></div>
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Field</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#AMBIENT_OCCLUSION">AMBIENT_OCCLUSION</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Ambient occlusion effect for 3D geometries (extruded buildings and landmarks).</div>
-</div>
-<div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#BUILDING_FOOTPRINTS">BUILDING_FOOTPRINTS</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">The 2D footprint of buildings.</div>
-</div>
-<div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#CONGESTION_ZONES">CONGESTION_ZONES</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">City areas designated as congestion zones (or congestion charge zones),
- which impose fees on entering such areas.</div>
-</div>
-<div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ENVIRONMENTAL_ZONES">ENVIRONMENTAL_ZONES</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">City areas designated as environmental zones, which empose limitations
- on the type of vehicles that are allowed to enter such areas.</div>
-</div>
-<div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#EXTRUDED_BUILDINGS">EXTRUDED_BUILDINGS</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Simple 3D representation of buildings.</div>
-</div>
-<div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#LOW_SPEED_ZONES">LOW_SPEED_ZONES</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">City areas designated as low speed zones.</div>
-</div>
-<div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ROAD_EXIT_LABELS">ROAD_EXIT_LABELS</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Show or hide road exit labels, if available.</div>
-</div>
-<div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#SHADOWS">SHADOWS</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Shadows for all building types (extruded buildings and landmarks).</div>
-</div>
-<div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_FLOW">TRAFFIC_FLOW</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Traffic flow speed.</div>
-</div>
-<div class="col-first odd-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_INCIDENTS">TRAFFIC_INCIDENTS</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Traffic incidents.</div>
-</div>
-<div class="col-first even-row-color"><code>static final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_LIGHTS">TRAFFIC_LIGHTS</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Traffic lights.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section class="constructor-summary" id="constructor-summary">
-
-<div class="caption"><span>Constructors</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Constructor</div>
-<div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#%3Cinit%3E()">MapFeatures</a>()</code></div>
-<div class="col-last even-row-color"> </div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section class="field-details" id="field-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="EXTRUDED_BUILDINGS">
-<h3>EXTRUDED_BUILDINGS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">EXTRUDED_BUILDINGS</span></div>
-<div class="block"><p>Simple 3D representation of buildings.
- Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#EXTRUDED_BUILDINGS_ALL"><code>MapFeatureModes.EXTRUDED_BUILDINGS_ALL</code></a>.
- Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>,
- <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a> and all hybrid schemes: <a href="sdk-for-android-explore-mapscheme#HYBRID_DAY"><code>MapScheme.HYBRID_DAY</code></a>
-<a href="sdk-for-android-explore-mapscheme#HYBRID_NIGHT"><code>MapScheme.HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_DAY"><code>MapScheme.LITE_HYBRID_DAY</code></a>
-<a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_NIGHT"><code>MapScheme.LITE_HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_DAY"><code>MapScheme.LOGISTICS_HYBRID_DAY</code></a> and
- <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_NIGHT"><code>MapScheme.LOGISTICS_HYBRID_NIGHT</code></a>.
- By default, extruded buildings are enabled on all compatible map schemes.</p></div>
-<dl class="notes">
-<dt>See Also:</dt>
-<dd>
-<ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.EXTRUDED_BUILDINGS">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="BUILDING_FOOTPRINTS">
-<h3>BUILDING_FOOTPRINTS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">BUILDING_FOOTPRINTS</span></div>
-<div class="block"><p>The 2D footprint of buildings.
- Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#BUILDING_FOOTPRINTS_ALL"><code>MapFeatureModes.BUILDING_FOOTPRINTS_ALL</code></a>.
- Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>,
- <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a> and all hybrid schemes: <a href="sdk-for-android-explore-mapscheme#HYBRID_DAY"><code>MapScheme.HYBRID_DAY</code></a>
-<a href="sdk-for-android-explore-mapscheme#HYBRID_NIGHT"><code>MapScheme.HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_DAY"><code>MapScheme.LITE_HYBRID_DAY</code></a>
-<a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_NIGHT"><code>MapScheme.LITE_HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_DAY"><code>MapScheme.LOGISTICS_HYBRID_DAY</code></a> and
- <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_NIGHT"><code>MapScheme.LOGISTICS_HYBRID_NIGHT</code></a>.
- By default, building footprints are enabled on all compatible map schemes.</p></div>
-<dl class="notes">
-<dt>See Also:</dt>
-<dd>
-<ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.BUILDING_FOOTPRINTS">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="TRAFFIC_FLOW">
-<h3>TRAFFIC_FLOW</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_FLOW</span></div>
-<div class="block"><p>Traffic flow speed. An online connection is required for the traffic
- flow to be shown.
- If the offline-mode is enabled for offline maps usage,
- the live traffic flow can still be shown in offline mode by enabling
- pass-through feature for traffic flow on <code>sdk.core.engine.SDKNativeEngine</code>.
- See <code>sdk.core.engine.SDKNativeEngine.pass_through_features</code> for details.
- Supported modes:
- <ul>
-<li><a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW"><code>MapFeatureModes.TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW</code></a>,</li>
-<li><a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_FLOW_WITH_FREE_FLOW"><code>MapFeatureModes.TRAFFIC_FLOW_WITH_FREE_FLOW</code></a>,</li>
-<li><a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_FLOW_WITHOUT_FREE_FLOW"><code>MapFeatureModes.TRAFFIC_FLOW_WITHOUT_FREE_FLOW</code></a>.</li>
-</ul>
-Default mode is <a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_FLOW_WITH_FREE_FLOW"><code>MapFeatureModes.TRAFFIC_FLOW_WITH_FREE_FLOW</code></a>.
- Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
- and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.
- By default, this map feature is not enabled.</p></div>
-<dl class="notes">
-<dt>See Also:</dt>
-<dd>
-<ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_FLOW">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="TRAFFIC_INCIDENTS">
-<h3>TRAFFIC_INCIDENTS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_INCIDENTS</span></div>
-<div class="block"><p>Traffic incidents. An online connection is required for the traffic
- incidents to be shown.
- If the offline-mode is enabled for offline maps usage,
- the live traffic incidents can still be shown in offline mode by enabling
- pass-through feature for traffic incidents on <code>sdk.core.engine.SDKNativeEngine</code>.
- See <code>sdk.core.engine.SDKNativeEngine.pass_through_features</code> for details.
- Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_INCIDENTS_ALL"><code>MapFeatureModes.TRAFFIC_INCIDENTS_ALL</code></a>.
- Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
- and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.
- By default, this map feature is not enabled.</p></div>
-<dl class="notes">
-<dt>See Also:</dt>
-<dd>
-<ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_INCIDENTS">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="TRAFFIC_LIGHTS">
-<h3>TRAFFIC_LIGHTS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_LIGHTS</span></div>
-<div class="block"><p>Traffic lights.
- Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#TRAFFIC_LIGHTS_ALL"><code>MapFeatureModes.TRAFFIC_LIGHTS_ALL</code></a>
-Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
- and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.
- By default, traffic lights are enabled on all compatible map schemes.</p></div>
-<dl class="notes">
-<dt>See Also:</dt>
-<dd>
-<ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_LIGHTS">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="ENVIRONMENTAL_ZONES">
-<h3>ENVIRONMENTAL_ZONES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">ENVIRONMENTAL_ZONES</span></div>
-<div class="block"><p>City areas designated as environmental zones, which empose limitations
- on the type of vehicles that are allowed to enter such areas.
- Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#ENVIRONMENTAL_ZONES_ALL"><code>MapFeatureModes.ENVIRONMENTAL_ZONES_ALL</code></a>.
- Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
- and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.
- By default, this map feature is not enabled.</p></div>
-<dl class="notes">
-<dt>See Also:</dt>
-<dd>
-<ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.ENVIRONMENTAL_ZONES">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="CONGESTION_ZONES">
-<h3>CONGESTION_ZONES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">CONGESTION_ZONES</span></div>
-<div class="block"><p>City areas designated as congestion zones (or congestion charge zones),
- which impose fees on entering such areas.
- Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#CONGESTION_ZONES_ALL"><code>MapFeatureModes.CONGESTION_ZONES_ALL</code></a>.
- Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
- and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.
- By default, this map feature is not enabled.</p></div>
-<dl class="notes">
-<dt>See Also:</dt>
-<dd>
-<ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.CONGESTION_ZONES">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="LOW_SPEED_ZONES">
-<h3>LOW_SPEED_ZONES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">LOW_SPEED_ZONES</span></div>
-<div class="block"><p>City areas designated as low speed zones.
- Only available when Japan map is used.
- Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#LOW_SPEED_ZONES_ALL"><code>MapFeatureModes.LOW_SPEED_ZONES_ALL</code></a>.
- Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
- and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.
- By default, this map feature is not enabled.</p></div>
-<dl class="notes">
-<dt>See Also:</dt>
-<dd>
-<ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.LOW_SPEED_ZONES">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="ROAD_EXIT_LABELS">
-<h3>ROAD_EXIT_LABELS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">ROAD_EXIT_LABELS</span></div>
-<div class="block"><p>Show or hide road exit labels, if available.
- Supported modes: <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_NUMBERS_ONLY"><code>MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY</code></a>,
- <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_ALL"><code>MapFeatureModes.ROAD_EXIT_LABELS_ALL</code></a>
-Default mode is <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_NUMBERS_ONLY"><code>MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY</code></a>.
- Road exit labels are enabled by default with <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_NUMBERS_ONLY"><code>MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY</code></a>
- on normal, lite and topo schemes and with <a href="sdk-for-android-explore-mapfeaturemodes#ROAD_EXIT_LABELS_ALL"><code>MapFeatureModes.ROAD_EXIT_LABELS_ALL</code></a> on logistics
- schemes. Note that topo schemes are only available in the HERE SDK Navigate variant.
- Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>
- and <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a>.</p></div>
-<dl class="notes">
-<dt>See Also:</dt>
-<dd>
-<ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.ROAD_EXIT_LABELS">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="SHADOWS">
-<h3>SHADOWS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">SHADOWS</span></div>
-<div class="block"><p>Shadows for all building types (extruded buildings and landmarks).
- Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#SHADOWS_ALL"><code>MapFeatureModes.SHADOWS_ALL</code></a>.
- A <a href="sdk-for-android-explore-com-here-sdk-mapview-shadowquality" title="enum class in com.here.sdk.mapview"><code>ShadowQuality</code></a> must be set on the MapContext through a MapView or the feature has no
- effect.
- Shadows have a performance impact and should be considered only for devices with
- sufficient performance.
- Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>,
- <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a> and all hybrid schemes: <a href="sdk-for-android-explore-mapscheme#HYBRID_DAY"><code>MapScheme.HYBRID_DAY</code></a>
-<a href="sdk-for-android-explore-mapscheme#HYBRID_NIGHT"><code>MapScheme.HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_DAY"><code>MapScheme.LITE_HYBRID_DAY</code></a>
-<a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_NIGHT"><code>MapScheme.LITE_HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_DAY"><code>MapScheme.LOGISTICS_HYBRID_DAY</code></a> and
- <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_NIGHT"><code>MapScheme.LOGISTICS_HYBRID_NIGHT</code></a>.
- Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.
- By default, this map feature is not enabled.</p></div>
-<dl class="notes">
-<dt>See Also:</dt>
-<dd>
-<ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.SHADOWS">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="AMBIENT_OCCLUSION">
-<h3>AMBIENT_OCCLUSION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">AMBIENT_OCCLUSION</span></div>
-<div class="block"><p>Ambient occlusion effect for 3D geometries (extruded buildings and landmarks).
- Supports only one mode: <a href="sdk-for-android-explore-mapfeaturemodes#AMBIENT_OCCLUSION_ALL"><code>MapFeatureModes.AMBIENT_OCCLUSION_ALL</code></a>.
- This visual effect has a performance impact and should be considered only for devices with
- sufficient performance.
- Not supported for <a href="sdk-for-android-explore-mapscheme#SATELLITE"><code>MapScheme.SATELLITE</code></a>, <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_DAY"><code>MapScheme.ROAD_NETWORK_DAY</code></a>,
- <a href="sdk-for-android-explore-mapscheme#ROAD_NETWORK_NIGHT"><code>MapScheme.ROAD_NETWORK_NIGHT</code></a> and all hybrid schemes: <a href="sdk-for-android-explore-mapscheme#HYBRID_DAY"><code>MapScheme.HYBRID_DAY</code></a>
-<a href="sdk-for-android-explore-mapscheme#HYBRID_NIGHT"><code>MapScheme.HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_DAY"><code>MapScheme.LITE_HYBRID_DAY</code></a>
-<a href="sdk-for-android-explore-mapscheme#LITE_HYBRID_NIGHT"><code>MapScheme.LITE_HYBRID_NIGHT</code></a>, <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_DAY"><code>MapScheme.LOGISTICS_HYBRID_DAY</code></a> and
- <a href="sdk-for-android-explore-mapscheme#LOGISTICS_HYBRID_NIGHT"><code>MapScheme.LOGISTICS_HYBRID_NIGHT</code></a>.
- Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.
- By default, this map feature is not enabled.</p></div>
-<dl class="notes">
-<dt>See Also:</dt>
-<dd>
-<ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.AMBIENT_OCCLUSION">Constant Field Values</a></li>
-</ul>
-</dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section class="constructor-details" id="constructor-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="&lt;init&gt;()">
-<h3>MapFeatures</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapFeatures</span>()</div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object → com.here.sdk.mapview.MapFeatures
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class
+</span><span class="element-name type-name-label">MapFeatures</span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
+
 </div>
 
+<div class="block">
 
+Holds constants for map features, to be used with
+MapScene.enableFeatures(java.util.Map ) and
+MapScene.disableFeatures(java.util.List ) . See MapFeatureModes for
+constants representing feature modes.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Field</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>static final </code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#AMBIENT_OCCLUSION"
+  class="member-name-link"><code>AMBIENT_OCCLUSION</code></a></td>
+  <td><div class="block">
+  Ambient occlusion effect for 3D geometries (extruded buildings and
+  landmarks).
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static final </code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#BUILDING_FOOTPRINTS"
+  class="member-name-link"><code>BUILDING_FOOTPRINTS</code></a></td>
+  <td><div class="block">
+  The 2D footprint of buildings.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static final </code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#CONGESTION_ZONES"
+  class="member-name-link"><code>CONGESTION_ZONES</code></a></td>
+  <td><div class="block">
+  City areas designated as congestion zones (or congestion charge zones),
+  which impose fees on entering such areas.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static final </code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ENVIRONMENTAL_ZONES"
+  class="member-name-link"><code>ENVIRONMENTAL_ZONES</code></a></td>
+  <td><div class="block">
+  City areas designated as environmental zones, which empose limitations
+  on the type of vehicles that are allowed to enter such areas.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static final </code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#EXTRUDED_BUILDINGS"
+  class="member-name-link"><code>EXTRUDED_BUILDINGS</code></a></td>
+  <td><div class="block">
+  Simple 3D representation of buildings.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static final </code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#LOW_SPEED_ZONES"
+  class="member-name-link"><code>LOW_SPEED_ZONES</code></a></td>
+  <td><div class="block">
+  City areas designated as low speed zones.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static final </code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#ROAD_EXIT_LABELS"
+  class="member-name-link"><code>ROAD_EXIT_LABELS</code></a></td>
+  <td><div class="block">
+  Show or hide road exit labels, if available.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static final </code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#SHADOWS"
+  class="member-name-link"><code>SHADOWS</code></a></td>
+  <td><div class="block">
+  Shadows for all building types (extruded buildings and landmarks).
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static final </code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_FLOW"
+  class="member-name-link"><code>TRAFFIC_FLOW</code></a></td>
+  <td><div class="block">
+  Traffic flow speed.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static final </code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_INCIDENTS"
+  class="member-name-link"><code>TRAFFIC_INCIDENTS</code></a></td>
+  <td><div class="block">
+  Traffic incidents.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static final </code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapfeatures#TRAFFIC_LIGHTS"
+  class="member-name-link"><code>TRAFFIC_LIGHTS</code></a></td>
+  <td><div class="block">
+  Traffic lights.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Constructor</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><pre><code>MapFeatures()</code></pre></td>
+  <td> </td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="field-detail" class="section field-details">
+
+  - <div id="EXTRUDED_BUILDINGS" class="section detail">
+
+    ### EXTRUDED_BUILDINGS
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">EXTRUDED_BUILDINGS</span>
+
+    </div>
+
+    <div class="block">
+
+    Simple 3D representation of buildings. Supports only one mode:
+    MapFeatureModes.EXTRUDED_BUILDINGS_ALL . Not supported for
+    MapScheme.SATELLITE , MapScheme.ROAD_NETWORK_DAY ,
+    MapScheme.ROAD_NETWORK_NIGHT and all hybrid schemes:
+    MapScheme.HYBRID_DAY MapScheme.HYBRID_NIGHT ,
+    MapScheme.LITE_HYBRID_DAY MapScheme.LITE_HYBRID_NIGHT ,
+    MapScheme.LOGISTICS_HYBRID_DAY and MapScheme.LOGISTICS_HYBRID_NIGHT
+    . By default, extruded buildings are enabled on all compatible map
+    schemes.
+
+    </div>
+
+    See Also:  
+    - [Constant Field
+      Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.EXTRUDED_BUILDINGS)
+
+    </div>
+
+  - <div id="BUILDING_FOOTPRINTS" class="section detail">
+
+    ### BUILDING_FOOTPRINTS
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">BUILDING_FOOTPRINTS</span>
+
+    </div>
+
+    <div class="block">
+
+    The 2D footprint of buildings. Supports only one mode:
+    MapFeatureModes.BUILDING_FOOTPRINTS_ALL . Not supported for
+    MapScheme.SATELLITE , MapScheme.ROAD_NETWORK_DAY ,
+    MapScheme.ROAD_NETWORK_NIGHT and all hybrid schemes:
+    MapScheme.HYBRID_DAY MapScheme.HYBRID_NIGHT ,
+    MapScheme.LITE_HYBRID_DAY MapScheme.LITE_HYBRID_NIGHT ,
+    MapScheme.LOGISTICS_HYBRID_DAY and MapScheme.LOGISTICS_HYBRID_NIGHT
+    . By default, building footprints are enabled on all compatible map
+    schemes.
+
+    </div>
+
+    See Also:  
+    - [Constant Field
+      Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.BUILDING_FOOTPRINTS)
+
+    </div>
+
+  - <div id="TRAFFIC_FLOW" class="section detail">
+
+    ### TRAFFIC_FLOW
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_FLOW</span>
+
+    </div>
+
+    <div class="block">
+
+    Traffic flow speed. An online connection is required for the traffic
+    flow to be shown. If the offline-mode is enabled for offline maps
+    usage, the live traffic flow can still be shown in offline mode by
+    enabling pass-through feature for traffic flow on
+    sdk.core.engine.SDKNativeEngine . See
+    sdk.core.engine.SDKNativeEngine.pass_through_features for details.
+    Supported modes:
+    MapFeatureModes.TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW ,
+    MapFeatureModes.TRAFFIC_FLOW_WITH_FREE_FLOW ,
+    MapFeatureModes.TRAFFIC_FLOW_WITHOUT_FREE_FLOW . Default mode is
+    MapFeatureModes.TRAFFIC_FLOW_WITH_FREE_FLOW . Not supported for
+    MapScheme.SATELLITE , MapScheme.ROAD_NETWORK_DAY and
+    MapScheme.ROAD_NETWORK_NIGHT . By default, this map feature is not
+    enabled.
+
+    </div>
+
+    See Also:  
+    - [Constant Field
+      Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_FLOW)
+
+    </div>
+
+  - <div id="TRAFFIC_INCIDENTS" class="section detail">
+
+    ### TRAFFIC_INCIDENTS
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_INCIDENTS</span>
+
+    </div>
+
+    <div class="block">
+
+    Traffic incidents. An online connection is required for the traffic
+    incidents to be shown. If the offline-mode is enabled for offline
+    maps usage, the live traffic incidents can still be shown in offline
+    mode by enabling pass-through feature for traffic incidents on
+    sdk.core.engine.SDKNativeEngine . See
+    sdk.core.engine.SDKNativeEngine.pass_through_features for details.
+    Supports only one mode: MapFeatureModes.TRAFFIC_INCIDENTS_ALL . Not
+    supported for MapScheme.SATELLITE , MapScheme.ROAD_NETWORK_DAY and
+    MapScheme.ROAD_NETWORK_NIGHT . By default, this map feature is not
+    enabled.
+
+    </div>
+
+    See Also:  
+    - [Constant Field
+      Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_INCIDENTS)
+
+    </div>
+
+  - <div id="TRAFFIC_LIGHTS" class="section detail">
+
+    ### TRAFFIC_LIGHTS
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">TRAFFIC_LIGHTS</span>
+
+    </div>
+
+    <div class="block">
+
+    Traffic lights. Supports only one mode:
+    MapFeatureModes.TRAFFIC_LIGHTS_ALL Not supported for
+    MapScheme.SATELLITE , MapScheme.ROAD_NETWORK_DAY and
+    MapScheme.ROAD_NETWORK_NIGHT . By default, traffic lights are
+    enabled on all compatible map schemes.
+
+    </div>
+
+    See Also:  
+    - [Constant Field
+      Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_LIGHTS)
+
+    </div>
+
+  - <div id="ENVIRONMENTAL_ZONES" class="section detail">
+
+    ### ENVIRONMENTAL_ZONES
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ENVIRONMENTAL_ZONES</span>
+
+    </div>
+
+    <div class="block">
+
+    City areas designated as environmental zones, which empose
+    limitations on the type of vehicles that are allowed to enter such
+    areas. Supports only one mode:
+    MapFeatureModes.ENVIRONMENTAL_ZONES_ALL . Not supported for
+    MapScheme.SATELLITE , MapScheme.ROAD_NETWORK_DAY and
+    MapScheme.ROAD_NETWORK_NIGHT . By default, this map feature is not
+    enabled.
+
+    </div>
+
+    See Also:  
+    - [Constant Field
+      Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.ENVIRONMENTAL_ZONES)
+
+    </div>
+
+  - <div id="CONGESTION_ZONES" class="section detail">
+
+    ### CONGESTION_ZONES
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">CONGESTION_ZONES</span>
+
+    </div>
+
+    <div class="block">
+
+    City areas designated as congestion zones (or congestion charge
+    zones), which impose fees on entering such areas. Supports only one
+    mode: MapFeatureModes.CONGESTION_ZONES_ALL . Not supported for
+    MapScheme.SATELLITE , MapScheme.ROAD_NETWORK_DAY and
+    MapScheme.ROAD_NETWORK_NIGHT . By default, this map feature is not
+    enabled.
+
+    </div>
+
+    See Also:  
+    - [Constant Field
+      Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.CONGESTION_ZONES)
+
+    </div>
+
+  - <div id="LOW_SPEED_ZONES" class="section detail">
+
+    ### LOW_SPEED_ZONES
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">LOW_SPEED_ZONES</span>
+
+    </div>
+
+    <div class="block">
+
+    City areas designated as low speed zones. Only available when Japan
+    map is used. Supports only one mode:
+    MapFeatureModes.LOW_SPEED_ZONES_ALL . Not supported for
+    MapScheme.SATELLITE , MapScheme.ROAD_NETWORK_DAY and
+    MapScheme.ROAD_NETWORK_NIGHT . By default, this map feature is not
+    enabled.
+
+    </div>
+
+    See Also:  
+    - [Constant Field
+      Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.LOW_SPEED_ZONES)
+
+    </div>
+
+  - <div id="ROAD_EXIT_LABELS" class="section detail">
+
+    ### ROAD_EXIT_LABELS
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ROAD_EXIT_LABELS</span>
+
+    </div>
+
+    <div class="block">
+
+    Show or hide road exit labels, if available. Supported modes:
+    MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY ,
+    MapFeatureModes.ROAD_EXIT_LABELS_ALL Default mode is
+    MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY . Road exit labels are
+    enabled by default with
+    MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY on normal, lite and
+    topo schemes and with MapFeatureModes.ROAD_EXIT_LABELS_ALL on
+    logistics schemes. Note that topo schemes are only available in the
+    HERE SDK Navigate variant. Not supported for MapScheme.SATELLITE ,
+    MapScheme.ROAD_NETWORK_DAY and MapScheme.ROAD_NETWORK_NIGHT .
+
+    </div>
+
+    See Also:  
+    - [Constant Field
+      Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.ROAD_EXIT_LABELS)
+
+    </div>
+
+  - <div id="SHADOWS" class="section detail">
+
+    ### SHADOWS
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHADOWS</span>
+
+    </div>
+
+    <div class="block">
+
+    Shadows for all building types (extruded buildings and landmarks).
+    Supports only one mode: MapFeatureModes.SHADOWS_ALL . A
+    ShadowQuality must be set on the MapContext through a MapView or the
+    feature has no effect. Shadows have a performance impact and should
+    be considered only for devices with sufficient performance. Not
+    supported for MapScheme.SATELLITE , MapScheme.ROAD_NETWORK_DAY ,
+    MapScheme.ROAD_NETWORK_NIGHT and all hybrid schemes:
+    MapScheme.HYBRID_DAY MapScheme.HYBRID_NIGHT ,
+    MapScheme.LITE_HYBRID_DAY MapScheme.LITE_HYBRID_NIGHT ,
+    MapScheme.LOGISTICS_HYBRID_DAY and MapScheme.LOGISTICS_HYBRID_NIGHT
+    . Note: This is a beta release of this feature, so there could be a
+    few bugs and unexpected behavior. Related APIs may change for new
+    releases without a deprecation process. By default, this map feature
+    is not enabled.
+
+    </div>
+
+    See Also:  
+    - [Constant Field
+      Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.SHADOWS)
+
+    </div>
+
+  - <div id="AMBIENT_OCCLUSION" class="section detail">
+
+    ### AMBIENT_OCCLUSION
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AMBIENT_OCCLUSION</span>
+
+    </div>
+
+    <div class="block">
+
+    Ambient occlusion effect for 3D geometries (extruded buildings and
+    landmarks). Supports only one mode:
+    MapFeatureModes.AMBIENT_OCCLUSION_ALL . This visual effect has a
+    performance impact and should be considered only for devices with
+    sufficient performance. Not supported for MapScheme.SATELLITE ,
+    MapScheme.ROAD_NETWORK_DAY , MapScheme.ROAD_NETWORK_NIGHT and all
+    hybrid schemes: MapScheme.HYBRID_DAY MapScheme.HYBRID_NIGHT ,
+    MapScheme.LITE_HYBRID_DAY MapScheme.LITE_HYBRID_NIGHT ,
+    MapScheme.LOGISTICS_HYBRID_DAY and MapScheme.LOGISTICS_HYBRID_NIGHT
+    . Note: This is a beta release of this feature, so there could be a
+    few bugs and unexpected behavior. Related APIs may change for new
+    releases without a deprecation process. By default, this map feature
+    is not enabled.
+
+    </div>
+
+    See Also:  
+    - [Constant Field
+      Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.AMBIENT_OCCLUSION)
+
+    </div>
+
+  </div>
+
+- <div id="constructor-detail" class="section constructor-details">
+
+  - <div id="<init>()" class="section detail">
+
+    ### MapFeatures
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">MapFeatures</span>()
+
+    </div>
+
+    </div>
+
+  </div>
+
+</div>
+

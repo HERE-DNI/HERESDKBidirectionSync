@@ -3,185 +3,323 @@ title: "TransitRoutingEngine (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-transitroutingengine"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- TransitRoutingEngine.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div class="inheritance">com.here.sdk.routing.TransitRoutingEngine</div>
-</div>
-</div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TransitRoutingEngine</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Use the TransitRoutingEngine to calculate a public transit route from A to B with
- a number of waypoints in between.
- Route calculation is done asynchronously and requires an
- online connection. The resulting route contains various
- information such as the polyline, route length in meters,
- estimated time to traverse along the route and maneuver data.
- <strong>Note</strong>: Clients need to explicitly call <a href="sdk-for-android-explore-com-here-sdk-routing-transitroutingengine#dispose()"><code>dispose()</code></a> in order to prevent a possible, though
- unlikely, deadlock on destruction.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section class="constructor-summary" id="constructor-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="caption"><span>Constructors</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Constructor</div>
-<div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitroutingengine#%3Cinit%3E()">TransitRoutingEngine</a>()</code></div>
-<div class="col-last even-row-color">
-<div class="block">Creates a new instance of this class.</div>
-</div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitroutingengine#%3Cinit%3E(com.here.sdk.core.engine.SDKNativeEngine)">TransitRoutingEngine</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</code></div>
-<div class="col-last odd-row-color">
-<div class="block">Creates a new instance of TransitRoutingEngine.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitroutingengine#calculateRoute(com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitRouteOptions,com.here.sdk.routing.CalculateRouteCallback)">calculateRoute</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-routing-transitwaypoint" title="class in com.here.sdk.routing">TransitWaypoint</a> startingPoint,
- <a href="sdk-for-android-explore-com-here-sdk-routing-transitwaypoint" title="class in com.here.sdk.routing">TransitWaypoint</a> destination,
- <a href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions" title="class in com.here.sdk.routing">TransitRouteOptions</a> routeOptions,
- <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Asynchronously calculates a public transit route from the origin to the destination.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-transitroutingengine#dispose()">dispose</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Cancels pending requests and closes the background worker thread.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section class="constructor-details" id="constructor-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="&lt;init&gt;()">
-<h3>TransitRoutingEngine</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TransitRoutingEngine</span>()
-                     throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
-<div class="block"><p>Creates a new instance of this class.</p></div>
-<dl class="notes">
-<dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="&lt;init&gt;(com.here.sdk.core.engine.SDKNativeEngine)">
-<h3>TransitRoutingEngine</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TransitRoutingEngine</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine">SDKNativeEngine</a> sdkEngine)</span>
-                     throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
-<div class="block"><p>Creates a new instance of TransitRoutingEngine.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>sdkEngine</code> - <p>An SDKEngine instance.</p></dd>
-<dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="calculateRoute(com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitRouteOptions,com.here.sdk.routing.CalculateRouteCallback)">
-<h3>calculateRoute</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">calculateRoute</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-transitwaypoint" title="class in com.here.sdk.routing">TransitWaypoint</a> startingPoint,
- @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-transitwaypoint" title="class in com.here.sdk.routing">TransitWaypoint</a> destination,
- @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions" title="class in com.here.sdk.routing">TransitRouteOptions</a> routeOptions,
- @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span></div>
-<div class="block"><p>Asynchronously calculates a public transit route from the origin to the destination.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>startingPoint</code> - <p>Position of starting point.</p></dd>
-<dd><code>destination</code> - <p>Position of destination.</p></dd>
-<dd><code>routeOptions</code> - <p>Options for public transit route calculation.</p></dd>
-<dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
-     It is always invoked on the main thread.</p></dd>
-<dt>Returns:</dt>
-<dd><p>Handle that will be used to manipulate the execution of the task.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="dispose()">
-<h3>dispose</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">dispose</span>()</div>
-<div class="block"><p>Cancels pending requests and closes the background worker thread.
- <strong>Note:</strong> This method should be called from main thread.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object →
+com.here.NativeBasecom.here.sdk.routing.TransitRoutingEngine →
+com.here.NativeBase → com.here.sdk.routing.TransitRoutingEngine
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class
+</span><span class="element-name type-name-label">TransitRoutingEngine</span>
+<span class="extends-implements">extends
+[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+
 </div>
 
+<div class="block">
 
+Use the TransitRoutingEngine to calculate a public transit route from A
+to B with a number of waypoints in between. Route calculation is done
+asynchronously and requires an online connection. The resulting route
+contains various information such as the polyline, route length in
+meters, estimated time to traverse along the route and maneuver data.
+Note : Clients need to explicitly call dispose() in order to prevent a
+possible, though unlikely, deadlock on destruction.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Constructor</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><pre><code>TransitRoutingEngine()</code></pre></td>
+  <td><div class="block">
+  Creates a new instance of this class.
+  </div></td>
+  </tr>
+  <tr>
+  <td><pre><code>TransitRoutingEngine(SDKNativeEngine sdkEngine)</code></pre></td>
+  <td><div class="block">
+  Creates a new instance of TransitRoutingEngine.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
+  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
+  <td><pre><code>calculateRoute(TransitWaypoint startingPoint,
+   TransitWaypoint destination,
+   TransitRouteOptions routeOptions,
+   CalculateRouteCallback callback)</code></pre></td>
+  <td><div class="block">
+  Asynchronously calculates a public transit route from the origin to the
+  destination.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>void</code></td>
+  <td><pre><code>dispose()</code></pre></td>
+  <td><div class="block">
+  Cancels pending requests and closes the background worker thread.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="constructor-detail" class="section constructor-details">
+
+  - <div id="<init>()" class="section detail">
+
+    ### TransitRoutingEngine
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">TransitRoutingEngine</span>()
+    throws
+    <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance of this class.
+
+    </div>
+
+    Throws:  
+    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
+    -
+
+    Indicates what went wrong when the instantiation was attempted.
+
+    </div>
+
+  - <div id="<init>(com.here.sdk.core.engine.SDKNativeEngine)"
+    class="section detail">
+
+    ### TransitRoutingEngine
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">TransitRoutingEngine</span><span class="parameters">(@NonNull
+    [SDKNativeEngine](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine") sdkEngine)</span>
+    throws
+    <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance of TransitRoutingEngine.
+
+    </div>
+
+    Parameters:  
+    `sdkEngine` -
+
+    An SDKEngine instance.
+
+    Throws:  
+    [`InstantiationErrorException`](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")
+    -
+
+    Indicates what went wrong when the instantiation was attempted.
+
+    </div>
+
+  </div>
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="calculateRoute(com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
+    class="section detail">
+
+    ### calculateRoute
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">calculateRoute</span><span class="parameters">(@NonNull
+    [TransitWaypoint](sdk-for-android-explore-com-here-sdk-routing-transitwaypoint "class in com.here.sdk.routing") startingPoint,
+    @NonNull
+    [TransitWaypoint](sdk-for-android-explore-com-here-sdk-routing-transitwaypoint "class in com.here.sdk.routing") destination,
+    @NonNull
+    [TransitRouteOptions](sdk-for-android-explore-com-here-sdk-routing-transitrouteoptions "class in com.here.sdk.routing") routeOptions,
+    @NonNull
+    [CalculateRouteCallback](sdk-for-android-explore-com-here-sdk-routing-calculateroutecallback "interface in com.here.sdk.routing") callback)</span>
+
+    </div>
+
+    <div class="block">
+
+    Asynchronously calculates a public transit route from the origin to
+    the destination.
+
+    </div>
+
+    Parameters:  
+    `startingPoint` -
+
+    Position of starting point.
+
+    `destination` -
+
+    Position of destination.
+
+    `routeOptions` -
+
+    Options for public transit route calculation.
+
+    `callback` -
+
+    Callback object that will be invoked after route calculation. It is
+    always invoked on the main thread.
+
+    Returns:  
+    Handle that will be used to manipulate the execution of the task.
+
+    </div>
+
+  - <div id="dispose()" class="section detail">
+
+    ### dispose
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">dispose</span>()
+
+    </div>
+
+    <div class="block">
+
+    Cancels pending requests and closes the background worker thread.
+    Note: This method should be called from main thread.
+
+    </div>
+
+    </div>
+
+  </div>
+
+</div>
+

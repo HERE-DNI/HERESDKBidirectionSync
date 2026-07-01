@@ -3,239 +3,473 @@ title: "EVChargingConnectorGroup (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- EVChargingConnectorGroup.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance">com.here.sdk.search.EVChargingConnectorGroup</div>
-</div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">EVChargingConnectorGroup</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Represents the connector group at the charging location.
- <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section class="field-summary" id="field-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="caption"><span>Fields</span></div>
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Field</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#availableConnectorCount">availableConnectorCount</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Number of connectors available for use at the time of query.</div>
-</div>
-<div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#connectorCount">connectorCount</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Number of connectors in the group.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorreference" title="class in com.here.sdk.search">EVChargingConnectorReference</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#connectors">connectors</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Array of EVSE + connector(s) pairs that belong to the group.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#connectorType">connectorType</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">The standard (type) of the connectors belonging to this group.</div>
-</div>
-<div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#maxPowerInWatts">maxPowerInWatts</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Maximum power that can be delivered by the connectors, in watts (W).</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#tariffIndexes">tariffIndexes</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Tariffs for the connector group, represented by indexes to the charging station's tariffs-list.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section class="constructor-summary" id="constructor-summary">
-
-<div class="caption"><span>Constructors</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Constructor</div>
-<div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#%3Cinit%3E()">EVChargingConnectorGroup</a>()</code></div>
-<div class="col-last even-row-color">
-<div class="block">Creates a new instance.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#hashCode()">hashCode</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section class="field-details" id="field-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="connectorType">
-<h3>connectorType</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">connectorType</span></div>
-<div class="block"><p>The standard (type) of the connectors belonging to this group.
- Should be one of the constants defined in <a href="sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype" title="class in com.here.sdk.ev"><code>EVChargingConnectorType</code></a>.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="maxPowerInWatts">
-<h3>maxPowerInWatts</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">maxPowerInWatts</span></div>
-<div class="block"><p>Maximum power that can be delivered by the connectors, in watts (W).
- Connectors without max power are not grouped.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="connectors">
-<h3>connectors</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorreference" title="class in com.here.sdk.search">EVChargingConnectorReference</a>&gt;</span> <span class="element-name">connectors</span></div>
-<div class="block"><p>Array of EVSE + connector(s) pairs that belong to the group.
- Provides access to EVSE statuses and more detailed connector characteristics.
- Available only if <code>EVChargingLocationFeature.EVSES</code> is included in
- <code>EVSearchOptions.additional_features</code>, otherwise empty.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="connectorCount">
-<h3>connectorCount</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">connectorCount</span></div>
-<div class="block"><p>Number of connectors in the group. If an EVSE has multiple identical
- connectors they are counted as one as only one is accessible at a time.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="availableConnectorCount">
-<h3>availableConnectorCount</h3>
-<div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">availableConnectorCount</span></div>
-<div class="block"><p>Number of connectors available for use at the time of query.
- The field is not present if the availability is not known.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="tariffIndexes">
-<h3>tariffIndexes</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</span> <span class="element-name">tariffIndexes</span></div>
-<div class="block"><p>Tariffs for the connector group, represented by indexes to the charging station's tariffs-list.
- Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
- <code>EVSearchOptions.additional_features</code>, otherwise empty.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section class="constructor-details" id="constructor-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="&lt;init&gt;()">
-<h3>EVChargingConnectorGroup</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">EVChargingConnectorGroup</span>()</div>
-<div class="block"><p>Creates a new instance.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="equals(java.lang.Object)">
-<h3>equals</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</span></div>
-<dl class="notes">
-<dt>Overrides:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a></code> in class <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="hashCode()">
-<h3>hashCode</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()</div>
-<dl class="notes">
-<dt>Overrides:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a></code> in class <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object → com.here.sdk.search.EVChargingConnectorGroup
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class
+</span><span class="element-name type-name-label">EVChargingConnectorGroup</span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
+
 </div>
 
+<div class="block">
 
+Represents the connector group at the charging location. Note: This is a
+beta release of this feature, so there could be a few bugs and
+unexpected behaviors. Related APIs may change for new releases without a
+deprecation process.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Field</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#availableConnectorCount"
+  class="member-name-link"><code>availableConnectorCount</code></a></td>
+  <td><div class="block">
+  Number of connectors available for use at the time of query.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#connectorCount"
+  class="member-name-link"><code>connectorCount</code></a></td>
+  <td><div class="block">
+  Number of connectors in the group.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorreference"
+  title="class in com.here.sdk.search"><code>EVChargingConnectorReference</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#connectors"
+  class="member-name-link"><code>connectors</code></a></td>
+  <td><div class="block">
+  Array of EVSE + connector(s) pairs that belong to the group.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#connectorType"
+  class="member-name-link"><code>connectorType</code></a></td>
+  <td><div class="block">
+  The standard (type) of the connectors belonging to this group.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#maxPowerInWatts"
+  class="member-name-link"><code>maxPowerInWatts</code></a></td>
+  <td><div class="block">
+  Maximum power that can be delivered by the connectors, in watts (W).
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-search-evchargingconnectorgroup#tariffIndexes"
+  class="member-name-link"><code>tariffIndexes</code></a></td>
+  <td><div class="block">
+  Tariffs for the connector group, represented by indexes to the charging
+  station's tariffs-list.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Constructor</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><pre><code>EVChargingConnectorGroup()</code></pre></td>
+  <td><div class="block">
+  Creates a new instance.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>boolean</code></td>
+  <td><pre><code>equals(Object obj)</code></pre></td>
+  <td> </td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>hashCode()</code></pre></td>
+  <td> </td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="field-detail" class="section field-details">
+
+  - <div id="connectorType" class="section detail">
+
+    ### connectorType
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">connectorType</span>
+
+    </div>
+
+    <div class="block">
+
+    The standard (type) of the connectors belonging to this group.
+    Should be one of the constants defined in EVChargingConnectorType .
+
+    </div>
+
+    </div>
+
+  - <div id="maxPowerInWatts" class="section detail">
+
+    ### maxPowerInWatts
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">maxPowerInWatts</span>
+
+    </div>
+
+    <div class="block">
+
+    Maximum power that can be delivered by the connectors, in watts (W).
+    Connectors without max power are not grouped.
+
+    </div>
+
+    </div>
+
+  - <div id="connectors" class="section detail">
+
+    ### connectors
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[EVChargingConnectorReference](sdk-for-android-explore-com-here-sdk-search-evchargingconnectorreference "class in com.here.sdk.search")></span> <span class="element-name">connectors</span>
+
+    </div>
+
+    <div class="block">
+
+    Array of EVSE + connector(s) pairs that belong to the group.
+    Provides access to EVSE statuses and more detailed connector
+    characteristics. Available only if EVChargingLocationFeature.EVSES
+    is included in EVSearchOptions.additional_features , otherwise
+    empty.
+
+    </div>
+
+    </div>
+
+  - <div id="connectorCount" class="section detail">
+
+    ### connectorCount
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">connectorCount</span>
+
+    </div>
+
+    <div class="block">
+
+    Number of connectors in the group. If an EVSE has multiple identical
+    connectors they are counted as one as only one is accessible at a
+    time.
+
+    </div>
+
+    </div>
+
+  - <div id="availableConnectorCount" class="section detail">
+
+    ### availableConnectorCount
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">availableConnectorCount</span>
+
+    </div>
+
+    <div class="block">
+
+    Number of connectors available for use at the time of query. The
+    field is not present if the availability is not known.
+
+    </div>
+
+    </div>
+
+  - <div id="tariffIndexes" class="section detail">
+
+    ### tariffIndexes
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">tariffIndexes</span>
+
+    </div>
+
+    <div class="block">
+
+    Tariffs for the connector group, represented by indexes to the
+    charging station's tariffs-list. Available only if
+    EVChargingLocationFeature.TARIFFS is included in
+    EVSearchOptions.additional_features , otherwise empty.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="constructor-detail" class="section constructor-details">
+
+  - <div id="<init>()" class="section detail">
+
+    ### EVChargingConnectorGroup
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">EVChargingConnectorGroup</span>()
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="equals(java.lang.Object)" class="section detail">
+
+    ### equals
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+
+    </div>
+
+    Overrides:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="hashCode()" class="section detail">
+
+    ### hashCode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()
+
+    </div>
+
+    Overrides:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  </div>
+
+</div>
+

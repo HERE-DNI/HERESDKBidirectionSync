@@ -3,227 +3,398 @@ title: "IndoorManeuver (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-indoormaneuver"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- IndoorManeuver.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div class="inheritance">com.here.sdk.routing.IndoorManeuver</div>
-</div>
-</div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">IndoorManeuver</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Represents a maneuver within an indoor section.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuver#getAction()">getAction</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the action type of this maneuver.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuver#getCoordinate()">getCoordinate</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the geographic coordinates of this maneuver.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuver#getDuration()">getDuration</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the duration to complete this maneuver.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangedata" title="class in com.here.sdk.routing">IndoorLevelChangeData</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuver#getIndoorLevelChangeData()">getIndoorLevelChangeData</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the level change data for this maneuver.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-routing-indoorspacedata" title="class in com.here.sdk.routing">IndoorSpaceData</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuver#getIndoorSpaceData()">getIndoorSpaceData</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the indoor space data for this maneuver.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>float</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuver#getLengthInMeters()">getLengthInMeters</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the length of this maneuver in meters.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuver#getLevelZIndex()">getLevelZIndex</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the vertical level index of this maneuver.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuver#getOffset()">getOffset</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the offset of this maneuver from the start of the section.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuver#getSectionIndex()">getSectionIndex</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the section index this maneuver belongs to.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="getAction()">
-<h3>getAction</h3>
-<div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">getAction</span>()</div>
-<div class="block"><p>Gets the action type of this maneuver.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The action type of this maneuver.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getCoordinate()">
-<h3>getCoordinate</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinate</span>()</div>
-<div class="block"><p>Gets the geographic coordinates of this maneuver.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The geographic coordinates of this maneuver.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getOffset()">
-<h3>getOffset</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getOffset</span>()</div>
-<div class="block"><p>Gets the offset of this maneuver from the start of the section.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The offset of this maneuver from the start of the section.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getSectionIndex()">
-<h3>getSectionIndex</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getSectionIndex</span>()</div>
-<div class="block"><p>Gets the section index this maneuver belongs to.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The section index this maneuver belongs to.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getLengthInMeters()">
-<h3>getLengthInMeters</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">float</span> <span class="element-name">getLengthInMeters</span>()</div>
-<div class="block"><p>Gets the length of this maneuver in meters.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The length of this maneuver in meters.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getDuration()">
-<h3>getDuration</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()</div>
-<div class="block"><p>Gets the duration to complete this maneuver.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The duration to complete this maneuver.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getLevelZIndex()">
-<h3>getLevelZIndex</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getLevelZIndex</span>()</div>
-<div class="block"><p>Gets the vertical level index of this maneuver.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The vertical level index of this maneuver.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getIndoorSpaceData()">
-<h3>getIndoorSpaceData</h3>
-<div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoorspacedata" title="class in com.here.sdk.routing">IndoorSpaceData</a></span> <span class="element-name">getIndoorSpaceData</span>()</div>
-<div class="block"><p>Gets the indoor space data for this maneuver. This will be not null if the IndoorManeuverAction is ENTER_ACTION or LEAVE_ACTION.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The indoor space data for this maneuver. This will be not null if the IndoorManeuverAction is ENTER_ACTION or LEAVE_ACTION.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getIndoorLevelChangeData()">
-<h3>getIndoorLevelChangeData</h3>
-<div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangedata" title="class in com.here.sdk.routing">IndoorLevelChangeData</a></span> <span class="element-name">getIndoorLevelChangeData</span>()</div>
-<div class="block"><p>Gets the level change data for this maneuver. This will be not null if the IndoorManeuverAction is LEVEL_CHANGE_ACTION.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The level change data for this maneuver. This will be not null if the IndoorManeuverAction is LEVEL_CHANGE_ACTION.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object →
+com.here.NativeBasecom.here.sdk.routing.IndoorManeuver →
+com.here.NativeBase → com.here.sdk.routing.IndoorManeuver
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class
+</span><span class="element-name type-name-label">IndoorManeuver</span>
+<span class="extends-implements">extends
+[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+
 </div>
 
+<div class="block">
 
+Represents a maneuver within an indoor section.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions"
+  title="enum class in com.here.sdk.routing"><code>IndoorManeuverActions</code></a></td>
+  <td><pre><code>getAction()</code></pre></td>
+  <td><div class="block">
+  Gets the action type of this maneuver.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a href="sdk-for-android-explore-com-here-sdk-core-geocoordinates"
+  title="class in com.here.sdk.core"><code>GeoCoordinates</code></a></td>
+  <td><pre><code>getCoordinate()</code></pre></td>
+  <td><div class="block">
+  Gets the geographic coordinates of this maneuver.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a href="sdk-for-android-explore-com-here-time-duration"
+  title="class in com.here.time"><code>Duration</code></a></td>
+  <td><pre><code>getDuration()</code></pre></td>
+  <td><div class="block">
+  Gets the duration to complete this maneuver.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangedata"
+  title="class in com.here.sdk.routing"><code>IndoorLevelChangeData</code></a></td>
+  <td><pre><code>getIndoorLevelChangeData()</code></pre></td>
+  <td><div class="block">
+  Gets the level change data for this maneuver.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-indoorspacedata"
+  title="class in com.here.sdk.routing"><code>IndoorSpaceData</code></a></td>
+  <td><pre><code>getIndoorSpaceData()</code></pre></td>
+  <td><div class="block">
+  Gets the indoor space data for this maneuver.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>float</code></td>
+  <td><pre><code>getLengthInMeters()</code></pre></td>
+  <td><div class="block">
+  Gets the length of this maneuver in meters.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>getLevelZIndex()</code></pre></td>
+  <td><div class="block">
+  Gets the vertical level index of this maneuver.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>getOffset()</code></pre></td>
+  <td><div class="block">
+  Gets the offset of this maneuver from the start of the section.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>getSectionIndex()</code></pre></td>
+  <td><div class="block">
+  Gets the section index this maneuver belongs to.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="getAction()" class="section detail">
+
+    ### getAction
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable
+    </span><span class="modifiers">public</span> <span class="return-type">[IndoorManeuverActions](sdk-for-android-explore-com-here-sdk-routing-indoormaneuveractions "enum class in com.here.sdk.routing")</span> <span class="element-name">getAction</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the action type of this maneuver.
+
+    </div>
+
+    Returns:  
+    The action type of this maneuver.
+
+    </div>
+
+  - <div id="getCoordinate()" class="section detail">
+
+    ### getCoordinate
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")</span> <span class="element-name">getCoordinate</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the geographic coordinates of this maneuver.
+
+    </div>
+
+    Returns:  
+    The geographic coordinates of this maneuver.
+
+    </div>
+
+  - <div id="getOffset()" class="section detail">
+
+    ### getOffset
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getOffset</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the offset of this maneuver from the start of the section.
+
+    </div>
+
+    Returns:  
+    The offset of this maneuver from the start of the section.
+
+    </div>
+
+  - <div id="getSectionIndex()" class="section detail">
+
+    ### getSectionIndex
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getSectionIndex</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the section index this maneuver belongs to.
+
+    </div>
+
+    Returns:  
+    The section index this maneuver belongs to.
+
+    </div>
+
+  - <div id="getLengthInMeters()" class="section detail">
+
+    ### getLengthInMeters
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">float</span> <span class="element-name">getLengthInMeters</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the length of this maneuver in meters.
+
+    </div>
+
+    Returns:  
+    The length of this maneuver in meters.
+
+    </div>
+
+  - <div id="getDuration()" class="section detail">
+
+    ### getDuration
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">getDuration</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the duration to complete this maneuver.
+
+    </div>
+
+    Returns:  
+    The duration to complete this maneuver.
+
+    </div>
+
+  - <div id="getLevelZIndex()" class="section detail">
+
+    ### getLevelZIndex
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getLevelZIndex</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the vertical level index of this maneuver.
+
+    </div>
+
+    Returns:  
+    The vertical level index of this maneuver.
+
+    </div>
+
+  - <div id="getIndoorSpaceData()" class="section detail">
+
+    ### getIndoorSpaceData
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable
+    </span><span class="modifiers">public</span> <span class="return-type">[IndoorSpaceData](sdk-for-android-explore-com-here-sdk-routing-indoorspacedata "class in com.here.sdk.routing")</span> <span class="element-name">getIndoorSpaceData</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the indoor space data for this maneuver. This will be not null
+    if the IndoorManeuverAction is ENTER_ACTION or LEAVE_ACTION.
+
+    </div>
+
+    Returns:  
+    The indoor space data for this maneuver. This will be not null if
+    the IndoorManeuverAction is ENTER_ACTION or LEAVE_ACTION.
+
+    </div>
+
+  - <div id="getIndoorLevelChangeData()" class="section detail">
+
+    ### getIndoorLevelChangeData
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable
+    </span><span class="modifiers">public</span> <span class="return-type">[IndoorLevelChangeData](sdk-for-android-explore-com-here-sdk-routing-indoorlevelchangedata "class in com.here.sdk.routing")</span> <span class="element-name">getIndoorLevelChangeData</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the level change data for this maneuver. This will be not null
+    if the IndoorManeuverAction is LEVEL_CHANGE_ACTION.
+
+    </div>
+
+    Returns:  
+    The level change data for this maneuver. This will be not null if
+    the IndoorManeuverAction is LEVEL_CHANGE_ACTION.
+
+    </div>
+
+  </div>
+
+</div>
+

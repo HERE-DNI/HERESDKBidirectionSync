@@ -3,48 +3,45 @@ title: "com.here.sdk.engine (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-engine-package-summary"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- package-summary.html -->
+<div class="package-signature">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<div class="header">
+package <span class="element-name">com.here.sdk.engine</span>
 
 </div>
 
-<div class="package-signature">package <span class="element-name">com.here.sdk.engine</span></div>
-<section class="summary">
-<ul class="summary-list">
-<li>
-<div id="class-summary">
-<div class="caption"><span>Classes</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Class</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-com-here-sdk-engine-initprovider" title="class in com.here.sdk.engine">InitProvider</a></div>
-<div class="col-last even-row-color class-summary class-summary-tab2">
-<div class="block">Performs global initialization of the SDK.</div>
-</div>
-</div>
-</div>
-</li>
-</ul>
-</section>
+<div class="section summary">
+
+- <div id="class-summary">
+
+  <div class="caption">
+
+  Classes
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Class</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a href="sdk-for-android-explore-com-here-sdk-engine-initprovider"
+  title="class in com.here.sdk.engine">InitProvider</a></td>
+  <td><div class="block">
+  Performs global initialization of the SDK.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
 
 </div>
-</div>
 
-
-
-</div>
-`
-}</HTMLBlock>

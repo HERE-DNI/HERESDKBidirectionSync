@@ -3,176 +3,329 @@ title: "MapMarkerCluster.CounterStyle (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- MapMarkerCluster.CounterStyle.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance">com.here.sdk.mapview.MapMarkerCluster.CounterStyle</div>
-</div>
-<section class="class-description" id="class-description">
-<dl class="notes">
-<dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster" title="class in com.here.sdk.mapview">MapMarkerCluster</a></dd>
-</dl>
 
-<div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapMarkerCluster.CounterStyle</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Styling options for a marker cluster which is represented by the marker count as a text.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section class="field-summary" id="field-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="caption"><span>Fields</span></div>
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Field</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#aboveMaxText">aboveMaxText</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">String to display if there are more markers clustered than <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#maxCountNumber"><code>maxCountNumber</code></a>.</div>
-</div>
-<div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#fontSize">fontSize</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Font size of counter.</div>
-</div>
-<div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#maxCountNumber">maxCountNumber</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Maximal number of markers represented as exact number.</div>
-</div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textAnchor">textAnchor</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Anchor of counter in regards to marker cluster image.</div>
-</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textColor">textColor</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Font color of counter.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section class="constructor-summary" id="constructor-summary">
-
-<div class="caption"><span>Constructors</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Constructor</div>
-<div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#%3Cinit%3E()">CounterStyle</a>()</code></div>
-<div class="col-last even-row-color">
-<div class="block">Creates a new instance.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section class="field-details" id="field-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="textColor">
-<h3>textColor</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">textColor</span></div>
-<div class="block"><p>Font color of counter. Default value is white.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="fontSize">
-<h3>fontSize</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">fontSize</span></div>
-<div class="block"><p>Font size of counter. Default value is 20.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="textAnchor">
-<h3>textAnchor</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">textAnchor</span></div>
-<div class="block"><p>Anchor of counter in regards to marker cluster image. Default is at the center.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="maxCountNumber">
-<h3>maxCountNumber</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">maxCountNumber</span></div>
-<div class="block"><p>Maximal number of markers represented as exact number. Values smaller than 2 will be clamped to 2.
- Default value is 99. When this value is changed, it is recommended to adapt <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#aboveMaxText"><code>aboveMaxText</code></a> accordingly.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="aboveMaxText">
-<h3>aboveMaxText</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">aboveMaxText</span></div>
-<div class="block"><p>String to display if there are more markers clustered than <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#maxCountNumber"><code>maxCountNumber</code></a>. Default value is "+99".</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section class="constructor-details" id="constructor-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="&lt;init&gt;()">
-<h3>CounterStyle</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">CounterStyle</span>()</div>
-<div class="block"><p>Creates a new instance.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object → com.here.sdk.mapview.MapMarkerCluster.CounterStyle
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+Enclosing class:  
+[MapMarkerCluster](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster "class in com.here.sdk.mapview")
+
+<div class="type-signature">
+
+<span class="modifiers">public static final class
+</span><span class="element-name type-name-label">MapMarkerCluster.CounterStyle</span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
+
 </div>
 
+<div class="block">
 
+Styling options for a marker cluster which is represented by the marker
+count as a text.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Field</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#aboveMaxText"
+  class="member-name-link"><code>aboveMaxText</code></a></td>
+  <td><div class="block">
+  String to display if there are more markers clustered than
+  maxCountNumber .
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>double</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#fontSize"
+  class="member-name-link"><code>fontSize</code></a></td>
+  <td><div class="block">
+  Font size of counter.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#maxCountNumber"
+  class="member-name-link"><code>maxCountNumber</code></a></td>
+  <td><div class="block">
+  Maximal number of markers represented as exact number.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a href="sdk-for-android-explore-com-here-sdk-core-anchor2d"
+  title="class in com.here.sdk.core"><code>Anchor2D</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textAnchor"
+  class="member-name-link"><code>textAnchor</code></a></td>
+  <td><div class="block">
+  Anchor of counter in regards to marker cluster image.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
+  title="class in com.here.sdk.core"><code>Color</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle#textColor"
+  class="member-name-link"><code>textColor</code></a></td>
+  <td><div class="block">
+  Font color of counter.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Constructor</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><pre><code>CounterStyle()</code></pre></td>
+  <td><div class="block">
+  Creates a new instance.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="field-detail" class="section field-details">
+
+  - <div id="textColor" class="section detail">
+
+    ### textColor
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">textColor</span>
+
+    </div>
+
+    <div class="block">
+
+    Font color of counter. Default value is white.
+
+    </div>
+
+    </div>
+
+  - <div id="fontSize" class="section detail">
+
+    ### fontSize
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">fontSize</span>
+
+    </div>
+
+    <div class="block">
+
+    Font size of counter. Default value is 20.
+
+    </div>
+
+    </div>
+
+  - <div id="textAnchor" class="section detail">
+
+    ### textAnchor
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[Anchor2D](sdk-for-android-explore-com-here-sdk-core-anchor2d "class in com.here.sdk.core")</span> <span class="element-name">textAnchor</span>
+
+    </div>
+
+    <div class="block">
+
+    Anchor of counter in regards to marker cluster image. Default is at
+    the center.
+
+    </div>
+
+    </div>
+
+  - <div id="maxCountNumber" class="section detail">
+
+    ### maxCountNumber
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">maxCountNumber</span>
+
+    </div>
+
+    <div class="block">
+
+    Maximal number of markers represented as exact number. Values
+    smaller than 2 will be clamped to 2. Default value is 99. When this
+    value is changed, it is recommended to adapt aboveMaxText
+    accordingly.
+
+    </div>
+
+    </div>
+
+  - <div id="aboveMaxText" class="section detail">
+
+    ### aboveMaxText
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">aboveMaxText</span>
+
+    </div>
+
+    <div class="block">
+
+    String to display if there are more markers clustered than
+    maxCountNumber . Default value is "+99".
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="constructor-detail" class="section constructor-details">
+
+  - <div id="<init>()" class="section detail">
+
+    ### CounterStyle
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">CounterStyle</span>()
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    </div>
+
+  </div>
+
+</div>
+

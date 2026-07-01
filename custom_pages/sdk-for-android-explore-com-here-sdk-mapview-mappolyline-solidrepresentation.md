@@ -3,308 +3,495 @@ title: "MapPolyline.SolidRepresentation (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- MapPolyline.SolidRepresentation.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapitemrepresentation" title="class in com.here.sdk.mapview">com.here.sdk.mapview.MapItemRepresentation</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">com.here.sdk.mapview.MapPolyline.Representation</a>
-<div class="inheritance">com.here.sdk.mapview.MapPolyline.SolidRepresentation</div>
-</div>
-</div>
-</div>
-</div>
-<section class="class-description" id="class-description">
-<dl class="notes">
-<dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a></dd>
-</dl>
 
-<div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapPolyline.SolidRepresentation</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a></span></div>
-<div class="block"><p>Representation for a solid line without outline.
- Can represent polylines that have constant width or width dependent on the map zoom.
- To achieve constant width lines, use <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> with a single value.
- To achieve line width dependent on map zoom, use <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> with
- multiple values.
- For <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure-kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
- For <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize-unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ======== NESTED CLASS SUMMARY ======== -->
-<li>
-<section class="nested-class-summary" id="nested-class-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="inherited-list">
-
-<code><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationErrorCode</a>, <a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></code></div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section class="constructor-summary" id="constructor-summary">
-
-<div class="caption"><span>Constructors</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Constructor</div>
-<div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)">SolidRepresentation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> lineWidth,
- <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color,
- <a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a> capShape)</code></div>
-<div class="col-last even-row-color">
-<div class="block">Creates a representation for a solid line without outline.</div>
-</div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation#%3Cinit%3E(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)">SolidRepresentation</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> lineWidth,
- <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color,
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> outlineWidth,
- <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> outlineColor,
- <a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a> capShape)</code></div>
-<div class="col-last odd-row-color">
-<div class="block">Creates a representation for a solid line with outline.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation#getCapShape()">getCapShape</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Returns the cap shape of the polyline and its outline.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation#getLineColor()">getLineColor</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the color of the polyline.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation#getLineWidth()">getLineWidth</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the map measure dependent polyline width.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation#getOutlineColor()">getOutlineColor</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the color of outline of the polyline.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-solidrepresentation#getOutlineWidth()">getOutlineWidth</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the map measure dependent polyline outline width.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section class="constructor-details" id="constructor-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)">
-<h3>SolidRepresentation</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SolidRepresentation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> lineWidth,
- @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color,
- @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a> capShape)</span>
-                    throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
-<div class="block"><p>Creates a representation for a solid line without outline.
- At map measures smaller than smallest map measure in the <code>lineWidth</code>
- line width is constant and equal to the width given for the smallest
- map measure in the <code>lineWidth</code>.
- At map measures bigger than biggest map measure in the <code>lineWidth</code>
- line width is constant and equal to the width given for the biggest
- map measure in the <code>lineWidth</code>.
- At map measures between two nearest given map measures line width is
- linearly interpolated between width values given for these map measures.
- For <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure-kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
- For <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize-unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
- <code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>lineWidth</code> - <p>The width of the polyline depending on the map measure.</p></dd>
-<dd><code>color</code> - <p>The color of the polyline.</p></dd>
-<dd><code>capShape</code> - <p>The cap shape applied to both ends of the polyline.</p></dd>
-<dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)">
-<h3>SolidRepresentation</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SolidRepresentation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> lineWidth,
- @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> color,
- @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a> outlineWidth,
- @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a> outlineColor,
- @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a> capShape)</span>
-                    throws <span class="exceptions"><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
-<div class="block"><p>Creates a representation for a solid line with outline.
- The total width of the polyline is <code>line width + 2 * outline width</code>.
- At map measures smaller than smallest map measure in the <code>lineWidth</code>
- and <code>outlineWidth</code>, the value is constant and equal to the width given for
- the smallest map measure in the <code>lineWidth</code> and <code>outlineWidth</code>.
- At map measures bigger than biggest map measure in the <code>lineWidth</code>
- and <code>outlineWidth</code>, the value is constant and equal to the width given for
- the biggest map measure in the <code>lineWidth</code> and <code>outlineWidth</code>.
- At map measures between two nearest given map measure is
- linearly interpolated between width values given for these map measures.
- For <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind" title="enum class in com.here.sdk.mapview"><code>MapMeasure.Kind</code></a> only <a href="sdk-for-android-explore-mapmeasure-kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported.
- For <a href="sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> only <a href="sdk-for-android-explore-rendersize-unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> is supported.
- <code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>lineWidth</code> - <p>The width of the polyline depending on the map measure.</p></dd>
-<dd><code>color</code> - <p>The color of the polyline.</p></dd>
-<dd><code>outlineWidth</code> - <p>The width of the outline on one side of the polyline depending on
-     the map measure.</p></dd>
-<dd><code>outlineColor</code> - <p>The outline color of the polyline.</p></dd>
-<dd><code>capShape</code> - <p>The cap shape applied to both ends of the polyline.</p></dd>
-<dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="getLineWidth()">
-<h3>getLineWidth</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></span> <span class="element-name">getLineWidth</span>()</div>
-<div class="block"><p>Gets the map measure dependent polyline width.
- At map measures smaller than smallest map measure in the <code>lineWidth</code>
- line width is constant and equal to the width given for the smallest
- map measure in the <code>lineWidth</code>.
- At map measures bigger than biggest map measure in the <code>lineWidth</code>
- line width is constant and equal to the width given for the biggest
- map measure in the <code>lineWidth</code>.
- At map measures between two nearest given map measures, the values are
- linearly interpolated between values given for these map measures.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The width of the polyline depending on the map measure.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getLineColor()">
-<h3>getLineColor</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getLineColor</span>()</div>
-<div class="block"><p>Gets the color of the polyline.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The color of the polyline.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getOutlineWidth()">
-<h3>getOutlineWidth</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize</a></span> <span class="element-name">getOutlineWidth</span>()</div>
-<div class="block"><p>Gets the map measure dependent polyline outline width.
- The total width of the polyline is <code>line width + 2 * outline width</code>.
- At map measures smaller than smallest map measure in the <code>outlineWidth</code>,
- outline width is constant and equal to the width given for the smallest
- map measure in the <code>outlineWidth</code>.
- At map measures bigger than biggest map measure in the <code>outlineWidth</code>,
- outline width is constant and equal to the width given for the biggest
- map measure in the <code>outlineWidth</code>.
- At map measures between two nearest given map measures, the values are
- linearly interpolated between values given for these map measures.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The width of the outline on one side of the polyline depending on the map measure.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getOutlineColor()">
-<h3>getOutlineColor</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">getOutlineColor</span>()</div>
-<div class="block"><p>Gets the color of outline of the polyline.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The outline color of the polyline.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getCapShape()">
-<h3>getCapShape</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-linecap" title="enum class in com.here.sdk.mapview">LineCap</a></span> <span class="element-name">getCapShape</span>()</div>
-<div class="block"><p>Returns the cap shape of the polyline and its outline.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The cap shape applied to both ends of the polyline and its outline.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object →
+com.here.NativeBasecom.here.sdk.mapview.MapItemRepresentationcom.here.sdk.mapview.MapPolyline.Representationcom.here.sdk.mapview.MapPolyline.SolidRepresentation
+→ com.here.NativeBase →
+com.here.sdk.mapview.MapItemRepresentationcom.here.sdk.mapview.MapPolyline.Representationcom.here.sdk.mapview.MapPolyline.SolidRepresentation
+→ com.here.sdk.mapview.MapItemRepresentation →
+com.here.sdk.mapview.MapPolyline.Representationcom.here.sdk.mapview.MapPolyline.SolidRepresentation
+→ com.here.sdk.mapview.MapPolyline.Representation →
+com.here.sdk.mapview.MapPolyline.SolidRepresentation
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+Enclosing class:  
+[MapPolyline](sdk-for-android-explore-com-here-sdk-mapview-mappolyline "class in com.here.sdk.mapview")
+
+<div class="type-signature">
+
+<span class="modifiers">public static final class
+</span><span class="element-name type-name-label">MapPolyline.SolidRepresentation</span>
+<span class="extends-implements">extends
+[MapPolyline.Representation](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation "class in com.here.sdk.mapview")</span>
+
 </div>
 
+<div class="block">
 
+Representation for a solid line without outline. Can represent polylines
+that have constant width or width dependent on the map zoom. To achieve
+constant width lines, use MapMeasureDependentRenderSize with a single
+value. To achieve line width dependent on map zoom, use
+MapMeasureDependentRenderSize with multiple values. For MapMeasure.Kind
+only MapMeasure.Kind.ZOOM_LEVEL is supported. For RenderSize.Unit only
+RenderSize.Unit.PIXELS is supported.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="nested-class-summary" class="section nested-class-summary">
+
+  <div class="inherited-list">
+
+  [`MapPolyline.Representation.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationerrorcode "enum class in com.here.sdk.mapview")`, `[`MapPolyline.Representation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")
+
+  </div>
+
+  </div>
+
+- <div id="constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Constructor</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><pre><code>SolidRepresentation(MapMeasureDependentRenderSize lineWidth,
+   Color color,
+   LineCap capShape)</code></pre></td>
+  <td><div class="block">
+  Creates a representation for a solid line without outline.
+  </div></td>
+  </tr>
+  <tr>
+  <td><pre><code>SolidRepresentation(MapMeasureDependentRenderSize lineWidth,
+   Color color,
+   MapMeasureDependentRenderSize outlineWidth,
+   Color outlineColor,
+   LineCap capShape)</code></pre></td>
+  <td><div class="block">
+  Creates a representation for a solid line with outline.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-linecap"
+  title="enum class in com.here.sdk.mapview"><code>LineCap</code></a></td>
+  <td><pre><code>getCapShape()</code></pre></td>
+  <td><div class="block">
+  Returns the cap shape of the polyline and its outline.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
+  title="class in com.here.sdk.core"><code>Color</code></a></td>
+  <td><pre><code>getLineColor()</code></pre></td>
+  <td><div class="block">
+  Gets the color of the polyline.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize"
+  title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a></td>
+  <td><pre><code>getLineWidth()</code></pre></td>
+  <td><div class="block">
+  Gets the map measure dependent polyline width.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a href="sdk-for-android-explore-com-here-sdk-core-color"
+  title="class in com.here.sdk.core"><code>Color</code></a></td>
+  <td><pre><code>getOutlineColor()</code></pre></td>
+  <td><div class="block">
+  Gets the color of outline of the polyline.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize"
+  title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a></td>
+  <td><pre><code>getOutlineWidth()</code></pre></td>
+  <td><div class="block">
+  Gets the map measure dependent polyline outline width.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="constructor-detail" class="section constructor-details">
+
+  - <div id="<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)"
+    class="section detail">
+
+    ### SolidRepresentation
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">SolidRepresentation</span><span class="parameters">(@NonNull
+    [MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview") lineWidth,
+    @NonNull
+    [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color,
+    @NonNull
+    [LineCap](sdk-for-android-explore-com-here-sdk-mapview-linecap "enum class in com.here.sdk.mapview") capShape)</span>
+    throws
+    <span class="exceptions">[MapPolyline.Representation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a representation for a solid line without outline. At map
+    measures smaller than smallest map measure in the lineWidth line
+    width is constant and equal to the width given for the smallest map
+    measure in the lineWidth . At map measures bigger than biggest map
+    measure in the lineWidth line width is constant and equal to the
+    width given for the biggest map measure in the lineWidth . At map
+    measures between two nearest given map measures line width is
+    linearly interpolated between width values given for these map
+    measures. For MapMeasure.Kind only MapMeasure.Kind.ZOOM_LEVEL is
+    supported. For RenderSize.Unit only RenderSize.Unit.PIXELS is
+    supported. lineWidth must not be 0 ( lineWidth.sizes with all values
+    set to 0.0).
+
+    </div>
+
+    Parameters:  
+    `lineWidth` -
+
+    The width of the polyline depending on the map measure.
+
+    `color` -
+
+    The color of the polyline.
+
+    `capShape` -
+
+    The cap shape applied to both ends of the polyline.
+
+    Throws:  
+    [`MapPolyline.Representation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")
+    -
+
+    In case of invalid input parameters.
+
+    </div>
+
+  - <div id="<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)"
+    class="section detail">
+
+    ### SolidRepresentation
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">SolidRepresentation</span><span class="parameters">(@NonNull
+    [MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview") lineWidth,
+    @NonNull
+    [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") color,
+    @NonNull
+    [MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview") outlineWidth,
+    @NonNull
+    [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") outlineColor,
+    @NonNull
+    [LineCap](sdk-for-android-explore-com-here-sdk-mapview-linecap "enum class in com.here.sdk.mapview") capShape)</span>
+    throws
+    <span class="exceptions">[MapPolyline.Representation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a representation for a solid line with outline. The total
+    width of the polyline is line width + 2 \* outline width . At map
+    measures smaller than smallest map measure in the lineWidth and
+    outlineWidth , the value is constant and equal to the width given
+    for the smallest map measure in the lineWidth and outlineWidth . At
+    map measures bigger than biggest map measure in the lineWidth and
+    outlineWidth , the value is constant and equal to the width given
+    for the biggest map measure in the lineWidth and outlineWidth . At
+    map measures between two nearest given map measure is linearly
+    interpolated between width values given for these map measures. For
+    MapMeasure.Kind only MapMeasure.Kind.ZOOM_LEVEL is supported. For
+    RenderSize.Unit only RenderSize.Unit.PIXELS is supported. lineWidth
+    must not be 0 ( lineWidth.sizes with all values set to 0.0).
+
+    </div>
+
+    Parameters:  
+    `lineWidth` -
+
+    The width of the polyline depending on the map measure.
+
+    `color` -
+
+    The color of the polyline.
+
+    `outlineWidth` -
+
+    The width of the outline on one side of the polyline depending on
+    the map measure.
+
+    `outlineColor` -
+
+    The outline color of the polyline.
+
+    `capShape` -
+
+    The cap shape applied to both ends of the polyline.
+
+    Throws:  
+    [`MapPolyline.Representation.InstantiationException`](sdk-for-android-explore-com-here-sdk-mapview-mappolyline-representation-instantiationexception "class in com.here.sdk.mapview")
+    -
+
+    In case of invalid input parameters.
+
+    </div>
+
+  </div>
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="getLineWidth()" class="section detail">
+
+    ### getLineWidth
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")</span> <span class="element-name">getLineWidth</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the map measure dependent polyline width. At map measures
+    smaller than smallest map measure in the lineWidth line width is
+    constant and equal to the width given for the smallest map measure
+    in the lineWidth . At map measures bigger than biggest map measure
+    in the lineWidth line width is constant and equal to the width given
+    for the biggest map measure in the lineWidth . At map measures
+    between two nearest given map measures, the values are linearly
+    interpolated between values given for these map measures.
+
+    </div>
+
+    Returns:  
+    The width of the polyline depending on the map measure.
+
+    </div>
+
+  - <div id="getLineColor()" class="section detail">
+
+    ### getLineColor
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getLineColor</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the color of the polyline.
+
+    </div>
+
+    Returns:  
+    The color of the polyline.
+
+    </div>
+
+  - <div id="getOutlineWidth()" class="section detail">
+
+    ### getOutlineWidth
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[MapMeasureDependentRenderSize](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize "class in com.here.sdk.mapview")</span> <span class="element-name">getOutlineWidth</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the map measure dependent polyline outline width. The total
+    width of the polyline is line width + 2 \* outline width . At map
+    measures smaller than smallest map measure in the outlineWidth ,
+    outline width is constant and equal to the width given for the
+    smallest map measure in the outlineWidth . At map measures bigger
+    than biggest map measure in the outlineWidth , outline width is
+    constant and equal to the width given for the biggest map measure in
+    the outlineWidth . At map measures between two nearest given map
+    measures, the values are linearly interpolated between values given
+    for these map measures.
+
+    </div>
+
+    Returns:  
+    The width of the outline on one side of the polyline depending on
+    the map measure.
+
+    </div>
+
+  - <div id="getOutlineColor()" class="section detail">
+
+    ### getOutlineColor
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core")</span> <span class="element-name">getOutlineColor</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the color of outline of the polyline.
+
+    </div>
+
+    Returns:  
+    The outline color of the polyline.
+
+    </div>
+
+  - <div id="getCapShape()" class="section detail">
+
+    ### getCapShape
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[LineCap](sdk-for-android-explore-com-here-sdk-mapview-linecap "enum class in com.here.sdk.mapview")</span> <span class="element-name">getCapShape</span>()
+
+    </div>
+
+    <div class="block">
+
+    Returns the cap shape of the polyline and its outline.
+
+    </div>
+
+    Returns:  
+    The cap shape applied to both ends of the polyline and its outline.
+
+    </div>
+
+  </div>
+
+</div>
+

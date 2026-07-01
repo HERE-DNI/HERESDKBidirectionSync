@@ -3,287 +3,635 @@ title: "StreetAttributes (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-streetattributes"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- StreetAttributes.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a>&gt;
-<div class="inheritance">com.here.sdk.routing.StreetAttributes</div>
-</div>
-</div>
-<section class="class-description" id="class-description">
-<dl class="notes">
-<dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
-</dl>
 
-<div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">StreetAttributes</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a>&gt;</span></div>
-<div class="block"><p>Types of street attributes.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ======== NESTED CLASS SUMMARY ======== -->
-<li>
-<section class="nested-class-summary" id="nested-class-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="inherited-list">
-
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">Enum.EnumDesc</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">E</a> extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">E</a>&gt;&gt;</code></div>
-</section>
-</li>
-<!-- =========== ENUM CONSTANT SUMMARY =========== -->
-<li>
-<section class="constants-summary" id="enum-constant-summary">
-
-<div class="caption"><span>Enum Constants</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Enum Constant</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#BRIDGE">BRIDGE</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">The street goes over a bridge.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#BUILT_UP_AREA">BUILT_UP_AREA</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">The street is most likely in a built-up area.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#CONTROLLED_ACCESS_HIGHWAY">CONTROLLED_ACCESS_HIGHWAY</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">The street is either a controlled access or a limited access road or both.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#DIRT_ROAD">DIRT_ROAD</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">The street is a dirt road.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#DIVIDED_ROAD">DIVIDED_ROAD</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">The street is a divided road.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#MOTORWAY">MOTORWAY</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">The street is a motorway.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#PRIVATE_ROAD">PRIVATE_ROAD</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">The street is a private road.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#RAMP">RAMP</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">The street contains a ramp.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#RIGHT_DRIVING_SIDE">RIGHT_DRIVING_SIDE</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">The driving on the street is done on the right side.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#ROUNDABOUT">ROUNDABOUT</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">The street contains a roundabout.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#TUNNEL">TUNNEL</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">The street goes through a tunnel.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#UNDER_CONSTRUCTION">UNDER_CONSTRUCTION</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">The street is under construction.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab1" onclick="show('method-summary-table', 'method-summary-table-tab1', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Static Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Returns the enum constant of this class with the specified name.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#values()">values</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Returns an array containing the constants of this enum class, in
-the order they are declared.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Enum">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" title="class or interface in java.lang">compareTo</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" title="class or interface in java.lang">describeConstable</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" title="class or interface in java.lang">getDeclaringClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" title="class or interface in java.lang">name</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" title="class or interface in java.lang">ordinal</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" title="class or interface in java.lang">valueOf</a></code></div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ ENUM CONSTANT DETAIL =========== -->
-<li>
-<section class="constant-details" id="enum-constant-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="RIGHT_DRIVING_SIDE">
-<h3>RIGHT_DRIVING_SIDE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">RIGHT_DRIVING_SIDE</span></div>
-<div class="block"><p>The driving on the street is done on the right side.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="DIRT_ROAD">
-<h3>DIRT_ROAD</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">DIRT_ROAD</span></div>
-<div class="block"><p>The street is a dirt road.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="TUNNEL">
-<h3>TUNNEL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">TUNNEL</span></div>
-<div class="block"><p>The street goes through a tunnel.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="BRIDGE">
-<h3>BRIDGE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">BRIDGE</span></div>
-<div class="block"><p>The street goes over a bridge.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="RAMP">
-<h3>RAMP</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">RAMP</span></div>
-<div class="block"><p>The street contains a ramp.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="ROUNDABOUT">
-<h3>ROUNDABOUT</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">ROUNDABOUT</span></div>
-<div class="block"><p>The street contains a roundabout.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="UNDER_CONSTRUCTION">
-<h3>UNDER_CONSTRUCTION</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">UNDER_CONSTRUCTION</span></div>
-<div class="block"><p>The street is under construction.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="DIVIDED_ROAD">
-<h3>DIVIDED_ROAD</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">DIVIDED_ROAD</span></div>
-<div class="block"><p>The street is a divided road.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="MOTORWAY">
-<h3>MOTORWAY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">MOTORWAY</span></div>
-<div class="block"><p>The street is a motorway.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="PRIVATE_ROAD">
-<h3>PRIVATE_ROAD</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">PRIVATE_ROAD</span></div>
-<div class="block"><p>The street is a private road.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="BUILT_UP_AREA">
-<h3>BUILT_UP_AREA</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">BUILT_UP_AREA</span></div>
-<div class="block"><p>The street is most likely in a built-up area.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="CONTROLLED_ACCESS_HIGHWAY">
-<h3>CONTROLLED_ACCESS_HIGHWAY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">CONTROLLED_ACCESS_HIGHWAY</span></div>
-<div class="block"><p>The street is either a controlled access or a limited access road or both.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="values()">
-<h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a>[]</span> <span class="element-name">values</span>()</div>
-<div class="block">Returns an array containing the constants of this enum class, in
-the order they are declared.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>an array containing the constants of this enum class, in the order they are declared</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="valueOf(java.lang.String)">
-<h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-routing-streetattributes" title="enum class in com.here.sdk.routing">StreetAttributes</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
-<div class="block">Returns the enum constant of this class with the specified name.
-The string must match <i>exactly</i> an identifier used to declare an
-enum constant in this class.  (Extraneous whitespace characters are 
-not permitted.)</div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>name</code> - the name of the enum constant to be returned.</dd>
-<dt>Returns:</dt>
-<dd>the enum constant with the specified name</dd>
-<dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" title="class or interface in java.lang">IllegalArgumentException</a></code> - if this enum class has no constant with the specified name</dd>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" title="class or interface in java.lang">NullPointerException</a></code> - if the argument is null</dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object →
+java.lang.Enum<StreetAttributes>com.here.sdk.routing.StreetAttributes
+→ java.lang.Enum → StreetAttributes →
+com.here.sdk.routing.StreetAttributes
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+All Implemented Interfaces:  
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
+class="external-link"
+title="class or interface in java.io"><code>Serializable</code></a>, <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
+class="external-link"
+title="class or interface in java.lang"><code>Comparable</code></a>`<`[`StreetAttributes`](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")`>`,
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
+class="external-link"
+title="class or interface in java.lang.constant"><code>Constable</code></a>
+
+<div class="type-signature">
+
+<span class="modifiers">public enum
+</span><span class="element-name type-name-label">StreetAttributes</span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+class="external-link" title="class or interface in java.lang">Enum</a><[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")></span>
+
 </div>
 
+<div class="block">
 
+Types of street attributes.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="nested-class-summary" class="section nested-class-summary">
+
+  <div class="inherited-list">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>` extends `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>`>>`
+
+  </div>
+
+  </div>
+
+- <div id="enum-constant-summary" class="section constants-summary">
+
+  <div class="caption">
+
+  Enum Constants
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Enum Constant</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#BRIDGE"
+  class="member-name-link"><code>BRIDGE</code></a></td>
+  <td><div class="block">
+  The street goes over a bridge.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#BUILT_UP_AREA"
+  class="member-name-link"><code>BUILT_UP_AREA</code></a></td>
+  <td><div class="block">
+  The street is most likely in a built-up area.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#CONTROLLED_ACCESS_HIGHWAY"
+  class="member-name-link"><code>CONTROLLED_ACCESS_HIGHWAY</code></a></td>
+  <td><div class="block">
+  The street is either a controlled access or a limited access road or
+  both.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#DIRT_ROAD"
+  class="member-name-link"><code>DIRT_ROAD</code></a></td>
+  <td><div class="block">
+  The street is a dirt road.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#DIVIDED_ROAD"
+  class="member-name-link"><code>DIVIDED_ROAD</code></a></td>
+  <td><div class="block">
+  The street is a divided road.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#MOTORWAY"
+  class="member-name-link"><code>MOTORWAY</code></a></td>
+  <td><div class="block">
+  The street is a motorway.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#PRIVATE_ROAD"
+  class="member-name-link"><code>PRIVATE_ROAD</code></a></td>
+  <td><div class="block">
+  The street is a private road.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#RAMP"
+  class="member-name-link"><code>RAMP</code></a></td>
+  <td><div class="block">
+  The street contains a ramp.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#RIGHT_DRIVING_SIDE"
+  class="member-name-link"><code>RIGHT_DRIVING_SIDE</code></a></td>
+  <td><div class="block">
+  The driving on the street is done on the right side.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#ROUNDABOUT"
+  class="member-name-link"><code>ROUNDABOUT</code></a></td>
+  <td><div class="block">
+  The street contains a roundabout.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#TUNNEL"
+  class="member-name-link"><code>TUNNEL</code></a></td>
+  <td><div class="block">
+  The street goes through a tunnel.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes#UNDER_CONSTRUCTION"
+  class="member-name-link"><code>UNDER_CONSTRUCTION</code></a></td>
+  <td><div class="block">
+  The street is under construction.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Static Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>static </code><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes"
+  title="enum class in com.here.sdk.routing"><code>StreetAttributes</code></a></td>
+  <td><pre><code>valueOf(String name)</code></pre></td>
+  <td><div class="block">
+  Returns the enum constant of this class with the specified name.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static </code><a
+  href="sdk-for-android-explore-com-here-sdk-routing-streetattributes"
+  title="enum class in com.here.sdk.routing"><code>StreetAttributes</code></a><code>[]</code></td>
+  <td><pre><code>values()</code></pre></td>
+  <td><div class="block">
+  Returns an array containing the constants of this enum class, in the
+  order they are declared.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
+  class="external-link"
+  title="class or interface in java.lang"><code>compareTo</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
+  class="external-link"
+  title="class or interface in java.lang"><code>describeConstable</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
+  class="external-link"
+  title="class or interface in java.lang"><code>name</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
+  class="external-link"
+  title="class or interface in java.lang"><code>ordinal</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
+  class="external-link"
+  title="class or interface in java.lang"><code>valueOf</code></a>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="enum-constant-detail" class="section constant-details">
+
+  - <div id="RIGHT_DRIVING_SIDE" class="section detail">
+
+    ### RIGHT_DRIVING_SIDE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">RIGHT_DRIVING_SIDE</span>
+
+    </div>
+
+    <div class="block">
+
+    The driving on the street is done on the right side.
+
+    </div>
+
+    </div>
+
+  - <div id="DIRT_ROAD" class="section detail">
+
+    ### DIRT_ROAD
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">DIRT_ROAD</span>
+
+    </div>
+
+    <div class="block">
+
+    The street is a dirt road.
+
+    </div>
+
+    </div>
+
+  - <div id="TUNNEL" class="section detail">
+
+    ### TUNNEL
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">TUNNEL</span>
+
+    </div>
+
+    <div class="block">
+
+    The street goes through a tunnel.
+
+    </div>
+
+    </div>
+
+  - <div id="BRIDGE" class="section detail">
+
+    ### BRIDGE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">BRIDGE</span>
+
+    </div>
+
+    <div class="block">
+
+    The street goes over a bridge.
+
+    </div>
+
+    </div>
+
+  - <div id="RAMP" class="section detail">
+
+    ### RAMP
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">RAMP</span>
+
+    </div>
+
+    <div class="block">
+
+    The street contains a ramp.
+
+    </div>
+
+    </div>
+
+  - <div id="ROUNDABOUT" class="section detail">
+
+    ### ROUNDABOUT
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">ROUNDABOUT</span>
+
+    </div>
+
+    <div class="block">
+
+    The street contains a roundabout.
+
+    </div>
+
+    </div>
+
+  - <div id="UNDER_CONSTRUCTION" class="section detail">
+
+    ### UNDER_CONSTRUCTION
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">UNDER_CONSTRUCTION</span>
+
+    </div>
+
+    <div class="block">
+
+    The street is under construction.
+
+    </div>
+
+    </div>
+
+  - <div id="DIVIDED_ROAD" class="section detail">
+
+    ### DIVIDED_ROAD
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">DIVIDED_ROAD</span>
+
+    </div>
+
+    <div class="block">
+
+    The street is a divided road.
+
+    </div>
+
+    </div>
+
+  - <div id="MOTORWAY" class="section detail">
+
+    ### MOTORWAY
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">MOTORWAY</span>
+
+    </div>
+
+    <div class="block">
+
+    The street is a motorway.
+
+    </div>
+
+    </div>
+
+  - <div id="PRIVATE_ROAD" class="section detail">
+
+    ### PRIVATE_ROAD
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">PRIVATE_ROAD</span>
+
+    </div>
+
+    <div class="block">
+
+    The street is a private road.
+
+    </div>
+
+    </div>
+
+  - <div id="BUILT_UP_AREA" class="section detail">
+
+    ### BUILT_UP_AREA
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">BUILT_UP_AREA</span>
+
+    </div>
+
+    <div class="block">
+
+    The street is most likely in a built-up area.
+
+    </div>
+
+    </div>
+
+  - <div id="CONTROLLED_ACCESS_HIGHWAY" class="section detail">
+
+    ### CONTROLLED_ACCESS_HIGHWAY
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">CONTROLLED_ACCESS_HIGHWAY</span>
+
+    </div>
+
+    <div class="block">
+
+    The street is either a controlled access or a limited access road or
+    both.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="values()" class="section detail">
+
+    ### values
+
+    <div class="member-signature">
+
+    <span class="modifiers">public
+    static</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")\[\]</span> <span class="element-name">values</span>()
+
+    </div>
+
+    <div class="block">
+
+    Returns an array containing the constants of this enum class, in the
+    order they are declared.
+
+    </div>
+
+    Returns:  
+    an array containing the constants of this enum class, in the order
+    they are declared
+
+    </div>
+
+  - <div id="valueOf(java.lang.String)" class="section detail">
+
+    ### valueOf
+
+    <div class="member-signature">
+
+    <span class="modifiers">public
+    static</span> <span class="return-type">[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+
+    </div>
+
+    <div class="block">
+
+    Returns the enum constant of this class with the specified name. The
+    string must match exactly an identifier used to declare an enum
+    constant in this class. (Extraneous whitespace characters are not
+    permitted.)
+
+    </div>
+
+    Parameters:  
+    `name` - the name of the enum constant to be returned.
+
+    Returns:  
+    the enum constant with the specified name
+
+    Throws:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    if this enum class has no constant with the specified name
+
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    if the argument is null
+
+    </div>
+
+  </div>
+
+</div>
+

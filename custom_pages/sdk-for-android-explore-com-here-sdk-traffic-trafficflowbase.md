@@ -3,112 +3,147 @@ title: "TrafficFlowBase (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- TrafficFlowBase.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
 
 </div>
-<section class="class-description" id="class-description">
-<dl class="notes">
-<dt>All Known Implementing Classes:</dt>
-<dd><code><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficflow" title="class in com.here.sdk.traffic">TrafficFlow</a></code></dd>
-</dl>
 
-<div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TrafficFlowBase</span></div>
-<div class="block"><p>This interface provides details about a traffic flow.<br/>
- For additional information about fields, refer to <a href="https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html#tag/Real-Time-Traffic">Traffic API v7 API Reference: Traffic API v7</a>.
- Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
+<div id="class-description" class="section class-description">
 
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab3" onclick="show('method-summary-table', 'method-summary-table-tab3', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Abstract Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase#getFreeFlowSpeedInMetersPerSecond()">getFreeFlowSpeedInMetersPerSecond</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Gets the reference speed in meters per second along the roadway when no traffic is present.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>double</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficflowbase#getJamFactor()">getJamFactor</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Gets a value for the amount of traffic on the roadway.</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
+All Known Implementing Classes:  
+[`TrafficFlow`](sdk-for-android-explore-com-here-sdk-traffic-trafficflow "class in com.here.sdk.traffic")
 
-<ul class="member-list">
-<li>
-<section class="detail" id="getFreeFlowSpeedInMetersPerSecond()">
-<h3>getFreeFlowSpeedInMetersPerSecond</h3>
-<div class="member-signature"><span class="return-type">double</span> <span class="element-name">getFreeFlowSpeedInMetersPerSecond</span>()</div>
-<div class="block"><p>Gets the reference speed in meters per second along the roadway when no traffic is present.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The reference speed in meters per second along the roadway when no traffic is present.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getJamFactor()">
-<h3>getJamFactor</h3>
-<div class="member-signature"><span class="return-type">double</span> <span class="element-name">getJamFactor</span>()</div>
-<div class="block"><p>Gets a value for the amount of traffic on the roadway.
- The value, between 0.0 and 10.0, indicate the expected quality of travel.
- A value of 0.0 indicates that there is no congestion on the roadway.
- As the value approaches 10.0, it indicates increasing congestion.
- A value of 10.0 is reserved to represent a blocked roadway (closure).</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>A value for the amount of traffic on the roadway.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+<div class="type-signature">
+
+<span class="modifiers">public interface
+</span><span class="element-name type-name-label">TrafficFlowBase</span>
 
 </div>
+
+<div class="block">
+
+This interface provides details about a traffic flow. For additional
+information about fields, refer to Traffic API v7 API Reference: Traffic
+API v7 . Note: This is a beta release of this feature, so there could be
+a few bugs and unexpected behaviors. Related APIs may change for new
+releases without a deprecation process.
+
 </div>
 
+</div>
 
+<div class="section summary">
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Abstract Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>double</code></td>
+  <td><pre><code>getFreeFlowSpeedInMetersPerSecond()</code></pre></td>
+  <td><div class="block">
+  Gets the reference speed in meters per second along the roadway when no
+  traffic is present.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>double</code></td>
+  <td><pre><code>getJamFactor()</code></pre></td>
+  <td><div class="block">
+  Gets a value for the amount of traffic on the roadway.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
 
 </div>
-`
-}</HTMLBlock>
+
+<div class="section details">
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="getFreeFlowSpeedInMetersPerSecond()"
+    class="section detail">
+
+    ### getFreeFlowSpeedInMetersPerSecond
+
+    <div class="member-signature">
+
+    <span class="return-type">double</span> <span class="element-name">getFreeFlowSpeedInMetersPerSecond</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the reference speed in meters per second along the roadway when
+    no traffic is present.
+
+    </div>
+
+    Returns:  
+    The reference speed in meters per second along the roadway when no
+    traffic is present.
+
+    </div>
+
+  - <div id="getJamFactor()" class="section detail">
+
+    ### getJamFactor
+
+    <div class="member-signature">
+
+    <span class="return-type">double</span> <span class="element-name">getJamFactor</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets a value for the amount of traffic on the roadway. The value,
+    between 0.0 and 10.0, indicate the expected quality of travel. A
+    value of 0.0 indicates that there is no congestion on the roadway.
+    As the value approaches 10.0, it indicates increasing congestion. A
+    value of 10.0 is reserved to represent a blocked roadway (closure).
+
+    </div>
+
+    Returns:  
+    A value for the amount of traffic on the roadway.
+
+    </div>
+
+  </div>
+
+</div>
+

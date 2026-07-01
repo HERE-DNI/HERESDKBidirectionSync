@@ -3,143 +3,244 @@ title: "HereMap (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-heremap"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- HereMap.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div class="inheritance">com.here.sdk.mapview.HereMap</div>
-</div>
-</div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">HereMap</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>The representation of a dynamic and interactive geographic map.
- The map manages a collection of layers of objects and spaces, presents them in a stacked layout and offers the means to focus on a certain area.
- The layers, their relation to the objects and spaces, the layout and the representation style is described through a configuration.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-heremap#addMapIdleListener(com.here.sdk.mapview.MapIdleListener)">addMapIdleListener</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Adds a listener for receiving idle state
- notifications and notifies it of the current state.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">Style</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-heremap#getStyle()">getStyle</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the style that the map uses to customize the visual appearance of rendered features.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-heremap#removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)">removeMapIdleListener</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Removes a listener from receiving idle state notifications.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="addMapIdleListener(com.here.sdk.mapview.MapIdleListener)">
-<h3>addMapIdleListener</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapIdleListener</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span></div>
-<div class="block"><p>Adds a listener for receiving idle state
- notifications and notifies it of the current state.
- The first notification received is always the state at the time of registration.
- The new listener is appended to the set
- of <code>HereMap</code> idle listeners as a strong reference.
- The caller is responsible for releasing the strong reference by calling
- <a href="sdk-for-android-explore-com-here-sdk-mapview-heremap#removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)"><code>removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)</code></a>.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>listener</code> - <p>The listener</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)">
-<h3>removeMapIdleListener</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapIdleListener</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span></div>
-<div class="block"><p>Removes a listener from receiving idle state notifications.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>listener</code> - <p>The listener</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getStyle()">
-<h3>getStyle</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-mapview-style" title="class in com.here.sdk.mapview">Style</a></span> <span class="element-name">getStyle</span>()</div>
-<div class="block"><p>Gets the style that the map uses to customize the visual appearance of rendered features.
- Changes made to the map style using <a href="sdk-for-android-explore-style#update(com.here.sdk.mapview.Style)"><code>Style.update(com.here.sdk.mapview.Style)</code></a> are lost when new scene is loaded using
- <a href="sdk-for-android-explore-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a> and its variants as well as
- when map features are enabled or disabled using <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map<java.lang.string, java.lang.string="">)</java.lang.string,></code></a> and <a href="sdk-for-android-explore-mapscene#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List<java.lang.string>)</java.lang.string></code></a>.
- Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The style that the map uses to customize the visual appearance of rendered features.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object → com.here.NativeBasecom.here.sdk.mapview.HereMap →
+com.here.NativeBase → com.here.sdk.mapview.HereMap
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class
+</span><span class="element-name type-name-label">HereMap</span>
+<span class="extends-implements">extends
+[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+
 </div>
 
+<div class="block">
 
+The representation of a dynamic and interactive geographic map. The map
+manages a collection of layers of objects and spaces, presents them in a
+stacked layout and offers the means to focus on a certain area. The
+layers, their relation to the objects and spaces, the layout and the
+representation style is described through a configuration.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>void</code></td>
+  <td><pre><code>addMapIdleListener(MapIdleListener listener)</code></pre></td>
+  <td><div class="block">
+  Adds a listener for receiving idle state notifications and notifies it
+  of the current state.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a href="sdk-for-android-explore-com-here-sdk-mapview-style"
+  title="class in com.here.sdk.mapview"><code>Style</code></a></td>
+  <td><pre><code>getStyle()</code></pre></td>
+  <td><div class="block">
+  Gets the style that the map uses to customize the visual appearance of
+  rendered features.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>void</code></td>
+  <td><pre><code>removeMapIdleListener(MapIdleListener listener)</code></pre></td>
+  <td><div class="block">
+  Removes a listener from receiving idle state notifications.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="addMapIdleListener(com.here.sdk.mapview.MapIdleListener)"
+    class="section detail">
+
+    ### addMapIdleListener
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapIdleListener</span><span class="parameters">(@NonNull
+    [MapIdleListener](sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener "interface in com.here.sdk.mapview") listener)</span>
+
+    </div>
+
+    <div class="block">
+
+    Adds a listener for receiving idle state notifications and notifies
+    it of the current state. The first notification received is always
+    the state at the time of registration. The new listener is appended
+    to the set of HereMap idle listeners as a strong reference. The
+    caller is responsible for releasing the strong reference by calling
+    removeMapIdleListener(com.here.sdk.mapview.MapIdleListener) .
+
+    </div>
+
+    Parameters:  
+    `listener` -
+
+    The listener
+
+    </div>
+
+  - <div id="removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)"
+    class="section detail">
+
+    ### removeMapIdleListener
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapIdleListener</span><span class="parameters">(@NonNull
+    [MapIdleListener](sdk-for-android-explore-com-here-sdk-mapview-mapidlelistener "interface in com.here.sdk.mapview") listener)</span>
+
+    </div>
+
+    <div class="block">
+
+    Removes a listener from receiving idle state notifications.
+
+    </div>
+
+    Parameters:  
+    `listener` -
+
+    The listener
+
+    </div>
+
+  - <div id="getStyle()" class="section detail">
+
+    ### getStyle
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[Style](sdk-for-android-explore-com-here-sdk-mapview-style "class in com.here.sdk.mapview")</span> <span class="element-name">getStyle</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the style that the map uses to customize the visual appearance
+    of rendered features. Changes made to the map style using
+    Style.update(com.here.sdk.mapview.Style) are lost when new scene is
+    loaded using MapScene.loadScene(MapScheme,
+    MapScene.LoadSceneCallback) and its variants as well as when map
+    features are enabled or disabled using
+    MapScene.enableFeatures(java.util.Map ) and
+    MapScene.disableFeatures(java.util.List ) . Note: This is a beta
+    release of this feature, so there could be a few bugs and unexpected
+    behavior. Related APIs may change for new releases without a
+    deprecation process.
+
+    </div>
+
+    Returns:  
+    The style that the map uses to customize the visual appearance of
+    rendered features.
+
+    </div>
+
+  </div>
+
+</div>
+

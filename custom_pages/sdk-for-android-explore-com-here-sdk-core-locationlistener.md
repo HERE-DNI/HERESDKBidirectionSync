@@ -3,94 +3,116 @@ title: "LocationListener (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-locationlistener"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- LocationListener.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
 
 </div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">LocationListener</span></div>
-<div class="block"><p>This interface should be implemented in order to receive notifications
- about location updates.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
+<div id="class-description" class="section class-description">
 
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab3" onclick="show('method-summary-table', 'method-summary-table-tab3', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Abstract Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-locationlistener#onLocationUpdated(com.here.sdk.core.Location)">onLocationUpdated</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Called each time a new location is available.</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
+<div class="type-signature">
 
-<ul class="member-list">
-<li>
-<section class="detail" id="onLocationUpdated(com.here.sdk.core.Location)">
-<h3>onLocationUpdated</h3>
-<div class="member-signature"><span class="return-type">void</span> <span class="element-name">onLocationUpdated</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-location" title="class in com.here.sdk.core">Location</a> location)</span></div>
-<div class="block"><p>Called each time a new location is available.
- In a navigation context while using the <code>Navigator</code> or <code>VisualNavigator</code>,
- it's required to set the <code>Location.time</code> parameter for each <code>Location</code>
- object so that the HERE SDK can map-match the locations properly.
- If the <code>Location.time</code> parameter is missing, the location will be ignored.
- For navigation, it is also recommended to provide the <code>bearing</code> and <code>speed</code>
- parameters for each <code>Location</code> object.
- Invoked on the main thread.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>location</code> - <p>Current location.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+<span class="modifiers">public interface
+</span><span class="element-name type-name-label">LocationListener</span>
 
 </div>
+
+<div class="block">
+
+This interface should be implemented in order to receive notifications
+about location updates.
+
 </div>
 
+</div>
 
+<div class="section summary">
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Abstract Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>void</code></td>
+  <td><pre><code>onLocationUpdated(Location location)</code></pre></td>
+  <td><div class="block">
+  Called each time a new location is available.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
 
 </div>
-`
-}</HTMLBlock>
+
+<div class="section details">
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="onLocationUpdated(com.here.sdk.core.Location)"
+    class="section detail">
+
+    ### onLocationUpdated
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">onLocationUpdated</span><span class="parameters">(@NonNull
+    [Location](sdk-for-android-explore-com-here-sdk-core-location "class in com.here.sdk.core") location)</span>
+
+    </div>
+
+    <div class="block">
+
+    Called each time a new location is available. In a navigation
+    context while using the Navigator or VisualNavigator , it's required
+    to set the Location.time parameter for each Location object so that
+    the HERE SDK can map-match the locations properly. If the
+    Location.time parameter is missing, the location will be ignored.
+    For navigation, it is also recommended to provide the bearing and
+    speed parameters for each Location object. Invoked on the main
+    thread.
+
+    </div>
+
+    Parameters:  
+    `location` -
+
+    Current location.
+
+    </div>
+
+  </div>
+
+</div>
+

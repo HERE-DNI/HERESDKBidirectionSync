@@ -3,119 +3,260 @@ title: "com.here.sdk.mapview.datasource Class Hierarchy (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-package-tree"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- package-tree.html -->
-
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<div class="header">
-
 <span class="package-hierarchy-label">Package Hierarchies:</span>
-<ul class="horizontal">
-<li><a href="sdk-for-android-explore-overview-tree">All Packages</a></li>
-</ul>
+
+- [All Packages](sdk-for-android-explore-overview-tree)
+
+<div class="section hierarchy">
+
+- java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="type-name-link external-link"
+  title="class or interface in java.lang">Object</a>
+  - com.here.<a href="sdk-for-android-explore-com-here-nativebase"
+    class="type-name-link" title="class in com.here">NativeBase</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">DataAttributes</a>
+      (implements
+      com.here.sdk.mapview.datasource.[DataAttributesBase](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource"))
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">DataAttributesAccessor</a>
+      (implements
+      com.here.sdk.mapview.datasource.[DataAttributesBase](sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase "interface in com.here.sdk.mapview.datasource"))
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">DataAttributesBuilder</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">LineData</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedataaccessor"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">LineDataAccessor</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">LineDataSource</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">LineDataSourceBuilder</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetiledatasource"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">LineTileDataSource</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">PointData</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdataaccessor"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">PointDataSource</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">PointDataSourceBuilder</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtiledatasource"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">PointTileDataSource</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">PolygonData</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondataaccessor"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">PolygonDataAccessor</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilder"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">PolygonDataSource</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontiledatasource"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">PolygonTileDataSource</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">RasterDataSource</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalculator"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">TileGeoBoundsCalculator</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderfactory"
+      class="type-name-link"
+      title="class in com.here.sdk.mapview.datasource">TileUrlProviderFactory</a>
+  - com.here.sdk.mapview.datasource.<a
+    href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration"
+    class="type-name-link"
+    title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a>
+  - com.here.sdk.mapview.datasource.<a
+    href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache"
+    class="type-name-link"
+    title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a>
+  - com.here.sdk.mapview.datasource.<a
+    href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider"
+    class="type-name-link"
+    title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a>
+  - com.here.sdk.mapview.datasource.<a
+    href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate"
+    class="type-name-link"
+    title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfigurationUpdate</a>
+  - com.here.sdk.mapview.datasource.<a
+    href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey"
+    class="type-name-link"
+    title="class in com.here.sdk.mapview.datasource">TileKey</a>
+  - com.here.sdk.mapview.datasource.<a
+    href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion"
+    class="type-name-link"
+    title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a>
+  - com.here.sdk.mapview.datasource.<a
+    href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata"
+    class="type-name-link"
+    title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a>
+
 </div>
-<section class="hierarchy">
 
-<ul>
-<li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-<ul>
-<li class="circle">com.here.<a class="type-name-link" href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a>
-<ul>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributes" title="class in com.here.sdk.mapview.datasource">DataAttributes</a> (implements com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a>)</li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesaccessor" title="class in com.here.sdk.mapview.datasource">DataAttributesAccessor</a> (implements com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a>)</li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbuilder" title="class in com.here.sdk.mapview.datasource">DataAttributesBuilder</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue" title="class in com.here.sdk.mapview.datasource">DataAttributeValue</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedata" title="class in com.here.sdk.mapview.datasource">LineData</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedataaccessor" title="class in com.here.sdk.mapview.datasource">LineDataAccessor</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatabuilder" title="class in com.here.sdk.mapview.datasource">LineDataBuilder</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource" title="class in com.here.sdk.mapview.datasource">LineDataSource</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasourcebuilder" title="class in com.here.sdk.mapview.datasource">LineDataSourceBuilder</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetiledatasource" title="class in com.here.sdk.mapview.datasource">LineTileDataSource</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatabuilder" title="class in com.here.sdk.mapview.datasource">PointDataBuilder</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource" title="class in com.here.sdk.mapview.datasource">PointDataSource</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PointDataSourceBuilder</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtiledatasource" title="class in com.here.sdk.mapview.datasource">PointTileDataSource</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata" title="class in com.here.sdk.mapview.datasource">PolygonData</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondataaccessor" title="class in com.here.sdk.mapview.datasource">PolygonDataAccessor</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatabuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataBuilder</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource" title="class in com.here.sdk.mapview.datasource">PolygonDataSource</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasourcebuilder" title="class in com.here.sdk.mapview.datasource">PolygonDataSourceBuilder</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontiledatasource" title="class in com.here.sdk.mapview.datasource">PolygonTileDataSource</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasource" title="class in com.here.sdk.mapview.datasource">RasterDataSource</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilegeoboundscalculator" title="class in com.here.sdk.mapview.datasource">TileGeoBoundsCalculator</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlproviderfactory" title="class in com.here.sdk.mapview.datasource">TileUrlProviderFactory</a></li>
-</ul>
-</li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfiguration-provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceconfigurationupdate" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfigurationUpdate</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></li>
-</ul>
-</li>
-</ul>
-</section>
-<section class="hierarchy">
+<div class="section hierarchy">
 
-<ul>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor" title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource-pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource-polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener" title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource-loadresulthandler" title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a>
-<ul>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource" title="interface in com.here.sdk.mapview.datasource">PointTileSource</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource" title="interface in com.here.sdk.mapview.datasource">PolygonTileSource</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource" title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a></li>
-</ul>
-</li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback" title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a></li>
-</ul>
-</section>
-<section class="hierarchy">
-
-<ul>
-<li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-<ul>
-<li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a><e> (implements java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a><t>, java.lang.constant.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a>, java.io.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
-<ul>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype" title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceerror" title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a></li>
-<li class="circle">com.here.sdk.mapview.datasource.<a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme" title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a></li>
-</ul>
-</t></e></li>
-</ul>
-</li>
-</ul>
-</section>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributesbase"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linedatasource-linedataprocessor"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">LineDataSource.LineDataProcessor</a>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource-loadresulthandler"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">LineTileSource.LoadResultHandler</a>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdatasource-pointdataprocessor"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource-loadresulthandler"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">PointTileSource.LoadResultHandler</a>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondatasource-polygondataprocessor"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource-loadresulthandler"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">PolygonTileSource.LoadResultHandler</a>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourcelistener"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">RasterDataSourceListener</a>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource-loadresulthandler"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">RasterTileSource.LoadResultHandler</a>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">TileSource</a>
+  - com.here.sdk.mapview.datasource.<a
+    href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource"
+    class="type-name-link"
+    title="interface in com.here.sdk.mapview.datasource">LineTileSource</a>
+  - com.here.sdk.mapview.datasource.<a
+    href="sdk-for-android-explore-com-here-sdk-mapview-datasource-pointtilesource"
+    class="type-name-link"
+    title="interface in com.here.sdk.mapview.datasource">PointTileSource</a>
+  - com.here.sdk.mapview.datasource.<a
+    href="sdk-for-android-explore-com-here-sdk-mapview-datasource-polygontilesource"
+    class="type-name-link"
+    title="interface in com.here.sdk.mapview.datasource">PolygonTileSource</a>
+  - com.here.sdk.mapview.datasource.<a
+    href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rastertilesource"
+    class="type-name-link"
+    title="interface in com.here.sdk.mapview.datasource">RasterTileSource</a>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a>
+- com.here.sdk.mapview.datasource.<a
+  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tileurlprovidercallback"
+  class="type-name-link"
+  title="interface in com.here.sdk.mapview.datasource">TileUrlProviderCallback</a>
 
 </div>
+
+<div class="section hierarchy">
+
+- java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="type-name-link external-link"
+  title="class or interface in java.lang">Object</a>
+  - java.lang.<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+    class="type-name-link external-link"
+    title="class or interface in java.lang">Enum</a> (implements
+    java.lang.<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
+    class="external-link"
+    title="class or interface in java.lang">Comparable</a>,
+    java.lang.constant.<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
+    class="external-link"
+    title="class or interface in java.lang.constant">Constable</a>,
+    java.io.<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
+    class="external-link"
+    title="class or interface in java.io">Serializable</a>)
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-dataattributevalue-valuetype"
+      class="type-name-link"
+      title="enum class in com.here.sdk.mapview.datasource">DataAttributeValue.ValueType</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-rasterdatasourceerror"
+      class="type-name-link"
+      title="enum class in com.here.sdk.mapview.datasource">RasterDataSourceError</a>
+    - com.here.sdk.mapview.datasource.<a
+      href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilingscheme"
+      class="type-name-link"
+      title="enum class in com.here.sdk.mapview.datasource">TilingScheme</a>
+
 </div>
 
-
-
-</div>
-`
-}</HTMLBlock>

@@ -3,216 +3,394 @@ title: "DynamicSpeedInfo (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- DynamicSpeedInfo.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance">com.here.sdk.routing.DynamicSpeedInfo</div>
-</div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">DynamicSpeedInfo</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Provides estimated speed information.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section class="field-summary" id="field-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="caption"><span>Fields</span></div>
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Field</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>double</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#baseSpeedInMetersPerSecond">baseSpeedInMetersPerSecond</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">The speed in meters per second without taking traffic into consideration.</div>
-</div>
-<div class="col-first odd-row-color"><code>double</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#trafficSpeedInMetersPerSecond">trafficSpeedInMetersPerSecond</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">The speed in meters per second considering traffic.</div>
-</div>
-<div class="col-first even-row-color"><code>int</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#turnTimeInSeconds">turnTimeInSeconds</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">The time it takes to make a turn, represented in seconds.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section class="constructor-summary" id="constructor-summary">
-
-<div class="caption"><span>Constructors</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Constructor</div>
-<div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#%3Cinit%3E(double,double,int)">DynamicSpeedInfo</a><wbr/>(double baseSpeedInMetersPerSecond,
- double trafficSpeedInMetersPerSecond,
- int turnTimeInSeconds)</code></div>
-<div class="col-last even-row-color">
-<div class="block">Creates a new instance.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#calculateJamFactor()">calculateJamFactor</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Calculates the traffic jam factor that shows the traffic condition in a numeric way.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#hashCode()">hashCode</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section class="field-details" id="field-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="baseSpeedInMetersPerSecond">
-<h3>baseSpeedInMetersPerSecond</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">baseSpeedInMetersPerSecond</span></div>
-<div class="block"><p>The speed in meters per second without taking traffic into consideration.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="trafficSpeedInMetersPerSecond">
-<h3>trafficSpeedInMetersPerSecond</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">trafficSpeedInMetersPerSecond</span></div>
-<div class="block"><p>The speed in meters per second considering traffic.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="turnTimeInSeconds">
-<h3>turnTimeInSeconds</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">turnTimeInSeconds</span></div>
-<div class="block"><p>The time it takes to make a turn, represented in seconds.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section class="constructor-details" id="constructor-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="&lt;init&gt;(double,double,int)">
-<h3>DynamicSpeedInfo</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">DynamicSpeedInfo</span><wbr/><span class="parameters">(double baseSpeedInMetersPerSecond,
- double trafficSpeedInMetersPerSecond,
- int turnTimeInSeconds)</span></div>
-<div class="block"><p>Creates a new instance.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>baseSpeedInMetersPerSecond</code> - <p>The speed in meters per second without taking traffic into consideration.</p></dd>
-<dd><code>trafficSpeedInMetersPerSecond</code> - <p>The speed in meters per second considering traffic.</p></dd>
-<dd><code>turnTimeInSeconds</code> - <p>The time it takes to make a turn, represented in seconds.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="equals(java.lang.Object)">
-<h3>equals</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</span></div>
-<dl class="notes">
-<dt>Overrides:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a></code> in class <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="hashCode()">
-<h3>hashCode</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()</div>
-<dl class="notes">
-<dt>Overrides:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a></code> in class <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="calculateJamFactor()">
-<h3>calculateJamFactor</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">calculateJamFactor</span>()</div>
-<div class="block"><p>Calculates the traffic jam factor that shows the traffic condition in a numeric way.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>Returns calculated jam factor in the range [0.0, 10.0].
-     A large jamFactor value means more traffic jam in general.
-     Specifically, 0.0 means free traffic and 10.0 means stationary traffic.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object → com.here.sdk.routing.DynamicSpeedInfo
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class
+</span><span class="element-name type-name-label">DynamicSpeedInfo</span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
+
 </div>
 
+<div class="block">
 
+Provides estimated speed information.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Field</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>double</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#baseSpeedInMetersPerSecond"
+  class="member-name-link"><code>baseSpeedInMetersPerSecond</code></a></td>
+  <td><div class="block">
+  The speed in meters per second without taking traffic into
+  consideration.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>double</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#trafficSpeedInMetersPerSecond"
+  class="member-name-link"><code>trafficSpeedInMetersPerSecond</code></a></td>
+  <td><div class="block">
+  The speed in meters per second considering traffic.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-dynamicspeedinfo#turnTimeInSeconds"
+  class="member-name-link"><code>turnTimeInSeconds</code></a></td>
+  <td><div class="block">
+  The time it takes to make a turn, represented in seconds.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Constructor</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><pre><code>DynamicSpeedInfo(double baseSpeedInMetersPerSecond,
+   double trafficSpeedInMetersPerSecond,
+   int turnTimeInSeconds)</code></pre></td>
+  <td><div class="block">
+  Creates a new instance.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>double</code></td>
+  <td><pre><code>calculateJamFactor()</code></pre></td>
+  <td><div class="block">
+  Calculates the traffic jam factor that shows the traffic condition in a
+  numeric way.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>boolean</code></td>
+  <td><pre><code>equals(Object obj)</code></pre></td>
+  <td> </td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>hashCode()</code></pre></td>
+  <td> </td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="field-detail" class="section field-details">
+
+  - <div id="baseSpeedInMetersPerSecond" class="section detail">
+
+    ### baseSpeedInMetersPerSecond
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">baseSpeedInMetersPerSecond</span>
+
+    </div>
+
+    <div class="block">
+
+    The speed in meters per second without taking traffic into
+    consideration.
+
+    </div>
+
+    </div>
+
+  - <div id="trafficSpeedInMetersPerSecond" class="section detail">
+
+    ### trafficSpeedInMetersPerSecond
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">trafficSpeedInMetersPerSecond</span>
+
+    </div>
+
+    <div class="block">
+
+    The speed in meters per second considering traffic.
+
+    </div>
+
+    </div>
+
+  - <div id="turnTimeInSeconds" class="section detail">
+
+    ### turnTimeInSeconds
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">turnTimeInSeconds</span>
+
+    </div>
+
+    <div class="block">
+
+    The time it takes to make a turn, represented in seconds.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="constructor-detail" class="section constructor-details">
+
+  - <div id="<init>(double,double,int)" class="section detail">
+
+    ### DynamicSpeedInfo
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">DynamicSpeedInfo</span><span class="parameters">(double baseSpeedInMetersPerSecond,
+    double trafficSpeedInMetersPerSecond, int turnTimeInSeconds)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    Parameters:  
+    `baseSpeedInMetersPerSecond` -
+
+    The speed in meters per second without taking traffic into
+    consideration.
+
+    `trafficSpeedInMetersPerSecond` -
+
+    The speed in meters per second considering traffic.
+
+    `turnTimeInSeconds` -
+
+    The time it takes to make a turn, represented in seconds.
+
+    </div>
+
+  </div>
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="equals(java.lang.Object)" class="section detail">
+
+    ### equals
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+
+    </div>
+
+    Overrides:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="hashCode()" class="section detail">
+
+    ### hashCode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()
+
+    </div>
+
+    Overrides:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="calculateJamFactor()" class="section detail">
+
+    ### calculateJamFactor
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">calculateJamFactor</span>()
+
+    </div>
+
+    <div class="block">
+
+    Calculates the traffic jam factor that shows the traffic condition
+    in a numeric way.
+
+    </div>
+
+    Returns:  
+    Returns calculated jam factor in the range \[0.0, 10.0\]. A large
+    jamFactor value means more traffic jam in general. Specifically, 0.0
+    means free traffic and 10.0 means stationary traffic.
+
+    </div>
+
+  </div>
+
+</div>
+

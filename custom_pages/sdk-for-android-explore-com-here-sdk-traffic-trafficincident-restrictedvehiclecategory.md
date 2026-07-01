@@ -3,308 +3,675 @@ title: "TrafficIncident.RestrictedVehicleCategory (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- TrafficIncident.RestrictedVehicleCategory.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.traffic](sdk-for-android-explore-com-here-sdk-traffic-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a>&gt;
-<div class="inheritance">com.here.sdk.traffic.TrafficIncident.RestrictedVehicleCategory</div>
-</div>
-</div>
-<section class="class-description" id="class-description">
-<dl class="notes">
-<dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
-</dl>
-<dl class="notes">
-<dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident" title="class in com.here.sdk.traffic">TrafficIncident</a></dd>
-</dl>
 
-<div class="type-signature"><span class="modifiers">public static enum </span><span class="element-name type-name-label">TrafficIncident.RestrictedVehicleCategory</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a>&gt;</span></div>
-<div class="block"><p>The vehicle categories that can be restricted.
- Note, a vehicle can belong to several categories (e.g. a passenger motor car
- belongs to <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#CAR"><code>CAR</code></a>, <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#MOTOR_VEHICLE"><code>MOTOR_VEHICLE</code></a>, and <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#ALL"><code>ALL</code></a>).
- A vehicle is restricted if it belongs to the category presented in the map <a href="sdk-for-android-explore-trafficincident#getVehicleRestrictions()"><code>TrafficIncident.getVehicleRestrictions()</code></a>
- and at least one of the vehicle properties is under the matching <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction" title="class in com.here.sdk.traffic"><code>TrafficIncident.VehicleRestriction</code></a>.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ======== NESTED CLASS SUMMARY ======== -->
-<li>
-<section class="nested-class-summary" id="nested-class-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="inherited-list">
-
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">Enum.EnumDesc</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">E</a> extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">E</a>&gt;&gt;</code></div>
-</section>
-</li>
-<!-- =========== ENUM CONSTANT SUMMARY =========== -->
-<li>
-<section class="constants-summary" id="enum-constant-summary">
-
-<div class="caption"><span>Enum Constants</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Enum Constant</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#ALL">ALL</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">All the vehicles are applicable for this category.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#BUS">BUS</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Bus.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#CAR">CAR</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Car.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#HEAVY_GOODS_VEHICLE">HEAVY_GOODS_VEHICLE</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Heavy goods vehicle (or large goods vehicle).</div>
-</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#MOTOR_VEHICLE">MOTOR_VEHICLE</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Motor vehicle.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#MOTORCYCLE">MOTORCYCLE</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Motorcycle.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#OTHER">OTHER</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Other vehicles.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TAXI">TAXI</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Taxi.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TRAIN">TRAIN</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Train.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TRANSPORTING_ABNORMAL_SIZE_LOAD">TRANSPORTING_ABNORMAL_SIZE_LOAD</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Transporting an abnormal size load.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TRANSPORTING_HAZARDOUS_GOODS">TRANSPORTING_HAZARDOUS_GOODS</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Transporting hazardous goods.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TRUCK">TRUCK</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Truck.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#VEHICLE_WITH_TRAILER">VEHICLE_WITH_TRAILER</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Vehicle with trailer.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab1" onclick="show('method-summary-table', 'method-summary-table-tab1', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Static Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Returns the enum constant of this class with the specified name.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a>[]</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#values()">values</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Returns an array containing the constants of this enum class, in
-the order they are declared.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Enum">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" title="class or interface in java.lang">compareTo</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" title="class or interface in java.lang">describeConstable</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" title="class or interface in java.lang">getDeclaringClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" title="class or interface in java.lang">name</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" title="class or interface in java.lang">ordinal</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" title="class or interface in java.lang">valueOf</a></code></div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ ENUM CONSTANT DETAIL =========== -->
-<li>
-<section class="constant-details" id="enum-constant-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="BUS">
-<h3>BUS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">BUS</span></div>
-<div class="block"><p>Bus.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="CAR">
-<h3>CAR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">CAR</span></div>
-<div class="block"><p>Car.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="HEAVY_GOODS_VEHICLE">
-<h3>HEAVY_GOODS_VEHICLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">HEAVY_GOODS_VEHICLE</span></div>
-<div class="block"><p>Heavy goods vehicle (or large goods vehicle).
- In the European Union heavy goods vehicle is any truck with a gross combination mass (GCM) of over 3,500 kg.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="TRUCK">
-<h3>TRUCK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">TRUCK</span></div>
-<div class="block"><p>Truck.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="MOTORCYCLE">
-<h3>MOTORCYCLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">MOTORCYCLE</span></div>
-<div class="block"><p>Motorcycle.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="MOTOR_VEHICLE">
-<h3>MOTOR_VEHICLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">MOTOR_VEHICLE</span></div>
-<div class="block"><p>Motor vehicle. Definition: it is a self-propelled vehicle,
- that does not operate on rails and is used for the transportation of people or cargo.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="TAXI">
-<h3>TAXI</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">TAXI</span></div>
-<div class="block"><p>Taxi.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="TRAIN">
-<h3>TRAIN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">TRAIN</span></div>
-<div class="block"><p>Train.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="TRANSPORTING_ABNORMAL_SIZE_LOAD">
-<h3>TRANSPORTING_ABNORMAL_SIZE_LOAD</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">TRANSPORTING_ABNORMAL_SIZE_LOAD</span></div>
-<div class="block"><p>Transporting an abnormal size load. See rules of the exact country that describe the exact parameters.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="TRANSPORTING_HAZARDOUS_GOODS">
-<h3>TRANSPORTING_HAZARDOUS_GOODS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">TRANSPORTING_HAZARDOUS_GOODS</span></div>
-<div class="block"><p>Transporting hazardous goods.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="VEHICLE_WITH_TRAILER">
-<h3>VEHICLE_WITH_TRAILER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">VEHICLE_WITH_TRAILER</span></div>
-<div class="block"><p>Vehicle with trailer.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="OTHER">
-<h3>OTHER</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">OTHER</span></div>
-<div class="block"><p>Other vehicles.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="ALL">
-<h3>ALL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">ALL</span></div>
-<div class="block"><p>All the vehicles are applicable for this category.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="values()">
-<h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a>[]</span> <span class="element-name">values</span>()</div>
-<div class="block">Returns an array containing the constants of this enum class, in
-the order they are declared.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>an array containing the constants of this enum class, in the order they are declared</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="valueOf(java.lang.String)">
-<h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory" title="enum class in com.here.sdk.traffic">TrafficIncident.RestrictedVehicleCategory</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
-<div class="block">Returns the enum constant of this class with the specified name.
-The string must match <i>exactly</i> an identifier used to declare an
-enum constant in this class.  (Extraneous whitespace characters are 
-not permitted.)</div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>name</code> - the name of the enum constant to be returned.</dd>
-<dt>Returns:</dt>
-<dd>the enum constant with the specified name</dd>
-<dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" title="class or interface in java.lang">IllegalArgumentException</a></code> - if this enum class has no constant with the specified name</dd>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" title="class or interface in java.lang">NullPointerException</a></code> - if the argument is null</dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object →
+java.lang.Enum<TrafficIncident.RestrictedVehicleCategory>com.here.sdk.traffic.TrafficIncident.RestrictedVehicleCategory
+→ java.lang.Enum → TrafficIncident.RestrictedVehicleCategory →
+com.here.sdk.traffic.TrafficIncident.RestrictedVehicleCategory
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+All Implemented Interfaces:  
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
+class="external-link"
+title="class or interface in java.io"><code>Serializable</code></a>, <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
+class="external-link"
+title="class or interface in java.lang"><code>Comparable</code></a>`<`[`TrafficIncident.RestrictedVehicleCategory`](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")`>`,
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
+class="external-link"
+title="class or interface in java.lang.constant"><code>Constable</code></a>
+
+<!-- -->
+
+Enclosing class:  
+[TrafficIncident](sdk-for-android-explore-com-here-sdk-traffic-trafficincident "class in com.here.sdk.traffic")
+
+<div class="type-signature">
+
+<span class="modifiers">public static enum
+</span><span class="element-name type-name-label">TrafficIncident.RestrictedVehicleCategory</span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+class="external-link" title="class or interface in java.lang">Enum</a><[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")></span>
+
 </div>
 
+<div class="block">
 
+The vehicle categories that can be restricted. Note, a vehicle can
+belong to several categories (e.g. a passenger motor car belongs to CAR
+, MOTOR_VEHICLE , and ALL ). A vehicle is restricted if it belongs to
+the category presented in the map
+TrafficIncident.getVehicleRestrictions() and at least one of the vehicle
+properties is under the matching TrafficIncident.VehicleRestriction .
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="nested-class-summary" class="section nested-class-summary">
+
+  <div class="inherited-list">
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>` extends `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>E</code></a>`>>`
+
+  </div>
+
+  </div>
+
+- <div id="enum-constant-summary" class="section constants-summary">
+
+  <div class="caption">
+
+  Enum Constants
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Enum Constant</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#ALL"
+  class="member-name-link"><code>ALL</code></a></td>
+  <td><div class="block">
+  All the vehicles are applicable for this category.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#BUS"
+  class="member-name-link"><code>BUS</code></a></td>
+  <td><div class="block">
+  Bus.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#CAR"
+  class="member-name-link"><code>CAR</code></a></td>
+  <td><div class="block">
+  Car.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#HEAVY_GOODS_VEHICLE"
+  class="member-name-link"><code>HEAVY_GOODS_VEHICLE</code></a></td>
+  <td><div class="block">
+  Heavy goods vehicle (or large goods vehicle).
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#MOTOR_VEHICLE"
+  class="member-name-link"><code>MOTOR_VEHICLE</code></a></td>
+  <td><div class="block">
+  Motor vehicle.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#MOTORCYCLE"
+  class="member-name-link"><code>MOTORCYCLE</code></a></td>
+  <td><div class="block">
+  Motorcycle.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#OTHER"
+  class="member-name-link"><code>OTHER</code></a></td>
+  <td><div class="block">
+  Other vehicles.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TAXI"
+  class="member-name-link"><code>TAXI</code></a></td>
+  <td><div class="block">
+  Taxi.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TRAIN"
+  class="member-name-link"><code>TRAIN</code></a></td>
+  <td><div class="block">
+  Train.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TRANSPORTING_ABNORMAL_SIZE_LOAD"
+  class="member-name-link"><code>TRANSPORTING_ABNORMAL_SIZE_LOAD</code></a></td>
+  <td><div class="block">
+  Transporting an abnormal size load.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TRANSPORTING_HAZARDOUS_GOODS"
+  class="member-name-link"><code>TRANSPORTING_HAZARDOUS_GOODS</code></a></td>
+  <td><div class="block">
+  Transporting hazardous goods.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#TRUCK"
+  class="member-name-link"><code>TRUCK</code></a></td>
+  <td><div class="block">
+  Truck.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory#VEHICLE_WITH_TRAILER"
+  class="member-name-link"><code>VEHICLE_WITH_TRAILER</code></a></td>
+  <td><div class="block">
+  Vehicle with trailer.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Static Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>static </code><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory"
+  title="enum class in com.here.sdk.traffic"><code>TrafficIncident.RestrictedVehicleCategory</code></a></td>
+  <td><pre><code>valueOf(String name)</code></pre></td>
+  <td><div class="block">
+  Returns the enum constant of this class with the specified name.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static </code><a
+  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory"
+  title="enum class in com.here.sdk.traffic"><code>TrafficIncident.RestrictedVehicleCategory</code></a><code>[]</code></td>
+  <td><pre><code>values()</code></pre></td>
+  <td><div class="block">
+  Returns an array containing the constants of this enum class, in the
+  order they are declared.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
+  class="external-link" title="class or interface in java.lang">Enum</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
+  class="external-link"
+  title="class or interface in java.lang"><code>compareTo</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
+  class="external-link"
+  title="class or interface in java.lang"><code>describeConstable</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
+  class="external-link"
+  title="class or interface in java.lang"><code>name</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
+  class="external-link"
+  title="class or interface in java.lang"><code>ordinal</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
+  class="external-link"
+  title="class or interface in java.lang"><code>valueOf</code></a>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="enum-constant-detail" class="section constant-details">
+
+  - <div id="BUS" class="section detail">
+
+    ### BUS
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">BUS</span>
+
+    </div>
+
+    <div class="block">
+
+    Bus.
+
+    </div>
+
+    </div>
+
+  - <div id="CAR" class="section detail">
+
+    ### CAR
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">CAR</span>
+
+    </div>
+
+    <div class="block">
+
+    Car.
+
+    </div>
+
+    </div>
+
+  - <div id="HEAVY_GOODS_VEHICLE" class="section detail">
+
+    ### HEAVY_GOODS_VEHICLE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">HEAVY_GOODS_VEHICLE</span>
+
+    </div>
+
+    <div class="block">
+
+    Heavy goods vehicle (or large goods vehicle). In the European Union
+    heavy goods vehicle is any truck with a gross combination mass (GCM)
+    of over 3,500 kg.
+
+    </div>
+
+    </div>
+
+  - <div id="TRUCK" class="section detail">
+
+    ### TRUCK
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">TRUCK</span>
+
+    </div>
+
+    <div class="block">
+
+    Truck.
+
+    </div>
+
+    </div>
+
+  - <div id="MOTORCYCLE" class="section detail">
+
+    ### MOTORCYCLE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">MOTORCYCLE</span>
+
+    </div>
+
+    <div class="block">
+
+    Motorcycle.
+
+    </div>
+
+    </div>
+
+  - <div id="MOTOR_VEHICLE" class="section detail">
+
+    ### MOTOR_VEHICLE
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">MOTOR_VEHICLE</span>
+
+    </div>
+
+    <div class="block">
+
+    Motor vehicle. Definition: it is a self-propelled vehicle, that does
+    not operate on rails and is used for the transportation of people or
+    cargo.
+
+    </div>
+
+    </div>
+
+  - <div id="TAXI" class="section detail">
+
+    ### TAXI
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">TAXI</span>
+
+    </div>
+
+    <div class="block">
+
+    Taxi.
+
+    </div>
+
+    </div>
+
+  - <div id="TRAIN" class="section detail">
+
+    ### TRAIN
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">TRAIN</span>
+
+    </div>
+
+    <div class="block">
+
+    Train.
+
+    </div>
+
+    </div>
+
+  - <div id="TRANSPORTING_ABNORMAL_SIZE_LOAD" class="section detail">
+
+    ### TRANSPORTING_ABNORMAL_SIZE_LOAD
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">TRANSPORTING_ABNORMAL_SIZE_LOAD</span>
+
+    </div>
+
+    <div class="block">
+
+    Transporting an abnormal size load. See rules of the exact country
+    that describe the exact parameters.
+
+    </div>
+
+    </div>
+
+  - <div id="TRANSPORTING_HAZARDOUS_GOODS" class="section detail">
+
+    ### TRANSPORTING_HAZARDOUS_GOODS
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">TRANSPORTING_HAZARDOUS_GOODS</span>
+
+    </div>
+
+    <div class="block">
+
+    Transporting hazardous goods.
+
+    </div>
+
+    </div>
+
+  - <div id="VEHICLE_WITH_TRAILER" class="section detail">
+
+    ### VEHICLE_WITH_TRAILER
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">VEHICLE_WITH_TRAILER</span>
+
+    </div>
+
+    <div class="block">
+
+    Vehicle with trailer.
+
+    </div>
+
+    </div>
+
+  - <div id="OTHER" class="section detail">
+
+    ### OTHER
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">OTHER</span>
+
+    </div>
+
+    <div class="block">
+
+    Other vehicles.
+
+    </div>
+
+    </div>
+
+  - <div id="ALL" class="section detail">
+
+    ### ALL
+
+    <div class="member-signature">
+
+    <span class="modifiers">public static
+    final</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">ALL</span>
+
+    </div>
+
+    <div class="block">
+
+    All the vehicles are applicable for this category.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="values()" class="section detail">
+
+    ### values
+
+    <div class="member-signature">
+
+    <span class="modifiers">public
+    static</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")\[\]</span> <span class="element-name">values</span>()
+
+    </div>
+
+    <div class="block">
+
+    Returns an array containing the constants of this enum class, in the
+    order they are declared.
+
+    </div>
+
+    Returns:  
+    an array containing the constants of this enum class, in the order
+    they are declared
+
+    </div>
+
+  - <div id="valueOf(java.lang.String)" class="section detail">
+
+    ### valueOf
+
+    <div class="member-signature">
+
+    <span class="modifiers">public
+    static</span> <span class="return-type">[TrafficIncident.RestrictedVehicleCategory](sdk-for-android-explore-com-here-sdk-traffic-trafficincident-restrictedvehiclecategory "enum class in com.here.sdk.traffic")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+
+    </div>
+
+    <div class="block">
+
+    Returns the enum constant of this class with the specified name. The
+    string must match exactly an identifier used to declare an enum
+    constant in this class. (Extraneous whitespace characters are not
+    permitted.)
+
+    </div>
+
+    Parameters:  
+    `name` - the name of the enum constant to be returned.
+
+    Returns:  
+    the enum constant with the specified name
+
+    Throws:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    if this enum class has no constant with the specified name
+
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    if the argument is null
+
+    </div>
+
+  </div>
+
+</div>
+

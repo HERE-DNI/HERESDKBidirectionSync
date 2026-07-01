@@ -3,99 +3,132 @@ title: "SearchCallback (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-search-searchcallback"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- SearchCallback.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.search](sdk-for-android-explore-com-here-sdk-search-package-summary)
 
 </div>
-<section class="class-description" id="class-description">
-<dl class="notes">
-<dt>Functional Interface:</dt>
-<dd>This is a functional interface and can therefore be used as the assignment target for a lambda expression or method reference.</dd>
-</dl>
 
-<div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
-</span><span class="modifiers">public interface </span><span class="element-name type-name-label">SearchCallback</span></div>
-<div class="block"><p>The method will be called on the main thread when a search call has been completed.
- The first argument indicates an error in case of a failure. The second argument contains the results.
- Both arguments cannot be <code>null</code> at the same time - or not <code>null</code> at the same time.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
+<div id="class-description" class="section class-description">
 
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab3" onclick="show('method-summary-table', 'method-summary-table-tab3', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Abstract Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-search-searchcallback#onSearchCompleted(com.here.sdk.search.SearchError,java.util.List)">onSearchCompleted</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search">Place</a>&gt; places)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">The method will be called on the main thread when a search call has been completed.</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
+Functional Interface:  
+This is a functional interface and can therefore be used as the
+assignment target for a lambda expression or method reference.
 
-<ul class="member-list">
-<li>
-<section class="detail" id="onSearchCompleted(com.here.sdk.search.SearchError,java.util.List)">
-<h3>onSearchCompleted</h3>
-<div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSearchCompleted</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-explore-com-here-sdk-search-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
- @Nullable
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-search-place" title="class in com.here.sdk.search">Place</a>&gt; places)</span></div>
-<div class="block"><p>The method will be called on the main thread when a search call has been completed.
- The first argument indicates an error in case of a failure. The second argument contains the results.
- Both arguments cannot be <code>null</code> at the same time - or not <code>null</code> at the same time.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>searchError</code> - <p>An error enum indicating what went wrong. It is <code>null</code> for an operation that succeeds.</p></dd>
-<dd><code>places</code> - <p>The list of search results. It is <code>null</code> in case of an error.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+<div class="type-signature">
+
+<span class="annotations"><a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
+class="external-link"
+title="class or interface in java.lang">@FunctionalInterface</a>
+</span><span class="modifiers">public interface
+</span><span class="element-name type-name-label">SearchCallback</span>
 
 </div>
+
+<div class="block">
+
+The method will be called on the main thread when a search call has been
+completed. The first argument indicates an error in case of a failure.
+The second argument contains the results. Both arguments cannot be null
+at the same time - or not null at the same time.
+
 </div>
 
+</div>
 
+<div class="section summary">
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Abstract Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>void</code></td>
+  <td><pre><code>onSearchCompleted(SearchError searchError,
+   List&lt;Place&gt; places)</code></pre></td>
+  <td><div class="block">
+  The method will be called on the main thread when a search call has been
+  completed.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
 
 </div>
-`
-}</HTMLBlock>
+
+<div class="section details">
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="onSearchCompleted(com.here.sdk.search.SearchError,java.util.List)"
+    class="section detail">
+
+    ### onSearchCompleted
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">onSearchCompleted</span><span class="parameters">(@Nullable
+    [SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search") searchError,
+    @Nullable <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")> places)</span>
+
+    </div>
+
+    <div class="block">
+
+    The method will be called on the main thread when a search call has
+    been completed. The first argument indicates an error in case of a
+    failure. The second argument contains the results. Both arguments
+    cannot be null at the same time - or not null at the same time.
+
+    </div>
+
+    Parameters:  
+    `searchError` -
+
+    An error enum indicating what went wrong. It is `null` for an
+    operation that succeeds.
+
+    `places` -
+
+    The list of search results. It is `null` in case of an error.
+
+    </div>
+
+  </div>
+
+</div>
+

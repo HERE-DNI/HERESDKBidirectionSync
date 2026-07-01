@@ -3,86 +3,105 @@ title: "TileSource.LoadTileRequestHandle (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- TileSource.LoadTileRequestHandle.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.mapview.datasource](sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary)
 
 </div>
-<section class="class-description" id="class-description">
-<dl class="notes">
-<dt>Enclosing interface:</dt>
-<dd><a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></dd>
-</dl>
 
-<div class="type-signature"><span class="modifiers">public static interface </span><span class="element-name type-name-label">TileSource.LoadTileRequestHandle</span></div>
-<div class="block"><p>Handle of a load request.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
+<div id="class-description" class="section class-description">
 
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab3" onclick="show('method-summary-table', 'method-summary-table-tab3', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Abstract Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle#cancel()">cancel</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Cancels the associated load tile request.</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
+Enclosing interface:  
+[TileSource](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource "interface in com.here.sdk.mapview.datasource")
 
-<ul class="member-list">
-<li>
-<section class="detail" id="cancel()">
-<h3>cancel</h3>
-<div class="member-signature"><span class="return-type">void</span> <span class="element-name">cancel</span>()</div>
-<div class="block"><p>Cancels the associated load tile request.
- Upon cancellation, the corresponding result handler must be informed.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+<div class="type-signature">
+
+<span class="modifiers">public static interface
+</span><span class="element-name type-name-label">TileSource.LoadTileRequestHandle</span>
 
 </div>
+
+<div class="block">
+
+Handle of a load request.
+
 </div>
 
+</div>
 
+<div class="section summary">
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Abstract Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>void</code></td>
+  <td><pre><code>cancel()</code></pre></td>
+  <td><div class="block">
+  Cancels the associated load tile request.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
 
 </div>
-`
-}</HTMLBlock>
+
+<div class="section details">
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="cancel()" class="section detail">
+
+    ### cancel
+
+    <div class="member-signature">
+
+    <span class="return-type">void</span> <span class="element-name">cancel</span>()
+
+    </div>
+
+    <div class="block">
+
+    Cancels the associated load tile request. Upon cancellation, the
+    corresponding result handler must be informed.
+
+    </div>
+
+    </div>
+
+  </div>
+
+</div>
+

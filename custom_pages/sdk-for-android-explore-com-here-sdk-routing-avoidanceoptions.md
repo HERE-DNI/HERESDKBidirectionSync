@@ -3,303 +3,652 @@ title: "AvoidanceOptions (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- AvoidanceOptions.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.routing](sdk-for-android-explore-com-here-sdk-routing-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance">com.here.sdk.routing.AvoidanceOptions</div>
-</div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">AvoidanceOptions</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>The options to specify restrictions for route calculations.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section class="field-summary" id="field-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="caption"><span>Fields</span></div>
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Field</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions" title="class in com.here.sdk.routing">AvoidBoundingBoxAreaOptions</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#avoidBoundingBoxAreasOptions">avoidBoundingBoxAreasOptions</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">List of rectangular shapes which routes must not cross and additional options for this area.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-avoidcorridorareaoptions" title="class in com.here.sdk.routing">AvoidCorridorAreaOptions</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#avoidCorridorAreasOptions">avoidCorridorAreasOptions</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">List of corridor shapes which routes must not cross and additional options for this area.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#avoidedTruckRoadTypes">avoidedTruckRoadTypes</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Specifies a list of avoided truck road types for vehicle.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions" title="class in com.here.sdk.routing">AvoidPolygonAreaOptions</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#avoidPolygonAreasOptions">avoidPolygonAreasOptions</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">List of polygon shapes which routes must not cross and additional options for this area.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#countries">countries</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Countries that the route must avoid.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#exceptZoneIds">exceptZoneIds</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Exception to <code>AvoidanceOptions.zone_categories</code>, which can be specified by list of zone identifiers.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#roadFeatures">roadFeatures</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Features which routes should avoid.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#segments">segments</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Segments that routes will avoid going through.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-zonecategory" title="enum class in com.here.sdk.routing">ZoneCategory</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#zoneCategories">zoneCategories</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Zone categories which routes must not cross.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#zoneIds">zoneIds</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">List containing identifiers of zones that routes should avoid going through.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section class="constructor-summary" id="constructor-summary">
-
-<div class="caption"><span>Constructors</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Constructor</div>
-<div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#%3Cinit%3E()">AvoidanceOptions</a>()</code></div>
-<div class="col-last even-row-color">
-<div class="block">Creates a new instance.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#hashCode()">hashCode</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section class="field-details" id="field-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="roadFeatures">
-<h3>roadFeatures</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a>&gt;</span> <span class="element-name">roadFeatures</span></div>
-<div class="block"><p>Features which routes should avoid. Best effort only (not enforced).</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="countries">
-<h3>countries</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-core-countrycode" title="enum class in com.here.sdk.core">CountryCode</a>&gt;</span> <span class="element-name">countries</span></div>
-<div class="block"><p>Countries that the route must avoid. Strictly enforced.
- Violations are reported as <a href="sdk-for-android-explore-sectionnoticecode#VIOLATED_BLOCKED_ROAD"><code>SectionNoticeCode.VIOLATED_BLOCKED_ROAD</code></a>.
- <strong>Note:</strong> This avoidance option is not supported in <code>IsolineOptions</code> for isoline calculation.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="avoidBoundingBoxAreasOptions">
-<h3>avoidBoundingBoxAreasOptions</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions" title="class in com.here.sdk.routing">AvoidBoundingBoxAreaOptions</a>&gt;</span> <span class="element-name">avoidBoundingBoxAreasOptions</span></div>
-<div class="block"><p>List of rectangular shapes which routes must not cross and additional options for this area.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="avoidPolygonAreasOptions">
-<h3>avoidPolygonAreasOptions</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions" title="class in com.here.sdk.routing">AvoidPolygonAreaOptions</a>&gt;</span> <span class="element-name">avoidPolygonAreasOptions</span></div>
-<div class="block"><p>List of polygon shapes which routes must not cross and additional options for this area.
- <strong>Note:</strong> Currently, the maximum count of polygons is limited to 20.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="avoidCorridorAreasOptions">
-<h3>avoidCorridorAreasOptions</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-avoidcorridorareaoptions" title="class in com.here.sdk.routing">AvoidCorridorAreaOptions</a>&gt;</span> <span class="element-name">avoidCorridorAreasOptions</span></div>
-<div class="block"><p>List of corridor shapes which routes must not cross and additional options for this area.
- <strong>Note:</strong> Currently, the maximum count of corridors is limited to 20.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="zoneCategories">
-<h3>zoneCategories</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-zonecategory" title="enum class in com.here.sdk.routing">ZoneCategory</a>&gt;</span> <span class="element-name">zoneCategories</span></div>
-<div class="block"><p>Zone categories which routes must not cross. Strictly enforced.
- Violations are reported as <a href="sdk-for-android-explore-sectionnoticecode#VIOLATED_ZONE_RESTRICTION"><code>SectionNoticeCode.VIOLATED_ZONE_RESTRICTION</code></a>.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="segments">
-<h3>segments</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-routing-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a>&gt;</span> <span class="element-name">segments</span></div>
-<div class="block"><p>Segments that routes will avoid going through.
- Violations are reported as <a href="sdk-for-android-explore-sectionnoticecode#VIOLATED_BLOCKED_ROAD"><code>SectionNoticeCode.VIOLATED_BLOCKED_ROAD</code></a>.
- <strong>Notes:</strong>
-<ul>
-<li>This avoidance option is not supported in <code>IsolineOptions</code> for isoline calculation.</li>
-<li>The engine does not support an unlimited number of segments to avoid.
- The limit is defined by the HERE backend services and may change. For now,
- the maximum number of segments to avoid should be below 250. This value may change
- on the backend and it is therefore not guaranteed to be stable.</li>
-</ul></p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="exceptZoneIds">
-<h3>exceptZoneIds</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</span> <span class="element-name">exceptZoneIds</span></div>
-<div class="block"><p>Exception to <code>AvoidanceOptions.zone_categories</code>, which can be specified by list of zone identifiers.
- e.g. the format of ID is like <code>here:cm:envzone:2</code>.
- Information about the various routing zones originates from the respective catalogs of platform.here.com.
- For example, more information on zone IDs for Environmental Zones is available under "https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview".</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="zoneIds">
-<h3>zoneIds</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</span> <span class="element-name">zoneIds</span></div>
-<div class="block"><p>List containing identifiers of zones that routes should avoid going through.
- e.g. the format of ID is like <code>here:cm:envzone:2</code>.
- Information about the various routing zones originates from the respective catalogs of platform.here.com.
- For example, more information on zone IDs for Environmental Zones is available under "https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview".</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="avoidedTruckRoadTypes">
-<h3>avoidedTruckRoadTypes</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</span> <span class="element-name">avoidedTruckRoadTypes</span></div>
-<div class="block"><p>Specifies a list of avoided truck road types for vehicle.
- Refer to <a href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype" title="enum class in com.here.sdk.transport"><code>TruckRoadType</code></a> for the available options.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section class="constructor-details" id="constructor-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="&lt;init&gt;()">
-<h3>AvoidanceOptions</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">AvoidanceOptions</span>()</div>
-<div class="block"><p>Creates a new instance.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="equals(java.lang.Object)">
-<h3>equals</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</span></div>
-<dl class="notes">
-<dt>Overrides:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a></code> in class <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="hashCode()">
-<h3>hashCode</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()</div>
-<dl class="notes">
-<dt>Overrides:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a></code> in class <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object → com.here.sdk.routing.AvoidanceOptions
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class
+</span><span class="element-name type-name-label">AvoidanceOptions</span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
+
 </div>
 
+<div class="block">
 
+The options to specify restrictions for route calculations.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Field</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions"
+  title="class in com.here.sdk.routing"><code>AvoidBoundingBoxAreaOptions</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#avoidBoundingBoxAreasOptions"
+  class="member-name-link"><code>avoidBoundingBoxAreasOptions</code></a></td>
+  <td><div class="block">
+  List of rectangular shapes which routes must not cross and additional
+  options for this area.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidcorridorareaoptions"
+  title="class in com.here.sdk.routing"><code>AvoidCorridorAreaOptions</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#avoidCorridorAreasOptions"
+  class="member-name-link"><code>avoidCorridorAreasOptions</code></a></td>
+  <td><div class="block">
+  List of corridor shapes which routes must not cross and additional
+  options for this area.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-transport-truckroadtype"
+  title="enum class in com.here.sdk.transport"><code>TruckRoadType</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#avoidedTruckRoadTypes"
+  class="member-name-link"><code>avoidedTruckRoadTypes</code></a></td>
+  <td><div class="block">
+  Specifies a list of avoided truck road types for vehicle.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions"
+  title="class in com.here.sdk.routing"><code>AvoidPolygonAreaOptions</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#avoidPolygonAreasOptions"
+  class="member-name-link"><code>avoidPolygonAreasOptions</code></a></td>
+  <td><div class="block">
+  List of polygon shapes which routes must not cross and additional
+  options for this area.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-core-countrycode"
+  title="enum class in com.here.sdk.core"><code>CountryCode</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#countries"
+  class="member-name-link"><code>countries</code></a></td>
+  <td><div class="block">
+  Countries that the route must avoid.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#exceptZoneIds"
+  class="member-name-link"><code>exceptZoneIds</code></a></td>
+  <td><div class="block">
+  Exception to AvoidanceOptions.zone_categories , which can be specified
+  by list of zone identifiers.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-routing-roadfeatures"
+  title="enum class in com.here.sdk.routing"><code>RoadFeatures</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#roadFeatures"
+  class="member-name-link"><code>roadFeatures</code></a></td>
+  <td><div class="block">
+  Features which routes should avoid.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-routing-segmentreference"
+  title="class in com.here.sdk.routing"><code>SegmentReference</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#segments"
+  class="member-name-link"><code>segments</code></a></td>
+  <td><div class="block">
+  Segments that routes will avoid going through.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-routing-zonecategory"
+  title="enum class in com.here.sdk.routing"><code>ZoneCategory</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#zoneCategories"
+  class="member-name-link"><code>zoneCategories</code></a></td>
+  <td><div class="block">
+  Zone categories which routes must not cross.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-routing-avoidanceoptions#zoneIds"
+  class="member-name-link"><code>zoneIds</code></a></td>
+  <td><div class="block">
+  List containing identifiers of zones that routes should avoid going
+  through.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Constructor</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><pre><code>AvoidanceOptions()</code></pre></td>
+  <td><div class="block">
+  Creates a new instance.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>boolean</code></td>
+  <td><pre><code>equals(Object obj)</code></pre></td>
+  <td> </td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>hashCode()</code></pre></td>
+  <td> </td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="field-detail" class="section field-details">
+
+  - <div id="roadFeatures" class="section detail">
+
+    ### roadFeatures
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")></span> <span class="element-name">roadFeatures</span>
+
+    </div>
+
+    <div class="block">
+
+    Features which routes should avoid. Best effort only (not enforced).
+
+    </div>
+
+    </div>
+
+  - <div id="countries" class="section detail">
+
+    ### countries
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")></span> <span class="element-name">countries</span>
+
+    </div>
+
+    <div class="block">
+
+    Countries that the route must avoid. Strictly enforced. Violations
+    are reported as SectionNoticeCode.VIOLATED_BLOCKED_ROAD . Note: This
+    avoidance option is not supported in IsolineOptions for isoline
+    calculation.
+
+    </div>
+
+    </div>
+
+  - <div id="avoidBoundingBoxAreasOptions" class="section detail">
+
+    ### avoidBoundingBoxAreasOptions
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[AvoidBoundingBoxAreaOptions](sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions "class in com.here.sdk.routing")></span> <span class="element-name">avoidBoundingBoxAreasOptions</span>
+
+    </div>
+
+    <div class="block">
+
+    List of rectangular shapes which routes must not cross and
+    additional options for this area.
+
+    </div>
+
+    </div>
+
+  - <div id="avoidPolygonAreasOptions" class="section detail">
+
+    ### avoidPolygonAreasOptions
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[AvoidPolygonAreaOptions](sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions "class in com.here.sdk.routing")></span> <span class="element-name">avoidPolygonAreasOptions</span>
+
+    </div>
+
+    <div class="block">
+
+    List of polygon shapes which routes must not cross and additional
+    options for this area. Note: Currently, the maximum count of
+    polygons is limited to 20.
+
+    </div>
+
+    </div>
+
+  - <div id="avoidCorridorAreasOptions" class="section detail">
+
+    ### avoidCorridorAreasOptions
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[AvoidCorridorAreaOptions](sdk-for-android-explore-com-here-sdk-routing-avoidcorridorareaoptions "class in com.here.sdk.routing")></span> <span class="element-name">avoidCorridorAreasOptions</span>
+
+    </div>
+
+    <div class="block">
+
+    List of corridor shapes which routes must not cross and additional
+    options for this area. Note: Currently, the maximum count of
+    corridors is limited to 20.
+
+    </div>
+
+    </div>
+
+  - <div id="zoneCategories" class="section detail">
+
+    ### zoneCategories
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[ZoneCategory](sdk-for-android-explore-com-here-sdk-routing-zonecategory "enum class in com.here.sdk.routing")></span> <span class="element-name">zoneCategories</span>
+
+    </div>
+
+    <div class="block">
+
+    Zone categories which routes must not cross. Strictly enforced.
+    Violations are reported as
+    SectionNoticeCode.VIOLATED_ZONE_RESTRICTION .
+
+    </div>
+
+    </div>
+
+  - <div id="segments" class="section detail">
+
+    ### segments
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[SegmentReference](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")></span> <span class="element-name">segments</span>
+
+    </div>
+
+    <div class="block">
+
+    Segments that routes will avoid going through. Violations are
+    reported as SectionNoticeCode.VIOLATED_BLOCKED_ROAD . Notes: This
+    avoidance option is not supported in IsolineOptions for isoline
+    calculation. The engine does not support an unlimited number of
+    segments to avoid. The limit is defined by the HERE backend services
+    and may change. For now, the maximum number of segments to avoid
+    should be below 250. This value may change on the backend and it is
+    therefore not guaranteed to be stable.
+
+    </div>
+
+    </div>
+
+  - <div id="exceptZoneIds" class="section detail">
+
+    ### exceptZoneIds
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">exceptZoneIds</span>
+
+    </div>
+
+    <div class="block">
+
+    Exception to AvoidanceOptions.zone_categories , which can be
+    specified by list of zone identifiers. e.g. the format of ID is like
+    here:cm:envzone:2 . Information about the various routing zones
+    originates from the respective catalogs of platform.here.com. For
+    example, more information on zone IDs for Environmental Zones is
+    available under
+    "https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview".
+
+    </div>
+
+    </div>
+
+  - <div id="zoneIds" class="section detail">
+
+    ### zoneIds
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">zoneIds</span>
+
+    </div>
+
+    <div class="block">
+
+    List containing identifiers of zones that routes should avoid going
+    through. e.g. the format of ID is like here:cm:envzone:2 .
+    Information about the various routing zones originates from the
+    respective catalogs of platform.here.com. For example, more
+    information on zone IDs for Environmental Zones is available under
+    "https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview".
+
+    </div>
+
+    </div>
+
+  - <div id="avoidedTruckRoadTypes" class="section detail">
+
+    ### avoidedTruckRoadTypes
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")></span> <span class="element-name">avoidedTruckRoadTypes</span>
+
+    </div>
+
+    <div class="block">
+
+    Specifies a list of avoided truck road types for vehicle. Refer to
+    TruckRoadType for the available options.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="constructor-detail" class="section constructor-details">
+
+  - <div id="<init>()" class="section detail">
+
+    ### AvoidanceOptions
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">AvoidanceOptions</span>()
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="equals(java.lang.Object)" class="section detail">
+
+    ### equals
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+
+    </div>
+
+    Overrides:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="hashCode()" class="section detail">
+
+    ### hashCode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()
+
+    </div>
+
+    Overrides:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  </div>
+
+</div>
+

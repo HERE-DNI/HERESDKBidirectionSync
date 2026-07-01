@@ -3,91 +3,115 @@ title: "CustomMetadataValue (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-custommetadatavalue"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- CustomMetadataValue.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.core](sdk-for-android-explore-com-here-sdk-core-package-summary)
 
 </div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">CustomMetadataValue</span></div>
-<div class="block"><p>Interface for storing arbitrary metadata types.
- By implementing this interface, multiple object types can be stored as
- desired, simply by adding fields to the implementation that refer to those
- objects and then assigning an instance of the CustomMetadataValue derived class
- to a map item.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
+<div id="class-description" class="section class-description">
 
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab3" onclick="show('method-summary-table', 'method-summary-table-tab3', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Abstract Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-custommetadatavalue#getTag()">getTag</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Obtains a tag that describes the instance of the interface.</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
+<div class="type-signature">
 
-<ul class="member-list">
-<li>
-<section class="detail" id="getTag()">
-<h3>getTag</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getTag</span>()</div>
-<div class="block"><p>Obtains a tag that describes the instance of the interface.
- The tag is specific to the concrete implementation of the interface.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>A tag describing the implementation of the interface.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+<span class="modifiers">public interface
+</span><span class="element-name type-name-label">CustomMetadataValue</span>
 
 </div>
+
+<div class="block">
+
+Interface for storing arbitrary metadata types. By implementing this
+interface, multiple object types can be stored as desired, simply by
+adding fields to the implementation that refer to those objects and then
+assigning an instance of the CustomMetadataValue derived class to a map
+item.
+
 </div>
 
+</div>
 
+<div class="section summary">
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Abstract Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>String</code></a></td>
+  <td><pre><code>getTag()</code></pre></td>
+  <td><div class="block">
+  Obtains a tag that describes the instance of the interface.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
 
 </div>
-`
-}</HTMLBlock>
+
+<div class="section details">
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="getTag()" class="section detail">
+
+    ### getTag
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
+    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getTag</span>()
+
+    </div>
+
+    <div class="block">
+
+    Obtains a tag that describes the instance of the interface. The tag
+    is specific to the concrete implementation of the interface.
+
+    </div>
+
+    Returns:  
+    A tag describing the implementation of the interface.
+
+    </div>
+
+  </div>
+
+</div>
+

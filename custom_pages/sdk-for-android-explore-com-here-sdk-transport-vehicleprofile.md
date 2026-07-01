@@ -3,356 +3,791 @@ title: "VehicleProfile (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-transport-vehicleprofile"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- VehicleProfile.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.transport</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.transport](sdk-for-android-explore-com-here-sdk-transport-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance">com.here.sdk.transport.VehicleProfile</div>
-</div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
-</span><span class="modifiers">public final class </span><span class="element-name type-name-label">VehicleProfile</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
-<div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>sdk.transport.TransportSpecification</code> instead.</p></div>
-</div>
-<div class="block"><p>A vehicle profile describes the vehicle being used with the HSDK.
- The profile is planned to be used as single source of information describing the vehicle.
- Current modules that use this profile:
- <ul>
-<li>Navigation: Tracking mode for truck related vehicle restrictions.</li>
-</ul>
-<strong>Note:</strong> This is a beta release of this vehicle profile, so there could be a few bugs and unexpected
- behaviors. Related APIs may change for new releases or even become unsupported, without a
- deprecation process.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- =========== FIELD SUMMARY =========== -->
-<li>
-<section class="field-summary" id="field-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="caption"><span>Fields</span></div>
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Field</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#axleCount">axleCount</a></code></div>
-<div class="col-last even-row-color">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Defines total number of axles in the vehicle.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#grossWeightInKilograms">grossWeightInKilograms</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Vehicle weight including trailers and shipped goods in kilograms.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#hazardousMaterials">hazardousMaterials</a></code></div>
-<div class="col-last even-row-color">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Specifies a list of hazardous materials shipped in the vehicle.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#heightInCentimeters">heightInCentimeters</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Vehicle height in centimeters.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#lengthInCentimeters">lengthInCentimeters</a></code></div>
-<div class="col-last even-row-color">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Vehicle length in centimeters.</div>
-</div>
-<div class="col-first odd-row-color"><code>int</code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#trailerCount">trailerCount</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Defines number of trailers attached to the vehicle.</div>
-</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#truckCategory">truckCategory</a></code></div>
-<div class="col-last even-row-color">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Defines the truck category.</div>
-</div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#tunnelCategory">tunnelCategory</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Specifies the tunnel categories to restrict certain route links.</div>
-</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-com-here-sdk-transport-vehicletype" title="enum class in com.here.sdk.transport">VehicleType</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#vehicleType">vehicleType</a></code></div>
-<div class="col-last even-row-color">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Defines the vehicle type.</div>
-</div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#weightPerAxleInKilograms">weightPerAxleInKilograms</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Vehicle weight per axle in kilograms.</div>
-</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#widthInCentimeters">widthInCentimeters</a></code></div>
-<div class="col-last even-row-color">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Vehicle width in centimeters.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section class="constructor-summary" id="constructor-summary">
-
-<div class="caption"><span>Constructors</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Constructor</div>
-<div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#%3Cinit%3E(com.here.sdk.transport.VehicleType)">VehicleProfile</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-transport-vehicletype" title="enum class in com.here.sdk.transport">VehicleType</a> vehicleType)</code></div>
-<div class="col-last even-row-color">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Creates a new instance.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab6" onclick="show('method-summary-table', 'method-summary-table-tab6', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Deprecated Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
- </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#hashCode()">hashCode</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4 method-summary-table-tab6">
-<div class="block"><span class="deprecated-label">Deprecated.</span></div>
- </div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ FIELD DETAIL =========== -->
-<li>
-<section class="field-details" id="field-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="vehicleType">
-<h3>vehicleType</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-vehicletype" title="enum class in com.here.sdk.transport">VehicleType</a></span> <span class="element-name">vehicleType</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Defines the vehicle type.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="truckCategory">
-<h3>truckCategory</h3>
-<div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></span> <span class="element-name">truckCategory</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Defines the truck category.
- Only used when the <a href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#vehicleType"><code>vehicleType</code></a> is <a href="sdk-for-android-explore-vehicletype#TRUCK"><code>VehicleType.TRUCK</code></a>
- By default, it is not set.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="trailerCount">
-<h3>trailerCount</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">trailerCount</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Defines number of trailers attached to the vehicle. The provided value must be in the range
- [0, 255]. When not set, possible trailer count restrictions will not be taken into consideration
- for route calculation. By default, it is 0.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="hazardousMaterials">
-<h3>hazardousMaterials</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</span> <span class="element-name">hazardousMaterials</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Specifies a list of hazardous materials shipped in the vehicle.
- Refer to <a href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial" title="enum class in com.here.sdk.transport"><code>HazardousMaterial</code></a> for the available options.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="tunnelCategory">
-<h3>tunnelCategory</h3>
-<div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">tunnelCategory</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Specifies the tunnel categories to restrict certain route links.
- The route will pass only through tunnels of a less strict category.
- Refer to <a href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory" title="enum class in com.here.sdk.transport"><code>TunnelCategory</code></a> for the available options.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="axleCount">
-<h3>axleCount</h3>
-<div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">axleCount</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Defines total number of axles in the vehicle. The provided value must be greater than or
- equal to 2. When not set, possible axle count restrictions will not be taken into
- consideration for route calculation. By default, it is not set.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="grossWeightInKilograms">
-<h3>grossWeightInKilograms</h3>
-<div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">grossWeightInKilograms</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Vehicle weight including trailers and shipped goods in kilograms.
- By default, it is not set.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="heightInCentimeters">
-<h3>heightInCentimeters</h3>
-<div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">heightInCentimeters</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Vehicle height in centimeters. The provided value must be in the range [0, 5000].
- By default, it is not set.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="lengthInCentimeters">
-<h3>lengthInCentimeters</h3>
-<div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">lengthInCentimeters</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Vehicle length in centimeters. The provided value must be in the range [0, 30000].
- By default, it is not set.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="widthInCentimeters">
-<h3>widthInCentimeters</h3>
-<div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">widthInCentimeters</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Vehicle width in centimeters. The provided value must be in the range [0, 5000].
- By default, it is not set.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="weightPerAxleInKilograms">
-<h3>weightPerAxleInKilograms</h3>
-<div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">weightPerAxleInKilograms</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Vehicle weight per axle in kilograms. The provided value must be greater or equal to 0.
- When not set, possible weight per axle restrictions will not be taken into
- consideration for route calculation. By default, it is not set.</p></div>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section class="constructor-details" id="constructor-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="&lt;init&gt;(com.here.sdk.transport.VehicleType)">
-<h3>VehicleProfile</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">VehicleProfile</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-transport-vehicletype" title="enum class in com.here.sdk.transport">VehicleType</a> vehicleType)</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Creates a new instance.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>vehicleType</code> - <p>Defines the vehicle type.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="equals(java.lang.Object)">
-<h3>equals</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</span></div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<dl class="notes">
-<dt>Overrides:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a></code> in class <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="hashCode()">
-<h3>hashCode</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()</div>
-<div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<dl class="notes">
-<dt>Overrides:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a></code> in class <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object → com.here.sdk.transport.VehicleProfile
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="annotations"><a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html"
+class="external-link"
+title="class or interface in java.lang">@Deprecated</a>
+</span><span class="modifiers">public final class
+</span><span class="element-name type-name-label">VehicleProfile</span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a></span>
+
 </div>
 
+<div class="deprecation-block">
 
+<span class="deprecated-label">Deprecated.</span>
+
+<div class="deprecation-comment">
+
+Will be removed in v4.28.0. Use `sdk.transport.TransportSpecification`
+instead.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="block">
+
+A vehicle profile describes the vehicle being used with the HSDK. The
+profile is planned to be used as single source of information describing
+the vehicle. Current modules that use this profile: Navigation: Tracking
+mode for truck related vehicle restrictions. Note: This is a beta
+release of this vehicle profile, so there could be a few bugs and
+unexpected behaviors. Related APIs may change for new releases or even
+become unsupported, without a deprecation process.
+
+</div>
+
+</div>
+
+<div class="section summary">
+
+- <div id="field-summary" class="section field-summary">
+
+  <div class="caption">
+
+  Fields
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Field</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#axleCount"
+  class="member-name-link"><code>axleCount</code></a></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+  <div class="block">
+  Defines total number of axles in the vehicle.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#grossWeightInKilograms"
+  class="member-name-link"><code>grossWeightInKilograms</code></a></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+  <div class="block">
+  Vehicle weight including trailers and shipped goods in kilograms.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial"
+  title="enum class in com.here.sdk.transport"><code>HazardousMaterial</code></a><code>&gt;</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#hazardousMaterials"
+  class="member-name-link"><code>hazardousMaterials</code></a></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+  <div class="block">
+  Specifies a list of hazardous materials shipped in the vehicle.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#heightInCentimeters"
+  class="member-name-link"><code>heightInCentimeters</code></a></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+  <div class="block">
+  Vehicle height in centimeters.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#lengthInCentimeters"
+  class="member-name-link"><code>lengthInCentimeters</code></a></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+  <div class="block">
+  Vehicle length in centimeters.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#trailerCount"
+  class="member-name-link"><code>trailerCount</code></a></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+  <div class="block">
+  Defines number of trailers attached to the vehicle.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-truckcategory"
+  title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#truckCategory"
+  class="member-name-link"><code>truckCategory</code></a></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+  <div class="block">
+  Defines the truck category.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-tunnelcategory"
+  title="enum class in com.here.sdk.transport"><code>TunnelCategory</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#tunnelCategory"
+  class="member-name-link"><code>tunnelCategory</code></a></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+  <div class="block">
+  Specifies the tunnel categories to restrict certain route links.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a href="sdk-for-android-explore-com-here-sdk-transport-vehicletype"
+  title="enum class in com.here.sdk.transport"><code>VehicleType</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#vehicleType"
+  class="member-name-link"><code>vehicleType</code></a></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+  <div class="block">
+  Defines the vehicle type.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#weightPerAxleInKilograms"
+  class="member-name-link"><code>weightPerAxleInKilograms</code></a></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+  <div class="block">
+  Vehicle weight per axle in kilograms.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+  class="external-link"
+  title="class or interface in java.lang"><code>Integer</code></a></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-transport-vehicleprofile#widthInCentimeters"
+  class="member-name-link"><code>widthInCentimeters</code></a></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+  <div class="block">
+  Vehicle width in centimeters.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Constructor</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><pre><code>VehicleProfile(VehicleType vehicleType)</code></pre></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+  <div class="block">
+  Creates a new instance.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Concrete Methods
+  Deprecated Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>boolean</code></td>
+  <td><pre><code>equals(Object obj)</code></pre></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+   </td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>hashCode()</code></pre></td>
+  <td><div class="block">
+  Deprecated.
+  </div>
+   </td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="field-detail" class="section field-details">
+
+  - <div id="vehicleType" class="section detail">
+
+    ### vehicleType
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type">[VehicleType](sdk-for-android-explore-com-here-sdk-transport-vehicletype "enum class in com.here.sdk.transport")</span> <span class="element-name">vehicleType</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    <div class="block">
+
+    Defines the vehicle type.
+
+    </div>
+
+    </div>
+
+  - <div id="truckCategory" class="section detail">
+
+    ### truckCategory
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable
+    </span><span class="modifiers">public</span> <span class="return-type">[TruckCategory](sdk-for-android-explore-com-here-sdk-transport-truckcategory "enum class in com.here.sdk.transport")</span> <span class="element-name">truckCategory</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    <div class="block">
+
+    Defines the truck category. Only used when the vehicleType is
+    VehicleType.TRUCK By default, it is not set.
+
+    </div>
+
+    </div>
+
+  - <div id="trailerCount" class="section detail">
+
+    ### trailerCount
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">trailerCount</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    <div class="block">
+
+    Defines number of trailers attached to the vehicle. The provided
+    value must be in the range \[0, 255\]. When not set, possible
+    trailer count restrictions will not be taken into consideration for
+    route calculation. By default, it is 0.
+
+    </div>
+
+    </div>
+
+  - <div id="hazardousMaterials" class="section detail">
+
+    ### hazardousMaterials
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[HazardousMaterial](sdk-for-android-explore-com-here-sdk-transport-hazardousmaterial "enum class in com.here.sdk.transport")></span> <span class="element-name">hazardousMaterials</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    <div class="block">
+
+    Specifies a list of hazardous materials shipped in the vehicle.
+    Refer to HazardousMaterial for the available options.
+
+    </div>
+
+    </div>
+
+  - <div id="tunnelCategory" class="section detail">
+
+    ### tunnelCategory
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable
+    </span><span class="modifiers">public</span> <span class="return-type">[TunnelCategory](sdk-for-android-explore-com-here-sdk-transport-tunnelcategory "enum class in com.here.sdk.transport")</span> <span class="element-name">tunnelCategory</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    <div class="block">
+
+    Specifies the tunnel categories to restrict certain route links. The
+    route will pass only through tunnels of a less strict category.
+    Refer to TunnelCategory for the available options.
+
+    </div>
+
+    </div>
+
+  - <div id="axleCount" class="section detail">
+
+    ### axleCount
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">axleCount</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    <div class="block">
+
+    Defines total number of axles in the vehicle. The provided value
+    must be greater than or equal to 2. When not set, possible axle
+    count restrictions will not be taken into consideration for route
+    calculation. By default, it is not set.
+
+    </div>
+
+    </div>
+
+  - <div id="grossWeightInKilograms" class="section detail">
+
+    ### grossWeightInKilograms
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">grossWeightInKilograms</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    <div class="block">
+
+    Vehicle weight including trailers and shipped goods in kilograms. By
+    default, it is not set.
+
+    </div>
+
+    </div>
+
+  - <div id="heightInCentimeters" class="section detail">
+
+    ### heightInCentimeters
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">heightInCentimeters</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    <div class="block">
+
+    Vehicle height in centimeters. The provided value must be in the
+    range \[0, 5000\]. By default, it is not set.
+
+    </div>
+
+    </div>
+
+  - <div id="lengthInCentimeters" class="section detail">
+
+    ### lengthInCentimeters
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">lengthInCentimeters</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    <div class="block">
+
+    Vehicle length in centimeters. The provided value must be in the
+    range \[0, 30000\]. By default, it is not set.
+
+    </div>
+
+    </div>
+
+  - <div id="widthInCentimeters" class="section detail">
+
+    ### widthInCentimeters
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">widthInCentimeters</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    <div class="block">
+
+    Vehicle width in centimeters. The provided value must be in the
+    range \[0, 5000\]. By default, it is not set.
+
+    </div>
+
+    </div>
+
+  - <div id="weightPerAxleInKilograms" class="section detail">
+
+    ### weightPerAxleInKilograms
+
+    <div class="member-signature">
+
+    <span class="annotations">@Nullable
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
+    class="external-link"
+    title="class or interface in java.lang">Integer</a></span> <span class="element-name">weightPerAxleInKilograms</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    <div class="block">
+
+    Vehicle weight per axle in kilograms. The provided value must be
+    greater or equal to 0. When not set, possible weight per axle
+    restrictions will not be taken into consideration for route
+    calculation. By default, it is not set.
+
+    </div>
+
+    </div>
+
+  </div>
+
+- <div id="constructor-detail" class="section constructor-details">
+
+  - <div id="<init>(com.here.sdk.transport.VehicleType)"
+    class="section detail">
+
+    ### VehicleProfile
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">VehicleProfile</span><span class="parameters">(@NonNull
+    [VehicleType](sdk-for-android-explore-com-here-sdk-transport-vehicletype "enum class in com.here.sdk.transport") vehicleType)</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance.
+
+    </div>
+
+    Parameters:  
+    `vehicleType` -
+
+    Defines the vehicle type.
+
+    </div>
+
+  </div>
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="equals(java.lang.Object)" class="section detail">
+
+    ### equals
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    Overrides:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="hashCode()" class="section detail">
+
+    ### hashCode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()
+
+    </div>
+
+    <div class="deprecation-block">
+
+    <span class="deprecated-label">Deprecated.</span>
+
+    </div>
+
+    Overrides:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  </div>
+
+</div>
+

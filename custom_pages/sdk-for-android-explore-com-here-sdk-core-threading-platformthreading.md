@@ -3,147 +3,220 @@ title: "PlatformThreading (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-core-threading-platformthreading"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- PlatformThreading.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.threading</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.core.threading](sdk-for-android-explore-com-here-sdk-core-threading-package-summary)
 
 </div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">PlatformThreading</span></div>
-<div class="block"><p>Interface for task activities on the main thread.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
+<div id="class-description" class="section class-description">
 
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab3" onclick="show('method-summary-table', 'method-summary-table-tab3', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Abstract Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-threading-platformthreading#postToMainThread(com.here.sdk.core.threading.Runnable)">postToMainThread</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-threading-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Posts task to the end of the queue of the main thread.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-threading-platformthreading#postToMainThread(com.here.sdk.core.threading.Runnable,long)">postToMainThread</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-threading-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable,
- long delayMs)</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Posts a task to be executed on the main thread after some delay.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-core-threading-platformthreading#runOnMainThread(com.here.sdk.core.threading.Runnable)">runOnMainThread</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-core-threading-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Runs a task on the main thread.</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
+<div class="type-signature">
 
-<ul class="member-list">
-<li>
-<section class="detail" id="runOnMainThread(com.here.sdk.core.threading.Runnable)">
-<h3>runOnMainThread</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">runOnMainThread</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-threading-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable)</span></div>
-<div class="block"><p>Runs a task on the main thread.
- If this function is called from the main thread, then the task will run immediately. Otherwise,
- it is put to the end of the queue of the main thread.
- Note: Depending on actual platform, destruction-time of passed in runnable might be unknown due
- to unpredictability of garbage collection. Therefore, runnable should not hold strong references
- to objects whose lifetimes are critical or references should be released at the end of execution.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>runnable</code> - <p>Task that should be executed on the main thread. Destruction-time of runnable is unknown.</p></dd>
-<dt>Returns:</dt>
-<dd><p>Handle that will be used to manipulate execution of the task.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="postToMainThread(com.here.sdk.core.threading.Runnable,long)">
-<h3>postToMainThread</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">postToMainThread</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-threading-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable,
- long delayMs)</span></div>
-<div class="block"><p>Posts a task to be executed on the main thread after some delay.
- If the delay is 0, the function puts the task at the end of the queue.
- The function does not wait for the task to be executed and returns immediately after the task
- has been put in the queue.
- Note: Depending on actual platform, destruction-time of passed in runnable might be unknown due
- to unpredictability of garbage collection. Therefore, runnable should not hold strong references
- to objects whose lifetimes are critical or references should be released at the end of execution.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>runnable</code> - <p>Task that should be executed on the main thread. Destruction-time of runnable is unknown.</p></dd>
-<dd><code>delayMs</code> - <p>Delay in milliseconds.</p></dd>
-<dt>Returns:</dt>
-<dd><p>Handle that will be used to manipulate execution of the task.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="postToMainThread(com.here.sdk.core.threading.Runnable)">
-<h3>postToMainThread</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">postToMainThread</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-core-threading-runnable" title="interface in com.here.sdk.core.threading">Runnable</a> runnable)</span></div>
-<div class="block"><p>Posts task to the end of the queue of the main thread.
- Function does not wait for task to be executed and returns immediately after the task is put to the queue.
- Note: Depending on actual platform, destruction-time of passed in runnable might be unknown due
- to unpredictability of garbage collection. Therefore, runnable should not hold strong references
- to objects whose lifetimes are critical or references should be released at the end of execution.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>runnable</code> - <p>Task that should be executed on the main thread. Destruction-time of runnable is unknown.</p></dd>
-<dt>Returns:</dt>
-<dd><p>Handle that will be used to manipulate execution of the task.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+<span class="modifiers">public interface
+</span><span class="element-name type-name-label">PlatformThreading</span>
 
 </div>
+
+<div class="block">
+
+Interface for task activities on the main thread.
+
 </div>
 
+</div>
 
+<div class="section summary">
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Abstract Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
+  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
+  <td><pre><code>postToMainThread(Runnable runnable)</code></pre></td>
+  <td><div class="block">
+  Posts task to the end of the queue of the main thread.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
+  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
+  <td><pre><code>postToMainThread(Runnable runnable,
+   long delayMs)</code></pre></td>
+  <td><div class="block">
+  Posts a task to be executed on the main thread after some delay.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-core-threading-taskhandle"
+  title="interface in com.here.sdk.core.threading"><code>TaskHandle</code></a></td>
+  <td><pre><code>runOnMainThread(Runnable runnable)</code></pre></td>
+  <td><div class="block">
+  Runs a task on the main thread.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  </div>
 
 </div>
-`
-}</HTMLBlock>
+
+<div class="section details">
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="runOnMainThread(com.here.sdk.core.threading.Runnable)"
+    class="section detail">
+
+    ### runOnMainThread
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">runOnMainThread</span><span class="parameters">(@NonNull
+    [Runnable](sdk-for-android-explore-com-here-sdk-core-threading-runnable "interface in com.here.sdk.core.threading") runnable)</span>
+
+    </div>
+
+    <div class="block">
+
+    Runs a task on the main thread. If this function is called from the
+    main thread, then the task will run immediately. Otherwise, it is
+    put to the end of the queue of the main thread. Note: Depending on
+    actual platform, destruction-time of passed in runnable might be
+    unknown due to unpredictability of garbage collection. Therefore,
+    runnable should not hold strong references to objects whose
+    lifetimes are critical or references should be released at the end
+    of execution.
+
+    </div>
+
+    Parameters:  
+    `runnable` -
+
+    Task that should be executed on the main thread. Destruction-time of
+    runnable is unknown.
+
+    Returns:  
+    Handle that will be used to manipulate execution of the task.
+
+    </div>
+
+  - <div id="postToMainThread(com.here.sdk.core.threading.Runnable,long)"
+    class="section detail">
+
+    ### postToMainThread
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">postToMainThread</span><span class="parameters">(@NonNull
+    [Runnable](sdk-for-android-explore-com-here-sdk-core-threading-runnable "interface in com.here.sdk.core.threading") runnable,
+    long delayMs)</span>
+
+    </div>
+
+    <div class="block">
+
+    Posts a task to be executed on the main thread after some delay. If
+    the delay is 0, the function puts the task at the end of the queue.
+    The function does not wait for the task to be executed and returns
+    immediately after the task has been put in the queue. Note:
+    Depending on actual platform, destruction-time of passed in runnable
+    might be unknown due to unpredictability of garbage collection.
+    Therefore, runnable should not hold strong references to objects
+    whose lifetimes are critical or references should be released at the
+    end of execution.
+
+    </div>
+
+    Parameters:  
+    `runnable` -
+
+    Task that should be executed on the main thread. Destruction-time of
+    runnable is unknown.
+
+    `delayMs` -
+
+    Delay in milliseconds.
+
+    Returns:  
+    Handle that will be used to manipulate execution of the task.
+
+    </div>
+
+  - <div id="postToMainThread(com.here.sdk.core.threading.Runnable)"
+    class="section detail">
+
+    ### postToMainThread
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="return-type">[TaskHandle](sdk-for-android-explore-com-here-sdk-core-threading-taskhandle "interface in com.here.sdk.core.threading")</span> <span class="element-name">postToMainThread</span><span class="parameters">(@NonNull
+    [Runnable](sdk-for-android-explore-com-here-sdk-core-threading-runnable "interface in com.here.sdk.core.threading") runnable)</span>
+
+    </div>
+
+    <div class="block">
+
+    Posts task to the end of the queue of the main thread. Function does
+    not wait for task to be executed and returns immediately after the
+    task is put to the queue. Note: Depending on actual platform,
+    destruction-time of passed in runnable might be unknown due to
+    unpredictability of garbage collection. Therefore, runnable should
+    not hold strong references to objects whose lifetimes are critical
+    or references should be released at the end of execution.
+
+    </div>
+
+    Parameters:  
+    `runnable` -
+
+    Task that should be executed on the main thread. Destruction-time of
+    runnable is unknown.
+
+    Returns:  
+    Handle that will be used to manipulate execution of the task.
+
+    </div>
+
+  </div>
+
+</div>
+

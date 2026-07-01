@@ -3,508 +3,915 @@ title: "Duration (API Reference)"
 slug: "sdk-for-android-explore-com-here-time-duration"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- Duration.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.time</a></div>
+<span class="package-label-in-type">Package</span> [com.here.time](sdk-for-android-explore-com-here-time-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance">com.here.time.Duration</div>
-</div>
-<section class="class-description" id="class-description">
-<dl class="notes">
-<dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a>&gt;</code></dd>
-</dl>
 
-<div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Duration</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-implements <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a>&gt;</span></div>
-<div class="block">Represents duration in time (both positive and negative).
- <p>
-     The duration is represented as number of seconds (see <a href="sdk-for-android-explore-com-here-time-duration#getSeconds()"><code>getSeconds()</code></a>)
-     and number of nanonseconds in a second (see <a href="sdk-for-android-explore-com-here-time-duration#getNano()"><code>getNano()</code></a>).
- 
-     Duration can be created from various units of time by calling on of
-     <code>of*</code> methods. The <code>to*</code> family of methods convert duration
-     to a value expressed in desired unit of time.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab1" onclick="show('method-summary-table', 'method-summary-table-tab1', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Static Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#compareTo(com.here.time.Duration)">compareTo</a><wbr/>(<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> duration)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> o)</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#getNano()">getNano</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>long</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#getSeconds()">getSeconds</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#hashCode()">hashCode</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#ofDays(long)">ofDays</a><wbr/>(long days)</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Creates a duration representing specified number of days.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#ofHours(long)">ofHours</a><wbr/>(long hours)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Creates a duration representing specified number of hours.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#ofMillis(long)">ofMillis</a><wbr/>(long milliseconds)</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Creates a duration representing specified number of milliseconds.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#ofMinutes(long)">ofMinutes</a><wbr/>(long minutes)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Creates a duration representing specified number of hours.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#ofNanos(long)">ofNanos</a><wbr/>(long nanoseconds)</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Creates a duration representing specified number of nanoseconds.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#ofSeconds(long)">ofSeconds</a><wbr/>(long seconds)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Creates a duration representing specified number of seconds.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#ofSeconds(long,long)">ofSeconds</a><wbr/>(long seconds,
- long nanoAdjustment)</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Creates a duration representing specified number of seconds and an adjustment in nanoseconds.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>long</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#toDays()">toDays</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Converts this duration to days.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>long</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#toDaysPart()">toDaysPart</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Same as <a href="sdk-for-android-explore-com-here-time-duration#toDays()"><code>toDays()</code></a>.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>long</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#toHours()">toHours</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Converts this duration to hours.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#toHoursPart()">toHoursPart</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the hours part of this duration.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>long</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#toMillis()">toMillis</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Converts this duration to milliseconds.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#toMillisPart()">toMillisPart</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the milliseconds part of this duration.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>long</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#toMinutes()">toMinutes</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Converts this duration to minutes.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#toMinutesPart()">toMinutesPart</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the minutes part of this duration.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>long</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#toNanos()">toNanos</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Converts this duration to nanoseconds.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#toNanosPart()">toNanosPart</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the nanoseconds part of this duration.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>long</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#toSeconds()">toSeconds</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Converts this duration to seconds.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>int</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-time-duration#toSecondsPart()">toSecondsPart</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the seconds part of this duration.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="getNano()">
-<h3>getNano</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getNano</span>()</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>The nanoseconds component of this duration.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getSeconds()">
-<h3>getSeconds</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">getSeconds</span>()</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>The seconds component of this duration.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="ofDays(long)">
-<h3>ofDays</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofDays</span><wbr/><span class="parameters">(long days)</span>
-                       throws <span class="exceptions"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" title="class or interface in java.lang">ArithmeticException</a></span></div>
-<div class="block">Creates a duration representing specified number of days.
- A Day is assumed to always be 24 hours.</div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>days</code> - The number of days.</dd>
-<dt>Returns:</dt>
-<dd>The Duration representing the specified number of days.</dd>
-<dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" title="class or interface in java.lang">ArithmeticException</a></code> - if the input is outside the range possible to
-                             represent by a Duration</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="ofHours(long)">
-<h3>ofHours</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofHours</span><wbr/><span class="parameters">(long hours)</span>
-                        throws <span class="exceptions"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" title="class or interface in java.lang">ArithmeticException</a></span></div>
-<div class="block">Creates a duration representing specified number of hours.
- An hour is assumed to always be 60 minutes.</div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>hours</code> - The number of hours.</dd>
-<dt>Returns:</dt>
-<dd>The Duration representing the specified number of hours.</dd>
-<dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" title="class or interface in java.lang">ArithmeticException</a></code> - if the input is outside the range possible to
-                             represent by a Duration</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="ofMinutes(long)">
-<h3>ofMinutes</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofMinutes</span><wbr/><span class="parameters">(long minutes)</span>
-                          throws <span class="exceptions"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" title="class or interface in java.lang">ArithmeticException</a></span></div>
-<div class="block">Creates a duration representing specified number of hours.
- A minute is assumed to always be 60 seconds.</div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>minutes</code> - The number of minutes.</dd>
-<dt>Returns:</dt>
-<dd>The Duration representing the specified number of minutes.</dd>
-<dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" title="class or interface in java.lang">ArithmeticException</a></code> - if the input is outside the range possible to
-                             represent by a Duration</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="ofSeconds(long)">
-<h3>ofSeconds</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofSeconds</span><wbr/><span class="parameters">(long seconds)</span></div>
-<div class="block">Creates a duration representing specified number of seconds.</div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>seconds</code> - The number of seconds.</dd>
-<dt>Returns:</dt>
-<dd>The Duration representing the specified number of seconds.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="ofSeconds(long,long)">
-<h3>ofSeconds</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofSeconds</span><wbr/><span class="parameters">(long seconds,
- long nanoAdjustment)</span></div>
-<div class="block">Creates a duration representing specified number of seconds and an adjustment in nanoseconds.</div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>seconds</code> - The number of seconds.</dd>
-<dd><code>nanoAdjustment</code> - The nanosecond adjustment to the number of seconds.</dd>
-<dt>Returns:</dt>
-<dd>The Duration representing the specified number of seconds, adjusted.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="ofMillis(long)">
-<h3>ofMillis</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofMillis</span><wbr/><span class="parameters">(long milliseconds)</span></div>
-<div class="block">Creates a duration representing specified number of milliseconds.</div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>milliseconds</code> - The number of milliseconds.</dd>
-<dt>Returns:</dt>
-<dd>The Duration representing the specified number of milliseconds.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="ofNanos(long)">
-<h3>ofNanos</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">ofNanos</span><wbr/><span class="parameters">(long nanoseconds)</span></div>
-<div class="block">Creates a duration representing specified number of nanoseconds.</div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>nanoseconds</code> - The number of nanoseconds.</dd>
-<dt>Returns:</dt>
-<dd>The Duration representing the specified number of nanoseconds.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="toNanos()">
-<h3>toNanos</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toNanos</span>()
-             throws <span class="exceptions"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" title="class or interface in java.lang">ArithmeticException</a></span></div>
-<div class="block">Converts this duration to nanoseconds.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>Total number of nanoseconds in this duration.</dd>
-<dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" title="class or interface in java.lang">ArithmeticException</a></code> - if the resulting value cannot be represented
-                             by <code>long</code> type.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="toNanosPart()">
-<h3>toNanosPart</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">toNanosPart</span>()</div>
-<div class="block">Gets the nanoseconds part of this duration. Equals to <a href="sdk-for-android-explore-com-here-time-duration#getNano()"><code>getNano()</code></a>.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>The nanoseconds part of this duration, value from 0 to 999999999.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="toMillis()">
-<h3>toMillis</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toMillis</span>()
-              throws <span class="exceptions"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" title="class or interface in java.lang">ArithmeticException</a></span></div>
-<div class="block">Converts this duration to milliseconds. Any data past milliseconds precision is
- simply discarded. There is no mathematical rounding, so a duration
- of 999999 nanoseconds will still be converted to 0 milliseconds.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>Total number of milliseconds in this duration.</dd>
-<dt>Throws:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" title="class or interface in java.lang">ArithmeticException</a></code> - if the resulting value cannot be represented
-                             by <code>long</code> type.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="toMillisPart()">
-<h3>toMillisPart</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">toMillisPart</span>()</div>
-<div class="block">Gets the milliseconds part of this duration.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>The milliseconds part of this duration.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="toSeconds()">
-<h3>toSeconds</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toSeconds</span>()</div>
-<div class="block">Converts this duration to seconds. Any data past seconds precision is
- simply discarded. There is no mathematical rounding, so a duration
- of 999 milliseconds will still be converted to 0 seconds.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>Total number of seconds in this duration.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="toSecondsPart()">
-<h3>toSecondsPart</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">toSecondsPart</span>()</div>
-<div class="block">Gets the seconds part of this duration.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>The seconds part of this duration, value from 0 to 59.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="toMinutes()">
-<h3>toMinutes</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toMinutes</span>()</div>
-<div class="block">Converts this duration to minutes. Any data past minute precision is
- simply discarded. There is no mathematical rounding, so a duration
- of 59 seconds and 999 milliseconds will still be converted to 0 minutes.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>Total number of minutes in this duration.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="toMinutesPart()">
-<h3>toMinutesPart</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">toMinutesPart</span>()</div>
-<div class="block">Gets the minutes part of this duration.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>The minutes part of this duration, value from 0 to 59.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="toHours()">
-<h3>toHours</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toHours</span>()</div>
-<div class="block">Converts this duration to hours. Any data past hour precision is
- simply discarded. There is no mathematical rounding, so a duration
- of 59 minutes and 59 seconds will still be converted to 0 hours.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>The number of full hours in this duration.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="toHoursPart()">
-<h3>toHoursPart</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">toHoursPart</span>()</div>
-<div class="block">Gets the hours part of this duration.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>The hours part of this duration, value from 0 to 23.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="toDays()">
-<h3>toDays</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toDays</span>()</div>
-<div class="block">Converts this duration to days. Any data past day precision is
- simply discarded. There is no mathematical rounding, so a duration
- of 23 hours 59 minutes and 59 seconds will still be converted to 0 days.
- Day is always assumed to be 24 hours.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>The number of full days in this duration.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="toDaysPart()">
-<h3>toDaysPart</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toDaysPart</span>()</div>
-<div class="block">Same as <a href="sdk-for-android-explore-com-here-time-duration#toDays()"><code>toDays()</code></a>.</div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd>The number of full days in this duration.</dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="compareTo(com.here.time.Duration)">
-<h3>compareTo</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">compareTo</span><wbr/><span class="parameters">(<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a> duration)</span></div>
-<dl class="notes">
-<dt>Specified by:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html#compareTo(T)" title="class or interface in java.lang">compareTo</a></code> in interface <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-com-here-time-duration" title="class in com.here.time">Duration</a>&gt;</code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="equals(java.lang.Object)">
-<h3>equals</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> o)</span></div>
-<dl class="notes">
-<dt>Overrides:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a></code> in class <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="hashCode()">
-<h3>hashCode</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()</div>
-<dl class="notes">
-<dt>Overrides:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a></code> in class <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></code></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object → com.here.time.Duration
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+All Implemented Interfaces:  
+<a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
+class="external-link"
+title="class or interface in java.lang"><code>Comparable</code></a>`<`[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")`>`
+
+<div class="type-signature">
+
+<span class="modifiers">public final class
+</span><span class="element-name type-name-label">Duration</span>
+<span class="extends-implements">extends <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+class="external-link" title="class or interface in java.lang">Object</a>
+implements <a
+href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
+class="external-link"
+title="class or interface in java.lang">Comparable</a><[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")></span>
+
 </div>
 
+<div class="block">
 
+Represents duration in time (both positive and negative). The duration
+is represented as number of seconds (see getSeconds() ) and number of
+nanonseconds in a second (see getNano() ). Duration can be created from
+various units of time by calling on of of\* methods. The to\* family of
+methods convert duration to a value expressed in desired unit of time.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Static Methods
+  Instance Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>compareTo(Duration duration)</code></pre></td>
+  <td> </td>
+  </tr>
+  <tr>
+  <td><code>boolean</code></td>
+  <td><pre><code>equals(Object o)</code></pre></td>
+  <td> </td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>getNano()</code></pre></td>
+  <td> </td>
+  </tr>
+  <tr>
+  <td><code>long</code></td>
+  <td><pre><code>getSeconds()</code></pre></td>
+  <td> </td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>hashCode()</code></pre></td>
+  <td> </td>
+  </tr>
+  <tr>
+  <td><code>static </code><a
+  href="sdk-for-android-explore-com-here-time-duration"
+  title="class in com.here.time"><code>Duration</code></a></td>
+  <td><pre><code>ofDays(long days)</code></pre></td>
+  <td><div class="block">
+  Creates a duration representing specified number of days.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static </code><a
+  href="sdk-for-android-explore-com-here-time-duration"
+  title="class in com.here.time"><code>Duration</code></a></td>
+  <td><pre><code>ofHours(long hours)</code></pre></td>
+  <td><div class="block">
+  Creates a duration representing specified number of hours.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static </code><a
+  href="sdk-for-android-explore-com-here-time-duration"
+  title="class in com.here.time"><code>Duration</code></a></td>
+  <td><pre><code>ofMillis(long milliseconds)</code></pre></td>
+  <td><div class="block">
+  Creates a duration representing specified number of milliseconds.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static </code><a
+  href="sdk-for-android-explore-com-here-time-duration"
+  title="class in com.here.time"><code>Duration</code></a></td>
+  <td><pre><code>ofMinutes(long minutes)</code></pre></td>
+  <td><div class="block">
+  Creates a duration representing specified number of hours.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static </code><a
+  href="sdk-for-android-explore-com-here-time-duration"
+  title="class in com.here.time"><code>Duration</code></a></td>
+  <td><pre><code>ofNanos(long nanoseconds)</code></pre></td>
+  <td><div class="block">
+  Creates a duration representing specified number of nanoseconds.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static </code><a
+  href="sdk-for-android-explore-com-here-time-duration"
+  title="class in com.here.time"><code>Duration</code></a></td>
+  <td><pre><code>ofSeconds(long seconds)</code></pre></td>
+  <td><div class="block">
+  Creates a duration representing specified number of seconds.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static </code><a
+  href="sdk-for-android-explore-com-here-time-duration"
+  title="class in com.here.time"><code>Duration</code></a></td>
+  <td><pre><code>ofSeconds(long seconds,
+   long nanoAdjustment)</code></pre></td>
+  <td><div class="block">
+  Creates a duration representing specified number of seconds and an
+  adjustment in nanoseconds.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>long</code></td>
+  <td><pre><code>toDays()</code></pre></td>
+  <td><div class="block">
+  Converts this duration to days.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>long</code></td>
+  <td><pre><code>toDaysPart()</code></pre></td>
+  <td><div class="block">
+  Same as toDays() .
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>long</code></td>
+  <td><pre><code>toHours()</code></pre></td>
+  <td><div class="block">
+  Converts this duration to hours.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>toHoursPart()</code></pre></td>
+  <td><div class="block">
+  Gets the hours part of this duration.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>long</code></td>
+  <td><pre><code>toMillis()</code></pre></td>
+  <td><div class="block">
+  Converts this duration to milliseconds.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>toMillisPart()</code></pre></td>
+  <td><div class="block">
+  Gets the milliseconds part of this duration.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>long</code></td>
+  <td><pre><code>toMinutes()</code></pre></td>
+  <td><div class="block">
+  Converts this duration to minutes.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>toMinutesPart()</code></pre></td>
+  <td><div class="block">
+  Gets the minutes part of this duration.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>long</code></td>
+  <td><pre><code>toNanos()</code></pre></td>
+  <td><div class="block">
+  Converts this duration to nanoseconds.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>toNanosPart()</code></pre></td>
+  <td><div class="block">
+  Gets the nanoseconds part of this duration.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>long</code></td>
+  <td><pre><code>toSeconds()</code></pre></td>
+  <td><div class="block">
+  Converts this duration to seconds.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>int</code></td>
+  <td><pre><code>toSecondsPart()</code></pre></td>
+  <td><div class="block">
+  Gets the seconds part of this duration.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="getNano()" class="section detail">
+
+    ### getNano
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getNano</span>()
+
+    </div>
+
+    Returns:  
+    The nanoseconds component of this duration.
+
+    </div>
+
+  - <div id="getSeconds()" class="section detail">
+
+    ### getSeconds
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">getSeconds</span>()
+
+    </div>
+
+    Returns:  
+    The seconds component of this duration.
+
+    </div>
+
+  - <div id="ofDays(long)" class="section detail">
+
+    ### ofDays
+
+    <div class="member-signature">
+
+    <span class="modifiers">public
+    static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofDays</span><span class="parameters">(long days)</span>
+    throws <span class="exceptions"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
+    class="external-link"
+    title="class or interface in java.lang">ArithmeticException</a></span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a duration representing specified number of days. A Day is
+    assumed to always be 24 hours.
+
+    </div>
+
+    Parameters:  
+    `days` - The number of days.
+
+    Returns:  
+    The Duration representing the specified number of days.
+
+    Throws:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>ArithmeticException</code></a> -
+    if the input is outside the range possible to represent by a
+    Duration
+
+    </div>
+
+  - <div id="ofHours(long)" class="section detail">
+
+    ### ofHours
+
+    <div class="member-signature">
+
+    <span class="modifiers">public
+    static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofHours</span><span class="parameters">(long hours)</span>
+    throws <span class="exceptions"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
+    class="external-link"
+    title="class or interface in java.lang">ArithmeticException</a></span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a duration representing specified number of hours. An hour
+    is assumed to always be 60 minutes.
+
+    </div>
+
+    Parameters:  
+    `hours` - The number of hours.
+
+    Returns:  
+    The Duration representing the specified number of hours.
+
+    Throws:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>ArithmeticException</code></a> -
+    if the input is outside the range possible to represent by a
+    Duration
+
+    </div>
+
+  - <div id="ofMinutes(long)" class="section detail">
+
+    ### ofMinutes
+
+    <div class="member-signature">
+
+    <span class="modifiers">public
+    static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofMinutes</span><span class="parameters">(long minutes)</span>
+    throws <span class="exceptions"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
+    class="external-link"
+    title="class or interface in java.lang">ArithmeticException</a></span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a duration representing specified number of hours. A minute
+    is assumed to always be 60 seconds.
+
+    </div>
+
+    Parameters:  
+    `minutes` - The number of minutes.
+
+    Returns:  
+    The Duration representing the specified number of minutes.
+
+    Throws:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>ArithmeticException</code></a> -
+    if the input is outside the range possible to represent by a
+    Duration
+
+    </div>
+
+  - <div id="ofSeconds(long)" class="section detail">
+
+    ### ofSeconds
+
+    <div class="member-signature">
+
+    <span class="modifiers">public
+    static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofSeconds</span><span class="parameters">(long seconds)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a duration representing specified number of seconds.
+
+    </div>
+
+    Parameters:  
+    `seconds` - The number of seconds.
+
+    Returns:  
+    The Duration representing the specified number of seconds.
+
+    </div>
+
+  - <div id="ofSeconds(long,long)" class="section detail">
+
+    ### ofSeconds
+
+    <div class="member-signature">
+
+    <span class="modifiers">public
+    static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofSeconds</span><span class="parameters">(long seconds,
+    long nanoAdjustment)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a duration representing specified number of seconds and an
+    adjustment in nanoseconds.
+
+    </div>
+
+    Parameters:  
+    `seconds` - The number of seconds.
+
+    `nanoAdjustment` - The nanosecond adjustment to the number of
+    seconds.
+
+    Returns:  
+    The Duration representing the specified number of seconds, adjusted.
+
+    </div>
+
+  - <div id="ofMillis(long)" class="section detail">
+
+    ### ofMillis
+
+    <div class="member-signature">
+
+    <span class="modifiers">public
+    static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofMillis</span><span class="parameters">(long milliseconds)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a duration representing specified number of milliseconds.
+
+    </div>
+
+    Parameters:  
+    `milliseconds` - The number of milliseconds.
+
+    Returns:  
+    The Duration representing the specified number of milliseconds.
+
+    </div>
+
+  - <div id="ofNanos(long)" class="section detail">
+
+    ### ofNanos
+
+    <div class="member-signature">
+
+    <span class="modifiers">public
+    static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofNanos</span><span class="parameters">(long nanoseconds)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a duration representing specified number of nanoseconds.
+
+    </div>
+
+    Parameters:  
+    `nanoseconds` - The number of nanoseconds.
+
+    Returns:  
+    The Duration representing the specified number of nanoseconds.
+
+    </div>
+
+  - <div id="toNanos()" class="section detail">
+
+    ### toNanos
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toNanos</span>()
+    throws <span class="exceptions"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
+    class="external-link"
+    title="class or interface in java.lang">ArithmeticException</a></span>
+
+    </div>
+
+    <div class="block">
+
+    Converts this duration to nanoseconds.
+
+    </div>
+
+    Returns:  
+    Total number of nanoseconds in this duration.
+
+    Throws:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>ArithmeticException</code></a> -
+    if the resulting value cannot be represented by `long` type.
+
+    </div>
+
+  - <div id="toNanosPart()" class="section detail">
+
+    ### toNanosPart
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">toNanosPart</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the nanoseconds part of this duration. Equals to getNano() .
+
+    </div>
+
+    Returns:  
+    The nanoseconds part of this duration, value from 0 to 999999999.
+
+    </div>
+
+  - <div id="toMillis()" class="section detail">
+
+    ### toMillis
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toMillis</span>()
+    throws <span class="exceptions"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
+    class="external-link"
+    title="class or interface in java.lang">ArithmeticException</a></span>
+
+    </div>
+
+    <div class="block">
+
+    Converts this duration to milliseconds. Any data past milliseconds
+    precision is simply discarded. There is no mathematical rounding, so
+    a duration of 999999 nanoseconds will still be converted to 0
+    milliseconds.
+
+    </div>
+
+    Returns:  
+    Total number of milliseconds in this duration.
+
+    Throws:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>ArithmeticException</code></a> -
+    if the resulting value cannot be represented by `long` type.
+
+    </div>
+
+  - <div id="toMillisPart()" class="section detail">
+
+    ### toMillisPart
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">toMillisPart</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the milliseconds part of this duration.
+
+    </div>
+
+    Returns:  
+    The milliseconds part of this duration.
+
+    </div>
+
+  - <div id="toSeconds()" class="section detail">
+
+    ### toSeconds
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toSeconds</span>()
+
+    </div>
+
+    <div class="block">
+
+    Converts this duration to seconds. Any data past seconds precision
+    is simply discarded. There is no mathematical rounding, so a
+    duration of 999 milliseconds will still be converted to 0 seconds.
+
+    </div>
+
+    Returns:  
+    Total number of seconds in this duration.
+
+    </div>
+
+  - <div id="toSecondsPart()" class="section detail">
+
+    ### toSecondsPart
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">toSecondsPart</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the seconds part of this duration.
+
+    </div>
+
+    Returns:  
+    The seconds part of this duration, value from 0 to 59.
+
+    </div>
+
+  - <div id="toMinutes()" class="section detail">
+
+    ### toMinutes
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toMinutes</span>()
+
+    </div>
+
+    <div class="block">
+
+    Converts this duration to minutes. Any data past minute precision is
+    simply discarded. There is no mathematical rounding, so a duration
+    of 59 seconds and 999 milliseconds will still be converted to 0
+    minutes.
+
+    </div>
+
+    Returns:  
+    Total number of minutes in this duration.
+
+    </div>
+
+  - <div id="toMinutesPart()" class="section detail">
+
+    ### toMinutesPart
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">toMinutesPart</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the minutes part of this duration.
+
+    </div>
+
+    Returns:  
+    The minutes part of this duration, value from 0 to 59.
+
+    </div>
+
+  - <div id="toHours()" class="section detail">
+
+    ### toHours
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toHours</span>()
+
+    </div>
+
+    <div class="block">
+
+    Converts this duration to hours. Any data past hour precision is
+    simply discarded. There is no mathematical rounding, so a duration
+    of 59 minutes and 59 seconds will still be converted to 0 hours.
+
+    </div>
+
+    Returns:  
+    The number of full hours in this duration.
+
+    </div>
+
+  - <div id="toHoursPart()" class="section detail">
+
+    ### toHoursPart
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">toHoursPart</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the hours part of this duration.
+
+    </div>
+
+    Returns:  
+    The hours part of this duration, value from 0 to 23.
+
+    </div>
+
+  - <div id="toDays()" class="section detail">
+
+    ### toDays
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toDays</span>()
+
+    </div>
+
+    <div class="block">
+
+    Converts this duration to days. Any data past day precision is
+    simply discarded. There is no mathematical rounding, so a duration
+    of 23 hours 59 minutes and 59 seconds will still be converted to 0
+    days. Day is always assumed to be 24 hours.
+
+    </div>
+
+    Returns:  
+    The number of full days in this duration.
+
+    </div>
+
+  - <div id="toDaysPart()" class="section detail">
+
+    ### toDaysPart
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toDaysPart</span>()
+
+    </div>
+
+    <div class="block">
+
+    Same as toDays() .
+
+    </div>
+
+    Returns:  
+    The number of full days in this duration.
+
+    </div>
+
+  - <div id="compareTo(com.here.time.Duration)" class="section detail">
+
+    ### compareTo
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">compareTo</span><span class="parameters">([Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time") duration)</span>
+
+    </div>
+
+    Specified by:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html#compareTo(T)"
+    class="external-link"
+    title="class or interface in java.lang"><code>compareTo</code></a> in
+    interface <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Comparable</code></a>`<`[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")`>`
+
+    </div>
+
+  - <div id="equals(java.lang.Object)" class="section detail">
+
+    ### equals
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link" title="class or interface in java.lang">Object</a> o)</span>
+
+    </div>
+
+    Overrides:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+    class="external-link"
+    title="class or interface in java.lang"><code>equals</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  - <div id="hashCode()" class="section detail">
+
+    ### hashCode
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">hashCode</span>()
+
+    </div>
+
+    Overrides:  
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+    class="external-link"
+    title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+    class="external-link"
+    title="class or interface in java.lang"><code>Object</code></a>
+
+    </div>
+
+  </div>
+
+</div>
+

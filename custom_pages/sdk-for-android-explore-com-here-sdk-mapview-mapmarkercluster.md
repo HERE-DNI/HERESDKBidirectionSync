@@ -3,312 +3,570 @@ title: "MapMarkerCluster (API Reference)"
 slug: "sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster"
 ---
 
-<HTMLBlock>{
-`
-<div class="sdk-for-android">
-<!-- MapMarkerCluster.html -->
+<div class="sub-title">
 
-
-
-
-
-
-<div class="flex-box">
-
-<div class="flex-content">
-
-<!-- ======== START OF CLASS DATA ======== -->
-<div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<span class="package-label-in-type">Package</span> [com.here.sdk.mapview](sdk-for-android-explore-com-here-sdk-mapview-package-summary)
 
 </div>
-<div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">com.here.NativeBase</a>
-<div class="inheritance">com.here.sdk.mapview.MapMarkerCluster</div>
-</div>
-</div>
-<section class="class-description" id="class-description">
 
-<div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapMarkerCluster</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-com-here-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>Groups map markers and enables their clustering to reduce visual clutter when there are many of
- them in a small area.
- The markers that are close to each other are replaced by a single cluster marker. Cluster groups
- are generated based on geographical distance between objects, not based on screen space collision.
- Hence it is possible, that cluster markers can overlap.
- The markers can be added to a cluster or to a scene, but not to both. To display the cluster on the
- map, add it to the scene using <a href="sdk-for-android-explore-mapscene#addMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)"><code>MapScene.addMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)</code></a>. The display of a cluster is only
- guaranteed in case its origin is within the viewport. At the moment, this is a known limitation
- that mostly affects clusters which are visually large and cover a sizeable part of the viewport.
- Markers part of the cluster with opacity set to zero are still on the map and are considered for picking and clustering.</p></div>
-</section>
-<section class="summary">
-<ul class="summary-list">
-<!-- ======== NESTED CLASS SUMMARY ======== -->
-<li>
-<section class="nested-class-summary" id="nested-class-summary">
+<div class="inheritance" title="Inheritance Tree">
 
-<div class="caption"><span>Nested Classes</span></div>
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Class</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">Styling options for a marker cluster which is represented by the marker count as a text.</div>
-</div>
-<div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-grouping" title="class in com.here.sdk.mapview">MapMarkerCluster.Grouping</a></code></div>
-<div class="col-last odd-row-color">
-<div class="block">Represents a group of map markers belonging to a cluster.</div>
-</div>
-<div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a></code></div>
-<div class="col-last even-row-color">
-<div class="block">This class specifies the visual appearance of a cluster marker.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ======== CONSTRUCTOR SUMMARY ======== -->
-<li>
-<section class="constructor-summary" id="constructor-summary">
-
-<div class="caption"><span>Constructors</span></div>
-<div class="summary-table two-column-summary">
-<div class="table-header col-first">Constructor</div>
-<div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#%3Cinit%3E(com.here.sdk.mapview.MapMarkerCluster.ImageStyle)">MapMarkerCluster</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a> imageStyle)</code></div>
-<div class="col-last even-row-color">
-<div class="block">Creates a new instance of a map marker cluster which is represented as an image.</div>
-</div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#%3Cinit%3E(com.here.sdk.mapview.MapMarkerCluster.ImageStyle,com.here.sdk.mapview.MapMarkerCluster.CounterStyle)">MapMarkerCluster</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a> imageStyle,
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a> counterStyle)</code></div>
-<div class="col-last odd-row-color">
-<div class="block">Creates a new instance of a map marker cluster which is represented as an image along with a counter
- showing how many markers are actually grouped under particular cluster icon.</div>
-</div>
-</div>
-</section>
-</li>
-<!-- ========== METHOD SUMMARY =========== -->
-<li>
-<section class="method-summary" id="method-summary">
-
-<div id="method-summary-table">
-<div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
-<div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
-<div class="summary-table three-column-summary">
-<div class="table-header col-first">Modifier and Type</div>
-<div class="table-header col-second">Method</div>
-<div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#addMapMarker(com.here.sdk.mapview.MapMarker)">addMapMarker</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Adds a map marker to this cluster.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#addMapMarkers(java.util.List)">addMapMarkers</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Adds a list of map markers to this cluster.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#getMarkers()">getMarkers</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Returns the list of map markers which currently belong to this cluster.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>double</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#getOpacity()">getOpacity</a>()</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the current opacity of the marker cluster image.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#removeAllMapMarkers()">removeAllMapMarkers</a>()</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Removes all map markers from this cluster.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#removeMapMarker(com.here.sdk.mapview.MapMarker)">removeMapMarker</a><wbr/>(<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Removes a map marker from this cluster.</div>
-</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#removeMapMarkers(java.util.List)">removeMapMarkers</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</code></div>
-<div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Removes a list of map markers from this cluster.</div>
-</div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster#setOpacity(double)">setOpacity</a><wbr/>(double value)</code></div>
-<div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Sets the opacity of the marker cluster image.</div>
-</div>
-</div>
-</div>
-</div>
-<div class="inherited-list">
-<h3 id="methods-inherited-from-class-java.lang.Object">Methods inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></h3>
-<code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" title="class or interface in java.lang">clone</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" title="class or interface in java.lang">equals</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" title="class or interface in java.lang">finalize</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" title="class or interface in java.lang">getClass</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" title="class or interface in java.lang">hashCode</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" title="class or interface in java.lang">notify</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" title="class or interface in java.lang">notifyAll</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" title="class or interface in java.lang">toString</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" title="class or interface in java.lang">wait</a>, <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" title="class or interface in java.lang">wait</a></code></div>
-</section>
-</li>
-</ul>
-</section>
-<section class="details">
-<ul class="details-list">
-<!-- ========= CONSTRUCTOR DETAIL ======== -->
-<li>
-<section class="constructor-details" id="constructor-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapMarkerCluster.ImageStyle)">
-<h3>MapMarkerCluster</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMarkerCluster</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a> imageStyle)</span></div>
-<div class="block"><p>Creates a new instance of a map marker cluster which is represented as an image.
- Any modification to object passed as <code>imageStyle</code> after creation of <code>MapMarkerCluster</code> does not have any effect.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>imageStyle</code> - <p>The visual representation for the cluster.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapMarkerCluster.ImageStyle,com.here.sdk.mapview.MapMarkerCluster.CounterStyle)">
-<h3>MapMarkerCluster</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMarkerCluster</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle" title="class in com.here.sdk.mapview">MapMarkerCluster.ImageStyle</a> imageStyle,
- @NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle" title="class in com.here.sdk.mapview">MapMarkerCluster.CounterStyle</a> counterStyle)</span></div>
-<div class="block"><p>Creates a new instance of a map marker cluster which is represented as an image along with a counter
- showing how many markers are actually grouped under particular cluster icon.
- Any modification to <code>imageStyle</code> or <code>counterStyle</code> after creation of <code>MapMarkerCluster</code> does not have any effect.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>imageStyle</code> - <p>Describes the visual appearance of cluster icon.</p></dd>
-<dd><code>counterStyle</code> - <p>Describes the appearance of marker count label.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-<!-- ============ METHOD DETAIL ========== -->
-<li>
-<section class="method-details" id="method-detail">
-
-<ul class="member-list">
-<li>
-<section class="detail" id="addMapMarker(com.here.sdk.mapview.MapMarker)">
-<h3>addMapMarker</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarker</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</span></div>
-<div class="block"><p>Adds a map marker to this cluster. Adding a marker which is already part of the cluster or
- which was already added to the map scene has no effect.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>marker</code> - <p>The marker.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="addMapMarkers(java.util.List)">
-<h3>addMapMarkers</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</span></div>
-<div class="block"><p>Adds a list of map markers to this cluster.
- Markers which are already part of the cluster or
- which were already added to the map scene will be ignored.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>markers</code> - <p>The list of markers.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="removeMapMarker(com.here.sdk.mapview.MapMarker)">
-<h3>removeMapMarker</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarker</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a> marker)</span></div>
-<div class="block"><p>Removes a map marker from this cluster.
- Removing a marker which is not part of this cluster has no effect.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>marker</code> - <p>The marker.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="removeMapMarkers(java.util.List)">
-<h3>removeMapMarkers</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</span></div>
-<div class="block"><p>Removes a list of map markers from this cluster.
- Removing markers which are not part of this cluster has no effect.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>markers</code> - <p>The list of markers.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="removeAllMapMarkers()">
-<h3>removeAllMapMarkers</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeAllMapMarkers</span>()</div>
-<div class="block"><p>Removes all map markers from this cluster.</p></div>
-</section>
-</li>
-<li>
-<section class="detail" id="getMarkers()">
-<h3>getMarkers</h3>
-<div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt;</span> <span class="element-name">getMarkers</span>()</div>
-<div class="block"><p>Returns the list of map markers which currently belong to this cluster.
- Modifying the list has no effect on the marker cluster.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>The list of map markers which currently belong to this cluster.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="getOpacity()">
-<h3>getOpacity</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">getOpacity</span>()</div>
-<div class="block"><p>Gets the current opacity of the marker cluster image.</p></div>
-<dl class="notes">
-<dt>Returns:</dt>
-<dd><p>Opacity is the factor which is applied to the alpha channel of the image used for marker cluster.</p></dd>
-</dl>
-</section>
-</li>
-<li>
-<section class="detail" id="setOpacity(double)">
-<h3>setOpacity</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOpacity</span><wbr/><span class="parameters">(double value)</span></div>
-<div class="block"><p>Sets the opacity of the marker cluster image.
- Provided value is clamped in range [0.0, 1.0]. Default value is 1.0 which means marker cluster
- is displayed with the default opacity of the image.
- Marker clusters with opacity value set to 0.0 are still on the map and are considered for picking.
- Markers part of cluster will use their respective opacity when not displayed as a cluster icon.</p></div>
-<dl class="notes">
-<dt>Parameters:</dt>
-<dd><code>value</code> - <p>Opacity is the factor which is applied to the alpha channel of the image used for marker cluster.</p></dd>
-</dl>
-</section>
-</li>
-</ul>
-</section>
-</li>
-</ul>
-</section>
-<!-- ========= END OF CLASS DATA ========= -->
+java.lang.Object →
+com.here.NativeBasecom.here.sdk.mapview.MapMarkerCluster →
+com.here.NativeBase → com.here.sdk.mapview.MapMarkerCluster
 
 </div>
+
+<div id="class-description" class="section class-description">
+
+<div class="type-signature">
+
+<span class="modifiers">public final class
+</span><span class="element-name type-name-label">MapMarkerCluster</span>
+<span class="extends-implements">extends
+[NativeBase](sdk-for-android-explore-com-here-nativebase "class in com.here")</span>
+
 </div>
 
+<div class="block">
 
+Groups map markers and enables their clustering to reduce visual clutter
+when there are many of them in a small area. The markers that are close
+to each other are replaced by a single cluster marker. Cluster groups
+are generated based on geographical distance between objects, not based
+on screen space collision. Hence it is possible, that cluster markers
+can overlap. The markers can be added to a cluster or to a scene, but
+not to both. To display the cluster on the map, add it to the scene
+using
+MapScene.addMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster) .
+The display of a cluster is only guaranteed in case its origin is within
+the viewport. At the moment, this is a known limitation that mostly
+affects clusters which are visually large and cover a sizeable part of
+the viewport. Markers part of the cluster with opacity set to zero are
+still on the map and are considered for picking and clustering.
 
 </div>
-`
-}</HTMLBlock>
+
+</div>
+
+<div class="section summary">
+
+- <div id="nested-class-summary" class="section nested-class-summary">
+
+  <div class="caption">
+
+  Nested Classes
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Class</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>static final class </code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapMarkerCluster.CounterStyle</code></a></td>
+  <td><div class="block">
+  Styling options for a marker cluster which is represented by the marker
+  count as a text.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static final class </code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-grouping"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapMarkerCluster.Grouping</code></a></td>
+  <td><div class="block">
+  Represents a group of map markers belonging to a cluster.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>static final class </code></td>
+  <td><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle"
+  class="type-name-link"
+  title="class in com.here.sdk.mapview"><code>MapMarkerCluster.ImageStyle</code></a></td>
+  <td><div class="block">
+  This class specifies the visual appearance of a cluster marker.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="constructor-summary" class="section constructor-summary">
+
+  <div class="caption">
+
+  Constructors
+
+  </div>
+
+  <table>
+  <colgroup>
+  <col style="width: 50%" />
+  <col style="width: 50%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Constructor</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><pre><code>MapMarkerCluster(MapMarkerCluster.ImageStyle imageStyle)</code></pre></td>
+  <td><div class="block">
+  Creates a new instance of a map marker cluster which is represented as
+  an image.
+  </div></td>
+  </tr>
+  <tr>
+  <td><pre><code>MapMarkerCluster(MapMarkerCluster.ImageStyle imageStyle,
+   MapMarkerCluster.CounterStyle counterStyle)</code></pre></td>
+  <td><div class="block">
+  Creates a new instance of a map marker cluster which is represented as
+  an image along with a counter showing how many markers are actually
+  grouped under particular cluster icon.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+- <div id="method-summary" class="section method-summary">
+
+  <div id="method-summary-table">
+
+  <div class="table-tabs" aria-orientation="horizontal" role="tablist">
+
+  All Methods
+  Instance Methods
+  Concrete Methods
+
+  </div>
+
+  <div id="method-summary-table.tabpanel"
+  aria-labelledby="method-summary-table-tab0" role="tabpanel">
+
+  <table>
+  <colgroup>
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  <col style="width: 33%" />
+  </colgroup>
+  <thead>
+  <tr>
+  <th>Modifier and Type</th>
+  <th>Method</th>
+  <th>Description</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><code>void</code></td>
+  <td><pre><code>addMapMarker(MapMarker marker)</code></pre></td>
+  <td><div class="block">
+  Adds a map marker to this cluster.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>void</code></td>
+  <td><pre><code>addMapMarkers(List&lt;MapMarker&gt; markers)</code></pre></td>
+  <td><div class="block">
+  Adds a list of map markers to this cluster.
+  </div></td>
+  </tr>
+  <tr>
+  <td><a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+  class="external-link"
+  title="class or interface in java.util"><code>List</code></a><code>&lt;</code><a
+  href="sdk-for-android-explore-com-here-sdk-mapview-mapmarker"
+  title="class in com.here.sdk.mapview"><code>MapMarker</code></a><code>&gt;</code></td>
+  <td><pre><code>getMarkers()</code></pre></td>
+  <td><div class="block">
+  Returns the list of map markers which currently belong to this cluster.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>double</code></td>
+  <td><pre><code>getOpacity()</code></pre></td>
+  <td><div class="block">
+  Gets the current opacity of the marker cluster image.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>void</code></td>
+  <td><pre><code>removeAllMapMarkers()</code></pre></td>
+  <td><div class="block">
+  Removes all map markers from this cluster.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>void</code></td>
+  <td><pre><code>removeMapMarker(MapMarker marker)</code></pre></td>
+  <td><div class="block">
+  Removes a map marker from this cluster.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>void</code></td>
+  <td><pre><code>removeMapMarkers(List&lt;MapMarker&gt; markers)</code></pre></td>
+  <td><div class="block">
+  Removes a list of map markers from this cluster.
+  </div></td>
+  </tr>
+  <tr>
+  <td><code>void</code></td>
+  <td><pre><code>setOpacity(double value)</code></pre></td>
+  <td><div class="block">
+  Sets the opacity of the marker cluster image.
+  </div></td>
+  </tr>
+  </tbody>
+  </table>
+
+  </div>
+
+  </div>
+
+  <div class="inherited-list">
+
+  ### Methods inherited from class java.lang.<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
+  class="external-link" title="class or interface in java.lang">Object</a>
+
+  <a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
+  class="external-link"
+  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
+  class="external-link"
+  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
+  class="external-link"
+  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
+  class="external-link"
+  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
+  class="external-link"
+  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
+  class="external-link"
+  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
+  class="external-link"
+  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
+  class="external-link"
+  title="class or interface in java.lang"><code>wait</code></a>
+
+  </div>
+
+  </div>
+
+</div>
+
+<div class="section details">
+
+- <div id="constructor-detail" class="section constructor-details">
+
+  - <div id="<init>(com.here.sdk.mapview.MapMarkerCluster.ImageStyle)"
+    class="section detail">
+
+    ### MapMarkerCluster
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">MapMarkerCluster</span><span class="parameters">(@NonNull
+    [MapMarkerCluster.ImageStyle](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle "class in com.here.sdk.mapview") imageStyle)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance of a map marker cluster which is represented
+    as an image. Any modification to object passed as imageStyle after
+    creation of MapMarkerCluster does not have any effect.
+
+    </div>
+
+    Parameters:  
+    `imageStyle` -
+
+    The visual representation for the cluster.
+
+    </div>
+
+  - <div id="<init>(com.here.sdk.mapview.MapMarkerCluster.ImageStyle,com.here.sdk.mapview.MapMarkerCluster.CounterStyle)"
+    class="section detail">
+
+    ### MapMarkerCluster
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="element-name">MapMarkerCluster</span><span class="parameters">(@NonNull
+    [MapMarkerCluster.ImageStyle](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-imagestyle "class in com.here.sdk.mapview") imageStyle,
+    @NonNull
+    [MapMarkerCluster.CounterStyle](sdk-for-android-explore-com-here-sdk-mapview-mapmarkercluster-counterstyle "class in com.here.sdk.mapview") counterStyle)</span>
+
+    </div>
+
+    <div class="block">
+
+    Creates a new instance of a map marker cluster which is represented
+    as an image along with a counter showing how many markers are
+    actually grouped under particular cluster icon. Any modification to
+    imageStyle or counterStyle after creation of MapMarkerCluster does
+    not have any effect.
+
+    </div>
+
+    Parameters:  
+    `imageStyle` -
+
+    Describes the visual appearance of cluster icon.
+
+    `counterStyle` -
+
+    Describes the appearance of marker count label.
+
+    </div>
+
+  </div>
+
+- <div id="method-detail" class="section method-details">
+
+  - <div id="addMapMarker(com.here.sdk.mapview.MapMarker)"
+    class="section detail">
+
+    ### addMapMarker
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarker</span><span class="parameters">(@NonNull
+    [MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview") marker)</span>
+
+    </div>
+
+    <div class="block">
+
+    Adds a map marker to this cluster. Adding a marker which is already
+    part of the cluster or which was already added to the map scene has
+    no effect.
+
+    </div>
+
+    Parameters:  
+    `marker` -
+
+    The marker.
+
+    </div>
+
+  - <div id="addMapMarkers(java.util.List)" class="section detail">
+
+    ### addMapMarkers
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers</span><span class="parameters">(@NonNull
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")> markers)</span>
+
+    </div>
+
+    <div class="block">
+
+    Adds a list of map markers to this cluster. Markers which are
+    already part of the cluster or which were already added to the map
+    scene will be ignored.
+
+    </div>
+
+    Parameters:  
+    `markers` -
+
+    The list of markers.
+
+    </div>
+
+  - <div id="removeMapMarker(com.here.sdk.mapview.MapMarker)"
+    class="section detail">
+
+    ### removeMapMarker
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarker</span><span class="parameters">(@NonNull
+    [MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview") marker)</span>
+
+    </div>
+
+    <div class="block">
+
+    Removes a map marker from this cluster. Removing a marker which is
+    not part of this cluster has no effect.
+
+    </div>
+
+    Parameters:  
+    `marker` -
+
+    The marker.
+
+    </div>
+
+  - <div id="removeMapMarkers(java.util.List)" class="section detail">
+
+    ### removeMapMarkers
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers</span><span class="parameters">(@NonNull
+    <a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")> markers)</span>
+
+    </div>
+
+    <div class="block">
+
+    Removes a list of map markers from this cluster. Removing markers
+    which are not part of this cluster has no effect.
+
+    </div>
+
+    Parameters:  
+    `markers` -
+
+    The list of markers.
+
+    </div>
+
+  - <div id="removeAllMapMarkers()" class="section detail">
+
+    ### removeAllMapMarkers
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeAllMapMarkers</span>()
+
+    </div>
+
+    <div class="block">
+
+    Removes all map markers from this cluster.
+
+    </div>
+
+    </div>
+
+  - <div id="getMarkers()" class="section detail">
+
+    ### getMarkers
+
+    <div class="member-signature">
+
+    <span class="annotations">@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a
+    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
+    class="external-link" title="class or interface in java.util">List</a><[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")></span> <span class="element-name">getMarkers</span>()
+
+    </div>
+
+    <div class="block">
+
+    Returns the list of map markers which currently belong to this
+    cluster. Modifying the list has no effect on the marker cluster.
+
+    </div>
+
+    Returns:  
+    The list of map markers which currently belong to this cluster.
+
+    </div>
+
+  - <div id="getOpacity()" class="section detail">
+
+    ### getOpacity
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">getOpacity</span>()
+
+    </div>
+
+    <div class="block">
+
+    Gets the current opacity of the marker cluster image.
+
+    </div>
+
+    Returns:  
+    Opacity is the factor which is applied to the alpha channel of the
+    image used for marker cluster.
+
+    </div>
+
+  - <div id="setOpacity(double)" class="section detail">
+
+    ### setOpacity
+
+    <div class="member-signature">
+
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOpacity</span><span class="parameters">(double value)</span>
+
+    </div>
+
+    <div class="block">
+
+    Sets the opacity of the marker cluster image. Provided value is
+    clamped in range \[0.0, 1.0\]. Default value is 1.0 which means
+    marker cluster is displayed with the default opacity of the image.
+    Marker clusters with opacity value set to 0.0 are still on the map
+    and are considered for picking. Markers part of cluster will use
+    their respective opacity when not displayed as a cluster icon.
+
+    </div>
+
+    Parameters:  
+    `value` -
+
+    Opacity is the factor which is applied to the alpha channel of the
+    image used for marker cluster.
+
+    </div>
+
+  </div>
+
+</div>
+
