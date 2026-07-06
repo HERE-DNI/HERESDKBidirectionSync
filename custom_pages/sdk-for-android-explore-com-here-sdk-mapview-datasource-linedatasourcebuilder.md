@@ -41,8 +41,7 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -84,8 +83,7 @@ APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -217,11 +215,9 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapContext)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapContext)"
     class="section detail">
 
     ### LineDataSourceBuilder
@@ -247,11 +243,9 @@ APIs may change for new releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-withName(java.lang.String)"
+<div id="sdk-for-android-explore-withName(java.lang.String)"
     class="section detail">
 
     ### withName
@@ -279,8 +273,7 @@ APIs may change for new releases without a deprecation process.
     This data source builder instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withPolyline(com.here.sdk.mapview.datasource.LineData)"
+<div id="sdk-for-android-explore-withPolyline(com.here.sdk.mapview.datasource.LineData)"
     class="section detail">
 
     ### withPolyline
@@ -309,8 +302,7 @@ APIs may change for new releases without a deprecation process.
     This data source builder instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withPolylines(java.util.List)"
+<div id="sdk-for-android-explore-withPolylines(java.util.List)"
     class="section detail">
 
     ### withPolylines
@@ -339,8 +331,7 @@ APIs may change for new releases without a deprecation process.
     This data source builder instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-build()" class="section detail">
+<div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

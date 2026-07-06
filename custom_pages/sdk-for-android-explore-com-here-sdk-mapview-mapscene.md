@@ -83,8 +83,7 @@ need to be added to the map.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -161,8 +160,7 @@ need to be added to the map.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -1050,11 +1048,9 @@ need to be added to the map.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
+<div id="sdk-for-android-explore-loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
     class="section detail">
 
     ### loadScene
@@ -1095,8 +1091,7 @@ need to be added to the map.
     Optional callback that will receive the result of this operation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-loadScene(java.lang.String,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
+<div id="sdk-for-android-explore-loadScene(java.lang.String,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
     class="section detail">
 
     ### loadScene
@@ -1138,8 +1133,7 @@ need to be added to the map.
     Optional callback that will receive the result of this operation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-loadScene(java.lang.String,com.here.sdk.mapview.WatermarkStyle,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
+<div id="sdk-for-android-explore-loadScene(java.lang.String,com.here.sdk.mapview.WatermarkStyle,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
     class="section detail">
 
     ### loadScene
@@ -1189,8 +1183,7 @@ need to be added to the map.
     Optional callback that will receive the result of this operation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-loadScene(com.here.sdk.mapview.MapSceneLoadOptions,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
+<div id="sdk-for-android-explore-loadScene(com.here.sdk.mapview.MapSceneLoadOptions,com.here.sdk.mapview.MapScene.LoadSceneCallback)"
     class="section detail">
 
     ### loadScene
@@ -1241,8 +1234,7 @@ need to be added to the map.
     Optional callback that will receive the result of this operation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addMapPolyline(com.here.sdk.mapview.MapPolyline)"
+<div id="sdk-for-android-explore-addMapPolyline(com.here.sdk.mapview.MapPolyline)"
     class="section detail">
 
     ### addMapPolyline
@@ -1266,8 +1258,7 @@ need to be added to the map.
     The map polyline to be added to this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addMapPolylines(java.util.List)"
+<div id="sdk-for-android-explore-addMapPolylines(java.util.List)"
     class="section detail">
 
     ### addMapPolylines
@@ -1298,8 +1289,7 @@ need to be added to the map.
     The map polylines to be added to this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapPolyline(com.here.sdk.mapview.MapPolyline)"
+<div id="sdk-for-android-explore-removeMapPolyline(com.here.sdk.mapview.MapPolyline)"
     class="section detail">
 
     ### removeMapPolyline
@@ -1323,8 +1313,7 @@ need to be added to the map.
     The map polyline to be removed from this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapPolylines(java.util.List)"
+<div id="sdk-for-android-explore-removeMapPolylines(java.util.List)"
     class="section detail">
 
     ### removeMapPolylines
@@ -1348,8 +1337,7 @@ need to be added to the map.
     The map polylines to be removed from this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeAllMapPolylines()"
+<div id="sdk-for-android-explore-removeAllMapPolylines()"
     class="section detail">
 
     ### removeAllMapPolylines
@@ -1367,8 +1355,7 @@ need to be added to the map.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-addMapArrow(com.here.sdk.mapview.MapArrow)"
+<div id="sdk-for-android-explore-addMapArrow(com.here.sdk.mapview.MapArrow)"
     class="section detail">
 
     ### addMapArrow
@@ -1399,8 +1386,7 @@ need to be added to the map.
     The map arrow to be added to this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapArrow(com.here.sdk.mapview.MapArrow)"
+<div id="sdk-for-android-explore-removeMapArrow(com.here.sdk.mapview.MapArrow)"
     class="section detail">
 
     ### removeMapArrow
@@ -1424,8 +1410,7 @@ need to be added to the map.
     The map arrow to be removed from this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addMapMarker(com.here.sdk.mapview.MapMarker)"
+<div id="sdk-for-android-explore-addMapMarker(com.here.sdk.mapview.MapMarker)"
     class="section detail">
 
     ### addMapMarker
@@ -1451,8 +1436,7 @@ need to be added to the map.
     The marker to be added to this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addMapMarkers(java.util.List)"
+<div id="sdk-for-android-explore-addMapMarkers(java.util.List)"
     class="section detail">
 
     ### addMapMarkers
@@ -1485,8 +1469,7 @@ need to be added to the map.
     The list of markers to be added to this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapMarker(com.here.sdk.mapview.MapMarker)"
+<div id="sdk-for-android-explore-removeMapMarker(com.here.sdk.mapview.MapMarker)"
     class="section detail">
 
     ### removeMapMarker
@@ -1512,8 +1495,7 @@ need to be added to the map.
     The marker to be removed from this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapMarkers(java.util.List)"
+<div id="sdk-for-android-explore-removeMapMarkers(java.util.List)"
     class="section detail">
 
     ### removeMapMarkers
@@ -1539,8 +1521,7 @@ need to be added to the map.
     The list of markers to be removed from this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeAllMapMarkers()"
+<div id="sdk-for-android-explore-removeAllMapMarkers()"
     class="section detail">
 
     ### removeAllMapMarkers
@@ -1558,8 +1539,7 @@ need to be added to the map.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-addMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)"
+<div id="sdk-for-android-explore-addMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)"
     class="section detail">
 
     ### addMapMarkerCluster
@@ -1586,8 +1566,7 @@ need to be added to the map.
     The marker cluster to be added to this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)"
+<div id="sdk-for-android-explore-removeMapMarkerCluster(com.here.sdk.mapview.MapMarkerCluster)"
     class="section detail">
 
     ### removeMapMarkerCluster
@@ -1612,8 +1591,7 @@ need to be added to the map.
     The marker cluster to be removed from this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addMapMarker3d(com.here.sdk.mapview.MapMarker3D)"
+<div id="sdk-for-android-explore-addMapMarker3d(com.here.sdk.mapview.MapMarker3D)"
     class="section detail">
 
     ### addMapMarker3d
@@ -1645,8 +1623,7 @@ need to be added to the map.
     The marker to be added to this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addMapMarkers3d(java.util.List)"
+<div id="sdk-for-android-explore-addMapMarkers3d(java.util.List)"
     class="section detail">
 
     ### addMapMarkers3d
@@ -1678,8 +1655,7 @@ need to be added to the map.
     The list of 3D markers to be added to this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapMarker3d(com.here.sdk.mapview.MapMarker3D)"
+<div id="sdk-for-android-explore-removeMapMarker3d(com.here.sdk.mapview.MapMarker3D)"
     class="section detail">
 
     ### removeMapMarker3d
@@ -1704,8 +1680,7 @@ need to be added to the map.
     The marker to be removed from this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapMarkers3d(java.util.List)"
+<div id="sdk-for-android-explore-removeMapMarkers3d(java.util.List)"
     class="section detail">
 
     ### removeMapMarkers3d
@@ -1730,8 +1705,7 @@ need to be added to the map.
     The list of 3D markers to be removed from this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeAllMapMarkers3d()"
+<div id="sdk-for-android-explore-removeAllMapMarkers3d()"
     class="section detail">
 
     ### removeAllMapMarkers3d
@@ -1749,8 +1723,7 @@ need to be added to the map.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-addMapPolygon(com.here.sdk.mapview.MapPolygon)"
+<div id="sdk-for-android-explore-addMapPolygon(com.here.sdk.mapview.MapPolygon)"
     class="section detail">
 
     ### addMapPolygon
@@ -1781,8 +1754,7 @@ need to be added to the map.
     The map polygon to be added to this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addMapPolygons(java.util.List)"
+<div id="sdk-for-android-explore-addMapPolygons(java.util.List)"
     class="section detail">
 
     ### addMapPolygons
@@ -1813,8 +1785,7 @@ need to be added to the map.
     The map polygons to be added to this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapPolygon(com.here.sdk.mapview.MapPolygon)"
+<div id="sdk-for-android-explore-removeMapPolygon(com.here.sdk.mapview.MapPolygon)"
     class="section detail">
 
     ### removeMapPolygon
@@ -1838,8 +1809,7 @@ need to be added to the map.
     The map polygon to be removed from this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapPolygons(java.util.List)"
+<div id="sdk-for-android-explore-removeMapPolygons(java.util.List)"
     class="section detail">
 
     ### removeMapPolygons
@@ -1863,8 +1833,7 @@ need to be added to the map.
     The map polygons to be removed from this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeAllMapPolygons()"
+<div id="sdk-for-android-explore-removeAllMapPolygons()"
     class="section detail">
 
     ### removeAllMapPolygons
@@ -1882,8 +1851,7 @@ need to be added to the map.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"
+<div id="sdk-for-android-explore-addMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"
     class="section detail">
 
     ### addMapImageOverlay
@@ -1908,8 +1876,7 @@ need to be added to the map.
     The overlay to be added to this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"
+<div id="sdk-for-android-explore-removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay)"
     class="section detail">
 
     ### removeMapImageOverlay
@@ -1934,8 +1901,7 @@ need to be added to the map.
     The overlay to be removed from this map scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeAllMapItems()"
+<div id="sdk-for-android-explore-removeAllMapItems()"
     class="section detail">
 
     ### removeAllMapItems
@@ -1955,8 +1921,7 @@ need to be added to the map.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"
+<div id="sdk-for-android-explore-setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"
     class="section detail">
 
     ### setLayerVisibility
@@ -1986,8 +1951,7 @@ need to be added to the map.
     The new visibility state of the layer.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getActiveFeatures()"
+<div id="sdk-for-android-explore-getActiveFeatures()"
     class="section detail">
 
     ### getActiveFeatures
@@ -2014,8 +1978,7 @@ need to be added to the map.
     The map of active features.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSupportedFeatures()"
+<div id="sdk-for-android-explore-getSupportedFeatures()"
     class="section detail">
 
     ### getSupportedFeatures
@@ -2040,8 +2003,7 @@ need to be added to the map.
     The map of supported features and all their modes.
 
     </div>
-
-  - <div id="sdk-for-android-explore-enableFeatures(java.util.Map)"
+<div id="sdk-for-android-explore-enableFeatures(java.util.Map)"
     class="section detail">
 
     ### enableFeatures
@@ -2074,8 +2036,7 @@ need to be added to the map.
     [`MapFeatureModes`](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes "class in com.here.sdk.mapview")).
 
     </div>
-
-  - <div id="sdk-for-android-explore-disableFeatures(java.util.List)"
+<div id="sdk-for-android-explore-disableFeatures(java.util.List)"
     class="section detail">
 
     ### disableFeatures
@@ -2105,8 +2066,7 @@ need to be added to the map.
     [`MapFeatures`](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures "class in com.here.sdk.mapview")).
 
     </div>
-
-  - <div id="sdk-for-android-explore-reloadScene()"
+<div id="sdk-for-android-explore-reloadScene()"
     class="section detail">
 
     ### reloadScene
@@ -2130,8 +2090,7 @@ need to be added to the map.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-getLights()"
+<div id="sdk-for-android-explore-getLights()"
     class="section detail">
 
     ### getLights

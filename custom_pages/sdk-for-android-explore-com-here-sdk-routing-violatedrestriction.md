@@ -36,8 +36,7 @@ the planned trip.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -92,8 +91,7 @@ the planned trip.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -192,8 +190,7 @@ the planned trip.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -236,8 +233,7 @@ the planned trip.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -315,11 +311,9 @@ the planned trip.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-cause" class="section detail">
+<div id="sdk-for-android-explore-cause" class="section detail">
 
     ### cause
 
@@ -339,8 +333,7 @@ the planned trip.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-timeDependent"
+<div id="sdk-for-android-explore-timeDependent"
     class="section detail">
 
     ### timeDependent
@@ -358,8 +351,7 @@ the planned trip.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-details" class="section detail">
+<div id="sdk-for-android-explore-details" class="section detail">
 
     ### details
 
@@ -385,11 +377,9 @@ the planned trip.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,boolean)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,boolean)"
     class="section detail">
 
     ### ViolatedRestriction
@@ -422,11 +412,9 @@ the planned trip.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -442,8 +430,7 @@ the planned trip.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

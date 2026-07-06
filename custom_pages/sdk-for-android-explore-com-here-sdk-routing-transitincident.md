@@ -36,8 +36,7 @@ Disruptions scale from delays to service cancellations.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -223,8 +222,7 @@ Disruptions scale from delays to service cancellations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -272,8 +270,7 @@ Disruptions scale from delays to service cancellations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -351,11 +348,9 @@ Disruptions scale from delays to service cancellations.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-summary" class="section detail">
+<div id="sdk-for-android-explore-summary" class="section detail">
 
     ### summary
 
@@ -373,8 +368,7 @@ Disruptions scale from delays to service cancellations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-description"
+<div id="sdk-for-android-explore-description"
     class="section detail">
 
     ### description
@@ -393,8 +387,7 @@ Disruptions scale from delays to service cancellations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-type" class="section detail">
+<div id="sdk-for-android-explore-type" class="section detail">
 
     ### type
 
@@ -412,8 +405,7 @@ Disruptions scale from delays to service cancellations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-effect" class="section detail">
+<div id="sdk-for-android-explore-effect" class="section detail">
 
     ### effect
 
@@ -431,8 +423,7 @@ Disruptions scale from delays to service cancellations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-validFrom" class="section detail">
+<div id="sdk-for-android-explore-validFrom" class="section detail">
 
     ### validFrom
 
@@ -450,8 +441,7 @@ Disruptions scale from delays to service cancellations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-validUntil" class="section detail">
+<div id="sdk-for-android-explore-validUntil" class="section detail">
 
     ### validUntil
 
@@ -469,8 +459,7 @@ Disruptions scale from delays to service cancellations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-url" class="section detail">
+<div id="sdk-for-android-explore-url" class="section detail">
 
     ### url
 
@@ -490,11 +479,9 @@ Disruptions scale from delays to service cancellations.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,com.here.sdk.routing.TransitIncidentType,com.here.sdk.routing.TransitIncidentEffect,java.util.Date,java.util.Date,java.lang.String)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,com.here.sdk.routing.TransitIncidentType,com.here.sdk.routing.TransitIncidentEffect,java.util.Date,java.util.Date,java.lang.String)"
     class="section detail">
 
     ### TransitIncident
@@ -552,11 +539,9 @@ Disruptions scale from delays to service cancellations.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -572,8 +557,7 @@ Disruptions scale from delays to service cancellations.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

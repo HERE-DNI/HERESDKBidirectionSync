@@ -39,8 +39,7 @@ map scene.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -94,8 +93,7 @@ map scene.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -182,11 +180,9 @@ map scene.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getPickedPlaces()"
+<div id="sdk-for-android-explore-getPickedPlaces()"
     class="section detail">
 
     ### getPickedPlaces
@@ -210,8 +206,7 @@ map scene.
     picking.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTrafficIncidents()"
+<div id="sdk-for-android-explore-getTrafficIncidents()"
     class="section detail">
 
     ### getTrafficIncidents

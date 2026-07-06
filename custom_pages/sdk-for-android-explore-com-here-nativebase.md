@@ -177,7 +177,6 @@ methods if resource cleanup is necessary.
 </div>
 
 <div class="section summary">
-
 <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 

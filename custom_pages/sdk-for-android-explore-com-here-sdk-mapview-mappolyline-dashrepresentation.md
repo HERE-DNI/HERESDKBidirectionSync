@@ -50,8 +50,7 @@ patterns like ' — — — —' (dash length = gap length) or ' ——— —�
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -61,8 +60,7 @@ patterns like ' — — — —' (dash length = gap length) or ' ——— —�
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -128,8 +126,7 @@ patterns like ' — — — —' (dash length = gap length) or ' ——— —�
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -281,11 +278,9 @@ patterns like ' — — — —' (dash length = gap length) or ' ——— —�
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color)"
     class="section detail">
 
     ### DashRepresentation
@@ -348,8 +343,7 @@ patterns like ' — — — —' (dash length = gap length) or ' ——— —�
     In case of invalid input parameters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.core.Color)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.core.Color)"
     class="section detail">
 
     ### DashRepresentation
@@ -420,11 +414,9 @@ patterns like ' — — — —' (dash length = gap length) or ' ——— —�
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getLineWidth()"
+<div id="sdk-for-android-explore-getLineWidth()"
     class="section detail">
 
     ### getLineWidth
@@ -453,8 +445,7 @@ patterns like ' — — — —' (dash length = gap length) or ' ——— —�
     The width of the polyline depending on the map measure.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDashLength()"
+<div id="sdk-for-android-explore-getDashLength()"
     class="section detail">
 
     ### getDashLength
@@ -483,8 +474,7 @@ patterns like ' — — — —' (dash length = gap length) or ' ——— —�
     The dash length of the polyline depending on the map measure.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getGapLength()"
+<div id="sdk-for-android-explore-getGapLength()"
     class="section detail">
 
     ### getGapLength
@@ -513,8 +503,7 @@ patterns like ' — — — —' (dash length = gap length) or ' ——— —�
     The gap length of the polyline depending on the map measure.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDashColor()"
+<div id="sdk-for-android-explore-getDashColor()"
     class="section detail">
 
     ### getDashColor
@@ -536,8 +525,7 @@ patterns like ' — — — —' (dash length = gap length) or ' ——— —�
     The color of the dashes of the polyline.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getGapColor()"
+<div id="sdk-for-android-explore-getGapColor()"
     class="section detail">
 
     ### getGapColor

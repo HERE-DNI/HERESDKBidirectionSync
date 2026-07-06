@@ -51,8 +51,7 @@ indicates also the top-left corner of the map's viewport.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -584,11 +583,9 @@ indicates also the top-left corner of the map's viewport.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate)"
     class="section detail">
 
     ### lookAt
@@ -623,8 +620,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate)"
     class="section detail">
 
     ### lookAt
@@ -665,8 +661,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -708,8 +703,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -757,8 +751,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookToMatch(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.Point2D,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
+<div id="sdk-for-android-explore-lookToMatch(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.Point2D,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookToMatch
@@ -819,8 +812,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookToMatch(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-lookToMatch(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### lookToMatch
@@ -868,8 +860,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(java.util.List,com.here.sdk.core.Rectangle2D,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
+<div id="sdk-for-android-explore-lookAt(java.util.List,com.here.sdk.core.Rectangle2D,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -944,8 +935,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,java.util.List,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapMeasure,com.here.sdk.mapview.MapMeasure)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,java.util.List,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapMeasure,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -1041,8 +1031,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)"
     class="section detail">
 
     ### lookAt
@@ -1096,8 +1085,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.Rectangle2D)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.Rectangle2D)"
     class="section detail">
 
     ### lookAt
@@ -1145,8 +1133,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox)"
     class="section detail">
 
     ### lookAt
@@ -1180,8 +1167,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-panBy(double,double)"
+<div id="sdk-for-android-explore-panBy(double,double)"
     class="section detail">
 
     ### panBy
@@ -1216,8 +1202,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### orbitBy
@@ -1259,8 +1244,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-rotateBy(com.here.sdk.core.GeoOrientationUpdate)"
+<div id="sdk-for-android-explore-rotateBy(com.here.sdk.core.GeoOrientationUpdate)"
     class="section detail">
 
     ### rotateBy
@@ -1294,8 +1278,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-zoomBy(double,com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-zoomBy(double,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### zoomBy
@@ -1335,8 +1318,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-zoomTo(double)"
+<div id="sdk-for-android-explore-zoomTo(double)"
     class="section detail">
 
     ### zoomTo
@@ -1366,8 +1348,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setPrincipalPoint(com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-setPrincipalPoint(com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### setPrincipalPoint
@@ -1400,8 +1381,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setNormalizedPrincipalPoint(com.here.sdk.core.Anchor2D)"
+<div id="sdk-for-android-explore-setNormalizedPrincipalPoint(com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### setNormalizedPrincipalPoint
@@ -1434,8 +1414,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setVerticalFieldOfView(double)"
+<div id="sdk-for-android-explore-setVerticalFieldOfView(double)"
     class="section detail">
 
     ### setVerticalFieldOfView
@@ -1466,8 +1445,7 @@ indicates also the top-left corner of the map's viewport.
     MapCameraUpdate instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-compositeUpdate(java.util.List)"
+<div id="sdk-for-android-explore-compositeUpdate(java.util.List)"
     class="section detail">
 
     ### compositeUpdate

@@ -40,8 +40,7 @@ connection.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -132,8 +131,7 @@ connection.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -223,11 +221,9 @@ connection.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### IsolineRoutingEngine
 
@@ -251,8 +247,7 @@ connection.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RoutingConnectionSettings)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RoutingConnectionSettings)"
     class="section detail">
 
     ### IsolineRoutingEngine
@@ -283,8 +278,7 @@ connection.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.routing.RoutingConnectionSettings)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.routing.RoutingConnectionSettings)"
     class="section detail">
 
     ### IsolineRoutingEngine
@@ -321,8 +315,7 @@ connection.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
     class="section detail">
 
     ### IsolineRoutingEngine
@@ -355,11 +348,9 @@ connection.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-calculateIsoline(com.here.sdk.routing.Waypoint,com.here.sdk.routing.IsolineOptions,com.here.sdk.routing.CalculateIsolineCallback)"
+<div id="sdk-for-android-explore-calculateIsoline(com.here.sdk.routing.Waypoint,com.here.sdk.routing.IsolineOptions,com.here.sdk.routing.CalculateIsolineCallback)"
     class="section detail">
 
     ### calculateIsoline
@@ -406,8 +397,7 @@ connection.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setCustomOption(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-setCustomOption(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### setCustomOption

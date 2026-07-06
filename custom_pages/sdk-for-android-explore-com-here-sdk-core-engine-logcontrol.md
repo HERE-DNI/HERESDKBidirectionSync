@@ -42,8 +42,7 @@ have an unexpected performance impact if called not at the right time.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -97,8 +96,7 @@ have an unexpected performance impact if called not at the right time.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -253,11 +251,9 @@ have an unexpected performance impact if called not at the right time.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-enableLoggingToConsole(com.here.sdk.core.engine.LogLevel)"
+<div id="sdk-for-android-explore-enableLoggingToConsole(com.here.sdk.core.engine.LogLevel)"
     class="section detail">
 
     ### enableLoggingToConsole
@@ -283,8 +279,7 @@ have an unexpected performance impact if called not at the right time.
     Log level.
 
     </div>
-
-  - <div id="sdk-for-android-explore-disableLoggingToConsole()"
+<div id="sdk-for-android-explore-disableLoggingToConsole()"
     class="section detail">
 
     ### disableLoggingToConsole
@@ -304,8 +299,7 @@ have an unexpected performance impact if called not at the right time.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-setAppender(com.here.sdk.core.engine.LogLevel,com.here.sdk.core.engine.LogAppender)"
+<div id="sdk-for-android-explore-setAppender(com.here.sdk.core.engine.LogLevel,com.here.sdk.core.engine.LogAppender)"
     class="section detail">
 
     ### setAppender
@@ -340,8 +334,7 @@ have an unexpected performance impact if called not at the right time.
     New log appender.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setAppender(com.here.sdk.core.engine.LogLevel,java.lang.String)"
+<div id="sdk-for-android-explore-setAppender(com.here.sdk.core.engine.LogLevel,java.lang.String)"
     class="section detail">
 
     ### setAppender
@@ -384,8 +377,7 @@ have an unexpected performance impact if called not at the right time.
     Indicates that the file path is invalid or not writeable.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeAppender()"
+<div id="sdk-for-android-explore-removeAppender()"
     class="section detail">
 
     ### removeAppender

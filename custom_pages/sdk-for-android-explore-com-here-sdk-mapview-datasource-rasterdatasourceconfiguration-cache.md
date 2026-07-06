@@ -39,8 +39,7 @@ Configuration of a local data cache.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -116,8 +115,7 @@ Configuration of a local data cache.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -177,8 +175,7 @@ Configuration of a local data cache.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -194,11 +191,9 @@ Configuration of a local data cache.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-path" class="section detail">
+<div id="sdk-for-android-explore-path" class="section detail">
 
     ### path
 
@@ -225,8 +220,7 @@ Configuration of a local data cache.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-diskSize" class="section detail">
+<div id="sdk-for-android-explore-diskSize" class="section detail">
 
     ### diskSize
 
@@ -248,11 +242,9 @@ Configuration of a local data cache.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String)"
+<div id="sdk-for-android-explore-<init>(java.lang.String)"
     class="section detail">
 
     ### Cache
@@ -286,8 +278,7 @@ Configuration of a local data cache.
     exist but is valid, it will be created.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,long)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,long)"
     class="section detail">
 
     ### Cache

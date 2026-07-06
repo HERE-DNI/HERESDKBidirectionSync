@@ -41,8 +41,7 @@ Represents various errors that could occur from map related operations.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ Represents various errors that could occur from map related operations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -143,8 +141,7 @@ Represents various errors that could occur from map related operations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -239,11 +236,9 @@ Represents various errors that could occur from map related operations.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-OPERATION_IN_PROGRESS"
+<div id="sdk-for-android-explore-OPERATION_IN_PROGRESS"
     class="section detail">
 
     ### OPERATION_IN_PROGRESS
@@ -262,8 +257,7 @@ Represents various errors that could occur from map related operations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INVALID_SCENE"
+<div id="sdk-for-android-explore-INVALID_SCENE"
     class="section detail">
 
     ### INVALID_SCENE
@@ -282,8 +276,7 @@ Represents various errors that could occur from map related operations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INVALID_STATE"
+<div id="sdk-for-android-explore-INVALID_STATE"
     class="section detail">
 
     ### INVALID_STATE
@@ -302,8 +295,7 @@ Represents various errors that could occur from map related operations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INVALID_RENDER_TARGET"
+<div id="sdk-for-android-explore-INVALID_RENDER_TARGET"
     class="section detail">
 
     ### INVALID_RENDER_TARGET
@@ -324,11 +316,9 @@ Represents various errors that could occur from map related operations.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -351,8 +341,7 @@ Represents various errors that could occur from map related operations.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

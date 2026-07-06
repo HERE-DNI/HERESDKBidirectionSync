@@ -33,8 +33,7 @@ TrafficIncident provides details about a traffic incident.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -181,11 +180,9 @@ TrafficIncident provides details about a traffic incident.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getImpact()"
+<div id="sdk-for-android-explore-getImpact()"
     class="section detail">
 
     ### getImpact
@@ -209,8 +206,7 @@ TrafficIncident provides details about a traffic incident.
     The impact of the incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getType()" class="section detail">
+<div id="sdk-for-android-explore-getType()" class="section detail">
 
     ### getType
 
@@ -233,8 +229,7 @@ TrafficIncident provides details about a traffic incident.
     The category of the incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDescription()"
+<div id="sdk-for-android-explore-getDescription()"
     class="section detail">
 
     ### getDescription
@@ -261,8 +256,7 @@ TrafficIncident provides details about a traffic incident.
     location information.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getStartTime()"
+<div id="sdk-for-android-explore-getStartTime()"
     class="section detail">
 
     ### getStartTime
@@ -287,8 +281,7 @@ TrafficIncident provides details about a traffic incident.
     incident should not be considered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getEndTime()"
+<div id="sdk-for-android-explore-getEndTime()"
     class="section detail">
 
     ### getEndTime

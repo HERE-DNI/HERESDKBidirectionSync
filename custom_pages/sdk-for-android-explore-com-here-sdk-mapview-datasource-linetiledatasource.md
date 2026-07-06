@@ -42,8 +42,7 @@ new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -132,11 +131,9 @@ new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-create(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.LineTileSource)"
+<div id="sdk-for-android-explore-create(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.LineTileSource)"
     class="section detail">
 
     ### create
@@ -177,8 +174,7 @@ new releases without a deprecation process.
     Instance of the data source created with given name and tile source.
 
     </div>
-
-  - <div id="sdk-for-android-explore-destroy()" class="section detail">
+<div id="sdk-for-android-explore-destroy()" class="section detail">
 
     ### destroy
 

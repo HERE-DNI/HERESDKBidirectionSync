@@ -47,8 +47,7 @@ Enum to identify different types of markers of the location indicator.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -58,8 +57,7 @@ Enum to identify different types of markers of the location indicator.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -151,8 +149,7 @@ Enum to identify different types of markers of the location indicator.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -247,11 +244,9 @@ Enum to identify different types of markers of the location indicator.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-PEDESTRIAN" class="section detail">
+<div id="sdk-for-android-explore-PEDESTRIAN" class="section detail">
 
     ### PEDESTRIAN
 
@@ -269,8 +264,7 @@ Enum to identify different types of markers of the location indicator.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PEDESTRIAN_INACTIVE"
+<div id="sdk-for-android-explore-PEDESTRIAN_INACTIVE"
     class="section detail">
 
     ### PEDESTRIAN_INACTIVE
@@ -291,8 +285,7 @@ Enum to identify different types of markers of the location indicator.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NAVIGATION" class="section detail">
+<div id="sdk-for-android-explore-NAVIGATION" class="section detail">
 
     ### NAVIGATION
 
@@ -311,8 +304,7 @@ Enum to identify different types of markers of the location indicator.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NAVIGATION_INACTIVE"
+<div id="sdk-for-android-explore-NAVIGATION_INACTIVE"
     class="section detail">
 
     ### NAVIGATION_INACTIVE
@@ -336,11 +328,9 @@ Enum to identify different types of markers of the location indicator.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -363,8 +353,7 @@ Enum to identify different types of markers of the location indicator.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

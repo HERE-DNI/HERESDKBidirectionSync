@@ -36,8 +36,7 @@ Configuration update for a RasterDataSource.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -136,8 +135,7 @@ Configuration update for a RasterDataSource.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -181,8 +179,7 @@ Configuration update for a RasterDataSource.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -198,11 +195,9 @@ Configuration update for a RasterDataSource.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-providerHeaders"
+<div id="sdk-for-android-explore-providerHeaders"
     class="section detail">
 
     ### providerHeaders
@@ -222,8 +217,7 @@ Configuration update for a RasterDataSource.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ignoreExpiredData"
+<div id="sdk-for-android-explore-ignoreExpiredData"
     class="section detail">
 
     ### ignoreExpiredData
@@ -244,8 +238,7 @@ Configuration update for a RasterDataSource.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-cacheDiskSize"
+<div id="sdk-for-android-explore-cacheDiskSize"
     class="section detail">
 
     ### cacheDiskSize
@@ -267,11 +260,9 @@ Configuration update for a RasterDataSource.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.util.Map,java.lang.Boolean,java.lang.Long)"
+<div id="sdk-for-android-explore-<init>(java.util.Map,java.lang.Boolean,java.lang.Long)"
     class="section detail">
 
     ### RasterDataSourceConfigurationUpdate

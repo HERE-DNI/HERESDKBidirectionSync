@@ -42,8 +42,7 @@ necessary.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -440,11 +439,9 @@ necessary.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-serialize(com.here.sdk.routing.Route)"
+<div id="sdk-for-android-explore-serialize(com.here.sdk.routing.Route)"
     class="section detail">
 
     ### serialize
@@ -476,8 +473,7 @@ necessary.
     The binary data of the route.
 
     </div>
-
-  - <div id="sdk-for-android-explore-deserialize(byte[])"
+<div id="sdk-for-android-explore-deserialize(byte[])"
     class="section detail">
 
     ### deserialize
@@ -509,8 +505,7 @@ necessary.
     The route object restored from the binary data.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSections()"
+<div id="sdk-for-android-explore-getSections()"
     class="section detail">
 
     ### getSections
@@ -532,8 +527,7 @@ necessary.
     The sections that make up this route.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getGeometry()"
+<div id="sdk-for-android-explore-getGeometry()"
     class="section detail">
 
     ### getGeometry
@@ -560,8 +554,7 @@ necessary.
     the original coordinates specified in the request for a route.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getBoundingBox()"
+<div id="sdk-for-android-explore-getBoundingBox()"
     class="section detail">
 
     ### getBoundingBox
@@ -583,8 +576,7 @@ necessary.
     The closest rectangular area where this route fits in.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getLengthInMeters()"
+<div id="sdk-for-android-explore-getLengthInMeters()"
     class="section detail">
 
     ### getLengthInMeters
@@ -605,8 +597,7 @@ necessary.
     The length of this route in meters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getLanguage()"
+<div id="sdk-for-android-explore-getLanguage()"
     class="section detail">
 
     ### getLanguage
@@ -630,8 +621,7 @@ necessary.
     to this route.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getOptimizationMode()"
+<div id="sdk-for-android-explore-getOptimizationMode()"
     class="section detail">
 
     ### getOptimizationMode
@@ -653,8 +643,7 @@ necessary.
     The optimization mode requested for route calculation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getRequestedTransportMode()"
+<div id="sdk-for-android-explore-getRequestedTransportMode()"
     class="section detail">
 
     ### getRequestedTransportMode
@@ -676,8 +665,7 @@ necessary.
     The transport mode requested for route calculation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getConsumptionInKilowattHours()"
+<div id="sdk-for-android-explore-getConsumptionInKilowattHours()"
     class="section detail">
 
     ### getConsumptionInKilowattHours
@@ -703,8 +691,7 @@ necessary.
     negative due to energy recuperation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getRouteHandle()"
+<div id="sdk-for-android-explore-getRouteHandle()"
     class="section detail">
 
     ### getRouteHandle
@@ -729,8 +716,7 @@ necessary.
     is set before route calculation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDuration()"
+<div id="sdk-for-android-explore-getDuration()"
     class="section detail">
 
     ### getDuration
@@ -754,8 +740,7 @@ necessary.
     including real-time traffic delays if available.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTrafficDelay()"
+<div id="sdk-for-android-explore-getTrafficDelay()"
     class="section detail">
 
     ### getTrafficDelay
@@ -781,8 +766,7 @@ necessary.
     usual.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getRoutingOptions()"
+<div id="sdk-for-android-explore-getRoutingOptions()"
     class="section detail">
 
     ### getRoutingOptions
@@ -804,8 +788,7 @@ necessary.
     The set of options used to calculate the route.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getRailwayCrossings()"
+<div id="sdk-for-android-explore-getRailwayCrossings()"
     class="section detail">
 
     ### getRailwayCrossings
@@ -828,8 +811,7 @@ necessary.
     Collection of railway crossings along the route.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getRouteLabels()"
+<div id="sdk-for-android-explore-getRouteLabels()"
     class="section detail">
 
     ### getRouteLabels

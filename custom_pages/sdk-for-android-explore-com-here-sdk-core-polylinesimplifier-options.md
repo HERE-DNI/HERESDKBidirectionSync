@@ -41,8 +41,7 @@ of polyline.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -149,8 +148,7 @@ of polyline.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -212,8 +210,7 @@ of polyline.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -229,11 +226,9 @@ of polyline.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"
+<div id="sdk-for-android-explore-SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"
     class="section detail">
 
     ### SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL
@@ -257,8 +252,7 @@ of polyline.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.core.PolylineSimplifier.Options.SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL)
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxPoints" class="section detail">
+<div id="sdk-for-android-explore-maxPoints" class="section detail">
 
     ### maxPoints
 
@@ -284,8 +278,7 @@ of polyline.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-simplificationToleranceInMeters"
+<div id="sdk-for-android-explore-simplificationToleranceInMeters"
     class="section detail">
 
     ### simplificationToleranceInMeters
@@ -316,11 +309,9 @@ of polyline.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### Options
 
@@ -339,8 +330,7 @@ of polyline.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(long,long)"
+<div id="sdk-for-android-explore-<init>(long,long)"
     class="section detail">
 
     ### Options

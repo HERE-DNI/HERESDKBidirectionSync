@@ -38,8 +38,7 @@ The first character is denoted by a value of 0.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -126,11 +125,9 @@ The first character is denoted by a value of 0.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getStart()" class="section detail">
+<div id="sdk-for-android-explore-getStart()" class="section detail">
 
     ### getStart
 
@@ -150,8 +147,7 @@ The first character is denoted by a value of 0.
     Position of the first character that matches a query.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getEnd()" class="section detail">
+<div id="sdk-for-android-explore-getEnd()" class="section detail">
 
     ### getEnd
 

@@ -41,8 +41,7 @@ Travel direction.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ Travel direction.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -127,8 +125,7 @@ Travel direction.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -223,11 +220,9 @@ Travel direction.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-POSITIVE" class="section detail">
+<div id="sdk-for-android-explore-POSITIVE" class="section detail">
 
     ### POSITIVE
 
@@ -245,8 +240,7 @@ Travel direction.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NEGATIVE" class="section detail">
+<div id="sdk-for-android-explore-NEGATIVE" class="section detail">
 
     ### NEGATIVE
 
@@ -264,8 +258,7 @@ Travel direction.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BIDIRECTIONAL"
+<div id="sdk-for-android-explore-BIDIRECTIONAL"
     class="section detail">
 
     ### BIDIRECTIONAL
@@ -286,11 +279,9 @@ Travel direction.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -313,8 +304,7 @@ Travel direction.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

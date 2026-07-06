@@ -44,8 +44,7 @@ example, a car route may have a section having ferry transport mode.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -55,8 +54,7 @@ example, a car route may have a section having ferry transport mode.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -258,8 +256,7 @@ example, a car route may have a section having ferry transport mode.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -354,11 +351,9 @@ example, a car route may have a section having ferry transport mode.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CAR" class="section detail">
+<div id="sdk-for-android-explore-CAR" class="section detail">
 
     ### CAR
 
@@ -376,8 +371,7 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRUCK" class="section detail">
+<div id="sdk-for-android-explore-TRUCK" class="section detail">
 
     ### TRUCK
 
@@ -395,8 +389,7 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PEDESTRIAN" class="section detail">
+<div id="sdk-for-android-explore-PEDESTRIAN" class="section detail">
 
     ### PEDESTRIAN
 
@@ -414,8 +407,7 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FERRY" class="section detail">
+<div id="sdk-for-android-explore-FERRY" class="section detail">
 
     ### FERRY
 
@@ -433,8 +425,7 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAR_SHUTTLE_TRAIN"
+<div id="sdk-for-android-explore-CAR_SHUTTLE_TRAIN"
     class="section detail">
 
     ### CAR_SHUTTLE_TRAIN
@@ -453,8 +444,7 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SCOOTER" class="section detail">
+<div id="sdk-for-android-explore-SCOOTER" class="section detail">
 
     ### SCOOTER
 
@@ -472,8 +462,7 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BICYCLE" class="section detail">
+<div id="sdk-for-android-explore-BICYCLE" class="section detail">
 
     ### BICYCLE
 
@@ -491,8 +480,7 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PUBLIC_TRANSIT"
+<div id="sdk-for-android-explore-PUBLIC_TRANSIT"
     class="section detail">
 
     ### PUBLIC_TRANSIT
@@ -513,8 +501,7 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TAXI" class="section detail">
+<div id="sdk-for-android-explore-TAXI" class="section detail">
 
     ### TAXI
 
@@ -532,8 +519,7 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUS" class="section detail">
+<div id="sdk-for-android-explore-BUS" class="section detail">
 
     ### BUS
 
@@ -553,8 +539,7 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PRIVATE_BUS"
+<div id="sdk-for-android-explore-PRIVATE_BUS"
     class="section detail">
 
     ### PRIVATE_BUS
@@ -577,11 +562,9 @@ example, a car route may have a section having ferry transport mode.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -604,8 +587,7 @@ example, a car route may have a section having ferry transport mode.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

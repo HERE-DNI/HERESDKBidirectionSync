@@ -41,8 +41,7 @@ change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -119,8 +118,7 @@ change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -162,8 +160,7 @@ change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -179,11 +176,9 @@ change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-diffBetweenVideoMemoryLimitAndRequirementInKiB"
+<div id="sdk-for-android-explore-diffBetweenVideoMemoryLimitAndRequirementInKiB"
     class="section detail">
 
     ### diffBetweenVideoMemoryLimitAndRequirementInKiB
@@ -210,8 +205,7 @@ change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-resultCode" class="section detail">
+<div id="sdk-for-android-explore-resultCode" class="section detail">
 
     ### resultCode
 
@@ -231,11 +225,9 @@ change for new releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapContext.MemoryManagementResultCode)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapContext.MemoryManagementResultCode)"
     class="section detail">
 
     ### MemoryManagementResult

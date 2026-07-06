@@ -42,8 +42,7 @@ Specifies type of interpolation performed between keyframes.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -53,8 +52,7 @@ Specifies type of interpolation performed between keyframes.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -128,8 +126,7 @@ Specifies type of interpolation performed between keyframes.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -224,11 +221,9 @@ Specifies type of interpolation performed between keyframes.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-STEP" class="section detail">
+<div id="sdk-for-android-explore-STEP" class="section detail">
 
     ### STEP
 
@@ -246,8 +241,7 @@ Specifies type of interpolation performed between keyframes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LINEAR" class="section detail">
+<div id="sdk-for-android-explore-LINEAR" class="section detail">
 
     ### LINEAR
 
@@ -265,8 +259,7 @@ Specifies type of interpolation performed between keyframes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SMOOTH" class="section detail">
+<div id="sdk-for-android-explore-SMOOTH" class="section detail">
 
     ### SMOOTH
 
@@ -286,11 +279,9 @@ Specifies type of interpolation performed between keyframes.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -313,8 +304,7 @@ Specifies type of interpolation performed between keyframes.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

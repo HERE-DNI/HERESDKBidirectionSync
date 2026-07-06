@@ -41,8 +41,7 @@ Styling options for the text of a MapMarker .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -141,8 +140,7 @@ Styling options for the text of a MapMarker .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -228,8 +226,7 @@ Styling options for the text of a MapMarker .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -404,11 +401,9 @@ Styling options for the text of a MapMarker .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TextStyle
 
@@ -431,8 +426,7 @@ Styling options for the text of a MapMarker .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List)"
+<div id="sdk-for-android-explore-<init>(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List)"
     class="section detail">
 
     ### TextStyle
@@ -493,8 +487,7 @@ Styling options for the text of a MapMarker .
     In case of invalid input parameters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List,java.lang.String)"
+<div id="sdk-for-android-explore-<init>(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List,java.lang.String)"
     class="section detail">
 
     ### TextStyle
@@ -566,11 +559,9 @@ Styling options for the text of a MapMarker .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getFontName()"
+<div id="sdk-for-android-explore-getFontName()"
     class="section detail">
 
     ### getFontName
@@ -592,8 +583,7 @@ Styling options for the text of a MapMarker .
     The font used in the text style.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTextSize()"
+<div id="sdk-for-android-explore-getTextSize()"
     class="section detail">
 
     ### getTextSize
@@ -614,8 +604,7 @@ Styling options for the text of a MapMarker .
     The text size in pixels.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTextColor()"
+<div id="sdk-for-android-explore-getTextColor()"
     class="section detail">
 
     ### getTextColor
@@ -637,8 +626,7 @@ Styling options for the text of a MapMarker .
     The text color.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTextOutlineSize()"
+<div id="sdk-for-android-explore-getTextOutlineSize()"
     class="section detail">
 
     ### getTextOutlineSize
@@ -659,8 +647,7 @@ Styling options for the text of a MapMarker .
     The text outline size in pixels.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTextOutlineColor()"
+<div id="sdk-for-android-explore-getTextOutlineColor()"
     class="section detail">
 
     ### getTextOutlineColor
@@ -682,8 +669,7 @@ Styling options for the text of a MapMarker .
     The text outline color.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPlacements()"
+<div id="sdk-for-android-explore-getPlacements()"
     class="section detail">
 
     ### getPlacements

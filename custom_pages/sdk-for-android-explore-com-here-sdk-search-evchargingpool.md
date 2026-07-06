@@ -41,8 +41,7 @@ SDKOptions.layerConfiguration .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -252,8 +251,7 @@ SDKOptions.layerConfiguration .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -297,8 +295,7 @@ SDKOptions.layerConfiguration .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -376,11 +373,9 @@ SDKOptions.layerConfiguration .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-chargingStations"
+<div id="sdk-for-android-explore-chargingStations"
     class="section detail">
 
     ### chargingStations
@@ -399,8 +394,7 @@ SDKOptions.layerConfiguration .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-eMobilityServiceProviders"
+<div id="sdk-for-android-explore-eMobilityServiceProviders"
     class="section detail">
 
     ### eMobilityServiceProviders
@@ -420,8 +414,7 @@ SDKOptions.layerConfiguration .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-access" class="section detail">
+<div id="sdk-for-android-explore-access" class="section detail">
 
     ### access
 
@@ -439,8 +432,7 @@ SDKOptions.layerConfiguration .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-accessRestrictionReasons"
+<div id="sdk-for-android-explore-accessRestrictionReasons"
     class="section detail">
 
     ### accessRestrictionReasons
@@ -460,8 +452,7 @@ SDKOptions.layerConfiguration .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-details" class="section detail">
+<div id="sdk-for-android-explore-details" class="section detail">
 
     ### details
 
@@ -482,8 +473,7 @@ SDKOptions.layerConfiguration .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-id" class="section detail">
+<div id="sdk-for-android-explore-id" class="section detail">
 
     ### id
 
@@ -501,8 +491,7 @@ SDKOptions.layerConfiguration .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-cpoId" class="section detail">
+<div id="sdk-for-android-explore-cpoId" class="section detail">
 
     ### cpoId
 
@@ -521,8 +510,7 @@ SDKOptions.layerConfiguration .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-evseInfo" class="section detail">
+<div id="sdk-for-android-explore-evseInfo" class="section detail">
 
     ### evseInfo
 
@@ -545,11 +533,9 @@ SDKOptions.layerConfiguration .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List)"
     class="section detail">
 
     ### EVChargingPool
@@ -588,11 +574,9 @@ SDKOptions.layerConfiguration .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -608,8 +592,7 @@ SDKOptions.layerConfiguration .
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

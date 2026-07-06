@@ -36,8 +36,7 @@ sources.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -148,11 +147,9 @@ sources.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-fromResource(android.content.res.Resources,int)"
+<div id="sdk-for-android-explore-fromResource(android.content.res.Resources,int)"
     class="section detail">
 
     ### fromResource
@@ -182,8 +179,7 @@ sources.
     map image representing specified image resource
 
     </div>
-
-  - <div id="sdk-for-android-explore-fromFile(java.lang.String,int,int)"
+<div id="sdk-for-android-explore-fromFile(java.lang.String,int,int)"
     class="section detail">
 
     ### fromFile
@@ -222,8 +218,7 @@ sources.
     if dimension are invalid or path is empty.
 
     </div>
-
-  - <div id="sdk-for-android-explore-fromBitmap(android.graphics.Bitmap)"
+<div id="sdk-for-android-explore-fromBitmap(android.graphics.Bitmap)"
     class="section detail">
 
     ### fromBitmap

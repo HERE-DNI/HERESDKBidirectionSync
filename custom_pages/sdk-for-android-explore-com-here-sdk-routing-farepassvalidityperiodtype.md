@@ -42,8 +42,7 @@ Specifies validity periods.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -53,8 +52,7 @@ Specifies validity periods.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -160,8 +158,7 @@ Specifies validity periods.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -256,11 +253,9 @@ Specifies validity periods.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-ANNUAL" class="section detail">
+<div id="sdk-for-android-explore-ANNUAL" class="section detail">
 
     ### ANNUAL
 
@@ -278,8 +273,7 @@ Specifies validity periods.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-EXTENDED_ANNUAL"
+<div id="sdk-for-android-explore-EXTENDED_ANNUAL"
     class="section detail">
 
     ### EXTENDED_ANNUAL
@@ -298,8 +292,7 @@ Specifies validity periods.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MINUTES" class="section detail">
+<div id="sdk-for-android-explore-MINUTES" class="section detail">
 
     ### MINUTES
 
@@ -317,8 +310,7 @@ Specifies validity periods.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DAYS" class="section detail">
+<div id="sdk-for-android-explore-DAYS" class="section detail">
 
     ### DAYS
 
@@ -336,8 +328,7 @@ Specifies validity periods.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MONTHS" class="section detail">
+<div id="sdk-for-android-explore-MONTHS" class="section detail">
 
     ### MONTHS
 
@@ -357,11 +348,9 @@ Specifies validity periods.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -384,8 +373,7 @@ Specifies validity periods.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

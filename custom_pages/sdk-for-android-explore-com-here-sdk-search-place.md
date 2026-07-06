@@ -38,8 +38,7 @@ interest (POI) etc.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -393,11 +392,9 @@ interest (POI) etc.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-serializeCompact()"
+<div id="sdk-for-android-explore-serializeCompact()"
     class="section detail">
 
     ### serializeCompact
@@ -422,8 +419,7 @@ interest (POI) etc.
     The serialized place
 
     </div>
-
-  - <div id="sdk-for-android-explore-deserialize(java.lang.String)"
+<div id="sdk-for-android-explore-deserialize(java.lang.String)"
     class="section detail">
 
     ### deserialize
@@ -461,8 +457,7 @@ interest (POI) etc.
     Indicates what went wrong during deserialization attempt.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTitle()" class="section detail">
+<div id="sdk-for-android-explore-getTitle()" class="section detail">
 
     ### getTitle
 
@@ -483,8 +478,7 @@ interest (POI) etc.
     The localized title for the resource.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getId()" class="section detail">
+<div id="sdk-for-android-explore-getId()" class="section detail">
 
     ### getId
 
@@ -509,8 +503,7 @@ interest (POI) etc.
     information.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPlaceType()"
+<div id="sdk-for-android-explore-getPlaceType()"
     class="section detail">
 
     ### getPlaceType
@@ -532,8 +525,7 @@ interest (POI) etc.
     The place type.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getAreaType()"
+<div id="sdk-for-android-explore-getAreaType()"
     class="section detail">
 
     ### getAreaType
@@ -562,8 +554,7 @@ interest (POI) etc.
     [`PlaceType.AREA`](sdk-for-android-explore-com-here-sdk-search-placetype#AREA).
 
     </div>
-
-  - <div id="sdk-for-android-explore-getAddress()"
+<div id="sdk-for-android-explore-getAddress()"
     class="section detail">
 
     ### getAddress
@@ -595,8 +586,7 @@ interest (POI) etc.
     [`PlaceIdQuery`](sdk-for-android-explore-com-here-sdk-search-placeidquery "class in com.here.sdk.search").
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDetails()"
+<div id="sdk-for-android-explore-getDetails()"
     class="section detail">
 
     ### getDetails
@@ -618,8 +608,7 @@ interest (POI) etc.
     The place's detailed information.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getGeoCoordinates()"
+<div id="sdk-for-android-explore-getGeoCoordinates()"
     class="section detail">
 
     ### getGeoCoordinates
@@ -642,8 +631,7 @@ interest (POI) etc.
     The geographic coordinates of the place.
 
     </div>
-
-  - <div id="sdk-for-android-explore-isCoordinatesInterpolated()"
+<div id="sdk-for-android-explore-isCoordinatesInterpolated()"
     class="section detail">
 
     ### isCoordinatesInterpolated
@@ -670,8 +658,7 @@ interest (POI) etc.
     were interpolated or not.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getAccessPoints()"
+<div id="sdk-for-android-explore-getAccessPoints()"
     class="section detail">
 
     ### getAccessPoints
@@ -710,8 +697,7 @@ interest (POI) etc.
     parking lot.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getBoundingBox()"
+<div id="sdk-for-android-explore-getBoundingBox()"
     class="section detail">
 
     ### getBoundingBox
@@ -735,8 +721,7 @@ interest (POI) etc.
     place.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDistanceInMeters()"
+<div id="sdk-for-android-explore-getDistanceInMeters()"
     class="section detail">
 
     ### getDistanceInMeters
@@ -758,8 +743,7 @@ interest (POI) etc.
     The distance from the search center to the place in meters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPoliticalView()"
+<div id="sdk-for-android-explore-getPoliticalView()"
     class="section detail">
 
     ### getPoliticalView

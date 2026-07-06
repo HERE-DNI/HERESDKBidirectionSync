@@ -52,8 +52,7 @@ as an identifier type for managing the lights.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -63,8 +62,7 @@ as an identifier type for managing the lights.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -138,8 +136,7 @@ as an identifier type for managing the lights.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -234,11 +231,9 @@ as an identifier type for managing the lights.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-MAIN" class="section detail">
+<div id="sdk-for-android-explore-MAIN" class="section detail">
 
     ### MAIN
 
@@ -256,8 +251,7 @@ as an identifier type for managing the lights.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BACK" class="section detail">
+<div id="sdk-for-android-explore-BACK" class="section detail">
 
     ### BACK
 
@@ -275,8 +269,7 @@ as an identifier type for managing the lights.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RIM" class="section detail">
+<div id="sdk-for-android-explore-RIM" class="section detail">
 
     ### RIM
 
@@ -296,11 +289,9 @@ as an identifier type for managing the lights.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -323,8 +314,7 @@ as an identifier type for managing the lights.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

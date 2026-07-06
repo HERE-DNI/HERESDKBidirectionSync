@@ -40,8 +40,7 @@ the camera. When setting, limits are applied on next rendering loop.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -161,8 +160,7 @@ the camera. When setting, limits are applied on next rendering loop.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -475,11 +473,9 @@ the camera. When setting, limits are applied on next rendering loop.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-MIN_TILT" class="section detail">
+<div id="sdk-for-android-explore-MIN_TILT" class="section detail">
 
     ### MIN_TILT
 
@@ -501,8 +497,7 @@ the camera. When setting, limits are applied on next rendering loop.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapCameraLimits.MIN_TILT)
 
     </div>
-
-  - <div id="sdk-for-android-explore-MAX_TILT" class="section detail">
+<div id="sdk-for-android-explore-MAX_TILT" class="section detail">
 
     ### MAX_TILT
 
@@ -524,8 +519,7 @@ the camera. When setting, limits are applied on next rendering loop.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapCameraLimits.MAX_TILT)
 
     </div>
-
-  - <div id="sdk-for-android-explore-MIN_ZOOM_LEVEL"
+<div id="sdk-for-android-explore-MIN_ZOOM_LEVEL"
     class="section detail">
 
     ### MIN_ZOOM_LEVEL
@@ -548,8 +542,7 @@ the camera. When setting, limits are applied on next rendering loop.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapCameraLimits.MIN_ZOOM_LEVEL)
 
     </div>
-
-  - <div id="sdk-for-android-explore-MAX_ZOOM_LEVEL"
+<div id="sdk-for-android-explore-MAX_ZOOM_LEVEL"
     class="section detail">
 
     ### MAX_ZOOM_LEVEL
@@ -574,11 +567,9 @@ the camera. When setting, limits are applied on next rendering loop.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-setBearingRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)"
+<div id="sdk-for-android-explore-setBearingRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)"
     class="section detail">
 
     ### setBearingRangeAtZoom
@@ -615,8 +606,7 @@ the camera. When setting, limits are applied on next rendering loop.
     Bearing range.
 
     </div>
-
-  - <div id="sdk-for-android-explore-clearBearingRanges()"
+<div id="sdk-for-android-explore-clearBearingRanges()"
     class="section detail">
 
     ### clearBearingRanges
@@ -635,8 +625,7 @@ the camera. When setting, limits are applied on next rendering loop.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-setTiltRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)"
+<div id="sdk-for-android-explore-setTiltRangeAtZoom(com.here.sdk.mapview.MapMeasure,com.here.sdk.core.AngleRange)"
     class="section detail">
 
     ### setTiltRangeAtZoom
@@ -673,8 +662,7 @@ the camera. When setting, limits are applied on next rendering loop.
     Tilt range.
 
     </div>
-
-  - <div id="sdk-for-android-explore-clearTiltRanges()"
+<div id="sdk-for-android-explore-clearTiltRanges()"
     class="section detail">
 
     ### clearTiltRanges
@@ -693,8 +681,7 @@ the camera. When setting, limits are applied on next rendering loop.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTiltRange()"
+<div id="sdk-for-android-explore-getTiltRange()"
     class="section detail">
 
     ### getTiltRange
@@ -719,8 +706,7 @@ the camera. When setting, limits are applied on next rendering loop.
     The tilt range that can be applied to the camera.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setTiltRange(com.here.sdk.core.AngleRange)"
+<div id="sdk-for-android-explore-setTiltRange(com.here.sdk.core.AngleRange)"
     class="section detail">
 
     ### setTiltRange
@@ -750,8 +736,7 @@ the camera. When setting, limits are applied on next rendering loop.
     The tilt range that can be applied to the camera.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getBearingRange()"
+<div id="sdk-for-android-explore-getBearingRange()"
     class="section detail">
 
     ### getBearingRange
@@ -776,8 +761,7 @@ the camera. When setting, limits are applied on next rendering loop.
     The bearing range within which the camera can be rotated.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setBearingRange(com.here.sdk.core.AngleRange)"
+<div id="sdk-for-android-explore-setBearingRange(com.here.sdk.core.AngleRange)"
     class="section detail">
 
     ### setBearingRange
@@ -805,8 +789,7 @@ the camera. When setting, limits are applied on next rendering loop.
     The bearing range within which the camera can be rotated.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getZoomRange()"
+<div id="sdk-for-android-explore-getZoomRange()"
     class="section detail">
 
     ### getZoomRange
@@ -830,8 +813,7 @@ the camera. When setting, limits are applied on next rendering loop.
     The zoom range that can be applied to the camera.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setZoomRange(com.here.sdk.mapview.MapMeasureRange)"
+<div id="sdk-for-android-explore-setZoomRange(com.here.sdk.mapview.MapMeasureRange)"
     class="section detail">
 
     ### setZoomRange
@@ -860,8 +842,7 @@ the camera. When setting, limits are applied on next rendering loop.
     The zoom range that can be applied to the camera.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTargetArea()"
+<div id="sdk-for-android-explore-getTargetArea()"
     class="section detail">
 
     ### getTargetArea
@@ -884,8 +865,7 @@ the camera. When setting, limits are applied on next rendering loop.
     Geographical area to which the camera target is limited.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setTargetArea(com.here.sdk.core.GeoBox)"
+<div id="sdk-for-android-explore-setTargetArea(com.here.sdk.core.GeoBox)"
     class="section detail">
 
     ### setTargetArea

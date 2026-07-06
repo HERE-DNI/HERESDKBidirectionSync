@@ -38,8 +38,7 @@ animations.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -115,8 +114,7 @@ animations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -175,8 +173,7 @@ animations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -192,11 +189,9 @@ animations.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.animation.EasingFunction)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.animation.EasingFunction)"
     class="section detail">
 
     ### Easing
@@ -220,8 +215,7 @@ animations.
     Easing function.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.util.List)"
     class="section detail">
 
     ### Easing

@@ -47,8 +47,7 @@ Describes a reason for failing to build a MapLayer .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -58,8 +57,7 @@ Describes a reason for failing to build a MapLayer .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -117,8 +115,7 @@ Describes a reason for failing to build a MapLayer .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -213,11 +210,9 @@ Describes a reason for failing to build a MapLayer .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-MISSING_MANDATORY_PARAMETER"
+<div id="sdk-for-android-explore-MISSING_MANDATORY_PARAMETER"
     class="section detail">
 
     ### MISSING_MANDATORY_PARAMETER
@@ -236,8 +231,7 @@ Describes a reason for failing to build a MapLayer .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UNSUPPORTED_CONTENT_TYPE"
+<div id="sdk-for-android-explore-UNSUPPORTED_CONTENT_TYPE"
     class="section detail">
 
     ### UNSUPPORTED_CONTENT_TYPE
@@ -258,11 +252,9 @@ Describes a reason for failing to build a MapLayer .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -285,8 +277,7 @@ Describes a reason for failing to build a MapLayer .
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

@@ -10,8 +10,7 @@ package <span class="element-name">com.here.sdk.routing</span>
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-class-summary">
+<div id="sdk-for-android-explore-class-summary">
 
   <div class="summary-table two-column-summary">
 

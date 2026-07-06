@@ -35,8 +35,7 @@ Explains an issue encountered in a Section .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -135,8 +134,7 @@ Explains an issue encountered in a Section .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -179,8 +177,7 @@ Explains an issue encountered in a Section .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -258,11 +255,9 @@ Explains an issue encountered in a Section .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-code" class="section detail">
+<div id="sdk-for-android-explore-code" class="section detail">
 
     ### code
 
@@ -280,8 +275,7 @@ Explains an issue encountered in a Section .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-severity" class="section detail">
+<div id="sdk-for-android-explore-severity" class="section detail">
 
     ### severity
 
@@ -299,8 +293,7 @@ Explains an issue encountered in a Section .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-violatedRestrictions"
+<div id="sdk-for-android-explore-violatedRestrictions"
     class="section detail">
 
     ### violatedRestrictions
@@ -331,11 +324,9 @@ Explains an issue encountered in a Section .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.SectionNoticeCode,com.here.sdk.routing.NoticeSeverity)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.SectionNoticeCode,com.here.sdk.routing.NoticeSeverity)"
     class="section detail">
 
     ### SectionNotice
@@ -367,11 +358,9 @@ Explains an issue encountered in a Section .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -387,8 +376,7 @@ Explains an issue encountered in a Section .
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

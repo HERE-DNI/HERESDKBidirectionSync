@@ -35,8 +35,7 @@ The options to specify a query by categories.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -90,8 +89,7 @@ The options to specify a query by categories.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -321,8 +319,7 @@ The options to specify a query by categories.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -418,8 +415,7 @@ The options to specify a query by categories.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -497,11 +493,9 @@ The options to specify a query by categories.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-categories" class="section detail">
+<div id="sdk-for-android-explore-categories" class="section detail">
 
     ### categories
 
@@ -522,8 +516,7 @@ The options to specify a query by categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-excludeCategories"
+<div id="sdk-for-android-explore-excludeCategories"
     class="section detail">
 
     ### excludeCategories
@@ -548,8 +541,7 @@ The options to specify a query by categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-includeChains"
+<div id="sdk-for-android-explore-includeChains"
     class="section detail">
 
     ### includeChains
@@ -571,8 +563,7 @@ The options to specify a query by categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-excludeChains"
+<div id="sdk-for-android-explore-excludeChains"
     class="section detail">
 
     ### excludeChains
@@ -596,8 +587,7 @@ The options to specify a query by categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-includeFoodTypes"
+<div id="sdk-for-android-explore-includeFoodTypes"
     class="section detail">
 
     ### includeFoodTypes
@@ -619,8 +609,7 @@ The options to specify a query by categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-excludeFoodTypes"
+<div id="sdk-for-android-explore-excludeFoodTypes"
     class="section detail">
 
     ### excludeFoodTypes
@@ -644,8 +633,7 @@ The options to specify a query by categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-filter" class="section detail">
+<div id="sdk-for-android-explore-filter" class="section detail">
 
     ### filter
 
@@ -665,8 +653,7 @@ The options to specify a query by categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-placeFilter"
+<div id="sdk-for-android-explore-placeFilter"
     class="section detail">
 
     ### placeFilter
@@ -686,8 +673,7 @@ The options to specify a query by categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-area" class="section detail">
+<div id="sdk-for-android-explore-area" class="section detail">
 
     ### area
 
@@ -707,11 +693,9 @@ The options to specify a query by categories.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.search.PlaceCategory,com.here.sdk.search.CategoryQuery.Area)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.search.PlaceCategory,com.here.sdk.search.CategoryQuery.Area)"
     class="section detail">
 
     ### CategoryQuery
@@ -741,8 +725,7 @@ The options to specify a query by categories.
     Area in which to provide the most relevant places.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,com.here.sdk.search.CategoryQuery.Area)"
+<div id="sdk-for-android-explore-<init>(java.util.List,com.here.sdk.search.CategoryQuery.Area)"
     class="section detail">
 
     ### CategoryQuery
@@ -772,8 +755,7 @@ The options to specify a query by categories.
     Area in which to provide the most relevant places.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.search.PlaceCategory,java.lang.String,com.here.sdk.search.CategoryQuery.Area)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.search.PlaceCategory,java.lang.String,com.here.sdk.search.CategoryQuery.Area)"
     class="section detail">
 
     ### CategoryQuery
@@ -809,8 +791,7 @@ The options to specify a query by categories.
     Area in which to provide the most relevant places.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,java.lang.String,com.here.sdk.search.CategoryQuery.Area)"
+<div id="sdk-for-android-explore-<init>(java.util.List,java.lang.String,com.here.sdk.search.CategoryQuery.Area)"
     class="section detail">
 
     ### CategoryQuery
@@ -848,11 +829,9 @@ The options to specify a query by categories.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -868,8 +847,7 @@ The options to specify a query by categories.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

@@ -40,8 +40,7 @@ single type.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -118,8 +117,7 @@ single type.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -442,11 +440,9 @@ single type.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getScalarKeyframes()"
+<div id="sdk-for-android-explore-getScalarKeyframes()"
     class="section detail">
 
     ### getScalarKeyframes
@@ -463,8 +459,7 @@ single type.
     keyframe track.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPoint2DKeyframes()"
+<div id="sdk-for-android-explore-getPoint2DKeyframes()"
     class="section detail">
 
     ### getPoint2DKeyframes
@@ -481,8 +476,7 @@ single type.
     2d keyframe track.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getAnchor2DKeyframes()"
+<div id="sdk-for-android-explore-getAnchor2DKeyframes()"
     class="section detail">
 
     ### getAnchor2DKeyframes
@@ -499,8 +493,7 @@ single type.
     anchor 2d keyframe track.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getGeoCoordinatesKeyframes()"
+<div id="sdk-for-android-explore-getGeoCoordinatesKeyframes()"
     class="section detail">
 
     ### getGeoCoordinatesKeyframes
@@ -517,8 +510,7 @@ single type.
     geo coordinates keyframe track.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getGeoOrientationKeyframes()"
+<div id="sdk-for-android-explore-getGeoOrientationKeyframes()"
     class="section detail">
 
     ### getGeoOrientationKeyframes
@@ -535,8 +527,7 @@ single type.
     geo orientation keyframe track.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAtDistance(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+<div id="sdk-for-android-explore-lookAtDistance(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### lookAtDistance
@@ -606,8 +597,7 @@ single type.
     Indicates an instantiation issue.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAtDistance(com.here.sdk.mapview.MapMeasure.Kind,java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+<div id="sdk-for-android-explore-lookAtDistance(com.here.sdk.mapview.MapMeasure.Kind,java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### lookAtDistance
@@ -670,8 +660,7 @@ single type.
     Indicates an instantiation issue.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAtTarget(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+<div id="sdk-for-android-explore-lookAtTarget(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### lookAtTarget
@@ -727,8 +716,7 @@ single type.
     Indicates an instantiation issue.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAtOrientation(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+<div id="sdk-for-android-explore-lookAtOrientation(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### lookAtOrientation
@@ -783,8 +771,7 @@ single type.
     Indicates an instantiation issue.
 
     </div>
-
-  - <div id="sdk-for-android-explore-principalPoint(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+<div id="sdk-for-android-explore-principalPoint(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### principalPoint
@@ -843,8 +830,7 @@ single type.
     Indicates an instantiation issue.
 
     </div>
-
-  - <div id="sdk-for-android-explore-normalizedPrincipalPoint(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+<div id="sdk-for-android-explore-normalizedPrincipalPoint(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### normalizedPrincipalPoint
@@ -904,8 +890,7 @@ single type.
     Indicates an instantiation issue.
 
     </div>
-
-  - <div id="sdk-for-android-explore-fieldOfView(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
+<div id="sdk-for-android-explore-fieldOfView(java.util.List,com.here.sdk.animation.Easing,com.here.sdk.animation.KeyframeInterpolationMode)"
     class="section detail">
 
     ### fieldOfView
@@ -960,8 +945,7 @@ single type.
     Indicates an instantiation issue.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getInterpolationMode()"
+<div id="sdk-for-android-explore-getInterpolationMode()"
     class="section detail">
 
     ### getInterpolationMode

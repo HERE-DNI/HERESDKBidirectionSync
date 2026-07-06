@@ -41,8 +41,7 @@ attribute.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -443,11 +442,9 @@ attribute.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getAction()"
+<div id="sdk-for-android-explore-getAction()"
     class="section detail">
 
     ### getAction
@@ -469,8 +466,7 @@ attribute.
     Indicates the maneuver action.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCoordinates()"
+<div id="sdk-for-android-explore-getCoordinates()"
     class="section detail">
 
     ### getCoordinates
@@ -492,8 +488,7 @@ attribute.
     Geographic coordinates where the maneuver is located.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getOffset()"
+<div id="sdk-for-android-explore-getOffset()"
     class="section detail">
 
     ### getOffset
@@ -520,8 +515,7 @@ attribute.
     where the maneuver is located.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCountryCode()"
+<div id="sdk-for-android-explore-getCountryCode()"
     class="section detail">
 
     ### getCountryCode
@@ -545,8 +539,7 @@ attribute.
     no data is available.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getExitSignTexts()"
+<div id="sdk-for-android-explore-getExitSignTexts()"
     class="section detail">
 
     ### getExitSignTexts
@@ -572,8 +565,7 @@ attribute.
     number(s) and/or name(s).
 
     </div>
-
-  - <div id="sdk-for-android-explore-getLengthInMeters()"
+<div id="sdk-for-android-explore-getLengthInMeters()"
     class="section detail">
 
     ### getLengthInMeters
@@ -594,8 +586,7 @@ attribute.
     The length of the maneuver in meters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getRoadTexts()"
+<div id="sdk-for-android-explore-getRoadTexts()"
     class="section detail">
 
     ### getRoadTexts
@@ -621,8 +612,7 @@ attribute.
     road numbers and signpost direction (towards) information.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getNextRoadTexts()"
+<div id="sdk-for-android-explore-getNextRoadTexts()"
     class="section detail">
 
     ### getNextRoadTexts
@@ -648,8 +638,7 @@ attribute.
     road name(s) and road number(s) after the maneuver point.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSignpost()"
+<div id="sdk-for-android-explore-getSignpost()"
     class="section detail">
 
     ### getSignpost
@@ -673,8 +662,7 @@ attribute.
     object.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getIntersectionNames()"
+<div id="sdk-for-android-explore-getIntersectionNames()"
     class="section detail">
 
     ### getIntersectionNames
@@ -699,8 +687,7 @@ attribute.
     The textual attributes of the intersection.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getText()" class="section detail">
+<div id="sdk-for-android-explore-getText()" class="section detail">
 
     ### getText
 
@@ -727,8 +714,7 @@ attribute.
     [`RouteTextOptions`](sdk-for-android-explore-com-here-sdk-routing-routetextoptions "class in com.here.sdk.routing").
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSectionIndex()"
+<div id="sdk-for-android-explore-getSectionIndex()"
     class="section detail">
 
     ### getSectionIndex
@@ -755,8 +741,7 @@ attribute.
     indicating the section to which the maneuver belongs to.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSpanIndex()"
+<div id="sdk-for-android-explore-getSpanIndex()"
     class="section detail">
 
     ### getSpanIndex
@@ -787,8 +772,7 @@ attribute.
     indicating the first span after the maneuver point.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDuration()"
+<div id="sdk-for-android-explore-getDuration()"
     class="section detail">
 
     ### getDuration
@@ -810,8 +794,7 @@ attribute.
     The estimated time in seconds needed to perform the maneuver.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTurnAngleInDegrees()"
+<div id="sdk-for-android-explore-getTurnAngleInDegrees()"
     class="section detail">
 
     ### getTurnAngleInDegrees
@@ -839,8 +822,7 @@ attribute.
     The angle of the turn component of the maneuver.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getRoundaboutAngleInDegrees()"
+<div id="sdk-for-android-explore-getRoundaboutAngleInDegrees()"
     class="section detail">
 
     ### getRoundaboutAngleInDegrees

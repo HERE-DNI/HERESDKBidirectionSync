@@ -42,8 +42,7 @@ This class constructs a VehicleSpecification for a truck.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -85,8 +84,7 @@ This class constructs a VehicleSpecification for a truck.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -636,11 +634,9 @@ This class constructs a VehicleSpecification for a truck.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TruckBuilder
 
@@ -659,11 +655,9 @@ This class constructs a VehicleSpecification for a truck.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-withHeightInCentimeters(int)"
+<div id="sdk-for-android-explore-withHeightInCentimeters(int)"
     class="section detail">
 
     ### withHeightInCentimeters
@@ -692,8 +686,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the vehicle height set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withWidthInCentimeters(int)"
+<div id="sdk-for-android-explore-withWidthInCentimeters(int)"
     class="section detail">
 
     ### withWidthInCentimeters
@@ -722,8 +715,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the vehicle width set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withLengthInCentimeters(int)"
+<div id="sdk-for-android-explore-withLengthInCentimeters(int)"
     class="section detail">
 
     ### withLengthInCentimeters
@@ -752,8 +744,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the vehicle length set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withAxleCount(int)"
+<div id="sdk-for-android-explore-withAxleCount(int)"
     class="section detail">
 
     ### withAxleCount
@@ -782,8 +773,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the axle count set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withKingpinToRearAxleDistanceInCentimeters(int)"
+<div id="sdk-for-android-explore-withKingpinToRearAxleDistanceInCentimeters(int)"
     class="section detail">
 
     ### withKingpinToRearAxleDistanceInCentimeters
@@ -812,8 +802,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the kingpin to rear axle set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withTrailerCount(int)"
+<div id="sdk-for-android-explore-withTrailerCount(int)"
     class="section detail">
 
     ### withTrailerCount
@@ -842,8 +831,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the trailer count set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withTruckCategory(com.here.sdk.transport.TruckCategory)"
+<div id="sdk-for-android-explore-withTruckCategory(com.here.sdk.transport.TruckCategory)"
     class="section detail">
 
     ### withTruckCategory
@@ -873,8 +861,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the truck category set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withIsTruckLight(boolean)"
+<div id="sdk-for-android-explore-withIsTruckLight(boolean)"
     class="section detail">
 
     ### withIsTruckLight
@@ -903,8 +890,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the truck light flag set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withPayloadCapacityInKilograms(int)"
+<div id="sdk-for-android-explore-withPayloadCapacityInKilograms(int)"
     class="section detail">
 
     ### withPayloadCapacityInKilograms
@@ -933,8 +919,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the payload capacity set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withTrailerAxleCount(int)"
+<div id="sdk-for-android-explore-withTrailerAxleCount(int)"
     class="section detail">
 
     ### withTrailerAxleCount
@@ -963,8 +948,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the trailer axle count set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withGrossWeightInKilograms(int)"
+<div id="sdk-for-android-explore-withGrossWeightInKilograms(int)"
     class="section detail">
 
     ### withGrossWeightInKilograms
@@ -993,8 +977,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the gross weight set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withCurrentWeightInKilograms(int)"
+<div id="sdk-for-android-explore-withCurrentWeightInKilograms(int)"
     class="section detail">
 
     ### withCurrentWeightInKilograms
@@ -1023,8 +1006,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the current weight set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withEmptyWeightInKilograms(int)"
+<div id="sdk-for-android-explore-withEmptyWeightInKilograms(int)"
     class="section detail">
 
     ### withEmptyWeightInKilograms
@@ -1053,8 +1035,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the empty weight set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withWeightPerAxleInKilograms(int)"
+<div id="sdk-for-android-explore-withWeightPerAxleInKilograms(int)"
     class="section detail">
 
     ### withWeightPerAxleInKilograms
@@ -1083,8 +1064,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the current weight per axle set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withWeightPerAxleGroup(com.here.sdk.transport.WeightPerAxleGroup)"
+<div id="sdk-for-android-explore-withWeightPerAxleGroup(com.here.sdk.transport.WeightPerAxleGroup)"
     class="section detail">
 
     ### withWeightPerAxleGroup
@@ -1114,8 +1094,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the current weight per axle group set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withIsCommercial(boolean)"
+<div id="sdk-for-android-explore-withIsCommercial(boolean)"
     class="section detail">
 
     ### withIsCommercial
@@ -1144,8 +1123,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the is commercial flag set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withLastCharacterOfLicensePlate(java.lang.String)"
+<div id="sdk-for-android-explore-withLastCharacterOfLicensePlate(java.lang.String)"
     class="section detail">
 
     ### withLastCharacterOfLicensePlate
@@ -1176,8 +1154,7 @@ This class constructs a VehicleSpecification for a truck.
     value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withEngineSizeInCubicCentimeters(int)"
+<div id="sdk-for-android-explore-withEngineSizeInCubicCentimeters(int)"
     class="section detail">
 
     ### withEngineSizeInCubicCentimeters
@@ -1206,8 +1183,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the engine size set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withTiresCount(int)"
+<div id="sdk-for-android-explore-withTiresCount(int)"
     class="section detail">
 
     ### withTiresCount
@@ -1236,8 +1212,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the vehicle tires count set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withTunnelCategory(com.here.sdk.transport.TunnelCategory)"
+<div id="sdk-for-android-explore-withTunnelCategory(com.here.sdk.transport.TunnelCategory)"
     class="section detail">
 
     ### withTunnelCategory
@@ -1267,8 +1242,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the vehicle tunnel category set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withHazardousMaterials(java.util.List)"
+<div id="sdk-for-android-explore-withHazardousMaterials(java.util.List)"
     class="section detail">
 
     ### withHazardousMaterials
@@ -1299,8 +1273,7 @@ This class constructs a VehicleSpecification for a truck.
     to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withOccupancy(int)"
+<div id="sdk-for-android-explore-withOccupancy(int)"
     class="section detail">
 
     ### withOccupancy
@@ -1329,8 +1302,7 @@ This class constructs a VehicleSpecification for a truck.
     object with the vehicle occupants number set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-build()" class="section detail">
+<div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

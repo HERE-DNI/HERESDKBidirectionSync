@@ -42,8 +42,7 @@ Represents the restriction reason of an EVChargingPool .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -53,8 +52,7 @@ Represents the restriction reason of an EVChargingPool .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -160,8 +158,7 @@ Represents the restriction reason of an EVChargingPool .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -256,11 +253,9 @@ Represents the restriction reason of an EVChargingPool .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CUSTOMERS_ONLY"
+<div id="sdk-for-android-explore-CUSTOMERS_ONLY"
     class="section detail">
 
     ### CUSTOMERS_ONLY
@@ -279,8 +274,7 @@ Represents the restriction reason of an EVChargingPool .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BRAND_ONLY" class="section detail">
+<div id="sdk-for-android-explore-BRAND_ONLY" class="section detail">
 
     ### BRAND_ONLY
 
@@ -298,8 +292,7 @@ Represents the restriction reason of an EVChargingPool .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAR_SHARING_ONLY"
+<div id="sdk-for-android-explore-CAR_SHARING_ONLY"
     class="section detail">
 
     ### CAR_SHARING_ONLY
@@ -318,8 +311,7 @@ Represents the restriction reason of an EVChargingPool .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TAXIS_ONLY" class="section detail">
+<div id="sdk-for-android-explore-TAXIS_ONLY" class="section detail">
 
     ### TAXIS_ONLY
 
@@ -337,8 +329,7 @@ Represents the restriction reason of an EVChargingPool .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OTHER" class="section detail">
+<div id="sdk-for-android-explore-OTHER" class="section detail">
 
     ### OTHER
 
@@ -358,11 +349,9 @@ Represents the restriction reason of an EVChargingPool .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -385,8 +374,7 @@ Represents the restriction reason of an EVChargingPool .
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

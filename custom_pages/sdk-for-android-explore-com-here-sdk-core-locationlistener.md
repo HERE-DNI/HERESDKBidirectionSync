@@ -29,8 +29,7 @@ about location updates.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -86,11 +85,9 @@ about location updates.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-onLocationUpdated(com.here.sdk.core.Location)"
+<div id="sdk-for-android-explore-onLocationUpdated(com.here.sdk.core.Location)"
     class="section detail">
 
     ### onLocationUpdated

@@ -52,8 +52,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -63,8 +62,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -298,8 +296,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -394,11 +391,9 @@ properties is under the matching TrafficIncident.VehicleRestriction .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-BUS" class="section detail">
+<div id="sdk-for-android-explore-BUS" class="section detail">
 
     ### BUS
 
@@ -416,8 +411,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAR" class="section detail">
+<div id="sdk-for-android-explore-CAR" class="section detail">
 
     ### CAR
 
@@ -435,8 +429,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HEAVY_GOODS_VEHICLE"
+<div id="sdk-for-android-explore-HEAVY_GOODS_VEHICLE"
     class="section detail">
 
     ### HEAVY_GOODS_VEHICLE
@@ -457,8 +450,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRUCK" class="section detail">
+<div id="sdk-for-android-explore-TRUCK" class="section detail">
 
     ### TRUCK
 
@@ -476,8 +468,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MOTORCYCLE" class="section detail">
+<div id="sdk-for-android-explore-MOTORCYCLE" class="section detail">
 
     ### MOTORCYCLE
 
@@ -495,8 +486,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MOTOR_VEHICLE"
+<div id="sdk-for-android-explore-MOTOR_VEHICLE"
     class="section detail">
 
     ### MOTOR_VEHICLE
@@ -517,8 +507,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TAXI" class="section detail">
+<div id="sdk-for-android-explore-TAXI" class="section detail">
 
     ### TAXI
 
@@ -536,8 +525,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRAIN" class="section detail">
+<div id="sdk-for-android-explore-TRAIN" class="section detail">
 
     ### TRAIN
 
@@ -555,8 +543,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRANSPORTING_ABNORMAL_SIZE_LOAD"
+<div id="sdk-for-android-explore-TRANSPORTING_ABNORMAL_SIZE_LOAD"
     class="section detail">
 
     ### TRANSPORTING_ABNORMAL_SIZE_LOAD
@@ -576,8 +563,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRANSPORTING_HAZARDOUS_GOODS"
+<div id="sdk-for-android-explore-TRANSPORTING_HAZARDOUS_GOODS"
     class="section detail">
 
     ### TRANSPORTING_HAZARDOUS_GOODS
@@ -596,8 +582,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VEHICLE_WITH_TRAILER"
+<div id="sdk-for-android-explore-VEHICLE_WITH_TRAILER"
     class="section detail">
 
     ### VEHICLE_WITH_TRAILER
@@ -616,8 +601,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OTHER" class="section detail">
+<div id="sdk-for-android-explore-OTHER" class="section detail">
 
     ### OTHER
 
@@ -635,8 +619,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ALL" class="section detail">
+<div id="sdk-for-android-explore-ALL" class="section detail">
 
     ### ALL
 
@@ -656,11 +639,9 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -683,8 +664,7 @@ properties is under the matching TrafficIncident.VehicleRestriction .
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

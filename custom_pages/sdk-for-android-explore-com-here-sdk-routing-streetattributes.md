@@ -42,8 +42,7 @@ Types of street attributes.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -53,8 +52,7 @@ Types of street attributes.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -273,8 +271,7 @@ Types of street attributes.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -369,11 +366,9 @@ Types of street attributes.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-RIGHT_DRIVING_SIDE"
+<div id="sdk-for-android-explore-RIGHT_DRIVING_SIDE"
     class="section detail">
 
     ### RIGHT_DRIVING_SIDE
@@ -392,8 +387,7 @@ Types of street attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DIRT_ROAD" class="section detail">
+<div id="sdk-for-android-explore-DIRT_ROAD" class="section detail">
 
     ### DIRT_ROAD
 
@@ -411,8 +405,7 @@ Types of street attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TUNNEL" class="section detail">
+<div id="sdk-for-android-explore-TUNNEL" class="section detail">
 
     ### TUNNEL
 
@@ -430,8 +423,7 @@ Types of street attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BRIDGE" class="section detail">
+<div id="sdk-for-android-explore-BRIDGE" class="section detail">
 
     ### BRIDGE
 
@@ -449,8 +441,7 @@ Types of street attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RAMP" class="section detail">
+<div id="sdk-for-android-explore-RAMP" class="section detail">
 
     ### RAMP
 
@@ -468,8 +459,7 @@ Types of street attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ROUNDABOUT" class="section detail">
+<div id="sdk-for-android-explore-ROUNDABOUT" class="section detail">
 
     ### ROUNDABOUT
 
@@ -487,8 +477,7 @@ Types of street attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UNDER_CONSTRUCTION"
+<div id="sdk-for-android-explore-UNDER_CONSTRUCTION"
     class="section detail">
 
     ### UNDER_CONSTRUCTION
@@ -507,8 +496,7 @@ Types of street attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DIVIDED_ROAD"
+<div id="sdk-for-android-explore-DIVIDED_ROAD"
     class="section detail">
 
     ### DIVIDED_ROAD
@@ -527,8 +515,7 @@ Types of street attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MOTORWAY" class="section detail">
+<div id="sdk-for-android-explore-MOTORWAY" class="section detail">
 
     ### MOTORWAY
 
@@ -546,8 +533,7 @@ Types of street attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PRIVATE_ROAD"
+<div id="sdk-for-android-explore-PRIVATE_ROAD"
     class="section detail">
 
     ### PRIVATE_ROAD
@@ -566,8 +552,7 @@ Types of street attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUILT_UP_AREA"
+<div id="sdk-for-android-explore-BUILT_UP_AREA"
     class="section detail">
 
     ### BUILT_UP_AREA
@@ -586,8 +571,7 @@ Types of street attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CONTROLLED_ACCESS_HIGHWAY"
+<div id="sdk-for-android-explore-CONTROLLED_ACCESS_HIGHWAY"
     class="section detail">
 
     ### CONTROLLED_ACCESS_HIGHWAY
@@ -609,11 +593,9 @@ Types of street attributes.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -636,8 +618,7 @@ Types of street attributes.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

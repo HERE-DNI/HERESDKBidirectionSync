@@ -47,8 +47,7 @@ incident can take some place out of the built route.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -225,11 +224,9 @@ incident can take some place out of the built route.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getId()" class="section detail">
+<div id="sdk-for-android-explore-getId()" class="section detail">
 
     ### getId
 
@@ -253,8 +250,7 @@ incident can take some place out of the built route.
     The unique current identifier for a traffic incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getImpact()"
+<div id="sdk-for-android-explore-getImpact()"
     class="section detail">
 
     ### getImpact
@@ -282,8 +278,7 @@ incident can take some place out of the built route.
     The impact of the incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getType()" class="section detail">
+<div id="sdk-for-android-explore-getType()" class="section detail">
 
     ### getType
 
@@ -310,8 +305,7 @@ incident can take some place out of the built route.
     The category of the incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDescription()"
+<div id="sdk-for-android-explore-getDescription()"
     class="section detail">
 
     ### getDescription
@@ -342,8 +336,7 @@ incident can take some place out of the built route.
     location information.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getStartTime()"
+<div id="sdk-for-android-explore-getStartTime()"
     class="section detail">
 
     ### getStartTime
@@ -372,8 +365,7 @@ incident can take some place out of the built route.
     incident should not be considered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getEndTime()"
+<div id="sdk-for-android-explore-getEndTime()"
     class="section detail">
 
     ### getEndTime

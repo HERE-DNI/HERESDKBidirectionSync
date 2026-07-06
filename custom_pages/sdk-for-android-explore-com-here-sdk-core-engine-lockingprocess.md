@@ -40,8 +40,7 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -179,11 +178,9 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getLockingProcessId(com.here.sdk.core.engine.SDKOptions)"
+<div id="sdk-for-android-explore-getLockingProcessId(com.here.sdk.core.engine.SDKOptions)"
     class="section detail">
 
     ### getLockingProcessId
@@ -247,8 +244,7 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
     and a process ID was successfully read.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
+<div id="sdk-for-android-explore-getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
     class="section detail">
 
     ### getLockingProcessId
@@ -301,8 +297,7 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
     and a process ID was successfully read.
 
     </div>
-
-  - <div id="sdk-for-android-explore-destroyLockingProcess(com.here.sdk.core.engine.SDKOptions,long)"
+<div id="sdk-for-android-explore-destroyLockingProcess(com.here.sdk.core.engine.SDKOptions,long)"
     class="section detail">
 
     ### destroyLockingProcess
@@ -362,8 +357,7 @@ with error InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER .
     of time to perform the operation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"
+<div id="sdk-for-android-explore-destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"
     class="section detail">
 
     ### destroyLockingProcess

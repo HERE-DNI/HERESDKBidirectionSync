@@ -45,8 +45,7 @@ specified in the GeoPolygon are ignored.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -110,8 +109,7 @@ specified in the GeoPolygon are ignored.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -463,11 +461,9 @@ specified in the GeoPolygon are ignored.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color)"
     class="section detail">
 
     ### MapPolygon
@@ -505,8 +501,7 @@ specified in the GeoPolygon are ignored.
     The fill color for the polygon
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color,com.here.sdk.core.Color,double)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolygon,com.here.sdk.core.Color,com.here.sdk.core.Color,double)"
     class="section detail">
 
     ### MapPolygon
@@ -561,11 +556,9 @@ specified in the GeoPolygon are ignored.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getGeometry()"
+<div id="sdk-for-android-explore-getGeometry()"
     class="section detail">
 
     ### getGeometry
@@ -588,8 +581,7 @@ specified in the GeoPolygon are ignored.
     appearance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setGeometry(com.here.sdk.core.GeoPolygon)"
+<div id="sdk-for-android-explore-setGeometry(com.here.sdk.core.GeoPolygon)"
     class="section detail">
 
     ### setGeometry
@@ -621,8 +613,7 @@ specified in the GeoPolygon are ignored.
     appearance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getMetadata()"
+<div id="sdk-for-android-explore-getMetadata()"
     class="section detail">
 
     ### getMetadata
@@ -644,8 +635,7 @@ specified in the GeoPolygon are ignored.
     The Metadata instance attached to this polygon, `null` by default.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setMetadata(com.here.sdk.core.Metadata)"
+<div id="sdk-for-android-explore-setMetadata(com.here.sdk.core.Metadata)"
     class="section detail">
 
     ### setMetadata
@@ -669,8 +659,7 @@ specified in the GeoPolygon are ignored.
     The Metadata instance attached to this polygon, `null` by default.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getFillColor()"
+<div id="sdk-for-android-explore-getFillColor()"
     class="section detail">
 
     ### getFillColor
@@ -692,8 +681,7 @@ specified in the GeoPolygon are ignored.
     Color of the polygon's fill.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setFillColor(com.here.sdk.core.Color)"
+<div id="sdk-for-android-explore-setFillColor(com.here.sdk.core.Color)"
     class="section detail">
 
     ### setFillColor
@@ -718,8 +706,7 @@ specified in the GeoPolygon are ignored.
     Color of the polygon's fill.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDrawOrder()"
+<div id="sdk-for-android-explore-getDrawOrder()"
     class="section detail">
 
     ### getDrawOrder
@@ -741,8 +728,7 @@ specified in the GeoPolygon are ignored.
     The draw order of this map polygon relative to other map polygons.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setDrawOrder(int)"
+<div id="sdk-for-android-explore-setDrawOrder(int)"
     class="section detail">
 
     ### setDrawOrder
@@ -770,8 +756,7 @@ specified in the GeoPolygon are ignored.
     The draw order of this map polygon relative to other map polygons.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getVisibilityRanges()"
+<div id="sdk-for-android-explore-getVisibilityRanges()"
     class="section detail">
 
     ### getVisibilityRanges
@@ -796,8 +781,7 @@ specified in the GeoPolygon are ignored.
     inside these map measure ranges.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
+<div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
     class="section detail">
 
     ### setVisibilityRanges
@@ -829,8 +813,7 @@ specified in the GeoPolygon are ignored.
     inside these map measure ranges.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getOutlineColor()"
+<div id="sdk-for-android-explore-getOutlineColor()"
     class="section detail">
 
     ### getOutlineColor
@@ -853,8 +836,7 @@ specified in the GeoPolygon are ignored.
     The color of the polygon outline.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setOutlineColor(com.here.sdk.core.Color)"
+<div id="sdk-for-android-explore-setOutlineColor(com.here.sdk.core.Color)"
     class="section detail">
 
     ### setOutlineColor
@@ -880,8 +862,7 @@ specified in the GeoPolygon are ignored.
     The color of the polygon outline.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getOutlineWidth()"
+<div id="sdk-for-android-explore-getOutlineWidth()"
     class="section detail">
 
     ### getOutlineWidth
@@ -903,8 +884,7 @@ specified in the GeoPolygon are ignored.
     The width of the polygon outline in pixels.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setOutlineWidth(double)"
+<div id="sdk-for-android-explore-setOutlineWidth(double)"
     class="section detail">
 
     ### setOutlineWidth

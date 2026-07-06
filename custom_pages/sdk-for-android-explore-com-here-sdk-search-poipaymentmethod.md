@@ -38,8 +38,7 @@ releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -423,8 +422,7 @@ releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -462,8 +460,7 @@ releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -479,11 +476,9 @@ releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-AMEX" class="section detail">
+<div id="sdk-for-android-explore-AMEX" class="section detail">
 
     ### AMEX
 
@@ -505,8 +500,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.AMEX)
 
     </div>
-
-  - <div id="sdk-for-android-explore-AMPOL" class="section detail">
+<div id="sdk-for-android-explore-AMPOL" class="section detail">
 
     ### AMPOL
 
@@ -528,8 +522,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.AMPOL)
 
     </div>
-
-  - <div id="sdk-for-android-explore-ANDROID_PAY"
+<div id="sdk-for-android-explore-ANDROID_PAY"
     class="section detail">
 
     ### ANDROID_PAY
@@ -552,8 +545,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.ANDROID_PAY)
 
     </div>
-
-  - <div id="sdk-for-android-explore-APPLE_PAY" class="section detail">
+<div id="sdk-for-android-explore-APPLE_PAY" class="section detail">
 
     ### APPLE_PAY
 
@@ -575,8 +567,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.APPLE_PAY)
 
     </div>
-
-  - <div id="sdk-for-android-explore-CASH" class="section detail">
+<div id="sdk-for-android-explore-CASH" class="section detail">
 
     ### CASH
 
@@ -598,8 +589,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.CASH)
 
     </div>
-
-  - <div id="sdk-for-android-explore-CHEQUE" class="section detail">
+<div id="sdk-for-android-explore-CHEQUE" class="section detail">
 
     ### CHEQUE
 
@@ -621,8 +611,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.CHEQUE)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DEBIT_CARD" class="section detail">
+<div id="sdk-for-android-explore-DEBIT_CARD" class="section detail">
 
     ### DEBIT_CARD
 
@@ -644,8 +633,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DEBIT_CARD)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DINERS_CLUB"
+<div id="sdk-for-android-explore-DINERS_CLUB"
     class="section detail">
 
     ### DINERS_CLUB
@@ -668,8 +656,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DINERS_CLUB)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DISCOVER" class="section detail">
+<div id="sdk-for-android-explore-DISCOVER" class="section detail">
 
     ### DISCOVER
 
@@ -691,8 +678,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DISCOVER)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DKV" class="section detail">
+<div id="sdk-for-android-explore-DKV" class="section detail">
 
     ### DKV
 
@@ -714,8 +700,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.DKV)
 
     </div>
-
-  - <div id="sdk-for-android-explore-FINANCING" class="section detail">
+<div id="sdk-for-android-explore-FINANCING" class="section detail">
 
     ### FINANCING
 
@@ -737,8 +722,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.FINANCING)
 
     </div>
-
-  - <div id="sdk-for-android-explore-MASTERCARD" class="section detail">
+<div id="sdk-for-android-explore-MASTERCARD" class="section detail">
 
     ### MASTERCARD
 
@@ -760,8 +744,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.MASTERCARD)
 
     </div>
-
-  - <div id="sdk-for-android-explore-MOTORPASS" class="section detail">
+<div id="sdk-for-android-explore-MOTORPASS" class="section detail">
 
     ### MOTORPASS
 
@@ -783,8 +766,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.MOTORPASS)
 
     </div>
-
-  - <div id="sdk-for-android-explore-PAYPAL" class="section detail">
+<div id="sdk-for-android-explore-PAYPAL" class="section detail">
 
     ### PAYPAL
 
@@ -806,8 +788,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.PAYPAL)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHELL" class="section detail">
+<div id="sdk-for-android-explore-SHELL" class="section detail">
 
     ### SHELL
 
@@ -829,8 +810,7 @@ releases without a deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.POIPaymentMethod.SHELL)
 
     </div>
-
-  - <div id="sdk-for-android-explore-VISA" class="section detail">
+<div id="sdk-for-android-explore-VISA" class="section detail">
 
     ### VISA
 
@@ -854,11 +834,9 @@ releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### POIPaymentMethod
 

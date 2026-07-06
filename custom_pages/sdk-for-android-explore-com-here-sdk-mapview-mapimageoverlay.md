@@ -48,8 +48,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -113,8 +112,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -335,11 +333,9 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### MapImageOverlay
@@ -370,8 +366,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
     The image to draw on the map.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.Point2D,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### MapImageOverlay
@@ -422,11 +417,9 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getViewCoordinates()"
+<div id="sdk-for-android-explore-getViewCoordinates()"
     class="section detail">
 
     ### getViewCoordinates
@@ -450,8 +443,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
     is drawn.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setViewCoordinates(com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-setViewCoordinates(com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### setViewCoordinates
@@ -477,8 +469,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
     is drawn.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDrawOrder()"
+<div id="sdk-for-android-explore-getDrawOrder()"
     class="section detail">
 
     ### getDrawOrder
@@ -499,8 +490,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
     Draw order of this `MapImageOverlay`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setDrawOrder(int)"
+<div id="sdk-for-android-explore-setDrawOrder(int)"
     class="section detail">
 
     ### setDrawOrder
@@ -528,8 +518,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
     Draw order of this `MapImageOverlay`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getImage()" class="section detail">
+<div id="sdk-for-android-explore-getImage()" class="section detail">
 
     ### getImage
 
@@ -550,8 +539,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
     Image overlayed on the map.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setImage(com.here.sdk.mapview.MapImage)"
+<div id="sdk-for-android-explore-setImage(com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### setImage
@@ -575,8 +563,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
     Image overlayed on the map.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getAnchor()"
+<div id="sdk-for-android-explore-getAnchor()"
     class="section detail">
 
     ### getAnchor
@@ -599,8 +586,7 @@ MapScene.removeMapImageOverlay(com.here.sdk.mapview.MapImageOverlay) .
     offset relative to the overlay's view coordinates.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setAnchor(com.here.sdk.core.Anchor2D)"
+<div id="sdk-for-android-explore-setAnchor(com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### setAnchor

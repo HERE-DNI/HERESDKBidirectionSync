@@ -35,8 +35,7 @@ Represents the level change data for an indoor maneuver.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -112,8 +111,7 @@ Represents the level change data for an indoor maneuver.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -157,8 +155,7 @@ Represents the level change data for an indoor maneuver.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -236,11 +233,9 @@ Represents the level change data for an indoor maneuver.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-connector" class="section detail">
+<div id="sdk-for-android-explore-connector" class="section detail">
 
     ### connector
 
@@ -258,8 +253,7 @@ Represents the level change data for an indoor maneuver.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-deltaZ" class="section detail">
+<div id="sdk-for-android-explore-deltaZ" class="section detail">
 
     ### deltaZ
 
@@ -280,11 +274,9 @@ Represents the level change data for an indoor maneuver.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IndoorLevelChangeFeatures,int)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IndoorLevelChangeFeatures,int)"
     class="section detail">
 
     ### IndoorLevelChangeData
@@ -318,11 +310,9 @@ Represents the level change data for an indoor maneuver.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -338,8 +328,7 @@ Represents the level change data for an indoor maneuver.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

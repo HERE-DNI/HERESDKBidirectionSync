@@ -35,8 +35,7 @@ The options to specify how incidents should be queried.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -178,8 +177,7 @@ The options to specify how incidents should be queried.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -221,8 +219,7 @@ The options to specify how incidents should be queried.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -300,11 +297,9 @@ The options to specify how incidents should be queried.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-typeFilter" class="section detail">
+<div id="sdk-for-android-explore-typeFilter" class="section detail">
 
     ### typeFilter
 
@@ -323,8 +318,7 @@ The options to specify how incidents should be queried.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-impactFilter"
+<div id="sdk-for-android-explore-impactFilter"
     class="section detail">
 
     ### impactFilter
@@ -344,8 +338,7 @@ The options to specify how incidents should be queried.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-earliestStartTime"
+<div id="sdk-for-android-explore-earliestStartTime"
     class="section detail">
 
     ### earliestStartTime
@@ -365,8 +358,7 @@ The options to specify how incidents should be queried.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-latestEndTime"
+<div id="sdk-for-android-explore-latestEndTime"
     class="section detail">
 
     ### latestEndTime
@@ -386,8 +378,7 @@ The options to specify how incidents should be queried.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-languageCode"
+<div id="sdk-for-android-explore-languageCode"
     class="section detail">
 
     ### languageCode
@@ -414,11 +405,9 @@ The options to specify how incidents should be queried.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TrafficIncidentsQueryOptions
 
@@ -437,11 +426,9 @@ The options to specify how incidents should be queried.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -457,8 +444,7 @@ The options to specify how incidents should be queried.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

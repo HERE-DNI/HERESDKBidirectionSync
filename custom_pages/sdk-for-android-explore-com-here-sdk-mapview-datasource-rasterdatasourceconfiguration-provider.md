@@ -39,8 +39,7 @@ Configuration of a data provider.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -185,8 +184,7 @@ Configuration of a data provider.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -250,8 +248,7 @@ Configuration of a data provider.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -267,11 +264,9 @@ Configuration of a data provider.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-urlProvider"
+<div id="sdk-for-android-explore-urlProvider"
     class="section detail">
 
     ### urlProvider
@@ -291,8 +286,7 @@ Configuration of a data provider.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-tilingScheme"
+<div id="sdk-for-android-explore-tilingScheme"
     class="section detail">
 
     ### tilingScheme
@@ -311,8 +305,7 @@ Configuration of a data provider.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-storageLevels"
+<div id="sdk-for-android-explore-storageLevels"
     class="section detail">
 
     ### storageLevels
@@ -340,8 +333,7 @@ Configuration of a data provider.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hasAlphaChannel"
+<div id="sdk-for-android-explore-hasAlphaChannel"
     class="section detail">
 
     ### hasAlphaChannel
@@ -360,8 +352,7 @@ Configuration of a data provider.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-headers" class="section detail">
+<div id="sdk-for-android-explore-headers" class="section detail">
 
     ### headers
 
@@ -382,11 +373,9 @@ Configuration of a data provider.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List,boolean,java.util.Map)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List,boolean,java.util.Map)"
     class="section detail">
 
     ### Provider
@@ -442,8 +431,7 @@ Configuration of a data provider.
     passed with each tile request.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.datasource.TileUrlProviderCallback,com.here.sdk.mapview.datasource.TilingScheme,java.util.List)"
     class="section detail">
 
     ### Provider

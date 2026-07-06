@@ -38,8 +38,7 @@ Provides additional details for an indoor Section .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -147,11 +146,9 @@ Provides additional details for an indoor Section .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getIndoorManeuvers()"
+<div id="sdk-for-android-explore-getIndoorManeuvers()"
     class="section detail">
 
     ### getIndoorManeuvers
@@ -173,8 +170,7 @@ Provides additional details for an indoor Section .
     The list of indoor maneuvers within this indoor section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDeparturePlace()"
+<div id="sdk-for-android-explore-getDeparturePlace()"
     class="section detail">
 
     ### getDeparturePlace
@@ -196,8 +192,7 @@ Provides additional details for an indoor Section .
     Describes the departure place of the indoor section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getArrivalPlace()"
+<div id="sdk-for-android-explore-getArrivalPlace()"
     class="section detail">
 
     ### getArrivalPlace

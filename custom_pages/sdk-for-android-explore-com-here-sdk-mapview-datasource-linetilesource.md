@@ -37,8 +37,7 @@ Related APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -98,8 +97,7 @@ Related APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -164,11 +162,9 @@ Related APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-loadTile(com.here.sdk.mapview.datasource.TileKey,com.here.sdk.mapview.datasource.LineTileSource.LoadResultHandler)"
+<div id="sdk-for-android-explore-loadTile(com.here.sdk.mapview.datasource.TileKey,com.here.sdk.mapview.datasource.LineTileSource.LoadResultHandler)"
     class="section detail">
 
     ### loadTile

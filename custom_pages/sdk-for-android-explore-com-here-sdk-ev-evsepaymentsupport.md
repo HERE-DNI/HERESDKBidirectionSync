@@ -44,8 +44,7 @@ Related APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -55,8 +54,7 @@ Related APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -362,8 +360,7 @@ Related APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -458,11 +455,9 @@ Related APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CHIP_CARD" class="section detail">
+<div id="sdk-for-android-explore-CHIP_CARD" class="section detail">
 
     ### CHIP_CARD
 
@@ -480,8 +475,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CONTACTLESS_CARD"
+<div id="sdk-for-android-explore-CONTACTLESS_CARD"
     class="section detail">
 
     ### CONTACTLESS_CARD
@@ -500,8 +494,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CREDIT_CARD"
+<div id="sdk-for-android-explore-CREDIT_CARD"
     class="section detail">
 
     ### CREDIT_CARD
@@ -521,8 +514,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DEBIT_CARD" class="section detail">
+<div id="sdk-for-android-explore-DEBIT_CARD" class="section detail">
 
     ### DEBIT_CARD
 
@@ -541,8 +533,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PED_TERMINAL"
+<div id="sdk-for-android-explore-PED_TERMINAL"
     class="section detail">
 
     ### PED_TERMINAL
@@ -561,8 +552,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RFID_READER"
+<div id="sdk-for-android-explore-RFID_READER"
     class="section detail">
 
     ### RFID_READER
@@ -581,8 +571,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AUTH_BY_CAR_PLUG_AND_CHARGE"
+<div id="sdk-for-android-explore-AUTH_BY_CAR_PLUG_AND_CHARGE"
     class="section detail">
 
     ### AUTH_BY_CAR_PLUG_AND_CHARGE
@@ -603,8 +592,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AUTH_BY_CAR_AUTOCHARGE"
+<div id="sdk-for-android-explore-AUTH_BY_CAR_AUTOCHARGE"
     class="section detail">
 
     ### AUTH_BY_CAR_AUTOCHARGE
@@ -624,8 +612,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ONLINE_APPLE_PAY"
+<div id="sdk-for-android-explore-ONLINE_APPLE_PAY"
     class="section detail">
 
     ### ONLINE_APPLE_PAY
@@ -644,8 +631,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ONLINE_PAYPAL"
+<div id="sdk-for-android-explore-ONLINE_PAYPAL"
     class="section detail">
 
     ### ONLINE_PAYPAL
@@ -664,8 +650,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ONLINE_CREDIT_CARD"
+<div id="sdk-for-android-explore-ONLINE_CREDIT_CARD"
     class="section detail">
 
     ### ONLINE_CREDIT_CARD
@@ -684,8 +669,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ONLINE_GOOGLE_PAY"
+<div id="sdk-for-android-explore-ONLINE_GOOGLE_PAY"
     class="section detail">
 
     ### ONLINE_GOOGLE_PAY
@@ -704,8 +688,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ONLINE_BANK_PAYMENT"
+<div id="sdk-for-android-explore-ONLINE_BANK_PAYMENT"
     class="section detail">
 
     ### ONLINE_BANK_PAYMENT
@@ -724,8 +707,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TERMINAL_QR_CODE"
+<div id="sdk-for-android-explore-TERMINAL_QR_CODE"
     class="section detail">
 
     ### TERMINAL_QR_CODE
@@ -744,8 +726,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TERMINAL_SMS"
+<div id="sdk-for-android-explore-TERMINAL_SMS"
     class="section detail">
 
     ### TERMINAL_SMS
@@ -764,8 +745,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OPERATOR_APP"
+<div id="sdk-for-android-explore-OPERATOR_APP"
     class="section detail">
 
     ### OPERATOR_APP
@@ -785,8 +765,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MOBILE_PAYMENT"
+<div id="sdk-for-android-explore-MOBILE_PAYMENT"
     class="section detail">
 
     ### MOBILE_PAYMENT
@@ -811,11 +790,9 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -838,8 +815,7 @@ Related APIs may change for new releases without a deprecation process.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

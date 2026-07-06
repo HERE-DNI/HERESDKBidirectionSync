@@ -35,8 +35,7 @@ Represents data related to specific mobile phone number.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -112,8 +111,7 @@ Represents data related to specific mobile phone number.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -172,8 +170,7 @@ Represents data related to specific mobile phone number.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -251,11 +248,9 @@ Represents data related to specific mobile phone number.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-phoneNumber"
+<div id="sdk-for-android-explore-phoneNumber"
     class="section detail">
 
     ### phoneNumber
@@ -274,8 +269,7 @@ Represents data related to specific mobile phone number.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-categories" class="section detail">
+<div id="sdk-for-android-explore-categories" class="section detail">
 
     ### categories
 
@@ -297,11 +291,9 @@ Represents data related to specific mobile phone number.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MobilePhone
 
@@ -318,8 +310,7 @@ Represents data related to specific mobile phone number.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,java.util.List)"
     class="section detail">
 
     ### MobilePhone
@@ -356,11 +347,9 @@ Represents data related to specific mobile phone number.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -376,8 +365,7 @@ Represents data related to specific mobile phone number.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

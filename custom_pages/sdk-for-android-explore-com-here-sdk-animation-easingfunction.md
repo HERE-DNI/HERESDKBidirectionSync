@@ -41,8 +41,7 @@ Animation easing functions.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ Animation easing functions.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -735,8 +733,7 @@ Animation easing functions.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -831,11 +828,9 @@ Animation easing functions.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-LINEAR" class="section detail">
+<div id="sdk-for-android-explore-LINEAR" class="section detail">
 
     ### LINEAR
 
@@ -853,8 +848,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_QUAD" class="section detail">
+<div id="sdk-for-android-explore-IN_QUAD" class="section detail">
 
     ### IN_QUAD
 
@@ -872,8 +866,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_QUAD" class="section detail">
+<div id="sdk-for-android-explore-OUT_QUAD" class="section detail">
 
     ### OUT_QUAD
 
@@ -891,8 +884,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_OUT_QUAD"
+<div id="sdk-for-android-explore-IN_OUT_QUAD"
     class="section detail">
 
     ### IN_OUT_QUAD
@@ -911,8 +903,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_IN_QUAD"
+<div id="sdk-for-android-explore-OUT_IN_QUAD"
     class="section detail">
 
     ### OUT_IN_QUAD
@@ -931,8 +922,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_CUBIC" class="section detail">
+<div id="sdk-for-android-explore-IN_CUBIC" class="section detail">
 
     ### IN_CUBIC
 
@@ -950,8 +940,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_CUBIC" class="section detail">
+<div id="sdk-for-android-explore-OUT_CUBIC" class="section detail">
 
     ### OUT_CUBIC
 
@@ -969,8 +958,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_OUT_CUBIC"
+<div id="sdk-for-android-explore-IN_OUT_CUBIC"
     class="section detail">
 
     ### IN_OUT_CUBIC
@@ -989,8 +977,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_IN_CUBIC"
+<div id="sdk-for-android-explore-OUT_IN_CUBIC"
     class="section detail">
 
     ### OUT_IN_CUBIC
@@ -1009,8 +996,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_QUART" class="section detail">
+<div id="sdk-for-android-explore-IN_QUART" class="section detail">
 
     ### IN_QUART
 
@@ -1028,8 +1014,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_QUART" class="section detail">
+<div id="sdk-for-android-explore-OUT_QUART" class="section detail">
 
     ### OUT_QUART
 
@@ -1047,8 +1032,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_OUT_QUART"
+<div id="sdk-for-android-explore-IN_OUT_QUART"
     class="section detail">
 
     ### IN_OUT_QUART
@@ -1067,8 +1051,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_IN_QUART"
+<div id="sdk-for-android-explore-OUT_IN_QUART"
     class="section detail">
 
     ### OUT_IN_QUART
@@ -1087,8 +1070,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_QUINT" class="section detail">
+<div id="sdk-for-android-explore-IN_QUINT" class="section detail">
 
     ### IN_QUINT
 
@@ -1106,8 +1088,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_QUINT" class="section detail">
+<div id="sdk-for-android-explore-OUT_QUINT" class="section detail">
 
     ### OUT_QUINT
 
@@ -1125,8 +1106,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_OUT_QUINT"
+<div id="sdk-for-android-explore-IN_OUT_QUINT"
     class="section detail">
 
     ### IN_OUT_QUINT
@@ -1145,8 +1125,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_IN_QUINT"
+<div id="sdk-for-android-explore-OUT_IN_QUINT"
     class="section detail">
 
     ### OUT_IN_QUINT
@@ -1165,8 +1144,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_SINE" class="section detail">
+<div id="sdk-for-android-explore-IN_SINE" class="section detail">
 
     ### IN_SINE
 
@@ -1184,8 +1162,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_SINE" class="section detail">
+<div id="sdk-for-android-explore-OUT_SINE" class="section detail">
 
     ### OUT_SINE
 
@@ -1203,8 +1180,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_OUT_SINE"
+<div id="sdk-for-android-explore-IN_OUT_SINE"
     class="section detail">
 
     ### IN_OUT_SINE
@@ -1223,8 +1199,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_IN_SINE"
+<div id="sdk-for-android-explore-OUT_IN_SINE"
     class="section detail">
 
     ### OUT_IN_SINE
@@ -1243,8 +1218,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_EXP" class="section detail">
+<div id="sdk-for-android-explore-IN_EXP" class="section detail">
 
     ### IN_EXP
 
@@ -1262,8 +1236,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_EXP" class="section detail">
+<div id="sdk-for-android-explore-OUT_EXP" class="section detail">
 
     ### OUT_EXP
 
@@ -1281,8 +1254,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_OUT_EXP" class="section detail">
+<div id="sdk-for-android-explore-IN_OUT_EXP" class="section detail">
 
     ### IN_OUT_EXP
 
@@ -1300,8 +1272,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_IN_EXP" class="section detail">
+<div id="sdk-for-android-explore-OUT_IN_EXP" class="section detail">
 
     ### OUT_IN_EXP
 
@@ -1319,8 +1290,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_CIRC" class="section detail">
+<div id="sdk-for-android-explore-IN_CIRC" class="section detail">
 
     ### IN_CIRC
 
@@ -1338,8 +1308,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_CIRC" class="section detail">
+<div id="sdk-for-android-explore-OUT_CIRC" class="section detail">
 
     ### OUT_CIRC
 
@@ -1357,8 +1326,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_OUT_CIRC"
+<div id="sdk-for-android-explore-IN_OUT_CIRC"
     class="section detail">
 
     ### IN_OUT_CIRC
@@ -1377,8 +1345,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_IN_CIRC"
+<div id="sdk-for-android-explore-OUT_IN_CIRC"
     class="section detail">
 
     ### OUT_IN_CIRC
@@ -1397,8 +1364,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_BACK" class="section detail">
+<div id="sdk-for-android-explore-IN_BACK" class="section detail">
 
     ### IN_BACK
 
@@ -1416,8 +1382,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_BACK" class="section detail">
+<div id="sdk-for-android-explore-OUT_BACK" class="section detail">
 
     ### OUT_BACK
 
@@ -1435,8 +1400,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_OUT_BACK"
+<div id="sdk-for-android-explore-IN_OUT_BACK"
     class="section detail">
 
     ### IN_OUT_BACK
@@ -1455,8 +1419,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_IN_BACK"
+<div id="sdk-for-android-explore-OUT_IN_BACK"
     class="section detail">
 
     ### OUT_IN_BACK
@@ -1475,8 +1438,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_BOUNCE" class="section detail">
+<div id="sdk-for-android-explore-IN_BOUNCE" class="section detail">
 
     ### IN_BOUNCE
 
@@ -1494,8 +1456,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_BOUNCE" class="section detail">
+<div id="sdk-for-android-explore-OUT_BOUNCE" class="section detail">
 
     ### OUT_BOUNCE
 
@@ -1513,8 +1474,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_OUT_BOUNCE"
+<div id="sdk-for-android-explore-IN_OUT_BOUNCE"
     class="section detail">
 
     ### IN_OUT_BOUNCE
@@ -1533,8 +1493,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_IN_BOUNCE"
+<div id="sdk-for-android-explore-OUT_IN_BOUNCE"
     class="section detail">
 
     ### OUT_IN_BOUNCE
@@ -1553,8 +1512,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_ELASTIC" class="section detail">
+<div id="sdk-for-android-explore-IN_ELASTIC" class="section detail">
 
     ### IN_ELASTIC
 
@@ -1572,8 +1530,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_ELASTIC"
+<div id="sdk-for-android-explore-OUT_ELASTIC"
     class="section detail">
 
     ### OUT_ELASTIC
@@ -1592,8 +1549,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IN_OUT_ELASTIC"
+<div id="sdk-for-android-explore-IN_OUT_ELASTIC"
     class="section detail">
 
     ### IN_OUT_ELASTIC
@@ -1612,8 +1568,7 @@ Animation easing functions.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_IN_ELASTIC"
+<div id="sdk-for-android-explore-OUT_IN_ELASTIC"
     class="section detail">
 
     ### OUT_IN_ELASTIC
@@ -1634,11 +1589,9 @@ Animation easing functions.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1661,8 +1614,7 @@ Animation easing functions.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

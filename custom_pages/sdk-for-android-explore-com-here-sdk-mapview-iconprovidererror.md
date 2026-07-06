@@ -42,8 +42,7 @@ Error which indicates why an icon could not be retrieved.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -53,8 +52,7 @@ Error which indicates why an icon could not be retrieved.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -129,8 +127,7 @@ Error which indicates why an icon could not be retrieved.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -225,11 +222,9 @@ Error which indicates why an icon could not be retrieved.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-INVALID_STATE"
+<div id="sdk-for-android-explore-INVALID_STATE"
     class="section detail">
 
     ### INVALID_STATE
@@ -248,8 +243,7 @@ Error which indicates why an icon could not be retrieved.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ICON_NOT_FOUND"
+<div id="sdk-for-android-explore-ICON_NOT_FOUND"
     class="section detail">
 
     ### ICON_NOT_FOUND
@@ -269,8 +263,7 @@ Error which indicates why an icon could not be retrieved.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ICON_HANDLING_FAILED"
+<div id="sdk-for-android-explore-ICON_HANDLING_FAILED"
     class="section detail">
 
     ### ICON_HANDLING_FAILED
@@ -291,11 +284,9 @@ Error which indicates why an icon could not be retrieved.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -318,8 +309,7 @@ Error which indicates why an icon could not be retrieved.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

@@ -43,8 +43,7 @@ reduce the amount of needed memory.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -125,8 +124,7 @@ reduce the amount of needed memory.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -142,11 +140,9 @@ reduce the amount of needed memory.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(byte[],com.here.sdk.mapview.ImageFormat)"
+<div id="sdk-for-android-explore-<init>(byte[],com.here.sdk.mapview.ImageFormat)"
     class="section detail">
 
     ### MapImage
@@ -177,8 +173,7 @@ reduce the amount of needed memory.
     The format of the image data to be used.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(byte[],com.here.sdk.mapview.ImageFormat,long,long)"
+<div id="sdk-for-android-explore-<init>(byte[],com.here.sdk.mapview.ImageFormat,long,long)"
     class="section detail">
 
     ### MapImage
@@ -219,8 +214,7 @@ reduce the amount of needed memory.
     The height of the image in pixels.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,long,long)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,long,long)"
     class="section detail">
 
     ### MapImage

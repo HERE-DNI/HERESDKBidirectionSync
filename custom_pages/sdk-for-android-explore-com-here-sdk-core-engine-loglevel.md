@@ -41,8 +41,7 @@ Severity levels for log messages.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ Severity levels for log messages.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -159,8 +157,7 @@ Severity levels for log messages.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -255,11 +252,9 @@ Severity levels for log messages.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-LOG_LEVEL_INFO"
+<div id="sdk-for-android-explore-LOG_LEVEL_INFO"
     class="section detail">
 
     ### LOG_LEVEL_INFO
@@ -278,8 +273,7 @@ Severity levels for log messages.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LOG_LEVEL_WARNING"
+<div id="sdk-for-android-explore-LOG_LEVEL_WARNING"
     class="section detail">
 
     ### LOG_LEVEL_WARNING
@@ -298,8 +292,7 @@ Severity levels for log messages.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LOG_LEVEL_ERROR"
+<div id="sdk-for-android-explore-LOG_LEVEL_ERROR"
     class="section detail">
 
     ### LOG_LEVEL_ERROR
@@ -318,8 +311,7 @@ Severity levels for log messages.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LOG_LEVEL_FATAL"
+<div id="sdk-for-android-explore-LOG_LEVEL_FATAL"
     class="section detail">
 
     ### LOG_LEVEL_FATAL
@@ -338,8 +330,7 @@ Severity levels for log messages.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LOG_LEVEL_OFF"
+<div id="sdk-for-android-explore-LOG_LEVEL_OFF"
     class="section detail">
 
     ### LOG_LEVEL_OFF
@@ -360,11 +351,9 @@ Severity levels for log messages.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -387,8 +376,7 @@ Severity levels for log messages.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

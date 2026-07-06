@@ -42,8 +42,7 @@ latitude of the northEastCorner .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -119,8 +118,7 @@ latitude of the northEastCorner .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -163,8 +161,7 @@ latitude of the northEastCorner .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -447,11 +444,9 @@ latitude of the northEastCorner .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-southWestCorner"
+<div id="sdk-for-android-explore-southWestCorner"
     class="section detail">
 
     ### southWestCorner
@@ -471,8 +466,7 @@ latitude of the northEastCorner .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-northEastCorner"
+<div id="sdk-for-android-explore-northEastCorner"
     class="section detail">
 
     ### northEastCorner
@@ -494,11 +488,9 @@ latitude of the northEastCorner .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCoordinates)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### GeoBox
@@ -530,11 +522,9 @@ latitude of the northEastCorner .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -550,8 +540,7 @@ latitude of the northEastCorner .
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -566,8 +555,7 @@ latitude of the northEastCorner .
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-containing(java.util.List)"
+<div id="sdk-for-android-explore-containing(java.util.List)"
     class="section detail">
 
     ### containing
@@ -599,8 +587,7 @@ latitude of the northEastCorner .
     two coordinates were provided.
 
     </div>
-
-  - <div id="sdk-for-android-explore-envelope(com.here.sdk.core.GeoBox)"
+<div id="sdk-for-android-explore-envelope(com.here.sdk.core.GeoBox)"
     class="section detail">
 
     ### envelope
@@ -629,8 +616,7 @@ latitude of the northEastCorner .
     `GeoBox` covering two`GeoBox` areas
 
     </div>
-
-  - <div id="sdk-for-android-explore-envelopeGeoBoxes(java.util.List)"
+<div id="sdk-for-android-explore-envelopeGeoBoxes(java.util.List)"
     class="section detail">
 
     ### envelopeGeoBoxes
@@ -660,8 +646,7 @@ latitude of the northEastCorner .
     `GeoBox` covering all `GeoBox` areas, or `null` if input is empty.
 
     </div>
-
-  - <div id="sdk-for-android-explore-intersects(com.here.sdk.core.GeoBox)"
+<div id="sdk-for-android-explore-intersects(com.here.sdk.core.GeoBox)"
     class="section detail">
 
     ### intersects
@@ -689,8 +674,7 @@ latitude of the northEastCorner .
     `true` if intersects with the `GeoBox, false` otherwise.
 
     </div>
-
-  - <div id="sdk-for-android-explore-intersection(com.here.sdk.core.GeoBox)"
+<div id="sdk-for-android-explore-intersection(com.here.sdk.core.GeoBox)"
     class="section detail">
 
     ### intersection
@@ -725,8 +709,7 @@ latitude of the northEastCorner .
     [`GeoBox`](sdk-for-android-explore-com-here-sdk-core-geobox "class in com.here.sdk.core").
 
     </div>
-
-  - <div id="sdk-for-android-explore-intersection(java.util.List)"
+<div id="sdk-for-android-explore-intersection(java.util.List)"
     class="section detail">
 
     ### intersection
@@ -767,8 +750,7 @@ latitude of the northEastCorner .
     instances.
 
     </div>
-
-  - <div id="sdk-for-android-explore-contains(com.here.sdk.core.GeoBox)"
+<div id="sdk-for-android-explore-contains(com.here.sdk.core.GeoBox)"
     class="section detail">
 
     ### contains
@@ -796,8 +778,7 @@ latitude of the northEastCorner .
     `true` if covered by the `GeoBox, false` otherwise.
 
     </div>
-
-  - <div id="sdk-for-android-explore-contains(com.here.sdk.core.GeoCoordinates)"
+<div id="sdk-for-android-explore-contains(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### contains
@@ -825,8 +806,7 @@ latitude of the northEastCorner .
     `true` if contained within the `GeoBox, false` otherwise.
 
     </div>
-
-  - <div id="sdk-for-android-explore-expandedBy(double,double,double,double)"
+<div id="sdk-for-android-explore-expandedBy(double,double,double,double)"
     class="section detail">
 
     ### expandedBy

@@ -39,8 +39,7 @@ case of the success. It is null in case of an error.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -99,11 +98,9 @@ case of the success. It is null in case of an error.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-onTrafficIncidentFetched(com.here.sdk.traffic.TrafficQueryError,com.here.sdk.traffic.TrafficIncident)"
+<div id="sdk-for-android-explore-onTrafficIncidentFetched(com.here.sdk.traffic.TrafficQueryError,com.here.sdk.traffic.TrafficIncident)"
     class="section detail">
 
     ### onTrafficIncidentFetched

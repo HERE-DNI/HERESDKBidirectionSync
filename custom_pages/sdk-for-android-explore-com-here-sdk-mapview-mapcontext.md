@@ -44,8 +44,7 @@ be active and once selected it cannot be changed.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -232,8 +231,7 @@ be active and once selected it cannot be changed.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -341,11 +339,9 @@ be active and once selected it cannot be changed.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-freeResource(com.here.sdk.mapview.MapContext.ResourceType,com.here.sdk.mapview.MapContext.FreeResourceSeverity)"
+<div id="sdk-for-android-explore-freeResource(com.here.sdk.mapview.MapContext.ResourceType,com.here.sdk.mapview.MapContext.FreeResourceSeverity)"
     class="section detail">
 
     ### freeResource
@@ -379,8 +375,7 @@ be active and once selected it cannot be changed.
     Severity of the request.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getMemoryManagementOptions()"
+<div id="sdk-for-android-explore-getMemoryManagementOptions()"
     class="section detail">
 
     ### getMemoryManagementOptions
@@ -402,8 +397,7 @@ be active and once selected it cannot be changed.
     process.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementOptions,com.here.sdk.mapview.MapContext.SetMemoryManagementOptionsCallback)"
+<div id="sdk-for-android-explore-setMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementOptions,com.here.sdk.mapview.MapContext.SetMemoryManagementOptionsCallback)"
     class="section detail">
 
     ### setMemoryManagementOptions

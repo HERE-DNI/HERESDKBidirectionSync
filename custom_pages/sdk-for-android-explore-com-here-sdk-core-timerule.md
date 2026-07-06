@@ -60,8 +60,7 @@ in both components. For more advanced examples of TimeRule see here .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -105,8 +104,7 @@ in both components. For more advanced examples of TimeRule see here .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -270,11 +268,9 @@ in both components. For more advanced examples of TimeRule see here .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,int,java.lang.String)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,int,java.lang.String)"
     class="section detail">
 
     ### TimeRule
@@ -311,11 +307,9 @@ in both components. For more advanced examples of TimeRule see here .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -331,8 +325,7 @@ in both components. For more advanced examples of TimeRule see here .
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -347,8 +340,7 @@ in both components. For more advanced examples of TimeRule see here .
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-appliesTo(java.util.Date)"
+<div id="sdk-for-android-explore-appliesTo(java.util.Date)"
     class="section detail">
 
     ### appliesTo
@@ -370,8 +362,7 @@ in both components. For more advanced examples of TimeRule see here .
     `false` - otherwise.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTimeRuleString()"
+<div id="sdk-for-android-explore-getTimeRuleString()"
     class="section detail">
 
     ### getTimeRuleString
@@ -393,8 +384,7 @@ in both components. For more advanced examples of TimeRule see here .
     The time rule as a string in ISO 14825 format.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTimeZoneOffsetSeconds()"
+<div id="sdk-for-android-explore-getTimeZoneOffsetSeconds()"
     class="section detail">
 
     ### getTimeZoneOffsetSeconds
@@ -417,8 +407,7 @@ in both components. For more advanced examples of TimeRule see here .
     applies.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDstSpec()"
+<div id="sdk-for-android-explore-getDstSpec()"
     class="section detail">
 
     ### getDstSpec

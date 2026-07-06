@@ -38,8 +38,7 @@ Initializes threading support on native side.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -126,11 +125,9 @@ Initializes threading support on native side.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-setPlatformThreading(com.here.sdk.core.threading.PlatformThreading)"
+<div id="sdk-for-android-explore-setPlatformThreading(com.here.sdk.core.threading.PlatformThreading)"
     class="section detail">
 
     ### setPlatformThreading
@@ -157,8 +154,7 @@ Initializes threading support on native side.
     platform side.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPlatformThreading()"
+<div id="sdk-for-android-explore-getPlatformThreading()"
     class="section detail">
 
     ### getPlatformThreading

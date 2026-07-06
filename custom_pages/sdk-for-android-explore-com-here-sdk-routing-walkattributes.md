@@ -41,8 +41,7 @@ Types of walk attributes.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ Types of walk attributes.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -175,8 +173,7 @@ Types of walk attributes.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -271,11 +268,9 @@ Types of walk attributes.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-STAIRS" class="section detail">
+<div id="sdk-for-android-explore-STAIRS" class="section detail">
 
     ### STAIRS
 
@@ -293,8 +288,7 @@ Types of walk attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PARK" class="section detail">
+<div id="sdk-for-android-explore-PARK" class="section detail">
 
     ### PARK
 
@@ -312,8 +306,7 @@ Types of walk attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INDOOR" class="section detail">
+<div id="sdk-for-android-explore-INDOOR" class="section detail">
 
     ### INDOOR
 
@@ -331,8 +324,7 @@ Types of walk attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OPEN" class="section detail">
+<div id="sdk-for-android-explore-OPEN" class="section detail">
 
     ### OPEN
 
@@ -350,8 +342,7 @@ Types of walk attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NO_THROUGH" class="section detail">
+<div id="sdk-for-android-explore-NO_THROUGH" class="section detail">
 
     ### NO_THROUGH
 
@@ -369,8 +360,7 @@ Types of walk attributes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TOLL_ROAD" class="section detail">
+<div id="sdk-for-android-explore-TOLL_ROAD" class="section detail">
 
     ### TOLL_ROAD
 
@@ -390,11 +380,9 @@ Types of walk attributes.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -417,8 +405,7 @@ Types of walk attributes.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

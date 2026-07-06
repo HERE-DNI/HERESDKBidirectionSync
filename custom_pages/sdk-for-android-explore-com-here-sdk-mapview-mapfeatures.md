@@ -38,8 +38,7 @@ constants representing feature modes.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -316,8 +315,7 @@ constants representing feature modes.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -355,8 +353,7 @@ constants representing feature modes.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -372,11 +369,9 @@ constants representing feature modes.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-EXTRUDED_BUILDINGS"
+<div id="sdk-for-android-explore-EXTRUDED_BUILDINGS"
     class="section detail">
 
     ### EXTRUDED_BUILDINGS
@@ -407,8 +402,7 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.EXTRUDED_BUILDINGS)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUILDING_FOOTPRINTS"
+<div id="sdk-for-android-explore-BUILDING_FOOTPRINTS"
     class="section detail">
 
     ### BUILDING_FOOTPRINTS
@@ -439,8 +433,7 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.BUILDING_FOOTPRINTS)
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRAFFIC_FLOW"
+<div id="sdk-for-android-explore-TRAFFIC_FLOW"
     class="section detail">
 
     ### TRAFFIC_FLOW
@@ -476,8 +469,7 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_FLOW)
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRAFFIC_INCIDENTS"
+<div id="sdk-for-android-explore-TRAFFIC_INCIDENTS"
     class="section detail">
 
     ### TRAFFIC_INCIDENTS
@@ -509,8 +501,7 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_INCIDENTS)
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRAFFIC_LIGHTS"
+<div id="sdk-for-android-explore-TRAFFIC_LIGHTS"
     class="section detail">
 
     ### TRAFFIC_LIGHTS
@@ -537,8 +528,7 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.TRAFFIC_LIGHTS)
 
     </div>
-
-  - <div id="sdk-for-android-explore-ENVIRONMENTAL_ZONES"
+<div id="sdk-for-android-explore-ENVIRONMENTAL_ZONES"
     class="section detail">
 
     ### ENVIRONMENTAL_ZONES
@@ -567,8 +557,7 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.ENVIRONMENTAL_ZONES)
 
     </div>
-
-  - <div id="sdk-for-android-explore-CONGESTION_ZONES"
+<div id="sdk-for-android-explore-CONGESTION_ZONES"
     class="section detail">
 
     ### CONGESTION_ZONES
@@ -596,8 +585,7 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.CONGESTION_ZONES)
 
     </div>
-
-  - <div id="sdk-for-android-explore-LOW_SPEED_ZONES"
+<div id="sdk-for-android-explore-LOW_SPEED_ZONES"
     class="section detail">
 
     ### LOW_SPEED_ZONES
@@ -625,8 +613,7 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.LOW_SPEED_ZONES)
 
     </div>
-
-  - <div id="sdk-for-android-explore-ROAD_EXIT_LABELS"
+<div id="sdk-for-android-explore-ROAD_EXIT_LABELS"
     class="section detail">
 
     ### ROAD_EXIT_LABELS
@@ -658,8 +645,7 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.ROAD_EXIT_LABELS)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHADOWS" class="section detail">
+<div id="sdk-for-android-explore-SHADOWS" class="section detail">
 
     ### SHADOWS
 
@@ -694,8 +680,7 @@ constants representing feature modes.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatures.SHADOWS)
 
     </div>
-
-  - <div id="sdk-for-android-explore-AMBIENT_OCCLUSION"
+<div id="sdk-for-android-explore-AMBIENT_OCCLUSION"
     class="section detail">
 
     ### AMBIENT_OCCLUSION
@@ -732,11 +717,9 @@ constants representing feature modes.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MapFeatures
 

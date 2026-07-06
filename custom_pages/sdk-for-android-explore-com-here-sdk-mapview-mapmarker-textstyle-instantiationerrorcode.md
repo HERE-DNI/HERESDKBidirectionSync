@@ -47,8 +47,7 @@ Describes a reason for failing to create a MapMarker.TextStyle .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -58,8 +57,7 @@ Describes a reason for failing to create a MapMarker.TextStyle .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -152,8 +150,7 @@ Describes a reason for failing to create a MapMarker.TextStyle .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -248,11 +245,9 @@ Describes a reason for failing to create a MapMarker.TextStyle .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-NON_POSITIVE_TEXT_SIZE"
+<div id="sdk-for-android-explore-NON_POSITIVE_TEXT_SIZE"
     class="section detail">
 
     ### NON_POSITIVE_TEXT_SIZE
@@ -271,8 +266,7 @@ Describes a reason for failing to create a MapMarker.TextStyle .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NEGATIVE_TEXT_OUTLINE_SIZE"
+<div id="sdk-for-android-explore-NEGATIVE_TEXT_OUTLINE_SIZE"
     class="section detail">
 
     ### NEGATIVE_TEXT_OUTLINE_SIZE
@@ -292,8 +286,7 @@ Describes a reason for failing to create a MapMarker.TextStyle .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-EMPTY_TEXT_PLACEMENT_LIST"
+<div id="sdk-for-android-explore-EMPTY_TEXT_PLACEMENT_LIST"
     class="section detail">
 
     ### EMPTY_TEXT_PLACEMENT_LIST
@@ -313,8 +306,7 @@ Describes a reason for failing to create a MapMarker.TextStyle .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DUPLICATE_TEXT_PLACEMENT_VALUES"
+<div id="sdk-for-android-explore-DUPLICATE_TEXT_PLACEMENT_VALUES"
     class="section detail">
 
     ### DUPLICATE_TEXT_PLACEMENT_VALUES
@@ -336,11 +328,9 @@ Describes a reason for failing to create a MapMarker.TextStyle .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -363,8 +353,7 @@ Describes a reason for failing to create a MapMarker.TextStyle .
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

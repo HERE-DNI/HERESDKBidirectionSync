@@ -41,8 +41,7 @@ Identifies the action type.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ Identifies the action type.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -146,8 +144,7 @@ Identifies the action type.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -242,11 +239,9 @@ Identifies the action type.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CHARGING_SETUP"
+<div id="sdk-for-android-explore-CHARGING_SETUP"
     class="section detail">
 
     ### CHARGING_SETUP
@@ -267,8 +262,7 @@ Identifies the action type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CHARGING" class="section detail">
+<div id="sdk-for-android-explore-CHARGING" class="section detail">
 
     ### CHARGING
 
@@ -286,8 +280,7 @@ Identifies the action type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DEBOARD" class="section detail">
+<div id="sdk-for-android-explore-DEBOARD" class="section detail">
 
     ### DEBOARD
 
@@ -305,8 +298,7 @@ Identifies the action type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-WAIT" class="section detail">
+<div id="sdk-for-android-explore-WAIT" class="section detail">
 
     ### WAIT
 
@@ -327,11 +319,9 @@ Identifies the action type.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -354,8 +344,7 @@ Identifies the action type.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

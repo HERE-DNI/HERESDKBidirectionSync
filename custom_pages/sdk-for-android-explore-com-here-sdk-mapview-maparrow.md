@@ -40,8 +40,7 @@ component of GeoPolyline 's vertices is ignored.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -85,8 +84,7 @@ component of GeoPolyline 's vertices is ignored.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -216,11 +214,9 @@ component of GeoPolyline 's vertices is ignored.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolyline,double,com.here.sdk.core.Color)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolyline,double,com.here.sdk.core.Color)"
     class="section detail">
 
     ### MapArrow
@@ -260,11 +256,9 @@ component of GeoPolyline 's vertices is ignored.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getMeasureDependentTailWidth()"
+<div id="sdk-for-android-explore-getMeasureDependentTailWidth()"
     class="section detail">
 
     ### getMeasureDependentTailWidth
@@ -295,8 +289,7 @@ component of GeoPolyline 's vertices is ignored.
     [`MapMeasure`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview").
 
     </div>
-
-  - <div id="sdk-for-android-explore-setMeasureDependentTailWidth(java.util.Map)"
+<div id="sdk-for-android-explore-setMeasureDependentTailWidth(java.util.Map)"
     class="section detail">
 
     ### setMeasureDependentTailWidth
@@ -335,8 +328,7 @@ component of GeoPolyline 's vertices is ignored.
     [`MapMeasure`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview").
 
     </div>
-
-  - <div id="sdk-for-android-explore-getVisibilityRanges()"
+<div id="sdk-for-android-explore-getVisibilityRanges()"
     class="section detail">
 
     ### getVisibilityRanges
@@ -364,8 +356,7 @@ component of GeoPolyline 's vertices is ignored.
     The list of visibility ranges, in which the map arrow is visible.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
+<div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
     class="section detail">
 
     ### setVisibilityRanges

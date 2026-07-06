@@ -42,8 +42,7 @@ stable.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -208,8 +207,7 @@ stable.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -313,8 +311,7 @@ stable.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -392,11 +389,9 @@ stable.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-currency" class="section detail">
+<div id="sdk-for-android-explore-currency" class="section detail">
 
     ### currency
 
@@ -415,8 +410,7 @@ stable.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-price" class="section detail">
+<div id="sdk-for-android-explore-price" class="section detail">
 
     ### price
 
@@ -433,8 +427,7 @@ stable.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-paymentMethods"
+<div id="sdk-for-android-explore-paymentMethods"
     class="section detail">
 
     ### paymentMethods
@@ -453,8 +446,7 @@ stable.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-timeRule" class="section detail">
+<div id="sdk-for-android-explore-timeRule" class="section detail">
 
     ### timeRule
 
@@ -475,8 +467,7 @@ stable.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-transponders"
+<div id="sdk-for-android-explore-transponders"
     class="section detail">
 
     ### transponders
@@ -495,8 +486,7 @@ stable.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-pass" class="section detail">
+<div id="sdk-for-android-explore-pass" class="section detail">
 
     ### pass
 
@@ -517,11 +507,9 @@ stable.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,double,java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,double,java.util.List)"
     class="section detail">
 
     ### TollFare
@@ -555,8 +543,7 @@ stable.
     The list of accepted payment methods like cash and credit card.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule)"
     class="section detail">
 
     ### TollFare
@@ -600,8 +587,7 @@ stable.
     Domain](https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/time-domain.html)
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule,java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule,java.util.List)"
     class="section detail">
 
     ### TollFare
@@ -650,8 +636,7 @@ stable.
     The list of available transponders.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule,java.util.List,com.here.sdk.routing.TollFarePass)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,double,java.util.List,com.here.sdk.core.TimeRule,java.util.List,com.here.sdk.routing.TollFarePass)"
     class="section detail">
 
     ### TollFare
@@ -710,11 +695,9 @@ stable.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -730,8 +713,7 @@ stable.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

@@ -36,8 +36,7 @@ optional direction and route type information.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -135,8 +134,7 @@ optional direction and route type information.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -179,8 +177,7 @@ optional direction and route type information.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -281,11 +278,9 @@ optional direction and route type information.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-localizedNumber"
+<div id="sdk-for-android-explore-localizedNumber"
     class="section detail">
 
     ### localizedNumber
@@ -304,8 +299,7 @@ optional direction and route type information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-direction" class="section detail">
+<div id="sdk-for-android-explore-direction" class="section detail">
 
     ### direction
 
@@ -330,8 +324,7 @@ optional direction and route type information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-routeType" class="section detail">
+<div id="sdk-for-android-explore-routeType" class="section detail">
 
     ### routeType
 
@@ -351,11 +344,9 @@ optional direction and route type information.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.LocalizedText,com.here.sdk.core.RouteType)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.LocalizedText,com.here.sdk.core.RouteType)"
     class="section detail">
 
     ### LocalizedRoadNumber
@@ -387,11 +378,9 @@ optional direction and route type information.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -407,8 +396,7 @@ optional direction and route type information.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -423,8 +411,7 @@ optional direction and route type information.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTextWithDirection()"
+<div id="sdk-for-android-explore-getTextWithDirection()"
     class="section detail">
 
     ### getTextWithDirection

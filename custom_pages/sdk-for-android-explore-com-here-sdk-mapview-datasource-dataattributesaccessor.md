@@ -47,8 +47,7 @@ process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -499,11 +498,9 @@ process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-addOrReplace(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-addOrReplace(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### addOrReplace
@@ -532,8 +529,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addOrReplace(java.lang.String,long)"
+<div id="sdk-for-android-explore-addOrReplace(java.lang.String,long)"
     class="section detail">
 
     ### addOrReplace
@@ -562,8 +558,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addOrReplace(java.lang.String,float)"
+<div id="sdk-for-android-explore-addOrReplace(java.lang.String,float)"
     class="section detail">
 
     ### addOrReplace
@@ -592,8 +587,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addOrReplace(java.lang.String,double)"
+<div id="sdk-for-android-explore-addOrReplace(java.lang.String,double)"
     class="section detail">
 
     ### addOrReplace
@@ -622,8 +616,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addOrReplace(java.lang.String,boolean)"
+<div id="sdk-for-android-explore-addOrReplace(java.lang.String,boolean)"
     class="section detail">
 
     ### addOrReplace
@@ -652,8 +645,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addOrReplace(java.lang.String,com.here.sdk.core.Color)"
+<div id="sdk-for-android-explore-addOrReplace(java.lang.String,com.here.sdk.core.Color)"
     class="section detail">
 
     ### addOrReplace
@@ -683,8 +675,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addOrReplace(java.lang.String,com.here.sdk.mapview.datasource.DataAttributeValue)"
+<div id="sdk-for-android-explore-addOrReplace(java.lang.String,com.here.sdk.mapview.datasource.DataAttributeValue)"
     class="section detail">
 
     ### addOrReplace
@@ -714,8 +705,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-remove(java.lang.String)"
+<div id="sdk-for-android-explore-remove(java.lang.String)"
     class="section detail">
 
     ### remove
@@ -739,8 +729,7 @@ process.
     Attribute name.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeAll()"
+<div id="sdk-for-android-explore-removeAll()"
     class="section detail">
 
     ### removeAll
@@ -758,8 +747,7 @@ process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-getAttributeNames()"
+<div id="sdk-for-android-explore-getAttributeNames()"
     class="section detail">
 
     ### getAttributeNames
@@ -785,8 +773,7 @@ process.
     The list of attribute names.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getValueType(java.lang.String)"
+<div id="sdk-for-android-explore-getValueType(java.lang.String)"
     class="section detail">
 
     ### getValueType
@@ -819,8 +806,7 @@ process.
     Attribute value type or `null` if it is not contained.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getAsString(java.lang.String)"
+<div id="sdk-for-android-explore-getAsString(java.lang.String)"
     class="section detail">
 
     ### getAsString
@@ -853,8 +839,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getString(java.lang.String)"
+<div id="sdk-for-android-explore-getString(java.lang.String)"
     class="section detail">
 
     ### getString
@@ -887,8 +872,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getInt64(java.lang.String)"
+<div id="sdk-for-android-explore-getInt64(java.lang.String)"
     class="section detail">
 
     ### getInt64
@@ -921,8 +905,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getFloat(java.lang.String)"
+<div id="sdk-for-android-explore-getFloat(java.lang.String)"
     class="section detail">
 
     ### getFloat
@@ -955,8 +938,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDouble(java.lang.String)"
+<div id="sdk-for-android-explore-getDouble(java.lang.String)"
     class="section detail">
 
     ### getDouble
@@ -989,8 +971,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getBoolean(java.lang.String)"
+<div id="sdk-for-android-explore-getBoolean(java.lang.String)"
     class="section detail">
 
     ### getBoolean
@@ -1023,8 +1004,7 @@ process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getValue(java.lang.String)"
+<div id="sdk-for-android-explore-getValue(java.lang.String)"
     class="section detail">
 
     ### getValue

@@ -35,8 +35,7 @@ Represents a render size, described as map measure dependent values.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -114,8 +113,7 @@ Represents a render size, described as map measure dependent values.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -213,8 +211,7 @@ Represents a render size, described as map measure dependent values.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -276,8 +273,7 @@ Represents a render size, described as map measure dependent values.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -355,11 +351,9 @@ Represents a render size, described as map measure dependent values.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-measureKind"
+<div id="sdk-for-android-explore-measureKind"
     class="section detail">
 
     ### measureKind
@@ -379,8 +373,7 @@ Represents a render size, described as map measure dependent values.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-sizeUnit" class="section detail">
+<div id="sdk-for-android-explore-sizeUnit" class="section detail">
 
     ### sizeUnit
 
@@ -399,8 +392,7 @@ Represents a render size, described as map measure dependent values.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-sizes" class="section detail">
+<div id="sdk-for-android-explore-sizes" class="section detail">
 
     ### sizes
 
@@ -424,11 +416,9 @@ Represents a render size, described as map measure dependent values.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasure.Kind,com.here.sdk.mapview.RenderSize.Unit,java.util.Map)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasure.Kind,com.here.sdk.mapview.RenderSize.Unit,java.util.Map)"
     class="section detail">
 
     ### MapMeasureDependentRenderSize
@@ -473,8 +463,7 @@ Represents a render size, described as map measure dependent values.
     keys or values.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.RenderSize.Unit,double)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.RenderSize.Unit,double)"
     class="section detail">
 
     ### MapMeasureDependentRenderSize
@@ -514,11 +503,9 @@ Represents a render size, described as map measure dependent values.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -534,8 +521,7 @@ Represents a render size, described as map measure dependent values.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

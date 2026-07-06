@@ -41,8 +41,7 @@ change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -141,8 +140,7 @@ change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -184,8 +182,7 @@ change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -201,11 +198,9 @@ change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-memoryManagementStrategy"
+<div id="sdk-for-android-explore-memoryManagementStrategy"
     class="section detail">
 
     ### memoryManagementStrategy
@@ -232,8 +227,7 @@ change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-tileCacheMemoryLimitInKiB"
+<div id="sdk-for-android-explore-tileCacheMemoryLimitInKiB"
     class="section detail">
 
     ### tileCacheMemoryLimitInKiB
@@ -255,8 +249,7 @@ change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-videoMemoryLimitInKiB"
+<div id="sdk-for-android-explore-videoMemoryLimitInKiB"
     class="section detail">
 
     ### videoMemoryLimitInKiB
@@ -278,11 +271,9 @@ change for new releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MemoryManagementOptions
 

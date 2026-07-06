@@ -54,8 +54,7 @@ licence.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -146,8 +145,7 @@ licence.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -1300,11 +1298,9 @@ licence.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### RoutingEngine
 
@@ -1328,8 +1324,7 @@ licence.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
     class="section detail">
 
     ### RoutingEngine
@@ -1360,8 +1355,7 @@ licence.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RoutingConnectionSettings)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RoutingConnectionSettings)"
     class="section detail">
 
     ### RoutingEngine
@@ -1392,8 +1386,7 @@ licence.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.routing.RoutingConnectionSettings)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.routing.RoutingConnectionSettings)"
     class="section detail">
 
     ### RoutingEngine
@@ -1432,11 +1425,9 @@ licence.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### refreshRoute
@@ -1534,8 +1525,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,java.lang.Integer,java.lang.Integer,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,java.lang.Integer,java.lang.Integer,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### refreshRoute
@@ -1645,8 +1635,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,java.lang.Integer,java.lang.Integer,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,java.lang.Integer,java.lang.Integer,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### refreshRoute
@@ -1757,8 +1746,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### refreshRoute
@@ -1857,8 +1845,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RefreshRouteParameters,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-refreshRoute(com.here.sdk.routing.RefreshRouteParameters,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### refreshRoute
@@ -1904,8 +1891,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.RefreshRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -1974,8 +1960,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2047,8 +2032,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2135,8 +2119,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2219,8 +2202,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2307,8 +2289,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2384,8 +2365,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2457,8 +2437,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2534,8 +2513,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2607,8 +2585,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2684,8 +2661,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2757,8 +2733,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2830,8 +2805,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2906,8 +2880,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -2979,8 +2952,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3063,8 +3035,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3147,8 +3118,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3235,8 +3205,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3319,8 +3288,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3403,8 +3371,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3490,8 +3457,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3574,8 +3540,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3632,8 +3597,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(java.util.List,java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3701,8 +3665,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-importRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-importRoute(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### importRoute
@@ -3749,8 +3712,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateTrafficOnRoute(com.here.sdk.routing.Route,int,int,com.here.sdk.routing.CalculateTrafficOnRouteCallback)"
+<div id="sdk-for-android-explore-calculateTrafficOnRoute(com.here.sdk.routing.Route,int,int,com.here.sdk.routing.CalculateTrafficOnRouteCallback)"
     class="section detail">
 
     ### calculateTrafficOnRoute
@@ -3808,8 +3770,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateTrafficOnRoute(com.here.sdk.routing.Route,int,int,double,com.here.sdk.routing.CalculateTrafficOnRouteCallback)"
+<div id="sdk-for-android-explore-calculateTrafficOnRoute(com.here.sdk.routing.Route,int,int,double,com.here.sdk.routing.CalculateTrafficOnRouteCallback)"
     class="section detail">
 
     ### calculateTrafficOnRoute
@@ -3883,8 +3844,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setCustomOption(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-setCustomOption(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### setCustomOption
@@ -3927,8 +3887,7 @@ licence.
     the input name and/or value haven't passed internal validation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.RoutingOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -3980,8 +3939,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.CarOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4049,8 +4007,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.PedestrianOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4122,8 +4079,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.TruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4191,8 +4147,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.ScooterOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4264,8 +4219,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.BicycleOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4337,8 +4291,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.TaxiOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4410,8 +4363,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.EVCarOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4479,8 +4431,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.EVTruckOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4548,8 +4499,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.BusOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4617,8 +4567,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-calculateRoute(java.util.List,com.here.sdk.routing.PrivateBusOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -4686,8 +4635,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-returnToRoute(com.here.sdk.routing.Route,com.here.sdk.routing.Waypoint,int,int,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-returnToRoute(com.here.sdk.routing.Route,com.here.sdk.routing.Waypoint,int,int,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### returnToRoute
@@ -4782,8 +4730,7 @@ licence.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-dispose()" class="section detail">
+<div id="sdk-for-android-explore-dispose()" class="section detail">
 
     ### dispose
 

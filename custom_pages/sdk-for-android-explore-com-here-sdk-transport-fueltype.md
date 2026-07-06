@@ -44,8 +44,7 @@ deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -55,8 +54,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -562,8 +560,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -658,11 +655,9 @@ deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-DIESEL" class="section detail">
+<div id="sdk-for-android-explore-DIESEL" class="section detail">
 
     ### DIESEL
 
@@ -680,8 +675,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LPG" class="section detail">
+<div id="sdk-for-android-explore-LPG" class="section detail">
 
     ### LPG
 
@@ -699,8 +693,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BIO_DIESEL" class="section detail">
+<div id="sdk-for-android-explore-BIO_DIESEL" class="section detail">
 
     ### BIO_DIESEL
 
@@ -718,8 +711,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CNG" class="section detail">
+<div id="sdk-for-android-explore-CNG" class="section detail">
 
     ### CNG
 
@@ -737,8 +729,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DIESEL_WITH_ADDITIVES"
+<div id="sdk-for-android-explore-DIESEL_WITH_ADDITIVES"
     class="section detail">
 
     ### DIESEL_WITH_ADDITIVES
@@ -757,8 +748,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-E10" class="section detail">
+<div id="sdk-for-android-explore-E10" class="section detail">
 
     ### E10
 
@@ -776,8 +766,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-E20" class="section detail">
+<div id="sdk-for-android-explore-E20" class="section detail">
 
     ### E20
 
@@ -795,8 +784,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-E85" class="section detail">
+<div id="sdk-for-android-explore-E85" class="section detail">
 
     ### E85
 
@@ -814,8 +802,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ETHANOL" class="section detail">
+<div id="sdk-for-android-explore-ETHANOL" class="section detail">
 
     ### ETHANOL
 
@@ -833,8 +820,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ETHANOL_WITH_ADDITIVES"
+<div id="sdk-for-android-explore-ETHANOL_WITH_ADDITIVES"
     class="section detail">
 
     ### ETHANOL_WITH_ADDITIVES
@@ -853,8 +839,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GASOLINE" class="section detail">
+<div id="sdk-for-android-explore-GASOLINE" class="section detail">
 
     ### GASOLINE
 
@@ -872,8 +857,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GASOHOL_91" class="section detail">
+<div id="sdk-for-android-explore-GASOHOL_91" class="section detail">
 
     ### GASOHOL_91
 
@@ -891,8 +875,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GASOHOL_95" class="section detail">
+<div id="sdk-for-android-explore-GASOHOL_95" class="section detail">
 
     ### GASOHOL_95
 
@@ -910,8 +893,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HVO" class="section detail">
+<div id="sdk-for-android-explore-HVO" class="section detail">
 
     ### HVO
 
@@ -929,8 +911,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HYDROGEN" class="section detail">
+<div id="sdk-for-android-explore-HYDROGEN" class="section detail">
 
     ### HYDROGEN
 
@@ -948,8 +929,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LNG" class="section detail">
+<div id="sdk-for-android-explore-LNG" class="section detail">
 
     ### LNG
 
@@ -967,8 +947,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MIDGRADE" class="section detail">
+<div id="sdk-for-android-explore-MIDGRADE" class="section detail">
 
     ### MIDGRADE
 
@@ -986,8 +965,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PREMIUM" class="section detail">
+<div id="sdk-for-android-explore-PREMIUM" class="section detail">
 
     ### PREMIUM
 
@@ -1005,8 +983,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PREMIUM_WITH_ADDITIVES"
+<div id="sdk-for-android-explore-PREMIUM_WITH_ADDITIVES"
     class="section detail">
 
     ### PREMIUM_WITH_ADDITIVES
@@ -1025,8 +1002,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-REGULAR" class="section detail">
+<div id="sdk-for-android-explore-REGULAR" class="section detail">
 
     ### REGULAR
 
@@ -1044,8 +1020,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-REGULAR_WITH_ADDITIVES"
+<div id="sdk-for-android-explore-REGULAR_WITH_ADDITIVES"
     class="section detail">
 
     ### REGULAR_WITH_ADDITIVES
@@ -1064,8 +1039,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OCTANE_87" class="section detail">
+<div id="sdk-for-android-explore-OCTANE_87" class="section detail">
 
     ### OCTANE_87
 
@@ -1083,8 +1057,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OCTANE_89" class="section detail">
+<div id="sdk-for-android-explore-OCTANE_89" class="section detail">
 
     ### OCTANE_89
 
@@ -1102,8 +1075,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OCTANE_90" class="section detail">
+<div id="sdk-for-android-explore-OCTANE_90" class="section detail">
 
     ### OCTANE_90
 
@@ -1121,8 +1093,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OCTANE_91" class="section detail">
+<div id="sdk-for-android-explore-OCTANE_91" class="section detail">
 
     ### OCTANE_91
 
@@ -1140,8 +1111,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OCTANE_92" class="section detail">
+<div id="sdk-for-android-explore-OCTANE_92" class="section detail">
 
     ### OCTANE_92
 
@@ -1159,8 +1129,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OCTANE_93" class="section detail">
+<div id="sdk-for-android-explore-OCTANE_93" class="section detail">
 
     ### OCTANE_93
 
@@ -1178,8 +1147,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OCTANE_95" class="section detail">
+<div id="sdk-for-android-explore-OCTANE_95" class="section detail">
 
     ### OCTANE_95
 
@@ -1197,8 +1165,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OCTANE_98" class="section detail">
+<div id="sdk-for-android-explore-OCTANE_98" class="section detail">
 
     ### OCTANE_98
 
@@ -1216,8 +1183,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OCTANE_100" class="section detail">
+<div id="sdk-for-android-explore-OCTANE_100" class="section detail">
 
     ### OCTANE_100
 
@@ -1237,11 +1203,9 @@ deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1264,8 +1228,7 @@ deprecation process.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

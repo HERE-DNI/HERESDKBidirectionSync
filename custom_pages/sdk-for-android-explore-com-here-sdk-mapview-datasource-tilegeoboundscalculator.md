@@ -43,8 +43,7 @@ process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -86,8 +85,7 @@ process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -152,11 +150,9 @@ process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.datasource.TilingScheme)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.datasource.TilingScheme)"
     class="section detail">
 
     ### TileGeoBoundsCalculator
@@ -183,11 +179,9 @@ process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-boundsOf(com.here.sdk.mapview.datasource.TileKey)"
+<div id="sdk-for-android-explore-boundsOf(com.here.sdk.mapview.datasource.TileKey)"
     class="section detail">
 
     ### boundsOf

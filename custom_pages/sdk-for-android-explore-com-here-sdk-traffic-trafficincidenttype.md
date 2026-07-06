@@ -42,8 +42,7 @@ Category of a traffic incident.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -53,8 +52,7 @@ Category of a traffic incident.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -275,8 +273,7 @@ Category of a traffic incident.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -371,11 +368,9 @@ Category of a traffic incident.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-ACCIDENT" class="section detail">
+<div id="sdk-for-android-explore-ACCIDENT" class="section detail">
 
     ### ACCIDENT
 
@@ -393,8 +388,7 @@ Category of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CONGESTION" class="section detail">
+<div id="sdk-for-android-explore-CONGESTION" class="section detail">
 
     ### CONGESTION
 
@@ -412,8 +406,7 @@ Category of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CONSTRUCTION"
+<div id="sdk-for-android-explore-CONSTRUCTION"
     class="section detail">
 
     ### CONSTRUCTION
@@ -432,8 +425,7 @@ Category of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DISABLED_VEHICLE"
+<div id="sdk-for-android-explore-DISABLED_VEHICLE"
     class="section detail">
 
     ### DISABLED_VEHICLE
@@ -452,8 +444,7 @@ Category of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MASS_TRANSIT"
+<div id="sdk-for-android-explore-MASS_TRANSIT"
     class="section detail">
 
     ### MASS_TRANSIT
@@ -472,8 +463,7 @@ Category of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PLANNED_EVENT"
+<div id="sdk-for-android-explore-PLANNED_EVENT"
     class="section detail">
 
     ### PLANNED_EVENT
@@ -492,8 +482,7 @@ Category of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ROAD_HAZARD"
+<div id="sdk-for-android-explore-ROAD_HAZARD"
     class="section detail">
 
     ### ROAD_HAZARD
@@ -513,8 +502,7 @@ Category of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-WEATHER" class="section detail">
+<div id="sdk-for-android-explore-WEATHER" class="section detail">
 
     ### WEATHER
 
@@ -532,8 +520,7 @@ Category of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ROAD_CLOSURE"
+<div id="sdk-for-android-explore-ROAD_CLOSURE"
     class="section detail">
 
     ### ROAD_CLOSURE
@@ -552,8 +539,7 @@ Category of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LANE_RESTRICTION"
+<div id="sdk-for-android-explore-LANE_RESTRICTION"
     class="section detail">
 
     ### LANE_RESTRICTION
@@ -572,8 +558,7 @@ Category of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OTHER" class="section detail">
+<div id="sdk-for-android-explore-OTHER" class="section detail">
 
     ### OTHER
 
@@ -592,8 +577,7 @@ Category of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UNKNOWN" class="section detail">
+<div id="sdk-for-android-explore-UNKNOWN" class="section detail">
 
     ### UNKNOWN
 
@@ -614,11 +598,9 @@ Category of a traffic incident.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -641,8 +623,7 @@ Category of a traffic incident.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

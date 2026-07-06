@@ -40,8 +40,7 @@ the Navigate licence.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -117,8 +116,7 @@ the Navigate licence.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -160,8 +158,7 @@ the Navigate licence.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -177,11 +174,9 @@ the Navigate licence.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-locationIndex"
+<div id="sdk-for-android-explore-locationIndex"
     class="section detail">
 
     ### locationIndex
@@ -200,8 +195,7 @@ the Navigate licence.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-stopDuration"
+<div id="sdk-for-android-explore-stopDuration"
     class="section detail">
 
     ### stopDuration
@@ -222,11 +216,9 @@ the Navigate licence.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(int)"
+<div id="sdk-for-android-explore-<init>(int)"
     class="section detail">
 
     ### RouteStop

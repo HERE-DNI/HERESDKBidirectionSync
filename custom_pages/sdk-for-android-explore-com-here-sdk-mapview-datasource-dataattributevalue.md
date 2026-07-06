@@ -41,8 +41,7 @@ new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -96,8 +95,7 @@ new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -235,8 +233,7 @@ new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -478,11 +475,9 @@ new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String)"
+<div id="sdk-for-android-explore-<init>(java.lang.String)"
     class="section detail">
 
     ### DataAttributeValue
@@ -506,8 +501,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(long)"
+<div id="sdk-for-android-explore-<init>(long)"
     class="section detail">
 
     ### DataAttributeValue
@@ -530,8 +524,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(float)"
+<div id="sdk-for-android-explore-<init>(float)"
     class="section detail">
 
     ### DataAttributeValue
@@ -554,8 +547,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double)"
+<div id="sdk-for-android-explore-<init>(double)"
     class="section detail">
 
     ### DataAttributeValue
@@ -578,8 +570,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(boolean)"
+<div id="sdk-for-android-explore-<init>(boolean)"
     class="section detail">
 
     ### DataAttributeValue
@@ -602,8 +593,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.Color)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.Color)"
     class="section detail">
 
     ### DataAttributeValue
@@ -627,8 +617,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.util.List)"
     class="section detail">
 
     ### DataAttributeValue
@@ -654,11 +643,9 @@ new releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getType()" class="section detail">
+<div id="sdk-for-android-explore-getType()" class="section detail">
 
     ### getType
 
@@ -679,8 +666,7 @@ new releases without a deprecation process.
     The type of the value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getString()"
+<div id="sdk-for-android-explore-getString()"
     class="section detail">
 
     ### getString
@@ -702,8 +688,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getInt64()" class="section detail">
+<div id="sdk-for-android-explore-getInt64()" class="section detail">
 
     ### getInt64
 
@@ -724,8 +709,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getFloat()" class="section detail">
+<div id="sdk-for-android-explore-getFloat()" class="section detail">
 
     ### getFloat
 
@@ -747,8 +731,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDouble()"
+<div id="sdk-for-android-explore-getDouble()"
     class="section detail">
 
     ### getDouble
@@ -771,8 +754,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getBoolean()"
+<div id="sdk-for-android-explore-getBoolean()"
     class="section detail">
 
     ### getBoolean
@@ -794,8 +776,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getColor()" class="section detail">
+<div id="sdk-for-android-explore-getColor()" class="section detail">
 
     ### getColor
 
@@ -816,8 +797,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getArray()" class="section detail">
+<div id="sdk-for-android-explore-getArray()" class="section detail">
 
     ### getArray
 
@@ -838,8 +818,7 @@ new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getAsString()"
+<div id="sdk-for-android-explore-getAsString()"
     class="section detail">
 
     ### getAsString

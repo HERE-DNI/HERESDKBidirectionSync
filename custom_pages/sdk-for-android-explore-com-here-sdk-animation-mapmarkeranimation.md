@@ -38,8 +38,7 @@ An animation that can be applied to the MapMarker object.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -116,8 +115,7 @@ An animation that can be applied to the MapMarker object.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -159,8 +157,7 @@ An animation that can be applied to the MapMarker object.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -176,11 +173,9 @@ An animation that can be applied to the MapMarker object.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.animation.MapItemKeyFrameTrack)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.animation.MapItemKeyFrameTrack)"
     class="section detail">
 
     ### MapMarkerAnimation

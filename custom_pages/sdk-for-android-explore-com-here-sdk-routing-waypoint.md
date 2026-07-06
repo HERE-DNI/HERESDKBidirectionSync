@@ -35,8 +35,7 @@ Represents a waypoint, used as input for route calculation.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -386,8 +385,7 @@ Represents a waypoint, used as input for route calculation.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -474,8 +472,7 @@ Represents a waypoint, used as input for route calculation.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -553,11 +550,9 @@ Represents a waypoint, used as input for route calculation.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-coordinates"
+<div id="sdk-for-android-explore-coordinates"
     class="section detail">
 
     ### coordinates
@@ -576,8 +571,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-type" class="section detail">
+<div id="sdk-for-android-explore-type" class="section detail">
 
     ### type
 
@@ -596,8 +590,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-transitRadiusInMeters"
+<div id="sdk-for-android-explore-transitRadiusInMeters"
     class="section detail">
 
     ### transitRadiusInMeters
@@ -623,8 +616,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-headingInDegrees"
+<div id="sdk-for-android-explore-headingInDegrees"
     class="section detail">
 
     ### headingInDegrees
@@ -650,8 +642,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-sideOfStreetHint"
+<div id="sdk-for-android-explore-sideOfStreetHint"
     class="section detail">
 
     ### sideOfStreetHint
@@ -675,8 +666,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-displayLocation"
+<div id="sdk-for-android-explore-displayLocation"
     class="section detail">
 
     ### displayLocation
@@ -700,8 +690,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-minCourseDistanceInMeters"
+<div id="sdk-for-android-explore-minCourseDistanceInMeters"
     class="section detail">
 
     ### minCourseDistanceInMeters
@@ -723,8 +712,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-nameHint" class="section detail">
+<div id="sdk-for-android-explore-nameHint" class="section detail">
 
     ### nameHint
 
@@ -745,8 +733,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-matchSideOfStreet"
+<div id="sdk-for-android-explore-matchSideOfStreet"
     class="section detail">
 
     ### matchSideOfStreet
@@ -767,8 +754,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-duration" class="section detail">
+<div id="sdk-for-android-explore-duration" class="section detail">
 
     ### duration
 
@@ -789,8 +775,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-segmentHint"
+<div id="sdk-for-android-explore-segmentHint"
     class="section detail">
 
     ### segmentHint
@@ -815,8 +800,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-onRoadThresholdInMeters"
+<div id="sdk-for-android-explore-onRoadThresholdInMeters"
     class="section detail">
 
     ### onRoadThresholdInMeters
@@ -840,8 +824,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-chargingStop"
+<div id="sdk-for-android-explore-chargingStop"
     class="section detail">
 
     ### chargingStop
@@ -866,8 +849,7 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-currentWeightChangeInKilograms"
+<div id="sdk-for-android-explore-currentWeightChangeInKilograms"
     class="section detail">
 
     ### currentWeightChangeInKilograms
@@ -900,11 +882,9 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### Waypoint
@@ -928,8 +908,7 @@ Represents a waypoint, used as input for route calculation.
     The waypoint's geographic coordinates.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,com.here.time.Duration)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,com.here.time.Duration)"
     class="section detail">
 
     ### Waypoint
@@ -1017,8 +996,7 @@ Represents a waypoint, used as input for route calculation.
     The default duration is 0 seconds.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,java.lang.String,com.here.time.Duration)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.routing.WaypointType,int,java.lang.Double,com.here.sdk.core.GeoCoordinates,java.lang.Integer,java.lang.String,com.here.time.Duration)"
     class="section detail">
 
     ### Waypoint
@@ -1117,11 +1095,9 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -1137,8 +1113,7 @@ Represents a waypoint, used as input for route calculation.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

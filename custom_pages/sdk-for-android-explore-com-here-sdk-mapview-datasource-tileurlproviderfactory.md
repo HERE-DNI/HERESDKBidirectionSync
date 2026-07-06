@@ -40,8 +40,7 @@ tile URL.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -105,11 +104,9 @@ tile URL.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-fromXyzUrlTemplate(java.lang.String)"
+<div id="sdk-for-android-explore-fromXyzUrlTemplate(java.lang.String)"
     class="section detail">
 
     ### fromXyzUrlTemplate

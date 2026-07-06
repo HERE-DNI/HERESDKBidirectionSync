@@ -47,8 +47,7 @@ Specifies expected result type.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -58,8 +57,7 @@ Specifies expected result type.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -165,8 +163,7 @@ Specifies expected result type.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -261,11 +258,9 @@ Specifies expected result type.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-COUNTRY" class="section detail">
+<div id="sdk-for-android-explore-COUNTRY" class="section detail">
 
     ### COUNTRY
 
@@ -283,8 +278,7 @@ Specifies expected result type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CITY" class="section detail">
+<div id="sdk-for-android-explore-CITY" class="section detail">
 
     ### CITY
 
@@ -302,8 +296,7 @@ Specifies expected result type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-POSTAL_CODE"
+<div id="sdk-for-android-explore-POSTAL_CODE"
     class="section detail">
 
     ### POSTAL_CODE
@@ -322,8 +315,7 @@ Specifies expected result type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DISTRICT" class="section detail">
+<div id="sdk-for-android-explore-DISTRICT" class="section detail">
 
     ### DISTRICT
 
@@ -341,8 +333,7 @@ Specifies expected result type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-STREET" class="section detail">
+<div id="sdk-for-android-explore-STREET" class="section detail">
 
     ### STREET
 
@@ -362,11 +353,9 @@ Specifies expected result type.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -389,8 +378,7 @@ Specifies expected result type.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

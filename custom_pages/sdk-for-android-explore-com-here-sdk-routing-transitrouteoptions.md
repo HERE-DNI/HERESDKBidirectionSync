@@ -36,8 +36,7 @@ calculated.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -270,8 +269,7 @@ calculated.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -313,8 +311,7 @@ calculated.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -414,11 +411,9 @@ calculated.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-departureTime"
+<div id="sdk-for-android-explore-departureTime"
     class="section detail">
 
     ### departureTime
@@ -438,8 +433,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-arrivalTime"
+<div id="sdk-for-android-explore-arrivalTime"
     class="section detail">
 
     ### arrivalTime
@@ -458,8 +452,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-alternatives"
+<div id="sdk-for-android-explore-alternatives"
     class="section detail">
 
     ### alternatives
@@ -479,8 +472,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-changes" class="section detail">
+<div id="sdk-for-android-explore-changes" class="section detail">
 
     ### changes
 
@@ -500,8 +492,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-modeFilter" class="section detail">
+<div id="sdk-for-android-explore-modeFilter" class="section detail">
 
     ### modeFilter
 
@@ -520,8 +511,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-modes" class="section detail">
+<div id="sdk-for-android-explore-modes" class="section detail">
 
     ### modes
 
@@ -545,8 +535,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-pedestrianSpeedInMetersPerSecond"
+<div id="sdk-for-android-explore-pedestrianSpeedInMetersPerSecond"
     class="section detail">
 
     ### pedestrianSpeedInMetersPerSecond
@@ -568,8 +557,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-pedestrianMaxDistanceInMeters"
+<div id="sdk-for-android-explore-pedestrianMaxDistanceInMeters"
     class="section detail">
 
     ### pedestrianMaxDistanceInMeters
@@ -589,8 +577,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-textOptions"
+<div id="sdk-for-android-explore-textOptions"
     class="section detail">
 
     ### textOptions
@@ -612,11 +599,9 @@ calculated.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TransitRouteOptions
 
@@ -635,11 +620,9 @@ calculated.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -655,8 +638,7 @@ calculated.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -671,8 +653,7 @@ calculated.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-fromDefaultParameterConfiguration()"
+<div id="sdk-for-android-explore-fromDefaultParameterConfiguration()"
     class="section detail">
 
     ### fromDefaultParameterConfiguration

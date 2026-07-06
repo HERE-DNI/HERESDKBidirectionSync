@@ -40,8 +40,7 @@ restriction rules.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -717,8 +716,7 @@ restriction rules.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -760,8 +758,7 @@ restriction rules.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -839,11 +836,9 @@ restriction rules.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-isRestrictedAlways"
+<div id="sdk-for-android-explore-isRestrictedAlways"
     class="section detail">
 
     ### isRestrictedAlways
@@ -862,8 +857,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isDieselFuelRestricted"
+<div id="sdk-for-android-explore-isDieselFuelRestricted"
     class="section detail">
 
     ### isDieselFuelRestricted
@@ -882,8 +876,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isPetrolFuelRestricted"
+<div id="sdk-for-android-explore-isPetrolFuelRestricted"
     class="section detail">
 
     ### isPetrolFuelRestricted
@@ -902,8 +895,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isLpgFuelRestricted"
+<div id="sdk-for-android-explore-isLpgFuelRestricted"
     class="section detail">
 
     ### isLpgFuelRestricted
@@ -922,8 +914,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isCaravanRestricted"
+<div id="sdk-for-android-explore-isCaravanRestricted"
     class="section detail">
 
     ### isCaravanRestricted
@@ -942,8 +933,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isTrailerRestricted"
+<div id="sdk-for-android-explore-isTrailerRestricted"
     class="section detail">
 
     ### isTrailerRestricted
@@ -962,8 +952,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isDrivingWithoutSnowChainsRestricted"
+<div id="sdk-for-android-explore-isDrivingWithoutSnowChainsRestricted"
     class="section detail">
 
     ### isDrivingWithoutSnowChainsRestricted
@@ -982,8 +971,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isDrivingWithoutWinterTyresRestricted"
+<div id="sdk-for-android-explore-isDrivingWithoutWinterTyresRestricted"
     class="section detail">
 
     ### isDrivingWithoutWinterTyresRestricted
@@ -1002,8 +990,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isEvenNumberPlateRestricted"
+<div id="sdk-for-android-explore-isEvenNumberPlateRestricted"
     class="section detail">
 
     ### isEvenNumberPlateRestricted
@@ -1022,8 +1009,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isOddNumberPlateRestricted"
+<div id="sdk-for-android-explore-isOddNumberPlateRestricted"
     class="section detail">
 
     ### isOddNumberPlateRestricted
@@ -1042,8 +1028,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isThroughTrafficRestricted"
+<div id="sdk-for-android-explore-isThroughTrafficRestricted"
     class="section detail">
 
     ### isThroughTrafficRestricted
@@ -1062,8 +1047,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isResidentsTrafficRestricted"
+<div id="sdk-for-android-explore-isResidentsTrafficRestricted"
     class="section detail">
 
     ### isResidentsTrafficRestricted
@@ -1082,8 +1066,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isDestinationInIncidentAreaRestricted"
+<div id="sdk-for-android-explore-isDestinationInIncidentAreaRestricted"
     class="section detail">
 
     ### isDestinationInIncidentAreaRestricted
@@ -1102,8 +1085,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isEuro3EmissionStandardRestricted"
+<div id="sdk-for-android-explore-isEuro3EmissionStandardRestricted"
     class="section detail">
 
     ### isEuro3EmissionStandardRestricted
@@ -1122,8 +1104,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isEuro4EmissionStandardRestricted"
+<div id="sdk-for-android-explore-isEuro4EmissionStandardRestricted"
     class="section detail">
 
     ### isEuro4EmissionStandardRestricted
@@ -1142,8 +1123,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isEuro5EmissionStandardRestricted"
+<div id="sdk-for-android-explore-isEuro5EmissionStandardRestricted"
     class="section detail">
 
     ### isEuro5EmissionStandardRestricted
@@ -1162,8 +1142,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-restrictedIfGrossWeightMoreThanInKilograms"
+<div id="sdk-for-android-explore-restrictedIfGrossWeightMoreThanInKilograms"
     class="section detail">
 
     ### restrictedIfGrossWeightMoreThanInKilograms
@@ -1184,8 +1163,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-restrictedIfGrossWeightLessThanInKilograms"
+<div id="sdk-for-android-explore-restrictedIfGrossWeightLessThanInKilograms"
     class="section detail">
 
     ### restrictedIfGrossWeightLessThanInKilograms
@@ -1206,8 +1184,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-restrictedIfAxleWeightMoreThanInKilograms"
+<div id="sdk-for-android-explore-restrictedIfAxleWeightMoreThanInKilograms"
     class="section detail">
 
     ### restrictedIfAxleWeightMoreThanInKilograms
@@ -1228,8 +1205,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-restrictedIfAxleWeightLessThanInKilograms"
+<div id="sdk-for-android-explore-restrictedIfAxleWeightLessThanInKilograms"
     class="section detail">
 
     ### restrictedIfAxleWeightLessThanInKilograms
@@ -1250,8 +1226,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-restrictedIfLongerThanInCentimeters"
+<div id="sdk-for-android-explore-restrictedIfLongerThanInCentimeters"
     class="section detail">
 
     ### restrictedIfLongerThanInCentimeters
@@ -1272,8 +1247,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-restrictedIfShorterThanInCentimeters"
+<div id="sdk-for-android-explore-restrictedIfShorterThanInCentimeters"
     class="section detail">
 
     ### restrictedIfShorterThanInCentimeters
@@ -1294,8 +1268,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-restrictedIfHigherThanInCentimeters"
+<div id="sdk-for-android-explore-restrictedIfHigherThanInCentimeters"
     class="section detail">
 
     ### restrictedIfHigherThanInCentimeters
@@ -1316,8 +1289,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-restrictedIfLowerThanInCentimeters"
+<div id="sdk-for-android-explore-restrictedIfLowerThanInCentimeters"
     class="section detail">
 
     ### restrictedIfLowerThanInCentimeters
@@ -1338,8 +1310,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-restrictedIfWiderThanInCentimeters"
+<div id="sdk-for-android-explore-restrictedIfWiderThanInCentimeters"
     class="section detail">
 
     ### restrictedIfWiderThanInCentimeters
@@ -1360,8 +1331,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-restrictedIfNarrowerThanInCentimeters"
+<div id="sdk-for-android-explore-restrictedIfNarrowerThanInCentimeters"
     class="section detail">
 
     ### restrictedIfNarrowerThanInCentimeters
@@ -1382,8 +1352,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-restrictedIfOccupantsMoreThan"
+<div id="sdk-for-android-explore-restrictedIfOccupantsMoreThan"
     class="section detail">
 
     ### restrictedIfOccupantsMoreThan
@@ -1404,8 +1373,7 @@ restriction rules.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-restrictedIfOccupantsFewerThan"
+<div id="sdk-for-android-explore-restrictedIfOccupantsFewerThan"
     class="section detail">
 
     ### restrictedIfOccupantsFewerThan
@@ -1428,11 +1396,9 @@ restriction rules.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### VehicleRestriction
 
@@ -1451,11 +1417,9 @@ restriction rules.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -1471,8 +1435,7 @@ restriction rules.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

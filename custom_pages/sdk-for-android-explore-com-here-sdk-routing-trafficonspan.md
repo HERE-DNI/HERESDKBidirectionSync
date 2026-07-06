@@ -35,8 +35,7 @@ Traffic information of a span along a route.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -270,8 +269,7 @@ Traffic information of a span along a route.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -313,8 +311,7 @@ Traffic information of a span along a route.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -392,11 +389,9 @@ Traffic information of a span along a route.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-trafficSectionPolylineOffset"
+<div id="sdk-for-android-explore-trafficSectionPolylineOffset"
     class="section detail">
 
     ### trafficSectionPolylineOffset
@@ -414,8 +409,7 @@ Traffic information of a span along a route.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-lengthInMeters"
+<div id="sdk-for-android-explore-lengthInMeters"
     class="section detail">
 
     ### lengthInMeters
@@ -433,8 +427,7 @@ Traffic information of a span along a route.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-duration" class="section detail">
+<div id="sdk-for-android-explore-duration" class="section detail">
 
     ### duration
 
@@ -454,8 +447,7 @@ Traffic information of a span along a route.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-trafficDelay"
+<div id="sdk-for-android-explore-trafficDelay"
     class="section detail">
 
     ### trafficDelay
@@ -476,8 +468,7 @@ Traffic information of a span along a route.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-baseSpeedInMetersPerSecond"
+<div id="sdk-for-android-explore-baseSpeedInMetersPerSecond"
     class="section detail">
 
     ### baseSpeedInMetersPerSecond
@@ -496,8 +487,7 @@ Traffic information of a span along a route.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-trafficSpeedInMetersPerSecond"
+<div id="sdk-for-android-explore-trafficSpeedInMetersPerSecond"
     class="section detail">
 
     ### trafficSpeedInMetersPerSecond
@@ -515,8 +505,7 @@ Traffic information of a span along a route.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-jamFactor" class="section detail">
+<div id="sdk-for-android-explore-jamFactor" class="section detail">
 
     ### jamFactor
 
@@ -536,8 +525,7 @@ Traffic information of a span along a route.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-incidentIndices"
+<div id="sdk-for-android-explore-incidentIndices"
     class="section detail">
 
     ### incidentIndices
@@ -557,8 +545,7 @@ Traffic information of a span along a route.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-consumptionInKilowattHours"
+<div id="sdk-for-android-explore-consumptionInKilowattHours"
     class="section detail">
 
     ### consumptionInKilowattHours
@@ -580,11 +567,9 @@ Traffic information of a span along a route.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TrafficOnSpan
 
@@ -603,11 +588,9 @@ Traffic information of a span along a route.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -623,8 +606,7 @@ Traffic information of a span along a route.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

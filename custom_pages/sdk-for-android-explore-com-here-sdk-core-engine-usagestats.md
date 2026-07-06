@@ -38,8 +38,7 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -115,8 +114,7 @@ APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -193,8 +191,7 @@ APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -237,8 +234,7 @@ APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -254,11 +250,9 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-networkStats"
+<div id="sdk-for-android-explore-networkStats"
     class="section detail">
 
     ### networkStats
@@ -277,8 +271,7 @@ APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-feature" class="section detail">
+<div id="sdk-for-android-explore-feature" class="section detail">
 
     ### feature
 
@@ -299,11 +292,9 @@ APIs may change for new releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,com.here.sdk.core.engine.UsageStats.Feature)"
+<div id="sdk-for-android-explore-<init>(java.util.List,com.here.sdk.core.engine.UsageStats.Feature)"
     class="section detail">
 
     ### UsageStats

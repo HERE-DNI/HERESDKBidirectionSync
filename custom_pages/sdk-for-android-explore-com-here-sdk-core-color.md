@@ -45,8 +45,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -303,11 +302,9 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-valueOf(float,float,float)"
+<div id="sdk-for-android-explore-valueOf(float,float,float)"
     class="section detail">
 
     ### valueOf
@@ -344,8 +341,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
     a new Color instance from given components.
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(float,float,float,float)"
+<div id="sdk-for-android-explore-valueOf(float,float,float,float)"
     class="section detail">
 
     ### valueOf
@@ -386,8 +382,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
     a new Color instance from given components.
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(int)"
+<div id="sdk-for-android-explore-valueOf(int)"
     class="section detail">
 
     ### valueOf
@@ -408,8 +403,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
     a new Color instance from color int.
 
     </div>
-
-  - <div id="sdk-for-android-explore-red()" class="section detail">
+<div id="sdk-for-android-explore-red()" class="section detail">
 
     ### red
 
@@ -423,8 +417,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
     value of red component in range \[0,1\]
 
     </div>
-
-  - <div id="sdk-for-android-explore-green()" class="section detail">
+<div id="sdk-for-android-explore-green()" class="section detail">
 
     ### green
 
@@ -438,8 +431,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
     value of green component in range \[0,1\]
 
     </div>
-
-  - <div id="sdk-for-android-explore-blue()" class="section detail">
+<div id="sdk-for-android-explore-blue()" class="section detail">
 
     ### blue
 
@@ -453,8 +445,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
     value of blue component in range \[0,1\]
 
     </div>
-
-  - <div id="sdk-for-android-explore-alpha()" class="section detail">
+<div id="sdk-for-android-explore-alpha()" class="section detail">
 
     ### alpha
 
@@ -468,8 +459,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
     value of alpha component in range \[0,1\]
 
     </div>
-
-  - <div id="sdk-for-android-explore-toArgb()" class="section detail">
+<div id="sdk-for-android-explore-toArgb()" class="section detail">
 
     ### toArgb
 
@@ -490,8 +480,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
     ARGB color int
 
     </div>
-
-  - <div id="sdk-for-android-explore-toString()" class="section detail">
+<div id="sdk-for-android-explore-toString()" class="section detail">
 
     ### toString
 
@@ -507,8 +496,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -524,8 +512,7 @@ android.graphics.Color.green(anotherColor.toArgb()); // = 230
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

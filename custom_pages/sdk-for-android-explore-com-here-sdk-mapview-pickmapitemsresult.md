@@ -38,8 +38,7 @@ Carries results from the picking of map items on the map scene.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -191,11 +190,9 @@ Carries results from the picking of map items on the map scene.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getClusteredMarkers()"
+<div id="sdk-for-android-explore-getClusteredMarkers()"
     class="section detail">
 
     ### getClusteredMarkers
@@ -219,8 +216,7 @@ Carries results from the picking of map items on the map scene.
     picking.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getMarkers()"
+<div id="sdk-for-android-explore-getMarkers()"
     class="section detail">
 
     ### getMarkers
@@ -242,8 +238,7 @@ Carries results from the picking of map items on the map scene.
     List of markers at the location of picking.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getMarkers3d()"
+<div id="sdk-for-android-explore-getMarkers3d()"
     class="section detail">
 
     ### getMarkers3d
@@ -265,8 +260,7 @@ Carries results from the picking of map items on the map scene.
     List of 3d markers at the location of picking.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPolylines()"
+<div id="sdk-for-android-explore-getPolylines()"
     class="section detail">
 
     ### getPolylines
@@ -288,8 +282,7 @@ Carries results from the picking of map items on the map scene.
     List of polylines at the location of picking.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPolygons()"
+<div id="sdk-for-android-explore-getPolygons()"
     class="section detail">
 
     ### getPolygons

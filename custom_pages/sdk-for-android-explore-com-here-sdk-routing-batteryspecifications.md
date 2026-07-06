@@ -35,8 +35,7 @@ Parameters related to the electric vehicle's battery.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -340,8 +339,7 @@ Parameters related to the electric vehicle's battery.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -641,8 +639,7 @@ Parameters related to the electric vehicle's battery.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -720,11 +717,9 @@ Parameters related to the electric vehicle's battery.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-totalCapacityInKilowattHours"
+<div id="sdk-for-android-explore-totalCapacityInKilowattHours"
     class="section detail">
 
     ### totalCapacityInKilowattHours
@@ -745,8 +740,7 @@ Parameters related to the electric vehicle's battery.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-initialChargeInKilowattHours"
+<div id="sdk-for-android-explore-initialChargeInKilowattHours"
     class="section detail">
 
     ### initialChargeInKilowattHours
@@ -770,8 +764,7 @@ Parameters related to the electric vehicle's battery.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-targetChargeInKilowattHours"
+<div id="sdk-for-android-explore-targetChargeInKilowattHours"
     class="section detail">
 
     ### targetChargeInKilowattHours
@@ -792,8 +785,7 @@ Parameters related to the electric vehicle's battery.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-chargingCurve"
+<div id="sdk-for-android-explore-chargingCurve"
     class="section detail">
 
     ### chargingCurve
@@ -823,8 +815,7 @@ Parameters related to the electric vehicle's battery.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-connectorTypes"
+<div id="sdk-for-android-explore-connectorTypes"
     class="section detail">
 
     ### connectorTypes
@@ -845,8 +836,7 @@ Parameters related to the electric vehicle's battery.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-minChargeAtChargingStationInKilowattHours"
+<div id="sdk-for-android-explore-minChargeAtChargingStationInKilowattHours"
     class="section detail">
 
     ### minChargeAtChargingStationInKilowattHours
@@ -867,8 +857,7 @@ Parameters related to the electric vehicle's battery.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-minChargeAtFirstChargingStationInKilowattHours"
+<div id="sdk-for-android-explore-minChargeAtFirstChargingStationInKilowattHours"
     class="section detail">
 
     ### minChargeAtFirstChargingStationInKilowattHours
@@ -896,8 +885,7 @@ Parameters related to the electric vehicle's battery.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-minChargeAtDestinationInKilowattHours"
+<div id="sdk-for-android-explore-minChargeAtDestinationInKilowattHours"
     class="section detail">
 
     ### minChargeAtDestinationInKilowattHours
@@ -918,8 +906,7 @@ Parameters related to the electric vehicle's battery.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxChargingVoltageInVolts"
+<div id="sdk-for-android-explore-maxChargingVoltageInVolts"
     class="section detail">
 
     ### maxChargingVoltageInVolts
@@ -940,8 +927,7 @@ Parameters related to the electric vehicle's battery.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxChargingCurrentInAmperes"
+<div id="sdk-for-android-explore-maxChargingCurrentInAmperes"
     class="section detail">
 
     ### maxChargingCurrentInAmperes
@@ -962,8 +948,7 @@ Parameters related to the electric vehicle's battery.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-chargingSetupDuration"
+<div id="sdk-for-android-explore-chargingSetupDuration"
     class="section detail">
 
     ### chargingSetupDuration
@@ -984,8 +969,7 @@ Parameters related to the electric vehicle's battery.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxPowerAtLowVoltageInKilowatts"
+<div id="sdk-for-android-explore-maxPowerAtLowVoltageInKilowatts"
     class="section detail">
 
     ### maxPowerAtLowVoltageInKilowatts
@@ -1011,11 +995,9 @@ Parameters related to the electric vehicle's battery.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### BatterySpecifications
 
@@ -1032,8 +1014,7 @@ Parameters related to the electric vehicle's battery.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double)"
+<div id="sdk-for-android-explore-<init>(double)"
     class="section detail">
 
     ### BatterySpecifications
@@ -1060,8 +1041,7 @@ Parameters related to the electric vehicle's battery.
     route calculation will fail as an invalid parameter error.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double)"
+<div id="sdk-for-android-explore-<init>(double,double)"
     class="section detail">
 
     ### BatterySpecifications
@@ -1102,8 +1082,7 @@ Parameters related to the electric vehicle's battery.
     route calculation will fail as an an invalid parameter error.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double,double)"
+<div id="sdk-for-android-explore-<init>(double,double,double)"
     class="section detail">
 
     ### BatterySpecifications
@@ -1155,8 +1134,7 @@ Parameters related to the electric vehicle's battery.
     instance is considered invalid. Defaults to 0.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map)"
+<div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map)"
     class="section detail">
 
     ### BatterySpecifications
@@ -1226,8 +1204,7 @@ Parameters related to the electric vehicle's battery.
     the route calculation will fail as an invalid parameter error.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List)"
+<div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List)"
     class="section detail">
 
     ### BatterySpecifications
@@ -1305,8 +1282,7 @@ Parameters related to the electric vehicle's battery.
     instance is considered invalid. Defaults to an empty container.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double)"
+<div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double)"
     class="section detail">
 
     ### BatterySpecifications
@@ -1394,8 +1370,7 @@ Parameters related to the electric vehicle's battery.
     instance is considered invalid. Defaults to 0.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double,java.lang.Double)"
+<div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double,java.lang.Double)"
     class="section detail">
 
     ### BatterySpecifications
@@ -1500,8 +1475,7 @@ Parameters related to the electric vehicle's battery.
     `minChargeAtChargingStation` limits.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double)"
+<div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double)"
     class="section detail">
 
     ### BatterySpecifications
@@ -1616,8 +1590,7 @@ Parameters related to the electric vehicle's battery.
     instance is considered invalid. Defaults to 0.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double)"
+<div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double)"
     class="section detail">
 
     ### BatterySpecifications
@@ -1738,8 +1711,7 @@ Parameters related to the electric vehicle's battery.
     by the charging station attributes. Defaults to `null`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double,java.lang.Double)"
+<div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double,java.lang.Double)"
     class="section detail">
 
     ### BatterySpecifications
@@ -1867,8 +1839,7 @@ Parameters related to the electric vehicle's battery.
     determined by the charging station attributes. Defaults to `null`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double,java.lang.Double,com.here.time.Duration)"
+<div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double,java.lang.Double,com.here.time.Duration)"
     class="section detail">
 
     ### BatterySpecifications
@@ -2004,8 +1975,7 @@ Parameters related to the electric vehicle's battery.
     Defaults to 0 seconds.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double,java.lang.Double,com.here.time.Duration,java.lang.Double)"
+<div id="sdk-for-android-explore-<init>(double,double,double,java.util.Map,java.util.List,double,java.lang.Double,double,java.lang.Double,java.lang.Double,com.here.time.Duration,java.lang.Double)"
     class="section detail">
 
     ### BatterySpecifications
@@ -2156,11 +2126,9 @@ Parameters related to the electric vehicle's battery.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -2176,8 +2144,7 @@ Parameters related to the electric vehicle's battery.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

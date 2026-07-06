@@ -43,8 +43,7 @@ TrafficIncident provides details about a traffic incident.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -121,8 +120,7 @@ TrafficIncident provides details about a traffic incident.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -499,11 +497,9 @@ TrafficIncident provides details about a traffic incident.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getId()" class="section detail">
+<div id="sdk-for-android-explore-getId()" class="section detail">
 
     ### getId
 
@@ -524,8 +520,7 @@ TrafficIncident provides details about a traffic incident.
     The unique current identifier for a traffic incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getOriginalId()"
+<div id="sdk-for-android-explore-getOriginalId()"
     class="section detail">
 
     ### getOriginalId
@@ -554,8 +549,7 @@ TrafficIncident provides details about a traffic incident.
     The unique identifier of the first traffic incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getParentId()"
+<div id="sdk-for-android-explore-getParentId()"
     class="section detail">
 
     ### getParentId
@@ -578,8 +572,7 @@ TrafficIncident provides details about a traffic incident.
     The identifier of another incident to which this incident is linked.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getJunctionsTraversability()"
+<div id="sdk-for-android-explore-getJunctionsTraversability()"
     class="section detail">
 
     ### getJunctionsTraversability
@@ -601,8 +594,7 @@ TrafficIncident provides details about a traffic incident.
     The traversability of junctions along the affected road.
 
     </div>
-
-  - <div id="sdk-for-android-explore-isRoadClosed()"
+<div id="sdk-for-android-explore-isRoadClosed()"
     class="section detail">
 
     ### isRoadClosed
@@ -623,8 +615,7 @@ TrafficIncident provides details about a traffic incident.
     The flag indicates whether road is closed or not.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCodes()" class="section detail">
+<div id="sdk-for-android-explore-getCodes()" class="section detail">
 
     ### getCodes
 
@@ -649,8 +640,7 @@ TrafficIncident provides details about a traffic incident.
     standard for this incident category.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSummary()"
+<div id="sdk-for-android-explore-getSummary()"
     class="section detail">
 
     ### getSummary
@@ -676,8 +666,7 @@ TrafficIncident provides details about a traffic incident.
     The human readable summary of the incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getEntryTime()"
+<div id="sdk-for-android-explore-getEntryTime()"
     class="section detail">
 
     ### getEntryTime
@@ -700,8 +689,7 @@ TrafficIncident provides details about a traffic incident.
     The time the incident was entered into the system.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getLocation()"
+<div id="sdk-for-android-explore-getLocation()"
     class="section detail">
 
     ### getLocation
@@ -723,8 +711,7 @@ TrafficIncident provides details about a traffic incident.
     The location of the incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getVehicleRestrictions()"
+<div id="sdk-for-android-explore-getVehicleRestrictions()"
     class="section detail">
 
     ### getVehicleRestrictions
@@ -749,8 +736,7 @@ TrafficIncident provides details about a traffic incident.
     The map of restricted vehicle categories to restrictions.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getImpact()"
+<div id="sdk-for-android-explore-getImpact()"
     class="section detail">
 
     ### getImpact
@@ -778,8 +764,7 @@ TrafficIncident provides details about a traffic incident.
     The impact of the incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getType()" class="section detail">
+<div id="sdk-for-android-explore-getType()" class="section detail">
 
     ### getType
 
@@ -806,8 +791,7 @@ TrafficIncident provides details about a traffic incident.
     The category of the incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDescription()"
+<div id="sdk-for-android-explore-getDescription()"
     class="section detail">
 
     ### getDescription
@@ -838,8 +822,7 @@ TrafficIncident provides details about a traffic incident.
     location information.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getStartTime()"
+<div id="sdk-for-android-explore-getStartTime()"
     class="section detail">
 
     ### getStartTime
@@ -868,8 +851,7 @@ TrafficIncident provides details about a traffic incident.
     incident should not be considered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getEndTime()"
+<div id="sdk-for-android-explore-getEndTime()"
     class="section detail">
 
     ### getEndTime

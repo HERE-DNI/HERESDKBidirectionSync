@@ -43,8 +43,7 @@ deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -99,8 +98,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -276,11 +274,9 @@ deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-add(com.here.sdk.mapview.datasource.PolygonData)"
+<div id="sdk-for-android-explore-add(com.here.sdk.mapview.datasource.PolygonData)"
     class="section detail">
 
     ### add
@@ -304,8 +300,7 @@ deprecation process.
     Polygon to add.
 
     </div>
-
-  - <div id="sdk-for-android-explore-add(java.util.List)"
+<div id="sdk-for-android-explore-add(java.util.List)"
     class="section detail">
 
     ### add
@@ -329,8 +324,7 @@ deprecation process.
     Polygons to add.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeAll()"
+<div id="sdk-for-android-explore-removeAll()"
     class="section detail">
 
     ### removeAll
@@ -348,8 +342,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-forEach(com.here.sdk.mapview.datasource.PolygonDataSource.PolygonDataProcessor)"
+<div id="sdk-for-android-explore-forEach(com.here.sdk.mapview.datasource.PolygonDataSource.PolygonDataProcessor)"
     class="section detail">
 
     ### forEach
@@ -376,8 +369,7 @@ deprecation process.
     Polygon processor.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeIf(com.here.sdk.mapview.datasource.PolygonDataSource.PolygonDataProcessor)"
+<div id="sdk-for-android-explore-removeIf(com.here.sdk.mapview.datasource.PolygonDataSource.PolygonDataProcessor)"
     class="section detail">
 
     ### removeIf
@@ -404,8 +396,7 @@ deprecation process.
     Polygon data processor.
 
     </div>
-
-  - <div id="sdk-for-android-explore-destroy()" class="section detail">
+<div id="sdk-for-android-explore-destroy()" class="section detail">
 
     ### destroy
 

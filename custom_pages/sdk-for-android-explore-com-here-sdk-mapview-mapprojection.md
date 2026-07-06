@@ -41,8 +41,7 @@ The map projection used for rendering.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ The map projection used for rendering.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -111,8 +109,7 @@ The map projection used for rendering.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -207,11 +204,9 @@ The map projection used for rendering.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-GLOBE" class="section detail">
+<div id="sdk-for-android-explore-GLOBE" class="section detail">
 
     ### GLOBE
 
@@ -229,8 +224,7 @@ The map projection used for rendering.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-WEB_MERCATOR"
+<div id="sdk-for-android-explore-WEB_MERCATOR"
     class="section detail">
 
     ### WEB_MERCATOR
@@ -251,11 +245,9 @@ The map projection used for rendering.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -278,8 +270,7 @@ The map projection used for rendering.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

@@ -36,8 +36,7 @@ initialization.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -158,8 +157,7 @@ initialization.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -201,8 +199,7 @@ initialization.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -280,11 +277,9 @@ initialization.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-proxySettings"
+<div id="sdk-for-android-explore-proxySettings"
     class="section detail">
 
     ### proxySettings
@@ -304,8 +299,7 @@ initialization.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-domainNameSystemServers"
+<div id="sdk-for-android-explore-domainNameSystemServers"
     class="section detail">
 
     ### domainNameSystemServers
@@ -327,8 +321,7 @@ initialization.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-certificates"
+<div id="sdk-for-android-explore-certificates"
     class="section detail">
 
     ### certificates
@@ -349,8 +342,7 @@ initialization.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-diagnosticsOutputPath"
+<div id="sdk-for-android-explore-diagnosticsOutputPath"
     class="section detail">
 
     ### diagnosticsOutputPath
@@ -375,11 +367,9 @@ initialization.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### NetworkSettings
 
@@ -398,11 +388,9 @@ initialization.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -418,8 +406,7 @@ initialization.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

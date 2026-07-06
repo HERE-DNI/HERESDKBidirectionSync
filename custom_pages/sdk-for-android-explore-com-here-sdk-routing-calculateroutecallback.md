@@ -37,8 +37,7 @@ in case of an error.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -96,11 +95,9 @@ in case of an error.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-onRouteCalculated(com.here.sdk.routing.RoutingError,java.util.List)"
+<div id="sdk-for-android-explore-onRouteCalculated(com.here.sdk.routing.RoutingError,java.util.List)"
     class="section detail">
 
     ### onRouteCalculated

@@ -49,8 +49,7 @@ all waypoints. See the parameter description below for more details.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -263,8 +262,7 @@ all waypoints. See the parameter description below for more details.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -306,8 +304,7 @@ all waypoints. See the parameter description below for more details.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -409,11 +406,9 @@ all waypoints. See the parameter description below for more details.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-transportSpecification"
+<div id="sdk-for-android-explore-transportSpecification"
     class="section detail">
 
     ### transportSpecification
@@ -455,8 +450,7 @@ all waypoints. See the parameter description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-routeOptions"
+<div id="sdk-for-android-explore-routeOptions"
     class="section detail">
 
     ### routeOptions
@@ -475,8 +469,7 @@ all waypoints. See the parameter description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-textOptions"
+<div id="sdk-for-android-explore-textOptions"
     class="section detail">
 
     ### textOptions
@@ -496,8 +489,7 @@ all waypoints. See the parameter description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-avoidanceOptions"
+<div id="sdk-for-android-explore-avoidanceOptions"
     class="section detail">
 
     ### avoidanceOptions
@@ -517,8 +509,7 @@ all waypoints. See the parameter description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-allowOptions"
+<div id="sdk-for-android-explore-allowOptions"
     class="section detail">
 
     ### allowOptions
@@ -538,8 +529,7 @@ all waypoints. See the parameter description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-tollOptions"
+<div id="sdk-for-android-explore-tollOptions"
     class="section detail">
 
     ### tollOptions
@@ -560,8 +550,7 @@ all waypoints. See the parameter description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxSpeedOnSegments"
+<div id="sdk-for-android-explore-maxSpeedOnSegments"
     class="section detail">
 
     ### maxSpeedOnSegments
@@ -582,8 +571,7 @@ all waypoints. See the parameter description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-evOptions" class="section detail">
+<div id="sdk-for-android-explore-evOptions" class="section detail">
 
     ### evOptions
 
@@ -605,11 +593,9 @@ all waypoints. See the parameter description below for more details.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### RoutingOptions
 
@@ -628,11 +614,9 @@ all waypoints. See the parameter description below for more details.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -648,8 +632,7 @@ all waypoints. See the parameter description below for more details.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -664,8 +647,7 @@ all waypoints. See the parameter description below for more details.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-fromDefaultParameterConfiguration()"
+<div id="sdk-for-android-explore-fromDefaultParameterConfiguration()"
     class="section detail">
 
     ### fromDefaultParameterConfiguration

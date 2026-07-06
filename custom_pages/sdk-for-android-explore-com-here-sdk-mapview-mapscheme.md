@@ -41,8 +41,7 @@ Represents the preconfigured map schemes bundled with the SDK.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ Represents the preconfigured map schemes bundled with the SDK.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -341,8 +339,7 @@ Represents the preconfigured map schemes bundled with the SDK.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -437,11 +434,9 @@ Represents the preconfigured map schemes bundled with the SDK.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-NORMAL_DAY" class="section detail">
+<div id="sdk-for-android-explore-NORMAL_DAY" class="section detail">
 
     ### NORMAL_DAY
 
@@ -459,8 +454,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NORMAL_NIGHT"
+<div id="sdk-for-android-explore-NORMAL_NIGHT"
     class="section detail">
 
     ### NORMAL_NIGHT
@@ -479,8 +473,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SATELLITE" class="section detail">
+<div id="sdk-for-android-explore-SATELLITE" class="section detail">
 
     ### SATELLITE
 
@@ -498,8 +491,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HYBRID_DAY" class="section detail">
+<div id="sdk-for-android-explore-HYBRID_DAY" class="section detail">
 
     ### HYBRID_DAY
 
@@ -518,8 +510,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HYBRID_NIGHT"
+<div id="sdk-for-android-explore-HYBRID_NIGHT"
     class="section detail">
 
     ### HYBRID_NIGHT
@@ -539,8 +530,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LITE_DAY" class="section detail">
+<div id="sdk-for-android-explore-LITE_DAY" class="section detail">
 
     ### LITE_DAY
 
@@ -560,8 +550,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LITE_NIGHT" class="section detail">
+<div id="sdk-for-android-explore-LITE_NIGHT" class="section detail">
 
     ### LITE_NIGHT
 
@@ -581,8 +570,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LITE_HYBRID_DAY"
+<div id="sdk-for-android-explore-LITE_HYBRID_DAY"
     class="section detail">
 
     ### LITE_HYBRID_DAY
@@ -603,8 +591,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LITE_HYBRID_NIGHT"
+<div id="sdk-for-android-explore-LITE_HYBRID_NIGHT"
     class="section detail">
 
     ### LITE_HYBRID_NIGHT
@@ -625,8 +612,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LOGISTICS_DAY"
+<div id="sdk-for-android-explore-LOGISTICS_DAY"
     class="section detail">
 
     ### LOGISTICS_DAY
@@ -647,8 +633,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LOGISTICS_NIGHT"
+<div id="sdk-for-android-explore-LOGISTICS_NIGHT"
     class="section detail">
 
     ### LOGISTICS_NIGHT
@@ -669,8 +654,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LOGISTICS_HYBRID_DAY"
+<div id="sdk-for-android-explore-LOGISTICS_HYBRID_DAY"
     class="section detail">
 
     ### LOGISTICS_HYBRID_DAY
@@ -692,8 +676,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LOGISTICS_HYBRID_NIGHT"
+<div id="sdk-for-android-explore-LOGISTICS_HYBRID_NIGHT"
     class="section detail">
 
     ### LOGISTICS_HYBRID_NIGHT
@@ -715,8 +698,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ROAD_NETWORK_DAY"
+<div id="sdk-for-android-explore-ROAD_NETWORK_DAY"
     class="section detail">
 
     ### ROAD_NETWORK_DAY
@@ -739,8 +721,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ROAD_NETWORK_NIGHT"
+<div id="sdk-for-android-explore-ROAD_NETWORK_NIGHT"
     class="section detail">
 
     ### ROAD_NETWORK_NIGHT
@@ -765,11 +746,9 @@ Represents the preconfigured map schemes bundled with the SDK.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -792,8 +771,7 @@ Represents the preconfigured map schemes bundled with the SDK.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

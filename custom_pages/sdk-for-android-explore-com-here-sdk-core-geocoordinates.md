@@ -35,8 +35,7 @@ Represents geographical coordinates in 3D space.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -134,8 +133,7 @@ Represents geographical coordinates in 3D space.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -198,8 +196,7 @@ Represents geographical coordinates in 3D space.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -347,11 +344,9 @@ Represents geographical coordinates in 3D space.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-latitude" class="section detail">
+<div id="sdk-for-android-explore-latitude" class="section detail">
 
     ### latitude
 
@@ -369,8 +364,7 @@ Represents geographical coordinates in 3D space.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-longitude" class="section detail">
+<div id="sdk-for-android-explore-longitude" class="section detail">
 
     ### longitude
 
@@ -388,8 +382,7 @@ Represents geographical coordinates in 3D space.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-altitude" class="section detail">
+<div id="sdk-for-android-explore-altitude" class="section detail">
 
     ### altitude
 
@@ -413,11 +406,9 @@ Represents geographical coordinates in 3D space.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(double,double,double)"
+<div id="sdk-for-android-explore-<init>(double,double,double)"
     class="section detail">
 
     ### GeoCoordinates
@@ -456,8 +447,7 @@ Represents geographical coordinates in 3D space.
     Altitude in meters. NaN value is converted to `null`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double)"
+<div id="sdk-for-android-explore-<init>(double,double)"
     class="section detail">
 
     ### GeoCoordinates
@@ -494,11 +484,9 @@ Represents geographical coordinates in 3D space.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -514,8 +502,7 @@ Represents geographical coordinates in 3D space.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -530,8 +517,7 @@ Represents geographical coordinates in 3D space.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-distanceTo(com.here.sdk.core.GeoCoordinates)"
+<div id="sdk-for-android-explore-distanceTo(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### distanceTo
@@ -559,8 +545,7 @@ Represents geographical coordinates in 3D space.
     distance in meters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-interpolate(com.here.sdk.core.GeoCoordinates,double)"
+<div id="sdk-for-android-explore-interpolate(com.here.sdk.core.GeoCoordinates,double)"
     class="section detail">
 
     ### interpolate
@@ -600,8 +585,7 @@ Represents geographical coordinates in 3D space.
     interpolated coordinates
 
     </div>
-
-  - <div id="sdk-for-android-explore-fromString(java.lang.String)"
+<div id="sdk-for-android-explore-fromString(java.lang.String)"
     class="section detail">
 
     ### fromString

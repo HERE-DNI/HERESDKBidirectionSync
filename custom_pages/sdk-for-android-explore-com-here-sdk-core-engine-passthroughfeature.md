@@ -46,8 +46,7 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -57,8 +56,7 @@ APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -173,8 +171,7 @@ APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -269,11 +266,9 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-TRAFFIC_DATA"
+<div id="sdk-for-android-explore-TRAFFIC_DATA"
     class="section detail">
 
     ### TRAFFIC_DATA
@@ -293,8 +288,7 @@ APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRAFFIC_TILES_FLOW"
+<div id="sdk-for-android-explore-TRAFFIC_TILES_FLOW"
     class="section detail">
 
     ### TRAFFIC_TILES_FLOW
@@ -315,8 +309,7 @@ APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRAFFIC_TILES_INCIDENTS"
+<div id="sdk-for-android-explore-TRAFFIC_TILES_INCIDENTS"
     class="section detail">
 
     ### TRAFFIC_TILES_INCIDENTS
@@ -337,8 +330,7 @@ APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ONLINE_ROUTING"
+<div id="sdk-for-android-explore-ONLINE_ROUTING"
     class="section detail">
 
     ### ONLINE_ROUTING
@@ -359,8 +351,7 @@ APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ONLINE_SEARCH"
+<div id="sdk-for-android-explore-ONLINE_SEARCH"
     class="section detail">
 
     ### ONLINE_SEARCH
@@ -383,11 +374,9 @@ APIs may change for new releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -410,8 +399,7 @@ APIs may change for new releases without a deprecation process.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

@@ -41,8 +41,7 @@ Specifies the mode of transport used for route calculalation.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ Specifies the mode of transport used for route calculalation.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -224,8 +222,7 @@ Specifies the mode of transport used for route calculalation.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -320,11 +317,9 @@ Specifies the mode of transport used for route calculalation.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CAR" class="section detail">
+<div id="sdk-for-android-explore-CAR" class="section detail">
 
     ### CAR
 
@@ -342,8 +337,7 @@ Specifies the mode of transport used for route calculalation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRUCK" class="section detail">
+<div id="sdk-for-android-explore-TRUCK" class="section detail">
 
     ### TRUCK
 
@@ -363,8 +357,7 @@ Specifies the mode of transport used for route calculalation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PEDESTRIAN" class="section detail">
+<div id="sdk-for-android-explore-PEDESTRIAN" class="section detail">
 
     ### PEDESTRIAN
 
@@ -386,8 +379,7 @@ Specifies the mode of transport used for route calculalation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SCOOTER" class="section detail">
+<div id="sdk-for-android-explore-SCOOTER" class="section detail">
 
     ### SCOOTER
 
@@ -405,8 +397,7 @@ Specifies the mode of transport used for route calculalation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BICYCLE" class="section detail">
+<div id="sdk-for-android-explore-BICYCLE" class="section detail">
 
     ### BICYCLE
 
@@ -424,8 +415,7 @@ Specifies the mode of transport used for route calculalation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PUBLIC_TRANSIT"
+<div id="sdk-for-android-explore-PUBLIC_TRANSIT"
     class="section detail">
 
     ### PUBLIC_TRANSIT
@@ -447,8 +437,7 @@ Specifies the mode of transport used for route calculalation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TAXI" class="section detail">
+<div id="sdk-for-android-explore-TAXI" class="section detail">
 
     ### TAXI
 
@@ -473,8 +462,7 @@ Specifies the mode of transport used for route calculalation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUS" class="section detail">
+<div id="sdk-for-android-explore-BUS" class="section detail">
 
     ### BUS
 
@@ -494,8 +482,7 @@ Specifies the mode of transport used for route calculalation.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PRIVATE_BUS"
+<div id="sdk-for-android-explore-PRIVATE_BUS"
     class="section detail">
 
     ### PRIVATE_BUS
@@ -518,11 +505,9 @@ Specifies the mode of transport used for route calculalation.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -545,8 +530,7 @@ Specifies the mode of transport used for route calculalation.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

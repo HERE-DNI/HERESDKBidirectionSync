@@ -41,8 +41,7 @@ Represents the accessibility level of an EVChargingPool .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ Represents the accessibility level of an EVChargingPool .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -129,8 +127,7 @@ Represents the accessibility level of an EVChargingPool .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -225,11 +222,9 @@ Represents the accessibility level of an EVChargingPool .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-PUBLIC_ACCESS"
+<div id="sdk-for-android-explore-PUBLIC_ACCESS"
     class="section detail">
 
     ### PUBLIC_ACCESS
@@ -248,8 +243,7 @@ Represents the accessibility level of an EVChargingPool .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RESTRICTED_ACCESS"
+<div id="sdk-for-android-explore-RESTRICTED_ACCESS"
     class="section detail">
 
     ### RESTRICTED_ACCESS
@@ -269,8 +263,7 @@ Represents the accessibility level of an EVChargingPool .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PRIVATE_ACCESS"
+<div id="sdk-for-android-explore-PRIVATE_ACCESS"
     class="section detail">
 
     ### PRIVATE_ACCESS
@@ -292,11 +285,9 @@ Represents the accessibility level of an EVChargingPool .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -319,8 +310,7 @@ Represents the accessibility level of an EVChargingPool .
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

@@ -39,8 +39,7 @@ Tile metadata.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -116,8 +115,7 @@ Tile metadata.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -160,8 +158,7 @@ Tile metadata.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -177,11 +174,9 @@ Tile metadata.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-dataVersion"
+<div id="sdk-for-android-explore-dataVersion"
     class="section detail">
 
     ### dataVersion
@@ -200,8 +195,7 @@ Tile metadata.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-dataExpiryTimestamp"
+<div id="sdk-for-android-explore-dataExpiryTimestamp"
     class="section detail">
 
     ### dataExpiryTimestamp
@@ -223,11 +217,9 @@ Tile metadata.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.datasource.TileSource.DataVersion,java.util.Date)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.datasource.TileSource.DataVersion,java.util.Date)"
     class="section detail">
 
     ### TileMetadata

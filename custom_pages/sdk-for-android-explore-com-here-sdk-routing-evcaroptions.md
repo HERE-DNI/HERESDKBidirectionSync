@@ -56,8 +56,7 @@ description below for more details.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -460,8 +459,7 @@ description below for more details.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -509,8 +507,7 @@ description below for more details.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -600,11 +597,9 @@ description below for more details.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-routeOptions"
+<div id="sdk-for-android-explore-routeOptions"
     class="section detail">
 
     ### routeOptions
@@ -629,8 +624,7 @@ description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-textOptions"
+<div id="sdk-for-android-explore-textOptions"
     class="section detail">
 
     ### textOptions
@@ -656,8 +650,7 @@ description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-avoidanceOptions"
+<div id="sdk-for-android-explore-avoidanceOptions"
     class="section detail">
 
     ### avoidanceOptions
@@ -683,8 +676,7 @@ description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-tollOptions"
+<div id="sdk-for-android-explore-tollOptions"
     class="section detail">
 
     ### tollOptions
@@ -710,8 +702,7 @@ description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-allowOptions"
+<div id="sdk-for-android-explore-allowOptions"
     class="section detail">
 
     ### allowOptions
@@ -737,8 +728,7 @@ description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-occupantsNumber"
+<div id="sdk-for-android-explore-occupantsNumber"
     class="section detail">
 
     ### occupantsNumber
@@ -767,8 +757,7 @@ description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-lastCharacterOfLicensePlate"
+<div id="sdk-for-android-explore-lastCharacterOfLicensePlate"
     class="section detail">
 
     ### lastCharacterOfLicensePlate
@@ -803,8 +792,7 @@ description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxSpeedOnSegments"
+<div id="sdk-for-android-explore-maxSpeedOnSegments"
     class="section detail">
 
     ### maxSpeedOnSegments
@@ -830,8 +818,7 @@ description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ensureReachability"
+<div id="sdk-for-android-explore-ensureReachability"
     class="section detail">
 
     ### ensureReachability
@@ -868,8 +855,7 @@ description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-consumptionModel"
+<div id="sdk-for-android-explore-consumptionModel"
     class="section detail">
 
     ### consumptionModel
@@ -895,8 +881,7 @@ description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-batterySpecifications"
+<div id="sdk-for-android-explore-batterySpecifications"
     class="section detail">
 
     ### batterySpecifications
@@ -921,8 +906,7 @@ description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-carSpecifications"
+<div id="sdk-for-android-explore-carSpecifications"
     class="section detail">
 
     ### carSpecifications
@@ -947,8 +931,7 @@ description below for more details.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-evMobilityServiceProviderPreferences"
+<div id="sdk-for-android-explore-evMobilityServiceProviderPreferences"
     class="section detail">
 
     ### evMobilityServiceProviderPreferences
@@ -981,11 +964,9 @@ description below for more details.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### EVCarOptions
 
@@ -1010,11 +991,9 @@ description below for more details.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -1036,8 +1015,7 @@ description below for more details.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

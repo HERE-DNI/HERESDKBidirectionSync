@@ -38,8 +38,7 @@ null .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -115,8 +114,7 @@ null .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -172,8 +170,7 @@ null .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -251,11 +248,9 @@ null .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-bearing" class="section detail">
+<div id="sdk-for-android-explore-bearing" class="section detail">
 
     ### bearing
 
@@ -276,8 +271,7 @@ null .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-tilt" class="section detail">
+<div id="sdk-for-android-explore-tilt" class="section detail">
 
     ### tilt
 
@@ -301,11 +295,9 @@ null .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.Double,java.lang.Double)"
+<div id="sdk-for-android-explore-<init>(java.lang.Double,java.lang.Double)"
     class="section detail">
 
     ### GeoOrientationUpdate
@@ -331,8 +323,7 @@ null .
     and the current value is kept. NaN value is converted to `null`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoOrientation)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoOrientation)"
     class="section detail">
 
     ### GeoOrientationUpdate
@@ -360,11 +351,9 @@ null .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -380,8 +369,7 @@ null .
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

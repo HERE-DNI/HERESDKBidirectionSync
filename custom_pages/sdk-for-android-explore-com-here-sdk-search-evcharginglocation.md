@@ -52,8 +52,7 @@ deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -497,11 +496,9 @@ deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getID()" class="section detail">
+<div id="sdk-for-android-explore-getID()" class="section detail">
 
     ### getID
 
@@ -522,8 +519,7 @@ deprecation process.
     A unique identifier of the charging location.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getName()" class="section detail">
+<div id="sdk-for-android-explore-getName()" class="section detail">
 
     ### getName
 
@@ -544,8 +540,7 @@ deprecation process.
     Display name of the charging location, if available.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCpoID()" class="section detail">
+<div id="sdk-for-android-explore-getCpoID()" class="section detail">
 
     ### getCpoID
 
@@ -570,8 +565,7 @@ deprecation process.
     CPO's own ID for the location.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getEvChargingOperator()"
+<div id="sdk-for-android-explore-getEvChargingOperator()"
     class="section detail">
 
     ### getEvChargingOperator
@@ -593,8 +587,7 @@ deprecation process.
     Operator of the charging point, if available.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getEvChargingSubOperator()"
+<div id="sdk-for-android-explore-getEvChargingSubOperator()"
     class="section detail">
 
     ### getEvChargingSubOperator
@@ -616,8 +609,7 @@ deprecation process.
     Suboperator of the charging point, if available.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getEMobilityServiceProviders()"
+<div id="sdk-for-android-explore-getEMobilityServiceProviders()"
     class="section detail">
 
     ### getEMobilityServiceProviders
@@ -643,8 +635,7 @@ deprecation process.
     location.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getFacilityTypes()"
+<div id="sdk-for-android-explore-getFacilityTypes()"
     class="section detail">
 
     ### getFacilityTypes
@@ -670,8 +661,7 @@ deprecation process.
     wifi, parking lot etc.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getParkingType()"
+<div id="sdk-for-android-explore-getParkingType()"
     class="section detail">
 
     ### getParkingType
@@ -695,8 +685,7 @@ deprecation process.
     The type of parking at the charging location.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getEnergyMix()"
+<div id="sdk-for-android-explore-getEnergyMix()"
     class="section detail">
 
     ### getEnergyMix
@@ -720,8 +709,7 @@ deprecation process.
     `EVSearchOptions.additional_features`, otherwise `null`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getEvses()" class="section detail">
+<div id="sdk-for-android-explore-getEvses()" class="section detail">
 
     ### getEvses
 
@@ -744,8 +732,7 @@ deprecation process.
     List of EVSEs at the charging station.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTariffs()"
+<div id="sdk-for-android-explore-getTariffs()"
     class="section detail">
 
     ### getTariffs
@@ -776,8 +763,7 @@ deprecation process.
     station.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getConnectorGroups()"
+<div id="sdk-for-android-explore-getConnectorGroups()"
     class="section detail">
 
     ### getConnectorGroups
@@ -802,8 +788,7 @@ deprecation process.
     Connector groups for the location.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSupportedVehicles()"
+<div id="sdk-for-android-explore-getSupportedVehicles()"
     class="section detail">
 
     ### getSupportedVehicles
@@ -832,8 +817,7 @@ deprecation process.
     cars and motorcycles.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTruckRestrictions()"
+<div id="sdk-for-android-explore-getTruckRestrictions()"
     class="section detail">
 
     ### getTruckRestrictions
@@ -859,8 +843,7 @@ deprecation process.
     Access restrictions for trucks and light commercial vehicles.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getOpeningHours()"
+<div id="sdk-for-android-explore-getOpeningHours()"
     class="section detail">
 
     ### getOpeningHours
@@ -886,8 +869,7 @@ deprecation process.
     for charging.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getRestrictions()"
+<div id="sdk-for-android-explore-getRestrictions()"
     class="section detail">
 
     ### getRestrictions
@@ -909,8 +891,7 @@ deprecation process.
     Reason(s) for restricted access.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSupportPhoneNumber()"
+<div id="sdk-for-android-explore-getSupportPhoneNumber()"
     class="section detail">
 
     ### getSupportPhoneNumber
@@ -936,8 +917,7 @@ deprecation process.
     the charge location, in E.164 format.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTimeZone()"
+<div id="sdk-for-android-explore-getTimeZone()"
     class="section detail">
 
     ### getTimeZone

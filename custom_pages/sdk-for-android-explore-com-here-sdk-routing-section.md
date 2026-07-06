@@ -42,8 +42,7 @@ reject the route if deemed necessary.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -575,11 +574,9 @@ reject the route if deemed necessary.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getGeometry()"
+<div id="sdk-for-android-explore-getGeometry()"
     class="section detail">
 
     ### getGeometry
@@ -604,8 +601,7 @@ reject the route if deemed necessary.
     object representing the polyline of this section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSpans()" class="section detail">
+<div id="sdk-for-android-explore-getSpans()" class="section detail">
 
     ### getSpans
 
@@ -628,8 +624,7 @@ reject the route if deemed necessary.
     that constitute this section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getManeuvers()"
+<div id="sdk-for-android-explore-getManeuvers()"
     class="section detail">
 
     ### getManeuvers
@@ -651,8 +646,7 @@ reject the route if deemed necessary.
     The maneuvers for this section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getBoundingBox()"
+<div id="sdk-for-android-explore-getBoundingBox()"
     class="section detail">
 
     ### getBoundingBox
@@ -674,8 +668,7 @@ reject the route if deemed necessary.
     The closest rectangular area where this section fits in.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getLengthInMeters()"
+<div id="sdk-for-android-explore-getLengthInMeters()"
     class="section detail">
 
     ### getLengthInMeters
@@ -696,8 +689,7 @@ reject the route if deemed necessary.
     The length of this section in meters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSectionTransportMode()"
+<div id="sdk-for-android-explore-getSectionTransportMode()"
     class="section detail">
 
     ### getSectionTransportMode
@@ -719,8 +711,7 @@ reject the route if deemed necessary.
     The transport mode of this section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDeparturePlace()"
+<div id="sdk-for-android-explore-getDeparturePlace()"
     class="section detail">
 
     ### getDeparturePlace
@@ -742,8 +733,7 @@ reject the route if deemed necessary.
     Describes the departure place.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getArrivalPlace()"
+<div id="sdk-for-android-explore-getArrivalPlace()"
     class="section detail">
 
     ### getArrivalPlace
@@ -765,8 +755,7 @@ reject the route if deemed necessary.
     The arrival place.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDepartureLocationTime()"
+<div id="sdk-for-android-explore-getDepartureLocationTime()"
     class="section detail">
 
     ### getDepartureLocationTime
@@ -788,8 +777,7 @@ reject the route if deemed necessary.
     The departure location time of this section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getArrivalLocationTime()"
+<div id="sdk-for-android-explore-getArrivalLocationTime()"
     class="section detail">
 
     ### getArrivalLocationTime
@@ -811,8 +799,7 @@ reject the route if deemed necessary.
     The arrival location time of this section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPreActions()"
+<div id="sdk-for-android-explore-getPreActions()"
     class="section detail">
 
     ### getPreActions
@@ -836,8 +823,7 @@ reject the route if deemed necessary.
     beginning of the section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPostActions()"
+<div id="sdk-for-android-explore-getPostActions()"
     class="section detail">
 
     ### getPostActions
@@ -861,8 +847,7 @@ reject the route if deemed necessary.
     the section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSectionNotices()"
+<div id="sdk-for-android-explore-getSectionNotices()"
     class="section detail">
 
     ### getSectionNotices
@@ -894,8 +879,7 @@ reject the route if deemed necessary.
     notices carefully before proceeding.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getIndoorSectionDetails()"
+<div id="sdk-for-android-explore-getIndoorSectionDetails()"
     class="section detail">
 
     ### getIndoorSectionDetails
@@ -917,8 +901,7 @@ reject the route if deemed necessary.
     Indoor routing section information.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getConsumptionInKilowattHours()"
+<div id="sdk-for-android-explore-getConsumptionInKilowattHours()"
     class="section detail">
 
     ### getConsumptionInKilowattHours
@@ -944,8 +927,7 @@ reject the route if deemed necessary.
     negative due to energy recuperation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTransitDetails()"
+<div id="sdk-for-android-explore-getTransitDetails()"
     class="section detail">
 
     ### getTransitDetails
@@ -968,8 +950,7 @@ reject the route if deemed necessary.
     route.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTolls()" class="section detail">
+<div id="sdk-for-android-explore-getTolls()" class="section detail">
 
     ### getTolls
 
@@ -1003,8 +984,7 @@ reject the route if deemed necessary.
     All the tolls for this section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTrafficIncidents()"
+<div id="sdk-for-android-explore-getTrafficIncidents()"
     class="section detail">
 
     ### getTrafficIncidents
@@ -1026,8 +1006,7 @@ reject the route if deemed necessary.
     The list of traffic incidents that are found on the section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDuration()"
+<div id="sdk-for-android-explore-getDuration()"
     class="section detail">
 
     ### getDuration
@@ -1051,8 +1030,7 @@ reject the route if deemed necessary.
     including real-time traffic delays if available.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTrafficDelay()"
+<div id="sdk-for-android-explore-getTrafficDelay()"
     class="section detail">
 
     ### getTrafficDelay
@@ -1078,8 +1056,7 @@ reject the route if deemed necessary.
     traversed faster than usual.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPassthroughWaypoints()"
+<div id="sdk-for-android-explore-getPassthroughWaypoints()"
     class="section detail">
 
     ### getPassthroughWaypoints
@@ -1101,8 +1078,7 @@ reject the route if deemed necessary.
     The list of passthrough waypoints in this section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getNoThroughRestrictions()"
+<div id="sdk-for-android-explore-getNoThroughRestrictions()"
     class="section detail">
 
     ### getNoThroughRestrictions

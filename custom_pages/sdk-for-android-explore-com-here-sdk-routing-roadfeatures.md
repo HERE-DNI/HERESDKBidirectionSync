@@ -41,8 +41,7 @@ Road features or states.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ Road features or states.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -207,8 +205,7 @@ Road features or states.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -303,11 +300,9 @@ Road features or states.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-SEASONAL_CLOSURE"
+<div id="sdk-for-android-explore-SEASONAL_CLOSURE"
     class="section detail">
 
     ### SEASONAL_CLOSURE
@@ -326,8 +321,7 @@ Road features or states.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TOLL_ROAD" class="section detail">
+<div id="sdk-for-android-explore-TOLL_ROAD" class="section detail">
 
     ### TOLL_ROAD
 
@@ -345,8 +339,7 @@ Road features or states.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CONTROLLED_ACCESS_HIGHWAY"
+<div id="sdk-for-android-explore-CONTROLLED_ACCESS_HIGHWAY"
     class="section detail">
 
     ### CONTROLLED_ACCESS_HIGHWAY
@@ -366,8 +359,7 @@ Road features or states.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FERRY" class="section detail">
+<div id="sdk-for-android-explore-FERRY" class="section detail">
 
     ### FERRY
 
@@ -385,8 +377,7 @@ Road features or states.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAR_SHUTTLE_TRAIN"
+<div id="sdk-for-android-explore-CAR_SHUTTLE_TRAIN"
     class="section detail">
 
     ### CAR_SHUTTLE_TRAIN
@@ -405,8 +396,7 @@ Road features or states.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TUNNEL" class="section detail">
+<div id="sdk-for-android-explore-TUNNEL" class="section detail">
 
     ### TUNNEL
 
@@ -424,8 +414,7 @@ Road features or states.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DIRT_ROAD" class="section detail">
+<div id="sdk-for-android-explore-DIRT_ROAD" class="section detail">
 
     ### DIRT_ROAD
 
@@ -443,8 +432,7 @@ Road features or states.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-U_TURNS" class="section detail">
+<div id="sdk-for-android-explore-U_TURNS" class="section detail">
 
     ### U_TURNS
 
@@ -465,11 +453,9 @@ Road features or states.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -492,8 +478,7 @@ Road features or states.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

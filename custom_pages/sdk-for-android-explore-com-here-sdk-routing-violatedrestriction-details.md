@@ -42,8 +42,7 @@ maximum allowed height value.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -482,8 +481,7 @@ maximum allowed height value.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -525,8 +523,7 @@ maximum allowed height value.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -604,11 +601,9 @@ maximum allowed height value.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-maxWeightPerAxleInKilograms"
+<div id="sdk-for-android-explore-maxWeightPerAxleInKilograms"
     class="section detail">
 
     ### maxWeightPerAxleInKilograms
@@ -629,8 +624,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxWeightPerAxleGroupInKilograms"
+<div id="sdk-for-android-explore-maxWeightPerAxleGroupInKilograms"
     class="section detail">
 
     ### maxWeightPerAxleGroupInKilograms
@@ -651,8 +645,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxHeightInCentimeters"
+<div id="sdk-for-android-explore-maxHeightInCentimeters"
     class="section detail">
 
     ### maxHeightInCentimeters
@@ -673,8 +666,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxWidthInCentimeters"
+<div id="sdk-for-android-explore-maxWidthInCentimeters"
     class="section detail">
 
     ### maxWidthInCentimeters
@@ -695,8 +687,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxLengthInCentimeters"
+<div id="sdk-for-android-explore-maxLengthInCentimeters"
     class="section detail">
 
     ### maxLengthInCentimeters
@@ -717,8 +708,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-forbiddenAxleCount"
+<div id="sdk-for-android-explore-forbiddenAxleCount"
     class="section detail">
 
     ### forbiddenAxleCount
@@ -739,8 +729,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-forbiddenTrailerCount"
+<div id="sdk-for-android-explore-forbiddenTrailerCount"
     class="section detail">
 
     ### forbiddenTrailerCount
@@ -761,8 +750,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-forbiddenHazardousGoods"
+<div id="sdk-for-android-explore-forbiddenHazardousGoods"
     class="section detail">
 
     ### forbiddenHazardousGoods
@@ -789,8 +777,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxTunnelCategory"
+<div id="sdk-for-android-explore-maxTunnelCategory"
     class="section detail">
 
     ### maxTunnelCategory
@@ -813,8 +800,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-forbiddenTruckType"
+<div id="sdk-for-android-explore-forbiddenTruckType"
     class="section detail">
 
     ### forbiddenTruckType
@@ -845,8 +831,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-forbiddenTruckCategory"
+<div id="sdk-for-android-explore-forbiddenTruckCategory"
     class="section detail">
 
     ### forbiddenTruckCategory
@@ -866,8 +851,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-forbiddenTruckRoadTypes"
+<div id="sdk-for-android-explore-forbiddenTruckRoadTypes"
     class="section detail">
 
     ### forbiddenTruckRoadTypes
@@ -886,8 +870,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-routingZoneReference"
+<div id="sdk-for-android-explore-routingZoneReference"
     class="section detail">
 
     ### routingZoneReference
@@ -907,8 +890,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxPayloadCapacityInKilograms"
+<div id="sdk-for-android-explore-maxPayloadCapacityInKilograms"
     class="section detail">
 
     ### maxPayloadCapacityInKilograms
@@ -929,8 +911,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-timeRule" class="section detail">
+<div id="sdk-for-android-explore-timeRule" class="section detail">
 
     ### timeRule
 
@@ -948,8 +929,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxWeight" class="section detail">
+<div id="sdk-for-android-explore-maxWeight" class="section detail">
 
     ### maxWeight
 
@@ -970,8 +950,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxNumberOfTires"
+<div id="sdk-for-android-explore-maxNumberOfTires"
     class="section detail">
 
     ### maxNumberOfTires
@@ -992,8 +971,7 @@ maximum allowed height value.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxKingpinToRearAxleDistanceInCentimeters"
+<div id="sdk-for-android-explore-maxKingpinToRearAxleDistanceInCentimeters"
     class="section detail">
 
     ### maxKingpinToRearAxleDistanceInCentimeters
@@ -1017,11 +995,9 @@ maximum allowed height value.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### Details
 
@@ -1040,11 +1016,9 @@ maximum allowed height value.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -1060,8 +1034,7 @@ maximum allowed height value.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

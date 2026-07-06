@@ -47,8 +47,7 @@ Describes reasons for failing to create a Style from a JSON source.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -58,8 +57,7 @@ Describes reasons for failing to create a Style from a JSON source.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -117,8 +115,7 @@ Describes reasons for failing to create a Style from a JSON source.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -213,11 +210,9 @@ Describes reasons for failing to create a Style from a JSON source.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-MALFORMED_JSON_CONTENT"
+<div id="sdk-for-android-explore-MALFORMED_JSON_CONTENT"
     class="section detail">
 
     ### MALFORMED_JSON_CONTENT
@@ -236,8 +231,7 @@ Describes reasons for failing to create a Style from a JSON source.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INVALID_JSON_STYLE_SYNTAX"
+<div id="sdk-for-android-explore-INVALID_JSON_STYLE_SYNTAX"
     class="section detail">
 
     ### INVALID_JSON_STYLE_SYNTAX
@@ -258,11 +252,9 @@ Describes reasons for failing to create a Style from a JSON source.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -285,8 +277,7 @@ Describes reasons for failing to create a Style from a JSON source.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

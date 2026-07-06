@@ -39,8 +39,7 @@ is mandatory or the calculation will fail.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -182,8 +181,7 @@ is mandatory or the calculation will fail.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -266,8 +264,7 @@ is mandatory or the calculation will fail.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -283,11 +280,9 @@ is mandatory or the calculation will fail.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-rangeType" class="section detail">
+<div id="sdk-for-android-explore-rangeType" class="section detail">
 
     ### rangeType
 
@@ -305,8 +300,7 @@ is mandatory or the calculation will fail.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-rangeValues"
+<div id="sdk-for-android-explore-rangeValues"
     class="section detail">
 
     ### rangeValues
@@ -328,8 +322,7 @@ is mandatory or the calculation will fail.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isolineCalculationMode"
+<div id="sdk-for-android-explore-isolineCalculationMode"
     class="section detail">
 
     ### isolineCalculationMode
@@ -349,8 +342,7 @@ is mandatory or the calculation will fail.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxPoints" class="section detail">
+<div id="sdk-for-android-explore-maxPoints" class="section detail">
 
     ### maxPoints
 
@@ -376,8 +368,7 @@ is mandatory or the calculation will fail.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isolineDirection"
+<div id="sdk-for-android-explore-isolineDirection"
     class="section detail">
 
     ### isolineDirection
@@ -399,11 +390,9 @@ is mandatory or the calculation will fail.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List)"
     class="section detail">
 
     ### Calculation
@@ -426,8 +415,7 @@ is mandatory or the calculation will fail.
     Range values.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.RoutePlaceDirection)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.RoutePlaceDirection)"
     class="section detail">
 
     ### Calculation
@@ -456,8 +444,7 @@ is mandatory or the calculation will fail.
     The isoline direction.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode)"
     class="section detail">
 
     ### Calculation
@@ -486,8 +473,7 @@ is mandatory or the calculation will fail.
     The isoline calculation mode.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode,java.lang.Integer,com.here.sdk.routing.RoutePlaceDirection)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode,java.lang.Integer,com.here.sdk.routing.RoutePlaceDirection)"
     class="section detail">
 
     ### Calculation

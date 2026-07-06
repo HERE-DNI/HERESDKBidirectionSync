@@ -39,8 +39,7 @@ Tile data version.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -116,8 +115,7 @@ Tile data version.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -160,8 +158,7 @@ Tile data version.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -177,11 +174,9 @@ Tile data version.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-majorVersion"
+<div id="sdk-for-android-explore-majorVersion"
     class="section detail">
 
     ### majorVersion
@@ -200,8 +195,7 @@ Tile data version.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-minorVersion"
+<div id="sdk-for-android-explore-minorVersion"
     class="section detail">
 
     ### minorVersion
@@ -222,11 +216,9 @@ Tile data version.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(int,int)"
+<div id="sdk-for-android-explore-<init>(int,int)"
     class="section detail">
 
     ### DataVersion

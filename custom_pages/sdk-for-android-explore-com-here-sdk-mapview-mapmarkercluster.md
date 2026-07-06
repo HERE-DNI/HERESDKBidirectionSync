@@ -51,8 +51,7 @@ still on the map and are considered for picking and clustering.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -151,8 +150,7 @@ still on the map and are considered for picking and clustering.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -214,8 +212,7 @@ still on the map and are considered for picking and clustering.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -434,11 +431,9 @@ still on the map and are considered for picking and clustering.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMarkerCluster.ImageStyle)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMarkerCluster.ImageStyle)"
     class="section detail">
 
     ### MapMarkerCluster
@@ -464,8 +459,7 @@ still on the map and are considered for picking and clustering.
     The visual representation for the cluster.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMarkerCluster.ImageStyle,com.here.sdk.mapview.MapMarkerCluster.CounterStyle)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMarkerCluster.ImageStyle,com.here.sdk.mapview.MapMarkerCluster.CounterStyle)"
     class="section detail">
 
     ### MapMarkerCluster
@@ -501,11 +495,9 @@ still on the map and are considered for picking and clustering.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-addMapMarker(com.here.sdk.mapview.MapMarker)"
+<div id="sdk-for-android-explore-addMapMarker(com.here.sdk.mapview.MapMarker)"
     class="section detail">
 
     ### addMapMarker
@@ -531,8 +523,7 @@ still on the map and are considered for picking and clustering.
     The marker.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addMapMarkers(java.util.List)"
+<div id="sdk-for-android-explore-addMapMarkers(java.util.List)"
     class="section detail">
 
     ### addMapMarkers
@@ -558,8 +549,7 @@ still on the map and are considered for picking and clustering.
     The list of markers.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapMarker(com.here.sdk.mapview.MapMarker)"
+<div id="sdk-for-android-explore-removeMapMarker(com.here.sdk.mapview.MapMarker)"
     class="section detail">
 
     ### removeMapMarker
@@ -584,8 +574,7 @@ still on the map and are considered for picking and clustering.
     The marker.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapMarkers(java.util.List)"
+<div id="sdk-for-android-explore-removeMapMarkers(java.util.List)"
     class="section detail">
 
     ### removeMapMarkers
@@ -610,8 +599,7 @@ still on the map and are considered for picking and clustering.
     The list of markers.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeAllMapMarkers()"
+<div id="sdk-for-android-explore-removeAllMapMarkers()"
     class="section detail">
 
     ### removeAllMapMarkers
@@ -629,8 +617,7 @@ still on the map and are considered for picking and clustering.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-getMarkers()"
+<div id="sdk-for-android-explore-getMarkers()"
     class="section detail">
 
     ### getMarkers
@@ -653,8 +640,7 @@ still on the map and are considered for picking and clustering.
     The list of map markers which currently belong to this cluster.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getOpacity()"
+<div id="sdk-for-android-explore-getOpacity()"
     class="section detail">
 
     ### getOpacity
@@ -676,8 +662,7 @@ still on the map and are considered for picking and clustering.
     image used for marker cluster.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setOpacity(double)"
+<div id="sdk-for-android-explore-setOpacity(double)"
     class="section detail">
 
     ### setOpacity

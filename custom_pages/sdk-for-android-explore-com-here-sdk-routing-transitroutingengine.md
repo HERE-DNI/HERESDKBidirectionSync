@@ -44,8 +44,7 @@ possible, though unlikely, deadlock on destruction.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -103,8 +102,7 @@ possible, though unlikely, deadlock on destruction.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -194,11 +192,9 @@ possible, though unlikely, deadlock on destruction.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TransitRoutingEngine
 
@@ -222,8 +218,7 @@ possible, though unlikely, deadlock on destruction.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
     class="section detail">
 
     ### TransitRoutingEngine
@@ -256,11 +251,9 @@ possible, though unlikely, deadlock on destruction.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-calculateRoute(com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
+<div id="sdk-for-android-explore-calculateRoute(com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitWaypoint,com.here.sdk.routing.TransitRouteOptions,com.here.sdk.routing.CalculateRouteCallback)"
     class="section detail">
 
     ### calculateRoute
@@ -308,8 +301,7 @@ possible, though unlikely, deadlock on destruction.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-dispose()" class="section detail">
+<div id="sdk-for-android-explore-dispose()" class="section detail">
 
     ### dispose
 

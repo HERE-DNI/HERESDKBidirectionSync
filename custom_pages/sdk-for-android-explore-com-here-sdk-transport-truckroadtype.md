@@ -41,8 +41,7 @@ Specifies Truck road type
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ Specifies Truck road type
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -271,8 +269,7 @@ Specifies Truck road type
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -367,11 +364,9 @@ Specifies Truck road type
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-ET4" class="section detail">
+<div id="sdk-for-android-explore-ET4" class="section detail">
 
     ### ET4
 
@@ -389,8 +384,7 @@ Specifies Truck road type
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ET2" class="section detail">
+<div id="sdk-for-android-explore-ET2" class="section detail">
 
     ### ET2
 
@@ -408,8 +402,7 @@ Specifies Truck road type
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-A4" class="section detail">
+<div id="sdk-for-android-explore-A4" class="section detail">
 
     ### A4
 
@@ -427,8 +420,7 @@ Specifies Truck road type
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-A2" class="section detail">
+<div id="sdk-for-android-explore-A2" class="section detail">
 
     ### A2
 
@@ -446,8 +438,7 @@ Specifies Truck road type
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-B4" class="section detail">
+<div id="sdk-for-android-explore-B4" class="section detail">
 
     ### B4
 
@@ -465,8 +456,7 @@ Specifies Truck road type
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-B2" class="section detail">
+<div id="sdk-for-android-explore-B2" class="section detail">
 
     ### B2
 
@@ -484,8 +474,7 @@ Specifies Truck road type
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-C" class="section detail">
+<div id="sdk-for-android-explore-C" class="section detail">
 
     ### C
 
@@ -503,8 +492,7 @@ Specifies Truck road type
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-D" class="section detail">
+<div id="sdk-for-android-explore-D" class="section detail">
 
     ### D
 
@@ -522,8 +510,7 @@ Specifies Truck road type
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BK1" class="section detail">
+<div id="sdk-for-android-explore-BK1" class="section detail">
 
     ### BK1
 
@@ -541,8 +528,7 @@ Specifies Truck road type
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BK2" class="section detail">
+<div id="sdk-for-android-explore-BK2" class="section detail">
 
     ### BK2
 
@@ -560,8 +546,7 @@ Specifies Truck road type
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BK3" class="section detail">
+<div id="sdk-for-android-explore-BK3" class="section detail">
 
     ### BK3
 
@@ -579,8 +564,7 @@ Specifies Truck road type
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BK4" class="section detail">
+<div id="sdk-for-android-explore-BK4" class="section detail">
 
     ### BK4
 
@@ -600,11 +584,9 @@ Specifies Truck road type
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -627,8 +609,7 @@ Specifies Truck road type
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

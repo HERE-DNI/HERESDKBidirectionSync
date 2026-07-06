@@ -51,8 +51,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -251,11 +250,9 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getOriginalId()"
+<div id="sdk-for-android-explore-getOriginalId()"
     class="section detail">
 
     ### getOriginalId
@@ -278,8 +275,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     Unique traffic event ID.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCoordinates()"
+<div id="sdk-for-android-explore-getCoordinates()"
     class="section detail">
 
     ### getCoordinates
@@ -301,8 +297,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     The geographic coordinates of the traffic incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getImpact()"
+<div id="sdk-for-android-explore-getImpact()"
     class="section detail">
 
     ### getImpact
@@ -330,8 +325,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     The impact of the incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getType()" class="section detail">
+<div id="sdk-for-android-explore-getType()" class="section detail">
 
     ### getType
 
@@ -358,8 +352,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     The category of the incident.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDescription()"
+<div id="sdk-for-android-explore-getDescription()"
     class="section detail">
 
     ### getDescription
@@ -390,8 +383,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     location information.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getStartTime()"
+<div id="sdk-for-android-explore-getStartTime()"
     class="section detail">
 
     ### getStartTime
@@ -420,8 +412,7 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     incident should not be considered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getEndTime()"
+<div id="sdk-for-android-explore-getEndTime()"
     class="section detail">
 
     ### getEndTime

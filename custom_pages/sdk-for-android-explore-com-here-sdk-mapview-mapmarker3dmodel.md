@@ -54,8 +54,7 @@ along with the mesh to MapMarker3DModel constructor.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -131,8 +130,7 @@ along with the mesh to MapMarker3DModel constructor.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -260,8 +258,7 @@ along with the mesh to MapMarker3DModel constructor.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -277,11 +274,9 @@ along with the mesh to MapMarker3DModel constructor.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,com.here.sdk.core.Color)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,com.here.sdk.core.Color)"
     class="section detail">
 
     ### MapMarker3DModel
@@ -317,8 +312,7 @@ along with the mesh to MapMarker3DModel constructor.
     of texture.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.Mesh,java.lang.String,com.here.sdk.core.Color)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.Mesh,java.lang.String,com.here.sdk.core.Color)"
     class="section detail">
 
     ### MapMarker3DModel
@@ -361,8 +355,7 @@ along with the mesh to MapMarker3DModel constructor.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### MapMarker3DModel
@@ -391,8 +384,7 @@ along with the mesh to MapMarker3DModel constructor.
     Absolute path to texture file.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.Mesh,java.lang.String)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.Mesh,java.lang.String)"
     class="section detail">
 
     ### MapMarker3DModel
@@ -428,8 +420,7 @@ along with the mesh to MapMarker3DModel constructor.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String)"
+<div id="sdk-for-android-explore-<init>(java.lang.String)"
     class="section detail">
 
     ### MapMarker3DModel
@@ -453,8 +444,7 @@ along with the mesh to MapMarker3DModel constructor.
     Absolute path to obj file.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.Mesh)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.Mesh)"
     class="section detail">
 
     ### MapMarker3DModel

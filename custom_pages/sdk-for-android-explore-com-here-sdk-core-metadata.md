@@ -40,8 +40,7 @@ by the use of the CustomMetadataValue interface.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -83,8 +82,7 @@ by the use of the CustomMetadataValue interface.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -397,11 +395,9 @@ by the use of the CustomMetadataValue interface.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### Metadata
 
@@ -420,11 +416,9 @@ by the use of the CustomMetadataValue interface.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getCustomValue(java.lang.String)"
+<div id="sdk-for-android-explore-getCustomValue(java.lang.String)"
     class="section detail">
 
     ### getCustomValue
@@ -453,8 +447,7 @@ by the use of the CustomMetadataValue interface.
     The value associated with the key.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDouble(java.lang.String)"
+<div id="sdk-for-android-explore-getDouble(java.lang.String)"
     class="section detail">
 
     ### getDouble
@@ -482,8 +475,7 @@ by the use of the CustomMetadataValue interface.
     The value associated with the key.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getGeoCoordinates(java.lang.String)"
+<div id="sdk-for-android-explore-getGeoCoordinates(java.lang.String)"
     class="section detail">
 
     ### getGeoCoordinates
@@ -511,8 +503,7 @@ by the use of the CustomMetadataValue interface.
     The value associated with the key.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getInteger(java.lang.String)"
+<div id="sdk-for-android-explore-getInteger(java.lang.String)"
     class="section detail">
 
     ### getInteger
@@ -540,8 +531,7 @@ by the use of the CustomMetadataValue interface.
     The value associated with the key.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getString(java.lang.String)"
+<div id="sdk-for-android-explore-getString(java.lang.String)"
     class="section detail">
 
     ### getString
@@ -569,8 +559,7 @@ by the use of the CustomMetadataValue interface.
     The value associated with the key.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getType(java.lang.String)"
+<div id="sdk-for-android-explore-getType(java.lang.String)"
     class="section detail">
 
     ### getType
@@ -602,8 +591,7 @@ by the use of the CustomMetadataValue interface.
     key.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeValue(java.lang.String)"
+<div id="sdk-for-android-explore-removeValue(java.lang.String)"
     class="section detail">
 
     ### removeValue
@@ -627,8 +615,7 @@ by the use of the CustomMetadataValue interface.
     The name of the key to be removed.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setCustomValue(java.lang.String,com.here.sdk.core.CustomMetadataValue)"
+<div id="sdk-for-android-explore-setCustomValue(java.lang.String,com.here.sdk.core.CustomMetadataValue)"
     class="section detail">
 
     ### setCustomValue
@@ -660,8 +647,7 @@ by the use of the CustomMetadataValue interface.
     The value to be assigned to the key.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setDouble(java.lang.String,double)"
+<div id="sdk-for-android-explore-setDouble(java.lang.String,double)"
     class="section detail">
 
     ### setDouble
@@ -691,8 +677,7 @@ by the use of the CustomMetadataValue interface.
     The value to be assigned to the key.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setGeoCoordinates(java.lang.String,com.here.sdk.core.GeoCoordinates)"
+<div id="sdk-for-android-explore-setGeoCoordinates(java.lang.String,com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### setGeoCoordinates
@@ -724,8 +709,7 @@ by the use of the CustomMetadataValue interface.
     The value to be assigned to the key.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setInteger(java.lang.String,int)"
+<div id="sdk-for-android-explore-setInteger(java.lang.String,int)"
     class="section detail">
 
     ### setInteger
@@ -755,8 +739,7 @@ by the use of the CustomMetadataValue interface.
     The value to be assigned to the key.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setString(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-setString(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### setString

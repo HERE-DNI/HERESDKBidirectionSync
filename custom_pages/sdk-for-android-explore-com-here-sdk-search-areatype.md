@@ -41,8 +41,7 @@ Represents a type of area like country, state, city, county, etc.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -52,8 +51,7 @@ Represents a type of area like country, state, city, county, etc.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -191,8 +189,7 @@ Represents a type of area like country, state, city, county, etc.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -287,11 +284,9 @@ Represents a type of area like country, state, city, county, etc.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-COUNTRY" class="section detail">
+<div id="sdk-for-android-explore-COUNTRY" class="section detail">
 
     ### COUNTRY
 
@@ -310,8 +305,7 @@ Represents a type of area like country, state, city, county, etc.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-STATE" class="section detail">
+<div id="sdk-for-android-explore-STATE" class="section detail">
 
     ### STATE
 
@@ -329,8 +323,7 @@ Represents a type of area like country, state, city, county, etc.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-COUNTY" class="section detail">
+<div id="sdk-for-android-explore-COUNTY" class="section detail">
 
     ### COUNTY
 
@@ -349,8 +342,7 @@ Represents a type of area like country, state, city, county, etc.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CITY" class="section detail">
+<div id="sdk-for-android-explore-CITY" class="section detail">
 
     ### CITY
 
@@ -368,8 +360,7 @@ Represents a type of area like country, state, city, county, etc.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-POSTAL_CODE"
+<div id="sdk-for-android-explore-POSTAL_CODE"
     class="section detail">
 
     ### POSTAL_CODE
@@ -388,8 +379,7 @@ Represents a type of area like country, state, city, county, etc.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DISTRICT" class="section detail">
+<div id="sdk-for-android-explore-DISTRICT" class="section detail">
 
     ### DISTRICT
 
@@ -407,8 +397,7 @@ Represents a type of area like country, state, city, county, etc.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SUB_DISTRICT"
+<div id="sdk-for-android-explore-SUB_DISTRICT"
     class="section detail">
 
     ### SUB_DISTRICT
@@ -429,11 +418,9 @@ Represents a type of area like country, state, city, county, etc.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -456,8 +443,7 @@ Represents a type of area like country, state, city, county, etc.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

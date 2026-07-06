@@ -41,8 +41,7 @@ new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -172,11 +171,9 @@ new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getGeometry()"
+<div id="sdk-for-android-explore-getGeometry()"
     class="section detail">
 
     ### getGeometry
@@ -198,8 +195,7 @@ new releases without a deprecation process.
     The line geometry.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getAttributes()"
+<div id="sdk-for-android-explore-getAttributes()"
     class="section detail">
 
     ### getAttributes
@@ -221,8 +217,7 @@ new releases without a deprecation process.
     The polyline attributes accessor.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setGeometry(com.here.sdk.core.GeoPolyline)"
+<div id="sdk-for-android-explore-setGeometry(com.here.sdk.core.GeoPolyline)"
     class="section detail">
 
     ### setGeometry
@@ -246,8 +241,7 @@ new releases without a deprecation process.
     The geometry.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setAttributes(com.here.sdk.mapview.datasource.DataAttributes)"
+<div id="sdk-for-android-explore-setAttributes(com.here.sdk.mapview.datasource.DataAttributes)"
     class="section detail">
 
     ### setAttributes

@@ -42,8 +42,7 @@ Defines the types of actions for indoor maneuvers.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -53,8 +52,7 @@ Defines the types of actions for indoor maneuvers.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -336,8 +334,7 @@ Defines the types of actions for indoor maneuvers.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -432,11 +429,9 @@ Defines the types of actions for indoor maneuvers.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-DEPART" class="section detail">
+<div id="sdk-for-android-explore-DEPART" class="section detail">
 
     ### DEPART
 
@@ -454,8 +449,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ARRIVE" class="section detail">
+<div id="sdk-for-android-explore-ARRIVE" class="section detail">
 
     ### ARRIVE
 
@@ -473,8 +467,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LEFT_U_TURN"
+<div id="sdk-for-android-explore-LEFT_U_TURN"
     class="section detail">
 
     ### LEFT_U_TURN
@@ -493,8 +486,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHARP_LEFT_TURN"
+<div id="sdk-for-android-explore-SHARP_LEFT_TURN"
     class="section detail">
 
     ### SHARP_LEFT_TURN
@@ -513,8 +505,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LEFT_TURN" class="section detail">
+<div id="sdk-for-android-explore-LEFT_TURN" class="section detail">
 
     ### LEFT_TURN
 
@@ -532,8 +523,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SLIGHT_LEFT_TURN"
+<div id="sdk-for-android-explore-SLIGHT_LEFT_TURN"
     class="section detail">
 
     ### SLIGHT_LEFT_TURN
@@ -552,8 +542,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SLIGHT_RIGHT_TURN"
+<div id="sdk-for-android-explore-SLIGHT_RIGHT_TURN"
     class="section detail">
 
     ### SLIGHT_RIGHT_TURN
@@ -572,8 +561,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CONTINUE_ON"
+<div id="sdk-for-android-explore-CONTINUE_ON"
     class="section detail">
 
     ### CONTINUE_ON
@@ -592,8 +580,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RIGHT_TURN" class="section detail">
+<div id="sdk-for-android-explore-RIGHT_TURN" class="section detail">
 
     ### RIGHT_TURN
 
@@ -611,8 +598,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHARP_RIGHT_TURN"
+<div id="sdk-for-android-explore-SHARP_RIGHT_TURN"
     class="section detail">
 
     ### SHARP_RIGHT_TURN
@@ -631,8 +617,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RIGHT_U_TURN"
+<div id="sdk-for-android-explore-RIGHT_U_TURN"
     class="section detail">
 
     ### RIGHT_U_TURN
@@ -651,8 +636,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LEFT_EXIT" class="section detail">
+<div id="sdk-for-android-explore-LEFT_EXIT" class="section detail">
 
     ### LEFT_EXIT
 
@@ -670,8 +654,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RIGHT_EXIT" class="section detail">
+<div id="sdk-for-android-explore-RIGHT_EXIT" class="section detail">
 
     ### RIGHT_EXIT
 
@@ -689,8 +672,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LEVEL_CHANGE_ACTION"
+<div id="sdk-for-android-explore-LEVEL_CHANGE_ACTION"
     class="section detail">
 
     ### LEVEL_CHANGE_ACTION
@@ -709,8 +691,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ENTER_ACTION"
+<div id="sdk-for-android-explore-ENTER_ACTION"
     class="section detail">
 
     ### ENTER_ACTION
@@ -729,8 +710,7 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LEAVE_ACTION"
+<div id="sdk-for-android-explore-LEAVE_ACTION"
     class="section detail">
 
     ### LEAVE_ACTION
@@ -751,11 +731,9 @@ Defines the types of actions for indoor maneuvers.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -778,8 +756,7 @@ Defines the types of actions for indoor maneuvers.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

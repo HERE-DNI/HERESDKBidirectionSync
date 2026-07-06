@@ -43,8 +43,7 @@ methods convert duration to a value expressed in desired unit of time.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -596,11 +595,9 @@ methods convert duration to a value expressed in desired unit of time.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getNano()" class="section detail">
+<div id="sdk-for-android-explore-getNano()" class="section detail">
 
     ### getNano
 
@@ -614,8 +611,7 @@ methods convert duration to a value expressed in desired unit of time.
     The nanoseconds component of this duration.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSeconds()"
+<div id="sdk-for-android-explore-getSeconds()"
     class="section detail">
 
     ### getSeconds
@@ -630,8 +626,7 @@ methods convert duration to a value expressed in desired unit of time.
     The seconds component of this duration.
 
     </div>
-
-  - <div id="sdk-for-android-explore-ofDays(long)"
+<div id="sdk-for-android-explore-ofDays(long)"
     class="section detail">
 
     ### ofDays
@@ -663,8 +658,7 @@ methods convert duration to a value expressed in desired unit of time.
     Duration
 
     </div>
-
-  - <div id="sdk-for-android-explore-ofHours(long)"
+<div id="sdk-for-android-explore-ofHours(long)"
     class="section detail">
 
     ### ofHours
@@ -696,8 +690,7 @@ methods convert duration to a value expressed in desired unit of time.
     Duration
 
     </div>
-
-  - <div id="sdk-for-android-explore-ofMinutes(long)"
+<div id="sdk-for-android-explore-ofMinutes(long)"
     class="section detail">
 
     ### ofMinutes
@@ -729,8 +722,7 @@ methods convert duration to a value expressed in desired unit of time.
     Duration
 
     </div>
-
-  - <div id="sdk-for-android-explore-ofSeconds(long)"
+<div id="sdk-for-android-explore-ofSeconds(long)"
     class="section detail">
 
     ### ofSeconds
@@ -755,8 +747,7 @@ methods convert duration to a value expressed in desired unit of time.
     The Duration representing the specified number of seconds.
 
     </div>
-
-  - <div id="sdk-for-android-explore-ofSeconds(long,long)"
+<div id="sdk-for-android-explore-ofSeconds(long,long)"
     class="section detail">
 
     ### ofSeconds
@@ -786,8 +777,7 @@ methods convert duration to a value expressed in desired unit of time.
     The Duration representing the specified number of seconds, adjusted.
 
     </div>
-
-  - <div id="sdk-for-android-explore-ofMillis(long)"
+<div id="sdk-for-android-explore-ofMillis(long)"
     class="section detail">
 
     ### ofMillis
@@ -812,8 +802,7 @@ methods convert duration to a value expressed in desired unit of time.
     The Duration representing the specified number of milliseconds.
 
     </div>
-
-  - <div id="sdk-for-android-explore-ofNanos(long)"
+<div id="sdk-for-android-explore-ofNanos(long)"
     class="section detail">
 
     ### ofNanos
@@ -838,8 +827,7 @@ methods convert duration to a value expressed in desired unit of time.
     The Duration representing the specified number of nanoseconds.
 
     </div>
-
-  - <div id="sdk-for-android-explore-toNanos()" class="section detail">
+<div id="sdk-for-android-explore-toNanos()" class="section detail">
 
     ### toNanos
 
@@ -864,8 +852,7 @@ methods convert duration to a value expressed in desired unit of time.
     if the resulting value cannot be represented by `long` type.
 
     </div>
-
-  - <div id="sdk-for-android-explore-toNanosPart()"
+<div id="sdk-for-android-explore-toNanosPart()"
     class="section detail">
 
     ### toNanosPart
@@ -886,8 +873,7 @@ methods convert duration to a value expressed in desired unit of time.
     The nanoseconds part of this duration, value from 0 to 999999999.
 
     </div>
-
-  - <div id="sdk-for-android-explore-toMillis()" class="section detail">
+<div id="sdk-for-android-explore-toMillis()" class="section detail">
 
     ### toMillis
 
@@ -915,8 +901,7 @@ methods convert duration to a value expressed in desired unit of time.
     if the resulting value cannot be represented by `long` type.
 
     </div>
-
-  - <div id="sdk-for-android-explore-toMillisPart()"
+<div id="sdk-for-android-explore-toMillisPart()"
     class="section detail">
 
     ### toMillisPart
@@ -937,8 +922,7 @@ methods convert duration to a value expressed in desired unit of time.
     The milliseconds part of this duration.
 
     </div>
-
-  - <div id="sdk-for-android-explore-toSeconds()"
+<div id="sdk-for-android-explore-toSeconds()"
     class="section detail">
 
     ### toSeconds
@@ -961,8 +945,7 @@ methods convert duration to a value expressed in desired unit of time.
     Total number of seconds in this duration.
 
     </div>
-
-  - <div id="sdk-for-android-explore-toSecondsPart()"
+<div id="sdk-for-android-explore-toSecondsPart()"
     class="section detail">
 
     ### toSecondsPart
@@ -983,8 +966,7 @@ methods convert duration to a value expressed in desired unit of time.
     The seconds part of this duration, value from 0 to 59.
 
     </div>
-
-  - <div id="sdk-for-android-explore-toMinutes()"
+<div id="sdk-for-android-explore-toMinutes()"
     class="section detail">
 
     ### toMinutes
@@ -1008,8 +990,7 @@ methods convert duration to a value expressed in desired unit of time.
     Total number of minutes in this duration.
 
     </div>
-
-  - <div id="sdk-for-android-explore-toMinutesPart()"
+<div id="sdk-for-android-explore-toMinutesPart()"
     class="section detail">
 
     ### toMinutesPart
@@ -1030,8 +1011,7 @@ methods convert duration to a value expressed in desired unit of time.
     The minutes part of this duration, value from 0 to 59.
 
     </div>
-
-  - <div id="sdk-for-android-explore-toHours()" class="section detail">
+<div id="sdk-for-android-explore-toHours()" class="section detail">
 
     ### toHours
 
@@ -1053,8 +1033,7 @@ methods convert duration to a value expressed in desired unit of time.
     The number of full hours in this duration.
 
     </div>
-
-  - <div id="sdk-for-android-explore-toHoursPart()"
+<div id="sdk-for-android-explore-toHoursPart()"
     class="section detail">
 
     ### toHoursPart
@@ -1075,8 +1054,7 @@ methods convert duration to a value expressed in desired unit of time.
     The hours part of this duration, value from 0 to 23.
 
     </div>
-
-  - <div id="sdk-for-android-explore-toDays()" class="section detail">
+<div id="sdk-for-android-explore-toDays()" class="section detail">
 
     ### toDays
 
@@ -1099,8 +1077,7 @@ methods convert duration to a value expressed in desired unit of time.
     The number of full days in this duration.
 
     </div>
-
-  - <div id="sdk-for-android-explore-toDaysPart()"
+<div id="sdk-for-android-explore-toDaysPart()"
     class="section detail">
 
     ### toDaysPart
@@ -1121,8 +1098,7 @@ methods convert duration to a value expressed in desired unit of time.
     The number of full days in this duration.
 
     </div>
-
-  - <div id="sdk-for-android-explore-compareTo(com.here.time.Duration)"
+<div id="sdk-for-android-explore-compareTo(com.here.time.Duration)"
     class="section detail">
 
     ### compareTo
@@ -1138,8 +1114,7 @@ methods convert duration to a value expressed in desired unit of time.
     interface <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")`>`
 
     </div>
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -1155,8 +1130,7 @@ methods convert duration to a value expressed in desired unit of time.
     class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

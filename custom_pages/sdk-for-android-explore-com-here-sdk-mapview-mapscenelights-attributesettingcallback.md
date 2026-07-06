@@ -39,8 +39,7 @@ setting of light attributes.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -97,11 +96,9 @@ setting of light attributes.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-onAttributeSetting(com.here.sdk.mapview.MapSceneLights.AttributeSettingError)"
+<div id="sdk-for-android-explore-onAttributeSetting(com.here.sdk.mapview.MapSceneLights.AttributeSettingError)"
     class="section detail">
 
     ### onAttributeSetting
