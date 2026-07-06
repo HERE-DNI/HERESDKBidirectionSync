@@ -22,17 +22,8 @@ com.here.sdk.mapview.MapCameraAnimation.InstantiationErrorCode
 class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-class="external-link"
-title="class or interface in java.io"><code>Serializable</code></a>, <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`MapCameraAnimation.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")`>`,
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
-class="external-link"
-title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`MapCameraAnimation.InstantiationErrorCode`](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")`>`,
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <!-- -->
 
@@ -43,9 +34,7 @@ Enclosing class:
 
 <span class="modifiers">public static enum
 </span><span class="element-name type-name-label">MapCameraAnimation.InstantiationErrorCode</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")\></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")\></span>
 
 </div>
 
@@ -65,19 +54,7 @@ MapCameraAnimation .
 
   <div class="inherited-list">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>` extends `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
@@ -108,9 +85,7 @@ MapCameraAnimation .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
-  class="member-name-link"><code>CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK" class="member-name-link"><code>CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</code></a>
 
   </div>
 
@@ -127,9 +102,7 @@ MapCameraAnimation .
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK"
-  class="member-name-link"><code>CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK" class="member-name-link"><code>CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK</code></a>
 
   </div>
 
@@ -146,9 +119,7 @@ MapCameraAnimation .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
-  class="member-name-link"><code>CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK" class="member-name-link"><code>CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</code></a>
 
   </div>
 
@@ -165,9 +136,7 @@ MapCameraAnimation .
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK"
-  class="member-name-link"><code>CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK" class="member-name-link"><code>CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK</code></a>
 
   </div>
 
@@ -184,9 +153,7 @@ MapCameraAnimation .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
-  class="member-name-link"><code>CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK" class="member-name-link"><code>CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK</code></a>
 
   </div>
 
@@ -203,9 +170,7 @@ MapCameraAnimation .
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK"
-  class="member-name-link"><code>CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK" class="member-name-link"><code>CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK</code></a>
 
   </div>
 
@@ -222,9 +187,7 @@ MapCameraAnimation .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
-  class="member-name-link"><code>CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK" class="member-name-link"><code>CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</code></a>
 
   </div>
 
@@ -241,9 +204,7 @@ MapCameraAnimation .
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
-  class="member-name-link"><code>CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK" class="member-name-link"><code>CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</code></a>
 
   </div>
 
@@ -260,9 +221,7 @@ MapCameraAnimation .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
-  class="member-name-link"><code>CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK" class="member-name-link"><code>CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK</code></a>
 
   </div>
 
@@ -279,9 +238,7 @@ MapCameraAnimation .
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
-  class="member-name-link"><code>CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK" class="member-name-link"><code>CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK</code></a>
 
   </div>
 
@@ -298,9 +255,7 @@ MapCameraAnimation .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK"
-  class="member-name-link"><code>CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK" class="member-name-link"><code>CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK</code></a>
 
   </div>
 
@@ -317,9 +272,7 @@ MapCameraAnimation .
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#EMPTY_TRACK_LIST"
-  class="member-name-link"><code>EMPTY_TRACK_LIST</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#EMPTY_TRACK_LIST" class="member-name-link"><code>EMPTY_TRACK_LIST</code></a>
 
   </div>
 
@@ -335,9 +288,7 @@ MapCameraAnimation .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS" class="member-name-link"><code>MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS</code></a>
 
   </div>
 
@@ -353,9 +304,7 @@ MapCameraAnimation .
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS" class="member-name-link"><code>MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS</code></a>
 
   </div>
 
@@ -371,9 +320,7 @@ MapCameraAnimation .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS" class="member-name-link"><code>MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS</code></a>
 
   </div>
 
@@ -390,9 +337,7 @@ MapCameraAnimation .
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS" class="member-name-link"><code>MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS</code></a>
 
   </div>
 
@@ -409,9 +354,7 @@ MapCameraAnimation .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS" class="member-name-link"><code>MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS</code></a>
 
   </div>
 
@@ -428,9 +371,7 @@ MapCameraAnimation .
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_ORIENTATION_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_ORIENTATION_TRACKS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_ORIENTATION_TRACKS" class="member-name-link"><code>MULTIPLE_CAMERA_ORIENTATION_TRACKS</code></a>
 
   </div>
 
@@ -446,9 +387,7 @@ MapCameraAnimation .
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_POSITION_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_POSITION_TRACKS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_POSITION_TRACKS" class="member-name-link"><code>MULTIPLE_CAMERA_POSITION_TRACKS</code></a>
 
   </div>
 
@@ -464,9 +403,7 @@ MapCameraAnimation .
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS"
-  class="member-name-link"><code>MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode#MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS" class="member-name-link"><code>MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS</code></a>
 
   </div>
 
@@ -561,72 +498,17 @@ MapCameraAnimation .
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
-  class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
-  class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
-  class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
-  class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
-  class="external-link"
-  title="class or interface in java.lang"><code>valueOf</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -1093,9 +975,7 @@ MapCameraAnimation .
     <div class="member-signature">
 
     <span class="modifiers">public
-    static</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    static</span> <span class="return-type">[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")</span> <span class="element-name">valueOf</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -1115,16 +995,10 @@ MapCameraAnimation .
     the enum constant with the specified name
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if this enum class has no constant with the specified name
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if the argument is null
 
     </div>

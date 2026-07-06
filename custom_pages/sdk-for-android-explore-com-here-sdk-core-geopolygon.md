@@ -22,9 +22,7 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">GeoPolygon</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -71,21 +69,13 @@ instance of this class, initialized with appropriate vertices.
 
   <div class="col-first even-row-color">
 
-  `final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")`>>`
+  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")`>>`
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-geopolygon#innerBoundaries"
-  class="member-name-link"><code>innerBoundaries</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon#innerBoundaries" class="member-name-link"><code>innerBoundaries</code></a>
 
   </div>
 
@@ -102,17 +92,13 @@ instance of this class, initialized with appropriate vertices.
 
   <div class="col-first odd-row-color">
 
-  `final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")`>`
+  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`GeoCoordinates`](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")`>`
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon#vertices"
-  class="member-name-link"><code>vertices</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-geopolygon#vertices" class="member-name-link"><code>vertices</code></a>
 
   </div>
 
@@ -291,38 +277,9 @@ instance of this class, initialized with appropriate vertices.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -343,9 +300,7 @@ instance of this class, initialized with appropriate vertices.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\></span> <span class="element-name">vertices</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\></span> <span class="element-name">vertices</span>
 
     </div>
 
@@ -367,11 +322,7 @@ instance of this class, initialized with appropriate vertices.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\>\></span> <span class="element-name">innerBoundaries</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\>\></span> <span class="element-name">innerBoundaries</span>
 
     </div>
 
@@ -397,9 +348,7 @@ instance of this class, initialized with appropriate vertices.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="element-name">GeoPolygon</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> vertices)</span>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> vertices)</span>
     throws
     <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
 
@@ -434,14 +383,8 @@ instance of this class, initialized with appropriate vertices.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="element-name">GeoPolygon</span><span class="parameters">(@NonNull
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> vertices,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\>\> innerBoundaries)</span>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> vertices,
+    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\>\> innerBoundaries)</span>
     throws
     <span class="exceptions">[InstantiationErrorException](sdk-for-android-explore-com-here-sdk-core-errors-instantiationerrorexception "class in com.here.sdk.core.errors")</span>
 
@@ -545,21 +488,13 @@ instance of this class, initialized with appropriate vertices.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -574,14 +509,8 @@ instance of this class, initialized with appropriate vertices.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 

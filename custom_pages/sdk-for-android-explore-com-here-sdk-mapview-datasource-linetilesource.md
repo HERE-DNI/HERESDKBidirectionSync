@@ -75,10 +75,7 @@ Related APIs may change for new releases without a deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource-loadresulthandler"
-  class="type-name-link"
-  title="interface in com.here.sdk.mapview.datasource"><code>LineTileSource.LoadResultHandler</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-linetilesource-loadresulthandler" class="type-name-link" title="interface in com.here.sdk.mapview.datasource"><code>LineTileSource.LoadResultHandler</code></a>
 
   </div>
 

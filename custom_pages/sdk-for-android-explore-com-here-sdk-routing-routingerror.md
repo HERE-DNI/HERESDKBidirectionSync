@@ -21,25 +21,14 @@ java.lang.Enum → RoutingError → com.here.sdk.routing.RoutingError
 class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-class="external-link"
-title="class or interface in java.io"><code>Serializable</code></a>, <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`RoutingError`](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")`>`,
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
-class="external-link"
-title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`RoutingError`](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")`>`,
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
 <span class="modifiers">public enum
 </span><span class="element-name type-name-label">RoutingError</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")\></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -59,19 +48,7 @@ route.
 
   <div class="inherited-list">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>` extends `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
@@ -102,9 +79,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#ACTIVE_MAP_UPDATE"
-  class="member-name-link"><code>ACTIVE_MAP_UPDATE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#ACTIVE_MAP_UPDATE" class="member-name-link"><code>ACTIVE_MAP_UPDATE</code></a>
 
   </div>
 
@@ -120,9 +95,7 @@ route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#AUTHENTICATION_FAILED"
-  class="member-name-link"><code>AUTHENTICATION_FAILED</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#AUTHENTICATION_FAILED" class="member-name-link"><code>AUTHENTICATION_FAILED</code></a>
 
   </div>
 
@@ -138,9 +111,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#COULD_NOT_MATCH_DESTINATION"
-  class="member-name-link"><code>COULD_NOT_MATCH_DESTINATION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#COULD_NOT_MATCH_DESTINATION" class="member-name-link"><code>COULD_NOT_MATCH_DESTINATION</code></a>
 
   </div>
 
@@ -156,9 +127,7 @@ route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#COULD_NOT_MATCH_ORIGIN"
-  class="member-name-link"><code>COULD_NOT_MATCH_ORIGIN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#COULD_NOT_MATCH_ORIGIN" class="member-name-link"><code>COULD_NOT_MATCH_ORIGIN</code></a>
 
   </div>
 
@@ -174,9 +143,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#EXCEEDED_USAGE_LIMIT"
-  class="member-name-link"><code>EXCEEDED_USAGE_LIMIT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#EXCEEDED_USAGE_LIMIT" class="member-name-link"><code>EXCEEDED_USAGE_LIMIT</code></a>
 
   </div>
 
@@ -192,9 +159,7 @@ route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#FAILED_ROUTE_HANDLE_CREATION"
-  class="member-name-link"><code>FAILED_ROUTE_HANDLE_CREATION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#FAILED_ROUTE_HANDLE_CREATION" class="member-name-link"><code>FAILED_ROUTE_HANDLE_CREATION</code></a>
 
   </div>
 
@@ -210,9 +175,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#FORBIDDEN"
-  class="member-name-link"><code>FORBIDDEN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#FORBIDDEN" class="member-name-link"><code>FORBIDDEN</code></a>
 
   </div>
 
@@ -228,9 +191,7 @@ route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#HTTP_ERROR"
-  class="member-name-link"><code>HTTP_ERROR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#HTTP_ERROR" class="member-name-link"><code>HTTP_ERROR</code></a>
 
   </div>
 
@@ -246,9 +207,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#IMPORT_FAILED"
-  class="member-name-link"><code>IMPORT_FAILED</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#IMPORT_FAILED" class="member-name-link"><code>IMPORT_FAILED</code></a>
 
   </div>
 
@@ -264,9 +223,7 @@ route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INTERNAL_ERROR"
-  class="member-name-link"><code>INTERNAL_ERROR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INTERNAL_ERROR" class="member-name-link"><code>INTERNAL_ERROR</code></a>
 
   </div>
 
@@ -282,9 +239,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER"
-  class="member-name-link"><code>INVALID_PARAMETER</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#INVALID_PARAMETER" class="member-name-link"><code>INVALID_PARAMETER</code></a>
 
   </div>
 
@@ -300,9 +255,7 @@ route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ISOLINE_FOUND"
-  class="member-name-link"><code>NO_ISOLINE_FOUND</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ISOLINE_FOUND" class="member-name-link"><code>NO_ISOLINE_FOUND</code></a>
 
   </div>
 
@@ -318,9 +271,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_REACHABLE_CHARGING_STATION_FOUND"
-  class="member-name-link"><code>NO_REACHABLE_CHARGING_STATION_FOUND</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_REACHABLE_CHARGING_STATION_FOUND" class="member-name-link"><code>NO_REACHABLE_CHARGING_STATION_FOUND</code></a>
 
   </div>
 
@@ -336,9 +287,7 @@ route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND"
-  class="member-name-link"><code>NO_ROUTE_FOUND</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_FOUND" class="member-name-link"><code>NO_ROUTE_FOUND</code></a>
 
   </div>
 
@@ -354,9 +303,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_HANDLE"
-  class="member-name-link"><code>NO_ROUTE_HANDLE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#NO_ROUTE_HANDLE" class="member-name-link"><code>NO_ROUTE_HANDLE</code></a>
 
   </div>
 
@@ -373,9 +320,7 @@ route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#OFFLINE"
-  class="member-name-link"><code>OFFLINE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#OFFLINE" class="member-name-link"><code>OFFLINE</code></a>
 
   </div>
 
@@ -391,9 +336,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#OPERATION_CANCELLED"
-  class="member-name-link"><code>OPERATION_CANCELLED</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#OPERATION_CANCELLED" class="member-name-link"><code>OPERATION_CANCELLED</code></a>
 
   </div>
 
@@ -409,9 +352,7 @@ route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#PARSING_ERROR"
-  class="member-name-link"><code>PARSING_ERROR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#PARSING_ERROR" class="member-name-link"><code>PARSING_ERROR</code></a>
 
   </div>
 
@@ -427,9 +368,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#PROXY_AUTHENTICATION_FAILED"
-  class="member-name-link"><code>PROXY_AUTHENTICATION_FAILED</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#PROXY_AUTHENTICATION_FAILED" class="member-name-link"><code>PROXY_AUTHENTICATION_FAILED</code></a>
 
   </div>
 
@@ -445,9 +384,7 @@ route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#PROXY_SERVER_UNREACHABLE"
-  class="member-name-link"><code>PROXY_SERVER_UNREACHABLE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#PROXY_SERVER_UNREACHABLE" class="member-name-link"><code>PROXY_SERVER_UNREACHABLE</code></a>
 
   </div>
 
@@ -463,9 +400,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#ROUTE_CALCULATION_FAILED"
-  class="member-name-link"><code>ROUTE_CALCULATION_FAILED</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#ROUTE_CALCULATION_FAILED" class="member-name-link"><code>ROUTE_CALCULATION_FAILED</code></a>
 
   </div>
 
@@ -481,9 +416,7 @@ route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#ROUTE_LENGTH_LIMIT_EXCEEDED"
-  class="member-name-link"><code>ROUTE_LENGTH_LIMIT_EXCEEDED</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#ROUTE_LENGTH_LIMIT_EXCEEDED" class="member-name-link"><code>ROUTE_LENGTH_LIMIT_EXCEEDED</code></a>
 
   </div>
 
@@ -499,9 +432,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#SERVER_UNREACHABLE"
-  class="member-name-link"><code>SERVER_UNREACHABLE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#SERVER_UNREACHABLE" class="member-name-link"><code>SERVER_UNREACHABLE</code></a>
 
   </div>
 
@@ -517,9 +448,7 @@ route.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#TIMED_OUT"
-  class="member-name-link"><code>TIMED_OUT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#TIMED_OUT" class="member-name-link"><code>TIMED_OUT</code></a>
 
   </div>
 
@@ -535,9 +464,7 @@ route.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routingerror#VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING"
-  class="member-name-link"><code>VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routingerror#VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING" class="member-name-link"><code>VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING</code></a>
 
   </div>
 
@@ -632,72 +559,17 @@ route.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
-  class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
-  class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
-  class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
-  class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
-  class="external-link"
-  title="class or interface in java.lang"><code>valueOf</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -1256,9 +1128,7 @@ route.
     <div class="member-signature">
 
     <span class="modifiers">public
-    static</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    static</span> <span class="return-type">[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -1278,16 +1148,10 @@ route.
     the enum constant with the specified name
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if this enum class has no constant with the specified name
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if the argument is null
 
     </div>

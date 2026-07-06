@@ -138,10 +138,7 @@ initialized.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener"
-  class="type-name-link"
-  title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener" class="type-name-link" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a>
 
   </div>
 
@@ -165,10 +162,7 @@ initialized.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapview-takescreenshotcallback"
-  class="type-name-link"
-  title="interface in com.here.sdk.mapview"><code>MapView.TakeScreenshotCallback</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-takescreenshotcallback" class="type-name-link" title="interface in com.here.sdk.mapview"><code>MapView.TakeScreenshotCallback</code></a>
 
   </div>
 
@@ -190,9 +184,7 @@ initialized.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin"
-  class="type-name-link"
-  title="interface in com.here.sdk.mapview"><code>MapView.ViewPin</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin" class="type-name-link" title="interface in com.here.sdk.mapview"><code>MapView.ViewPin</code></a>
 
   </div>
 
@@ -681,10 +673,7 @@ initialized.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`MapView.ViewPin`](sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin "interface in com.here.sdk.mapview")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`MapView.ViewPin`](sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin "interface in com.here.sdk.mapview")`>`
 
   </div>
 
@@ -1279,41 +1268,9 @@ initialized.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -1739,9 +1696,7 @@ initialized.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">onCreate</span><span class="parameters">(android.os.Bundle bundle,
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> identifier)</span>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> identifier)</span>
 
     </div>
 
@@ -1790,10 +1745,7 @@ initialized.
     unregister any previously register listener.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -1918,9 +1870,7 @@ initialized.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">onSaveInstanceState</span><span class="parameters">(android.os.Bundle bundle,
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> identifier)</span>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> identifier)</span>
 
     </div>
 
@@ -2032,10 +1982,7 @@ initialized.
     if there is no render surface attached.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2075,10 +2022,7 @@ initialized.
     `lifecycleListener` - An object to be notified of lifecycle events.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2117,10 +2061,7 @@ initialized.
     events.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2198,9 +2139,7 @@ initialized.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapView.ViewPin](sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin "interface in com.here.sdk.mapview")\></span> <span class="element-name">getViewPins</span>()
+    <span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[MapView.ViewPin](sdk-for-android-explore-com-here-sdk-mapview-mapview-viewpin "interface in com.here.sdk.mapview")\></span> <span class="element-name">getViewPins</span>()
 
     </div>
 
@@ -2258,10 +2197,7 @@ initialized.
     there is no render surface attached.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2302,10 +2238,7 @@ initialized.
     control object
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2345,10 +2278,7 @@ initialized.
     current pixel scale factor, or 0.0 if MapView is not initialized
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2387,10 +2317,7 @@ initialized.
     is not initialized
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2480,10 +2407,7 @@ initialized.
     completed
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2603,10 +2527,7 @@ initialized.
     object for the map.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2646,10 +2567,7 @@ initialized.
     associated with this map view.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2687,10 +2605,7 @@ initialized.
     associated with this map view.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2728,10 +2643,7 @@ initialized.
     associated with this map view.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if
     [](sdk-for-android-explore-com-here-sdk-mapview-mapview#onCreate(android.os.Bundle))
 
@@ -2775,16 +2687,10 @@ initialized.
     differs from fixed size.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if factor is not inside (0.0, 1.0\].
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/UnsupportedOperationException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>UnsupportedOperationException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/UnsupportedOperationException.html" class="external-link" title="class or interface in java.lang"><code>UnsupportedOperationException</code></a> -
     if
     [`MapView`](sdk-for-android-explore-com-here-sdk-mapview-mapview "class in com.here.sdk.mapview")
     render mode is not MapRenderMode.SURFACE.

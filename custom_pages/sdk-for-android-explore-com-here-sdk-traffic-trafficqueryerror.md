@@ -22,25 +22,14 @@ com.here.sdk.traffic.TrafficQueryError
 class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-class="external-link"
-title="class or interface in java.io"><code>Serializable</code></a>, <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`TrafficQueryError`](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic")`>`,
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
-class="external-link"
-title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`TrafficQueryError`](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic")`>`,
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
 <span class="modifiers">public enum
 </span><span class="element-name type-name-label">TrafficQueryError</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[TrafficQueryError](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic")\></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[TrafficQueryError](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic")\></span>
 
 </div>
 
@@ -62,19 +51,7 @@ deprecation process.
 
   <div class="inherited-list">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>` extends `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
@@ -105,9 +82,7 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#AUTHENTICATION_FAILED"
-  class="member-name-link"><code>AUTHENTICATION_FAILED</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#AUTHENTICATION_FAILED" class="member-name-link"><code>AUTHENTICATION_FAILED</code></a>
 
   </div>
 
@@ -123,9 +98,7 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#BAD_REQUEST"
-  class="member-name-link"><code>BAD_REQUEST</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#BAD_REQUEST" class="member-name-link"><code>BAD_REQUEST</code></a>
 
   </div>
 
@@ -141,9 +114,7 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#FAILED_TO_RETRIEVE_RESULT"
-  class="member-name-link"><code>FAILED_TO_RETRIEVE_RESULT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#FAILED_TO_RETRIEVE_RESULT" class="member-name-link"><code>FAILED_TO_RETRIEVE_RESULT</code></a>
 
   </div>
 
@@ -160,9 +131,7 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#FORBIDDEN"
-  class="member-name-link"><code>FORBIDDEN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#FORBIDDEN" class="member-name-link"><code>FORBIDDEN</code></a>
 
   </div>
 
@@ -178,9 +147,7 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#HTTP_ERROR"
-  class="member-name-link"><code>HTTP_ERROR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#HTTP_ERROR" class="member-name-link"><code>HTTP_ERROR</code></a>
 
   </div>
 
@@ -196,9 +163,7 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INCIDENT_ID_NOT_FOUND"
-  class="member-name-link"><code>INCIDENT_ID_NOT_FOUND</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INCIDENT_ID_NOT_FOUND" class="member-name-link"><code>INCIDENT_ID_NOT_FOUND</code></a>
 
   </div>
 
@@ -214,9 +179,7 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INTERNAL_ERROR"
-  class="member-name-link"><code>INTERNAL_ERROR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INTERNAL_ERROR" class="member-name-link"><code>INTERNAL_ERROR</code></a>
 
   </div>
 
@@ -232,9 +195,7 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_FILTER_OPTIONS"
-  class="member-name-link"><code>INVALID_FILTER_OPTIONS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_FILTER_OPTIONS" class="member-name-link"><code>INVALID_FILTER_OPTIONS</code></a>
 
   </div>
 
@@ -250,9 +211,7 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_GEOMETRY"
-  class="member-name-link"><code>INVALID_GEOMETRY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_GEOMETRY" class="member-name-link"><code>INVALID_GEOMETRY</code></a>
 
   </div>
 
@@ -268,9 +227,7 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_IN"
-  class="member-name-link"><code>INVALID_IN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_IN" class="member-name-link"><code>INVALID_IN</code></a>
 
   </div>
 
@@ -286,9 +243,7 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_INCIDENT"
-  class="member-name-link"><code>INVALID_INCIDENT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_INCIDENT" class="member-name-link"><code>INVALID_INCIDENT</code></a>
 
   </div>
 
@@ -304,9 +259,7 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_PARAMETER"
-  class="member-name-link"><code>INVALID_PARAMETER</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#INVALID_PARAMETER" class="member-name-link"><code>INVALID_PARAMETER</code></a>
 
   </div>
 
@@ -322,9 +275,7 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#OFFLINE"
-  class="member-name-link"><code>OFFLINE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#OFFLINE" class="member-name-link"><code>OFFLINE</code></a>
 
   </div>
 
@@ -340,9 +291,7 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#OPERATION_CANCELLED"
-  class="member-name-link"><code>OPERATION_CANCELLED</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#OPERATION_CANCELLED" class="member-name-link"><code>OPERATION_CANCELLED</code></a>
 
   </div>
 
@@ -358,9 +307,7 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#PROXY_AUTHENTICATION_FAILED"
-  class="member-name-link"><code>PROXY_AUTHENTICATION_FAILED</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#PROXY_AUTHENTICATION_FAILED" class="member-name-link"><code>PROXY_AUTHENTICATION_FAILED</code></a>
 
   </div>
 
@@ -376,9 +323,7 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#PROXY_SERVER_UNREACHABLE"
-  class="member-name-link"><code>PROXY_SERVER_UNREACHABLE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#PROXY_SERVER_UNREACHABLE" class="member-name-link"><code>PROXY_SERVER_UNREACHABLE</code></a>
 
   </div>
 
@@ -394,9 +339,7 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#SERVER_UNREACHABLE"
-  class="member-name-link"><code>SERVER_UNREACHABLE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#SERVER_UNREACHABLE" class="member-name-link"><code>SERVER_UNREACHABLE</code></a>
 
   </div>
 
@@ -412,9 +355,7 @@ deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#TIMED_OUT"
-  class="member-name-link"><code>TIMED_OUT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#TIMED_OUT" class="member-name-link"><code>TIMED_OUT</code></a>
 
   </div>
 
@@ -430,9 +371,7 @@ deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#TOO_MANY_REQUESTS"
-  class="member-name-link"><code>TOO_MANY_REQUESTS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror#TOO_MANY_REQUESTS" class="member-name-link"><code>TOO_MANY_REQUESTS</code></a>
 
   </div>
 
@@ -528,72 +467,17 @@ deprecation process.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
-  class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
-  class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
-  class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
-  class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
-  class="external-link"
-  title="class or interface in java.lang"><code>valueOf</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -1026,9 +910,7 @@ deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public
-    static</span> <span class="return-type">[TrafficQueryError](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    static</span> <span class="return-type">[TrafficQueryError](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic")</span> <span class="element-name">valueOf</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -1048,16 +930,10 @@ deprecation process.
     the enum constant with the specified name
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if this enum class has no constant with the specified name
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if the argument is null
 
     </div>

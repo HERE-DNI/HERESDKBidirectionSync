@@ -23,10 +23,7 @@ assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public static interface
 </span><span class="element-name type-name-label">IconProvider.IconCallback</span>
 
@@ -114,9 +111,7 @@ after calling the createRoadShieldIcon() method.
     <div class="member-signature">
 
     <span class="return-type">void</span> <span class="element-name">onCreateIconReply</span><span class="parameters">(@Nullable
-    android.graphics.Bitmap bitmap, @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> description,
+    android.graphics.Bitmap bitmap, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> description,
     @Nullable
     [IconProviderError](sdk-for-android-explore-com-here-sdk-mapview-iconprovidererror "enum class in com.here.sdk.mapview") error)</span>
 

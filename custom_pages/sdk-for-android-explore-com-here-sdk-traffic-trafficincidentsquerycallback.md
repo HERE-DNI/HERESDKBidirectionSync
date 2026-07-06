@@ -18,10 +18,7 @@ assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface
 </span><span class="element-name type-name-label">TrafficIncidentsQueryCallback</span>
 
@@ -114,9 +111,7 @@ error.
 
     <span class="return-type">void</span> <span class="element-name">onTrafficIncidentsFetched</span><span class="parameters">(@Nullable
     [TrafficQueryError](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic") queryError,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncident](sdk-for-android-explore-com-here-sdk-traffic-trafficincident "class in com.here.sdk.traffic")\> result)</span>
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncident](sdk-for-android-explore-com-here-sdk-traffic-trafficincident "class in com.here.sdk.traffic")\> result)</span>
 
     </div>
 

@@ -22,9 +22,7 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">MapMeasureDependentRenderSize</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -75,10 +73,7 @@ Represents a render size, described as map measure dependent values.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationerrorcode"
-  class="type-name-link"
-  title="enum class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize.InstantiationErrorCode</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationerrorcode" class="type-name-link" title="enum class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize.InstantiationErrorCode</code></a>
 
   </div>
 
@@ -101,10 +96,7 @@ Represents a render size, described as map measure dependent values.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationexception"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize.InstantiationException</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationexception" class="type-name-link" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize.InstantiationException</code></a>
 
   </div>
 
@@ -160,9 +152,7 @@ Represents a render size, described as map measure dependent values.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#measureKind"
-  class="member-name-link"><code>measureKind</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#measureKind" class="member-name-link"><code>measureKind</code></a>
 
   </div>
 
@@ -178,24 +168,13 @@ Represents a render size, described as map measure dependent values.
 
   <div class="col-first odd-row-color">
 
-  `final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Map</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>`>`
+  `final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util"><code>Map</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>`>`
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#sizes"
-  class="member-name-link"><code>sizes</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#sizes" class="member-name-link"><code>sizes</code></a>
 
   </div>
 
@@ -217,9 +196,7 @@ Represents a render size, described as map measure dependent values.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#sizeUnit"
-  class="member-name-link"><code>sizeUnit</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize#sizeUnit" class="member-name-link"><code>sizeUnit</code></a>
 
   </div>
 
@@ -367,38 +344,9 @@ Represents a render size, described as map measure dependent values.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -460,13 +408,7 @@ Represents a render size, described as map measure dependent values.
 
     <span class="annotations">@NonNull
     </span><span class="modifiers">public
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>,<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">sizes</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a>,<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">sizes</span>
 
     </div>
 
@@ -497,13 +439,7 @@ Represents a render size, described as map measure dependent values.
     [MapMeasure.Kind](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure-kind "enum class in com.here.sdk.mapview") measureKind,
     @NonNull
     [RenderSize.Unit](sdk-for-android-explore-com-here-sdk-mapview-rendersize-unit "enum class in com.here.sdk.mapview") sizeUnit,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
-    class="external-link" title="class or interface in java.util">Map</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>,<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>\> sizes)</span>
+    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" class="external-link" title="class or interface in java.util">Map</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a>,<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a>\> sizes)</span>
     throws
     <span class="exceptions">[MapMeasureDependentRenderSize.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -589,21 +525,13 @@ Represents a render size, described as map measure dependent values.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -618,14 +546,8 @@ Represents a render size, described as map measure dependent values.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 

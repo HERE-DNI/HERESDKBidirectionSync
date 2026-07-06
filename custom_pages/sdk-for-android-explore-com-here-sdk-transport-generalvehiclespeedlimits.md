@@ -22,9 +22,7 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">GeneralVehicleSpeedLimits</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -69,18 +67,13 @@ Contains the speed limits for vehicles in a country / state.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedHighwaysInMetersPerSecond"
-  class="member-name-link"><code>maxSpeedHighwaysInMetersPerSecond</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedHighwaysInMetersPerSecond" class="member-name-link"><code>maxSpeedHighwaysInMetersPerSecond</code></a>
 
   </div>
 
@@ -96,18 +89,13 @@ Contains the speed limits for vehicles in a country / state.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedNightInMetersPerSecond"
-  class="member-name-link"><code>maxSpeedNightInMetersPerSecond</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedNightInMetersPerSecond" class="member-name-link"><code>maxSpeedNightInMetersPerSecond</code></a>
 
   </div>
 
@@ -123,18 +111,13 @@ Contains the speed limits for vehicles in a country / state.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedRainingInMetersPerSecond"
-  class="member-name-link"><code>maxSpeedRainingInMetersPerSecond</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedRainingInMetersPerSecond" class="member-name-link"><code>maxSpeedRainingInMetersPerSecond</code></a>
 
   </div>
 
@@ -150,18 +133,13 @@ Contains the speed limits for vehicles in a country / state.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedRuralInMetersPerSecond"
-  class="member-name-link"><code>maxSpeedRuralInMetersPerSecond</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedRuralInMetersPerSecond" class="member-name-link"><code>maxSpeedRuralInMetersPerSecond</code></a>
 
   </div>
 
@@ -177,18 +155,13 @@ Contains the speed limits for vehicles in a country / state.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedSnowingInMetersPerSecond"
-  class="member-name-link"><code>maxSpeedSnowingInMetersPerSecond</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedSnowingInMetersPerSecond" class="member-name-link"><code>maxSpeedSnowingInMetersPerSecond</code></a>
 
   </div>
 
@@ -204,18 +177,13 @@ Contains the speed limits for vehicles in a country / state.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedUrbanInMetersPerSecond"
-  class="member-name-link"><code>maxSpeedUrbanInMetersPerSecond</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#maxSpeedUrbanInMetersPerSecond" class="member-name-link"><code>maxSpeedUrbanInMetersPerSecond</code></a>
 
   </div>
 
@@ -231,18 +199,13 @@ Contains the speed limits for vehicles in a country / state.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#minSpeedHighwaysInMetersPerSecond"
-  class="member-name-link"><code>minSpeedHighwaysInMetersPerSecond</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-transport-generalvehiclespeedlimits#minSpeedHighwaysInMetersPerSecond" class="member-name-link"><code>minSpeedHighwaysInMetersPerSecond</code></a>
 
   </div>
 
@@ -370,38 +333,9 @@ Contains the speed limits for vehicles in a country / state.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -422,9 +356,7 @@ Contains the speed limits for vehicles in a country / state.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxSpeedHighwaysInMetersPerSecond</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxSpeedHighwaysInMetersPerSecond</span>
 
     </div>
 
@@ -446,9 +378,7 @@ Contains the speed limits for vehicles in a country / state.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxSpeedRuralInMetersPerSecond</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxSpeedRuralInMetersPerSecond</span>
 
     </div>
 
@@ -470,9 +400,7 @@ Contains the speed limits for vehicles in a country / state.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxSpeedUrbanInMetersPerSecond</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxSpeedUrbanInMetersPerSecond</span>
 
     </div>
 
@@ -494,9 +422,7 @@ Contains the speed limits for vehicles in a country / state.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxSpeedRainingInMetersPerSecond</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxSpeedRainingInMetersPerSecond</span>
 
     </div>
 
@@ -518,9 +444,7 @@ Contains the speed limits for vehicles in a country / state.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxSpeedSnowingInMetersPerSecond</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxSpeedSnowingInMetersPerSecond</span>
 
     </div>
 
@@ -542,9 +466,7 @@ Contains the speed limits for vehicles in a country / state.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxSpeedNightInMetersPerSecond</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">maxSpeedNightInMetersPerSecond</span>
 
     </div>
 
@@ -566,9 +488,7 @@ Contains the speed limits for vehicles in a country / state.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">minSpeedHighwaysInMetersPerSecond</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">minSpeedHighwaysInMetersPerSecond</span>
 
     </div>
 
@@ -617,21 +537,13 @@ Contains the speed limits for vehicles in a country / state.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -646,14 +558,8 @@ Contains the speed limits for vehicles in a country / state.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 

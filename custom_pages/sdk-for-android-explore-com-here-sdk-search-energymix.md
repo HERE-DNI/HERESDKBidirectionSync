@@ -22,9 +22,7 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">EnergyMix</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -72,18 +70,13 @@ without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-energymix#energyProduct"
-  class="member-name-link"><code>energyProduct</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energymix#energyProduct" class="member-name-link"><code>energyProduct</code></a>
 
   </div>
 
@@ -99,18 +92,13 @@ without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`EnergySource`](sdk-for-android-explore-com-here-sdk-search-energysource "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EnergySource`](sdk-for-android-explore-com-here-sdk-search-energysource "class in com.here.sdk.search")`>`
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-energymix#energySources"
-  class="member-name-link"><code>energySources</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energymix#energySources" class="member-name-link"><code>energySources</code></a>
 
   </div>
 
@@ -126,18 +114,13 @@ without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`EnvironmentalImpact`](sdk-for-android-explore-com-here-sdk-search-environmentalimpact "class in com.here.sdk.search")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`EnvironmentalImpact`](sdk-for-android-explore-com-here-sdk-search-environmentalimpact "class in com.here.sdk.search")`>`
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-energymix#environmentalImpacts"
-  class="member-name-link"><code>environmentalImpacts</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energymix#environmentalImpacts" class="member-name-link"><code>environmentalImpacts</code></a>
 
   </div>
 
@@ -159,9 +142,7 @@ without a deprecation process.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-energymix#isGreenEnergy"
-  class="member-name-link"><code>isGreenEnergy</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energymix#isGreenEnergy" class="member-name-link"><code>isGreenEnergy</code></a>
 
   </div>
 
@@ -178,17 +159,13 @@ without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-search-energymix#supplier"
-  class="member-name-link"><code>supplier</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-energymix#supplier" class="member-name-link"><code>supplier</code></a>
 
   </div>
 
@@ -316,38 +293,9 @@ without a deprecation process.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -388,9 +336,7 @@ without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EnergySource](sdk-for-android-explore-com-here-sdk-search-energysource "class in com.here.sdk.search")\></span> <span class="element-name">energySources</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EnergySource](sdk-for-android-explore-com-here-sdk-search-energysource "class in com.here.sdk.search")\></span> <span class="element-name">energySources</span>
 
     </div>
 
@@ -410,9 +356,7 @@ without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">supplier</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">supplier</span>
 
     </div>
 
@@ -432,9 +376,7 @@ without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">energyProduct</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">energyProduct</span>
 
     </div>
 
@@ -454,9 +396,7 @@ without a deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EnvironmentalImpact](sdk-for-android-explore-com-here-sdk-search-environmentalimpact "class in com.here.sdk.search")\></span> <span class="element-name">environmentalImpacts</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[EnvironmentalImpact](sdk-for-android-explore-com-here-sdk-search-environmentalimpact "class in com.here.sdk.search")\></span> <span class="element-name">environmentalImpacts</span>
 
     </div>
 
@@ -503,21 +443,13 @@ without a deprecation process.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -532,14 +464,8 @@ without a deprecation process.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 

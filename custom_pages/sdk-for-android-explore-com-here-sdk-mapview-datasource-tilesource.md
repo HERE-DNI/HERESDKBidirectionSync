@@ -75,10 +75,7 @@ deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview.datasource"><code>TileSource.DataVersion</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-dataversion" class="type-name-link" title="class in com.here.sdk.mapview.datasource"><code>TileSource.DataVersion</code></a>
 
   </div>
 
@@ -100,10 +97,7 @@ deprecation process.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener"
-  class="type-name-link"
-  title="interface in com.here.sdk.mapview.datasource"><code>TileSource.Listener</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-listener" class="type-name-link" title="interface in com.here.sdk.mapview.datasource"><code>TileSource.Listener</code></a>
 
   </div>
 
@@ -125,10 +119,7 @@ deprecation process.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle"
-  class="type-name-link"
-  title="interface in com.here.sdk.mapview.datasource"><code>TileSource.LoadTileRequestHandle</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-loadtilerequesthandle" class="type-name-link" title="interface in com.here.sdk.mapview.datasource"><code>TileSource.LoadTileRequestHandle</code></a>
 
   </div>
 
@@ -150,10 +141,7 @@ deprecation process.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata"
-  class="type-name-link"
-  title="class in com.here.sdk.mapview.datasource"><code>TileSource.TileMetadata</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata" class="type-name-link" title="class in com.here.sdk.mapview.datasource"><code>TileSource.TileMetadata</code></a>
 
   </div>
 
@@ -242,13 +230,7 @@ deprecation process.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>`>`
 
   </div>
 
@@ -435,12 +417,7 @@ deprecation process.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getStorageLevels</span>()
+    </span><span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getStorageLevels</span>()
 
     </div>
 

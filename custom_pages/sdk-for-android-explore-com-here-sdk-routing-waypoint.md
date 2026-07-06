@@ -22,9 +22,7 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">Waypoint</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -75,9 +73,7 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#chargingStop"
-  class="member-name-link"><code>chargingStop</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#chargingStop" class="member-name-link"><code>chargingStop</code></a>
 
   </div>
 
@@ -99,9 +95,7 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#coordinates"
-  class="member-name-link"><code>coordinates</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#coordinates" class="member-name-link"><code>coordinates</code></a>
 
   </div>
 
@@ -117,18 +111,13 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#currentWeightChangeInKilograms"
-  class="member-name-link"><code>currentWeightChangeInKilograms</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#currentWeightChangeInKilograms" class="member-name-link"><code>currentWeightChangeInKilograms</code></a>
 
   </div>
 
@@ -150,9 +139,7 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#displayLocation"
-  class="member-name-link"><code>displayLocation</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#displayLocation" class="member-name-link"><code>displayLocation</code></a>
 
   </div>
 
@@ -175,8 +162,7 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#duration"
-  class="member-name-link"><code>duration</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#duration" class="member-name-link"><code>duration</code></a>
 
   </div>
 
@@ -193,18 +179,13 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#headingInDegrees"
-  class="member-name-link"><code>headingInDegrees</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#headingInDegrees" class="member-name-link"><code>headingInDegrees</code></a>
 
   </div>
 
@@ -227,9 +208,7 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#matchSideOfStreet"
-  class="member-name-link"><code>matchSideOfStreet</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#matchSideOfStreet" class="member-name-link"><code>matchSideOfStreet</code></a>
 
   </div>
 
@@ -245,18 +224,13 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#minCourseDistanceInMeters"
-  class="member-name-link"><code>minCourseDistanceInMeters</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#minCourseDistanceInMeters" class="member-name-link"><code>minCourseDistanceInMeters</code></a>
 
   </div>
 
@@ -273,17 +247,13 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#nameHint"
-  class="member-name-link"><code>nameHint</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#nameHint" class="member-name-link"><code>nameHint</code></a>
 
   </div>
 
@@ -300,18 +270,13 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#onRoadThresholdInMeters"
-  class="member-name-link"><code>onRoadThresholdInMeters</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#onRoadThresholdInMeters" class="member-name-link"><code>onRoadThresholdInMeters</code></a>
 
   </div>
 
@@ -335,9 +300,7 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#segmentHint"
-  class="member-name-link"><code>segmentHint</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#segmentHint" class="member-name-link"><code>segmentHint</code></a>
 
   </div>
 
@@ -360,9 +323,7 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#sideOfStreetHint"
-  class="member-name-link"><code>sideOfStreetHint</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#sideOfStreetHint" class="member-name-link"><code>sideOfStreetHint</code></a>
 
   </div>
 
@@ -385,9 +346,7 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-waypoint#transitRadiusInMeters"
-  class="member-name-link"><code>transitRadiusInMeters</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#transitRadiusInMeters" class="member-name-link"><code>transitRadiusInMeters</code></a>
 
   </div>
 
@@ -410,8 +369,7 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="col-second odd-row-color">
 
-  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#type"
-  class="member-name-link"><code>type</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-waypoint#type" class="member-name-link"><code>type</code></a>
 
   </div>
 
@@ -584,38 +542,9 @@ Represents a waypoint, used as input for route calculation.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -703,9 +632,7 @@ Represents a waypoint, used as input for route calculation.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">headingInDegrees</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">headingInDegrees</span>
 
     </div>
 
@@ -782,10 +709,7 @@ Represents a waypoint, used as input for route calculation.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">minCourseDistanceInMeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">minCourseDistanceInMeters</span>
 
     </div>
 
@@ -807,9 +731,7 @@ Represents a waypoint, used as input for route calculation.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">nameHint</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">nameHint</span>
 
     </div>
 
@@ -902,10 +824,7 @@ Represents a waypoint, used as input for route calculation.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">onRoadThresholdInMeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">onRoadThresholdInMeters</span>
 
     </div>
 
@@ -956,10 +875,7 @@ Represents a waypoint, used as input for route calculation.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">currentWeightChangeInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">currentWeightChangeInKilograms</span>
 
     </div>
 
@@ -1024,15 +940,10 @@ Represents a waypoint, used as input for route calculation.
     [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates,
     @NonNull
     [WaypointType](sdk-for-android-explore-com-here-sdk-routing-waypointtype "enum class in com.here.sdk.routing") type,
-    int transitRadiusInMeters, @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> headingInDegrees,
+    int transitRadiusInMeters, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> headingInDegrees,
     @Nullable
     [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") sideOfStreetHint,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a> minCourseDistanceInMeters,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a> minCourseDistanceInMeters,
     @NonNull
     [Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time") duration)</span>
 
@@ -1118,18 +1029,11 @@ Represents a waypoint, used as input for route calculation.
     [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") coordinates,
     @NonNull
     [WaypointType](sdk-for-android-explore-com-here-sdk-routing-waypointtype "enum class in com.here.sdk.routing") type,
-    int transitRadiusInMeters, @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> headingInDegrees,
+    int transitRadiusInMeters, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> headingInDegrees,
     @Nullable
     [GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core") sideOfStreetHint,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a> minCourseDistanceInMeters,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> nameHint,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a> minCourseDistanceInMeters,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> nameHint,
     @NonNull
     [Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time") duration)</span>
 
@@ -1224,21 +1128,13 @@ Represents a waypoint, used as input for route calculation.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -1253,14 +1149,8 @@ Represents a waypoint, used as input for route calculation.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 

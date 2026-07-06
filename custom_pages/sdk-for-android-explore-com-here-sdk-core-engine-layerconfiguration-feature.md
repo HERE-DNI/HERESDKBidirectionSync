@@ -22,17 +22,8 @@ com.here.sdk.core.engine.LayerConfiguration.Feature
 class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-class="external-link"
-title="class or interface in java.io"><code>Serializable</code></a>, <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`LayerConfiguration.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")`>`,
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
-class="external-link"
-title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`LayerConfiguration.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")`>`,
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <!-- -->
 
@@ -43,9 +34,7 @@ Enclosing class:
 
 <span class="modifiers">public static enum
 </span><span class="element-name type-name-label">LayerConfiguration.Feature</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\></span>
 
 </div>
 
@@ -82,19 +71,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="inherited-list">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>` extends `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
@@ -125,9 +102,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#ADAS"
-  class="member-name-link"><code>ADAS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#ADAS" class="member-name-link"><code>ADAS</code></a>
 
   </div>
 
@@ -144,9 +119,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#DETAIL_RENDERING"
-  class="member-name-link"><code>DETAIL_RENDERING</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#DETAIL_RENDERING" class="member-name-link"><code>DETAIL_RENDERING</code></a>
 
   </div>
 
@@ -162,9 +135,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#DETAILED_TERRAIN"
-  class="member-name-link"><code>DETAILED_TERRAIN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#DETAILED_TERRAIN" class="member-name-link"><code>DETAILED_TERRAIN</code></a>
 
   </div>
 
@@ -180,9 +151,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EHORIZON"
-  class="member-name-link"><code>EHORIZON</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EHORIZON" class="member-name-link"><code>EHORIZON</code></a>
 
   </div>
 
@@ -200,9 +169,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV"
-  class="member-name-link"><code>EV</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#EV" class="member-name-link"><code>EV</code></a>
 
   </div>
 
@@ -218,9 +185,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES"
-  class="member-name-link"><code>FUEL_STATION_ATTRIBUTES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#FUEL_STATION_ATTRIBUTES" class="member-name-link"><code>FUEL_STATION_ATTRIBUTES</code></a>
 
   </div>
 
@@ -236,9 +201,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_16X9"
-  class="member-name-link"><code>JUNCTION_SIGN_16X9</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_16X9" class="member-name-link"><code>JUNCTION_SIGN_16X9</code></a>
 
   </div>
 
@@ -254,9 +217,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_3X4"
-  class="member-name-link"><code>JUNCTION_SIGN_3X4</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_3X4" class="member-name-link"><code>JUNCTION_SIGN_3X4</code></a>
 
   </div>
 
@@ -272,9 +233,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_3X5"
-  class="member-name-link"><code>JUNCTION_SIGN_3X5</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_3X5" class="member-name-link"><code>JUNCTION_SIGN_3X5</code></a>
 
   </div>
 
@@ -290,9 +249,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_4X3"
-  class="member-name-link"><code>JUNCTION_SIGN_4X3</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_4X3" class="member-name-link"><code>JUNCTION_SIGN_4X3</code></a>
 
   </div>
 
@@ -308,9 +265,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_5X3"
-  class="member-name-link"><code>JUNCTION_SIGN_5X3</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_SIGN_5X3" class="member-name-link"><code>JUNCTION_SIGN_5X3</code></a>
 
   </div>
 
@@ -326,9 +281,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_VIEW_16X9"
-  class="member-name-link"><code>JUNCTION_VIEW_16X9</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_VIEW_16X9" class="member-name-link"><code>JUNCTION_VIEW_16X9</code></a>
 
   </div>
 
@@ -345,9 +298,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_VIEW_3X4"
-  class="member-name-link"><code>JUNCTION_VIEW_3X4</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#JUNCTION_VIEW_3X4" class="member-name-link"><code>JUNCTION_VIEW_3X4</code></a>
 
   </div>
 
@@ -364,9 +315,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#LANDMARKS_3D"
-  class="member-name-link"><code>LANDMARKS_3D</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#LANDMARKS_3D" class="member-name-link"><code>LANDMARKS_3D</code></a>
 
   </div>
 
@@ -382,9 +331,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#NAVIGATION"
-  class="member-name-link"><code>NAVIGATION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#NAVIGATION" class="member-name-link"><code>NAVIGATION</code></a>
 
   </div>
 
@@ -400,9 +347,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_BUS_ROUTING"
-  class="member-name-link"><code>OFFLINE_BUS_ROUTING</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_BUS_ROUTING" class="member-name-link"><code>OFFLINE_BUS_ROUTING</code></a>
 
   </div>
 
@@ -418,9 +363,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_ROUTING"
-  class="member-name-link"><code>OFFLINE_ROUTING</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_ROUTING" class="member-name-link"><code>OFFLINE_ROUTING</code></a>
 
   </div>
 
@@ -436,9 +379,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_SEARCH"
-  class="member-name-link"><code>OFFLINE_SEARCH</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_SEARCH" class="member-name-link"><code>OFFLINE_SEARCH</code></a>
 
   </div>
 
@@ -454,9 +395,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_SEARCH_GLOBAL"
-  class="member-name-link"><code>OFFLINE_SEARCH_GLOBAL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#OFFLINE_SEARCH_GLOBAL" class="member-name-link"><code>OFFLINE_SEARCH_GLOBAL</code></a>
 
   </div>
 
@@ -472,9 +411,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#RDS_TRAFFIC"
-  class="member-name-link"><code>RDS_TRAFFIC</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#RDS_TRAFFIC" class="member-name-link"><code>RDS_TRAFFIC</code></a>
 
   </div>
 
@@ -491,9 +428,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#RENDERING"
-  class="member-name-link"><code>RENDERING</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#RENDERING" class="member-name-link"><code>RENDERING</code></a>
 
   </div>
 
@@ -509,9 +444,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TERRAIN"
-  class="member-name-link"><code>TERRAIN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TERRAIN" class="member-name-link"><code>TERRAIN</code></a>
 
   </div>
 
@@ -527,9 +460,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK"
-  class="member-name-link"><code>TRUCK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK" class="member-name-link"><code>TRUCK</code></a>
 
   </div>
 
@@ -545,9 +476,7 @@ might have overlapping sets of enabled layer groups.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES"
-  class="member-name-link"><code>TRUCK_SERVICE_ATTRIBUTES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature#TRUCK_SERVICE_ATTRIBUTES" class="member-name-link"><code>TRUCK_SERVICE_ATTRIBUTES</code></a>
 
   </div>
 
@@ -642,72 +571,17 @@ might have overlapping sets of enabled layer groups.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
-  class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
-  class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
-  class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
-  class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
-  class="external-link"
-  title="class or interface in java.lang"><code>valueOf</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -1354,9 +1228,7 @@ might have overlapping sets of enabled layer groups.
     <div class="member-signature">
 
     <span class="modifiers">public
-    static</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    static</span> <span class="return-type">[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">valueOf</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -1376,16 +1248,10 @@ might have overlapping sets of enabled layer groups.
     the enum constant with the specified name
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if this enum class has no constant with the specified name
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if the argument is null
 
     </div>

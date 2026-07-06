@@ -21,25 +21,14 @@ java.lang.Enum → WalkAttributes → com.here.sdk.routing.WalkAttributes
 class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-class="external-link"
-title="class or interface in java.io"><code>Serializable</code></a>, <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`WalkAttributes`](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")`>`,
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
-class="external-link"
-title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`WalkAttributes`](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")`>`,
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
 <span class="modifiers">public enum
 </span><span class="element-name type-name-label">WalkAttributes</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")\></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -58,19 +47,7 @@ Types of walk attributes.
 
   <div class="inherited-list">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>` extends `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
@@ -101,9 +78,7 @@ Types of walk attributes.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-walkattributes#INDOOR"
-  class="member-name-link"><code>INDOOR</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-walkattributes#INDOOR" class="member-name-link"><code>INDOOR</code></a>
 
   </div>
 
@@ -119,9 +94,7 @@ Types of walk attributes.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-walkattributes#NO_THROUGH"
-  class="member-name-link"><code>NO_THROUGH</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-walkattributes#NO_THROUGH" class="member-name-link"><code>NO_THROUGH</code></a>
 
   </div>
 
@@ -137,9 +110,7 @@ Types of walk attributes.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-walkattributes#OPEN"
-  class="member-name-link"><code>OPEN</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-walkattributes#OPEN" class="member-name-link"><code>OPEN</code></a>
 
   </div>
 
@@ -155,9 +126,7 @@ Types of walk attributes.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-walkattributes#PARK"
-  class="member-name-link"><code>PARK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-walkattributes#PARK" class="member-name-link"><code>PARK</code></a>
 
   </div>
 
@@ -173,9 +142,7 @@ Types of walk attributes.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-walkattributes#STAIRS"
-  class="member-name-link"><code>STAIRS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-walkattributes#STAIRS" class="member-name-link"><code>STAIRS</code></a>
 
   </div>
 
@@ -191,9 +158,7 @@ Types of walk attributes.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-walkattributes#TOLL_ROAD"
-  class="member-name-link"><code>TOLL_ROAD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-walkattributes#TOLL_ROAD" class="member-name-link"><code>TOLL_ROAD</code></a>
 
   </div>
 
@@ -287,72 +252,17 @@ Types of walk attributes.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
-  class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
-  class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
-  class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
-  class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
-  class="external-link"
-  title="class or interface in java.lang"><code>valueOf</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -516,9 +426,7 @@ Types of walk attributes.
     <div class="member-signature">
 
     <span class="modifiers">public
-    static</span> <span class="return-type">[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    static</span> <span class="return-type">[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -538,16 +446,10 @@ Types of walk attributes.
     the enum constant with the specified name
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if this enum class has no constant with the specified name
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if the argument is null
 
     </div>

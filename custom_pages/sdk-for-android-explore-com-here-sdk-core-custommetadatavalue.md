@@ -60,10 +60,7 @@ item.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
@@ -103,9 +100,7 @@ item.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getTag</span>()
+    </span><span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getTag</span>()
 
     </div>
 

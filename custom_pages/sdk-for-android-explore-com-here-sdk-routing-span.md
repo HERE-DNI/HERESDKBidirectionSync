@@ -90,10 +90,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`AccessAttributes`](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`AccessAttributes`](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")`>`
 
   </div>
 
@@ -115,10 +112,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
@@ -141,10 +135,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
@@ -277,13 +268,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>`>`
 
   </div>
 
@@ -306,13 +291,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>`>`
 
   </div>
 
@@ -360,10 +339,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`AccessAttributes`](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`AccessAttributes`](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")`>`
 
   </div>
 
@@ -430,10 +406,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
@@ -456,10 +429,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
@@ -481,10 +451,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
@@ -506,10 +473,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`StreetAttributes`](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`StreetAttributes`](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")`>`
 
   </div>
 
@@ -553,13 +517,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>`>`
 
   </div>
 
@@ -582,10 +540,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`AccessAttributes`](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`AccessAttributes`](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")`>`
 
   </div>
 
@@ -607,10 +562,7 @@ span usually has some geometry associated with it.
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`[`WalkAttributes`](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`[`WalkAttributes`](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")`>`
 
   </div>
 
@@ -636,44 +588,9 @@ span usually has some geometry associated with it.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -694,9 +611,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getShieldText</span><span class="parameters">(@NonNull
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getShieldText</span><span class="parameters">(@NonNull
     [LocalizedRoadNumber](sdk-for-android-explore-com-here-sdk-routing-localizedroadnumber "class in com.here.sdk.routing") roadNumber)</span>
 
     </div>
@@ -774,12 +689,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getNoticeIndexes</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getNoticeIndexes</span>()
 
     </div>
 
@@ -835,12 +745,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getTrafficIncidentIndexes</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getTrafficIncidentIndexes</span>()
 
     </div>
 
@@ -932,9 +837,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getStreetAttributes</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getStreetAttributes</span>()
 
     </div>
 
@@ -957,9 +860,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getCarAttributes</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getCarAttributes</span>()
 
     </div>
 
@@ -982,9 +883,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getTruckAttributes</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getTruckAttributes</span>()
 
     </div>
 
@@ -1007,9 +906,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getScooterAttributes</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getScooterAttributes</span>()
 
     </div>
 
@@ -1032,9 +929,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getWalkAttributes</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getWalkAttributes</span>()
 
     </div>
 
@@ -1109,9 +1004,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getSpeedLimitInMetersPerSecond</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getSpeedLimitInMetersPerSecond</span>()
 
     </div>
 
@@ -1134,9 +1027,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getConsumptionInKilowattHours</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">getConsumptionInKilowattHours</span>()
 
     </div>
 
@@ -1247,9 +1138,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getCountryCode</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getCountryCode</span>()
 
     </div>
 
@@ -1274,9 +1163,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getStateCode</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">getStateCode</span>()
 
     </div>
 
@@ -1309,12 +1196,7 @@ span usually has some geometry associated with it.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getNoThroughRestrictionsIndexes</span>()
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getNoThroughRestrictionsIndexes</span>()
 
     </div>
 

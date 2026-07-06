@@ -18,10 +18,7 @@ assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface
 </span><span class="element-name type-name-label">PolylineSimplificationCallback</span>
 
@@ -113,9 +110,7 @@ com.here.sdk.core.PolylineSimplificationCallback) is finished.
 
     <span class="return-type">void</span> <span class="element-name">onPolylineSimplified</span><span class="parameters">(@Nullable
     [PolylineSimplificationError](sdk-for-android-explore-com-here-sdk-core-polylinesimplificationerror "enum class in com.here.sdk.core") queryError,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> result)</span>
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\> result)</span>
 
     </div>
 

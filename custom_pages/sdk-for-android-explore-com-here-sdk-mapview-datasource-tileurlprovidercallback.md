@@ -18,10 +18,7 @@ assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface
 </span><span class="element-name type-name-label">TileUrlProviderCallback</span>
 
@@ -67,10 +64,7 @@ coordinates of the tile, respectively, and have values ranging from 0 to
 
   <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
@@ -114,9 +108,7 @@ coordinates of the tile, respectively, and have values ranging from 0 to
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">onTileUrlRequest</span><span class="parameters">(int x,
+    </span><span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">onTileUrlRequest</span><span class="parameters">(int x,
     int y, int level)</span>
 
     </div>

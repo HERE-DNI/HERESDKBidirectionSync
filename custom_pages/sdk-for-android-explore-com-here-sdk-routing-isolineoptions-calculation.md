@@ -25,9 +25,7 @@ Enclosing class:
 
 <span class="modifiers">public static final class
 </span><span class="element-name type-name-label">IsolineOptions.Calculation</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -79,9 +77,7 @@ is mandatory or the calculation will fail.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#isolineCalculationMode"
-  class="member-name-link"><code>isolineCalculationMode</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#isolineCalculationMode" class="member-name-link"><code>isolineCalculationMode</code></a>
 
   </div>
 
@@ -103,9 +99,7 @@ is mandatory or the calculation will fail.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#isolineDirection"
-  class="member-name-link"><code>isolineDirection</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#isolineDirection" class="member-name-link"><code>isolineDirection</code></a>
 
   </div>
 
@@ -121,18 +115,13 @@ is mandatory or the calculation will fail.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#maxPoints"
-  class="member-name-link"><code>maxPoints</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#maxPoints" class="member-name-link"><code>maxPoints</code></a>
 
   </div>
 
@@ -154,9 +143,7 @@ is mandatory or the calculation will fail.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#rangeType"
-  class="member-name-link"><code>rangeType</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#rangeType" class="member-name-link"><code>rangeType</code></a>
 
   </div>
 
@@ -172,21 +159,13 @@ is mandatory or the calculation will fail.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-  class="external-link"
-  title="class or interface in java.util"><code>List</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>`>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util"><code>List</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>`>`
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#rangeValues"
-  class="member-name-link"><code>rangeValues</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-isolineoptions-calculation#rangeValues" class="member-name-link"><code>rangeValues</code></a>
 
   </div>
 
@@ -293,44 +272,9 @@ is mandatory or the calculation will fail.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -370,12 +314,7 @@ is mandatory or the calculation will fail.
     <div class="member-signature">
 
     <span class="annotations">@NonNull
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">rangeValues</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">rangeValues</span>
 
     </div>
 
@@ -418,10 +357,7 @@ is mandatory or the calculation will fail.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxPoints</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxPoints</span>
 
     </div>
 
@@ -476,12 +412,7 @@ is mandatory or the calculation will fail.
 
     <span class="modifiers">public</span> <span class="element-name">Calculation</span><span class="parameters">(@NonNull
     [IsolineRangeType](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing") rangeType,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a>\> rangeValues)</span>
+    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> rangeValues)</span>
 
     </div>
 
@@ -505,12 +436,7 @@ is mandatory or the calculation will fail.
 
     <span class="modifiers">public</span> <span class="element-name">Calculation</span><span class="parameters">(@NonNull
     [IsolineRangeType](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing") rangeType,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a>\> rangeValues,
+    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> rangeValues,
     @NonNull
     [RoutePlaceDirection](sdk-for-android-explore-com-here-sdk-routing-routeplacedirection "enum class in com.here.sdk.routing") isolineDirection)</span>
 
@@ -540,12 +466,7 @@ is mandatory or the calculation will fail.
 
     <span class="modifiers">public</span> <span class="element-name">Calculation</span><span class="parameters">(@NonNull
     [IsolineRangeType](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing") rangeType,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a>\> rangeValues,
+    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> rangeValues,
     @NonNull
     [IsolineCalculationMode](sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode "enum class in com.here.sdk.routing") isolineCalculationMode)</span>
 
@@ -575,18 +496,10 @@ is mandatory or the calculation will fail.
 
     <span class="modifiers">public</span> <span class="element-name">Calculation</span><span class="parameters">(@NonNull
     [IsolineRangeType](sdk-for-android-explore-com-here-sdk-routing-isolinerangetype "enum class in com.here.sdk.routing") rangeType,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a>\> rangeValues,
+    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a>\> rangeValues,
     @NonNull
     [IsolineCalculationMode](sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode "enum class in com.here.sdk.routing") isolineCalculationMode,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a> maxPoints,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a> maxPoints,
     @NonNull
     [RoutePlaceDirection](sdk-for-android-explore-com-here-sdk-routing-routeplacedirection "enum class in com.here.sdk.routing") isolineDirection)</span>
 

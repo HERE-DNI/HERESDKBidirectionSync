@@ -25,9 +25,7 @@ All Implemented Interfaces:
 
 <span class="modifiers">public class
 </span><span class="element-name type-name-label">MapSurface</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 implements
 [MapViewBase](sdk-for-android-explore-com-here-sdk-mapview-mapviewbase "interface in com.here.sdk.mapview")</span>
 
@@ -83,10 +81,7 @@ use the MapView instead.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener"
-  class="type-name-link"
-  title="interface in com.here.sdk.mapview"><code>MapSurface.RenderListener</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapsurface-renderlistener" class="type-name-link" title="interface in com.here.sdk.mapview"><code>MapSurface.RenderListener</code></a>
 
   </div>
 
@@ -861,44 +856,9 @@ use the MapView instead.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -1110,10 +1070,7 @@ use the MapView instead.
     `height` - The height of the render surface in pixels.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if surface is invalid and cannot be used.
 
     </div>
@@ -1159,10 +1116,7 @@ use the MapView instead.
     gets called.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if surface is invalid and cannot be used.
 
     </div>
@@ -1193,10 +1147,7 @@ use the MapView instead.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">redraw</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Runnable.html"
-    class="external-link"
-    title="class or interface in java.lang">Runnable</a> redrawFinished)</span>
+    <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">redraw</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Runnable.html" class="external-link" title="class or interface in java.lang">Runnable</a> redrawFinished)</span>
 
     </div>
 
@@ -1303,10 +1254,7 @@ use the MapView instead.
     if there is no render surface attached.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     See Also:  
@@ -1343,10 +1291,7 @@ use the MapView instead.
     An object to be notified of lifecycle events.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1381,10 +1326,7 @@ use the MapView instead.
     An object to stop being notified of lifecycle events.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1467,10 +1409,7 @@ use the MapView instead.
     there is no render surface attached.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     See Also:  
@@ -1507,10 +1446,7 @@ use the MapView instead.
     control object
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1545,10 +1481,7 @@ use the MapView instead.
     current pixel scale factor, or 0.0 if MapView is not initialized
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1578,10 +1511,7 @@ use the MapView instead.
     The viewport size in physical pixels
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1612,10 +1542,7 @@ use the MapView instead.
     Actual maximal render frame rate
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1647,10 +1574,7 @@ use the MapView instead.
     values has no effect.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1732,10 +1656,7 @@ use the MapView instead.
     view size changes.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1766,10 +1687,7 @@ use the MapView instead.
     Provides the size of the watermark in physical pixels.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1802,10 +1720,7 @@ use the MapView instead.
     `shadowQuality` - The shadow quality.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1834,10 +1749,7 @@ use the MapView instead.
     The currently set shadow quality.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1870,10 +1782,7 @@ use the MapView instead.
     object for the map
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1908,10 +1817,7 @@ use the MapView instead.
     associated with this map view.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1944,10 +1850,7 @@ use the MapView instead.
     associated with this map view.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>
@@ -1980,10 +1883,7 @@ use the MapView instead.
     associated with this map view.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalStateException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" class="external-link" title="class or interface in java.lang"><code>IllegalStateException</code></a> -
     if MapSurface object is not valid.
 
     </div>

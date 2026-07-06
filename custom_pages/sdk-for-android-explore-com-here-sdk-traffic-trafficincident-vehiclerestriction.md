@@ -26,9 +26,7 @@ Enclosing class:
 
 <span class="modifiers">public static final class
 </span><span class="element-name type-name-label">TrafficIncident.VehicleRestriction</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -80,9 +78,7 @@ restriction rules.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isCaravanRestricted"
-  class="member-name-link"><code>isCaravanRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isCaravanRestricted" class="member-name-link"><code>isCaravanRestricted</code></a>
 
   </div>
 
@@ -105,9 +101,7 @@ restriction rules.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isDestinationInIncidentAreaRestricted"
-  class="member-name-link"><code>isDestinationInIncidentAreaRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isDestinationInIncidentAreaRestricted" class="member-name-link"><code>isDestinationInIncidentAreaRestricted</code></a>
 
   </div>
 
@@ -130,9 +124,7 @@ restriction rules.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isDieselFuelRestricted"
-  class="member-name-link"><code>isDieselFuelRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isDieselFuelRestricted" class="member-name-link"><code>isDieselFuelRestricted</code></a>
 
   </div>
 
@@ -155,9 +147,7 @@ restriction rules.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isDrivingWithoutSnowChainsRestricted"
-  class="member-name-link"><code>isDrivingWithoutSnowChainsRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isDrivingWithoutSnowChainsRestricted" class="member-name-link"><code>isDrivingWithoutSnowChainsRestricted</code></a>
 
   </div>
 
@@ -180,9 +170,7 @@ restriction rules.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isDrivingWithoutWinterTyresRestricted"
-  class="member-name-link"><code>isDrivingWithoutWinterTyresRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isDrivingWithoutWinterTyresRestricted" class="member-name-link"><code>isDrivingWithoutWinterTyresRestricted</code></a>
 
   </div>
 
@@ -205,9 +193,7 @@ restriction rules.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isEuro3EmissionStandardRestricted"
-  class="member-name-link"><code>isEuro3EmissionStandardRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isEuro3EmissionStandardRestricted" class="member-name-link"><code>isEuro3EmissionStandardRestricted</code></a>
 
   </div>
 
@@ -230,9 +216,7 @@ restriction rules.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isEuro4EmissionStandardRestricted"
-  class="member-name-link"><code>isEuro4EmissionStandardRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isEuro4EmissionStandardRestricted" class="member-name-link"><code>isEuro4EmissionStandardRestricted</code></a>
 
   </div>
 
@@ -255,9 +239,7 @@ restriction rules.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isEuro5EmissionStandardRestricted"
-  class="member-name-link"><code>isEuro5EmissionStandardRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isEuro5EmissionStandardRestricted" class="member-name-link"><code>isEuro5EmissionStandardRestricted</code></a>
 
   </div>
 
@@ -280,9 +262,7 @@ restriction rules.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isEvenNumberPlateRestricted"
-  class="member-name-link"><code>isEvenNumberPlateRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isEvenNumberPlateRestricted" class="member-name-link"><code>isEvenNumberPlateRestricted</code></a>
 
   </div>
 
@@ -305,9 +285,7 @@ restriction rules.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isLpgFuelRestricted"
-  class="member-name-link"><code>isLpgFuelRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isLpgFuelRestricted" class="member-name-link"><code>isLpgFuelRestricted</code></a>
 
   </div>
 
@@ -330,9 +308,7 @@ restriction rules.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isOddNumberPlateRestricted"
-  class="member-name-link"><code>isOddNumberPlateRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isOddNumberPlateRestricted" class="member-name-link"><code>isOddNumberPlateRestricted</code></a>
 
   </div>
 
@@ -355,9 +331,7 @@ restriction rules.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isPetrolFuelRestricted"
-  class="member-name-link"><code>isPetrolFuelRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isPetrolFuelRestricted" class="member-name-link"><code>isPetrolFuelRestricted</code></a>
 
   </div>
 
@@ -380,9 +354,7 @@ restriction rules.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isResidentsTrafficRestricted"
-  class="member-name-link"><code>isResidentsTrafficRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isResidentsTrafficRestricted" class="member-name-link"><code>isResidentsTrafficRestricted</code></a>
 
   </div>
 
@@ -405,9 +377,7 @@ restriction rules.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isRestrictedAlways"
-  class="member-name-link"><code>isRestrictedAlways</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isRestrictedAlways" class="member-name-link"><code>isRestrictedAlways</code></a>
 
   </div>
 
@@ -430,9 +400,7 @@ restriction rules.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isThroughTrafficRestricted"
-  class="member-name-link"><code>isThroughTrafficRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isThroughTrafficRestricted" class="member-name-link"><code>isThroughTrafficRestricted</code></a>
 
   </div>
 
@@ -455,9 +423,7 @@ restriction rules.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isTrailerRestricted"
-  class="member-name-link"><code>isTrailerRestricted</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#isTrailerRestricted" class="member-name-link"><code>isTrailerRestricted</code></a>
 
   </div>
 
@@ -474,18 +440,13 @@ restriction rules.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfAxleWeightLessThanInKilograms"
-  class="member-name-link"><code>restrictedIfAxleWeightLessThanInKilograms</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfAxleWeightLessThanInKilograms" class="member-name-link"><code>restrictedIfAxleWeightLessThanInKilograms</code></a>
 
   </div>
 
@@ -502,18 +463,13 @@ restriction rules.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfAxleWeightMoreThanInKilograms"
-  class="member-name-link"><code>restrictedIfAxleWeightMoreThanInKilograms</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfAxleWeightMoreThanInKilograms" class="member-name-link"><code>restrictedIfAxleWeightMoreThanInKilograms</code></a>
 
   </div>
 
@@ -530,18 +486,13 @@ restriction rules.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfGrossWeightLessThanInKilograms"
-  class="member-name-link"><code>restrictedIfGrossWeightLessThanInKilograms</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfGrossWeightLessThanInKilograms" class="member-name-link"><code>restrictedIfGrossWeightLessThanInKilograms</code></a>
 
   </div>
 
@@ -558,18 +509,13 @@ restriction rules.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfGrossWeightMoreThanInKilograms"
-  class="member-name-link"><code>restrictedIfGrossWeightMoreThanInKilograms</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfGrossWeightMoreThanInKilograms" class="member-name-link"><code>restrictedIfGrossWeightMoreThanInKilograms</code></a>
 
   </div>
 
@@ -586,18 +532,13 @@ restriction rules.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfHigherThanInCentimeters"
-  class="member-name-link"><code>restrictedIfHigherThanInCentimeters</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfHigherThanInCentimeters" class="member-name-link"><code>restrictedIfHigherThanInCentimeters</code></a>
 
   </div>
 
@@ -614,18 +555,13 @@ restriction rules.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfLongerThanInCentimeters"
-  class="member-name-link"><code>restrictedIfLongerThanInCentimeters</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfLongerThanInCentimeters" class="member-name-link"><code>restrictedIfLongerThanInCentimeters</code></a>
 
   </div>
 
@@ -642,18 +578,13 @@ restriction rules.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfLowerThanInCentimeters"
-  class="member-name-link"><code>restrictedIfLowerThanInCentimeters</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfLowerThanInCentimeters" class="member-name-link"><code>restrictedIfLowerThanInCentimeters</code></a>
 
   </div>
 
@@ -670,18 +601,13 @@ restriction rules.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfNarrowerThanInCentimeters"
-  class="member-name-link"><code>restrictedIfNarrowerThanInCentimeters</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfNarrowerThanInCentimeters" class="member-name-link"><code>restrictedIfNarrowerThanInCentimeters</code></a>
 
   </div>
 
@@ -698,18 +624,13 @@ restriction rules.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfOccupantsFewerThan"
-  class="member-name-link"><code>restrictedIfOccupantsFewerThan</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfOccupantsFewerThan" class="member-name-link"><code>restrictedIfOccupantsFewerThan</code></a>
 
   </div>
 
@@ -726,18 +647,13 @@ restriction rules.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfOccupantsMoreThan"
-  class="member-name-link"><code>restrictedIfOccupantsMoreThan</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfOccupantsMoreThan" class="member-name-link"><code>restrictedIfOccupantsMoreThan</code></a>
 
   </div>
 
@@ -754,18 +670,13 @@ restriction rules.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfShorterThanInCentimeters"
-  class="member-name-link"><code>restrictedIfShorterThanInCentimeters</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfShorterThanInCentimeters" class="member-name-link"><code>restrictedIfShorterThanInCentimeters</code></a>
 
   </div>
 
@@ -782,18 +693,13 @@ restriction rules.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Integer</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang"><code>Integer</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfWiderThanInCentimeters"
-  class="member-name-link"><code>restrictedIfWiderThanInCentimeters</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-traffic-trafficincident-vehiclerestriction#restrictedIfWiderThanInCentimeters" class="member-name-link"><code>restrictedIfWiderThanInCentimeters</code></a>
 
   </div>
 
@@ -922,38 +828,9 @@ restriction rules.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -1294,10 +1171,7 @@ restriction rules.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfGrossWeightMoreThanInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfGrossWeightMoreThanInKilograms</span>
 
     </div>
 
@@ -1319,10 +1193,7 @@ restriction rules.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfGrossWeightLessThanInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfGrossWeightLessThanInKilograms</span>
 
     </div>
 
@@ -1344,10 +1215,7 @@ restriction rules.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfAxleWeightMoreThanInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfAxleWeightMoreThanInKilograms</span>
 
     </div>
 
@@ -1369,10 +1237,7 @@ restriction rules.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfAxleWeightLessThanInKilograms</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfAxleWeightLessThanInKilograms</span>
 
     </div>
 
@@ -1394,10 +1259,7 @@ restriction rules.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfLongerThanInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfLongerThanInCentimeters</span>
 
     </div>
 
@@ -1419,10 +1281,7 @@ restriction rules.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfShorterThanInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfShorterThanInCentimeters</span>
 
     </div>
 
@@ -1444,10 +1303,7 @@ restriction rules.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfHigherThanInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfHigherThanInCentimeters</span>
 
     </div>
 
@@ -1469,10 +1325,7 @@ restriction rules.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfLowerThanInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfLowerThanInCentimeters</span>
 
     </div>
 
@@ -1494,10 +1347,7 @@ restriction rules.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfWiderThanInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfWiderThanInCentimeters</span>
 
     </div>
 
@@ -1519,10 +1369,7 @@ restriction rules.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfNarrowerThanInCentimeters</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfNarrowerThanInCentimeters</span>
 
     </div>
 
@@ -1544,10 +1391,7 @@ restriction rules.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfOccupantsMoreThan</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfOccupantsMoreThan</span>
 
     </div>
 
@@ -1569,10 +1413,7 @@ restriction rules.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
-    class="external-link"
-    title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfOccupantsFewerThan</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" class="external-link" title="class or interface in java.lang">Integer</a></span> <span class="element-name">restrictedIfOccupantsFewerThan</span>
 
     </div>
 
@@ -1621,21 +1462,13 @@ restriction rules.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -1650,14 +1483,8 @@ restriction rules.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 

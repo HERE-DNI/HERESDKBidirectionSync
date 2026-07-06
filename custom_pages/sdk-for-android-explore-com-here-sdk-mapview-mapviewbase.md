@@ -70,10 +70,7 @@ Represents the available public API from MapView .
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback"
-  class="type-name-link"
-  title="interface in com.here.sdk.mapview"><code>MapViewBase.MapPickCallback</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-mapview-mapviewbase-mappickcallback" class="type-name-link" title="interface in com.here.sdk.mapview"><code>MapViewBase.MapPickCallback</code></a>
 
   </div>
 

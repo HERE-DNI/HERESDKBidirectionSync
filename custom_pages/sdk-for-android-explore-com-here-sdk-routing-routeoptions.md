@@ -22,9 +22,7 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">RouteOptions</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -75,9 +73,7 @@ The options to specify how the route will be calculated.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#alternatives"
-  class="member-name-link"><code>alternatives</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#alternatives" class="member-name-link"><code>alternatives</code></a>
 
   </div>
 
@@ -94,18 +90,13 @@ The options to specify how the route will be calculated.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime"
-  class="member-name-link"><code>arrivalTime</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#arrivalTime" class="member-name-link"><code>arrivalTime</code></a>
 
   </div>
 
@@ -121,18 +112,13 @@ The options to specify how the route will be calculated.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime"
-  class="member-name-link"><code>departureTime</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#departureTime" class="member-name-link"><code>departureTime</code></a>
 
   </div>
 
@@ -154,9 +140,7 @@ The options to specify how the route will be calculated.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteHandle"
-  class="member-name-link"><code>enableRouteHandle</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteHandle" class="member-name-link"><code>enableRouteHandle</code></a>
 
   </div>
 
@@ -179,9 +163,7 @@ The options to specify how the route will be calculated.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteLabels"
-  class="member-name-link"><code>enableRouteLabels</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableRouteLabels" class="member-name-link"><code>enableRouteLabels</code></a>
 
   </div>
 
@@ -204,9 +186,7 @@ The options to specify how the route will be calculated.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableTolls"
-  class="member-name-link"><code>enableTolls</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#enableTolls" class="member-name-link"><code>enableTolls</code></a>
 
   </div>
 
@@ -229,9 +209,7 @@ The options to specify how the route will be calculated.
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#optimizationMode"
-  class="member-name-link"><code>optimizationMode</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#optimizationMode" class="member-name-link"><code>optimizationMode</code></a>
 
   </div>
 
@@ -253,9 +231,7 @@ The options to specify how the route will be calculated.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#optimizeWaypointsOrder"
-  class="member-name-link"><code>optimizeWaypointsOrder</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#optimizeWaypointsOrder" class="member-name-link"><code>optimizeWaypointsOrder</code></a>
 
   </div>
 
@@ -272,18 +248,13 @@ The options to specify how the route will be calculated.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang"><code>Double</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#speedCapInMetersPerSecond"
-  class="member-name-link"><code>speedCapInMetersPerSecond</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#speedCapInMetersPerSecond" class="member-name-link"><code>speedCapInMetersPerSecond</code></a>
 
   </div>
 
@@ -306,9 +277,7 @@ The options to specify how the route will be calculated.
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode"
-  class="member-name-link"><code>trafficOptimizationMode</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-routeoptions#trafficOptimizationMode" class="member-name-link"><code>trafficOptimizationMode</code></a>
 
   </div>
 
@@ -641,38 +610,9 @@ The options to specify how the route will be calculated.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -740,9 +680,7 @@ The options to specify how the route will be calculated.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">departureTime</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">departureTime</span>
 
     </div>
 
@@ -771,9 +709,7 @@ The options to specify how the route will be calculated.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">arrivalTime</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">arrivalTime</span>
 
     </div>
 
@@ -802,9 +738,7 @@ The options to specify how the route will be calculated.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="modifiers">public</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">speedCapInMetersPerSecond</span>
+    </span><span class="modifiers">public</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a></span> <span class="element-name">speedCapInMetersPerSecond</span>
 
     </div>
 
@@ -1044,9 +978,7 @@ The options to specify how the route will be calculated.
 
     <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><span class="parameters">(@NonNull
     [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode,
-    int alternatives, @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> departureTime)</span>
+    int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime)</span>
 
     </div>
 
@@ -1102,12 +1034,8 @@ The options to specify how the route will be calculated.
 
     <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><span class="parameters">(@NonNull
     [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode,
-    int alternatives, @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> departureTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> arrivalTime)</span>
+    int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime)</span>
 
     </div>
 
@@ -1181,15 +1109,9 @@ The options to specify how the route will be calculated.
 
     <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><span class="parameters">(@NonNull
     [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode,
-    int alternatives, @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> departureTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> arrivalTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond)</span>
+    int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond)</span>
 
     </div>
 
@@ -1282,15 +1204,9 @@ The options to specify how the route will be calculated.
 
     <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><span class="parameters">(@NonNull
     [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode,
-    int alternatives, @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> departureTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> arrivalTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
+    int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
     boolean enableRouteHandle)</span>
 
     </div>
@@ -1392,15 +1308,9 @@ The options to specify how the route will be calculated.
 
     <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><span class="parameters">(@NonNull
     [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode,
-    int alternatives, @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> departureTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> arrivalTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
+    int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
     boolean enableRouteHandle, @NonNull
     [TrafficOptimizationMode](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode "enum class in com.here.sdk.routing") trafficOptimizationMode)</span>
 
@@ -1510,15 +1420,9 @@ The options to specify how the route will be calculated.
 
     <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><span class="parameters">(@NonNull
     [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode,
-    int alternatives, @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> departureTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> arrivalTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
+    int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
     boolean enableRouteHandle, @NonNull
     [TrafficOptimizationMode](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode "enum class in com.here.sdk.routing") trafficOptimizationMode,
     boolean enableTolls)</span>
@@ -1645,15 +1549,9 @@ The options to specify how the route will be calculated.
 
     <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><span class="parameters">(@NonNull
     [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode,
-    int alternatives, @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> departureTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> arrivalTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
+    int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
     boolean enableRouteHandle, @NonNull
     [TrafficOptimizationMode](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode "enum class in com.here.sdk.routing") trafficOptimizationMode,
     boolean enableTolls, boolean optimizeWaypointsOrder)</span>
@@ -1816,15 +1714,9 @@ The options to specify how the route will be calculated.
 
     <span class="modifiers">public</span> <span class="element-name">RouteOptions</span><span class="parameters">(@NonNull
     [OptimizationMode](sdk-for-android-explore-com-here-sdk-routing-optimizationmode "enum class in com.here.sdk.routing") optimizationMode,
-    int alternatives, @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> departureTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a> arrivalTime,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
+    int alternatives, @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> departureTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a> arrivalTime,
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" class="external-link" title="class or interface in java.lang">Double</a> speedCapInMetersPerSecond,
     boolean enableRouteHandle, @NonNull
     [TrafficOptimizationMode](sdk-for-android-explore-com-here-sdk-routing-trafficoptimizationmode "enum class in com.here.sdk.routing") trafficOptimizationMode,
     boolean enableTolls, boolean optimizeWaypointsOrder,
@@ -1997,21 +1889,13 @@ The options to specify how the route will be calculated.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> obj)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -2026,14 +1910,8 @@ The options to specify how the route will be calculated.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 

@@ -22,9 +22,7 @@ class="section class-description">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">POIPaymentMethod</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a></span>
 
 </div>
 
@@ -72,18 +70,13 @@ releases without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMEX"
-  class="member-name-link"><code>AMEX</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMEX" class="member-name-link"><code>AMEX</code></a>
 
   </div>
 
@@ -99,18 +92,13 @@ releases without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMPOL"
-  class="member-name-link"><code>AMPOL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#AMPOL" class="member-name-link"><code>AMPOL</code></a>
 
   </div>
 
@@ -126,18 +114,13 @@ releases without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#ANDROID_PAY"
-  class="member-name-link"><code>ANDROID_PAY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#ANDROID_PAY" class="member-name-link"><code>ANDROID_PAY</code></a>
 
   </div>
 
@@ -153,18 +136,13 @@ releases without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#APPLE_PAY"
-  class="member-name-link"><code>APPLE_PAY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#APPLE_PAY" class="member-name-link"><code>APPLE_PAY</code></a>
 
   </div>
 
@@ -180,18 +158,13 @@ releases without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CASH"
-  class="member-name-link"><code>CASH</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CASH" class="member-name-link"><code>CASH</code></a>
 
   </div>
 
@@ -207,18 +180,13 @@ releases without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CHEQUE"
-  class="member-name-link"><code>CHEQUE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#CHEQUE" class="member-name-link"><code>CHEQUE</code></a>
 
   </div>
 
@@ -234,18 +202,13 @@ releases without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DEBIT_CARD"
-  class="member-name-link"><code>DEBIT_CARD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DEBIT_CARD" class="member-name-link"><code>DEBIT_CARD</code></a>
 
   </div>
 
@@ -261,18 +224,13 @@ releases without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DINERS_CLUB"
-  class="member-name-link"><code>DINERS_CLUB</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DINERS_CLUB" class="member-name-link"><code>DINERS_CLUB</code></a>
 
   </div>
 
@@ -288,18 +246,13 @@ releases without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DISCOVER"
-  class="member-name-link"><code>DISCOVER</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DISCOVER" class="member-name-link"><code>DISCOVER</code></a>
 
   </div>
 
@@ -315,18 +268,13 @@ releases without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DKV"
-  class="member-name-link"><code>DKV</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#DKV" class="member-name-link"><code>DKV</code></a>
 
   </div>
 
@@ -342,18 +290,13 @@ releases without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#FINANCING"
-  class="member-name-link"><code>FINANCING</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#FINANCING" class="member-name-link"><code>FINANCING</code></a>
 
   </div>
 
@@ -369,18 +312,13 @@ releases without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MASTERCARD"
-  class="member-name-link"><code>MASTERCARD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MASTERCARD" class="member-name-link"><code>MASTERCARD</code></a>
 
   </div>
 
@@ -396,18 +334,13 @@ releases without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MOTORPASS"
-  class="member-name-link"><code>MOTORPASS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#MOTORPASS" class="member-name-link"><code>MOTORPASS</code></a>
 
   </div>
 
@@ -423,18 +356,13 @@ releases without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#PAYPAL"
-  class="member-name-link"><code>PAYPAL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#PAYPAL" class="member-name-link"><code>PAYPAL</code></a>
 
   </div>
 
@@ -450,18 +378,13 @@ releases without a deprecation process.
 
   <div class="col-first even-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#SHELL"
-  class="member-name-link"><code>SHELL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#SHELL" class="member-name-link"><code>SHELL</code></a>
 
   </div>
 
@@ -477,18 +400,13 @@ releases without a deprecation process.
 
   <div class="col-first odd-row-color">
 
-  `static final `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>String</code></a>
+  `static final `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang"><code>String</code></a>
 
   </div>
 
   <div class="col-second odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#VISA"
-  class="member-name-link"><code>VISA</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-search-poipaymentmethod#VISA" class="member-name-link"><code>VISA</code></a>
 
   </div>
 
@@ -550,44 +468,9 @@ releases without a deprecation process.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -607,9 +490,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AMEX</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AMEX</span>
 
     </div>
 
@@ -632,9 +513,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AMPOL</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">AMPOL</span>
 
     </div>
 
@@ -658,9 +537,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ANDROID_PAY</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">ANDROID_PAY</span>
 
     </div>
 
@@ -683,9 +560,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">APPLE_PAY</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">APPLE_PAY</span>
 
     </div>
 
@@ -708,9 +583,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">CASH</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">CASH</span>
 
     </div>
 
@@ -733,9 +606,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">CHEQUE</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">CHEQUE</span>
 
     </div>
 
@@ -758,9 +629,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DEBIT_CARD</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DEBIT_CARD</span>
 
     </div>
 
@@ -784,9 +653,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DINERS_CLUB</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DINERS_CLUB</span>
 
     </div>
 
@@ -809,9 +676,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DISCOVER</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DISCOVER</span>
 
     </div>
 
@@ -834,9 +699,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DKV</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">DKV</span>
 
     </div>
 
@@ -859,9 +722,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FINANCING</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">FINANCING</span>
 
     </div>
 
@@ -884,9 +745,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">MASTERCARD</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">MASTERCARD</span>
 
     </div>
 
@@ -909,9 +768,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">MOTORPASS</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">MOTORPASS</span>
 
     </div>
 
@@ -934,9 +791,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">PAYPAL</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">PAYPAL</span>
 
     </div>
 
@@ -959,9 +814,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHELL</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">SHELL</span>
 
     </div>
 
@@ -984,9 +837,7 @@ releases without a deprecation process.
     <div class="member-signature">
 
     <span class="modifiers">public static
-    final</span> <span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">VISA</span>
+    final</span> <span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a></span> <span class="element-name">VISA</span>
 
     </div>
 

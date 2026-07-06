@@ -22,25 +22,14 @@ com.here.sdk.routing.SectionNoticeCode
 class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-class="external-link"
-title="class or interface in java.io"><code>Serializable</code></a>, <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`SectionNoticeCode`](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")`>`,
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
-class="external-link"
-title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`SectionNoticeCode`](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")`>`,
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <div class="type-signature">
 
 <span class="modifiers">public enum
 </span><span class="element-name type-name-label">SectionNoticeCode</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")\></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -61,19 +50,7 @@ new error situations.
 
   <div class="inherited-list">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>` extends `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
@@ -104,9 +81,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#CHARGING_STOP_NOT_NEEDED"
-  class="member-name-link"><code>CHARGING_STOP_NOT_NEEDED</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#CHARGING_STOP_NOT_NEEDED" class="member-name-link"><code>CHARGING_STOP_NOT_NEEDED</code></a>
 
   </div>
 
@@ -123,9 +98,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#NO_INTERMEDIATE"
-  class="member-name-link"><code>NO_INTERMEDIATE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#NO_INTERMEDIATE" class="member-name-link"><code>NO_INTERMEDIATE</code></a>
 
   </div>
 
@@ -142,9 +115,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#NO_SCHEDULE"
-  class="member-name-link"><code>NO_SCHEDULE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#NO_SCHEDULE" class="member-name-link"><code>NO_SCHEDULE</code></a>
 
   </div>
 
@@ -160,9 +131,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#NO_THROUGH_RESTRICTION"
-  class="member-name-link"><code>NO_THROUGH_RESTRICTION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#NO_THROUGH_RESTRICTION" class="member-name-link"><code>NO_THROUGH_RESTRICTION</code></a>
 
   </div>
 
@@ -178,9 +147,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#POTENTIAL_CARPOOL"
-  class="member-name-link"><code>POTENTIAL_CARPOOL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#POTENTIAL_CARPOOL" class="member-name-link"><code>POTENTIAL_CARPOOL</code></a>
 
   </div>
 
@@ -197,9 +164,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#POTENTIAL_TURN_RESTRICTION"
-  class="member-name-link"><code>POTENTIAL_TURN_RESTRICTION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#POTENTIAL_TURN_RESTRICTION" class="member-name-link"><code>POTENTIAL_TURN_RESTRICTION</code></a>
 
   </div>
 
@@ -216,9 +181,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#POTENTIAL_VEHICLE_RESTRICTION"
-  class="member-name-link"><code>POTENTIAL_VEHICLE_RESTRICTION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#POTENTIAL_VEHICLE_RESTRICTION" class="member-name-link"><code>POTENTIAL_VEHICLE_RESTRICTION</code></a>
 
   </div>
 
@@ -235,9 +198,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#POTENTIAL_ZONE_RESTRICTION"
-  class="member-name-link"><code>POTENTIAL_ZONE_RESTRICTION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#POTENTIAL_ZONE_RESTRICTION" class="member-name-link"><code>POTENTIAL_ZONE_RESTRICTION</code></a>
 
   </div>
 
@@ -254,9 +215,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#SCHEDULED_TIMES"
-  class="member-name-link"><code>SCHEDULED_TIMES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#SCHEDULED_TIMES" class="member-name-link"><code>SCHEDULED_TIMES</code></a>
 
   </div>
 
@@ -273,9 +232,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#SEASONAL_CLOSURE"
-  class="member-name-link"><code>SEASONAL_CLOSURE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#SEASONAL_CLOSURE" class="member-name-link"><code>SEASONAL_CLOSURE</code></a>
 
   </div>
 
@@ -291,9 +248,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#SIMPLE_POLYLINE"
-  class="member-name-link"><code>SIMPLE_POLYLINE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#SIMPLE_POLYLINE" class="member-name-link"><code>SIMPLE_POLYLINE</code></a>
 
   </div>
 
@@ -309,9 +264,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#TOLL_TRANSPONDER"
-  class="member-name-link"><code>TOLL_TRANSPONDER</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#TOLL_TRANSPONDER" class="member-name-link"><code>TOLL_TRANSPONDER</code></a>
 
   </div>
 
@@ -327,9 +280,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#TOLLS_DATA_TEMPORARILY_UNAVAILABLE"
-  class="member-name-link"><code>TOLLS_DATA_TEMPORARILY_UNAVAILABLE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#TOLLS_DATA_TEMPORARILY_UNAVAILABLE" class="member-name-link"><code>TOLLS_DATA_TEMPORARILY_UNAVAILABLE</code></a>
 
   </div>
 
@@ -345,9 +296,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#TOLLS_DATA_UNAVAILABLE"
-  class="member-name-link"><code>TOLLS_DATA_UNAVAILABLE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#TOLLS_DATA_UNAVAILABLE" class="member-name-link"><code>TOLLS_DATA_UNAVAILABLE</code></a>
 
   </div>
 
@@ -363,9 +312,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#UNWANTED_MODE"
-  class="member-name-link"><code>UNWANTED_MODE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#UNWANTED_MODE" class="member-name-link"><code>UNWANTED_MODE</code></a>
 
   </div>
 
@@ -382,9 +329,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY"
-  class="member-name-link"><code>VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY" class="member-name-link"><code>VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY</code></a>
 
   </div>
 
@@ -400,9 +345,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_DIFFICULT_TURNS"
-  class="member-name-link"><code>VIOLATED_AVOID_DIFFICULT_TURNS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_DIFFICULT_TURNS" class="member-name-link"><code>VIOLATED_AVOID_DIFFICULT_TURNS</code></a>
 
   </div>
 
@@ -418,9 +361,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_DIRT_ROAD"
-  class="member-name-link"><code>VIOLATED_AVOID_DIRT_ROAD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_DIRT_ROAD" class="member-name-link"><code>VIOLATED_AVOID_DIRT_ROAD</code></a>
 
   </div>
 
@@ -436,9 +377,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_FERRY"
-  class="member-name-link"><code>VIOLATED_AVOID_FERRY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_FERRY" class="member-name-link"><code>VIOLATED_AVOID_FERRY</code></a>
 
   </div>
 
@@ -454,9 +393,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_PARK"
-  class="member-name-link"><code>VIOLATED_AVOID_PARK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_PARK" class="member-name-link"><code>VIOLATED_AVOID_PARK</code></a>
 
   </div>
 
@@ -472,9 +409,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_RAIL_FERRY"
-  class="member-name-link"><code>VIOLATED_AVOID_RAIL_FERRY</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_RAIL_FERRY" class="member-name-link"><code>VIOLATED_AVOID_RAIL_FERRY</code></a>
 
   </div>
 
@@ -490,9 +425,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_SEASONAL_CLOSURE"
-  class="member-name-link"><code>VIOLATED_AVOID_SEASONAL_CLOSURE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_SEASONAL_CLOSURE" class="member-name-link"><code>VIOLATED_AVOID_SEASONAL_CLOSURE</code></a>
 
   </div>
 
@@ -508,9 +441,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_TOLL_ROAD"
-  class="member-name-link"><code>VIOLATED_AVOID_TOLL_ROAD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_TOLL_ROAD" class="member-name-link"><code>VIOLATED_AVOID_TOLL_ROAD</code></a>
 
   </div>
 
@@ -526,9 +457,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_TOLL_TRANSPONDER"
-  class="member-name-link"><code>VIOLATED_AVOID_TOLL_TRANSPONDER</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_TOLL_TRANSPONDER" class="member-name-link"><code>VIOLATED_AVOID_TOLL_TRANSPONDER</code></a>
 
   </div>
 
@@ -544,9 +473,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_TRUCK_ROAD_TYPE"
-  class="member-name-link"><code>VIOLATED_AVOID_TRUCK_ROAD_TYPE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_TRUCK_ROAD_TYPE" class="member-name-link"><code>VIOLATED_AVOID_TRUCK_ROAD_TYPE</code></a>
 
   </div>
 
@@ -562,9 +489,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_TUNNEL"
-  class="member-name-link"><code>VIOLATED_AVOID_TUNNEL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_TUNNEL" class="member-name-link"><code>VIOLATED_AVOID_TUNNEL</code></a>
 
   </div>
 
@@ -580,9 +505,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_U_TURNS"
-  class="member-name-link"><code>VIOLATED_AVOID_U_TURNS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_AVOID_U_TURNS" class="member-name-link"><code>VIOLATED_AVOID_U_TURNS</code></a>
 
   </div>
 
@@ -598,9 +521,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_BLOCKED_ROAD"
-  class="member-name-link"><code>VIOLATED_BLOCKED_ROAD</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_BLOCKED_ROAD" class="member-name-link"><code>VIOLATED_BLOCKED_ROAD</code></a>
 
   </div>
 
@@ -617,9 +538,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_CARPOOL"
-  class="member-name-link"><code>VIOLATED_CARPOOL</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_CARPOOL" class="member-name-link"><code>VIOLATED_CARPOOL</code></a>
 
   </div>
 
@@ -635,9 +554,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_CHARGING_STATION_OPENING_HOURS"
-  class="member-name-link"><code>VIOLATED_CHARGING_STATION_OPENING_HOURS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_CHARGING_STATION_OPENING_HOURS" class="member-name-link"><code>VIOLATED_CHARGING_STATION_OPENING_HOURS</code></a>
 
   </div>
 
@@ -654,9 +571,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_CRITICAL_RULE"
-  class="member-name-link"><code>VIOLATED_CRITICAL_RULE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_CRITICAL_RULE" class="member-name-link"><code>VIOLATED_CRITICAL_RULE</code></a>
 
   </div>
 
@@ -672,9 +587,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_EMERGENCY_GATE"
-  class="member-name-link"><code>VIOLATED_EMERGENCY_GATE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_EMERGENCY_GATE" class="member-name-link"><code>VIOLATED_EMERGENCY_GATE</code></a>
 
   </div>
 
@@ -690,9 +603,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_MIN_CHARGE_AT_CS"
-  class="member-name-link"><code>VIOLATED_MIN_CHARGE_AT_CS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_MIN_CHARGE_AT_CS" class="member-name-link"><code>VIOLATED_MIN_CHARGE_AT_CS</code></a>
 
   </div>
 
@@ -709,9 +620,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_MIN_CHARGE_AT_DESTINATION"
-  class="member-name-link"><code>VIOLATED_MIN_CHARGE_AT_DESTINATION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_MIN_CHARGE_AT_DESTINATION" class="member-name-link"><code>VIOLATED_MIN_CHARGE_AT_DESTINATION</code></a>
 
   </div>
 
@@ -728,9 +637,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_MIN_CHARGE_AT_FIRST_CS"
-  class="member-name-link"><code>VIOLATED_MIN_CHARGE_AT_FIRST_CS</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_MIN_CHARGE_AT_FIRST_CS" class="member-name-link"><code>VIOLATED_MIN_CHARGE_AT_FIRST_CS</code></a>
 
   </div>
 
@@ -747,9 +654,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_START_DIRECTION"
-  class="member-name-link"><code>VIOLATED_START_DIRECTION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_START_DIRECTION" class="member-name-link"><code>VIOLATED_START_DIRECTION</code></a>
 
   </div>
 
@@ -765,9 +670,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_TURN_RESTRICTION"
-  class="member-name-link"><code>VIOLATED_TURN_RESTRICTION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_TURN_RESTRICTION" class="member-name-link"><code>VIOLATED_TURN_RESTRICTION</code></a>
 
   </div>
 
@@ -783,9 +686,7 @@ new error situations.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_VEHICLE_RESTRICTION"
-  class="member-name-link"><code>VIOLATED_VEHICLE_RESTRICTION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_VEHICLE_RESTRICTION" class="member-name-link"><code>VIOLATED_VEHICLE_RESTRICTION</code></a>
 
   </div>
 
@@ -801,9 +702,7 @@ new error situations.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_ZONE_RESTRICTION"
-  class="member-name-link"><code>VIOLATED_ZONE_RESTRICTION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode#VIOLATED_ZONE_RESTRICTION" class="member-name-link"><code>VIOLATED_ZONE_RESTRICTION</code></a>
 
   </div>
 
@@ -898,72 +797,17 @@ new error situations.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
-  class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
-  class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
-  class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
-  class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
-  class="external-link"
-  title="class or interface in java.lang"><code>valueOf</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -1841,9 +1685,7 @@ new error situations.
     <div class="member-signature">
 
     <span class="modifiers">public
-    static</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    static</span> <span class="return-type">[SectionNoticeCode](sdk-for-android-explore-com-here-sdk-routing-sectionnoticecode "enum class in com.here.sdk.routing")</span> <span class="element-name">valueOf</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -1863,16 +1705,10 @@ new error situations.
     the enum constant with the specified name
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if this enum class has no constant with the specified name
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if the argument is null
 
     </div>

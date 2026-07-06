@@ -19,22 +19,14 @@ java.lang.Object → com.here.time.Duration
 class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")`>`
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")`>`
 
 <div class="type-signature">
 
 <span class="modifiers">public final class
 </span><span class="element-name type-name-label">Duration</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-class="external-link" title="class or interface in java.lang">Object</a>
-implements <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang">Comparable</a>\<[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")\></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
+implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang">Comparable</a>\<[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")\></span>
 
 </div>
 
@@ -593,38 +585,9 @@ methods convert duration to a value expressed in desired unit of time.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -677,10 +640,7 @@ methods convert duration to a value expressed in desired unit of time.
 
     <span class="modifiers">public
     static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofDays</span><span class="parameters">(long days)</span>
-    throws <span class="exceptions"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
-    class="external-link"
-    title="class or interface in java.lang">ArithmeticException</a></span>
+    throws <span class="exceptions"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang">ArithmeticException</a></span>
 
     </div>
 
@@ -698,10 +658,7 @@ methods convert duration to a value expressed in desired unit of time.
     The Duration representing the specified number of days.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>ArithmeticException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang"><code>ArithmeticException</code></a> -
     if the input is outside the range possible to represent by a
     Duration
 
@@ -716,10 +673,7 @@ methods convert duration to a value expressed in desired unit of time.
 
     <span class="modifiers">public
     static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofHours</span><span class="parameters">(long hours)</span>
-    throws <span class="exceptions"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
-    class="external-link"
-    title="class or interface in java.lang">ArithmeticException</a></span>
+    throws <span class="exceptions"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang">ArithmeticException</a></span>
 
     </div>
 
@@ -737,10 +691,7 @@ methods convert duration to a value expressed in desired unit of time.
     The Duration representing the specified number of hours.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>ArithmeticException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang"><code>ArithmeticException</code></a> -
     if the input is outside the range possible to represent by a
     Duration
 
@@ -755,10 +706,7 @@ methods convert duration to a value expressed in desired unit of time.
 
     <span class="modifiers">public
     static</span> <span class="return-type">[Duration](sdk-for-android-explore-com-here-time-duration "class in com.here.time")</span> <span class="element-name">ofMinutes</span><span class="parameters">(long minutes)</span>
-    throws <span class="exceptions"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
-    class="external-link"
-    title="class or interface in java.lang">ArithmeticException</a></span>
+    throws <span class="exceptions"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang">ArithmeticException</a></span>
 
     </div>
 
@@ -776,10 +724,7 @@ methods convert duration to a value expressed in desired unit of time.
     The Duration representing the specified number of minutes.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>ArithmeticException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang"><code>ArithmeticException</code></a> -
     if the input is outside the range possible to represent by a
     Duration
 
@@ -901,10 +846,7 @@ methods convert duration to a value expressed in desired unit of time.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toNanos</span>()
-    throws <span class="exceptions"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
-    class="external-link"
-    title="class or interface in java.lang">ArithmeticException</a></span>
+    throws <span class="exceptions"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang">ArithmeticException</a></span>
 
     </div>
 
@@ -918,10 +860,7 @@ methods convert duration to a value expressed in desired unit of time.
     Total number of nanoseconds in this duration.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>ArithmeticException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang"><code>ArithmeticException</code></a> -
     if the resulting value cannot be represented by `long` type.
 
     </div>
@@ -955,10 +894,7 @@ methods convert duration to a value expressed in desired unit of time.
     <div class="member-signature">
 
     <span class="modifiers">public</span> <span class="return-type">long</span> <span class="element-name">toMillis</span>()
-    throws <span class="exceptions"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
-    class="external-link"
-    title="class or interface in java.lang">ArithmeticException</a></span>
+    throws <span class="exceptions"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang">ArithmeticException</a></span>
 
     </div>
 
@@ -975,10 +911,7 @@ methods convert duration to a value expressed in desired unit of time.
     Total number of milliseconds in this duration.
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>ArithmeticException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/ArithmeticException.html" class="external-link" title="class or interface in java.lang"><code>ArithmeticException</code></a> -
     if the resulting value cannot be represented by `long` type.
 
     </div>
@@ -1201,14 +1134,8 @@ methods convert duration to a value expressed in desired unit of time.
     </div>
 
     Specified by:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html#compareTo(T)"
-    class="external-link"
-    title="class or interface in java.lang"><code>compareTo</code></a> in
-    interface <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Comparable</code></a>`<`[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")`>`
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html#compareTo(T)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a> in
+    interface <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`Duration`](sdk-for-android-explore-com-here-time-duration "class in com.here.time")`>`
 
     </div>
 
@@ -1219,21 +1146,13 @@ methods convert duration to a value expressed in desired unit of time.
 
     <div class="member-signature">
 
-    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link" title="class or interface in java.lang">Object</a> o)</span>
+    <span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">equals</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a> o)</span>
 
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
-    class="external-link"
-    title="class or interface in java.lang"><code>equals</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 
@@ -1248,14 +1167,8 @@ methods convert duration to a value expressed in desired unit of time.
     </div>
 
     Overrides:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
-    class="external-link"
-    title="class or interface in java.lang"><code>hashCode</code></a> in
-    class <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>Object</code></a>
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a> in
+    class <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
 

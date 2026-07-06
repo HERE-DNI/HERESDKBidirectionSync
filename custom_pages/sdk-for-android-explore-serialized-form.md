@@ -12,13 +12,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -41,13 +35,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -70,13 +58,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -99,13 +81,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -132,13 +108,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class AuthenticationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class AuthenticationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -165,13 +135,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InvalidPathException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InvalidPathException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -198,13 +162,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationErrorException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationErrorException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -231,13 +189,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -260,13 +212,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -289,13 +235,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -318,13 +258,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -347,13 +281,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class TrafficRefreshPeriodException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class TrafficRefreshPeriodException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -376,13 +304,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -405,13 +327,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -434,13 +350,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -463,13 +373,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -492,13 +396,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -521,13 +419,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -550,13 +442,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class InstantiationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class InstantiationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 
@@ -583,13 +469,7 @@ slug: "sdk-for-android-explore-serialized-form"
 
     <div class="type-signature">
 
-    class PlaceSerializationException extends <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html"
-    class="external-link"
-    title="class or interface in java.lang">Exception</a> implements <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-    class="external-link"
-    title="class or interface in java.io">Serializable</a>
+    class PlaceSerializationException extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Exception.html" class="external-link" title="class or interface in java.lang">Exception</a> implements <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io">Serializable</a>
 
     </div>
 

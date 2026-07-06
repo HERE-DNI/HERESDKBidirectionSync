@@ -18,10 +18,7 @@ assignment target for a lambda expression or method reference.
 
 <div class="type-signature">
 
-<span class="annotations"><a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html"
-class="external-link"
-title="class or interface in java.lang">@FunctionalInterface</a>
+<span class="annotations"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" class="external-link" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface
 </span><span class="element-name type-name-label">SearchCallback</span>
 
@@ -111,9 +108,7 @@ at the same time - or not null at the same time.
 
     <span class="return-type">void</span> <span class="element-name">onSearchCompleted</span><span class="parameters">(@Nullable
     [SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search") searchError,
-    @Nullable <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")\> places)</span>
+    @Nullable <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" class="external-link" title="class or interface in java.util">List</a>\<[Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")\> places)</span>
 
     </div>
 

@@ -84,10 +84,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
@@ -132,10 +129,7 @@ TrafficIncident provides details about a traffic incident.
 
   <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-  class="external-link"
-  title="class or interface in java.util"><code>Date</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util"><code>Date</code></a>
 
   </div>
 
@@ -276,9 +270,7 @@ TrafficIncident provides details about a traffic incident.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()
+    </span><span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getStartTime</span>()
 
     </div>
 
@@ -304,9 +296,7 @@ TrafficIncident provides details about a traffic incident.
     <div class="member-signature">
 
     <span class="annotations">@Nullable
-    </span><span class="return-type"><a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html"
-    class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()
+    </span><span class="return-type"><a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Date.html" class="external-link" title="class or interface in java.util">Date</a></span> <span class="element-name">getEndTime</span>()
 
     </div>
 

@@ -95,9 +95,7 @@ An interface to implement a listener to receive log messages.
 
     <span class="return-type">void</span> <span class="element-name">log</span><span class="parameters">(@NonNull
     [LogLevel](sdk-for-android-explore-com-here-sdk-core-engine-loglevel "enum class in com.here.sdk.core.engine") level,
-    @NonNull <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> message)</span>
+    @NonNull <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> message)</span>
 
     </div>
 

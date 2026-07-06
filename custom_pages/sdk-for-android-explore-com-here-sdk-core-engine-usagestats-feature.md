@@ -22,17 +22,8 @@ com.here.sdk.core.engine.UsageStats.Feature
 class="section class-description">
 
 All Implemented Interfaces:  
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html"
-class="external-link"
-title="class or interface in java.io"><code>Serializable</code></a>, <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html"
-class="external-link"
-title="class or interface in java.lang"><code>Comparable</code></a>`<`[`UsageStats.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")`>`,
-<a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html"
-class="external-link"
-title="class or interface in java.lang.constant"><code>Constable</code></a>
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" class="external-link" title="class or interface in java.io"><code>Serializable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" class="external-link" title="class or interface in java.lang"><code>Comparable</code></a>`<`[`UsageStats.Feature`](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")`>`,
+<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" class="external-link" title="class or interface in java.lang.constant"><code>Constable</code></a>
 
 <!-- -->
 
@@ -43,9 +34,7 @@ Enclosing class:
 
 <span class="modifiers">public static enum
 </span><span class="element-name type-name-label">UsageStats.Feature</span>
-<span class="extends-implements">extends <a
-href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")\></span>
+<span class="extends-implements">extends <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>\<[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")\></span>
 
 </div>
 
@@ -64,19 +53,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="inherited-list">
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>` extends `<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>Enum</code></a>`<`<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html"
-  class="external-link"
-  title="class or interface in java.lang"><code>E</code></a>`>>`
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>Enum.EnumDesc</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>` extends `<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang"><code>Enum</code></a>`<`<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" class="external-link" title="class or interface in java.lang"><code>E</code></a>`>>`
 
   </div>
 
@@ -107,9 +84,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#DETAILED_RENDERING"
-  class="member-name-link"><code>DETAILED_RENDERING</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#DETAILED_RENDERING" class="member-name-link"><code>DETAILED_RENDERING</code></a>
 
   </div>
 
@@ -127,9 +102,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#EV_RENDERING"
-  class="member-name-link"><code>EV_RENDERING</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#EV_RENDERING" class="member-name-link"><code>EV_RENDERING</code></a>
 
   </div>
 
@@ -147,9 +120,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#EV_SEARCH"
-  class="member-name-link"><code>EV_SEARCH</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#EV_SEARCH" class="member-name-link"><code>EV_SEARCH</code></a>
 
   </div>
 
@@ -167,9 +138,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#NAVIGATION"
-  class="member-name-link"><code>NAVIGATION</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#NAVIGATION" class="member-name-link"><code>NAVIGATION</code></a>
 
   </div>
 
@@ -186,9 +155,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#OTHER"
-  class="member-name-link"><code>OTHER</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#OTHER" class="member-name-link"><code>OTHER</code></a>
 
   </div>
 
@@ -205,9 +172,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#PLACES"
-  class="member-name-link"><code>PLACES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#PLACES" class="member-name-link"><code>PLACES</code></a>
 
   </div>
 
@@ -223,9 +188,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#POSITIONING"
-  class="member-name-link"><code>POSITIONING</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#POSITIONING" class="member-name-link"><code>POSITIONING</code></a>
 
   </div>
 
@@ -241,9 +204,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#RDS_TRAFFIC"
-  class="member-name-link"><code>RDS_TRAFFIC</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#RDS_TRAFFIC" class="member-name-link"><code>RDS_TRAFFIC</code></a>
 
   </div>
 
@@ -260,9 +221,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#RENDERING"
-  class="member-name-link"><code>RENDERING</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#RENDERING" class="member-name-link"><code>RENDERING</code></a>
 
   </div>
 
@@ -279,9 +238,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#ROUTER"
-  class="member-name-link"><code>ROUTER</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#ROUTER" class="member-name-link"><code>ROUTER</code></a>
 
   </div>
 
@@ -298,9 +255,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#ROUTING"
-  class="member-name-link"><code>ROUTING</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#ROUTING" class="member-name-link"><code>ROUTING</code></a>
 
   </div>
 
@@ -325,9 +280,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#SATELLITES"
-  class="member-name-link"><code>SATELLITES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#SATELLITES" class="member-name-link"><code>SATELLITES</code></a>
 
   </div>
 
@@ -343,9 +296,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#SEARCH"
-  class="member-name-link"><code>SEARCH</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#SEARCH" class="member-name-link"><code>SEARCH</code></a>
 
   </div>
 
@@ -363,9 +314,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#SEARCH_ONLINE"
-  class="member-name-link"><code>SEARCH_ONLINE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#SEARCH_ONLINE" class="member-name-link"><code>SEARCH_ONLINE</code></a>
 
   </div>
 
@@ -382,9 +331,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRAFFIC"
-  class="member-name-link"><code>TRAFFIC</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRAFFIC" class="member-name-link"><code>TRAFFIC</code></a>
 
   </div>
 
@@ -401,9 +348,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRAFFIC_VECTOR_TILES"
-  class="member-name-link"><code>TRAFFIC_VECTOR_TILES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRAFFIC_VECTOR_TILES" class="member-name-link"><code>TRAFFIC_VECTOR_TILES</code></a>
 
   </div>
 
@@ -419,9 +364,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRANSIT"
-  class="member-name-link"><code>TRANSIT</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRANSIT" class="member-name-link"><code>TRANSIT</code></a>
 
   </div>
 
@@ -438,9 +381,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRANSIT_ROUTING_ENGINE"
-  class="member-name-link"><code>TRANSIT_ROUTING_ENGINE</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRANSIT_ROUTING_ENGINE" class="member-name-link"><code>TRANSIT_ROUTING_ENGINE</code></a>
 
   </div>
 
@@ -457,9 +398,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first even-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRUCK"
-  class="member-name-link"><code>TRUCK</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#TRUCK" class="member-name-link"><code>TRUCK</code></a>
 
   </div>
 
@@ -476,9 +415,7 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="col-first odd-row-color">
 
-  <a
-  href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#VECTOR_TILES"
-  class="member-name-link"><code>VECTOR_TILES</code></a>
+  <a href="sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature#VECTOR_TILES" class="member-name-link"><code>VECTOR_TILES</code></a>
 
   </div>
 
@@ -573,72 +510,17 @@ Represents the feature enum associated with the gathered usage stats.
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-  class="external-link" title="class or interface in java.lang">Enum</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" class="external-link" title="class or interface in java.lang">Enum</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
-  class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
-  class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
-  class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
-  class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
-  class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
-  class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
-  class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
-  class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
-  class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
-  class="external-link"
-  title="class or interface in java.lang"><code>valueOf</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()" class="external-link" title="class or interface in java.lang"><code>clone</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)" class="external-link" title="class or interface in java.lang"><code>compareTo</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()" class="external-link" title="class or interface in java.lang"><code>describeConstable</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)" class="external-link" title="class or interface in java.lang"><code>equals</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()" class="external-link" title="class or interface in java.lang"><code>finalize</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()" class="external-link" title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()" class="external-link" title="class or interface in java.lang"><code>hashCode</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()" class="external-link" title="class or interface in java.lang"><code>name</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()" class="external-link" title="class or interface in java.lang"><code>ordinal</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()" class="external-link" title="class or interface in java.lang"><code>toString</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)" class="external-link" title="class or interface in java.lang"><code>valueOf</code></a>
 
   </div>
 
   <div class="inherited-list">
 
-  ### Methods inherited from class java.lang.<a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html"
-  class="external-link" title="class or interface in java.lang">Object</a>
+  ### Methods inherited from class java.lang.<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" class="external-link" title="class or interface in java.lang">Object</a>
 
-  <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
-  class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
-  class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>, <a
-  href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
-  class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>
+  <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()" class="external-link" title="class or interface in java.lang"><code>getClass</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()" class="external-link" title="class or interface in java.lang"><code>notify</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()" class="external-link" title="class or interface in java.lang"><code>notifyAll</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>, <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)" class="external-link" title="class or interface in java.lang"><code>wait</code></a>
 
   </div>
 
@@ -1238,9 +1120,7 @@ Represents the feature enum associated with the gathered usage stats.
     <div class="member-signature">
 
     <span class="modifiers">public
-    static</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">valueOf</span><span class="parameters">(<a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a> name)</span>
+    static</span> <span class="return-type">[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")</span> <span class="element-name">valueOf</span><span class="parameters">(<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" class="external-link" title="class or interface in java.lang">String</a> name)</span>
 
     </div>
 
@@ -1260,16 +1140,10 @@ Represents the feature enum associated with the gathered usage stats.
     the enum constant with the specified name
 
     Throws:  
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalArgumentException.html" class="external-link" title="class or interface in java.lang"><code>IllegalArgumentException</code></a> -
     if this enum class has no constant with the specified name
 
-    <a
-    href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html"
-    class="external-link"
-    title="class or interface in java.lang"><code>NullPointerException</code></a> -
+    <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html" class="external-link" title="class or interface in java.lang"><code>NullPointerException</code></a> -
     if the argument is null
 
     </div>
