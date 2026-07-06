@@ -172,7 +172,7 @@ knowledge of the underlying implementation to be able to decide whether
 or not cleanup is necessary. It is not clear for the client which object
 needs cleanup and which doesn't if all objects have auto-generated
 cleanup functions. So instead API designers should manually define
-methods if resource cleanup is necessary.
+methods if resource cleanup is necessary. 
 
 </div>
 
