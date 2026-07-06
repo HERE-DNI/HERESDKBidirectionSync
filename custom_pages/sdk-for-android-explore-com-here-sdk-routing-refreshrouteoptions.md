@@ -68,8 +68,7 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -337,8 +336,7 @@ APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -389,11 +387,9 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.transport.TransportMode)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.transport.TransportMode)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -423,8 +419,7 @@ APIs may change for new releases without a deprecation process.
     Updates the transport mode for the route.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.CarOptions)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.CarOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -459,8 +454,7 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.TruckOptions)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.TruckOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -495,8 +489,7 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.PedestrianOptions)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.PedestrianOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -531,8 +524,7 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.ScooterOptions)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.ScooterOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -567,8 +559,7 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.TaxiOptions)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.TaxiOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -603,8 +594,7 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.EVCarOptions)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.EVCarOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -639,8 +629,7 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.EVTruckOptions)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.EVTruckOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -675,8 +664,7 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.BicycleOptions)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.BicycleOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -711,8 +699,7 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.BusOptions)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.BusOptions)"
     class="section detail">
 
     ### RefreshRouteOptions
@@ -747,8 +734,7 @@ APIs may change for new releases without a deprecation process.
     error will be triggered.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.PrivateBusOptions)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.PrivateBusOptions)"
     class="section detail">
 
     ### RefreshRouteOptions

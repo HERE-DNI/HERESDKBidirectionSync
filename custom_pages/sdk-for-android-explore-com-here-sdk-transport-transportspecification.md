@@ -42,8 +42,7 @@ RoutingOptions.transport_specification.transport_mode set.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -275,8 +274,7 @@ RoutingOptions.transport_specification.transport_mode set.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -428,8 +426,7 @@ RoutingOptions.transport_specification.transport_mode set.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -471,8 +468,7 @@ RoutingOptions.transport_specification.transport_mode set.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -579,11 +575,9 @@ RoutingOptions.transport_specification.transport_mode set.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-transportMode"
+<div id="sdk-for-android-explore-transportMode"
     class="section detail">
 
     ### transportMode
@@ -602,8 +596,7 @@ RoutingOptions.transport_specification.transport_mode set.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-vehicleSpecification"
+<div id="sdk-for-android-explore-vehicleSpecification"
     class="section detail">
 
     ### vehicleSpecification
@@ -623,8 +616,7 @@ RoutingOptions.transport_specification.transport_mode set.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-pedestrianSpecification"
+<div id="sdk-for-android-explore-pedestrianSpecification"
     class="section detail">
 
     ### pedestrianSpecification
@@ -644,8 +636,7 @@ RoutingOptions.transport_specification.transport_mode set.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-taxiSpecification"
+<div id="sdk-for-android-explore-taxiSpecification"
     class="section detail">
 
     ### taxiSpecification
@@ -665,8 +656,7 @@ RoutingOptions.transport_specification.transport_mode set.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-scooterSpecification"
+<div id="sdk-for-android-explore-scooterSpecification"
     class="section detail">
 
     ### scooterSpecification
@@ -688,11 +678,9 @@ RoutingOptions.transport_specification.transport_mode set.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TransportSpecification
 
@@ -711,11 +699,9 @@ RoutingOptions.transport_specification.transport_mode set.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -739,8 +725,7 @@ RoutingOptions.transport_specification.transport_mode set.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

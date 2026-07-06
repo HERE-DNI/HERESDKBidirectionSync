@@ -83,8 +83,7 @@ assignment can be done for all types of content: point, line, polygon.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -191,8 +190,7 @@ assignment can be done for all types of content: point, line, polygon.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -234,8 +232,7 @@ assignment can be done for all types of content: point, line, polygon.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -515,11 +512,9 @@ assignment can be done for all types of content: point, line, polygon.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MapLayerBuilder
 
@@ -538,11 +533,9 @@ assignment can be done for all types of content: point, line, polygon.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-withName(java.lang.String)"
+<div id="sdk-for-android-explore-withName(java.lang.String)"
     class="section detail">
 
     ### withName
@@ -573,8 +566,7 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withDataSource(java.lang.String,com.here.sdk.mapview.MapContentType)"
+<div id="sdk-for-android-explore-withDataSource(java.lang.String,com.here.sdk.mapview.MapContentType)"
     class="section detail">
 
     ### withDataSource
@@ -612,8 +604,7 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withStyle(com.here.sdk.mapview.Style)"
+<div id="sdk-for-android-explore-withStyle(com.here.sdk.mapview.Style)"
     class="section detail">
 
     ### withStyle
@@ -647,8 +638,7 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-forMap(com.here.sdk.mapview.HereMap)"
+<div id="sdk-for-android-explore-forMap(com.here.sdk.mapview.HereMap)"
     class="section detail">
 
     ### forMap
@@ -677,8 +667,7 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withPriority(com.here.sdk.mapview.MapLayerPriority)"
+<div id="sdk-for-android-explore-withPriority(com.here.sdk.mapview.MapLayerPriority)"
     class="section detail">
 
     ### withPriority
@@ -707,8 +696,7 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withVisibilityRange(com.here.sdk.mapview.MapLayerVisibilityRange)"
+<div id="sdk-for-android-explore-withVisibilityRange(com.here.sdk.mapview.MapLayerVisibilityRange)"
     class="section detail">
 
     ### withVisibilityRange
@@ -739,8 +727,7 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withMapMeasureDependentStorageLevels(com.here.sdk.mapview.MapLayerMapMeasureDependentStorageLevels)"
+<div id="sdk-for-android-explore-withMapMeasureDependentStorageLevels(com.here.sdk.mapview.MapLayerMapMeasureDependentStorageLevels)"
     class="section detail">
 
     ### withMapMeasureDependentStorageLevels
@@ -780,8 +767,7 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withLoadPriority(double)"
+<div id="sdk-for-android-explore-withLoadPriority(double)"
     class="section detail">
 
     ### withLoadPriority
@@ -810,8 +796,7 @@ assignment can be done for all types of content: point, line, polygon.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-build()" class="section detail">
+<div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

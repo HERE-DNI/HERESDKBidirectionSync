@@ -53,8 +53,7 @@ Filtering mode for public transit.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ Filtering mode for public transit.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -139,8 +137,7 @@ Filtering mode for public transit.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -290,11 +287,9 @@ Filtering mode for public transit.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-INCLUDE" class="section detail">
+<div id="sdk-for-android-explore-INCLUDE" class="section detail">
 
     ### INCLUDE
 
@@ -312,8 +307,7 @@ Filtering mode for public transit.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-EXCLUDE" class="section detail">
+<div id="sdk-for-android-explore-EXCLUDE" class="section detail">
 
     ### EXCLUDE
 
@@ -333,11 +327,9 @@ Filtering mode for public transit.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -360,8 +352,7 @@ Filtering mode for public transit.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

@@ -53,8 +53,7 @@ Junctions traversability of some traffic incident or flow section.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ Junctions traversability of some traffic incident or flow section.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -194,8 +192,7 @@ Junctions traversability of some traffic incident or flow section.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -345,11 +342,9 @@ Junctions traversability of some traffic incident or flow section.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-ALL_OPEN" class="section detail">
+<div id="sdk-for-android-explore-ALL_OPEN" class="section detail">
 
     ### ALL_OPEN
 
@@ -367,8 +362,7 @@ Junctions traversability of some traffic incident or flow section.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ALL_CLOSED" class="section detail">
+<div id="sdk-for-android-explore-ALL_CLOSED" class="section detail">
 
     ### ALL_CLOSED
 
@@ -386,8 +380,7 @@ Junctions traversability of some traffic incident or flow section.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INTERMEDIATE_CLOSED_EDGE_OPEN"
+<div id="sdk-for-android-explore-INTERMEDIATE_CLOSED_EDGE_OPEN"
     class="section detail">
 
     ### INTERMEDIATE_CLOSED_EDGE_OPEN
@@ -407,8 +400,7 @@ Junctions traversability of some traffic incident or flow section.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-START_OPEN_OTHERS_CLOSED"
+<div id="sdk-for-android-explore-START_OPEN_OTHERS_CLOSED"
     class="section detail">
 
     ### START_OPEN_OTHERS_CLOSED
@@ -427,8 +419,7 @@ Junctions traversability of some traffic incident or flow section.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-END_OPEN_OTHERS_CLOSED"
+<div id="sdk-for-android-explore-END_OPEN_OTHERS_CLOSED"
     class="section detail">
 
     ### END_OPEN_OTHERS_CLOSED
@@ -449,11 +440,9 @@ Junctions traversability of some traffic incident or flow section.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -476,8 +465,7 @@ Junctions traversability of some traffic incident or flow section.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

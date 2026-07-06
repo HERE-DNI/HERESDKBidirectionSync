@@ -37,8 +37,7 @@ The options to specify how the route will be calculated.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -325,8 +324,7 @@ The options to specify how the route will be calculated.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -573,8 +571,7 @@ The options to specify how the route will be calculated.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -681,11 +678,9 @@ The options to specify how the route will be calculated.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-optimizationMode"
+<div id="sdk-for-android-explore-optimizationMode"
     class="section detail">
 
     ### optimizationMode
@@ -705,8 +700,7 @@ The options to specify how the route will be calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-alternatives"
+<div id="sdk-for-android-explore-alternatives"
     class="section detail">
 
     ### alternatives
@@ -731,8 +725,7 @@ The options to specify how the route will be calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-departureTime"
+<div id="sdk-for-android-explore-departureTime"
     class="section detail">
 
     ### departureTime
@@ -762,8 +755,7 @@ The options to specify how the route will be calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-arrivalTime"
+<div id="sdk-for-android-explore-arrivalTime"
     class="section detail">
 
     ### arrivalTime
@@ -793,8 +785,7 @@ The options to specify how the route will be calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-speedCapInMetersPerSecond"
+<div id="sdk-for-android-explore-speedCapInMetersPerSecond"
     class="section detail">
 
     ### speedCapInMetersPerSecond
@@ -822,8 +813,7 @@ The options to specify how the route will be calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-enableRouteHandle"
+<div id="sdk-for-android-explore-enableRouteHandle"
     class="section detail">
 
     ### enableRouteHandle
@@ -844,8 +834,7 @@ The options to specify how the route will be calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-trafficOptimizationMode"
+<div id="sdk-for-android-explore-trafficOptimizationMode"
     class="section detail">
 
     ### trafficOptimizationMode
@@ -866,8 +855,7 @@ The options to specify how the route will be calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-enableTolls"
+<div id="sdk-for-android-explore-enableTolls"
     class="section detail">
 
     ### enableTolls
@@ -893,8 +881,7 @@ The options to specify how the route will be calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-optimizeWaypointsOrder"
+<div id="sdk-for-android-explore-optimizeWaypointsOrder"
     class="section detail">
 
     ### optimizeWaypointsOrder
@@ -924,8 +911,7 @@ The options to specify how the route will be calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-enableRouteLabels"
+<div id="sdk-for-android-explore-enableRouteLabels"
     class="section detail">
 
     ### enableRouteLabels
@@ -947,11 +933,9 @@ The options to specify how the route will be calculated.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### RouteOptions
 
@@ -968,8 +952,7 @@ The options to specify how the route will be calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode)"
     class="section detail">
 
     ### RouteOptions
@@ -995,8 +978,7 @@ The options to specify how the route will be calculated.
     [`OptimizationMode.FASTEST`](sdk-for-android-explore-com-here-sdk-routing-optimizationmode#FASTEST).
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int)"
     class="section detail">
 
     ### RouteOptions
@@ -1034,8 +1016,7 @@ The options to specify how the route will be calculated.
     Must be 0 for isoline calculation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date)"
     class="section detail">
 
     ### RouteOptions
@@ -1092,8 +1073,7 @@ The options to specify how the route will be calculated.
       areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date)"
     class="section detail">
 
     ### RouteOptions
@@ -1171,8 +1151,7 @@ The options to specify how the route will be calculated.
       areas with different time zones, i.e. 2025-02-04T08:00:00+07:00
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double)"
     class="section detail">
 
     ### RouteOptions
@@ -1272,8 +1251,7 @@ The options to specify how the route will be calculated.
     set.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean)"
     class="section detail">
 
     ### RouteOptions
@@ -1382,8 +1360,7 @@ The options to specify how the route will be calculated.
     `OfflineRoutingEngine` and vice versa.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode)"
     class="section detail">
 
     ### RouteOptions
@@ -1500,8 +1477,7 @@ The options to specify how the route will be calculated.
     which enables traffic-aware routing.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean)"
     class="section detail">
 
     ### RouteOptions
@@ -1635,8 +1611,7 @@ The options to specify how the route will be calculated.
     For users of the `RoutingEngine` the feature is stable.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean)"
     class="section detail">
 
     ### RouteOptions
@@ -1806,8 +1781,7 @@ The options to specify how the route will be calculated.
     license). Defaults to `false`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean,boolean)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.OptimizationMode,int,java.util.Date,java.util.Date,java.lang.Double,boolean,com.here.sdk.routing.TrafficOptimizationMode,boolean,boolean,boolean)"
     class="section detail">
 
     ### RouteOptions
@@ -1986,11 +1960,9 @@ The options to specify how the route will be calculated.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -2014,8 +1986,7 @@ The options to specify how the route will be calculated.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

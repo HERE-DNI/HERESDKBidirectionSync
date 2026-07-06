@@ -37,8 +37,7 @@ Used to represent text localized to specific language.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -122,8 +121,7 @@ Used to represent text localized to specific language.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -166,8 +164,7 @@ Used to represent text localized to specific language.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -274,11 +271,9 @@ Used to represent text localized to specific language.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-text" class="section detail">
+<div id="sdk-for-android-explore-text" class="section detail">
 
     ### text
 
@@ -298,8 +293,7 @@ Used to represent text localized to specific language.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-locale" class="section detail">
+<div id="sdk-for-android-explore-locale" class="section detail">
 
     ### locale
 
@@ -322,11 +316,9 @@ Used to represent text localized to specific language.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.util.Locale)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,java.util.Locale)"
     class="section detail">
 
     ### LocalizedText
@@ -362,11 +354,9 @@ Used to represent text localized to specific language.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -390,8 +380,7 @@ Used to represent text localized to specific language.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

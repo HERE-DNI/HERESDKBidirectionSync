@@ -39,8 +39,7 @@ in the route response, enable it using RouteOptions.enableRouteLabels .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -119,8 +118,7 @@ in the route response, enable it using RouteOptions.enableRouteLabels .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -162,8 +160,7 @@ in the route response, enable it using RouteOptions.enableRouteLabels .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -270,11 +267,9 @@ in the route response, enable it using RouteOptions.enableRouteLabels .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-name" class="section detail">
+<div id="sdk-for-android-explore-name" class="section detail">
 
     ### name
 
@@ -292,8 +287,7 @@ in the route response, enable it using RouteOptions.enableRouteLabels .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-type" class="section detail">
+<div id="sdk-for-android-explore-type" class="section detail">
 
     ### type
 
@@ -314,11 +308,9 @@ in the route response, enable it using RouteOptions.enableRouteLabels .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.LocalizedText)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.LocalizedText)"
     class="section detail">
 
     ### RouteLabel
@@ -344,11 +336,9 @@ in the route response, enable it using RouteOptions.enableRouteLabels .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -372,8 +362,7 @@ in the route response, enable it using RouteOptions.enableRouteLabels .
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

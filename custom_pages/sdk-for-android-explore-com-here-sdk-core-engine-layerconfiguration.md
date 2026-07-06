@@ -64,8 +64,7 @@ in implicitlyPrefetchedFeatures() .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -123,8 +122,7 @@ in implicitlyPrefetchedFeatures() .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -212,8 +210,7 @@ in implicitlyPrefetchedFeatures() .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -290,8 +287,7 @@ in implicitlyPrefetchedFeatures() .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -398,11 +394,9 @@ in implicitlyPrefetchedFeatures() .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-enabledFeatures"
+<div id="sdk-for-android-explore-enabledFeatures"
     class="section detail">
 
     ### enabledFeatures
@@ -425,8 +419,7 @@ in implicitlyPrefetchedFeatures() .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-implicitlyPrefetchedFeatures"
+<div id="sdk-for-android-explore-implicitlyPrefetchedFeatures"
     class="section detail">
 
     ### implicitlyPrefetchedFeatures
@@ -464,11 +457,9 @@ in implicitlyPrefetchedFeatures() .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.util.List)"
     class="section detail">
 
     ### LayerConfiguration
@@ -496,8 +487,7 @@ in implicitlyPrefetchedFeatures() .
     implicitly prefetch when using `MapView`
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### LayerConfiguration
 
@@ -515,8 +505,7 @@ in implicitlyPrefetchedFeatures() .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.util.List,java.util.List)"
     class="section detail">
 
     ### LayerConfiguration
@@ -570,11 +559,9 @@ in implicitlyPrefetchedFeatures() .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -598,8 +585,7 @@ in implicitlyPrefetchedFeatures() .
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

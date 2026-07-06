@@ -41,8 +41,7 @@ only available for the Navigate license.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -122,8 +121,7 @@ only available for the Navigate license.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -166,8 +164,7 @@ only available for the Navigate license.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -274,11 +271,9 @@ only available for the Navigate license.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-segment" class="section detail">
+<div id="sdk-for-android-explore-segment" class="section detail">
 
     ### segment
 
@@ -304,8 +299,7 @@ only available for the Navigate license.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-baseSpeedInMetersPerSecond"
+<div id="sdk-for-android-explore-baseSpeedInMetersPerSecond"
     class="section detail">
 
     ### baseSpeedInMetersPerSecond
@@ -328,11 +322,9 @@ only available for the Navigate license.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.SegmentReference,double)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.SegmentReference,double)"
     class="section detail">
 
     ### MaxSpeedOnSegment
@@ -377,11 +369,9 @@ only available for the Navigate license.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -405,8 +395,7 @@ only available for the Navigate license.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

@@ -56,8 +56,7 @@ deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -79,8 +78,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -451,8 +449,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -602,11 +599,9 @@ deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-FAILED_TO_RETRIEVE_RESULT"
+<div id="sdk-for-android-explore-FAILED_TO_RETRIEVE_RESULT"
     class="section detail">
 
     ### FAILED_TO_RETRIEVE_RESULT
@@ -626,8 +621,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AUTHENTICATION_FAILED"
+<div id="sdk-for-android-explore-AUTHENTICATION_FAILED"
     class="section detail">
 
     ### AUTHENTICATION_FAILED
@@ -647,8 +641,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FORBIDDEN" class="section detail">
+<div id="sdk-for-android-explore-FORBIDDEN" class="section detail">
 
     ### FORBIDDEN
 
@@ -667,8 +660,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SERVER_UNREACHABLE"
+<div id="sdk-for-android-explore-SERVER_UNREACHABLE"
     class="section detail">
 
     ### SERVER_UNREACHABLE
@@ -687,8 +679,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TIMED_OUT" class="section detail">
+<div id="sdk-for-android-explore-TIMED_OUT" class="section detail">
 
     ### TIMED_OUT
 
@@ -706,8 +697,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OFFLINE" class="section detail">
+<div id="sdk-for-android-explore-OFFLINE" class="section detail">
 
     ### OFFLINE
 
@@ -725,8 +715,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HTTP_ERROR" class="section detail">
+<div id="sdk-for-android-explore-HTTP_ERROR" class="section detail">
 
     ### HTTP_ERROR
 
@@ -744,8 +733,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INVALID_IN" class="section detail">
+<div id="sdk-for-android-explore-INVALID_IN" class="section detail">
 
     ### INVALID_IN
 
@@ -763,8 +751,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INVALID_GEOMETRY"
+<div id="sdk-for-android-explore-INVALID_GEOMETRY"
     class="section detail">
 
     ### INVALID_GEOMETRY
@@ -783,8 +770,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INVALID_INCIDENT"
+<div id="sdk-for-android-explore-INVALID_INCIDENT"
     class="section detail">
 
     ### INVALID_INCIDENT
@@ -803,8 +789,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INCIDENT_ID_NOT_FOUND"
+<div id="sdk-for-android-explore-INCIDENT_ID_NOT_FOUND"
     class="section detail">
 
     ### INCIDENT_ID_NOT_FOUND
@@ -823,8 +808,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INVALID_FILTER_OPTIONS"
+<div id="sdk-for-android-explore-INVALID_FILTER_OPTIONS"
     class="section detail">
 
     ### INVALID_FILTER_OPTIONS
@@ -843,8 +827,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INVALID_PARAMETER"
+<div id="sdk-for-android-explore-INVALID_PARAMETER"
     class="section detail">
 
     ### INVALID_PARAMETER
@@ -863,8 +846,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INTERNAL_ERROR"
+<div id="sdk-for-android-explore-INTERNAL_ERROR"
     class="section detail">
 
     ### INTERNAL_ERROR
@@ -883,8 +865,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OPERATION_CANCELLED"
+<div id="sdk-for-android-explore-OPERATION_CANCELLED"
     class="section detail">
 
     ### OPERATION_CANCELLED
@@ -903,8 +884,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PROXY_AUTHENTICATION_FAILED"
+<div id="sdk-for-android-explore-PROXY_AUTHENTICATION_FAILED"
     class="section detail">
 
     ### PROXY_AUTHENTICATION_FAILED
@@ -923,8 +903,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PROXY_SERVER_UNREACHABLE"
+<div id="sdk-for-android-explore-PROXY_SERVER_UNREACHABLE"
     class="section detail">
 
     ### PROXY_SERVER_UNREACHABLE
@@ -944,8 +923,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BAD_REQUEST"
+<div id="sdk-for-android-explore-BAD_REQUEST"
     class="section detail">
 
     ### BAD_REQUEST
@@ -966,8 +944,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TOO_MANY_REQUESTS"
+<div id="sdk-for-android-explore-TOO_MANY_REQUESTS"
     class="section detail">
 
     ### TOO_MANY_REQUESTS
@@ -990,11 +967,9 @@ deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1017,8 +992,7 @@ deprecation process.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

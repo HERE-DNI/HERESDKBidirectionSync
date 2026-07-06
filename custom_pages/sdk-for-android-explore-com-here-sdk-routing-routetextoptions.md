@@ -37,8 +37,7 @@ Specify how textual output should be provided.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -143,8 +142,7 @@ Specify how textual output should be provided.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -186,8 +184,7 @@ Specify how textual output should be provided.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -294,11 +291,9 @@ Specify how textual output should be provided.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-language" class="section detail">
+<div id="sdk-for-android-explore-language" class="section detail">
 
     ### language
 
@@ -318,8 +313,7 @@ Specify how textual output should be provided.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-unitSystem" class="section detail">
+<div id="sdk-for-android-explore-unitSystem" class="section detail">
 
     ### unitSystem
 
@@ -339,8 +333,7 @@ Specify how textual output should be provided.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-textUsageOptions"
+<div id="sdk-for-android-explore-textUsageOptions"
     class="section detail">
 
     ### textUsageOptions
@@ -363,11 +356,9 @@ Specify how textual output should be provided.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### RouteTextOptions
 
@@ -386,11 +377,9 @@ Specify how textual output should be provided.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -414,8 +403,7 @@ Specify how textual output should be provided.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

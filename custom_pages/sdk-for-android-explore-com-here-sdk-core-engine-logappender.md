@@ -28,8 +28,7 @@ An interface to implement a listener to receive log messages.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -82,11 +81,9 @@ An interface to implement a listener to receive log messages.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-log(com.here.sdk.core.engine.LogLevel,java.lang.String)"
+<div id="sdk-for-android-explore-log(com.here.sdk.core.engine.LogLevel,java.lang.String)"
     class="section detail">
 
     ### log

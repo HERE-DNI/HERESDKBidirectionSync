@@ -53,8 +53,7 @@ This is a BETA feature and thus subject to change.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ This is a BETA feature and thus subject to change.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -175,8 +173,7 @@ This is a BETA feature and thus subject to change.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -326,11 +323,9 @@ This is a BETA feature and thus subject to change.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CNG" class="section detail">
+<div id="sdk-for-android-explore-CNG" class="section detail">
 
     ### CNG
 
@@ -348,8 +343,7 @@ This is a BETA feature and thus subject to change.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DIESEL" class="section detail">
+<div id="sdk-for-android-explore-DIESEL" class="section detail">
 
     ### DIESEL
 
@@ -367,8 +361,7 @@ This is a BETA feature and thus subject to change.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HYDROGEN" class="section detail">
+<div id="sdk-for-android-explore-HYDROGEN" class="section detail">
 
     ### HYDROGEN
 
@@ -386,8 +379,7 @@ This is a BETA feature and thus subject to change.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LNG" class="section detail">
+<div id="sdk-for-android-explore-LNG" class="section detail">
 
     ### LNG
 
@@ -407,11 +399,9 @@ This is a BETA feature and thus subject to change.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -434,8 +424,7 @@ This is a BETA feature and thus subject to change.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

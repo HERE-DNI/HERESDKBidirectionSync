@@ -38,8 +38,7 @@ Interface represents descriptor of a pickable map object.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -186,11 +185,9 @@ Interface represents descriptor of a pickable map object.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getLayerName()"
+<div id="sdk-for-android-explore-getLayerName()"
     class="section detail">
 
     ### getLayerName
@@ -214,8 +211,7 @@ Interface represents descriptor of a pickable map object.
     The name of the layer map object belongs to.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDataAttributes()"
+<div id="sdk-for-android-explore-getDataAttributes()"
     class="section detail">
 
     ### getDataAttributes
@@ -237,8 +233,7 @@ Interface represents descriptor of a pickable map object.
     The data attributes of a map object.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getClosestPoint()"
+<div id="sdk-for-android-explore-getClosestPoint()"
     class="section detail">
 
     ### getClosestPoint

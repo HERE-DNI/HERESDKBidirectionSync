@@ -37,8 +37,7 @@ The options to specify restrictions for route calculations.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -351,8 +350,7 @@ The options to specify restrictions for route calculations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -394,8 +392,7 @@ The options to specify restrictions for route calculations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -502,11 +499,9 @@ The options to specify restrictions for route calculations.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-roadFeatures"
+<div id="sdk-for-android-explore-roadFeatures"
     class="section detail">
 
     ### roadFeatures
@@ -527,8 +522,7 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-countries" class="section detail">
+<div id="sdk-for-android-explore-countries" class="section detail">
 
     ### countries
 
@@ -551,8 +545,7 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-avoidBoundingBoxAreasOptions"
+<div id="sdk-for-android-explore-avoidBoundingBoxAreasOptions"
     class="section detail">
 
     ### avoidBoundingBoxAreasOptions
@@ -574,8 +567,7 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-avoidPolygonAreasOptions"
+<div id="sdk-for-android-explore-avoidPolygonAreasOptions"
     class="section detail">
 
     ### avoidPolygonAreasOptions
@@ -598,8 +590,7 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-avoidCorridorAreasOptions"
+<div id="sdk-for-android-explore-avoidCorridorAreasOptions"
     class="section detail">
 
     ### avoidCorridorAreasOptions
@@ -622,8 +613,7 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-zoneCategories"
+<div id="sdk-for-android-explore-zoneCategories"
     class="section detail">
 
     ### zoneCategories
@@ -646,8 +636,7 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-segments" class="section detail">
+<div id="sdk-for-android-explore-segments" class="section detail">
 
     ### segments
 
@@ -674,8 +663,7 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-exceptZoneIds"
+<div id="sdk-for-android-explore-exceptZoneIds"
     class="section detail">
 
     ### exceptZoneIds
@@ -704,8 +692,7 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-zoneIds" class="section detail">
+<div id="sdk-for-android-explore-zoneIds" class="section detail">
 
     ### zoneIds
 
@@ -732,8 +719,7 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-avoidedTruckRoadTypes"
+<div id="sdk-for-android-explore-avoidedTruckRoadTypes"
     class="section detail">
 
     ### avoidedTruckRoadTypes
@@ -757,11 +743,9 @@ The options to specify restrictions for route calculations.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### AvoidanceOptions
 
@@ -780,11 +764,9 @@ The options to specify restrictions for route calculations.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -808,8 +790,7 @@ The options to specify restrictions for route calculations.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

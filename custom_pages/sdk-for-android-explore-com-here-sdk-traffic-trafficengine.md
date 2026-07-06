@@ -49,8 +49,7 @@ SDKNativeEngine.getPassThroughFeatures()
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -108,8 +107,7 @@ SDKNativeEngine.getPassThroughFeatures()
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -358,11 +356,9 @@ SDKNativeEngine.getPassThroughFeatures()
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TrafficEngine
 
@@ -386,8 +382,7 @@ SDKNativeEngine.getPassThroughFeatures()
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
     class="section detail">
 
     ### TrafficEngine
@@ -420,11 +415,9 @@ SDKNativeEngine.getPassThroughFeatures()
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-queryForIncidents(com.here.sdk.core.GeoBox,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)"
+<div id="sdk-for-android-explore-queryForIncidents(com.here.sdk.core.GeoBox,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)"
     class="section detail">
 
     ### queryForIncidents
@@ -466,8 +459,7 @@ SDKNativeEngine.getPassThroughFeatures()
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-queryForIncidents(com.here.sdk.core.GeoCircle,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)"
+<div id="sdk-for-android-explore-queryForIncidents(com.here.sdk.core.GeoCircle,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)"
     class="section detail">
 
     ### queryForIncidents
@@ -509,8 +501,7 @@ SDKNativeEngine.getPassThroughFeatures()
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-queryForIncidents(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)"
+<div id="sdk-for-android-explore-queryForIncidents(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficIncidentsQueryOptions,com.here.sdk.traffic.TrafficIncidentsQueryCallback)"
     class="section detail">
 
     ### queryForIncidents
@@ -561,8 +552,7 @@ SDKNativeEngine.getPassThroughFeatures()
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookupIncident(java.lang.String,com.here.sdk.traffic.TrafficIncidentLookupOptions,com.here.sdk.traffic.TrafficIncidentLookupCallback)"
+<div id="sdk-for-android-explore-lookupIncident(java.lang.String,com.here.sdk.traffic.TrafficIncidentLookupOptions,com.here.sdk.traffic.TrafficIncidentLookupCallback)"
     class="section detail">
 
     ### lookupIncident
@@ -606,8 +596,7 @@ SDKNativeEngine.getPassThroughFeatures()
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-queryForFlow(com.here.sdk.core.GeoBox,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"
+<div id="sdk-for-android-explore-queryForFlow(com.here.sdk.core.GeoBox,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"
     class="section detail">
 
     ### queryForFlow
@@ -650,8 +639,7 @@ SDKNativeEngine.getPassThroughFeatures()
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-queryForFlow(com.here.sdk.core.GeoCircle,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"
+<div id="sdk-for-android-explore-queryForFlow(com.here.sdk.core.GeoCircle,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"
     class="section detail">
 
     ### queryForFlow
@@ -695,8 +683,7 @@ SDKNativeEngine.getPassThroughFeatures()
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"
+<div id="sdk-for-android-explore-queryForFlow(com.here.sdk.core.GeoCorridor,com.here.sdk.traffic.TrafficFlowQueryOptions,com.here.sdk.traffic.TrafficFlowQueryCallback)"
     class="section detail">
 
     ### queryForFlow

@@ -52,8 +52,7 @@ Content types supported by the map.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -75,8 +74,7 @@ Content types supported by the map.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -174,8 +172,7 @@ Content types supported by the map.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -325,11 +322,9 @@ Content types supported by the map.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-RASTER_IMAGE"
+<div id="sdk-for-android-explore-RASTER_IMAGE"
     class="section detail">
 
     ### RASTER_IMAGE
@@ -348,8 +343,7 @@ Content types supported by the map.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LINE" class="section detail">
+<div id="sdk-for-android-explore-LINE" class="section detail">
 
     ### LINE
 
@@ -367,8 +361,7 @@ Content types supported by the map.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-POLYGON" class="section detail">
+<div id="sdk-for-android-explore-POLYGON" class="section detail">
 
     ### POLYGON
 
@@ -386,8 +379,7 @@ Content types supported by the map.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-POINT" class="section detail">
+<div id="sdk-for-android-explore-POINT" class="section detail">
 
     ### POINT
 
@@ -407,11 +399,9 @@ Content types supported by the map.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -434,8 +424,7 @@ Content types supported by the map.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

@@ -58,8 +58,7 @@ Point3D(-0.5, -0.5, -0.5)) .build();
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -101,8 +100,7 @@ Point3D(-0.5, -0.5, -0.5)) .build();
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -246,11 +244,9 @@ Point3D(-0.5, -0.5, -0.5)) .build();
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MeshBuilder
 
@@ -269,11 +265,9 @@ Point3D(-0.5, -0.5, -0.5)) .build();
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-triangle(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)"
+<div id="sdk-for-android-explore-triangle(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)"
     class="section detail">
 
     ### triangle
@@ -317,8 +311,7 @@ Point3D(-0.5, -0.5, -0.5)) .build();
     instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-quad(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)"
+<div id="sdk-for-android-explore-quad(com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D,com.here.sdk.core.Point3D)"
     class="section detail">
 
     ### quad
@@ -369,8 +362,7 @@ Point3D(-0.5, -0.5, -0.5)) .build();
     instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-build()" class="section detail">
+<div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

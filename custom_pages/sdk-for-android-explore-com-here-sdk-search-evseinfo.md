@@ -39,8 +39,7 @@ Related APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -362,8 +361,7 @@ Related APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -405,8 +403,7 @@ Related APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -513,11 +510,9 @@ Related APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-uid" class="section detail">
+<div id="sdk-for-android-explore-uid" class="section detail">
 
     ### uid
 
@@ -541,8 +536,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-id" class="section detail">
+<div id="sdk-for-android-explore-id" class="section detail">
 
     ### id
 
@@ -562,8 +556,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-evseID" class="section detail">
+<div id="sdk-for-android-explore-evseID" class="section detail">
 
     ### evseID
 
@@ -584,8 +577,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-status" class="section detail">
+<div id="sdk-for-android-explore-status" class="section detail">
 
     ### status
 
@@ -603,8 +595,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-lastUpdated"
+<div id="sdk-for-android-explore-lastUpdated"
     class="section detail">
 
     ### lastUpdated
@@ -625,8 +616,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-connectors" class="section detail">
+<div id="sdk-for-android-explore-connectors" class="section detail">
 
     ### connectors
 
@@ -647,8 +637,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-capabilities"
+<div id="sdk-for-android-explore-capabilities"
     class="section detail">
 
     ### capabilities
@@ -669,8 +658,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-floorLevel" class="section detail">
+<div id="sdk-for-android-explore-floorLevel" class="section detail">
 
     ### floorLevel
 
@@ -690,8 +678,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-physicalReference"
+<div id="sdk-for-android-explore-physicalReference"
     class="section detail">
 
     ### physicalReference
@@ -713,8 +700,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-coordinates"
+<div id="sdk-for-android-explore-coordinates"
     class="section detail">
 
     ### coordinates
@@ -733,8 +719,7 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-paymentSupports"
+<div id="sdk-for-android-explore-paymentSupports"
     class="section detail">
 
     ### paymentSupports
@@ -758,11 +743,9 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### EVSEInfo
 
@@ -781,11 +764,9 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -809,8 +790,7 @@ Related APIs may change for new releases without a deprecation process.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

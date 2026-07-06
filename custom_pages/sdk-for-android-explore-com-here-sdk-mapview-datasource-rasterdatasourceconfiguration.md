@@ -39,8 +39,7 @@ the configuration.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -122,8 +121,7 @@ the configuration.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -255,8 +253,7 @@ the configuration.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -319,8 +316,7 @@ the configuration.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -371,11 +367,9 @@ the configuration.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-name" class="section detail">
+<div id="sdk-for-android-explore-name" class="section detail">
 
     ### name
 
@@ -395,8 +389,7 @@ the configuration.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-provider" class="section detail">
+<div id="sdk-for-android-explore-provider" class="section detail">
 
     ### provider
 
@@ -414,8 +407,7 @@ the configuration.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-cache" class="section detail">
+<div id="sdk-for-android-explore-cache" class="section detail">
 
     ### cache
 
@@ -433,8 +425,7 @@ the configuration.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ignoreExpiredData"
+<div id="sdk-for-android-explore-ignoreExpiredData"
     class="section detail">
 
     ### ignoreExpiredData
@@ -455,11 +446,9 @@ the configuration.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache)"
     class="section detail">
 
     ### RasterDataSourceConfiguration
@@ -497,8 +486,7 @@ the configuration.
     Local cache configuration.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache,boolean)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache,boolean)"
     class="section detail">
 
     ### RasterDataSourceConfiguration

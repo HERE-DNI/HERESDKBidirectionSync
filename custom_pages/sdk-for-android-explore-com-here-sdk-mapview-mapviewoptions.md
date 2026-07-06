@@ -37,8 +37,7 @@ Options used for initialization of map view
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -145,8 +144,7 @@ Options used for initialization of map view
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -188,8 +186,7 @@ Options used for initialization of map view
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -296,11 +293,9 @@ Options used for initialization of map view
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-projection" class="section detail">
+<div id="sdk-for-android-explore-projection" class="section detail">
 
     ### projection
 
@@ -318,8 +313,7 @@ Options used for initialization of map view
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-initialBackgroundColor"
+<div id="sdk-for-android-explore-initialBackgroundColor"
     class="section detail">
 
     ### initialBackgroundColor
@@ -342,8 +336,7 @@ Options used for initialization of map view
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-renderMode" class="section detail">
+<div id="sdk-for-android-explore-renderMode" class="section detail">
 
     ### renderMode
 
@@ -364,11 +357,9 @@ Options used for initialization of map view
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MapViewOptions
 
@@ -387,11 +378,9 @@ Options used for initialization of map view
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -415,8 +404,7 @@ Options used for initialization of map view
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

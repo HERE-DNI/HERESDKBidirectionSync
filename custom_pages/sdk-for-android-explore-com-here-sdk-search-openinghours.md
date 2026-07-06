@@ -37,8 +37,7 @@ Represents opening hours information.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -178,8 +177,7 @@ Represents opening hours information.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -224,8 +222,7 @@ Represents opening hours information.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -332,11 +329,9 @@ Represents opening hours information.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-text" class="section detail">
+<div id="sdk-for-android-explore-text" class="section detail">
 
     ### text
 
@@ -358,8 +353,7 @@ Represents opening hours information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isOpen" class="section detail">
+<div id="sdk-for-android-explore-isOpen" class="section detail">
 
     ### isOpen
 
@@ -379,8 +373,7 @@ Represents opening hours information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-scheduleDetailsList"
+<div id="sdk-for-android-explore-scheduleDetailsList"
     class="section detail">
 
     ### scheduleDetailsList
@@ -401,8 +394,7 @@ Represents opening hours information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-categories" class="section detail">
+<div id="sdk-for-android-explore-categories" class="section detail">
 
     ### categories
 
@@ -425,11 +417,9 @@ Represents opening hours information.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,boolean,java.util.List,java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.util.List,boolean,java.util.List,java.util.List)"
     class="section detail">
 
     ### OpeningHours
@@ -481,11 +471,9 @@ Represents opening hours information.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -509,8 +497,7 @@ Represents opening hours information.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

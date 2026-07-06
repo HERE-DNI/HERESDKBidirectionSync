@@ -38,8 +38,7 @@ This class handles scroll events by panning the map accordingly.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -139,11 +138,9 @@ This class handles scroll events by panning the map accordingly.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-onScroll(float,float)"
+<div id="sdk-for-android-explore-onScroll(float,float)"
     class="section detail">
 
     ### onScroll

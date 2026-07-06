@@ -28,8 +28,7 @@ Interface for task activities on the main thread.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -130,11 +129,9 @@ Interface for task activities on the main thread.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-runOnMainThread(com.here.sdk.core.threading.Runnable)"
+<div id="sdk-for-android-explore-runOnMainThread(com.here.sdk.core.threading.Runnable)"
     class="section detail">
 
     ### runOnMainThread
@@ -170,8 +167,7 @@ Interface for task activities on the main thread.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-postToMainThread(com.here.sdk.core.threading.Runnable,long)"
+<div id="sdk-for-android-explore-postToMainThread(com.here.sdk.core.threading.Runnable,long)"
     class="section detail">
 
     ### postToMainThread
@@ -213,8 +209,7 @@ Interface for task activities on the main thread.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-
-  - <div id="sdk-for-android-explore-postToMainThread(com.here.sdk.core.threading.Runnable)"
+<div id="sdk-for-android-explore-postToMainThread(com.here.sdk.core.threading.Runnable)"
     class="section detail">
 
     ### postToMainThread

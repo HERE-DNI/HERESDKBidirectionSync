@@ -56,8 +56,7 @@ schemes, only the uppper half of the tree is used.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -79,8 +78,7 @@ schemes, only the uppper half of the tree is used.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -220,8 +218,7 @@ schemes, only the uppper half of the tree is used.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -371,11 +368,9 @@ schemes, only the uppper half of the tree is used.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-HALF_QUAD_TREE_IDENTITY"
+<div id="sdk-for-android-explore-HALF_QUAD_TREE_IDENTITY"
     class="section detail">
 
     ### HALF_QUAD_TREE_IDENTITY
@@ -395,8 +390,7 @@ schemes, only the uppper half of the tree is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HALF_QUAD_TREE_MERCATOR"
+<div id="sdk-for-android-explore-HALF_QUAD_TREE_MERCATOR"
     class="section detail">
 
     ### HALF_QUAD_TREE_MERCATOR
@@ -418,8 +412,7 @@ schemes, only the uppper half of the tree is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HALF_QUAD_TREE_EQUIRECTANGULAR"
+<div id="sdk-for-android-explore-HALF_QUAD_TREE_EQUIRECTANGULAR"
     class="section detail">
 
     ### HALF_QUAD_TREE_EQUIRECTANGULAR
@@ -441,8 +434,7 @@ schemes, only the uppper half of the tree is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-QUAD_TREE_IDENTITY"
+<div id="sdk-for-android-explore-QUAD_TREE_IDENTITY"
     class="section detail">
 
     ### QUAD_TREE_IDENTITY
@@ -462,8 +454,7 @@ schemes, only the uppper half of the tree is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-QUAD_TREE_MERCATOR"
+<div id="sdk-for-android-explore-QUAD_TREE_MERCATOR"
     class="section detail">
 
     ### QUAD_TREE_MERCATOR
@@ -484,8 +475,7 @@ schemes, only the uppper half of the tree is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-QUAD_TREE_EQUIRECTANGULAR"
+<div id="sdk-for-android-explore-QUAD_TREE_EQUIRECTANGULAR"
     class="section detail">
 
     ### QUAD_TREE_EQUIRECTANGULAR
@@ -508,11 +498,9 @@ schemes, only the uppper half of the tree is used.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -535,8 +523,7 @@ schemes, only the uppper half of the tree is used.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

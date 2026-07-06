@@ -39,8 +39,7 @@ creation, in order to provide search on custom places.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -271,8 +270,7 @@ creation, in order to provide search on custom places.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -314,8 +312,7 @@ creation, in order to provide search on custom places.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -492,11 +489,9 @@ creation, in order to provide search on custom places.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-title" class="section detail">
+<div id="sdk-for-android-explore-title" class="section detail">
 
     ### title
 
@@ -517,8 +512,7 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-externalIDs"
+<div id="sdk-for-android-explore-externalIDs"
     class="section detail">
 
     ### externalIDs
@@ -543,8 +537,7 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-type" class="section detail">
+<div id="sdk-for-android-explore-type" class="section detail">
 
     ### type
 
@@ -562,8 +555,7 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-categories" class="section detail">
+<div id="sdk-for-android-explore-categories" class="section detail">
 
     ### categories
 
@@ -584,8 +576,7 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-address" class="section detail">
+<div id="sdk-for-android-explore-address" class="section detail">
 
     ### address
 
@@ -604,8 +595,7 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-location" class="section detail">
+<div id="sdk-for-android-explore-location" class="section detail">
 
     ### location
 
@@ -624,8 +614,7 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-business" class="section detail">
+<div id="sdk-for-android-explore-business" class="section detail">
 
     ### business
 
@@ -644,8 +633,7 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-web" class="section detail">
+<div id="sdk-for-android-explore-web" class="section detail">
 
     ### web
 
@@ -666,11 +654,9 @@ creation, in order to provide search on custom places.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### GeoPlace
 
@@ -689,11 +675,9 @@ creation, in order to provide search on custom places.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -717,8 +701,7 @@ creation, in order to provide search on custom places.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -739,8 +722,7 @@ creation, in order to provide search on custom places.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-makeMyPlace(java.lang.String,com.here.sdk.core.GeoCoordinates)"
+<div id="sdk-for-android-explore-makeMyPlace(java.lang.String,com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### makeMyPlace
@@ -780,8 +762,7 @@ creation, in order to provide search on custom places.
     [`GeoPlace`](sdk-for-android-explore-com-here-sdk-search-geoplace "class in com.here.sdk.search").
 
     </div>
-
-  - <div id="sdk-for-android-explore-getID()" class="section detail">
+<div id="sdk-for-android-explore-getID()" class="section detail">
 
     ### getID
 
@@ -804,8 +785,7 @@ creation, in order to provide search on custom places.
     The place id.
 
     </div>
-
-  - <div id="sdk-for-android-explore-isMyPlace()"
+<div id="sdk-for-android-explore-isMyPlace()"
     class="section detail">
 
     ### isMyPlace

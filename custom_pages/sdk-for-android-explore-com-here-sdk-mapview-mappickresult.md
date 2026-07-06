@@ -37,8 +37,7 @@ A class representing a map pick result.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -185,11 +184,9 @@ A class representing a map pick result.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getMapItems()"
+<div id="sdk-for-android-explore-getMapItems()"
     class="section detail">
 
     ### getMapItems
@@ -211,8 +208,7 @@ A class representing a map pick result.
     Picked map items result.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getMapContent()"
+<div id="sdk-for-android-explore-getMapContent()"
     class="section detail">
 
     ### getMapContent
@@ -234,8 +230,7 @@ A class representing a map pick result.
     Picked map content result.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCustomLayerObjectDescriptors()"
+<div id="sdk-for-android-explore-getCustomLayerObjectDescriptors()"
     class="section detail">
 
     ### getCustomLayerObjectDescriptors

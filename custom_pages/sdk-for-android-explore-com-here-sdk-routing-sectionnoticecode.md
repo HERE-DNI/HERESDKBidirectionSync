@@ -55,8 +55,7 @@ new error situations.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -78,8 +77,7 @@ new error situations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -821,8 +819,7 @@ new error situations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -972,11 +969,9 @@ new error situations.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-VIOLATED_CRITICAL_RULE"
+<div id="sdk-for-android-explore-VIOLATED_CRITICAL_RULE"
     class="section detail">
 
     ### VIOLATED_CRITICAL_RULE
@@ -996,8 +991,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY"
+<div id="sdk-for-android-explore-VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY"
     class="section detail">
 
     ### VIOLATED_AVOID_CONTROLLED_ACCESS_HIGHWAY
@@ -1017,8 +1011,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_AVOID_TOLL_ROAD"
+<div id="sdk-for-android-explore-VIOLATED_AVOID_TOLL_ROAD"
     class="section detail">
 
     ### VIOLATED_AVOID_TOLL_ROAD
@@ -1038,8 +1031,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_AVOID_FERRY"
+<div id="sdk-for-android-explore-VIOLATED_AVOID_FERRY"
     class="section detail">
 
     ### VIOLATED_AVOID_FERRY
@@ -1059,8 +1051,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_AVOID_TUNNEL"
+<div id="sdk-for-android-explore-VIOLATED_AVOID_TUNNEL"
     class="section detail">
 
     ### VIOLATED_AVOID_TUNNEL
@@ -1080,8 +1071,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_AVOID_DIRT_ROAD"
+<div id="sdk-for-android-explore-VIOLATED_AVOID_DIRT_ROAD"
     class="section detail">
 
     ### VIOLATED_AVOID_DIRT_ROAD
@@ -1101,8 +1091,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_AVOID_RAIL_FERRY"
+<div id="sdk-for-android-explore-VIOLATED_AVOID_RAIL_FERRY"
     class="section detail">
 
     ### VIOLATED_AVOID_RAIL_FERRY
@@ -1122,8 +1111,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_AVOID_PARK"
+<div id="sdk-for-android-explore-VIOLATED_AVOID_PARK"
     class="section detail">
 
     ### VIOLATED_AVOID_PARK
@@ -1143,8 +1131,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_BLOCKED_ROAD"
+<div id="sdk-for-android-explore-VIOLATED_BLOCKED_ROAD"
     class="section detail">
 
     ### VIOLATED_BLOCKED_ROAD
@@ -1165,8 +1152,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_START_DIRECTION"
+<div id="sdk-for-android-explore-VIOLATED_START_DIRECTION"
     class="section detail">
 
     ### VIOLATED_START_DIRECTION
@@ -1186,8 +1172,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_CARPOOL"
+<div id="sdk-for-android-explore-VIOLATED_CARPOOL"
     class="section detail">
 
     ### VIOLATED_CARPOOL
@@ -1207,8 +1192,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_TURN_RESTRICTION"
+<div id="sdk-for-android-explore-VIOLATED_TURN_RESTRICTION"
     class="section detail">
 
     ### VIOLATED_TURN_RESTRICTION
@@ -1228,8 +1212,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_VEHICLE_RESTRICTION"
+<div id="sdk-for-android-explore-VIOLATED_VEHICLE_RESTRICTION"
     class="section detail">
 
     ### VIOLATED_VEHICLE_RESTRICTION
@@ -1249,8 +1232,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_ZONE_RESTRICTION"
+<div id="sdk-for-android-explore-VIOLATED_ZONE_RESTRICTION"
     class="section detail">
 
     ### VIOLATED_ZONE_RESTRICTION
@@ -1270,8 +1252,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_AVOID_U_TURNS"
+<div id="sdk-for-android-explore-VIOLATED_AVOID_U_TURNS"
     class="section detail">
 
     ### VIOLATED_AVOID_U_TURNS
@@ -1291,8 +1272,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_EMERGENCY_GATE"
+<div id="sdk-for-android-explore-VIOLATED_EMERGENCY_GATE"
     class="section detail">
 
     ### VIOLATED_EMERGENCY_GATE
@@ -1312,8 +1292,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_AVOID_SEASONAL_CLOSURE"
+<div id="sdk-for-android-explore-VIOLATED_AVOID_SEASONAL_CLOSURE"
     class="section detail">
 
     ### VIOLATED_AVOID_SEASONAL_CLOSURE
@@ -1333,8 +1312,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_AVOID_TRUCK_ROAD_TYPE"
+<div id="sdk-for-android-explore-VIOLATED_AVOID_TRUCK_ROAD_TYPE"
     class="section detail">
 
     ### VIOLATED_AVOID_TRUCK_ROAD_TYPE
@@ -1353,8 +1331,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_AVOID_TOLL_TRANSPONDER"
+<div id="sdk-for-android-explore-VIOLATED_AVOID_TOLL_TRANSPONDER"
     class="section detail">
 
     ### VIOLATED_AVOID_TOLL_TRANSPONDER
@@ -1374,8 +1351,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_CHARGING_STATION_OPENING_HOURS"
+<div id="sdk-for-android-explore-VIOLATED_CHARGING_STATION_OPENING_HOURS"
     class="section detail">
 
     ### VIOLATED_CHARGING_STATION_OPENING_HOURS
@@ -1396,8 +1372,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_AVOID_DIFFICULT_TURNS"
+<div id="sdk-for-android-explore-VIOLATED_AVOID_DIFFICULT_TURNS"
     class="section detail">
 
     ### VIOLATED_AVOID_DIFFICULT_TURNS
@@ -1417,8 +1392,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SEASONAL_CLOSURE"
+<div id="sdk-for-android-explore-SEASONAL_CLOSURE"
     class="section detail">
 
     ### SEASONAL_CLOSURE
@@ -1437,8 +1411,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TOLL_TRANSPONDER"
+<div id="sdk-for-android-explore-TOLL_TRANSPONDER"
     class="section detail">
 
     ### TOLL_TRANSPONDER
@@ -1458,8 +1431,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TOLLS_DATA_UNAVAILABLE"
+<div id="sdk-for-android-explore-TOLLS_DATA_UNAVAILABLE"
     class="section detail">
 
     ### TOLLS_DATA_UNAVAILABLE
@@ -1479,8 +1451,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TOLLS_DATA_TEMPORARILY_UNAVAILABLE"
+<div id="sdk-for-android-explore-TOLLS_DATA_TEMPORARILY_UNAVAILABLE"
     class="section detail">
 
     ### TOLLS_DATA_TEMPORARILY_UNAVAILABLE
@@ -1500,8 +1471,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CHARGING_STOP_NOT_NEEDED"
+<div id="sdk-for-android-explore-CHARGING_STOP_NOT_NEEDED"
     class="section detail">
 
     ### CHARGING_STOP_NOT_NEEDED
@@ -1522,8 +1492,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NO_SCHEDULE"
+<div id="sdk-for-android-explore-NO_SCHEDULE"
     class="section detail">
 
     ### NO_SCHEDULE
@@ -1544,8 +1513,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NO_INTERMEDIATE"
+<div id="sdk-for-android-explore-NO_INTERMEDIATE"
     class="section detail">
 
     ### NO_INTERMEDIATE
@@ -1565,8 +1533,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UNWANTED_MODE"
+<div id="sdk-for-android-explore-UNWANTED_MODE"
     class="section detail">
 
     ### UNWANTED_MODE
@@ -1587,8 +1554,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SCHEDULED_TIMES"
+<div id="sdk-for-android-explore-SCHEDULED_TIMES"
     class="section detail">
 
     ### SCHEDULED_TIMES
@@ -1609,8 +1575,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SIMPLE_POLYLINE"
+<div id="sdk-for-android-explore-SIMPLE_POLYLINE"
     class="section detail">
 
     ### SIMPLE_POLYLINE
@@ -1632,8 +1597,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-POTENTIAL_CARPOOL"
+<div id="sdk-for-android-explore-POTENTIAL_CARPOOL"
     class="section detail">
 
     ### POTENTIAL_CARPOOL
@@ -1654,8 +1618,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-POTENTIAL_TURN_RESTRICTION"
+<div id="sdk-for-android-explore-POTENTIAL_TURN_RESTRICTION"
     class="section detail">
 
     ### POTENTIAL_TURN_RESTRICTION
@@ -1676,8 +1639,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-POTENTIAL_VEHICLE_RESTRICTION"
+<div id="sdk-for-android-explore-POTENTIAL_VEHICLE_RESTRICTION"
     class="section detail">
 
     ### POTENTIAL_VEHICLE_RESTRICTION
@@ -1698,8 +1660,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-POTENTIAL_ZONE_RESTRICTION"
+<div id="sdk-for-android-explore-POTENTIAL_ZONE_RESTRICTION"
     class="section detail">
 
     ### POTENTIAL_ZONE_RESTRICTION
@@ -1720,8 +1681,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_MIN_CHARGE_AT_FIRST_CS"
+<div id="sdk-for-android-explore-VIOLATED_MIN_CHARGE_AT_FIRST_CS"
     class="section detail">
 
     ### VIOLATED_MIN_CHARGE_AT_FIRST_CS
@@ -1741,8 +1701,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_MIN_CHARGE_AT_CS"
+<div id="sdk-for-android-explore-VIOLATED_MIN_CHARGE_AT_CS"
     class="section detail">
 
     ### VIOLATED_MIN_CHARGE_AT_CS
@@ -1762,8 +1721,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIOLATED_MIN_CHARGE_AT_DESTINATION"
+<div id="sdk-for-android-explore-VIOLATED_MIN_CHARGE_AT_DESTINATION"
     class="section detail">
 
     ### VIOLATED_MIN_CHARGE_AT_DESTINATION
@@ -1783,8 +1741,7 @@ new error situations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NO_THROUGH_RESTRICTION"
+<div id="sdk-for-android-explore-NO_THROUGH_RESTRICTION"
     class="section detail">
 
     ### NO_THROUGH_RESTRICTION
@@ -1805,11 +1762,9 @@ new error situations.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1832,8 +1787,7 @@ new error situations.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

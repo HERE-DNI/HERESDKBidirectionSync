@@ -53,8 +53,7 @@ Transit incident effect.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ Transit incident effect.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -229,8 +227,7 @@ Transit incident effect.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -380,11 +377,9 @@ Transit incident effect.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CANCELLED_SERVICE"
+<div id="sdk-for-android-explore-CANCELLED_SERVICE"
     class="section detail">
 
     ### CANCELLED_SERVICE
@@ -403,8 +398,7 @@ Transit incident effect.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-REDUCED_SERVICE"
+<div id="sdk-for-android-explore-REDUCED_SERVICE"
     class="section detail">
 
     ### REDUCED_SERVICE
@@ -423,8 +417,7 @@ Transit incident effect.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ADDITIONAL_SERVICE"
+<div id="sdk-for-android-explore-ADDITIONAL_SERVICE"
     class="section detail">
 
     ### ADDITIONAL_SERVICE
@@ -443,8 +436,7 @@ Transit incident effect.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MODIFIED_SERVICE"
+<div id="sdk-for-android-explore-MODIFIED_SERVICE"
     class="section detail">
 
     ### MODIFIED_SERVICE
@@ -463,8 +455,7 @@ Transit incident effect.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DELAYS" class="section detail">
+<div id="sdk-for-android-explore-DELAYS" class="section detail">
 
     ### DELAYS
 
@@ -482,8 +473,7 @@ Transit incident effect.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DETOUR" class="section detail">
+<div id="sdk-for-android-explore-DETOUR" class="section detail">
 
     ### DETOUR
 
@@ -501,8 +491,7 @@ Transit incident effect.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-STOP_MOVED" class="section detail">
+<div id="sdk-for-android-explore-STOP_MOVED" class="section detail">
 
     ### STOP_MOVED
 
@@ -522,11 +511,9 @@ Transit incident effect.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -549,8 +536,7 @@ Transit incident effect.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

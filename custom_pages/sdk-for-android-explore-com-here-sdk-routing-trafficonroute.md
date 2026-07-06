@@ -38,8 +38,7 @@ portion of the route is omitted.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -147,8 +146,7 @@ portion of the route is omitted.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -190,8 +188,7 @@ portion of the route is omitted.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -298,11 +295,9 @@ portion of the route is omitted.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-lastTraveledSectionIndex"
+<div id="sdk-for-android-explore-lastTraveledSectionIndex"
     class="section detail">
 
     ### lastTraveledSectionIndex
@@ -321,8 +316,7 @@ portion of the route is omitted.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-traveledDistanceOnLastSectionInMeters"
+<div id="sdk-for-android-explore-traveledDistanceOnLastSectionInMeters"
     class="section detail">
 
     ### traveledDistanceOnLastSectionInMeters
@@ -341,8 +335,7 @@ portion of the route is omitted.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-trafficSections"
+<div id="sdk-for-android-explore-trafficSections"
     class="section detail">
 
     ### trafficSections
@@ -365,11 +358,9 @@ portion of the route is omitted.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TrafficOnRoute
 
@@ -388,11 +379,9 @@ portion of the route is omitted.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -416,8 +405,7 @@ portion of the route is omitted.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

@@ -38,8 +38,7 @@ span usually has some geometry associated with it.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -682,11 +681,9 @@ span usually has some geometry associated with it.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getShieldText(com.here.sdk.routing.LocalizedRoadNumber)"
+<div id="sdk-for-android-explore-getShieldText(com.here.sdk.routing.LocalizedRoadNumber)"
     class="section detail">
 
     ### getShieldText
@@ -718,8 +715,7 @@ span usually has some geometry associated with it.
     Text on the road shield to display.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getGeometry()"
+<div id="sdk-for-android-explore-getGeometry()"
     class="section detail">
 
     ### getGeometry
@@ -743,8 +739,7 @@ span usually has some geometry associated with it.
     object representing the polyline of this span.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getLengthInMeters()"
+<div id="sdk-for-android-explore-getLengthInMeters()"
     class="section detail">
 
     ### getLengthInMeters
@@ -765,8 +760,7 @@ span usually has some geometry associated with it.
     The length of this span in meters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getNoticeIndexes()"
+<div id="sdk-for-android-explore-getNoticeIndexes()"
     class="section detail">
 
     ### getNoticeIndexes
@@ -803,8 +797,7 @@ span usually has some geometry associated with it.
     carefully before proceeding.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSegmentReference()"
+<div id="sdk-for-android-explore-getSegmentReference()"
     class="section detail">
 
     ### getSegmentReference
@@ -826,8 +819,7 @@ span usually has some geometry associated with it.
     The segment reference of this span.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTrafficIncidentIndexes()"
+<div id="sdk-for-android-explore-getTrafficIncidentIndexes()"
     class="section detail">
 
     ### getTrafficIncidentIndexes
@@ -870,8 +862,7 @@ span usually has some geometry associated with it.
     built route as well.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSectionPolylineOffset()"
+<div id="sdk-for-android-explore-getSectionPolylineOffset()"
     class="section detail">
 
     ### getSectionPolylineOffset
@@ -900,8 +891,7 @@ span usually has some geometry associated with it.
     a point in the section's geometry.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDynamicSpeedInfo()"
+<div id="sdk-for-android-explore-getDynamicSpeedInfo()"
     class="section detail">
 
     ### getDynamicSpeedInfo
@@ -923,8 +913,7 @@ span usually has some geometry associated with it.
     The dynamic speed information on the span.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getStreetAttributes()"
+<div id="sdk-for-android-explore-getStreetAttributes()"
     class="section detail">
 
     ### getStreetAttributes
@@ -948,8 +937,7 @@ span usually has some geometry associated with it.
     The list of street attributes on the span.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCarAttributes()"
+<div id="sdk-for-android-explore-getCarAttributes()"
     class="section detail">
 
     ### getCarAttributes
@@ -973,8 +961,7 @@ span usually has some geometry associated with it.
     The list of car access attributes on the span.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTruckAttributes()"
+<div id="sdk-for-android-explore-getTruckAttributes()"
     class="section detail">
 
     ### getTruckAttributes
@@ -998,8 +985,7 @@ span usually has some geometry associated with it.
     The list of truck access attributes on the span.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getScooterAttributes()"
+<div id="sdk-for-android-explore-getScooterAttributes()"
     class="section detail">
 
     ### getScooterAttributes
@@ -1023,8 +1009,7 @@ span usually has some geometry associated with it.
     The list of scooter access attributes on the span.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getWalkAttributes()"
+<div id="sdk-for-android-explore-getWalkAttributes()"
     class="section detail">
 
     ### getWalkAttributes
@@ -1048,8 +1033,7 @@ span usually has some geometry associated with it.
     The list of walk attributes on the span.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getStreetNames()"
+<div id="sdk-for-android-explore-getStreetNames()"
     class="section detail">
 
     ### getStreetNames
@@ -1071,8 +1055,7 @@ span usually has some geometry associated with it.
     The street names on the span.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getRoadNumbers()"
+<div id="sdk-for-android-explore-getRoadNumbers()"
     class="section detail">
 
     ### getRoadNumbers
@@ -1100,8 +1083,7 @@ span usually has some geometry associated with it.
     (`RouteType`).
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSpeedLimitInMetersPerSecond()"
+<div id="sdk-for-android-explore-getSpeedLimitInMetersPerSecond()"
     class="section detail">
 
     ### getSpeedLimitInMetersPerSecond
@@ -1125,8 +1107,7 @@ span usually has some geometry associated with it.
     The speed limit in meters per second on the span.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getConsumptionInKilowattHours()"
+<div id="sdk-for-android-explore-getConsumptionInKilowattHours()"
     class="section detail">
 
     ### getConsumptionInKilowattHours
@@ -1152,8 +1133,7 @@ span usually has some geometry associated with it.
     span.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getFunctionalRoadClass()"
+<div id="sdk-for-android-explore-getFunctionalRoadClass()"
     class="section detail">
 
     ### getFunctionalRoadClass
@@ -1175,8 +1155,7 @@ span usually has some geometry associated with it.
     The functional road class of the span.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDuration()"
+<div id="sdk-for-android-explore-getDuration()"
     class="section detail">
 
     ### getDuration
@@ -1207,8 +1186,7 @@ span usually has some geometry associated with it.
     the traffic.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getBaseDuration()"
+<div id="sdk-for-android-explore-getBaseDuration()"
     class="section detail">
 
     ### getBaseDuration
@@ -1238,8 +1216,7 @@ span usually has some geometry associated with it.
     without taking into consideration the delays caused by the traffic.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCountryCode()"
+<div id="sdk-for-android-explore-getCountryCode()"
     class="section detail">
 
     ### getCountryCode
@@ -1265,8 +1242,7 @@ span usually has some geometry associated with it.
     available.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getStateCode()"
+<div id="sdk-for-android-explore-getStateCode()"
     class="section detail">
 
     ### getStateCode
@@ -1300,8 +1276,7 @@ span usually has some geometry associated with it.
     letters. The value is `null` when no data is available.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getNoThroughRestrictionsIndexes()"
+<div id="sdk-for-android-explore-getNoThroughRestrictionsIndexes()"
     class="section detail">
 
     ### getNoThroughRestrictionsIndexes

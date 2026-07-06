@@ -43,8 +43,7 @@ automatically set a shared instance.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -101,8 +100,7 @@ automatically set a shared instance.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -145,8 +143,7 @@ automatically set a shared instance.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -697,11 +694,9 @@ automatically set a shared instance.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
+<div id="sdk-for-android-explore-<init>(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
     class="section detail">
 
     ### SDKNativeEngine
@@ -739,11 +734,9 @@ automatically set a shared instance.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-setAccessKeySecret(java.lang.String)"
+<div id="sdk-for-android-explore-setAccessKeySecret(java.lang.String)"
     class="section detail">
 
     ### setAccessKeySecret
@@ -773,8 +766,7 @@ automatically set a shared instance.
     New access key secret.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setAccessScope(java.lang.String)"
+<div id="sdk-for-android-explore-setAccessScope(java.lang.String)"
     class="section detail">
 
     ### setAccessScope
@@ -803,8 +795,7 @@ automatically set a shared instance.
     New scope for token
 
     </div>
-
-  - <div id="sdk-for-android-explore-dispose()" class="section detail">
+<div id="sdk-for-android-explore-dispose()" class="section detail">
 
     ### dispose
 
@@ -825,8 +816,7 @@ automatically set a shared instance.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-enableUsageStats(boolean)"
+<div id="sdk-for-android-explore-enableUsageStats(boolean)"
     class="section detail">
 
     ### enableUsageStats
@@ -855,8 +845,7 @@ automatically set a shared instance.
     True, if UsageStats are enabled.
 
     </div>
-
-  - <div id="sdk-for-android-explore-makeSharedInstance(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
+<div id="sdk-for-android-explore-makeSharedInstance(android.content.Context,com.here.sdk.core.engine.SDKOptions)"
     class="section detail">
 
     ### makeSharedInstance
@@ -899,8 +888,7 @@ automatically set a shared instance.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-
-  - <div id="sdk-for-android-explore-clearPersistentUsageStats()"
+<div id="sdk-for-android-explore-clearPersistentUsageStats()"
     class="section detail">
 
     ### clearPersistentUsageStats
@@ -921,8 +909,7 @@ automatically set a shared instance.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-clearUsageStatsCache()"
+<div id="sdk-for-android-explore-clearUsageStatsCache()"
     class="section detail">
 
     ### clearUsageStatsCache
@@ -943,8 +930,7 @@ automatically set a shared instance.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-purgeMemoryCaches(com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy)"
+<div id="sdk-for-android-explore-purgeMemoryCaches(com.here.sdk.core.engine.SDKNativeEngine.PurgeMemoryStrategy)"
     class="section detail">
 
     ### purgeMemoryCaches
@@ -970,8 +956,7 @@ automatically set a shared instance.
     Option to control how much memory caches will be purged.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)"
+<div id="sdk-for-android-explore-getDeviceId(com.here.sdk.core.engine.DeviceIdCallback)"
     class="section detail">
 
     ### getDeviceId
@@ -997,8 +982,7 @@ automatically set a shared instance.
     Callback which receives the result on the main thread.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getOptions()"
+<div id="sdk-for-android-explore-getOptions()"
     class="section detail">
 
     ### getOptions
@@ -1021,8 +1005,7 @@ automatically set a shared instance.
     [`SDKNativeEngine`](sdk-for-android-explore-com-here-sdk-core-engine-sdknativeengine "class in com.here.sdk.core.engine").
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSharedInstance()"
+<div id="sdk-for-android-explore-getSharedInstance()"
     class="section detail">
 
     ### getSharedInstance
@@ -1048,8 +1031,7 @@ automatically set a shared instance.
     SDK module as the default engine.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setSharedInstance(com.here.sdk.core.engine.SDKNativeEngine)"
+<div id="sdk-for-android-explore-setSharedInstance(com.here.sdk.core.engine.SDKNativeEngine)"
     class="section detail">
 
     ### setSharedInstance
@@ -1077,8 +1059,7 @@ automatically set a shared instance.
     SDK module as the default engine.
 
     </div>
-
-  - <div id="sdk-for-android-explore-isOfflineMode()"
+<div id="sdk-for-android-explore-isOfflineMode()"
     class="section detail">
 
     ### isOfflineMode
@@ -1111,8 +1092,7 @@ automatically set a shared instance.
     The offline mode.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setOfflineMode(boolean)"
+<div id="sdk-for-android-explore-setOfflineMode(boolean)"
     class="section detail">
 
     ### setOfflineMode
@@ -1147,8 +1127,7 @@ automatically set a shared instance.
     The offline mode.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPassThroughFeatures()"
+<div id="sdk-for-android-explore-getPassThroughFeatures()"
     class="section detail">
 
     ### getPassThroughFeatures
@@ -1181,8 +1160,7 @@ automatically set a shared instance.
     The pass through features.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setPassThroughFeatures(java.util.Set)"
+<div id="sdk-for-android-explore-setPassThroughFeatures(java.util.Set)"
     class="section detail">
 
     ### setPassThroughFeatures
@@ -1217,8 +1195,7 @@ automatically set a shared instance.
     The pass through features.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getParameterConfig()"
+<div id="sdk-for-android-explore-getParameterConfig()"
     class="section detail">
 
     ### getParameterConfig
@@ -1244,8 +1221,7 @@ automatically set a shared instance.
     Configuration for default values of parameters used in the HERE SDK.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setParameterConfig(com.here.sdk.core.ParameterConfiguration)"
+<div id="sdk-for-android-explore-setParameterConfig(com.here.sdk.core.ParameterConfiguration)"
     class="section detail">
 
     ### setParameterConfig
@@ -1273,8 +1249,7 @@ automatically set a shared instance.
     Configuration for default values of parameters used in the HERE SDK.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getProxySettings()"
+<div id="sdk-for-android-explore-getProxySettings()"
     class="section detail">
 
     ### getProxySettings
@@ -1306,8 +1281,7 @@ automatically set a shared instance.
     network for all requests.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setProxySettings(com.here.sdk.core.engine.ProxySettings)"
+<div id="sdk-for-android-explore-setProxySettings(com.here.sdk.core.engine.ProxySettings)"
     class="section detail">
 
     ### setProxySettings
@@ -1340,8 +1314,7 @@ automatically set a shared instance.
     network for all requests.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSdkUsageStats()"
+<div id="sdk-for-android-explore-getSdkUsageStats()"
     class="section detail">
 
     ### getSdkUsageStats

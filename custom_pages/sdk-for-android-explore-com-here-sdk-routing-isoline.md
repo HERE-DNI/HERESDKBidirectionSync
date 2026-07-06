@@ -42,8 +42,7 @@ by setting IsolineOptions.Calculation.maxPoints .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -88,8 +87,7 @@ by setting IsolineOptions.Calculation.maxPoints .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -259,11 +257,9 @@ by setting IsolineOptions.Calculation.maxPoints .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,double,com.here.sdk.routing.MapMatchedCoordinates,java.util.List)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,double,com.here.sdk.routing.MapMatchedCoordinates,java.util.List)"
     class="section detail">
 
     ### Isoline
@@ -308,11 +304,9 @@ by setting IsolineOptions.Calculation.maxPoints .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getRangeType()"
+<div id="sdk-for-android-explore-getRangeType()"
     class="section detail">
 
     ### getRangeType
@@ -336,8 +330,7 @@ by setting IsolineOptions.Calculation.maxPoints .
     this isoline.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getRangeValue()"
+<div id="sdk-for-android-explore-getRangeValue()"
     class="section detail">
 
     ### getRangeValue
@@ -360,8 +353,7 @@ by setting IsolineOptions.Calculation.maxPoints .
     calculate this isoline.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCenter()"
+<div id="sdk-for-android-explore-getCenter()"
     class="section detail">
 
     ### getCenter
@@ -386,8 +378,7 @@ by setting IsolineOptions.Calculation.maxPoints .
     The center point that was used to calculate this isoline.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPolygons()"
+<div id="sdk-for-android-explore-getPolygons()"
     class="section detail">
 
     ### getPolygons

@@ -38,8 +38,7 @@ different languages.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -97,8 +96,7 @@ different languages.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -140,8 +138,7 @@ different languages.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -299,11 +296,9 @@ different languages.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-items" class="section detail">
+<div id="sdk-for-android-explore-items" class="section detail">
 
     ### items
 
@@ -326,11 +321,9 @@ different languages.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### LocalizedTexts
 
@@ -349,11 +342,9 @@ different languages.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -377,8 +368,7 @@ different languages.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -399,8 +389,7 @@ different languages.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPreferredValueForLocales(java.util.List)"
+<div id="sdk-for-android-explore-getPreferredValueForLocales(java.util.List)"
     class="section detail">
 
     ### getPreferredValueForLocales
@@ -438,8 +427,7 @@ different languages.
     specified locales.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDefaultValue()"
+<div id="sdk-for-android-explore-getDefaultValue()"
     class="section detail">
 
     ### getDefaultValue

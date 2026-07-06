@@ -32,8 +32,7 @@ rendered and no further redraws are necessary.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -111,11 +110,9 @@ rendered and no further redraws are necessary.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-onMapBusy()"
+<div id="sdk-for-android-explore-onMapBusy()"
     class="section detail">
 
     ### onMapBusy
@@ -134,8 +131,7 @@ rendered and no further redraws are necessary.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-onMapIdle()"
+<div id="sdk-for-android-explore-onMapIdle()"
     class="section detail">
 
     ### onMapIdle

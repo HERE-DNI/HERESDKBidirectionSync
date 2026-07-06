@@ -42,8 +42,7 @@ This class constructs a VehicleSpecification for a scooter.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -85,8 +84,7 @@ This class constructs a VehicleSpecification for a scooter.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -231,11 +229,9 @@ This class constructs a VehicleSpecification for a scooter.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### ScooterBuilder
 
@@ -254,11 +250,9 @@ This class constructs a VehicleSpecification for a scooter.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-withEngineSizeInCubicCentimeters(int)"
+<div id="sdk-for-android-explore-withEngineSizeInCubicCentimeters(int)"
     class="section detail">
 
     ### withEngineSizeInCubicCentimeters
@@ -287,8 +281,7 @@ This class constructs a VehicleSpecification for a scooter.
     object with the engine size set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withOccupancy(int)"
+<div id="sdk-for-android-explore-withOccupancy(int)"
     class="section detail">
 
     ### withOccupancy
@@ -317,8 +310,7 @@ This class constructs a VehicleSpecification for a scooter.
     object with the vehicle occupants number set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-build()" class="section detail">
+<div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

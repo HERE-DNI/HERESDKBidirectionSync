@@ -40,8 +40,7 @@ releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -83,8 +82,7 @@ releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -208,11 +206,9 @@ releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapContext)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapContext)"
     class="section detail">
 
     ### AssetsManager
@@ -238,11 +234,9 @@ releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-registerFont(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-registerFont(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### registerFont
@@ -280,8 +274,7 @@ releases without a deprecation process.
     asset file path or an absolute file path.
 
     </div>
-
-  - <div id="sdk-for-android-explore-registerFontWithFallback(java.lang.String,java.lang.String,java.util.List)"
+<div id="sdk-for-android-explore-registerFontWithFallback(java.lang.String,java.lang.String,java.util.List)"
     class="section detail">
 
     ### registerFontWithFallback

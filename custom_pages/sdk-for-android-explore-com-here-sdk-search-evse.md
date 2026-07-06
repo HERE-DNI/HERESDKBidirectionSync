@@ -39,8 +39,7 @@ infrastructure and charging point.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -226,8 +225,7 @@ infrastructure and charging point.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -269,8 +267,7 @@ infrastructure and charging point.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -377,11 +374,9 @@ infrastructure and charging point.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-id" class="section detail">
+<div id="sdk-for-android-explore-id" class="section detail">
 
     ### id
 
@@ -401,8 +396,7 @@ infrastructure and charging point.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-cpoId" class="section detail">
+<div id="sdk-for-android-explore-cpoId" class="section detail">
 
     ### cpoId
 
@@ -425,8 +419,7 @@ infrastructure and charging point.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-cpoEvseEmi3Id"
+<div id="sdk-for-android-explore-cpoEvseEmi3Id"
     class="section detail">
 
     ### cpoEvseEmi3Id
@@ -449,8 +442,7 @@ infrastructure and charging point.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-status" class="section detail">
+<div id="sdk-for-android-explore-status" class="section detail">
 
     ### status
 
@@ -468,8 +460,7 @@ infrastructure and charging point.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-lastUpdated"
+<div id="sdk-for-android-explore-lastUpdated"
     class="section detail">
 
     ### lastUpdated
@@ -490,8 +481,7 @@ infrastructure and charging point.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-connectors" class="section detail">
+<div id="sdk-for-android-explore-connectors" class="section detail">
 
     ### connectors
 
@@ -513,11 +503,9 @@ infrastructure and charging point.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### Evse
 
@@ -536,11 +524,9 @@ infrastructure and charging point.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -564,8 +550,7 @@ infrastructure and charging point.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

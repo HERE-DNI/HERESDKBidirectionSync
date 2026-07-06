@@ -43,8 +43,7 @@ releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -226,8 +225,7 @@ releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -269,8 +267,7 @@ releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -377,11 +374,9 @@ releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-driveTrainEfficiency"
+<div id="sdk-for-android-explore-driveTrainEfficiency"
     class="section detail">
 
     ### driveTrainEfficiency
@@ -401,8 +396,7 @@ releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-recuperationEfficiency"
+<div id="sdk-for-android-explore-recuperationEfficiency"
     class="section detail">
 
     ### recuperationEfficiency
@@ -422,8 +416,7 @@ releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-auxiliaryPowerConsumptionInWatts"
+<div id="sdk-for-android-explore-auxiliaryPowerConsumptionInWatts"
     class="section detail">
 
     ### auxiliaryPowerConsumptionInWatts
@@ -443,8 +436,7 @@ releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-frontalAreaInSquareMeters"
+<div id="sdk-for-android-explore-frontalAreaInSquareMeters"
     class="section detail">
 
     ### frontalAreaInSquareMeters
@@ -469,8 +461,7 @@ releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-rollingResistanceCoefficient"
+<div id="sdk-for-android-explore-rollingResistanceCoefficient"
     class="section detail">
 
     ### rollingResistanceCoefficient
@@ -494,8 +485,7 @@ releases without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-airDragCoefficient"
+<div id="sdk-for-android-explore-airDragCoefficient"
     class="section detail">
 
     ### airDragCoefficient
@@ -520,11 +510,9 @@ releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### PhysicalConsumptionModel
 
@@ -543,11 +531,9 @@ releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -571,8 +557,7 @@ releases without a deprecation process.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

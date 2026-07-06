@@ -38,8 +38,7 @@ vehicle. The provided value must be greater or equal to 0.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -206,8 +205,7 @@ vehicle. The provided value must be greater or equal to 0.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -249,8 +247,7 @@ vehicle. The provided value must be greater or equal to 0.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -357,11 +354,9 @@ vehicle. The provided value must be greater or equal to 0.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-singleAxleGroupInKilograms"
+<div id="sdk-for-android-explore-singleAxleGroupInKilograms"
     class="section detail">
 
     ### singleAxleGroupInKilograms
@@ -383,8 +378,7 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-tandemAxleGroupInKilograms"
+<div id="sdk-for-android-explore-tandemAxleGroupInKilograms"
     class="section detail">
 
     ### tandemAxleGroupInKilograms
@@ -406,8 +400,7 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-tripleAxleGroupInKilograms"
+<div id="sdk-for-android-explore-tripleAxleGroupInKilograms"
     class="section detail">
 
     ### tripleAxleGroupInKilograms
@@ -429,8 +422,7 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-quadAxleGroupInKilograms"
+<div id="sdk-for-android-explore-quadAxleGroupInKilograms"
     class="section detail">
 
     ### quadAxleGroupInKilograms
@@ -452,8 +444,7 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-quintAxleGroupInKilograms"
+<div id="sdk-for-android-explore-quintAxleGroupInKilograms"
     class="section detail">
 
     ### quintAxleGroupInKilograms
@@ -477,11 +468,9 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### WeightPerAxleGroup
 
@@ -500,11 +489,9 @@ vehicle. The provided value must be greater or equal to 0.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -528,8 +515,7 @@ vehicle. The provided value must be greater or equal to 0.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

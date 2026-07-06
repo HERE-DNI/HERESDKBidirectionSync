@@ -118,8 +118,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -225,8 +224,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -874,11 +872,9 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-setFarPlaneConfiguration(java.util.Map)"
+<div id="sdk-for-android-explore-setFarPlaneConfiguration(java.util.Map)"
     class="section detail">
 
     ### setFarPlaneConfiguration
@@ -919,8 +915,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Per-zoom override mapping from zoom level to distance configuration.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addListener(com.here.sdk.mapview.MapCameraListener)"
+<div id="sdk-for-android-explore-addListener(com.here.sdk.mapview.MapCameraListener)"
     class="section detail">
 
     ### addListener
@@ -946,8 +941,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     The listener to add.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeListener(com.here.sdk.mapview.MapCameraListener)"
+<div id="sdk-for-android-explore-removeListener(com.here.sdk.mapview.MapCameraListener)"
     class="section detail">
 
     ### removeListener
@@ -972,8 +966,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Listener to be removed from receiving state notifications.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeListeners()"
+<div id="sdk-for-android-explore-removeListeners()"
     class="section detail">
 
     ### removeListeners
@@ -991,8 +984,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-applyUpdate(com.here.sdk.mapview.MapCameraUpdate)"
+<div id="sdk-for-android-explore-applyUpdate(com.here.sdk.mapview.MapCameraUpdate)"
     class="section detail">
 
     ### applyUpdate
@@ -1018,8 +1010,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     The update that gets applied to camera.
 
     </div>
-
-  - <div id="sdk-for-android-explore-dryApplyUpdate(com.here.sdk.mapview.MapCameraUpdate,com.here.sdk.mapview.MapCamera.DryCameraUpdateCallback)"
+<div id="sdk-for-android-explore-dryApplyUpdate(com.here.sdk.mapview.MapCameraUpdate,com.here.sdk.mapview.MapCamera.DryCameraUpdateCallback)"
     class="section detail">
 
     ### dryApplyUpdate
@@ -1053,8 +1044,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     on the main thread.
 
     </div>
-
-  - <div id="sdk-for-android-explore-startAnimation(com.here.sdk.mapview.MapCameraAnimation)"
+<div id="sdk-for-android-explore-startAnimation(com.here.sdk.mapview.MapCameraAnimation)"
     class="section detail">
 
     ### startAnimation
@@ -1084,8 +1074,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     The animation to be started.
 
     </div>
-
-  - <div id="sdk-for-android-explore-startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)"
+<div id="sdk-for-android-explore-startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)"
     class="section detail">
 
     ### startAnimation
@@ -1123,8 +1112,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     the animation gets cancelled or completed.
 
     </div>
-
-  - <div id="sdk-for-android-explore-cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)"
+<div id="sdk-for-android-explore-cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)"
     class="section detail">
 
     ### cancelAnimation
@@ -1149,8 +1137,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     The animation to be cancelled.
 
     </div>
-
-  - <div id="sdk-for-android-explore-cancelAnimations()"
+<div id="sdk-for-android-explore-cancelAnimations()"
     class="section detail">
 
     ### cancelAnimations
@@ -1169,8 +1156,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### orbitBy
@@ -1201,8 +1187,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Pixel point in view coordinates around which orbiting occurs.
 
     </div>
-
-  - <div id="sdk-for-android-explore-zoomBy(double,com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-zoomBy(double,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### zoomBy
@@ -1244,8 +1229,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Pixel point in view coordinates around which zooming occurs.
 
     </div>
-
-  - <div id="sdk-for-android-explore-zoomTo(double)"
+<div id="sdk-for-android-explore-zoomTo(double)"
     class="section detail">
 
     ### zoomTo
@@ -1272,8 +1256,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     The zoom level to set, clamped to the range of \[0, 22\].
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### lookAt
@@ -1301,8 +1284,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Geodetic coordinates at which the camera will point.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMeasure)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -1336,8 +1318,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     point, scale or zoom level.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -1380,8 +1361,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     point, scale or zoom level.
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate)"
     class="section detail">
 
     ### lookAt
@@ -1415,8 +1395,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Desired orientation of the camera
 
     </div>
-
-  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)"
+<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)"
     class="section detail">
 
     ### lookAt
@@ -1461,8 +1440,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     geographical target area is displayed.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setDistanceToTarget(double)"
+<div id="sdk-for-android-explore-setDistanceToTarget(double)"
     class="section detail">
 
     ### setDistanceToTarget
@@ -1487,8 +1465,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     clamped to 100 meters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setOrientationAtTarget(com.here.sdk.core.GeoOrientationUpdate)"
+<div id="sdk-for-android-explore-setOrientationAtTarget(com.here.sdk.core.GeoOrientationUpdate)"
     class="section detail">
 
     ### setOrientationAtTarget
@@ -1512,8 +1489,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Desired orientation of the camera.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getState()" class="section detail">
+<div id="sdk-for-android-explore-getState()" class="section detail">
 
     ### getState
 
@@ -1536,8 +1512,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     the map view.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPrincipalPoint()"
+<div id="sdk-for-android-explore-getPrincipalPoint()"
     class="section detail">
 
     ### getPrincipalPoint
@@ -1568,8 +1543,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     render the current target coordinates at the new principal point.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setPrincipalPoint(com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-setPrincipalPoint(com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### setPrincipalPoint
@@ -1610,8 +1584,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     render the current target coordinates at the new principal point.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getBoundingBox()"
+<div id="sdk-for-android-explore-getBoundingBox()"
     class="section detail">
 
     ### getBoundingBox
@@ -1643,8 +1616,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Currently visible map area encompassed in a GeoBox.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getLimits()"
+<div id="sdk-for-android-explore-getLimits()"
     class="section detail">
 
     ### getLimits

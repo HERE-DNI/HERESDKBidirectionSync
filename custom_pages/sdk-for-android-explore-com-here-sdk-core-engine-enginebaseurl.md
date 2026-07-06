@@ -53,8 +53,7 @@ custom backend base URL.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ custom backend base URL.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -247,8 +245,7 @@ custom backend base URL.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -398,11 +395,9 @@ custom backend base URL.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-SEARCH_ENGINE"
+<div id="sdk-for-android-explore-SEARCH_ENGINE"
     class="section detail">
 
     ### SEARCH_ENGINE
@@ -429,8 +424,7 @@ custom backend base URL.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ROUTING_ENGINE"
+<div id="sdk-for-android-explore-ROUTING_ENGINE"
     class="section detail">
 
     ### ROUTING_ENGINE
@@ -456,8 +450,7 @@ custom backend base URL.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AUTHENTICATION"
+<div id="sdk-for-android-explore-AUTHENTICATION"
     class="section detail">
 
     ### AUTHENTICATION
@@ -482,8 +475,7 @@ custom backend base URL.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DS_PROXY" class="section detail">
+<div id="sdk-for-android-explore-DS_PROXY" class="section detail">
 
     ### DS_PROXY
 
@@ -513,8 +505,7 @@ custom backend base URL.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRAFFIC_DATA"
+<div id="sdk-for-android-explore-TRAFFIC_DATA"
     class="section detail">
 
     ### TRAFFIC_DATA
@@ -536,8 +527,7 @@ custom backend base URL.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRAFFIC_VECTOR_TILE_SERVICE"
+<div id="sdk-for-android-explore-TRAFFIC_VECTOR_TILE_SERVICE"
     class="section detail">
 
     ### TRAFFIC_VECTOR_TILE_SERVICE
@@ -567,8 +557,7 @@ custom backend base URL.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RASTER_TILE_SERVICE"
+<div id="sdk-for-android-explore-RASTER_TILE_SERVICE"
     class="section detail">
 
     ### RASTER_TILE_SERVICE
@@ -590,8 +579,7 @@ custom backend base URL.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ISOLINE_ROUTING_ENGINE"
+<div id="sdk-for-android-explore-ISOLINE_ROUTING_ENGINE"
     class="section detail">
 
     ### ISOLINE_ROUTING_ENGINE
@@ -618,11 +606,9 @@ custom backend base URL.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -645,8 +631,7 @@ custom backend base URL.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

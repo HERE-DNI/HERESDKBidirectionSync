@@ -52,8 +52,7 @@ EVSE status
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -75,8 +74,7 @@ EVSE status
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -228,8 +226,7 @@ EVSE status
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -379,11 +376,9 @@ EVSE status
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-AVAILABLE" class="section detail">
+<div id="sdk-for-android-explore-AVAILABLE" class="section detail">
 
     ### AVAILABLE
 
@@ -401,8 +396,7 @@ EVSE status
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OCCUPIED" class="section detail">
+<div id="sdk-for-android-explore-OCCUPIED" class="section detail">
 
     ### OCCUPIED
 
@@ -420,8 +414,7 @@ EVSE status
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OFFLINE" class="section detail">
+<div id="sdk-for-android-explore-OFFLINE" class="section detail">
 
     ### OFFLINE
 
@@ -439,8 +432,7 @@ EVSE status
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OTHER" class="section detail">
+<div id="sdk-for-android-explore-OTHER" class="section detail">
 
     ### OTHER
 
@@ -458,8 +450,7 @@ EVSE status
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OUT_OF_SERVICE"
+<div id="sdk-for-android-explore-OUT_OF_SERVICE"
     class="section detail">
 
     ### OUT_OF_SERVICE
@@ -478,8 +469,7 @@ EVSE status
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RESERVED" class="section detail">
+<div id="sdk-for-android-explore-RESERVED" class="section detail">
 
     ### RESERVED
 
@@ -498,8 +488,7 @@ EVSE status
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UNAVAILABLE"
+<div id="sdk-for-android-explore-UNAVAILABLE"
     class="section detail">
 
     ### UNAVAILABLE
@@ -521,11 +510,9 @@ EVSE status
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -548,8 +535,7 @@ EVSE status
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

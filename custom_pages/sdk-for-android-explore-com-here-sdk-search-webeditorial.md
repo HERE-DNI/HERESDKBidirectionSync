@@ -37,8 +37,7 @@ Contains information about editorial article and a link to it.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -148,8 +147,7 @@ Contains information about editorial article and a link to it.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -209,8 +207,7 @@ Contains information about editorial article and a link to it.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -317,11 +314,9 @@ Contains information about editorial article and a link to it.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-description"
+<div id="sdk-for-android-explore-description"
     class="section detail">
 
     ### description
@@ -342,8 +337,7 @@ Contains information about editorial article and a link to it.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-language" class="section detail">
+<div id="sdk-for-android-explore-language" class="section detail">
 
     ### language
 
@@ -363,8 +357,7 @@ Contains information about editorial article and a link to it.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-source" class="section detail">
+<div id="sdk-for-android-explore-source" class="section detail">
 
     ### source
 
@@ -384,11 +377,9 @@ Contains information about editorial article and a link to it.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,com.here.sdk.search.WebSource)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,com.here.sdk.search.WebSource)"
     class="section detail">
 
     ### WebEditorial
@@ -427,8 +418,7 @@ Contains information about editorial article and a link to it.
     Detailed information about editorial article.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### WebEditorial
 
@@ -447,11 +437,9 @@ Contains information about editorial article and a link to it.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -475,8 +463,7 @@ Contains information about editorial article and a link to it.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

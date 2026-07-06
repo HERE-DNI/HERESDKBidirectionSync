@@ -40,8 +40,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -301,8 +300,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -352,8 +350,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -460,11 +457,9 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-productVariant"
+<div id="sdk-for-android-explore-productVariant"
     class="section detail">
 
     ### productVariant
@@ -485,8 +480,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-versionName"
+<div id="sdk-for-android-explore-versionName"
     class="section detail">
 
     ### versionName
@@ -507,8 +501,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-versionGeneration"
+<div id="sdk-for-android-explore-versionGeneration"
     class="section detail">
 
     ### versionGeneration
@@ -526,8 +519,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-versionMajor"
+<div id="sdk-for-android-explore-versionMajor"
     class="section detail">
 
     ### versionMajor
@@ -545,8 +537,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-versionMinor"
+<div id="sdk-for-android-explore-versionMinor"
     class="section detail">
 
     ### versionMinor
@@ -564,8 +555,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-versionPatch"
+<div id="sdk-for-android-explore-versionPatch"
     class="section detail">
 
     ### versionPatch
@@ -583,8 +573,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-versionBuild"
+<div id="sdk-for-android-explore-versionBuild"
     class="section detail">
 
     ### versionBuild
@@ -602,8 +591,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-versionTag" class="section detail">
+<div id="sdk-for-android-explore-versionTag" class="section detail">
 
     ### versionTag
 
@@ -623,8 +611,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-backendConfig"
+<div id="sdk-for-android-explore-backendConfig"
     class="section detail">
 
     ### backendConfig
@@ -647,11 +634,9 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,int,int,int,int,int,java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String,int,int,int,int,int,java.lang.String,java.lang.String)"
     class="section detail">
 
     ### SDKVersion
@@ -722,11 +707,9 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -750,8 +733,7 @@ sdk.core.engine.SDKBuildInformation can be used to get SDKVersion .
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

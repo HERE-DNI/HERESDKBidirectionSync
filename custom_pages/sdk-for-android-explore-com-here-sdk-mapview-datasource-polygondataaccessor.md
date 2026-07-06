@@ -42,8 +42,7 @@ change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -208,11 +207,9 @@ change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getGeometry()"
+<div id="sdk-for-android-explore-getGeometry()"
     class="section detail">
 
     ### getGeometry
@@ -234,8 +231,7 @@ change for new releases without a deprecation process.
     The polygon geometry.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getAttributes()"
+<div id="sdk-for-android-explore-getAttributes()"
     class="section detail">
 
     ### getAttributes
@@ -257,8 +253,7 @@ change for new releases without a deprecation process.
     The polygon attributes accessor.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setGeometry(com.here.sdk.core.GeoPolygon)"
+<div id="sdk-for-android-explore-setGeometry(com.here.sdk.core.GeoPolygon)"
     class="section detail">
 
     ### setGeometry
@@ -286,8 +281,7 @@ change for new releases without a deprecation process.
     visual behaviour for self-intersecting outer boundary is undefined.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setAttributes(com.here.sdk.mapview.datasource.DataAttributes)"
+<div id="sdk-for-android-explore-setAttributes(com.here.sdk.mapview.datasource.DataAttributes)"
     class="section detail">
 
     ### setAttributes

@@ -38,8 +38,7 @@ for offline calculations.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -121,8 +120,7 @@ for offline calculations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -261,8 +259,7 @@ for offline calculations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -304,8 +301,7 @@ for offline calculations.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -412,11 +408,9 @@ for offline calculations.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-transponders"
+<div id="sdk-for-android-explore-transponders"
     class="section detail">
 
     ### transponders
@@ -442,8 +436,7 @@ for offline calculations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-vehicleCategory"
+<div id="sdk-for-android-explore-vehicleCategory"
     class="section detail">
 
     ### vehicleCategory
@@ -463,8 +456,7 @@ for offline calculations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-emissionType"
+<div id="sdk-for-android-explore-emissionType"
     class="section detail">
 
     ### emissionType
@@ -486,8 +478,7 @@ for offline calculations.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-co2Class" class="section detail">
+<div id="sdk-for-android-explore-co2Class" class="section detail">
 
     ### co2Class
 
@@ -513,11 +504,9 @@ for offline calculations.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TollOptions
 
@@ -536,11 +525,9 @@ for offline calculations.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -564,8 +551,7 @@ for offline calculations.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

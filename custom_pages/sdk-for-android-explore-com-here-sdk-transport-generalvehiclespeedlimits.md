@@ -37,8 +37,7 @@ Contains the speed limits for vehicles in a country / state.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -259,8 +258,7 @@ Contains the speed limits for vehicles in a country / state.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -302,8 +300,7 @@ Contains the speed limits for vehicles in a country / state.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -410,11 +407,9 @@ Contains the speed limits for vehicles in a country / state.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-maxSpeedHighwaysInMetersPerSecond"
+<div id="sdk-for-android-explore-maxSpeedHighwaysInMetersPerSecond"
     class="section detail">
 
     ### maxSpeedHighwaysInMetersPerSecond
@@ -437,8 +432,7 @@ Contains the speed limits for vehicles in a country / state.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxSpeedRuralInMetersPerSecond"
+<div id="sdk-for-android-explore-maxSpeedRuralInMetersPerSecond"
     class="section detail">
 
     ### maxSpeedRuralInMetersPerSecond
@@ -461,8 +455,7 @@ Contains the speed limits for vehicles in a country / state.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxSpeedUrbanInMetersPerSecond"
+<div id="sdk-for-android-explore-maxSpeedUrbanInMetersPerSecond"
     class="section detail">
 
     ### maxSpeedUrbanInMetersPerSecond
@@ -485,8 +478,7 @@ Contains the speed limits for vehicles in a country / state.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxSpeedRainingInMetersPerSecond"
+<div id="sdk-for-android-explore-maxSpeedRainingInMetersPerSecond"
     class="section detail">
 
     ### maxSpeedRainingInMetersPerSecond
@@ -509,8 +501,7 @@ Contains the speed limits for vehicles in a country / state.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxSpeedSnowingInMetersPerSecond"
+<div id="sdk-for-android-explore-maxSpeedSnowingInMetersPerSecond"
     class="section detail">
 
     ### maxSpeedSnowingInMetersPerSecond
@@ -533,8 +524,7 @@ Contains the speed limits for vehicles in a country / state.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxSpeedNightInMetersPerSecond"
+<div id="sdk-for-android-explore-maxSpeedNightInMetersPerSecond"
     class="section detail">
 
     ### maxSpeedNightInMetersPerSecond
@@ -557,8 +547,7 @@ Contains the speed limits for vehicles in a country / state.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-minSpeedHighwaysInMetersPerSecond"
+<div id="sdk-for-android-explore-minSpeedHighwaysInMetersPerSecond"
     class="section detail">
 
     ### minSpeedHighwaysInMetersPerSecond
@@ -583,11 +572,9 @@ Contains the speed limits for vehicles in a country / state.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### GeneralVehicleSpeedLimits
 
@@ -606,11 +593,9 @@ Contains the speed limits for vehicles in a country / state.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -634,8 +619,7 @@ Contains the speed limits for vehicles in a country / state.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

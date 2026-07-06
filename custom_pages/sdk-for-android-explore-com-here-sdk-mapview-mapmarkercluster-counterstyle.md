@@ -41,8 +41,7 @@ count as a text.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -198,8 +197,7 @@ count as a text.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -241,8 +239,7 @@ count as a text.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -293,11 +290,9 @@ count as a text.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-textColor" class="section detail">
+<div id="sdk-for-android-explore-textColor" class="section detail">
 
     ### textColor
 
@@ -315,8 +310,7 @@ count as a text.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-fontSize" class="section detail">
+<div id="sdk-for-android-explore-fontSize" class="section detail">
 
     ### fontSize
 
@@ -333,8 +327,7 @@ count as a text.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-textAnchor" class="section detail">
+<div id="sdk-for-android-explore-textAnchor" class="section detail">
 
     ### textAnchor
 
@@ -353,8 +346,7 @@ count as a text.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxCountNumber"
+<div id="sdk-for-android-explore-maxCountNumber"
     class="section detail">
 
     ### maxCountNumber
@@ -375,8 +367,7 @@ count as a text.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-aboveMaxText"
+<div id="sdk-for-android-explore-aboveMaxText"
     class="section detail">
 
     ### aboveMaxText
@@ -400,11 +391,9 @@ count as a text.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### CounterStyle
 

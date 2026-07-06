@@ -71,8 +71,7 @@ without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -94,8 +93,7 @@ without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -287,8 +285,7 @@ without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -450,11 +447,9 @@ without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CAR" class="section detail">
+<div id="sdk-for-android-explore-CAR" class="section detail">
 
     ### CAR
 
@@ -478,8 +473,7 @@ without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRUCK" class="section detail">
+<div id="sdk-for-android-explore-TRUCK" class="section detail">
 
     ### TRUCK
 
@@ -503,8 +497,7 @@ without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BICYCLE" class="section detail">
+<div id="sdk-for-android-explore-BICYCLE" class="section detail">
 
     ### BICYCLE
 
@@ -528,8 +521,7 @@ without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUS" class="section detail">
+<div id="sdk-for-android-explore-BUS" class="section detail">
 
     ### BUS
 
@@ -553,8 +545,7 @@ without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MOTORCYCLE" class="section detail">
+<div id="sdk-for-android-explore-MOTORCYCLE" class="section detail">
 
     ### MOTORCYCLE
 
@@ -578,8 +569,7 @@ without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SCOOTER" class="section detail">
+<div id="sdk-for-android-explore-SCOOTER" class="section detail">
 
     ### SCOOTER
 
@@ -603,8 +593,7 @@ without a deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PRIVATE_BUS"
+<div id="sdk-for-android-explore-PRIVATE_BUS"
     class="section detail">
 
     ### PRIVATE_BUS
@@ -631,11 +620,9 @@ without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -664,8 +651,7 @@ without a deprecation process.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

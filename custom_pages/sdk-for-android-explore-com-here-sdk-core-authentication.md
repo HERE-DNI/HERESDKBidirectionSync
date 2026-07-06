@@ -38,8 +38,7 @@ that can be used with other HERE services.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -163,11 +162,9 @@ that can be used with other HERE services.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-authenticate(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.core.AuthenticationCallback)"
+<div id="sdk-for-android-explore-authenticate(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.core.AuthenticationCallback)"
     class="section detail">
 
     ### authenticate
@@ -200,8 +197,7 @@ that can be used with other HERE services.
     Callback to retrieve an authentication token on the main thread.
 
     </div>
-
-  - <div id="sdk-for-android-explore-authenticate(com.here.sdk.core.engine.SDKNativeEngine)"
+<div id="sdk-for-android-explore-authenticate(com.here.sdk.core.engine.SDKNativeEngine)"
     class="section detail">
 
     ### authenticate

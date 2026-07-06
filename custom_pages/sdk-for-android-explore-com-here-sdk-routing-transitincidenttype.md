@@ -53,8 +53,7 @@ Transit incident type.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ Transit incident type.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -283,8 +281,7 @@ Transit incident type.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -434,11 +431,9 @@ Transit incident type.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-TECHNICAL_PROBLEM"
+<div id="sdk-for-android-explore-TECHNICAL_PROBLEM"
     class="section detail">
 
     ### TECHNICAL_PROBLEM
@@ -457,8 +452,7 @@ Transit incident type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-STRIKE" class="section detail">
+<div id="sdk-for-android-explore-STRIKE" class="section detail">
 
     ### STRIKE
 
@@ -476,8 +470,7 @@ Transit incident type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DEMONSTRATION"
+<div id="sdk-for-android-explore-DEMONSTRATION"
     class="section detail">
 
     ### DEMONSTRATION
@@ -496,8 +489,7 @@ Transit incident type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ACCIDENT" class="section detail">
+<div id="sdk-for-android-explore-ACCIDENT" class="section detail">
 
     ### ACCIDENT
 
@@ -515,8 +507,7 @@ Transit incident type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HOLIDAY" class="section detail">
+<div id="sdk-for-android-explore-HOLIDAY" class="section detail">
 
     ### HOLIDAY
 
@@ -534,8 +525,7 @@ Transit incident type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-WEATHER" class="section detail">
+<div id="sdk-for-android-explore-WEATHER" class="section detail">
 
     ### WEATHER
 
@@ -553,8 +543,7 @@ Transit incident type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MAINTENANCE"
+<div id="sdk-for-android-explore-MAINTENANCE"
     class="section detail">
 
     ### MAINTENANCE
@@ -573,8 +562,7 @@ Transit incident type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CONSTRUCTION"
+<div id="sdk-for-android-explore-CONSTRUCTION"
     class="section detail">
 
     ### CONSTRUCTION
@@ -593,8 +581,7 @@ Transit incident type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-POLICE_ACTIVITY"
+<div id="sdk-for-android-explore-POLICE_ACTIVITY"
     class="section detail">
 
     ### POLICE_ACTIVITY
@@ -613,8 +600,7 @@ Transit incident type.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MEDICAL_EMERGENCY"
+<div id="sdk-for-android-explore-MEDICAL_EMERGENCY"
     class="section detail">
 
     ### MEDICAL_EMERGENCY
@@ -635,11 +621,9 @@ Transit incident type.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -662,8 +646,7 @@ Transit incident type.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

@@ -41,8 +41,7 @@ representation style is described through a configuration.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -187,11 +186,9 @@ representation style is described through a configuration.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-addMapIdleListener(com.here.sdk.mapview.MapIdleListener)"
+<div id="sdk-for-android-explore-addMapIdleListener(com.here.sdk.mapview.MapIdleListener)"
     class="section detail">
 
     ### addMapIdleListener
@@ -220,8 +217,7 @@ representation style is described through a configuration.
     The listener
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)"
+<div id="sdk-for-android-explore-removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)"
     class="section detail">
 
     ### removeMapIdleListener
@@ -245,8 +241,7 @@ representation style is described through a configuration.
     The listener
 
     </div>
-
-  - <div id="sdk-for-android-explore-getStyle()" class="section detail">
+<div id="sdk-for-android-explore-getStyle()" class="section detail">
 
     ### getStyle
 

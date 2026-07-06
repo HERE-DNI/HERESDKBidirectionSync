@@ -52,8 +52,7 @@ RenderSize.Unit.PIXELS is supported.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -63,8 +62,7 @@ RenderSize.Unit.PIXELS is supported.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -128,8 +126,7 @@ RenderSize.Unit.PIXELS is supported.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -316,11 +313,9 @@ RenderSize.Unit.PIXELS is supported.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)"
     class="section detail">
 
     ### SolidRepresentation
@@ -374,8 +369,7 @@ RenderSize.Unit.PIXELS is supported.
     In case of invalid input parameters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.core.Color,com.here.sdk.mapview.LineCap)"
     class="section detail">
 
     ### SolidRepresentation
@@ -445,11 +439,9 @@ RenderSize.Unit.PIXELS is supported.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getLineWidth()"
+<div id="sdk-for-android-explore-getLineWidth()"
     class="section detail">
 
     ### getLineWidth
@@ -478,8 +470,7 @@ RenderSize.Unit.PIXELS is supported.
     The width of the polyline depending on the map measure.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getLineColor()"
+<div id="sdk-for-android-explore-getLineColor()"
     class="section detail">
 
     ### getLineColor
@@ -501,8 +492,7 @@ RenderSize.Unit.PIXELS is supported.
     The color of the polyline.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getOutlineWidth()"
+<div id="sdk-for-android-explore-getOutlineWidth()"
     class="section detail">
 
     ### getOutlineWidth
@@ -534,8 +524,7 @@ RenderSize.Unit.PIXELS is supported.
     the map measure.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getOutlineColor()"
+<div id="sdk-for-android-explore-getOutlineColor()"
     class="section detail">
 
     ### getOutlineColor
@@ -557,8 +546,7 @@ RenderSize.Unit.PIXELS is supported.
     The outline color of the polyline.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCapShape()"
+<div id="sdk-for-android-explore-getCapShape()"
     class="section detail">
 
     ### getCapShape

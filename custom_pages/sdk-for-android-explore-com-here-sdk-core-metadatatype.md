@@ -53,8 +53,7 @@ instance.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ instance.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -189,8 +187,7 @@ instance.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -340,11 +337,9 @@ instance.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CUSTOM" class="section detail">
+<div id="sdk-for-android-explore-CUSTOM" class="section detail">
 
     ### CUSTOM
 
@@ -362,8 +357,7 @@ instance.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOUBLE" class="section detail">
+<div id="sdk-for-android-explore-DOUBLE" class="section detail">
 
     ### DOUBLE
 
@@ -381,8 +375,7 @@ instance.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GEO_COORDINATES"
+<div id="sdk-for-android-explore-GEO_COORDINATES"
     class="section detail">
 
     ### GEO_COORDINATES
@@ -401,8 +394,7 @@ instance.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INTEGER" class="section detail">
+<div id="sdk-for-android-explore-INTEGER" class="section detail">
 
     ### INTEGER
 
@@ -420,8 +412,7 @@ instance.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-STRING" class="section detail">
+<div id="sdk-for-android-explore-STRING" class="section detail">
 
     ### STRING
 
@@ -441,11 +432,9 @@ instance.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -468,8 +457,7 @@ instance.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

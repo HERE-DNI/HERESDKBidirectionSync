@@ -39,8 +39,7 @@ and offset respectively.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -124,8 +123,7 @@ and offset respectively.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -167,8 +165,7 @@ and offset respectively.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -275,11 +272,9 @@ and offset respectively.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-place" class="section detail">
+<div id="sdk-for-android-explore-place" class="section detail">
 
     ### place
 
@@ -297,8 +292,7 @@ and offset respectively.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-offset" class="section detail">
+<div id="sdk-for-android-explore-offset" class="section detail">
 
     ### offset
 
@@ -322,11 +316,9 @@ and offset respectively.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RoutePlace)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RoutePlace)"
     class="section detail">
 
     ### PassThroughWaypoint
@@ -352,11 +344,9 @@ and offset respectively.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -380,8 +370,7 @@ and offset respectively.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

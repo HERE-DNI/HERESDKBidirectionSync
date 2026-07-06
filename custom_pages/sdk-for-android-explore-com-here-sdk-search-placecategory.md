@@ -38,8 +38,7 @@ This class also defines a set of most commonly used categories.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -2071,8 +2070,7 @@ This class also defines a set of most commonly used categories.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -2114,8 +2112,7 @@ This class also defines a set of most commonly used categories.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -2242,11 +2239,9 @@ This class also defines a set of most commonly used categories.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-EAT_AND_DRINK"
+<div id="sdk-for-android-explore-EAT_AND_DRINK"
     class="section detail">
 
     ### EAT_AND_DRINK
@@ -2272,8 +2267,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK)
 
     </div>
-
-  - <div id="sdk-for-android-explore-EAT_AND_DRINK_RESTAURANT"
+<div id="sdk-for-android-explore-EAT_AND_DRINK_RESTAURANT"
     class="section detail">
 
     ### EAT_AND_DRINK_RESTAURANT
@@ -2299,8 +2293,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_RESTAURANT)
 
     </div>
-
-  - <div id="sdk-for-android-explore-EAT_AND_DRINK_COFFEE_TEA"
+<div id="sdk-for-android-explore-EAT_AND_DRINK_COFFEE_TEA"
     class="section detail">
 
     ### EAT_AND_DRINK_COFFEE_TEA
@@ -2326,8 +2319,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_COFFEE_TEA)
 
     </div>
-
-  - <div id="sdk-for-android-explore-GOING_OUT_ENTERTAINMENT"
+<div id="sdk-for-android-explore-GOING_OUT_ENTERTAINMENT"
     class="section detail">
 
     ### GOING_OUT_ENTERTAINMENT
@@ -2354,8 +2346,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_ENTERTAINMENT)
 
     </div>
-
-  - <div id="sdk-for-android-explore-GOING_OUT_NIGHTLIFE"
+<div id="sdk-for-android-explore-GOING_OUT_NIGHTLIFE"
     class="section detail">
 
     ### GOING_OUT_NIGHTLIFE
@@ -2381,8 +2372,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_NIGHTLIFE)
 
     </div>
-
-  - <div id="sdk-for-android-explore-GOING_OUT_CINEMA"
+<div id="sdk-for-android-explore-GOING_OUT_CINEMA"
     class="section detail">
 
     ### GOING_OUT_CINEMA
@@ -2407,8 +2397,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_CINEMA)
 
     </div>
-
-  - <div id="sdk-for-android-explore-GOING_OUT_THEATRE_MUSIC_CULTURE"
+<div id="sdk-for-android-explore-GOING_OUT_THEATRE_MUSIC_CULTURE"
     class="section detail">
 
     ### GOING_OUT_THEATRE_MUSIC_CULTURE
@@ -2434,8 +2423,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_THEATRE_MUSIC_CULTURE)
 
     </div>
-
-  - <div id="sdk-for-android-explore-GOING_OUT_GAMBLING_LOTTERY_BETTING"
+<div id="sdk-for-android-explore-GOING_OUT_GAMBLING_LOTTERY_BETTING"
     class="section detail">
 
     ### GOING_OUT_GAMBLING_LOTTERY_BETTING
@@ -2460,8 +2448,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_GAMBLING_LOTTERY_BETTING)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SIGHTS_AND_MUSEUMS"
+<div id="sdk-for-android-explore-SIGHTS_AND_MUSEUMS"
     class="section detail">
 
     ### SIGHTS_AND_MUSEUMS
@@ -2487,8 +2474,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_AND_MUSEUMS)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SIGHTS_LANDMARK_ATTRACTION"
+<div id="sdk-for-android-explore-SIGHTS_LANDMARK_ATTRACTION"
     class="section detail">
 
     ### SIGHTS_LANDMARK_ATTRACTION
@@ -2513,8 +2499,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_LANDMARK_ATTRACTION)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SIGHTS_MUSEUM"
+<div id="sdk-for-android-explore-SIGHTS_MUSEUM"
     class="section detail">
 
     ### SIGHTS_MUSEUM
@@ -2540,8 +2525,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_MUSEUM)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SIGHTS_RELIGIOUS_PLACE"
+<div id="sdk-for-android-explore-SIGHTS_RELIGIOUS_PLACE"
     class="section detail">
 
     ### SIGHTS_RELIGIOUS_PLACE
@@ -2567,8 +2551,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_RELIGIOUS_PLACE)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL"
+<div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL
@@ -2595,8 +2578,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER"
+<div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER
@@ -2622,8 +2604,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL"
+<div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL
@@ -2649,8 +2630,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE"
+<div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE
@@ -2675,8 +2655,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION"
+<div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION
@@ -2702,8 +2681,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_OTHER"
+<div id="sdk-for-android-explore-NATURAL_AND_GEOGRAPHICAL_OTHER"
     class="section detail">
 
     ### NATURAL_AND_GEOGRAPHICAL_OTHER
@@ -2729,8 +2707,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_OTHER)
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRANSPORT" class="section detail">
+<div id="sdk-for-android-explore-TRANSPORT" class="section detail">
 
     ### TRANSPORT
 
@@ -2756,8 +2733,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT)
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRANSPORT_AIRPORT"
+<div id="sdk-for-android-explore-TRANSPORT_AIRPORT"
     class="section detail">
 
     ### TRANSPORT_AIRPORT
@@ -2784,8 +2760,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_AIRPORT)
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRANSPORT_PUBLIC"
+<div id="sdk-for-android-explore-TRANSPORT_PUBLIC"
     class="section detail">
 
     ### TRANSPORT_PUBLIC
@@ -2811,8 +2786,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_PUBLIC)
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRANSPORT_CARGO"
+<div id="sdk-for-android-explore-TRANSPORT_CARGO"
     class="section detail">
 
     ### TRANSPORT_CARGO
@@ -2838,8 +2812,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_CARGO)
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRANSPORT_REST_AREA"
+<div id="sdk-for-android-explore-TRANSPORT_REST_AREA"
     class="section detail">
 
     ### TRANSPORT_REST_AREA
@@ -2865,8 +2838,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_REST_AREA)
 
     </div>
-
-  - <div id="sdk-for-android-explore-ACCOMMODATION"
+<div id="sdk-for-android-explore-ACCOMMODATION"
     class="section detail">
 
     ### ACCOMMODATION
@@ -2893,8 +2865,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION)
 
     </div>
-
-  - <div id="sdk-for-android-explore-ACCOMMODATION_HOTEL_MOTEL"
+<div id="sdk-for-android-explore-ACCOMMODATION_HOTEL_MOTEL"
     class="section detail">
 
     ### ACCOMMODATION_HOTEL_MOTEL
@@ -2919,8 +2890,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_HOTEL_MOTEL)
 
     </div>
-
-  - <div id="sdk-for-android-explore-ACCOMMODATION_LODGING"
+<div id="sdk-for-android-explore-ACCOMMODATION_LODGING"
     class="section detail">
 
     ### ACCOMMODATION_LODGING
@@ -2946,8 +2916,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_LODGING)
 
     </div>
-
-  - <div id="sdk-for-android-explore-LEISURE_AND_OUTDOOR"
+<div id="sdk-for-android-explore-LEISURE_AND_OUTDOOR"
     class="section detail">
 
     ### LEISURE_AND_OUTDOOR
@@ -2974,8 +2943,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_AND_OUTDOOR)
 
     </div>
-
-  - <div id="sdk-for-android-explore-LEISURE_OUTDOOR_RECREATION"
+<div id="sdk-for-android-explore-LEISURE_OUTDOOR_RECREATION"
     class="section detail">
 
     ### LEISURE_OUTDOOR_RECREATION
@@ -3000,8 +2968,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OUTDOOR_RECREATION)
 
     </div>
-
-  - <div id="sdk-for-android-explore-LEISURE_OTHER"
+<div id="sdk-for-android-explore-LEISURE_OTHER"
     class="section detail">
 
     ### LEISURE_OTHER
@@ -3027,8 +2994,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OTHER)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHOPPING" class="section detail">
+<div id="sdk-for-android-explore-SHOPPING" class="section detail">
 
     ### SHOPPING
 
@@ -3054,8 +3020,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHOPPING_CONVENIENCE_STORE"
+<div id="sdk-for-android-explore-SHOPPING_CONVENIENCE_STORE"
     class="section detail">
 
     ### SHOPPING_CONVENIENCE_STORE
@@ -3081,8 +3046,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONVENIENCE_STORE)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHOPPING_MALL_COMPLEX"
+<div id="sdk-for-android-explore-SHOPPING_MALL_COMPLEX"
     class="section detail">
 
     ### SHOPPING_MALL_COMPLEX
@@ -3108,8 +3072,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_MALL_COMPLEX)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHOPPING_DEPARTMENT_STORE"
+<div id="sdk-for-android-explore-SHOPPING_DEPARTMENT_STORE"
     class="section detail">
 
     ### SHOPPING_DEPARTMENT_STORE
@@ -3135,8 +3098,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DEPARTMENT_STORE)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHOPPING_FOOD_AND_DRINK"
+<div id="sdk-for-android-explore-SHOPPING_FOOD_AND_DRINK"
     class="section detail">
 
     ### SHOPPING_FOOD_AND_DRINK
@@ -3162,8 +3124,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_FOOD_AND_DRINK)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHOPPING_DRUGSTORE_PHARMACY"
+<div id="sdk-for-android-explore-SHOPPING_DRUGSTORE_PHARMACY"
     class="section detail">
 
     ### SHOPPING_DRUGSTORE_PHARMACY
@@ -3189,8 +3150,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DRUGSTORE_PHARMACY)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHOPPING_ELECTRONICS"
+<div id="sdk-for-android-explore-SHOPPING_ELECTRONICS"
     class="section detail">
 
     ### SHOPPING_ELECTRONICS
@@ -3216,8 +3176,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_ELECTRONICS)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHOPPING_HARDWARE_HOUSE_GARDEN"
+<div id="sdk-for-android-explore-SHOPPING_HARDWARE_HOUSE_GARDEN"
     class="section detail">
 
     ### SHOPPING_HARDWARE_HOUSE_GARDEN
@@ -3243,8 +3202,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HARDWARE_HOUSE_GARDEN)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHOPPING_BOOKSTORE"
+<div id="sdk-for-android-explore-SHOPPING_BOOKSTORE"
     class="section detail">
 
     ### SHOPPING_BOOKSTORE
@@ -3269,8 +3227,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_BOOKSTORE)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHOPPING_CLOTHING_AND_ACCESORIES"
+<div id="sdk-for-android-explore-SHOPPING_CLOTHING_AND_ACCESORIES"
     class="section detail">
 
     ### SHOPPING_CLOTHING_AND_ACCESORIES
@@ -3296,8 +3253,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CLOTHING_AND_ACCESORIES)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHOPPING_CONSUMER_GOODS"
+<div id="sdk-for-android-explore-SHOPPING_CONSUMER_GOODS"
     class="section detail">
 
     ### SHOPPING_CONSUMER_GOODS
@@ -3322,8 +3278,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONSUMER_GOODS)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHOPPING_HAIR_AND_BEAUTY"
+<div id="sdk-for-android-explore-SHOPPING_HAIR_AND_BEAUTY"
     class="section detail">
 
     ### SHOPPING_HAIR_AND_BEAUTY
@@ -3350,8 +3305,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HAIR_AND_BEAUTY)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES
@@ -3378,8 +3332,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_BANKING"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_BANKING"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_BANKING
@@ -3405,8 +3358,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_BANKING)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_ATM"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_ATM"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_ATM
@@ -3432,8 +3384,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_ATM)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_MONEY_CASH"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_MONEY_CASH"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_MONEY_CASH
@@ -3458,8 +3409,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_MONEY_CASH)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA
@@ -3484,8 +3434,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_COMMERCIAL_SERVICES"
+<div id="sdk-for-android-explore-BUSINESS_AND_COMMERCIAL_SERVICES"
     class="section detail">
 
     ### BUSINESS_AND_COMMERCIAL_SERVICES
@@ -3511,8 +3460,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_COMMERCIAL_SERVICES)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_INDUSTRY"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_INDUSTRY"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_INDUSTRY
@@ -3538,8 +3486,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_INDUSTRY)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY
@@ -3564,8 +3511,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_CONSUMER_SERVICES"
+<div id="sdk-for-android-explore-BUSINESS_AND_CONSUMER_SERVICES"
     class="section detail">
 
     ### BUSINESS_AND_CONSUMER_SERVICES
@@ -3591,8 +3537,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_CONSUMER_SERVICES)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_POST_OFFICE"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_POST_OFFICE"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_POST_OFFICE
@@ -3618,8 +3563,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POST_OFFICE)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_TOURIST_INFORMATION"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_TOURIST_INFORMATION"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_TOURIST_INFORMATION
@@ -3646,8 +3590,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TOURIST_INFORMATION)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_FUELING_STATION"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_FUELING_STATION"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_FUELING_STATION
@@ -3673,8 +3616,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_FUELING_STATION)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION
@@ -3699,8 +3641,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_EV_CHARGING_STATION"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_EV_CHARGING_STATION"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_EV_CHARGING_STATION
@@ -3725,8 +3666,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_DEALER_SALES"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_DEALER_SALES"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_CAR_DEALER_SALES
@@ -3751,8 +3691,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_DEALER_SALES)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES
@@ -3777,8 +3716,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_RENTAL"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_CAR_RENTAL"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_CAR_RENTAL
@@ -3803,8 +3741,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_RENTAL)
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER"
+<div id="sdk-for-android-explore-BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER"
     class="section detail">
 
     ### BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER
@@ -3829,8 +3766,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER)
 
     </div>
-
-  - <div id="sdk-for-android-explore-FACILITIES" class="section detail">
+<div id="sdk-for-android-explore-FACILITIES" class="section detail">
 
     ### FACILITIES
 
@@ -3856,8 +3792,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES)
 
     </div>
-
-  - <div id="sdk-for-android-explore-FACILITIES_HOSPITAL_HEALTHCARE"
+<div id="sdk-for-android-explore-FACILITIES_HOSPITAL_HEALTHCARE"
     class="section detail">
 
     ### FACILITIES_HOSPITAL_HEALTHCARE
@@ -3883,8 +3818,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_HOSPITAL_HEALTHCARE)
 
     </div>
-
-  - <div id="sdk-for-android-explore-FACILITIES_GOVERNMENT_COMMUNITTY"
+<div id="sdk-for-android-explore-FACILITIES_GOVERNMENT_COMMUNITTY"
     class="section detail">
 
     ### FACILITIES_GOVERNMENT_COMMUNITTY
@@ -3909,8 +3843,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_GOVERNMENT_COMMUNITTY)
 
     </div>
-
-  - <div id="sdk-for-android-explore-FACILITIES_EDUCATION"
+<div id="sdk-for-android-explore-FACILITIES_EDUCATION"
     class="section detail">
 
     ### FACILITIES_EDUCATION
@@ -3936,8 +3869,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EDUCATION)
 
     </div>
-
-  - <div id="sdk-for-android-explore-FACILITIES_SCHOOL"
+<div id="sdk-for-android-explore-FACILITIES_SCHOOL"
     class="section detail">
 
     ### FACILITIES_SCHOOL
@@ -3963,8 +3895,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_SCHOOL)
 
     </div>
-
-  - <div id="sdk-for-android-explore-FACILITIES_LIBRARY"
+<div id="sdk-for-android-explore-FACILITIES_LIBRARY"
     class="section detail">
 
     ### FACILITIES_LIBRARY
@@ -3990,8 +3921,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_LIBRARY)
 
     </div>
-
-  - <div id="sdk-for-android-explore-FACILITIES_EVENT_SPACES"
+<div id="sdk-for-android-explore-FACILITIES_EVENT_SPACES"
     class="section detail">
 
     ### FACILITIES_EVENT_SPACES
@@ -4016,8 +3946,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EVENT_SPACES)
 
     </div>
-
-  - <div id="sdk-for-android-explore-FACILITIES_PARKING"
+<div id="sdk-for-android-explore-FACILITIES_PARKING"
     class="section detail">
 
     ### FACILITIES_PARKING
@@ -4042,8 +3971,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_PARKING)
 
     </div>
-
-  - <div id="sdk-for-android-explore-FACILITIES_VENUE_SPORTS"
+<div id="sdk-for-android-explore-FACILITIES_VENUE_SPORTS"
     class="section detail">
 
     ### FACILITIES_VENUE_SPORTS
@@ -4069,8 +3997,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_VENUE_SPORTS)
 
     </div>
-
-  - <div id="sdk-for-android-explore-FACILITIES_OTHER"
+<div id="sdk-for-android-explore-FACILITIES_OTHER"
     class="section detail">
 
     ### FACILITIES_OTHER
@@ -4096,8 +4023,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_OTHER)
 
     </div>
-
-  - <div id="sdk-for-android-explore-AREAS_AND_BUILDINGS"
+<div id="sdk-for-android-explore-AREAS_AND_BUILDINGS"
     class="section detail">
 
     ### AREAS_AND_BUILDINGS
@@ -4124,8 +4050,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS)
 
     </div>
-
-  - <div id="sdk-for-android-explore-AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX"
+<div id="sdk-for-android-explore-AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX"
     class="section detail">
 
     ### AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX
@@ -4151,8 +4076,7 @@ This class also defines a set of most commonly used categories.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX)
 
     </div>
-
-  - <div id="sdk-for-android-explore-AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE"
+<div id="sdk-for-android-explore-AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE"
     class="section detail">
 
     ### AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE
@@ -4179,11 +4103,9 @@ This class also defines a set of most commonly used categories.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String)"
+<div id="sdk-for-android-explore-<init>(java.lang.String)"
     class="section detail">
 
     ### PlaceCategory
@@ -4229,11 +4151,9 @@ This class also defines a set of most commonly used categories.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getId()" class="section detail">
+<div id="sdk-for-android-explore-getId()" class="section detail">
 
     ### getId
 
@@ -4256,8 +4176,7 @@ This class also defines a set of most commonly used categories.
     Place category ID.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getName()" class="section detail">
+<div id="sdk-for-android-explore-getName()" class="section detail">
 
     ### getName
 

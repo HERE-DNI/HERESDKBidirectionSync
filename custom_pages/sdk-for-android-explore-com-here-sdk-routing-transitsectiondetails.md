@@ -37,8 +37,7 @@ Gives the details of a transit section.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -227,8 +226,7 @@ Gives the details of a transit section.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -270,8 +268,7 @@ Gives the details of a transit section.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -378,11 +375,9 @@ Gives the details of a transit section.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-transport" class="section detail">
+<div id="sdk-for-android-explore-transport" class="section detail">
 
     ### transport
 
@@ -400,8 +395,7 @@ Gives the details of a transit section.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-intermediateStops"
+<div id="sdk-for-android-explore-intermediateStops"
     class="section detail">
 
     ### intermediateStops
@@ -423,8 +417,7 @@ Gives the details of a transit section.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-agency" class="section detail">
+<div id="sdk-for-android-explore-agency" class="section detail">
 
     ### agency
 
@@ -442,8 +435,7 @@ Gives the details of a transit section.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-attributions"
+<div id="sdk-for-android-explore-attributions"
     class="section detail">
 
     ### attributions
@@ -464,8 +456,7 @@ Gives the details of a transit section.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-fares" class="section detail">
+<div id="sdk-for-android-explore-fares" class="section detail">
 
     ### fares
 
@@ -487,8 +478,7 @@ Gives the details of a transit section.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-incidents" class="section detail">
+<div id="sdk-for-android-explore-incidents" class="section detail">
 
     ### incidents
 
@@ -510,11 +500,9 @@ Gives the details of a transit section.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.Agency)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.Agency)"
     class="section detail">
 
     ### TransitSectionDetails
@@ -540,11 +528,9 @@ Gives the details of a transit section.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -568,8 +554,7 @@ Gives the details of a transit section.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

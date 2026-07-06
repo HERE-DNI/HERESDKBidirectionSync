@@ -38,8 +38,7 @@ from a specific location on it.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -174,8 +173,7 @@ from a specific location on it.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -258,8 +256,7 @@ from a specific location on it.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -366,11 +363,9 @@ from a specific location on it.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-routeHandle"
+<div id="sdk-for-android-explore-routeHandle"
     class="section detail">
 
     ### routeHandle
@@ -389,8 +384,7 @@ from a specific location on it.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-startingPoint"
+<div id="sdk-for-android-explore-startingPoint"
     class="section detail">
 
     ### startingPoint
@@ -424,8 +418,7 @@ from a specific location on it.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-startingSectionIndex"
+<div id="sdk-for-android-explore-startingSectionIndex"
     class="section detail">
 
     ### startingSectionIndex
@@ -451,8 +444,7 @@ from a specific location on it.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-traveledDistanceOnStartingSectionInMeters"
+<div id="sdk-for-android-explore-traveledDistanceOnStartingSectionInMeters"
     class="section detail">
 
     ### traveledDistanceOnStartingSectionInMeters
@@ -479,11 +471,9 @@ from a specific location on it.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)"
     class="section detail">
 
     ### RefreshRouteParameters
@@ -514,8 +504,7 @@ from a specific location on it.
     Identify the new starting point of the route.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,int,int)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,int,int)"
     class="section detail">
 
     ### RefreshRouteParameters
@@ -551,8 +540,7 @@ from a specific location on it.
     already traveled.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)"
     class="section detail">
 
     ### RefreshRouteParameters
@@ -596,11 +584,9 @@ from a specific location on it.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -624,8 +610,7 @@ from a specific location on it.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

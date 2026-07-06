@@ -45,8 +45,7 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -351,11 +350,9 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getAttributeNames()"
+<div id="sdk-for-android-explore-getAttributeNames()"
     class="section detail">
 
     ### getAttributeNames
@@ -385,8 +382,7 @@ APIs may change for new releases without a deprecation process.
     The list of attribute names.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getValueType(java.lang.String)"
+<div id="sdk-for-android-explore-getValueType(java.lang.String)"
     class="section detail">
 
     ### getValueType
@@ -421,8 +417,7 @@ APIs may change for new releases without a deprecation process.
     Attribute value type or `null` if it is not contained.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getAsString(java.lang.String)"
+<div id="sdk-for-android-explore-getAsString(java.lang.String)"
     class="section detail">
 
     ### getAsString
@@ -459,8 +454,7 @@ APIs may change for new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getString(java.lang.String)"
+<div id="sdk-for-android-explore-getString(java.lang.String)"
     class="section detail">
 
     ### getString
@@ -497,8 +491,7 @@ APIs may change for new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getInt64(java.lang.String)"
+<div id="sdk-for-android-explore-getInt64(java.lang.String)"
     class="section detail">
 
     ### getInt64
@@ -535,8 +528,7 @@ APIs may change for new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getFloat(java.lang.String)"
+<div id="sdk-for-android-explore-getFloat(java.lang.String)"
     class="section detail">
 
     ### getFloat
@@ -573,8 +565,7 @@ APIs may change for new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDouble(java.lang.String)"
+<div id="sdk-for-android-explore-getDouble(java.lang.String)"
     class="section detail">
 
     ### getDouble
@@ -611,8 +602,7 @@ APIs may change for new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getBoolean(java.lang.String)"
+<div id="sdk-for-android-explore-getBoolean(java.lang.String)"
     class="section detail">
 
     ### getBoolean
@@ -650,8 +640,7 @@ APIs may change for new releases without a deprecation process.
     Attribute value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getValue(java.lang.String)"
+<div id="sdk-for-android-explore-getValue(java.lang.String)"
     class="section detail">
 
     ### getValue

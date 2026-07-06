@@ -54,8 +54,7 @@ and the potential danger posed by the goods transported through them.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -77,8 +76,7 @@ and the potential danger posed by the goods transported through them.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -176,8 +174,7 @@ and the potential danger posed by the goods transported through them.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -327,11 +324,9 @@ and the potential danger posed by the goods transported through them.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-B" class="section detail">
+<div id="sdk-for-android-explore-B" class="section detail">
 
     ### B
 
@@ -350,8 +345,7 @@ and the potential danger posed by the goods transported through them.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-C" class="section detail">
+<div id="sdk-for-android-explore-C" class="section detail">
 
     ### C
 
@@ -371,8 +365,7 @@ and the potential danger posed by the goods transported through them.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-D" class="section detail">
+<div id="sdk-for-android-explore-D" class="section detail">
 
     ### D
 
@@ -391,8 +384,7 @@ and the potential danger posed by the goods transported through them.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-E" class="section detail">
+<div id="sdk-for-android-explore-E" class="section detail">
 
     ### E
 
@@ -414,11 +406,9 @@ and the potential danger posed by the goods transported through them.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -441,8 +431,7 @@ and the potential danger posed by the goods transported through them.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

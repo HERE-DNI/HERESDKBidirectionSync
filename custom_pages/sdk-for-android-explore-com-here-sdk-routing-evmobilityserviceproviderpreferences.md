@@ -45,8 +45,7 @@ prioritization.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -171,8 +170,7 @@ prioritization.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -214,8 +212,7 @@ prioritization.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -322,11 +319,9 @@ prioritization.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-high" class="section detail">
+<div id="sdk-for-android-explore-high" class="section detail">
 
     ### high
 
@@ -349,8 +344,7 @@ prioritization.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-medium" class="section detail">
+<div id="sdk-for-android-explore-medium" class="section detail">
 
     ### medium
 
@@ -373,8 +367,7 @@ prioritization.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-low" class="section detail">
+<div id="sdk-for-android-explore-low" class="section detail">
 
     ### low
 
@@ -399,11 +392,9 @@ prioritization.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### EVMobilityServiceProviderPreferences
 
@@ -422,11 +413,9 @@ prioritization.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -450,8 +439,7 @@ prioritization.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

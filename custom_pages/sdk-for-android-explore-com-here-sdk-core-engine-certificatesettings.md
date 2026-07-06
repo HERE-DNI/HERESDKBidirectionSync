@@ -37,8 +37,7 @@ Certificate settings to be used by Curl+OpenSSL for authority
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -158,8 +157,7 @@ Certificate settings to be used by Curl+OpenSSL for authority
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -202,8 +200,7 @@ Certificate settings to be used by Curl+OpenSSL for authority
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -310,11 +307,9 @@ Certificate settings to be used by Curl+OpenSSL for authority
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-clientCertFileBlob"
+<div id="sdk-for-android-explore-clientCertFileBlob"
     class="section detail">
 
     ### clientCertFileBlob
@@ -340,8 +335,7 @@ Certificate settings to be used by Curl+OpenSSL for authority
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-clientKeyFileBlob"
+<div id="sdk-for-android-explore-clientKeyFileBlob"
     class="section detail">
 
     ### clientKeyFileBlob
@@ -366,8 +360,7 @@ Certificate settings to be used by Curl+OpenSSL for authority
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-certFileBlob"
+<div id="sdk-for-android-explore-certFileBlob"
     class="section detail">
 
     ### certFileBlob
@@ -395,11 +388,9 @@ Certificate settings to be used by Curl+OpenSSL for authority
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### CertificateSettings
@@ -443,11 +434,9 @@ Certificate settings to be used by Curl+OpenSSL for authority
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -471,8 +460,7 @@ Certificate settings to be used by Curl+OpenSSL for authority
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

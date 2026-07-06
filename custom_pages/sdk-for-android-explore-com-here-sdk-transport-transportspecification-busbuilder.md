@@ -42,8 +42,7 @@ This class constructs a TransportSpecification for a bus.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -85,8 +84,7 @@ This class constructs a TransportSpecification for a bus.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -209,11 +207,9 @@ This class constructs a TransportSpecification for a bus.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### BusBuilder
 
@@ -232,11 +228,9 @@ This class constructs a TransportSpecification for a bus.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)"
+<div id="sdk-for-android-explore-withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)"
     class="section detail">
 
     ### withVehicleSpecification
@@ -266,8 +260,7 @@ This class constructs a TransportSpecification for a bus.
     object with the vehicle specification set to the new value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-build()" class="section detail">
+<div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

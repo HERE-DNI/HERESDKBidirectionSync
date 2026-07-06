@@ -53,8 +53,7 @@ Technology or provider of the location.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ Technology or provider of the location.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -193,8 +191,7 @@ Technology or provider of the location.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -344,11 +341,9 @@ Technology or provider of the location.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CELLULAR" class="section detail">
+<div id="sdk-for-android-explore-CELLULAR" class="section detail">
 
     ### CELLULAR
 
@@ -366,8 +361,7 @@ Technology or provider of the location.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GNSS" class="section detail">
+<div id="sdk-for-android-explore-GNSS" class="section detail">
 
     ### GNSS
 
@@ -385,8 +379,7 @@ Technology or provider of the location.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HD_GNSS" class="section detail">
+<div id="sdk-for-android-explore-HD_GNSS" class="section detail">
 
     ### HD_GNSS
 
@@ -404,8 +397,7 @@ Technology or provider of the location.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-WIFI" class="section detail">
+<div id="sdk-for-android-explore-WIFI" class="section detail">
 
     ### WIFI
 
@@ -423,8 +415,7 @@ Technology or provider of the location.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DEAD_RECKONING"
+<div id="sdk-for-android-explore-DEAD_RECKONING"
     class="section detail">
 
     ### DEAD_RECKONING
@@ -445,11 +436,9 @@ Technology or provider of the location.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -472,8 +461,7 @@ Technology or provider of the location.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

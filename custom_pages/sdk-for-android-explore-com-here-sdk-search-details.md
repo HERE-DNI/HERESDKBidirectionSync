@@ -38,8 +38,7 @@ opening hours and assigned categories.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -401,8 +400,7 @@ opening hours and assigned categories.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -603,8 +601,7 @@ opening hours and assigned categories.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -736,11 +733,9 @@ opening hours and assigned categories.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-contacts" class="section detail">
+<div id="sdk-for-android-explore-contacts" class="section detail">
 
     ### contacts
 
@@ -761,8 +756,7 @@ opening hours and assigned categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-openingHours"
+<div id="sdk-for-android-explore-openingHours"
     class="section detail">
 
     ### openingHours
@@ -784,8 +778,7 @@ opening hours and assigned categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-categories" class="section detail">
+<div id="sdk-for-android-explore-categories" class="section detail">
 
     ### categories
 
@@ -805,8 +798,7 @@ opening hours and assigned categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-images" class="section detail">
+<div id="sdk-for-android-explore-images" class="section detail">
 
     ### images
 
@@ -830,8 +822,7 @@ opening hours and assigned categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-editorials" class="section detail">
+<div id="sdk-for-android-explore-editorials" class="section detail">
 
     ### editorials
 
@@ -855,8 +846,7 @@ opening hours and assigned categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ratings" class="section detail">
+<div id="sdk-for-android-explore-ratings" class="section detail">
 
     ### ratings
 
@@ -880,8 +870,7 @@ opening hours and assigned categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-references" class="section detail">
+<div id="sdk-for-android-explore-references" class="section detail">
 
     ### references
 
@@ -904,8 +893,7 @@ opening hours and assigned categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-evChargingPool"
+<div id="sdk-for-android-explore-evChargingPool"
     class="section detail">
 
     ### evChargingPool
@@ -935,8 +923,7 @@ opening hours and assigned categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-truckAmenities"
+<div id="sdk-for-android-explore-truckAmenities"
     class="section detail">
 
     ### truckAmenities
@@ -974,8 +961,7 @@ opening hours and assigned categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-fuelStation"
+<div id="sdk-for-android-explore-fuelStation"
     class="section detail">
 
     ### fuelStation
@@ -1013,8 +999,7 @@ opening hours and assigned categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-foodTypes" class="section detail">
+<div id="sdk-for-android-explore-foodTypes" class="section detail">
 
     ### foodTypes
 
@@ -1035,8 +1020,7 @@ opening hours and assigned categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-payment" class="section detail">
+<div id="sdk-for-android-explore-payment" class="section detail">
 
     ### payment
 
@@ -1059,8 +1043,7 @@ opening hours and assigned categories.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-evChargingLocation"
+<div id="sdk-for-android-explore-evChargingLocation"
     class="section detail">
 
     ### evChargingLocation
@@ -1085,11 +1068,9 @@ opening hours and assigned categories.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List)"
     class="section detail">
 
     ### Details
@@ -1181,8 +1162,7 @@ opening hours and assigned categories.
     contracts, the list is empty.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool)"
+<div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool)"
     class="section detail">
 
     ### Details
@@ -1299,8 +1279,7 @@ opening hours and assigned categories.
     be combined as "ev,truck", "ev,truck,fuel" etc.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities)"
+<div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities)"
     class="section detail">
 
     ### Details
@@ -1451,8 +1430,7 @@ opening hours and assigned categories.
     deprecation process.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation)"
+<div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation)"
     class="section detail">
 
     ### Details
@@ -1637,8 +1615,7 @@ opening hours and assigned categories.
     deprecation process.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation,java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation,java.util.List)"
     class="section detail">
 
     ### Details
@@ -1831,8 +1808,7 @@ opening hours and assigned categories.
     `OfflineSearchEngine` (only available for the Navigate license).
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation,java.util.List,com.here.sdk.search.POIPaymentDetails)"
+<div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation,java.util.List,com.here.sdk.search.POIPaymentDetails)"
     class="section detail">
 
     ### Details
@@ -2036,8 +2012,7 @@ opening hours and assigned categories.
     change for new releases without a deprecation process.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation,java.util.List,com.here.sdk.search.POIPaymentDetails,com.here.sdk.search.EVChargingLocation)"
+<div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,java.util.List,com.here.sdk.search.EVChargingPool,com.here.sdk.search.TruckAmenities,com.here.sdk.search.FuelStation,java.util.List,com.here.sdk.search.POIPaymentDetails,com.here.sdk.search.EVChargingLocation)"
     class="section detail">
 
     ### Details
@@ -2253,11 +2228,9 @@ opening hours and assigned categories.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -2281,8 +2254,7 @@ opening hours and assigned categories.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -2303,8 +2275,7 @@ opening hours and assigned categories.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPrimaryCategories()"
+<div id="sdk-for-android-explore-getPrimaryCategories()"
     class="section detail">
 
     ### getPrimaryCategories

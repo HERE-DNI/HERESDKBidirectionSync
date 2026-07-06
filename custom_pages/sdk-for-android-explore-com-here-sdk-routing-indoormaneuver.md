@@ -38,8 +38,7 @@ Represents a maneuver within an indoor section.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -314,11 +313,9 @@ Represents a maneuver within an indoor section.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getAction()"
+<div id="sdk-for-android-explore-getAction()"
     class="section detail">
 
     ### getAction
@@ -340,8 +337,7 @@ Represents a maneuver within an indoor section.
     The action type of this maneuver.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCoordinate()"
+<div id="sdk-for-android-explore-getCoordinate()"
     class="section detail">
 
     ### getCoordinate
@@ -363,8 +359,7 @@ Represents a maneuver within an indoor section.
     The geographic coordinates of this maneuver.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getOffset()"
+<div id="sdk-for-android-explore-getOffset()"
     class="section detail">
 
     ### getOffset
@@ -385,8 +380,7 @@ Represents a maneuver within an indoor section.
     The offset of this maneuver from the start of the section.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSectionIndex()"
+<div id="sdk-for-android-explore-getSectionIndex()"
     class="section detail">
 
     ### getSectionIndex
@@ -407,8 +401,7 @@ Represents a maneuver within an indoor section.
     The section index this maneuver belongs to.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getLengthInMeters()"
+<div id="sdk-for-android-explore-getLengthInMeters()"
     class="section detail">
 
     ### getLengthInMeters
@@ -429,8 +422,7 @@ Represents a maneuver within an indoor section.
     The length of this maneuver in meters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDuration()"
+<div id="sdk-for-android-explore-getDuration()"
     class="section detail">
 
     ### getDuration
@@ -452,8 +444,7 @@ Represents a maneuver within an indoor section.
     The duration to complete this maneuver.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getLevelZIndex()"
+<div id="sdk-for-android-explore-getLevelZIndex()"
     class="section detail">
 
     ### getLevelZIndex
@@ -474,8 +465,7 @@ Represents a maneuver within an indoor section.
     The vertical level index of this maneuver.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getIndoorSpaceData()"
+<div id="sdk-for-android-explore-getIndoorSpaceData()"
     class="section detail">
 
     ### getIndoorSpaceData
@@ -499,8 +489,7 @@ Represents a maneuver within an indoor section.
     the IndoorManeuverAction is ENTER_ACTION or LEAVE_ACTION.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getIndoorLevelChangeData()"
+<div id="sdk-for-android-explore-getIndoorLevelChangeData()"
     class="section detail">
 
     ### getIndoorLevelChangeData

@@ -42,8 +42,7 @@ without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -150,8 +149,7 @@ without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -193,8 +191,7 @@ without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -425,11 +422,9 @@ without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MapSceneLoadOptionsBuilder
 
@@ -448,11 +443,9 @@ without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-withMapScheme(com.here.sdk.mapview.MapScheme)"
+<div id="sdk-for-android-explore-withMapScheme(com.here.sdk.mapview.MapScheme)"
     class="section detail">
 
     ### withMapScheme
@@ -481,8 +474,7 @@ without a deprecation process.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withConfigurationFile(java.lang.String)"
+<div id="sdk-for-android-explore-withConfigurationFile(java.lang.String)"
     class="section detail">
 
     ### withConfigurationFile
@@ -513,8 +505,7 @@ without a deprecation process.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withEnabledFeatures(java.util.Map)"
+<div id="sdk-for-android-explore-withEnabledFeatures(java.util.Map)"
     class="section detail">
 
     ### withEnabledFeatures
@@ -548,8 +539,7 @@ without a deprecation process.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withDisabledFeatures(java.util.List)"
+<div id="sdk-for-android-explore-withDisabledFeatures(java.util.List)"
     class="section detail">
 
     ### withDisabledFeatures
@@ -581,8 +571,7 @@ without a deprecation process.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withWatermarkStyle(com.here.sdk.mapview.WatermarkStyle)"
+<div id="sdk-for-android-explore-withWatermarkStyle(com.here.sdk.mapview.WatermarkStyle)"
     class="section detail">
 
     ### withWatermarkStyle
@@ -610,8 +599,7 @@ without a deprecation process.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withOverridingMapStyle(com.here.sdk.mapview.Style)"
+<div id="sdk-for-android-explore-withOverridingMapStyle(com.here.sdk.mapview.Style)"
     class="section detail">
 
     ### withOverridingMapStyle
@@ -640,8 +628,7 @@ without a deprecation process.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-build()" class="section detail">
+<div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

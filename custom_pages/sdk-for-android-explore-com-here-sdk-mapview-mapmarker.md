@@ -63,8 +63,7 @@ need to be added to the map.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -121,8 +120,7 @@ need to be added to the map.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -205,8 +203,7 @@ need to be added to the map.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -867,11 +864,9 @@ need to be added to the map.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### MapMarker
@@ -903,8 +898,7 @@ need to be added to the map.
     The image to draw on the map.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,java.lang.String)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,java.lang.String)"
     class="section detail">
 
     ### MapMarker
@@ -943,8 +937,7 @@ need to be added to the map.
     The text to draw on the map.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### MapMarker
@@ -994,11 +987,9 @@ need to be added to the map.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)"
+<div id="sdk-for-android-explore-startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)"
     class="section detail">
 
     ### startAnimation
@@ -1035,8 +1026,7 @@ need to be added to the map.
     completion or cancellation.
 
     </div>
-
-  - <div id="sdk-for-android-explore-cancelAnimation(com.here.sdk.animation.MapMarkerAnimation)"
+<div id="sdk-for-android-explore-cancelAnimation(com.here.sdk.animation.MapMarkerAnimation)"
     class="section detail">
 
     ### cancelAnimation
@@ -1062,8 +1052,7 @@ need to be added to the map.
     The animation to cancel.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCoordinates()"
+<div id="sdk-for-android-explore-getCoordinates()"
     class="section detail">
 
     ### getCoordinates
@@ -1085,8 +1074,7 @@ need to be added to the map.
     The point on the map where the map marker is drawn.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setCoordinates(com.here.sdk.core.GeoCoordinates)"
+<div id="sdk-for-android-explore-setCoordinates(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### setCoordinates
@@ -1111,8 +1099,7 @@ need to be added to the map.
     The point on the map where the map marker is drawn.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getMetadata()"
+<div id="sdk-for-android-explore-getMetadata()"
     class="section detail">
 
     ### getMetadata
@@ -1136,8 +1123,7 @@ need to be added to the map.
     [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core").
 
     </div>
-
-  - <div id="sdk-for-android-explore-setMetadata(com.here.sdk.core.Metadata)"
+<div id="sdk-for-android-explore-setMetadata(com.here.sdk.core.Metadata)"
     class="section detail">
 
     ### setMetadata
@@ -1162,8 +1148,7 @@ need to be added to the map.
     [`Metadata`](sdk-for-android-explore-com-here-sdk-core-metadata "class in com.here.sdk.core").
 
     </div>
-
-  - <div id="sdk-for-android-explore-isOverlapAllowed()"
+<div id="sdk-for-android-explore-isOverlapAllowed()"
     class="section detail">
 
     ### isOverlapAllowed
@@ -1185,8 +1170,7 @@ need to be added to the map.
     Determines whether or not the marker can overlap other markers.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setOverlapAllowed(boolean)"
+<div id="sdk-for-android-explore-setOverlapAllowed(boolean)"
     class="section detail">
 
     ### setOverlapAllowed
@@ -1214,8 +1198,7 @@ need to be added to the map.
     Determines whether or not the marker can overlap other markers.
 
     </div>
-
-  - <div id="sdk-for-android-explore-isTextOptional()"
+<div id="sdk-for-android-explore-isTextOptional()"
     class="section detail">
 
     ### isTextOptional
@@ -1238,8 +1221,7 @@ need to be added to the map.
     text.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setTextOptional(boolean)"
+<div id="sdk-for-android-explore-setTextOptional(boolean)"
     class="section detail">
 
     ### setTextOptional
@@ -1267,8 +1249,7 @@ need to be added to the map.
     text.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDrawOrder()"
+<div id="sdk-for-android-explore-getDrawOrder()"
     class="section detail">
 
     ### getDrawOrder
@@ -1290,8 +1271,7 @@ need to be added to the map.
     The draw order of this marker relative to other markers.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setDrawOrder(int)"
+<div id="sdk-for-android-explore-setDrawOrder(int)"
     class="section detail">
 
     ### setDrawOrder
@@ -1319,8 +1299,7 @@ need to be added to the map.
     The draw order of this marker relative to other markers.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getImage()" class="section detail">
+<div id="sdk-for-android-explore-getImage()" class="section detail">
 
     ### getImage
 
@@ -1341,8 +1320,7 @@ need to be added to the map.
     Image representing the marker on the screen.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setImage(com.here.sdk.mapview.MapImage)"
+<div id="sdk-for-android-explore-setImage(com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### setImage
@@ -1366,8 +1344,7 @@ need to be added to the map.
     Image representing the marker on the screen.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getAnchor()"
+<div id="sdk-for-android-explore-getAnchor()"
     class="section detail">
 
     ### getAnchor
@@ -1390,8 +1367,7 @@ need to be added to the map.
     offset relative to the marker's coordinates.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setAnchor(com.here.sdk.core.Anchor2D)"
+<div id="sdk-for-android-explore-setAnchor(com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### setAnchor
@@ -1425,8 +1401,7 @@ need to be added to the map.
     offset relative to the marker's coordinates.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getOpacity()"
+<div id="sdk-for-android-explore-getOpacity()"
     class="section detail">
 
     ### getOpacity
@@ -1449,8 +1424,7 @@ need to be added to the map.
     image.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setOpacity(double)"
+<div id="sdk-for-android-explore-setOpacity(double)"
     class="section detail">
 
     ### setOpacity
@@ -1478,8 +1452,7 @@ need to be added to the map.
     image.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getFadeDuration()"
+<div id="sdk-for-android-explore-getFadeDuration()"
     class="section detail">
 
     ### getFadeDuration
@@ -1503,8 +1476,7 @@ need to be added to the map.
     fade-out effect on marker removal from a scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setFadeDuration(com.here.time.Duration)"
+<div id="sdk-for-android-explore-setFadeDuration(com.here.time.Duration)"
     class="section detail">
 
     ### setFadeDuration
@@ -1538,8 +1510,7 @@ need to be added to the map.
     fade-out effect on marker removal from a scene.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getText()" class="section detail">
+<div id="sdk-for-android-explore-getText()" class="section detail">
 
     ### getText
 
@@ -1563,8 +1534,7 @@ need to be added to the map.
     `MapMarker`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setText(java.lang.String)"
+<div id="sdk-for-android-explore-setText(java.lang.String)"
     class="section detail">
 
     ### setText
@@ -1591,8 +1561,7 @@ need to be added to the map.
     `MapMarker`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTextStyle()"
+<div id="sdk-for-android-explore-getTextStyle()"
     class="section detail">
 
     ### getTextStyle
@@ -1614,8 +1583,7 @@ need to be added to the map.
     The `TextStyle` applied to the text of the `MapMarker`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setTextStyle(com.here.sdk.mapview.MapMarker.TextStyle)"
+<div id="sdk-for-android-explore-setTextStyle(com.here.sdk.mapview.MapMarker.TextStyle)"
     class="section detail">
 
     ### setTextStyle
@@ -1639,8 +1607,7 @@ need to be added to the map.
     The `TextStyle` applied to the text of the `MapMarker`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getVisibilityRanges()"
+<div id="sdk-for-android-explore-getVisibilityRanges()"
     class="section detail">
 
     ### getVisibilityRanges
@@ -1667,8 +1634,7 @@ need to be added to the map.
     these map measure ranges.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
+<div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
     class="section detail">
 
     ### setVisibilityRanges

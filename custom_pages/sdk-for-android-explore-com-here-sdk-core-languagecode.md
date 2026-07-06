@@ -57,8 +57,7 @@ is specified, its ISO 15924 code is used.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -80,8 +79,7 @@ is specified, its ISO 15924 code is used.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -2030,8 +2028,7 @@ is specified, its ISO 15924 code is used.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -2181,11 +2178,9 @@ is specified, its ISO 15924 code is used.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-EN_US" class="section detail">
+<div id="sdk-for-android-explore-EN_US" class="section detail">
 
     ### EN_US
 
@@ -2203,8 +2198,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AF_ZA" class="section detail">
+<div id="sdk-for-android-explore-AF_ZA" class="section detail">
 
     ### AF_ZA
 
@@ -2222,8 +2216,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SQ_AL" class="section detail">
+<div id="sdk-for-android-explore-SQ_AL" class="section detail">
 
     ### SQ_AL
 
@@ -2241,8 +2234,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AM_ET" class="section detail">
+<div id="sdk-for-android-explore-AM_ET" class="section detail">
 
     ### AM_ET
 
@@ -2260,8 +2252,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AR_SA" class="section detail">
+<div id="sdk-for-android-explore-AR_SA" class="section detail">
 
     ### AR_SA
 
@@ -2279,8 +2270,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HY_AM" class="section detail">
+<div id="sdk-for-android-explore-HY_AM" class="section detail">
 
     ### HY_AM
 
@@ -2298,8 +2288,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AS_IN" class="section detail">
+<div id="sdk-for-android-explore-AS_IN" class="section detail">
 
     ### AS_IN
 
@@ -2317,8 +2306,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AZ_LATN_AZ" class="section detail">
+<div id="sdk-for-android-explore-AZ_LATN_AZ" class="section detail">
 
     ### AZ_LATN_AZ
 
@@ -2336,8 +2324,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BN_BD" class="section detail">
+<div id="sdk-for-android-explore-BN_BD" class="section detail">
 
     ### BN_BD
 
@@ -2355,8 +2342,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BN_IN" class="section detail">
+<div id="sdk-for-android-explore-BN_IN" class="section detail">
 
     ### BN_IN
 
@@ -2374,8 +2360,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-EU_ES" class="section detail">
+<div id="sdk-for-android-explore-EU_ES" class="section detail">
 
     ### EU_ES
 
@@ -2393,8 +2378,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BE_BY" class="section detail">
+<div id="sdk-for-android-explore-BE_BY" class="section detail">
 
     ### BE_BY
 
@@ -2412,8 +2396,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BS_LATN_BA" class="section detail">
+<div id="sdk-for-android-explore-BS_LATN_BA" class="section detail">
 
     ### BS_LATN_BA
 
@@ -2431,8 +2414,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BG_BG" class="section detail">
+<div id="sdk-for-android-explore-BG_BG" class="section detail">
 
     ### BG_BG
 
@@ -2450,8 +2432,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CA_ES" class="section detail">
+<div id="sdk-for-android-explore-CA_ES" class="section detail">
 
     ### CA_ES
 
@@ -2469,8 +2450,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KU_ARAB" class="section detail">
+<div id="sdk-for-android-explore-KU_ARAB" class="section detail">
 
     ### KU_ARAB
 
@@ -2488,8 +2468,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ZH_CN" class="section detail">
+<div id="sdk-for-android-explore-ZH_CN" class="section detail">
 
     ### ZH_CN
 
@@ -2507,8 +2486,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ZH_HK" class="section detail">
+<div id="sdk-for-android-explore-ZH_HK" class="section detail">
 
     ### ZH_HK
 
@@ -2526,8 +2504,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ZH_TW" class="section detail">
+<div id="sdk-for-android-explore-ZH_TW" class="section detail">
 
     ### ZH_TW
 
@@ -2545,8 +2522,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HR_HR" class="section detail">
+<div id="sdk-for-android-explore-HR_HR" class="section detail">
 
     ### HR_HR
 
@@ -2564,8 +2540,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CS_CZ" class="section detail">
+<div id="sdk-for-android-explore-CS_CZ" class="section detail">
 
     ### CS_CZ
 
@@ -2583,8 +2558,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DA_DK" class="section detail">
+<div id="sdk-for-android-explore-DA_DK" class="section detail">
 
     ### DA_DK
 
@@ -2602,8 +2576,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PRS_ARAB_AF"
+<div id="sdk-for-android-explore-PRS_ARAB_AF"
     class="section detail">
 
     ### PRS_ARAB_AF
@@ -2622,8 +2595,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NL_BE" class="section detail">
+<div id="sdk-for-android-explore-NL_BE" class="section detail">
 
     ### NL_BE
 
@@ -2641,8 +2613,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NL_NL" class="section detail">
+<div id="sdk-for-android-explore-NL_NL" class="section detail">
 
     ### NL_NL
 
@@ -2660,8 +2631,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-EN_GB" class="section detail">
+<div id="sdk-for-android-explore-EN_GB" class="section detail">
 
     ### EN_GB
 
@@ -2679,8 +2649,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ET_EE" class="section detail">
+<div id="sdk-for-android-explore-ET_EE" class="section detail">
 
     ### ET_EE
 
@@ -2698,8 +2667,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FA_IR" class="section detail">
+<div id="sdk-for-android-explore-FA_IR" class="section detail">
 
     ### FA_IR
 
@@ -2717,8 +2685,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FIL_PH" class="section detail">
+<div id="sdk-for-android-explore-FIL_PH" class="section detail">
 
     ### FIL_PH
 
@@ -2736,8 +2703,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FI_FI" class="section detail">
+<div id="sdk-for-android-explore-FI_FI" class="section detail">
 
     ### FI_FI
 
@@ -2755,8 +2721,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FR_FR" class="section detail">
+<div id="sdk-for-android-explore-FR_FR" class="section detail">
 
     ### FR_FR
 
@@ -2774,8 +2739,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FR_CA" class="section detail">
+<div id="sdk-for-android-explore-FR_CA" class="section detail">
 
     ### FR_CA
 
@@ -2793,8 +2757,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GL_ES" class="section detail">
+<div id="sdk-for-android-explore-GL_ES" class="section detail">
 
     ### GL_ES
 
@@ -2812,8 +2775,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KA_GE" class="section detail">
+<div id="sdk-for-android-explore-KA_GE" class="section detail">
 
     ### KA_GE
 
@@ -2831,8 +2793,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DE_DE" class="section detail">
+<div id="sdk-for-android-explore-DE_DE" class="section detail">
 
     ### DE_DE
 
@@ -2850,8 +2811,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-EL_GR" class="section detail">
+<div id="sdk-for-android-explore-EL_GR" class="section detail">
 
     ### EL_GR
 
@@ -2869,8 +2829,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GU_IN" class="section detail">
+<div id="sdk-for-android-explore-GU_IN" class="section detail">
 
     ### GU_IN
 
@@ -2888,8 +2847,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HA_LATN_NG" class="section detail">
+<div id="sdk-for-android-explore-HA_LATN_NG" class="section detail">
 
     ### HA_LATN_NG
 
@@ -2907,8 +2865,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HE_IL" class="section detail">
+<div id="sdk-for-android-explore-HE_IL" class="section detail">
 
     ### HE_IL
 
@@ -2926,8 +2883,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HI_IN" class="section detail">
+<div id="sdk-for-android-explore-HI_IN" class="section detail">
 
     ### HI_IN
 
@@ -2945,8 +2901,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HU_HU" class="section detail">
+<div id="sdk-for-android-explore-HU_HU" class="section detail">
 
     ### HU_HU
 
@@ -2964,8 +2919,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IS_IS" class="section detail">
+<div id="sdk-for-android-explore-IS_IS" class="section detail">
 
     ### IS_IS
 
@@ -2983,8 +2937,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IG_LATN_NG" class="section detail">
+<div id="sdk-for-android-explore-IG_LATN_NG" class="section detail">
 
     ### IG_LATN_NG
 
@@ -3002,8 +2955,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ID_ID" class="section detail">
+<div id="sdk-for-android-explore-ID_ID" class="section detail">
 
     ### ID_ID
 
@@ -3021,8 +2973,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GA_IE" class="section detail">
+<div id="sdk-for-android-explore-GA_IE" class="section detail">
 
     ### GA_IE
 
@@ -3040,8 +2991,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-XH" class="section detail">
+<div id="sdk-for-android-explore-XH" class="section detail">
 
     ### XH
 
@@ -3059,8 +3009,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ZU_ZA" class="section detail">
+<div id="sdk-for-android-explore-ZU_ZA" class="section detail">
 
     ### ZU_ZA
 
@@ -3078,8 +3027,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IT_IT" class="section detail">
+<div id="sdk-for-android-explore-IT_IT" class="section detail">
 
     ### IT_IT
 
@@ -3097,8 +3045,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-JA_JP" class="section detail">
+<div id="sdk-for-android-explore-JA_JP" class="section detail">
 
     ### JA_JP
 
@@ -3116,8 +3063,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KN_IN" class="section detail">
+<div id="sdk-for-android-explore-KN_IN" class="section detail">
 
     ### KN_IN
 
@@ -3135,8 +3081,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KK_KZ" class="section detail">
+<div id="sdk-for-android-explore-KK_KZ" class="section detail">
 
     ### KK_KZ
 
@@ -3154,8 +3099,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KM_KH" class="section detail">
+<div id="sdk-for-android-explore-KM_KH" class="section detail">
 
     ### KM_KH
 
@@ -3173,8 +3117,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-QUC_LATN_GT"
+<div id="sdk-for-android-explore-QUC_LATN_GT"
     class="section detail">
 
     ### QUC_LATN_GT
@@ -3193,8 +3136,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RW_RW" class="section detail">
+<div id="sdk-for-android-explore-RW_RW" class="section detail">
 
     ### RW_RW
 
@@ -3212,8 +3154,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SW" class="section detail">
+<div id="sdk-for-android-explore-SW" class="section detail">
 
     ### SW
 
@@ -3231,8 +3172,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KOK_IN" class="section detail">
+<div id="sdk-for-android-explore-KOK_IN" class="section detail">
 
     ### KOK_IN
 
@@ -3250,8 +3190,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KO_KR" class="section detail">
+<div id="sdk-for-android-explore-KO_KR" class="section detail">
 
     ### KO_KR
 
@@ -3269,8 +3208,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KY_CYRL_KG" class="section detail">
+<div id="sdk-for-android-explore-KY_CYRL_KG" class="section detail">
 
     ### KY_CYRL_KG
 
@@ -3288,8 +3226,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LV_LV" class="section detail">
+<div id="sdk-for-android-explore-LV_LV" class="section detail">
 
     ### LV_LV
 
@@ -3307,8 +3244,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LT_LT" class="section detail">
+<div id="sdk-for-android-explore-LT_LT" class="section detail">
 
     ### LT_LT
 
@@ -3326,8 +3262,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LB_LU" class="section detail">
+<div id="sdk-for-android-explore-LB_LU" class="section detail">
 
     ### LB_LU
 
@@ -3345,8 +3280,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MK_MK" class="section detail">
+<div id="sdk-for-android-explore-MK_MK" class="section detail">
 
     ### MK_MK
 
@@ -3364,8 +3298,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MS_MY" class="section detail">
+<div id="sdk-for-android-explore-MS_MY" class="section detail">
 
     ### MS_MY
 
@@ -3383,8 +3316,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ML_IN" class="section detail">
+<div id="sdk-for-android-explore-ML_IN" class="section detail">
 
     ### ML_IN
 
@@ -3402,8 +3334,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MT_MT" class="section detail">
+<div id="sdk-for-android-explore-MT_MT" class="section detail">
 
     ### MT_MT
 
@@ -3421,8 +3352,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MI_LATN_NZ" class="section detail">
+<div id="sdk-for-android-explore-MI_LATN_NZ" class="section detail">
 
     ### MI_LATN_NZ
 
@@ -3440,8 +3370,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MR_IN" class="section detail">
+<div id="sdk-for-android-explore-MR_IN" class="section detail">
 
     ### MR_IN
 
@@ -3459,8 +3388,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MN_CYRL_MN" class="section detail">
+<div id="sdk-for-android-explore-MN_CYRL_MN" class="section detail">
 
     ### MN_CYRL_MN
 
@@ -3478,8 +3406,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NE_NP" class="section detail">
+<div id="sdk-for-android-explore-NE_NP" class="section detail">
 
     ### NE_NP
 
@@ -3497,8 +3424,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NB_NO" class="section detail">
+<div id="sdk-for-android-explore-NB_NO" class="section detail">
 
     ### NB_NO
 
@@ -3516,8 +3442,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NN_NO" class="section detail">
+<div id="sdk-for-android-explore-NN_NO" class="section detail">
 
     ### NN_NO
 
@@ -3535,8 +3460,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OR_IN" class="section detail">
+<div id="sdk-for-android-explore-OR_IN" class="section detail">
 
     ### OR_IN
 
@@ -3554,8 +3478,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PL_PL" class="section detail">
+<div id="sdk-for-android-explore-PL_PL" class="section detail">
 
     ### PL_PL
 
@@ -3573,8 +3496,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PT_BR" class="section detail">
+<div id="sdk-for-android-explore-PT_BR" class="section detail">
 
     ### PT_BR
 
@@ -3592,8 +3514,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PT_PT" class="section detail">
+<div id="sdk-for-android-explore-PT_PT" class="section detail">
 
     ### PT_PT
 
@@ -3611,8 +3532,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PA_GURU" class="section detail">
+<div id="sdk-for-android-explore-PA_GURU" class="section detail">
 
     ### PA_GURU
 
@@ -3630,8 +3550,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PA_ARAB" class="section detail">
+<div id="sdk-for-android-explore-PA_ARAB" class="section detail">
 
     ### PA_ARAB
 
@@ -3649,8 +3568,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-QU_LATN_PE" class="section detail">
+<div id="sdk-for-android-explore-QU_LATN_PE" class="section detail">
 
     ### QU_LATN_PE
 
@@ -3668,8 +3586,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RO_RO" class="section detail">
+<div id="sdk-for-android-explore-RO_RO" class="section detail">
 
     ### RO_RO
 
@@ -3687,8 +3604,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RU_RU" class="section detail">
+<div id="sdk-for-android-explore-RU_RU" class="section detail">
 
     ### RU_RU
 
@@ -3706,8 +3622,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GD_LATN_GB" class="section detail">
+<div id="sdk-for-android-explore-GD_LATN_GB" class="section detail">
 
     ### GD_LATN_GB
 
@@ -3725,8 +3640,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SR_CYRL_BA" class="section detail">
+<div id="sdk-for-android-explore-SR_CYRL_BA" class="section detail">
 
     ### SR_CYRL_BA
 
@@ -3744,8 +3658,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SR_CYRL_RS" class="section detail">
+<div id="sdk-for-android-explore-SR_CYRL_RS" class="section detail">
 
     ### SR_CYRL_RS
 
@@ -3763,8 +3676,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SR_LATN_RS" class="section detail">
+<div id="sdk-for-android-explore-SR_LATN_RS" class="section detail">
 
     ### SR_LATN_RS
 
@@ -3782,8 +3694,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NSO_ZA" class="section detail">
+<div id="sdk-for-android-explore-NSO_ZA" class="section detail">
 
     ### NSO_ZA
 
@@ -3801,8 +3712,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TN" class="section detail">
+<div id="sdk-for-android-explore-TN" class="section detail">
 
     ### TN
 
@@ -3820,8 +3730,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SD_ARAB" class="section detail">
+<div id="sdk-for-android-explore-SD_ARAB" class="section detail">
 
     ### SD_ARAB
 
@@ -3839,8 +3748,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SI_LK" class="section detail">
+<div id="sdk-for-android-explore-SI_LK" class="section detail">
 
     ### SI_LK
 
@@ -3858,8 +3766,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SK_SK" class="section detail">
+<div id="sdk-for-android-explore-SK_SK" class="section detail">
 
     ### SK_SK
 
@@ -3877,8 +3784,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SL_SI" class="section detail">
+<div id="sdk-for-android-explore-SL_SI" class="section detail">
 
     ### SL_SI
 
@@ -3896,8 +3802,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ES_AR" class="section detail">
+<div id="sdk-for-android-explore-ES_AR" class="section detail">
 
     ### ES_AR
 
@@ -3915,8 +3820,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ES_MX" class="section detail">
+<div id="sdk-for-android-explore-ES_MX" class="section detail">
 
     ### ES_MX
 
@@ -3934,8 +3838,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ES_ES" class="section detail">
+<div id="sdk-for-android-explore-ES_ES" class="section detail">
 
     ### ES_ES
 
@@ -3953,8 +3856,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SV_SE" class="section detail">
+<div id="sdk-for-android-explore-SV_SE" class="section detail">
 
     ### SV_SE
 
@@ -3972,8 +3874,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TG_CYRL_TJ" class="section detail">
+<div id="sdk-for-android-explore-TG_CYRL_TJ" class="section detail">
 
     ### TG_CYRL_TJ
 
@@ -3991,8 +3892,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TA" class="section detail">
+<div id="sdk-for-android-explore-TA" class="section detail">
 
     ### TA
 
@@ -4010,8 +3910,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TT_CYRL_RU" class="section detail">
+<div id="sdk-for-android-explore-TT_CYRL_RU" class="section detail">
 
     ### TT_CYRL_RU
 
@@ -4029,8 +3928,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TE_IN" class="section detail">
+<div id="sdk-for-android-explore-TE_IN" class="section detail">
 
     ### TE_IN
 
@@ -4048,8 +3946,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TH_TH" class="section detail">
+<div id="sdk-for-android-explore-TH_TH" class="section detail">
 
     ### TH_TH
 
@@ -4067,8 +3964,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TI_ET" class="section detail">
+<div id="sdk-for-android-explore-TI_ET" class="section detail">
 
     ### TI_ET
 
@@ -4086,8 +3982,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TR_TR" class="section detail">
+<div id="sdk-for-android-explore-TR_TR" class="section detail">
 
     ### TR_TR
 
@@ -4105,8 +4000,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TK_LATN_TM" class="section detail">
+<div id="sdk-for-android-explore-TK_LATN_TM" class="section detail">
 
     ### TK_LATN_TM
 
@@ -4124,8 +4018,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UK_UA" class="section detail">
+<div id="sdk-for-android-explore-UK_UA" class="section detail">
 
     ### UK_UA
 
@@ -4143,8 +4036,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UR" class="section detail">
+<div id="sdk-for-android-explore-UR" class="section detail">
 
     ### UR
 
@@ -4162,8 +4054,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UG_ARAB" class="section detail">
+<div id="sdk-for-android-explore-UG_ARAB" class="section detail">
 
     ### UG_ARAB
 
@@ -4181,8 +4072,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UZ_CYRL_UZ" class="section detail">
+<div id="sdk-for-android-explore-UZ_CYRL_UZ" class="section detail">
 
     ### UZ_CYRL_UZ
 
@@ -4200,8 +4090,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UZ_LATN_UZ" class="section detail">
+<div id="sdk-for-android-explore-UZ_LATN_UZ" class="section detail">
 
     ### UZ_LATN_UZ
 
@@ -4219,8 +4108,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAT_ES" class="section detail">
+<div id="sdk-for-android-explore-CAT_ES" class="section detail">
 
     ### CAT_ES
 
@@ -4238,8 +4126,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VI_VN" class="section detail">
+<div id="sdk-for-android-explore-VI_VN" class="section detail">
 
     ### VI_VN
 
@@ -4257,8 +4144,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CY_GB" class="section detail">
+<div id="sdk-for-android-explore-CY_GB" class="section detail">
 
     ### CY_GB
 
@@ -4276,8 +4162,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-WO_LATN" class="section detail">
+<div id="sdk-for-android-explore-WO_LATN" class="section detail">
 
     ### WO_LATN
 
@@ -4295,8 +4180,7 @@ is specified, its ISO 15924 code is used.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-YO_LATN" class="section detail">
+<div id="sdk-for-android-explore-YO_LATN" class="section detail">
 
     ### YO_LATN
 
@@ -4316,11 +4200,9 @@ is specified, its ISO 15924 code is used.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -4343,8 +4225,7 @@ is specified, its ISO 15924 code is used.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

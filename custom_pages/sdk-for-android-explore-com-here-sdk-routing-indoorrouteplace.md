@@ -37,8 +37,7 @@ Represents a place within an indoor route.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -196,8 +195,7 @@ Represents a place within an indoor route.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -243,8 +241,7 @@ Represents a place within an indoor route.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -351,11 +348,9 @@ Represents a place within an indoor route.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-type" class="section detail">
+<div id="sdk-for-android-explore-type" class="section detail">
 
     ### type
 
@@ -373,8 +368,7 @@ Represents a place within an indoor route.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-coordinates"
+<div id="sdk-for-android-explore-coordinates"
     class="section detail">
 
     ### coordinates
@@ -393,8 +387,7 @@ Represents a place within an indoor route.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-levelZIndex"
+<div id="sdk-for-android-explore-levelZIndex"
     class="section detail">
 
     ### levelZIndex
@@ -412,8 +405,7 @@ Represents a place within an indoor route.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-venueId" class="section detail">
+<div id="sdk-for-android-explore-venueId" class="section detail">
 
     ### venueId
 
@@ -433,8 +425,7 @@ Represents a place within an indoor route.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-levelId" class="section detail">
+<div id="sdk-for-android-explore-levelId" class="section detail">
 
     ### levelId
 
@@ -456,11 +447,9 @@ Represents a place within an indoor route.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RoutePlaceType,com.here.sdk.core.GeoCoordinates,int,java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RoutePlaceType,com.here.sdk.core.GeoCoordinates,int,java.lang.String,java.lang.String)"
     class="section detail">
 
     ### IndoorRoutePlace
@@ -510,11 +499,9 @@ Represents a place within an indoor route.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -538,8 +525,7 @@ Represents a place within an indoor route.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

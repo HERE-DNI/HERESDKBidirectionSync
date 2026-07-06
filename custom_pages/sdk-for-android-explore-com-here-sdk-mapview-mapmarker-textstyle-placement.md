@@ -58,8 +58,7 @@ Represents text placement with respect to the icon of a MapMarker .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -81,8 +80,7 @@ Represents text placement with respect to the icon of a MapMarker .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -272,8 +270,7 @@ Represents text placement with respect to the icon of a MapMarker .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -423,11 +420,9 @@ Represents text placement with respect to the icon of a MapMarker .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CENTER" class="section detail">
+<div id="sdk-for-android-explore-CENTER" class="section detail">
 
     ### CENTER
 
@@ -445,8 +440,7 @@ Represents text placement with respect to the icon of a MapMarker .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TOP" class="section detail">
+<div id="sdk-for-android-explore-TOP" class="section detail">
 
     ### TOP
 
@@ -464,8 +458,7 @@ Represents text placement with respect to the icon of a MapMarker .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TOP_RIGHT" class="section detail">
+<div id="sdk-for-android-explore-TOP_RIGHT" class="section detail">
 
     ### TOP_RIGHT
 
@@ -484,8 +477,7 @@ Represents text placement with respect to the icon of a MapMarker .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RIGHT" class="section detail">
+<div id="sdk-for-android-explore-RIGHT" class="section detail">
 
     ### RIGHT
 
@@ -504,8 +496,7 @@ Represents text placement with respect to the icon of a MapMarker .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BOTTOM_RIGHT"
+<div id="sdk-for-android-explore-BOTTOM_RIGHT"
     class="section detail">
 
     ### BOTTOM_RIGHT
@@ -525,8 +516,7 @@ Represents text placement with respect to the icon of a MapMarker .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BOTTOM" class="section detail">
+<div id="sdk-for-android-explore-BOTTOM" class="section detail">
 
     ### BOTTOM
 
@@ -544,8 +534,7 @@ Represents text placement with respect to the icon of a MapMarker .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BOTTOM_LEFT"
+<div id="sdk-for-android-explore-BOTTOM_LEFT"
     class="section detail">
 
     ### BOTTOM_LEFT
@@ -565,8 +554,7 @@ Represents text placement with respect to the icon of a MapMarker .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LEFT" class="section detail">
+<div id="sdk-for-android-explore-LEFT" class="section detail">
 
     ### LEFT
 
@@ -584,8 +572,7 @@ Represents text placement with respect to the icon of a MapMarker .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TOP_LEFT" class="section detail">
+<div id="sdk-for-android-explore-TOP_LEFT" class="section detail">
 
     ### TOP_LEFT
 
@@ -606,11 +593,9 @@ Represents text placement with respect to the icon of a MapMarker .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -633,8 +618,7 @@ Represents text placement with respect to the icon of a MapMarker .
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

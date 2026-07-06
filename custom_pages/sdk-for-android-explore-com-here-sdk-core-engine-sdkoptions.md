@@ -39,8 +39,7 @@ SDKNativeEngine .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -97,8 +96,7 @@ SDKNativeEngine .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -568,8 +566,7 @@ SDKNativeEngine .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -611,8 +608,7 @@ SDKNativeEngine .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -719,11 +715,9 @@ SDKNativeEngine .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-scope" class="section detail">
+<div id="sdk-for-android-explore-scope" class="section detail">
 
     ### scope
 
@@ -744,8 +738,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-cachePath" class="section detail">
+<div id="sdk-for-android-explore-cachePath" class="section detail">
 
     ### cachePath
 
@@ -780,8 +773,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-cacheSizeInBytes"
+<div id="sdk-for-android-explore-cacheSizeInBytes"
     class="section detail">
 
     ### cacheSizeInBytes
@@ -801,8 +793,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-dataPath" class="section detail">
+<div id="sdk-for-android-explore-dataPath" class="section detail">
 
     ### dataPath
 
@@ -854,8 +845,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-persistentMapStoragePath"
+<div id="sdk-for-android-explore-persistentMapStoragePath"
     class="section detail">
 
     ### persistentMapStoragePath
@@ -899,8 +889,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-politicalView"
+<div id="sdk-for-android-explore-politicalView"
     class="section detail">
 
     ### politicalView
@@ -927,8 +916,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-offlineMode"
+<div id="sdk-for-android-explore-offlineMode"
     class="section detail">
 
     ### offlineMode
@@ -949,8 +937,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-layerConfiguration"
+<div id="sdk-for-android-explore-layerConfiguration"
     class="section detail">
 
     ### layerConfiguration
@@ -995,8 +982,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-catalogConfigurations"
+<div id="sdk-for-android-explore-catalogConfigurations"
     class="section detail">
 
     ### catalogConfigurations
@@ -1023,8 +1009,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-autoUpdateOfOnlineCache"
+<div id="sdk-for-android-explore-autoUpdateOfOnlineCache"
     class="section detail">
 
     ### autoUpdateOfOnlineCache
@@ -1061,8 +1046,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-customEngineOptions"
+<div id="sdk-for-android-explore-customEngineOptions"
     class="section detail">
 
     ### customEngineOptions
@@ -1096,8 +1080,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-actionOnCacheLock"
+<div id="sdk-for-android-explore-actionOnCacheLock"
     class="section detail">
 
     ### actionOnCacheLock
@@ -1118,8 +1101,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-authenticationMode"
+<div id="sdk-for-android-explore-authenticationMode"
     class="section detail">
 
     ### authenticationMode
@@ -1138,8 +1120,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-networkSettings"
+<div id="sdk-for-android-explore-networkSettings"
     class="section detail">
 
     ### networkSettings
@@ -1159,8 +1140,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-lowMemoryMode"
+<div id="sdk-for-android-explore-lowMemoryMode"
     class="section detail">
 
     ### lowMemoryMode
@@ -1184,8 +1164,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-billingTag" class="section detail">
+<div id="sdk-for-android-explore-billingTag" class="section detail">
 
     ### billingTag
 
@@ -1218,8 +1197,7 @@ SDKNativeEngine .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-customOptions"
+<div id="sdk-for-android-explore-customOptions"
     class="section detail">
 
     ### customOptions
@@ -1246,11 +1224,9 @@ SDKNativeEngine .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.AuthenticationMode)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.AuthenticationMode)"
     class="section detail">
 
     ### SDKOptions
@@ -1277,11 +1253,9 @@ SDKNativeEngine .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -1305,8 +1279,7 @@ SDKNativeEngine .
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

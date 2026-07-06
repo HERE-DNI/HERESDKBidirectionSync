@@ -37,8 +37,7 @@ The options to specify a text query.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -94,8 +93,7 @@ The options to specify a text query.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -200,8 +198,7 @@ The options to specify a text query.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -245,8 +242,7 @@ The options to specify a text query.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -353,11 +349,9 @@ The options to specify a text query.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-query" class="section detail">
+<div id="sdk-for-android-explore-query" class="section detail">
 
     ### query
 
@@ -377,8 +371,7 @@ The options to specify a text query.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-area" class="section detail">
+<div id="sdk-for-android-explore-area" class="section detail">
 
     ### area
 
@@ -396,8 +389,7 @@ The options to specify a text query.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-placeFilter"
+<div id="sdk-for-android-explore-placeFilter"
     class="section detail">
 
     ### placeFilter
@@ -419,11 +411,9 @@ The options to specify a text query.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.search.TextQuery.Area)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.search.TextQuery.Area)"
     class="section detail">
 
     ### TextQuery
@@ -459,11 +449,9 @@ The options to specify a text query.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -487,8 +475,7 @@ The options to specify a text query.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

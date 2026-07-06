@@ -37,8 +37,7 @@ Represents contact information.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -176,8 +175,7 @@ Represents contact information.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -238,8 +236,7 @@ Represents contact information.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -346,11 +343,9 @@ Represents contact information.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-landlinePhones"
+<div id="sdk-for-android-explore-landlinePhones"
     class="section detail">
 
     ### landlinePhones
@@ -372,8 +367,7 @@ Represents contact information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-mobilePhones"
+<div id="sdk-for-android-explore-mobilePhones"
     class="section detail">
 
     ### mobilePhones
@@ -395,8 +389,7 @@ Represents contact information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-emails" class="section detail">
+<div id="sdk-for-android-explore-emails" class="section detail">
 
     ### emails
 
@@ -417,8 +410,7 @@ Represents contact information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-websites" class="section detail">
+<div id="sdk-for-android-explore-websites" class="section detail">
 
     ### websites
 
@@ -441,11 +433,9 @@ Represents contact information.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### Contact
 
@@ -462,8 +452,7 @@ Represents contact information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.util.List,java.util.List,java.util.List,java.util.List)"
     class="section detail">
 
     ### Contact
@@ -516,11 +505,9 @@ Represents contact information.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -544,8 +531,7 @@ Represents contact information.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

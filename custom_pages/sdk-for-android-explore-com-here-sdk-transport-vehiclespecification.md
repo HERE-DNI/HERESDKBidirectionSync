@@ -39,8 +39,7 @@ handling.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -222,8 +221,7 @@ handling.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -867,8 +865,7 @@ handling.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -910,8 +907,7 @@ handling.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -1018,11 +1014,9 @@ handling.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-heightInCentimeters"
+<div id="sdk-for-android-explore-heightInCentimeters"
     class="section detail">
 
     ### heightInCentimeters
@@ -1048,8 +1042,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-widthInCentimeters"
+<div id="sdk-for-android-explore-widthInCentimeters"
     class="section detail">
 
     ### widthInCentimeters
@@ -1075,8 +1068,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-lengthInCentimeters"
+<div id="sdk-for-android-explore-lengthInCentimeters"
     class="section detail">
 
     ### lengthInCentimeters
@@ -1102,8 +1094,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-axleCount" class="section detail">
+<div id="sdk-for-android-explore-axleCount" class="section detail">
 
     ### axleCount
 
@@ -1133,8 +1124,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-trailerCount"
+<div id="sdk-for-android-explore-trailerCount"
     class="section detail">
 
     ### trailerCount
@@ -1159,8 +1149,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-truckType" class="section detail">
+<div id="sdk-for-android-explore-truckType" class="section detail">
 
     ### truckType
 
@@ -1196,8 +1185,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-truckCategory"
+<div id="sdk-for-android-explore-truckCategory"
     class="section detail">
 
     ### truckCategory
@@ -1217,8 +1205,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isTruckLight"
+<div id="sdk-for-android-explore-isTruckLight"
     class="section detail">
 
     ### isTruckLight
@@ -1257,8 +1244,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-payloadCapacityInKilograms"
+<div id="sdk-for-android-explore-payloadCapacityInKilograms"
     class="section detail">
 
     ### payloadCapacityInKilograms
@@ -1283,8 +1269,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-trailerAxleCount"
+<div id="sdk-for-android-explore-trailerAxleCount"
     class="section detail">
 
     ### trailerAxleCount
@@ -1312,8 +1297,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-kingpinToRearAxleDistanceInCentimeters"
+<div id="sdk-for-android-explore-kingpinToRearAxleDistanceInCentimeters"
     class="section detail">
 
     ### kingpinToRearAxleDistanceInCentimeters
@@ -1338,8 +1322,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-emptyWeightInKilograms"
+<div id="sdk-for-android-explore-emptyWeightInKilograms"
     class="section detail">
 
     ### emptyWeightInKilograms
@@ -1366,8 +1349,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-grossWeightInKilograms"
+<div id="sdk-for-android-explore-grossWeightInKilograms"
     class="section detail">
 
     ### grossWeightInKilograms
@@ -1397,8 +1379,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-currentWeightInKilograms"
+<div id="sdk-for-android-explore-currentWeightInKilograms"
     class="section detail">
 
     ### currentWeightInKilograms
@@ -1430,8 +1411,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-weightPerAxleInKilograms"
+<div id="sdk-for-android-explore-weightPerAxleInKilograms"
     class="section detail">
 
     ### weightPerAxleInKilograms
@@ -1464,8 +1444,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-weightPerAxleGroup"
+<div id="sdk-for-android-explore-weightPerAxleGroup"
     class="section detail">
 
     ### weightPerAxleGroup
@@ -1495,8 +1474,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isCommercial"
+<div id="sdk-for-android-explore-isCommercial"
     class="section detail">
 
     ### isCommercial
@@ -1520,8 +1498,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-lastCharacterOfLicensePlate"
+<div id="sdk-for-android-explore-lastCharacterOfLicensePlate"
     class="section detail">
 
     ### lastCharacterOfLicensePlate
@@ -1544,8 +1521,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-engineSizeInCubicCentimeters"
+<div id="sdk-for-android-explore-engineSizeInCubicCentimeters"
     class="section detail">
 
     ### engineSizeInCubicCentimeters
@@ -1573,8 +1549,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-tiresCount" class="section detail">
+<div id="sdk-for-android-explore-tiresCount" class="section detail">
 
     ### tiresCount
 
@@ -1598,8 +1573,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-tunnelCategory"
+<div id="sdk-for-android-explore-tunnelCategory"
     class="section detail">
 
     ### tunnelCategory
@@ -1623,8 +1597,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hazardousMaterials"
+<div id="sdk-for-android-explore-hazardousMaterials"
     class="section detail">
 
     ### hazardousMaterials
@@ -1649,8 +1622,7 @@ handling.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-occupancy" class="section detail">
+<div id="sdk-for-android-explore-occupancy" class="section detail">
 
     ### occupancy
 
@@ -1676,11 +1648,9 @@ handling.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### VehicleSpecification
 
@@ -1699,11 +1669,9 @@ handling.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -1727,8 +1695,7 @@ handling.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

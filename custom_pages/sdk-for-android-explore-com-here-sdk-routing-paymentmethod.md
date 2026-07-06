@@ -52,8 +52,7 @@ Available payment methods.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -75,8 +74,7 @@ Available payment methods.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -264,8 +262,7 @@ Available payment methods.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -415,11 +412,9 @@ Available payment methods.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-UNKNOWN" class="section detail">
+<div id="sdk-for-android-explore-UNKNOWN" class="section detail">
 
     ### UNKNOWN
 
@@ -437,8 +432,7 @@ Available payment methods.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CASH" class="section detail">
+<div id="sdk-for-android-explore-CASH" class="section detail">
 
     ### CASH
 
@@ -456,8 +450,7 @@ Available payment methods.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BANK_CARD" class="section detail">
+<div id="sdk-for-android-explore-BANK_CARD" class="section detail">
 
     ### BANK_CARD
 
@@ -475,8 +468,7 @@ Available payment methods.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CREDIT_CARD"
+<div id="sdk-for-android-explore-CREDIT_CARD"
     class="section detail">
 
     ### CREDIT_CARD
@@ -495,8 +487,7 @@ Available payment methods.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PASS_SUBSCRIPTION"
+<div id="sdk-for-android-explore-PASS_SUBSCRIPTION"
     class="section detail">
 
     ### PASS_SUBSCRIPTION
@@ -515,8 +506,7 @@ Available payment methods.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRANSPONDER"
+<div id="sdk-for-android-explore-TRANSPONDER"
     class="section detail">
 
     ### TRANSPONDER
@@ -535,8 +525,7 @@ Available payment methods.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIDEO_TOLL" class="section detail">
+<div id="sdk-for-android-explore-VIDEO_TOLL" class="section detail">
 
     ### VIDEO_TOLL
 
@@ -554,8 +543,7 @@ Available payment methods.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CASH_EXACT" class="section detail">
+<div id="sdk-for-android-explore-CASH_EXACT" class="section detail">
 
     ### CASH_EXACT
 
@@ -574,8 +562,7 @@ Available payment methods.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRAVEL_CARD"
+<div id="sdk-for-android-explore-TRAVEL_CARD"
     class="section detail">
 
     ### TRAVEL_CARD
@@ -596,11 +583,9 @@ Available payment methods.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -623,8 +608,7 @@ Available payment methods.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

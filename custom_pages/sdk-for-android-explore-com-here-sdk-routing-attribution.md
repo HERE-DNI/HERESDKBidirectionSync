@@ -37,8 +37,7 @@ Holds all the data on a URL address to an external resource.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -172,8 +171,7 @@ Holds all the data on a URL address to an external resource.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -280,11 +278,9 @@ Holds all the data on a URL address to an external resource.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-href" class="section detail">
+<div id="sdk-for-android-explore-href" class="section detail">
 
     ### href
 
@@ -304,8 +300,7 @@ Holds all the data on a URL address to an external resource.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-text" class="section detail">
+<div id="sdk-for-android-explore-text" class="section detail">
 
     ### text
 
@@ -325,8 +320,7 @@ Holds all the data on a URL address to an external resource.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hrefText" class="section detail">
+<div id="sdk-for-android-explore-hrefText" class="section detail">
 
     ### hrefText
 
@@ -348,8 +342,7 @@ Holds all the data on a URL address to an external resource.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-type" class="section detail">
+<div id="sdk-for-android-explore-type" class="section detail">
 
     ### type
 
@@ -369,11 +362,9 @@ Holds all the data on a URL address to an external resource.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -397,8 +388,7 @@ Holds all the data on a URL address to an external resource.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

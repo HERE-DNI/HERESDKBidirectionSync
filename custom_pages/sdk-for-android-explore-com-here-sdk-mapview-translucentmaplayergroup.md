@@ -77,8 +77,7 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -185,8 +184,7 @@ APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -247,8 +245,7 @@ APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -370,11 +367,9 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.HereMap)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.HereMap)"
     class="section detail">
 
     ### TranslucentMapLayerGroup
@@ -416,8 +411,7 @@ APIs may change for new releases without a deprecation process.
     In case of invalid input parameters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.HereMap,com.here.sdk.mapview.MapLayerPriority)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.HereMap,com.here.sdk.mapview.MapLayerPriority)"
     class="section detail">
 
     ### TranslucentMapLayerGroup
@@ -486,11 +480,9 @@ APIs may change for new releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-setPriority(com.here.sdk.mapview.MapLayerPriority)"
+<div id="sdk-for-android-explore-setPriority(com.here.sdk.mapview.MapLayerPriority)"
     class="section detail">
 
     ### setPriority
@@ -532,8 +524,7 @@ APIs may change for new releases without a deprecation process.
         new MapLayerPriorityBuilder().renderedAfterLayer("water").build()
 
     </div>
-
-  - <div id="sdk-for-android-explore-destroy()" class="section detail">
+<div id="sdk-for-android-explore-destroy()" class="section detail">
 
     ### destroy
 

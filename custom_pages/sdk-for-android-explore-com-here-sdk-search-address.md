@@ -42,8 +42,7 @@ PlaceIdQuery .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -468,8 +467,7 @@ PlaceIdQuery .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -511,8 +509,7 @@ PlaceIdQuery .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -619,11 +616,9 @@ PlaceIdQuery .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-city" class="section detail">
+<div id="sdk-for-android-explore-city" class="section detail">
 
     ### city
 
@@ -644,8 +639,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-countryCode"
+<div id="sdk-for-android-explore-countryCode"
     class="section detail">
 
     ### countryCode
@@ -667,8 +661,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-country" class="section detail">
+<div id="sdk-for-android-explore-country" class="section detail">
 
     ### country
 
@@ -689,8 +682,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-district" class="section detail">
+<div id="sdk-for-android-explore-district" class="section detail">
 
     ### district
 
@@ -713,8 +705,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-subdistrict"
+<div id="sdk-for-android-explore-subdistrict"
     class="section detail">
 
     ### subdistrict
@@ -736,8 +727,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-houseNumOrName"
+<div id="sdk-for-android-explore-houseNumOrName"
     class="section detail">
 
     ### houseNumOrName
@@ -759,8 +749,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-postalCode" class="section detail">
+<div id="sdk-for-android-explore-postalCode" class="section detail">
 
     ### postalCode
 
@@ -784,8 +773,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-state" class="section detail">
+<div id="sdk-for-android-explore-state" class="section detail">
 
     ### state
 
@@ -807,8 +795,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-county" class="section detail">
+<div id="sdk-for-android-explore-county" class="section detail">
 
     ### county
 
@@ -831,8 +818,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-street" class="section detail">
+<div id="sdk-for-android-explore-street" class="section detail">
 
     ### street
 
@@ -853,8 +839,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-block" class="section detail">
+<div id="sdk-for-android-explore-block" class="section detail">
 
     ### block
 
@@ -875,8 +860,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-subBlock" class="section detail">
+<div id="sdk-for-android-explore-subBlock" class="section detail">
 
     ### subBlock
 
@@ -898,8 +882,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-addressText"
+<div id="sdk-for-android-explore-addressText"
     class="section detail">
 
     ### addressText
@@ -922,8 +905,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-type" class="section detail">
+<div id="sdk-for-android-explore-type" class="section detail">
 
     ### type
 
@@ -941,8 +923,7 @@ PlaceIdQuery .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-stateCode" class="section detail">
+<div id="sdk-for-android-explore-stateCode" class="section detail">
 
     ### stateCode
 
@@ -966,11 +947,9 @@ PlaceIdQuery .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### Address
 
@@ -989,11 +968,9 @@ PlaceIdQuery .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -1017,8 +994,7 @@ PlaceIdQuery .
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

@@ -56,8 +56,7 @@ deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -79,8 +78,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -235,8 +233,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -386,11 +383,9 @@ deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-EVSES" class="section detail">
+<div id="sdk-for-android-explore-EVSES" class="section detail">
 
     ### EVSES
 
@@ -410,8 +405,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRUCK_RESTRICTIONS"
+<div id="sdk-for-android-explore-TRUCK_RESTRICTIONS"
     class="section detail">
 
     ### TRUCK_RESTRICTIONS
@@ -430,8 +424,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LOCATION_INFO"
+<div id="sdk-for-android-explore-LOCATION_INFO"
     class="section detail">
 
     ### LOCATION_INFO
@@ -454,8 +447,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-EMSPS" class="section detail">
+<div id="sdk-for-android-explore-EMSPS" class="section detail">
 
     ### EMSPS
 
@@ -473,8 +465,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CONNECTOR_GROUPS"
+<div id="sdk-for-android-explore-CONNECTOR_GROUPS"
     class="section detail">
 
     ### CONNECTOR_GROUPS
@@ -496,8 +487,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TARIFFS" class="section detail">
+<div id="sdk-for-android-explore-TARIFFS" class="section detail">
 
     ### TARIFFS
 
@@ -516,8 +506,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NEARBY" class="section detail">
+<div id="sdk-for-android-explore-NEARBY" class="section detail">
 
     ### NEARBY
 
@@ -537,11 +526,9 @@ deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -564,8 +551,7 @@ deprecation process.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

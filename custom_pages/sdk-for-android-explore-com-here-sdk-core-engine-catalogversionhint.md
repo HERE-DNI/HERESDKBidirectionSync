@@ -45,8 +45,7 @@ and persistent storage should be cleaned.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -170,11 +169,9 @@ and persistent storage should be cleaned.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-specific(long)"
+<div id="sdk-for-android-explore-specific(long)"
     class="section detail">
 
     ### specific
@@ -210,8 +207,7 @@ and persistent storage should be cleaned.
     with specified version.
 
     </div>
-
-  - <div id="sdk-for-android-explore-latest(boolean)"
+<div id="sdk-for-android-explore-latest(boolean)"
     class="section detail">
 
     ### latest

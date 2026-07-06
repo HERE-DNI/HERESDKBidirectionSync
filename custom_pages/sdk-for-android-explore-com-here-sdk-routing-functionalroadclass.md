@@ -53,8 +53,7 @@ Types of function road class.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ Types of function road class.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -195,8 +193,7 @@ Types of function road class.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -346,11 +343,9 @@ Types of function road class.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_1"
+<div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_1"
     class="section detail">
 
     ### FUNCTIONAL_ROAD_CLASS_1
@@ -369,8 +364,7 @@ Types of function road class.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_2"
+<div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_2"
     class="section detail">
 
     ### FUNCTIONAL_ROAD_CLASS_2
@@ -389,8 +383,7 @@ Types of function road class.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_3"
+<div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_3"
     class="section detail">
 
     ### FUNCTIONAL_ROAD_CLASS_3
@@ -409,8 +402,7 @@ Types of function road class.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_4"
+<div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_4"
     class="section detail">
 
     ### FUNCTIONAL_ROAD_CLASS_4
@@ -430,8 +422,7 @@ Types of function road class.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_5"
+<div id="sdk-for-android-explore-FUNCTIONAL_ROAD_CLASS_5"
     class="section detail">
 
     ### FUNCTIONAL_ROAD_CLASS_5
@@ -453,11 +444,9 @@ Types of function road class.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -480,8 +469,7 @@ Types of function road class.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

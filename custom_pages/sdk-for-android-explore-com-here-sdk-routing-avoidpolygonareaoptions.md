@@ -37,8 +37,7 @@ The options to specify polygon shape which routes must not cross.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -175,8 +174,7 @@ The options to specify polygon shape which routes must not cross.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -218,8 +216,7 @@ The options to specify polygon shape which routes must not cross.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -326,11 +323,9 @@ The options to specify polygon shape which routes must not cross.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-avoidPolygonArea"
+<div id="sdk-for-android-explore-avoidPolygonArea"
     class="section detail">
 
     ### avoidPolygonArea
@@ -354,8 +349,7 @@ The options to specify polygon shape which routes must not cross.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-boundingBoxExceptionAreas"
+<div id="sdk-for-android-explore-boundingBoxExceptionAreas"
     class="section detail">
 
     ### boundingBoxExceptionAreas
@@ -376,8 +370,7 @@ The options to specify polygon shape which routes must not cross.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-polygonExceptionAreas"
+<div id="sdk-for-android-explore-polygonExceptionAreas"
     class="section detail">
 
     ### polygonExceptionAreas
@@ -398,8 +391,7 @@ The options to specify polygon shape which routes must not cross.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-corridorExceptionAreas"
+<div id="sdk-for-android-explore-corridorExceptionAreas"
     class="section detail">
 
     ### corridorExceptionAreas
@@ -425,11 +417,9 @@ The options to specify polygon shape which routes must not cross.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolygon)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolygon)"
     class="section detail">
 
     ### AvoidPolygonAreaOptions
@@ -460,11 +450,9 @@ The options to specify polygon shape which routes must not cross.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -488,8 +476,7 @@ The options to specify polygon shape which routes must not cross.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

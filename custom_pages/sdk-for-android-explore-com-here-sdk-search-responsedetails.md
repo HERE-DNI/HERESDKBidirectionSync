@@ -37,8 +37,7 @@ Structure holding various information received with response to a query.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -124,8 +123,7 @@ Structure holding various information received with response to a query.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -168,8 +166,7 @@ Structure holding various information received with response to a query.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -276,11 +273,9 @@ Structure holding various information received with response to a query.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-correlationId"
+<div id="sdk-for-android-explore-correlationId"
     class="section detail">
 
     ### correlationId
@@ -301,8 +296,7 @@ Structure holding various information received with response to a query.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-requestId" class="section detail">
+<div id="sdk-for-android-explore-requestId" class="section detail">
 
     ### requestId
 
@@ -324,11 +318,9 @@ Structure holding various information received with response to a query.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### ResponseDetails
@@ -363,11 +355,9 @@ Structure holding various information received with response to a query.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -391,8 +381,7 @@ Structure holding various information received with response to a query.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

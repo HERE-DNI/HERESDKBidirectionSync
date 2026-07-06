@@ -37,8 +37,7 @@ TollFare multi-travel pass characteristics.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -203,8 +202,7 @@ TollFare multi-travel pass characteristics.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -246,8 +244,7 @@ TollFare multi-travel pass characteristics.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -354,11 +351,9 @@ TollFare multi-travel pass characteristics.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-returnJourney"
+<div id="sdk-for-android-explore-returnJourney"
     class="section detail">
 
     ### returnJourney
@@ -380,8 +375,7 @@ TollFare multi-travel pass characteristics.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-validityPeriod"
+<div id="sdk-for-android-explore-validityPeriod"
     class="section detail">
 
     ### validityPeriod
@@ -400,8 +394,7 @@ TollFare multi-travel pass characteristics.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-travels" class="section detail">
+<div id="sdk-for-android-explore-travels" class="section detail">
 
     ### travels
 
@@ -422,8 +415,7 @@ TollFare multi-travel pass characteristics.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-transfers" class="section detail">
+<div id="sdk-for-android-explore-transfers" class="section detail">
 
     ### transfers
 
@@ -445,8 +437,7 @@ TollFare multi-travel pass characteristics.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-seniorPass" class="section detail">
+<div id="sdk-for-android-explore-seniorPass" class="section detail">
 
     ### seniorPass
 
@@ -469,11 +460,9 @@ TollFare multi-travel pass characteristics.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TollFarePass
 
@@ -492,11 +481,9 @@ TollFare multi-travel pass characteristics.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -520,8 +507,7 @@ TollFare multi-travel pass characteristics.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

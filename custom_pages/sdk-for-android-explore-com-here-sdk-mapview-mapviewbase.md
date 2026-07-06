@@ -32,8 +32,7 @@ Represents the available public API from MapView .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -90,8 +89,7 @@ Represents the available public API from MapView .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -502,11 +500,9 @@ Represents the available public API from MapView .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-viewToGeoCoordinates(com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-viewToGeoCoordinates(com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### viewToGeoCoordinates
@@ -544,8 +540,7 @@ Represents the available public API from MapView .
     there is no render surface attached.
 
     </div>
-
-  - <div id="sdk-for-android-explore-geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)"
+<div id="sdk-for-android-explore-geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### geoToViewCoordinates
@@ -582,8 +577,7 @@ Represents the available public API from MapView .
     if there is no render surface attached.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### setWatermarkLocation
@@ -633,8 +627,7 @@ Represents the available public API from MapView .
     view size changes.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
+<div id="sdk-for-android-explore-addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
     class="section detail">
 
     ### addLifecycleListener
@@ -659,8 +652,7 @@ Represents the available public API from MapView .
     An object to be notified of lifecycle events.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
+<div id="sdk-for-android-explore-removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
     class="section detail">
 
     ### removeLifecycleListener
@@ -686,8 +678,7 @@ Represents the available public API from MapView .
     An object to stop being notified of lifecycle events.
 
     </div>
-
-  - <div id="sdk-for-android-explore-pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)"
+<div id="sdk-for-android-explore-pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)"
     class="section detail">
 
     ### pick
@@ -731,8 +722,7 @@ Represents the available public API from MapView .
     thread when pick operation completes.
 
     </div>
-
-  - <div id="sdk-for-android-explore-isValid()" class="section detail">
+<div id="sdk-for-android-explore-isValid()" class="section detail">
 
     ### isValid
 
@@ -754,8 +744,7 @@ Represents the available public API from MapView .
     Indicates whether this instance is valid.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCamera()"
+<div id="sdk-for-android-explore-getCamera()"
     class="section detail">
 
     ### getCamera
@@ -777,8 +766,7 @@ Represents the available public API from MapView .
     The camera to control the view for the map.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getGestures()"
+<div id="sdk-for-android-explore-getGestures()"
     class="section detail">
 
     ### getGestures
@@ -800,8 +788,7 @@ Represents the available public API from MapView .
     The gestures control object for setting up the capture of gestures.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getMapScene()"
+<div id="sdk-for-android-explore-getMapScene()"
     class="section detail">
 
     ### getMapScene
@@ -823,8 +810,7 @@ Represents the available public API from MapView .
     Map scene associated with this map view.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getMapContext()"
+<div id="sdk-for-android-explore-getMapContext()"
     class="section detail">
 
     ### getMapContext
@@ -846,8 +832,7 @@ Represents the available public API from MapView .
     Map context associated with this map view.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getHereMap()"
+<div id="sdk-for-android-explore-getHereMap()"
     class="section detail">
 
     ### getHereMap
@@ -869,8 +854,7 @@ Represents the available public API from MapView .
     Here Map associated with this map view.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getViewportSize()"
+<div id="sdk-for-android-explore-getViewportSize()"
     class="section detail">
 
     ### getViewportSize
@@ -895,8 +879,7 @@ Represents the available public API from MapView .
     The size of this map view in physical pixels.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getFrameRate()"
+<div id="sdk-for-android-explore-getFrameRate()"
     class="section detail">
 
     ### getFrameRate
@@ -917,8 +900,7 @@ Represents the available public API from MapView .
     Maximum render frame rate in frames per second.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setFrameRate(int)"
+<div id="sdk-for-android-explore-setFrameRate(int)"
     class="section detail">
 
     ### setFrameRate
@@ -943,8 +925,7 @@ Represents the available public API from MapView .
     Maximum render frame rate in frames per second.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPixelScale()"
+<div id="sdk-for-android-explore-getPixelScale()"
     class="section detail">
 
     ### getPixelScale
@@ -971,8 +952,7 @@ Represents the available public API from MapView .
     the map view is not initialized.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getWatermarkSize()"
+<div id="sdk-for-android-explore-getWatermarkSize()"
     class="section detail">
 
     ### getWatermarkSize

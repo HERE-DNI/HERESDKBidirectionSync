@@ -40,8 +40,7 @@ This class specifies the visual appearance of a cluster marker.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -122,8 +121,7 @@ This class specifies the visual appearance of a cluster marker.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -182,8 +180,7 @@ This class specifies the visual appearance of a cluster marker.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -234,11 +231,9 @@ This class specifies the visual appearance of a cluster marker.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-image" class="section detail">
+<div id="sdk-for-android-explore-image" class="section detail">
 
     ### image
 
@@ -257,8 +252,7 @@ This class specifies the visual appearance of a cluster marker.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-anchor" class="section detail">
+<div id="sdk-for-android-explore-anchor" class="section detail">
 
     ### anchor
 
@@ -280,11 +274,9 @@ This class specifies the visual appearance of a cluster marker.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapImage,com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### ImageStyle
@@ -320,8 +312,7 @@ This class specifies the visual appearance of a cluster marker.
     offset relative to the cluster's position.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapImage)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### ImageStyle

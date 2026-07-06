@@ -58,8 +58,7 @@ Traffic refresh period error code
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -81,8 +80,7 @@ Traffic refresh period error code
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -144,8 +142,7 @@ Traffic refresh period error code
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -295,11 +292,9 @@ Traffic refresh period error code
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-INTERNAL_ERROR"
+<div id="sdk-for-android-explore-INTERNAL_ERROR"
     class="section detail">
 
     ### INTERNAL_ERROR
@@ -318,8 +313,7 @@ Traffic refresh period error code
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VALUE_OUTSIDE_ALLOWED_RANGE"
+<div id="sdk-for-android-explore-VALUE_OUTSIDE_ALLOWED_RANGE"
     class="section detail">
 
     ### VALUE_OUTSIDE_ALLOWED_RANGE
@@ -340,11 +334,9 @@ Traffic refresh period error code
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -367,8 +359,7 @@ Traffic refresh period error code
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

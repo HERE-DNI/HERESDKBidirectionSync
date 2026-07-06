@@ -54,8 +54,7 @@ calculated.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -496,8 +495,7 @@ calculated.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -545,8 +543,7 @@ calculated.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -665,11 +662,9 @@ calculated.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-routeOptions"
+<div id="sdk-for-android-explore-routeOptions"
     class="section detail">
 
     ### routeOptions
@@ -694,8 +689,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-textOptions"
+<div id="sdk-for-android-explore-textOptions"
     class="section detail">
 
     ### textOptions
@@ -721,8 +715,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-avoidanceOptions"
+<div id="sdk-for-android-explore-avoidanceOptions"
     class="section detail">
 
     ### avoidanceOptions
@@ -748,8 +741,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-tollOptions"
+<div id="sdk-for-android-explore-tollOptions"
     class="section detail">
 
     ### tollOptions
@@ -775,8 +767,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-allowOptions"
+<div id="sdk-for-android-explore-allowOptions"
     class="section detail">
 
     ### allowOptions
@@ -802,8 +793,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-occupantsNumber"
+<div id="sdk-for-android-explore-occupantsNumber"
     class="section detail">
 
     ### occupantsNumber
@@ -832,8 +822,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-lastCharacterOfLicensePlate"
+<div id="sdk-for-android-explore-lastCharacterOfLicensePlate"
     class="section detail">
 
     ### lastCharacterOfLicensePlate
@@ -870,8 +859,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxSpeedOnSegments"
+<div id="sdk-for-android-explore-maxSpeedOnSegments"
     class="section detail">
 
     ### maxSpeedOnSegments
@@ -899,8 +887,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-truckSpecifications"
+<div id="sdk-for-android-explore-truckSpecifications"
     class="section detail">
 
     ### truckSpecifications
@@ -925,8 +912,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-linkTunnelCategory"
+<div id="sdk-for-android-explore-linkTunnelCategory"
     class="section detail">
 
     ### linkTunnelCategory
@@ -953,8 +939,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hazardousMaterials"
+<div id="sdk-for-android-explore-hazardousMaterials"
     class="section detail">
 
     ### hazardousMaterials
@@ -982,8 +967,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-avoidedTruckRoadTypes"
+<div id="sdk-for-android-explore-avoidedTruckRoadTypes"
     class="section detail">
 
     ### avoidedTruckRoadTypes
@@ -1011,8 +995,7 @@ calculated.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-consumptionModel"
+<div id="sdk-for-android-explore-consumptionModel"
     class="section detail">
 
     ### consumptionModel
@@ -1040,11 +1023,9 @@ calculated.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### EVTruckOptions
 
@@ -1069,11 +1050,9 @@ calculated.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -1103,8 +1082,7 @@ calculated.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

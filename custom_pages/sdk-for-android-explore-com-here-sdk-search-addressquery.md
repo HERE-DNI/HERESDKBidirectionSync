@@ -44,8 +44,7 @@ determines the preferred language of the results.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -155,8 +154,7 @@ determines the preferred language of the results.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -235,8 +233,7 @@ determines the preferred language of the results.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -343,11 +340,9 @@ determines the preferred language of the results.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-query" class="section detail">
+<div id="sdk-for-android-explore-query" class="section detail">
 
     ### query
 
@@ -368,8 +363,7 @@ determines the preferred language of the results.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-areaCenter" class="section detail">
+<div id="sdk-for-android-explore-areaCenter" class="section detail">
 
     ### areaCenter
 
@@ -390,8 +384,7 @@ determines the preferred language of the results.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-countries" class="section detail">
+<div id="sdk-for-android-explore-countries" class="section detail">
 
     ### countries
 
@@ -415,11 +408,9 @@ determines the preferred language of the results.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.core.GeoCoordinates)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### AddressQuery
@@ -453,8 +444,7 @@ determines the preferred language of the results.
     most relevant places.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.core.GeoCoordinates,java.util.List)"
+<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.core.GeoCoordinates,java.util.List)"
     class="section detail">
 
     ### AddressQuery
@@ -496,8 +486,7 @@ determines the preferred language of the results.
     A list of countries that the query is applied in.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(java.lang.String)"
+<div id="sdk-for-android-explore-<init>(java.lang.String)"
     class="section detail">
 
     ### AddressQuery
@@ -527,11 +516,9 @@ determines the preferred language of the results.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -555,8 +542,7 @@ determines the preferred language of the results.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

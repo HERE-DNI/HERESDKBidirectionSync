@@ -37,8 +37,7 @@ Contains the information required to create a road shield image.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -205,8 +204,7 @@ Contains the information required to create a road shield image.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -252,8 +250,7 @@ Contains the information required to create a road shield image.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -304,11 +301,9 @@ Contains the information required to create a road shield image.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-routeType" class="section detail">
+<div id="sdk-for-android-explore-routeType" class="section detail">
 
     ### routeType
 
@@ -328,8 +323,7 @@ Contains the information required to create a road shield image.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-countryCode"
+<div id="sdk-for-android-explore-countryCode"
     class="section detail">
 
     ### countryCode
@@ -351,8 +345,7 @@ Contains the information required to create a road shield image.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-stateCode" class="section detail">
+<div id="sdk-for-android-explore-stateCode" class="section detail">
 
     ### stateCode
 
@@ -377,8 +370,7 @@ Contains the information required to create a road shield image.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-routeNumberName"
+<div id="sdk-for-android-explore-routeNumberName"
     class="section detail">
 
     ### routeNumberName
@@ -414,8 +406,7 @@ Contains the information required to create a road shield image.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-shieldText" class="section detail">
+<div id="sdk-for-android-explore-shieldText" class="section detail">
 
     ### shieldText
 
@@ -439,11 +430,9 @@ Contains the information required to create a road shield image.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
     class="section detail">
 
     ### RoadShieldIconProperties

@@ -37,8 +37,7 @@ deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -170,8 +169,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -321,11 +319,9 @@ deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getDataVersion(com.here.sdk.mapview.datasource.TileKey)"
+<div id="sdk-for-android-explore-getDataVersion(com.here.sdk.mapview.datasource.TileKey)"
     class="section detail">
 
     ### getDataVersion
@@ -353,8 +349,7 @@ deprecation process.
     Data version for a tile.
 
     </div>
-
-  - <div id="sdk-for-android-explore-addListener(com.here.sdk.mapview.datasource.TileSource.Listener)"
+<div id="sdk-for-android-explore-addListener(com.here.sdk.mapview.datasource.TileSource.Listener)"
     class="section detail">
 
     ### addListener
@@ -378,8 +373,7 @@ deprecation process.
     The listener
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeListener(com.here.sdk.mapview.datasource.TileSource.Listener)"
+<div id="sdk-for-android-explore-removeListener(com.here.sdk.mapview.datasource.TileSource.Listener)"
     class="section detail">
 
     ### removeListener
@@ -403,8 +397,7 @@ deprecation process.
     Listener to be removed from receiving state notifications.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTilingScheme()"
+<div id="sdk-for-android-explore-getTilingScheme()"
     class="section detail">
 
     ### getTilingScheme
@@ -426,8 +419,7 @@ deprecation process.
     The tiling scheme used by this source.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getStorageLevels()"
+<div id="sdk-for-android-explore-getStorageLevels()"
     class="section detail">
 
     ### getStorageLevels

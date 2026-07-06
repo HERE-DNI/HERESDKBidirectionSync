@@ -103,8 +103,7 @@ initialized.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -237,8 +236,7 @@ initialized.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="inherited-list">
@@ -258,8 +256,7 @@ initialized.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -392,8 +389,7 @@ initialized.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -1333,11 +1329,9 @@ initialized.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(android.content.Context,com.here.sdk.mapview.MapViewOptions)"
+<div id="sdk-for-android-explore-<init>(android.content.Context,com.here.sdk.mapview.MapViewOptions)"
     class="section detail">
 
     ### MapView
@@ -1362,8 +1356,7 @@ initialized.
     `options` - Customization of view for example its map projection.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(android.content.Context)"
+<div id="sdk-for-android-explore-<init>(android.content.Context)"
     class="section detail">
 
     ### MapView
@@ -1385,8 +1378,7 @@ initialized.
     access the current theme, resources, etc.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(android.content.Context,android.util.AttributeSet)"
+<div id="sdk-for-android-explore-<init>(android.content.Context,android.util.AttributeSet)"
     class="section detail">
 
     ### MapView
@@ -1412,8 +1404,7 @@ initialized.
     in an XML document.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(android.content.Context,android.util.AttributeSet,int)"
+<div id="sdk-for-android-explore-<init>(android.content.Context,android.util.AttributeSet,int)"
     class="section detail">
 
     ### MapView
@@ -1443,8 +1434,7 @@ initialized.
     StyledAttributes. Can be 0 to not look for defaults.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,android.content.Context,android.util.AttributeSet,int)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,android.content.Context,android.util.AttributeSet,int)"
     class="section detail">
 
     ### MapView
@@ -1477,8 +1467,7 @@ initialized.
     StyledAttributes. Can be 0 to not look for defaults.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.mapview.MapViewOptions,android.content.Context,android.util.AttributeSet,int)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine,com.here.sdk.mapview.MapViewOptions,android.content.Context,android.util.AttributeSet,int)"
     class="section detail">
 
     ### MapView
@@ -1516,11 +1505,9 @@ initialized.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-setVisibility(int)"
+<div id="sdk-for-android-explore-setVisibility(int)"
     class="section detail">
 
     ### setVisibility
@@ -1547,8 +1534,7 @@ initialized.
     `View.VISIBLE` or `View.GONE`.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setPrimaryLanguage(com.here.sdk.core.LanguageCode)"
+<div id="sdk-for-android-explore-setPrimaryLanguage(com.here.sdk.core.LanguageCode)"
     class="section detail">
 
     ### setPrimaryLanguage
@@ -1575,8 +1561,7 @@ initialized.
     default language.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setSecondaryLanguage(com.here.sdk.core.LanguageCode)"
+<div id="sdk-for-android-explore-setSecondaryLanguage(com.here.sdk.core.LanguageCode)"
     class="section detail">
 
     ### setSecondaryLanguage
@@ -1605,8 +1590,7 @@ initialized.
     unset.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPrimaryLanguage()"
+<div id="sdk-for-android-explore-getPrimaryLanguage()"
     class="section detail">
 
     ### getPrimaryLanguage
@@ -1629,8 +1613,7 @@ initialized.
     The code of currently set language or @null language.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getSecondaryLanguage()"
+<div id="sdk-for-android-explore-getSecondaryLanguage()"
     class="section detail">
 
     ### getSecondaryLanguage
@@ -1655,8 +1638,7 @@ initialized.
     The code of currently set language or @null language.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setShadowQuality(com.here.sdk.mapview.ShadowQuality)"
+<div id="sdk-for-android-explore-setShadowQuality(com.here.sdk.mapview.ShadowQuality)"
     class="section detail">
 
     ### setShadowQuality
@@ -1684,8 +1666,7 @@ initialized.
     `shadowQuality` - The shadow quality.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getShadowQuality()"
+<div id="sdk-for-android-explore-getShadowQuality()"
     class="section detail">
 
     ### getShadowQuality
@@ -1709,8 +1690,7 @@ initialized.
     The currently set shadow quality.
 
     </div>
-
-  - <div id="sdk-for-android-explore-onCreate(android.os.Bundle)"
+<div id="sdk-for-android-explore-onCreate(android.os.Bundle)"
     class="section detail">
 
     ### onCreate
@@ -1734,8 +1714,7 @@ initialized.
     view owner
 
     </div>
-
-  - <div id="sdk-for-android-explore-onCreate(android.os.Bundle,java.lang.String)"
+<div id="sdk-for-android-explore-onCreate(android.os.Bundle,java.lang.String)"
     class="section detail">
 
     ### onCreate
@@ -1767,8 +1746,7 @@ initialized.
     MapView.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)"
+<div id="sdk-for-android-explore-setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)"
     class="section detail">
 
     ### setOnReadyListener
@@ -1806,8 +1784,7 @@ initialized.
     method was not called beforehand.
 
     </div>
-
-  - <div id="sdk-for-android-explore-onResume()" class="section detail">
+<div id="sdk-for-android-explore-onResume()" class="section detail">
 
     ### onResume
 
@@ -1824,8 +1801,7 @@ initialized.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-onPause()" class="section detail">
+<div id="sdk-for-android-explore-onPause()" class="section detail">
 
     ### onPause
 
@@ -1842,8 +1818,7 @@ initialized.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-isValid()" class="section detail">
+<div id="sdk-for-android-explore-isValid()" class="section detail">
 
     ### isValid
 
@@ -1871,8 +1846,7 @@ initialized.
     `true` if this `MapView` is valid, `false` otherwise.
 
     </div>
-
-  - <div id="sdk-for-android-explore-onDestroy()"
+<div id="sdk-for-android-explore-onDestroy()"
     class="section detail">
 
     ### onDestroy
@@ -1890,8 +1864,7 @@ initialized.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-onSaveInstanceState(android.os.Bundle)"
+<div id="sdk-for-android-explore-onSaveInstanceState(android.os.Bundle)"
     class="section detail">
 
     ### onSaveInstanceState
@@ -1913,8 +1886,7 @@ initialized.
     `bundle` - the bundle which was passed to lifecycle owner
 
     </div>
-
-  - <div id="sdk-for-android-explore-onSaveInstanceState(android.os.Bundle,java.lang.String)"
+<div id="sdk-for-android-explore-onSaveInstanceState(android.os.Bundle,java.lang.String)"
     class="section detail">
 
     ### onSaveInstanceState
@@ -1945,8 +1917,7 @@ initialized.
     MapView instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)"
+<div id="sdk-for-android-explore-pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)"
     class="section detail">
 
     ### pick
@@ -1994,8 +1965,7 @@ initialized.
     thread when pick operation completes.
 
     </div>
-
-  - <div id="sdk-for-android-explore-geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)"
+<div id="sdk-for-android-explore-geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### geoToViewCoordinates
@@ -2051,8 +2021,7 @@ initialized.
     - [`MapView.OnReadyListener`](sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener "interface in com.here.sdk.mapview")
 
     </div>
-
-  - <div id="sdk-for-android-explore-addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
+<div id="sdk-for-android-explore-addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
     class="section detail">
 
     ### addLifecycleListener
@@ -2091,8 +2060,7 @@ initialized.
     method was not called beforehand.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
+<div id="sdk-for-android-explore-removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
     class="section detail">
 
     ### removeLifecycleListener
@@ -2133,8 +2101,7 @@ initialized.
     method was not called beforehand.
 
     </div>
-
-  - <div id="sdk-for-android-explore-pinView(android.view.View,com.here.sdk.core.GeoCoordinates)"
+<div id="sdk-for-android-explore-pinView(android.view.View,com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### pinView
@@ -2169,8 +2136,7 @@ initialized.
     pinned to the map.
 
     </div>
-
-  - <div id="sdk-for-android-explore-unpinView(android.view.View)"
+<div id="sdk-for-android-explore-unpinView(android.view.View)"
     class="section detail">
 
     ### unpinView
@@ -2194,8 +2160,7 @@ initialized.
     `view` - The view corresponding to the `ViewPin` to remove.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getViewPins()"
+<div id="sdk-for-android-explore-getViewPins()"
     class="section detail">
 
     ### getViewPins
@@ -2219,8 +2184,7 @@ initialized.
     A copy of the list of view pins.
 
     </div>
-
-  - <div id="sdk-for-android-explore-viewToGeoCoordinates(com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-viewToGeoCoordinates(com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### viewToGeoCoordinates
@@ -2277,8 +2241,7 @@ initialized.
     - [`MapView.OnReadyListener`](sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener "interface in com.here.sdk.mapview")
 
     </div>
-
-  - <div id="sdk-for-android-explore-getGestures()"
+<div id="sdk-for-android-explore-getGestures()"
     class="section detail">
 
     ### getGestures
@@ -2318,8 +2281,7 @@ initialized.
     method was not called beforehand.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPixelScale()"
+<div id="sdk-for-android-explore-getPixelScale()"
     class="section detail">
 
     ### getPixelScale
@@ -2361,8 +2323,7 @@ initialized.
     method was not called beforehand.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getViewportSize()"
+<div id="sdk-for-android-explore-getViewportSize()"
     class="section detail">
 
     ### getViewportSize
@@ -2403,8 +2364,7 @@ initialized.
     method was not called beforehand.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getFrameRate()"
+<div id="sdk-for-android-explore-getFrameRate()"
     class="section detail">
 
     ### getFrameRate
@@ -2430,8 +2390,7 @@ initialized.
     Actual maximal render frame rate
 
     </div>
-
-  - <div id="sdk-for-android-explore-setFrameRate(int)"
+<div id="sdk-for-android-explore-setFrameRate(int)"
     class="section detail">
 
     ### setFrameRate
@@ -2458,8 +2417,7 @@ initialized.
     values has no effect.
 
     </div>
-
-  - <div id="sdk-for-android-explore-takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)"
+<div id="sdk-for-android-explore-takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)"
     class="section detail">
 
     ### takeScreenshot
@@ -2496,8 +2454,7 @@ initialized.
     method was not called beforehand.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### setWatermarkLocation
@@ -2551,8 +2508,7 @@ initialized.
     view size changes.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getWatermarkSize()"
+<div id="sdk-for-android-explore-getWatermarkSize()"
     class="section detail">
 
     ### getWatermarkSize
@@ -2578,8 +2534,7 @@ initialized.
     Provides the size of the watermark in physical pixels.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getCamera()"
+<div id="sdk-for-android-explore-getCamera()"
     class="section detail">
 
     ### getCamera
@@ -2619,8 +2574,7 @@ initialized.
     method was not called beforehand.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getMapScene()"
+<div id="sdk-for-android-explore-getMapScene()"
     class="section detail">
 
     ### getMapScene
@@ -2662,8 +2616,7 @@ initialized.
     method was not called beforehand.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getMapContext()"
+<div id="sdk-for-android-explore-getMapContext()"
     class="section detail">
 
     ### getMapContext
@@ -2703,8 +2656,7 @@ initialized.
     method was not called beforehand.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getHereMap()"
+<div id="sdk-for-android-explore-getHereMap()"
     class="section detail">
 
     ### getHereMap
@@ -2744,8 +2696,7 @@ initialized.
     method was not called beforehand.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setFixedSize(int,int,double)"
+<div id="sdk-for-android-explore-setFixedSize(int,int,double)"
     class="section detail">
 
     ### setFixedSize

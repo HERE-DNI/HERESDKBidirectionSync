@@ -40,8 +40,7 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -83,8 +82,7 @@ APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -227,11 +225,9 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### LineDataBuilder
 
@@ -250,11 +246,9 @@ APIs may change for new releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-withGeometry(com.here.sdk.core.GeoPolyline)"
+<div id="sdk-for-android-explore-withGeometry(com.here.sdk.core.GeoPolyline)"
     class="section detail">
 
     ### withGeometry
@@ -286,8 +280,7 @@ APIs may change for new releases without a deprecation process.
     The builder.
 
     </div>
-
-  - <div id="sdk-for-android-explore-withAttributes(com.here.sdk.mapview.datasource.DataAttributes)"
+<div id="sdk-for-android-explore-withAttributes(com.here.sdk.mapview.datasource.DataAttributes)"
     class="section detail">
 
     ### withAttributes
@@ -316,8 +309,7 @@ APIs may change for new releases without a deprecation process.
     The builder.
 
     </div>
-
-  - <div id="sdk-for-android-explore-build()" class="section detail">
+<div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

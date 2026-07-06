@@ -53,8 +53,7 @@ used in AvoidanceOptions .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ used in AvoidanceOptions .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -158,8 +156,7 @@ used in AvoidanceOptions .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -309,11 +306,9 @@ used in AvoidanceOptions .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-ENVIRONMENTAL"
+<div id="sdk-for-android-explore-ENVIRONMENTAL"
     class="section detail">
 
     ### ENVIRONMENTAL
@@ -334,8 +329,7 @@ used in AvoidanceOptions .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIGNETTE" class="section detail">
+<div id="sdk-for-android-explore-VIGNETTE" class="section detail">
 
     ### VIGNETTE
 
@@ -354,8 +348,7 @@ used in AvoidanceOptions .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CONGESTION_PRICING"
+<div id="sdk-for-android-explore-CONGESTION_PRICING"
     class="section detail">
 
     ### CONGESTION_PRICING
@@ -378,11 +371,9 @@ used in AvoidanceOptions .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -405,8 +396,7 @@ used in AvoidanceOptions .
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

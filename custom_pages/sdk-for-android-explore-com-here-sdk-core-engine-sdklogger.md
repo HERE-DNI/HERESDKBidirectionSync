@@ -39,8 +39,7 @@ logging functions.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -229,11 +228,9 @@ logging functions.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)"
     class="section detail">
 
     ### log
@@ -266,8 +263,7 @@ logging functions.
     The log message.
 
     </div>
-
-  - <div id="sdk-for-android-explore-info(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-info(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### info
@@ -301,8 +297,7 @@ logging functions.
     The log message.
 
     </div>
-
-  - <div id="sdk-for-android-explore-warn(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-warn(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### warn
@@ -337,8 +332,7 @@ logging functions.
     The log message.
 
     </div>
-
-  - <div id="sdk-for-android-explore-error(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-error(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### error
@@ -372,8 +366,7 @@ logging functions.
     The log message.
 
     </div>
-
-  - <div id="sdk-for-android-explore-fatal(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-fatal(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### fatal

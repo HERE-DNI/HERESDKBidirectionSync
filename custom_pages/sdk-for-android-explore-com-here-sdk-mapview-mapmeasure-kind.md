@@ -57,8 +57,7 @@ Kinds of measures.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -80,8 +79,7 @@ Kinds of measures.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -161,8 +159,7 @@ Kinds of measures.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -312,11 +309,9 @@ Kinds of measures.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-DISTANCE_IN_METERS"
+<div id="sdk-for-android-explore-DISTANCE_IN_METERS"
     class="section detail">
 
     ### DISTANCE_IN_METERS
@@ -335,8 +330,7 @@ Kinds of measures.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ZOOM_LEVEL" class="section detail">
+<div id="sdk-for-android-explore-ZOOM_LEVEL" class="section detail">
 
     ### ZOOM_LEVEL
 
@@ -354,8 +348,7 @@ Kinds of measures.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SCALE" class="section detail">
+<div id="sdk-for-android-explore-SCALE" class="section detail">
 
     ### SCALE
 
@@ -375,11 +368,9 @@ Kinds of measures.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -402,8 +393,7 @@ Kinds of measures.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

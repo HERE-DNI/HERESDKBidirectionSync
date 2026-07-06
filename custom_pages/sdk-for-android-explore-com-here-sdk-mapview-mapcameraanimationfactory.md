@@ -39,8 +39,7 @@ over time.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -295,11 +294,9 @@ over time.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-createAnimation(com.here.sdk.mapview.MapCameraUpdate,com.here.time.Duration,com.here.sdk.animation.Easing)"
+<div id="sdk-for-android-explore-createAnimation(com.here.sdk.mapview.MapCameraUpdate,com.here.time.Duration,com.here.sdk.animation.Easing)"
     class="section detail">
 
     ### createAnimation
@@ -347,8 +344,7 @@ over time.
     MapCameraAnimation instance
 
     </div>
-
-  - <div id="sdk-for-android-explore-createAnimation(com.here.sdk.mapview.MapCameraKeyframeTrack)"
+<div id="sdk-for-android-explore-createAnimation(com.here.sdk.mapview.MapCameraKeyframeTrack)"
     class="section detail">
 
     ### createAnimation
@@ -378,8 +374,7 @@ over time.
     MapCameraAnimation instance
 
     </div>
-
-  - <div id="sdk-for-android-explore-createAnimation(java.util.List)"
+<div id="sdk-for-android-explore-createAnimation(java.util.List)"
     class="section detail">
 
     ### createAnimation
@@ -430,8 +425,7 @@ over time.
     Indicates an instantiation issue.
 
     </div>
-
-  - <div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,double,com.here.time.Duration)"
+<div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,double,com.here.time.Duration)"
     class="section detail">
 
     ### flyTo
@@ -490,8 +484,7 @@ over time.
     MapCameraAnimation instance
 
     </div>
-
-  - <div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,double,com.here.time.Duration)"
+<div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,double,com.here.time.Duration)"
     class="section detail">
 
     ### flyTo
@@ -556,8 +549,7 @@ over time.
     MapCameraAnimation instance
 
     </div>
-
-  - <div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)"
+<div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)"
     class="section detail">
 
     ### flyTo
@@ -623,8 +615,7 @@ over time.
     MapCameraAnimation instance
 
     </div>
-
-  - <div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)"
+<div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)"
     class="section detail">
 
     ### flyTo

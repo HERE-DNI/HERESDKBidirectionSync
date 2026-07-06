@@ -40,8 +40,7 @@ deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -1182,8 +1181,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -1221,8 +1219,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -1273,11 +1270,9 @@ deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-CHADEMO" class="section detail">
+<div id="sdk-for-android-explore-CHADEMO" class="section detail">
 
     ### CHADEMO
 
@@ -1301,8 +1296,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHADEMO)
 
     </div>
-
-  - <div id="sdk-for-android-explore-CHAOJI" class="section detail">
+<div id="sdk-for-android-explore-CHAOJI" class="section detail">
 
     ### CHAOJI
 
@@ -1327,8 +1321,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.CHAOJI)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_A" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_A" class="section detail">
 
     ### DOMESTIC_A
 
@@ -1352,8 +1345,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_A)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_B" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_B" class="section detail">
 
     ### DOMESTIC_B
 
@@ -1377,8 +1369,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_B)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_C" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_C" class="section detail">
 
     ### DOMESTIC_C
 
@@ -1402,8 +1393,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_C)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_D" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_D" class="section detail">
 
     ### DOMESTIC_D
 
@@ -1427,8 +1417,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_D)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_E" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_E" class="section detail">
 
     ### DOMESTIC_E
 
@@ -1452,8 +1441,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_E)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_F" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_F" class="section detail">
 
     ### DOMESTIC_F
 
@@ -1477,8 +1465,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_F)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_G" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_G" class="section detail">
 
     ### DOMESTIC_G
 
@@ -1503,8 +1490,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_G)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_H" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_H" class="section detail">
 
     ### DOMESTIC_H
 
@@ -1528,8 +1514,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_H)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_I" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_I" class="section detail">
 
     ### DOMESTIC_I
 
@@ -1553,8 +1538,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_I)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_J" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_J" class="section detail">
 
     ### DOMESTIC_J
 
@@ -1578,8 +1562,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_J)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_K" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_K" class="section detail">
 
     ### DOMESTIC_K
 
@@ -1603,8 +1586,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_K)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_L" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_L" class="section detail">
 
     ### DOMESTIC_L
 
@@ -1628,8 +1610,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_L)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_M" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_M" class="section detail">
 
     ### DOMESTIC_M
 
@@ -1653,8 +1634,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_M)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_N" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_N" class="section detail">
 
     ### DOMESTIC_N
 
@@ -1678,8 +1658,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_N)
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOMESTIC_O" class="section detail">
+<div id="sdk-for-android-explore-DOMESTIC_O" class="section detail">
 
     ### DOMESTIC_O
 
@@ -1703,8 +1682,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.DOMESTIC_O)
 
     </div>
-
-  - <div id="sdk-for-android-explore-GBT_AC" class="section detail">
+<div id="sdk-for-android-explore-GBT_AC" class="section detail">
 
     ### GBT_AC
 
@@ -1728,8 +1706,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_AC)
 
     </div>
-
-  - <div id="sdk-for-android-explore-GBT_DC" class="section detail">
+<div id="sdk-for-android-explore-GBT_DC" class="section detail">
 
     ### GBT_DC
 
@@ -1753,8 +1730,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.GBT_DC)
 
     </div>
-
-  - <div id="sdk-for-android-explore-IEC_60309_2_SINGLE_16"
+<div id="sdk-for-android-explore-IEC_60309_2_SINGLE_16"
     class="section detail">
 
     ### IEC_60309_2_SINGLE_16
@@ -1780,8 +1756,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_SINGLE_16)
 
     </div>
-
-  - <div id="sdk-for-android-explore-IEC_60309_2_THREE_16"
+<div id="sdk-for-android-explore-IEC_60309_2_THREE_16"
     class="section detail">
 
     ### IEC_60309_2_THREE_16
@@ -1807,8 +1782,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_16)
 
     </div>
-
-  - <div id="sdk-for-android-explore-IEC_60309_2_THREE_32"
+<div id="sdk-for-android-explore-IEC_60309_2_THREE_32"
     class="section detail">
 
     ### IEC_60309_2_THREE_32
@@ -1834,8 +1808,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_32)
 
     </div>
-
-  - <div id="sdk-for-android-explore-IEC_60309_2_THREE_64"
+<div id="sdk-for-android-explore-IEC_60309_2_THREE_64"
     class="section detail">
 
     ### IEC_60309_2_THREE_64
@@ -1861,8 +1834,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_60309_2_THREE_64)
 
     </div>
-
-  - <div id="sdk-for-android-explore-IEC_62196_T1"
+<div id="sdk-for-android-explore-IEC_62196_T1"
     class="section detail">
 
     ### IEC_62196_T1
@@ -1887,8 +1859,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1)
 
     </div>
-
-  - <div id="sdk-for-android-explore-IEC_62196_T1_COMBO"
+<div id="sdk-for-android-explore-IEC_62196_T1_COMBO"
     class="section detail">
 
     ### IEC_62196_T1_COMBO
@@ -1913,8 +1884,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T1_COMBO)
 
     </div>
-
-  - <div id="sdk-for-android-explore-IEC_62196_T2"
+<div id="sdk-for-android-explore-IEC_62196_T2"
     class="section detail">
 
     ### IEC_62196_T2
@@ -1939,8 +1909,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2)
 
     </div>
-
-  - <div id="sdk-for-android-explore-IEC_62196_T2_COMBO"
+<div id="sdk-for-android-explore-IEC_62196_T2_COMBO"
     class="section detail">
 
     ### IEC_62196_T2_COMBO
@@ -1965,8 +1934,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T2_COMBO)
 
     </div>
-
-  - <div id="sdk-for-android-explore-IEC_62196_T3A"
+<div id="sdk-for-android-explore-IEC_62196_T3A"
     class="section detail">
 
     ### IEC_62196_T3A
@@ -1991,8 +1959,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3A)
 
     </div>
-
-  - <div id="sdk-for-android-explore-IEC_62196_T3C"
+<div id="sdk-for-android-explore-IEC_62196_T3C"
     class="section detail">
 
     ### IEC_62196_T3C
@@ -2017,8 +1984,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.IEC_62196_T3C)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NEMA_5_20" class="section detail">
+<div id="sdk-for-android-explore-NEMA_5_20" class="section detail">
 
     ### NEMA_5_20
 
@@ -2042,8 +2008,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_5_20)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NEMA_6_30" class="section detail">
+<div id="sdk-for-android-explore-NEMA_6_30" class="section detail">
 
     ### NEMA_6_30
 
@@ -2067,8 +2032,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_30)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NEMA_6_50" class="section detail">
+<div id="sdk-for-android-explore-NEMA_6_50" class="section detail">
 
     ### NEMA_6_50
 
@@ -2092,8 +2056,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_6_50)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NEMA_10_30" class="section detail">
+<div id="sdk-for-android-explore-NEMA_10_30" class="section detail">
 
     ### NEMA_10_30
 
@@ -2117,8 +2080,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_30)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NEMA_10_50" class="section detail">
+<div id="sdk-for-android-explore-NEMA_10_50" class="section detail">
 
     ### NEMA_10_50
 
@@ -2142,8 +2104,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_10_50)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NEMA_14_30" class="section detail">
+<div id="sdk-for-android-explore-NEMA_14_30" class="section detail">
 
     ### NEMA_14_30
 
@@ -2167,8 +2128,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_30)
 
     </div>
-
-  - <div id="sdk-for-android-explore-NEMA_14_50" class="section detail">
+<div id="sdk-for-android-explore-NEMA_14_50" class="section detail">
 
     ### NEMA_14_50
 
@@ -2192,8 +2152,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.NEMA_14_50)
 
     </div>
-
-  - <div id="sdk-for-android-explore-PANTOGRAPH_BOTTOM_UP"
+<div id="sdk-for-android-explore-PANTOGRAPH_BOTTOM_UP"
     class="section detail">
 
     ### PANTOGRAPH_BOTTOM_UP
@@ -2218,8 +2177,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_BOTTOM_UP)
 
     </div>
-
-  - <div id="sdk-for-android-explore-PANTOGRAPH_TOP_DOWN"
+<div id="sdk-for-android-explore-PANTOGRAPH_TOP_DOWN"
     class="section detail">
 
     ### PANTOGRAPH_TOP_DOWN
@@ -2244,8 +2202,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.PANTOGRAPH_TOP_DOWN)
 
     </div>
-
-  - <div id="sdk-for-android-explore-TESLA_R" class="section detail">
+<div id="sdk-for-android-explore-TESLA_R" class="section detail">
 
     ### TESLA_R
 
@@ -2269,8 +2226,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.TESLA_R)
 
     </div>
-
-  - <div id="sdk-for-android-explore-SAE_J3400" class="section detail">
+<div id="sdk-for-android-explore-SAE_J3400" class="section detail">
 
     ### SAE_J3400
 
@@ -2295,8 +2251,7 @@ deprecation process.
       Values](sdk-for-android-explore-constant-values#com.here.sdk.ev.EVChargingConnectorType.SAE_J3400)
 
     </div>
-
-  - <div id="sdk-for-android-explore-MCS" class="section detail">
+<div id="sdk-for-android-explore-MCS" class="section detail">
 
     ### MCS
 
@@ -2322,11 +2277,9 @@ deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### EVChargingConnectorType
 

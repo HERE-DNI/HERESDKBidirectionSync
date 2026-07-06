@@ -53,8 +53,7 @@ Indoor route features.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ Indoor route features.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -265,8 +263,7 @@ Indoor route features.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -416,11 +413,9 @@ Indoor route features.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CONNECTOR" class="section detail">
+<div id="sdk-for-android-explore-CONNECTOR" class="section detail">
 
     ### CONNECTOR
 
@@ -438,8 +433,7 @@ Indoor route features.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ELEVATOR" class="section detail">
+<div id="sdk-for-android-explore-ELEVATOR" class="section detail">
 
     ### ELEVATOR
 
@@ -457,8 +451,7 @@ Indoor route features.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ESCALATOR" class="section detail">
+<div id="sdk-for-android-explore-ESCALATOR" class="section detail">
 
     ### ESCALATOR
 
@@ -476,8 +469,7 @@ Indoor route features.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RAMP" class="section detail">
+<div id="sdk-for-android-explore-RAMP" class="section detail">
 
     ### RAMP
 
@@ -495,8 +487,7 @@ Indoor route features.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-STAIRS" class="section detail">
+<div id="sdk-for-android-explore-STAIRS" class="section detail">
 
     ### STAIRS
 
@@ -514,8 +505,7 @@ Indoor route features.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PEDESTRIAN_RAMP"
+<div id="sdk-for-android-explore-PEDESTRIAN_RAMP"
     class="section detail">
 
     ### PEDESTRIAN_RAMP
@@ -534,8 +524,7 @@ Indoor route features.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAR_LIFT" class="section detail">
+<div id="sdk-for-android-explore-CAR_LIFT" class="section detail">
 
     ### CAR_LIFT
 
@@ -553,8 +542,7 @@ Indoor route features.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DRIVE_RAMP" class="section detail">
+<div id="sdk-for-android-explore-DRIVE_RAMP" class="section detail">
 
     ### DRIVE_RAMP
 
@@ -572,8 +560,7 @@ Indoor route features.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ELEVATOR_BANK"
+<div id="sdk-for-android-explore-ELEVATOR_BANK"
     class="section detail">
 
     ### ELEVATOR_BANK
@@ -594,11 +581,9 @@ Indoor route features.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -621,8 +606,7 @@ Indoor route features.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

@@ -39,8 +39,7 @@ layer gets removed from the map upon instance destruction.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -206,11 +205,9 @@ layer gets removed from the map upon instance destruction.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-setEnabled(boolean)"
+<div id="sdk-for-android-explore-setEnabled(boolean)"
     class="section detail">
 
     ### setEnabled
@@ -233,8 +230,7 @@ layer gets removed from the map upon instance destruction.
     `True` to enable the layer, `false` to disable it.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setStyle(com.here.sdk.mapview.Style)"
+<div id="sdk-for-android-explore-setStyle(com.here.sdk.mapview.Style)"
     class="section detail">
 
     ### setStyle
@@ -262,8 +258,7 @@ layer gets removed from the map upon instance destruction.
     Style for the layer.
 
     </div>
-
-  - <div id="sdk-for-android-explore-setPriority(com.here.sdk.mapview.MapLayerPriority)"
+<div id="sdk-for-android-explore-setPriority(com.here.sdk.mapview.MapLayerPriority)"
     class="section detail">
 
     ### setPriority
@@ -288,8 +283,7 @@ layer gets removed from the map upon instance destruction.
     Priority for the layer.
 
     </div>
-
-  - <div id="sdk-for-android-explore-destroy()" class="section detail">
+<div id="sdk-for-android-explore-destroy()" class="section detail">
 
     ### destroy
 

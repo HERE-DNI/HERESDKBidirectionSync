@@ -42,8 +42,7 @@ them, the route calculation will fail as an invalid parameter error.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -221,8 +220,7 @@ them, the route calculation will fail as an invalid parameter error.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -285,8 +283,7 @@ them, the route calculation will fail as an invalid parameter error.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -393,11 +390,9 @@ them, the route calculation will fail as an invalid parameter error.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-powerInKilowatts"
+<div id="sdk-for-android-explore-powerInKilowatts"
     class="section detail">
 
     ### powerInKilowatts
@@ -415,8 +410,7 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-currentInAmperes"
+<div id="sdk-for-android-explore-currentInAmperes"
     class="section detail">
 
     ### currentInAmperes
@@ -434,8 +428,7 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-voltageInVolts"
+<div id="sdk-for-android-explore-voltageInVolts"
     class="section detail">
 
     ### voltageInVolts
@@ -453,8 +446,7 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-supplyType" class="section detail">
+<div id="sdk-for-android-explore-supplyType" class="section detail">
 
     ### supplyType
 
@@ -472,8 +464,7 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-minDuration"
+<div id="sdk-for-android-explore-minDuration"
     class="section detail">
 
     ### minDuration
@@ -496,8 +487,7 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxDuration"
+<div id="sdk-for-android-explore-maxDuration"
     class="section detail">
 
     ### maxDuration
@@ -522,11 +512,9 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### ChargingStop
 
@@ -543,8 +531,7 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(double,double,double,com.here.sdk.routing.ChargingSupplyType,com.here.time.Duration,com.here.time.Duration)"
+<div id="sdk-for-android-explore-<init>(double,double,double,com.here.sdk.routing.ChargingSupplyType,com.here.time.Duration,com.here.time.Duration)"
     class="section detail">
 
     ### ChargingStop
@@ -605,11 +592,9 @@ them, the route calculation will fail as an invalid parameter error.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -633,8 +618,7 @@ them, the route calculation will fail as an invalid parameter error.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

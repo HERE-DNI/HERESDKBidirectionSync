@@ -43,8 +43,7 @@ focused search.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -268,11 +267,9 @@ focused search.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getHighlights()"
+<div id="sdk-for-android-explore-getHighlights()"
     class="section detail">
 
     ### getHighlights
@@ -302,8 +299,7 @@ focused search.
     value.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getTitle()" class="section detail">
+<div id="sdk-for-android-explore-getTitle()" class="section detail">
 
     ### getTitle
 
@@ -326,8 +322,7 @@ focused search.
     The localized title for the suggestion.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getType()" class="section detail">
+<div id="sdk-for-android-explore-getType()" class="section detail">
 
     ### getType
 
@@ -348,8 +343,7 @@ focused search.
     Type of the suggestion.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getPlace()" class="section detail">
+<div id="sdk-for-android-explore-getPlace()" class="section detail">
 
     ### getPlace
 
@@ -371,8 +365,7 @@ focused search.
     The suggested place.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getId()" class="section detail">
+<div id="sdk-for-android-explore-getId()" class="section detail">
 
     ### getId
 
@@ -402,8 +395,7 @@ focused search.
     information.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getHref()" class="section detail">
+<div id="sdk-for-android-explore-getHref()" class="section detail">
 
     ### getHref
 

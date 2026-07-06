@@ -41,8 +41,7 @@ Describes the reason for failing to build a MapLayer .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -125,8 +124,7 @@ Describes the reason for failing to build a MapLayer .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -169,8 +167,7 @@ Describes the reason for failing to build a MapLayer .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -221,11 +218,9 @@ Describes the reason for failing to build a MapLayer .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-errorCode" class="section detail">
+<div id="sdk-for-android-explore-errorCode" class="section detail">
 
     ### errorCode
 
@@ -243,8 +238,7 @@ Describes the reason for failing to build a MapLayer .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-errorDescription"
+<div id="sdk-for-android-explore-errorDescription"
     class="section detail">
 
     ### errorDescription
@@ -267,11 +261,9 @@ Describes the reason for failing to build a MapLayer .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapLayerBuilder.InstantiationErrorCode,java.lang.String)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapLayerBuilder.InstantiationErrorCode,java.lang.String)"
     class="section detail">
 
     ### InstantiationErrorDetails

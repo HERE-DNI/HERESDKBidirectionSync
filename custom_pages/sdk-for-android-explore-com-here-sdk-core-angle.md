@@ -37,8 +37,7 @@ Represents an angle independent of the unit of measurement.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -205,11 +204,9 @@ Represents an angle independent of the unit of measurement.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-fromDegrees(double)"
+<div id="sdk-for-android-explore-fromDegrees(double)"
     class="section detail">
 
     ### fromDegrees
@@ -238,8 +235,7 @@ Represents an angle independent of the unit of measurement.
     The angle as specified by input in degrees.
 
     </div>
-
-  - <div id="sdk-for-android-explore-fromRadians(double)"
+<div id="sdk-for-android-explore-fromRadians(double)"
     class="section detail">
 
     ### fromRadians
@@ -268,8 +264,7 @@ Represents an angle independent of the unit of measurement.
     The angle as specified by input in radians.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDegrees()"
+<div id="sdk-for-android-explore-getDegrees()"
     class="section detail">
 
     ### getDegrees
@@ -290,8 +285,7 @@ Represents an angle independent of the unit of measurement.
     The value of this angle in degrees.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getRadians()"
+<div id="sdk-for-android-explore-getRadians()"
     class="section detail">
 
     ### getRadians

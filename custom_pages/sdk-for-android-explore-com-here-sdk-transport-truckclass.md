@@ -53,8 +53,7 @@ thus subject to change.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ thus subject to change.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -157,8 +155,7 @@ thus subject to change.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -308,11 +305,9 @@ thus subject to change.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-LIGHT_CLASS"
+<div id="sdk-for-android-explore-LIGHT_CLASS"
     class="section detail">
 
     ### LIGHT_CLASS
@@ -331,8 +326,7 @@ thus subject to change.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MEDIUM_CLASS"
+<div id="sdk-for-android-explore-MEDIUM_CLASS"
     class="section detail">
 
     ### MEDIUM_CLASS
@@ -351,8 +345,7 @@ thus subject to change.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HEAVY_CLASS"
+<div id="sdk-for-android-explore-HEAVY_CLASS"
     class="section detail">
 
     ### HEAVY_CLASS
@@ -373,11 +366,9 @@ thus subject to change.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -400,8 +391,7 @@ thus subject to change.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

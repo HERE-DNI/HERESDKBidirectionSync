@@ -42,8 +42,7 @@ deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -101,8 +100,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -313,11 +311,9 @@ deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-add(com.here.sdk.mapview.datasource.PointData)"
+<div id="sdk-for-android-explore-add(com.here.sdk.mapview.datasource.PointData)"
     class="section detail">
 
     ### add
@@ -342,8 +338,7 @@ deprecation process.
     Point to be added.
 
     </div>
-
-  - <div id="sdk-for-android-explore-add(java.util.List)"
+<div id="sdk-for-android-explore-add(java.util.List)"
     class="section detail">
 
     ### add
@@ -370,8 +365,7 @@ deprecation process.
     Point positions.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeAll()"
+<div id="sdk-for-android-explore-removeAll()"
     class="section detail">
 
     ### removeAll
@@ -389,8 +383,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-forEach(com.here.sdk.mapview.datasource.PointDataSource.PointDataProcessor)"
+<div id="sdk-for-android-explore-forEach(com.here.sdk.mapview.datasource.PointDataSource.PointDataProcessor)"
     class="section detail">
 
     ### forEach
@@ -417,8 +410,7 @@ deprecation process.
     Point data processor.
 
     </div>
-
-  - <div id="sdk-for-android-explore-removeIf(com.here.sdk.mapview.datasource.PointDataSource.PointDataProcessor)"
+<div id="sdk-for-android-explore-removeIf(com.here.sdk.mapview.datasource.PointDataSource.PointDataProcessor)"
     class="section detail">
 
     ### removeIf
@@ -445,8 +437,7 @@ deprecation process.
     Point data processor.
 
     </div>
-
-  - <div id="sdk-for-android-explore-destroy()" class="section detail">
+<div id="sdk-for-android-explore-destroy()" class="section detail">
 
     ### destroy
 

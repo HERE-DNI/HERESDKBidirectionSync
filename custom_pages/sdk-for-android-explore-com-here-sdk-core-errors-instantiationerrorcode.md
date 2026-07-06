@@ -53,8 +53,7 @@ Instantiation error.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ Instantiation error.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -341,8 +339,7 @@ Instantiation error.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -492,11 +489,9 @@ Instantiation error.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-ILLEGAL_ARGUMENTS"
+<div id="sdk-for-android-explore-ILLEGAL_ARGUMENTS"
     class="section detail">
 
     ### ILLEGAL_ARGUMENTS
@@ -515,8 +510,7 @@ Instantiation error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FAILED" class="section detail">
+<div id="sdk-for-android-explore-FAILED" class="section detail">
 
     ### FAILED
 
@@ -534,8 +528,7 @@ Instantiation error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHARED_SDK_ENGINE_NOT_INSTANTIATED"
+<div id="sdk-for-android-explore-SHARED_SDK_ENGINE_NOT_INSTANTIATED"
     class="section detail">
 
     ### SHARED_SDK_ENGINE_NOT_INSTANTIATED
@@ -555,8 +548,7 @@ Instantiation error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CACHE_FOLDER_ACCESS_DENIED"
+<div id="sdk-for-android-explore-CACHE_FOLDER_ACCESS_DENIED"
     class="section detail">
 
     ### CACHE_FOLDER_ACCESS_DENIED
@@ -575,8 +567,7 @@ Instantiation error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED"
+<div id="sdk-for-android-explore-PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED"
     class="section detail">
 
     ### PERSISTENT_MAP_STORAGE_FOLDER_ACCESS_DENIED
@@ -595,8 +586,7 @@ Instantiation error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FAILED_TO_LOCK_CACHE_FOLDER"
+<div id="sdk-for-android-explore-FAILED_TO_LOCK_CACHE_FOLDER"
     class="section detail">
 
     ### FAILED_TO_LOCK_CACHE_FOLDER
@@ -616,8 +606,7 @@ Instantiation error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FAILED_TO_CREATE_ANALYTICS_SERVICE"
+<div id="sdk-for-android-explore-FAILED_TO_CREATE_ANALYTICS_SERVICE"
     class="section detail">
 
     ### FAILED_TO_CREATE_ANALYTICS_SERVICE
@@ -636,8 +625,7 @@ Instantiation error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL"
+<div id="sdk-for-android-explore-ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL"
     class="section detail">
 
     ### ACCESS_KEY_CONTAINS_ILLEGAL_SYMBOL
@@ -657,8 +645,7 @@ Instantiation error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL"
+<div id="sdk-for-android-explore-ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL"
     class="section detail">
 
     ### ACCESS_KEY_SECRET_CONTAINS_ILLEGAL_SYMBOL
@@ -678,8 +665,7 @@ Instantiation error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LAYER_CONFIGURATION_MISMATCH"
+<div id="sdk-for-android-explore-LAYER_CONFIGURATION_MISMATCH"
     class="section detail">
 
     ### LAYER_CONFIGURATION_MISMATCH
@@ -699,8 +685,7 @@ Instantiation error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SDK_ENGINE_ALREADY_DISPOSED"
+<div id="sdk-for-android-explore-SDK_ENGINE_ALREADY_DISPOSED"
     class="section detail">
 
     ### SDK_ENGINE_ALREADY_DISPOSED
@@ -720,8 +705,7 @@ Instantiation error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-INVALID_CATALOG_CONFIGURATION"
+<div id="sdk-for-android-explore-INVALID_CATALOG_CONFIGURATION"
     class="section detail">
 
     ### INVALID_CATALOG_CONFIGURATION
@@ -741,8 +725,7 @@ Instantiation error.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DATA_FOLDER_ACCESS_DENIED"
+<div id="sdk-for-android-explore-DATA_FOLDER_ACCESS_DENIED"
     class="section detail">
 
     ### DATA_FOLDER_ACCESS_DENIED
@@ -763,11 +746,9 @@ Instantiation error.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -790,8 +771,7 @@ Instantiation error.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

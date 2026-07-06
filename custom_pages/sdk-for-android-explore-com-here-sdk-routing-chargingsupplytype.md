@@ -53,8 +53,7 @@ Available charging supply types.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ Available charging supply types.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -157,8 +155,7 @@ Available charging supply types.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -308,11 +305,9 @@ Available charging supply types.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-AC_SINGLE" class="section detail">
+<div id="sdk-for-android-explore-AC_SINGLE" class="section detail">
 
     ### AC_SINGLE
 
@@ -330,8 +325,7 @@ Available charging supply types.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AC_THREE" class="section detail">
+<div id="sdk-for-android-explore-AC_THREE" class="section detail">
 
     ### AC_THREE
 
@@ -349,8 +343,7 @@ Available charging supply types.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DC" class="section detail">
+<div id="sdk-for-android-explore-DC" class="section detail">
 
     ### DC
 
@@ -370,11 +363,9 @@ Available charging supply types.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -397,8 +388,7 @@ Available charging supply types.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

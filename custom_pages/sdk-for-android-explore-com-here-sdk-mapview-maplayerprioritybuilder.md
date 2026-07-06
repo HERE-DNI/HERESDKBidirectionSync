@@ -93,8 +93,7 @@ assignment can be done for all types of data: points, lines, polygons.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -136,8 +135,7 @@ assignment can be done for all types of data: points, lines, polygons.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -421,11 +419,9 @@ assignment can be done for all types of data: points, lines, polygons.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MapLayerPriorityBuilder
 
@@ -444,11 +440,9 @@ assignment can be done for all types of data: points, lines, polygons.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-withCategory(java.lang.String)"
+<div id="sdk-for-android-explore-withCategory(java.lang.String)"
     class="section detail">
 
     ### withCategory
@@ -483,8 +477,7 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-inGroup(java.lang.String)"
+<div id="sdk-for-android-explore-inGroup(java.lang.String)"
     class="section detail">
 
     ### inGroup
@@ -531,8 +524,7 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-renderedFirst()"
+<div id="sdk-for-android-explore-renderedFirst()"
     class="section detail">
 
     ### renderedFirst
@@ -567,8 +559,7 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-renderedLast()"
+<div id="sdk-for-android-explore-renderedLast()"
     class="section detail">
 
     ### renderedLast
@@ -603,8 +594,7 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-renderedBeforeLayer(java.lang.String)"
+<div id="sdk-for-android-explore-renderedBeforeLayer(java.lang.String)"
     class="section detail">
 
     ### renderedBeforeLayer
@@ -650,8 +640,7 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-renderedBeforeLayer(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-renderedBeforeLayer(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### renderedBeforeLayer
@@ -706,8 +695,7 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-renderedAfterLayer(java.lang.String)"
+<div id="sdk-for-android-explore-renderedAfterLayer(java.lang.String)"
     class="section detail">
 
     ### renderedAfterLayer
@@ -753,8 +741,7 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-renderedAfterLayer(java.lang.String,java.lang.String)"
+<div id="sdk-for-android-explore-renderedAfterLayer(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### renderedAfterLayer
@@ -809,8 +796,7 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-
-  - <div id="sdk-for-android-explore-build()" class="section detail">
+<div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

@@ -53,8 +53,7 @@ standard using alpha-3 codes.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ standard using alpha-3 codes.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -4217,8 +4215,7 @@ standard using alpha-3 codes.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -4368,11 +4365,9 @@ standard using alpha-3 codes.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-ABW" class="section detail">
+<div id="sdk-for-android-explore-ABW" class="section detail">
 
     ### ABW
 
@@ -4390,8 +4385,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AFG" class="section detail">
+<div id="sdk-for-android-explore-AFG" class="section detail">
 
     ### AFG
 
@@ -4409,8 +4403,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AGO" class="section detail">
+<div id="sdk-for-android-explore-AGO" class="section detail">
 
     ### AGO
 
@@ -4428,8 +4421,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AIA" class="section detail">
+<div id="sdk-for-android-explore-AIA" class="section detail">
 
     ### AIA
 
@@ -4447,8 +4439,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ALB" class="section detail">
+<div id="sdk-for-android-explore-ALB" class="section detail">
 
     ### ALB
 
@@ -4466,8 +4457,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AND" class="section detail">
+<div id="sdk-for-android-explore-AND" class="section detail">
 
     ### AND
 
@@ -4485,8 +4475,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ARE" class="section detail">
+<div id="sdk-for-android-explore-ARE" class="section detail">
 
     ### ARE
 
@@ -4504,8 +4493,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ARG" class="section detail">
+<div id="sdk-for-android-explore-ARG" class="section detail">
 
     ### ARG
 
@@ -4523,8 +4511,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ARM" class="section detail">
+<div id="sdk-for-android-explore-ARM" class="section detail">
 
     ### ARM
 
@@ -4542,8 +4529,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ASM" class="section detail">
+<div id="sdk-for-android-explore-ASM" class="section detail">
 
     ### ASM
 
@@ -4561,8 +4547,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ATA" class="section detail">
+<div id="sdk-for-android-explore-ATA" class="section detail">
 
     ### ATA
 
@@ -4580,8 +4565,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ATG" class="section detail">
+<div id="sdk-for-android-explore-ATG" class="section detail">
 
     ### ATG
 
@@ -4599,8 +4583,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AUS" class="section detail">
+<div id="sdk-for-android-explore-AUS" class="section detail">
 
     ### AUS
 
@@ -4618,8 +4601,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AUT" class="section detail">
+<div id="sdk-for-android-explore-AUT" class="section detail">
 
     ### AUT
 
@@ -4637,8 +4619,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AZE" class="section detail">
+<div id="sdk-for-android-explore-AZE" class="section detail">
 
     ### AZE
 
@@ -4656,8 +4637,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BDI" class="section detail">
+<div id="sdk-for-android-explore-BDI" class="section detail">
 
     ### BDI
 
@@ -4675,8 +4655,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BEL" class="section detail">
+<div id="sdk-for-android-explore-BEL" class="section detail">
 
     ### BEL
 
@@ -4694,8 +4673,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BEN" class="section detail">
+<div id="sdk-for-android-explore-BEN" class="section detail">
 
     ### BEN
 
@@ -4713,8 +4691,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BES" class="section detail">
+<div id="sdk-for-android-explore-BES" class="section detail">
 
     ### BES
 
@@ -4732,8 +4709,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BFA" class="section detail">
+<div id="sdk-for-android-explore-BFA" class="section detail">
 
     ### BFA
 
@@ -4751,8 +4727,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BGD" class="section detail">
+<div id="sdk-for-android-explore-BGD" class="section detail">
 
     ### BGD
 
@@ -4770,8 +4745,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BGR" class="section detail">
+<div id="sdk-for-android-explore-BGR" class="section detail">
 
     ### BGR
 
@@ -4789,8 +4763,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BHR" class="section detail">
+<div id="sdk-for-android-explore-BHR" class="section detail">
 
     ### BHR
 
@@ -4808,8 +4781,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BHS" class="section detail">
+<div id="sdk-for-android-explore-BHS" class="section detail">
 
     ### BHS
 
@@ -4827,8 +4799,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BIH" class="section detail">
+<div id="sdk-for-android-explore-BIH" class="section detail">
 
     ### BIH
 
@@ -4846,8 +4817,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BLM" class="section detail">
+<div id="sdk-for-android-explore-BLM" class="section detail">
 
     ### BLM
 
@@ -4865,8 +4835,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BLR" class="section detail">
+<div id="sdk-for-android-explore-BLR" class="section detail">
 
     ### BLR
 
@@ -4884,8 +4853,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BLZ" class="section detail">
+<div id="sdk-for-android-explore-BLZ" class="section detail">
 
     ### BLZ
 
@@ -4903,8 +4871,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BMU" class="section detail">
+<div id="sdk-for-android-explore-BMU" class="section detail">
 
     ### BMU
 
@@ -4922,8 +4889,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BOL" class="section detail">
+<div id="sdk-for-android-explore-BOL" class="section detail">
 
     ### BOL
 
@@ -4941,8 +4907,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BRA" class="section detail">
+<div id="sdk-for-android-explore-BRA" class="section detail">
 
     ### BRA
 
@@ -4960,8 +4925,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BRB" class="section detail">
+<div id="sdk-for-android-explore-BRB" class="section detail">
 
     ### BRB
 
@@ -4979,8 +4943,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BRN" class="section detail">
+<div id="sdk-for-android-explore-BRN" class="section detail">
 
     ### BRN
 
@@ -4998,8 +4961,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BTN" class="section detail">
+<div id="sdk-for-android-explore-BTN" class="section detail">
 
     ### BTN
 
@@ -5017,8 +4979,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BWA" class="section detail">
+<div id="sdk-for-android-explore-BWA" class="section detail">
 
     ### BWA
 
@@ -5036,8 +4997,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAF" class="section detail">
+<div id="sdk-for-android-explore-CAF" class="section detail">
 
     ### CAF
 
@@ -5055,8 +5015,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAN" class="section detail">
+<div id="sdk-for-android-explore-CAN" class="section detail">
 
     ### CAN
 
@@ -5074,8 +5033,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CCK" class="section detail">
+<div id="sdk-for-android-explore-CCK" class="section detail">
 
     ### CCK
 
@@ -5093,8 +5051,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CHE" class="section detail">
+<div id="sdk-for-android-explore-CHE" class="section detail">
 
     ### CHE
 
@@ -5112,8 +5069,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CHL" class="section detail">
+<div id="sdk-for-android-explore-CHL" class="section detail">
 
     ### CHL
 
@@ -5131,8 +5087,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CHN" class="section detail">
+<div id="sdk-for-android-explore-CHN" class="section detail">
 
     ### CHN
 
@@ -5150,8 +5105,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CIV" class="section detail">
+<div id="sdk-for-android-explore-CIV" class="section detail">
 
     ### CIV
 
@@ -5169,8 +5123,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CMR" class="section detail">
+<div id="sdk-for-android-explore-CMR" class="section detail">
 
     ### CMR
 
@@ -5188,8 +5141,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-COD" class="section detail">
+<div id="sdk-for-android-explore-COD" class="section detail">
 
     ### COD
 
@@ -5207,8 +5159,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-COG" class="section detail">
+<div id="sdk-for-android-explore-COG" class="section detail">
 
     ### COG
 
@@ -5226,8 +5177,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-COK" class="section detail">
+<div id="sdk-for-android-explore-COK" class="section detail">
 
     ### COK
 
@@ -5245,8 +5195,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-COL" class="section detail">
+<div id="sdk-for-android-explore-COL" class="section detail">
 
     ### COL
 
@@ -5264,8 +5213,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-COM" class="section detail">
+<div id="sdk-for-android-explore-COM" class="section detail">
 
     ### COM
 
@@ -5283,8 +5231,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CPV" class="section detail">
+<div id="sdk-for-android-explore-CPV" class="section detail">
 
     ### CPV
 
@@ -5302,8 +5249,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CRI" class="section detail">
+<div id="sdk-for-android-explore-CRI" class="section detail">
 
     ### CRI
 
@@ -5321,8 +5267,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CUB" class="section detail">
+<div id="sdk-for-android-explore-CUB" class="section detail">
 
     ### CUB
 
@@ -5340,8 +5285,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CUW" class="section detail">
+<div id="sdk-for-android-explore-CUW" class="section detail">
 
     ### CUW
 
@@ -5359,8 +5303,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CXR" class="section detail">
+<div id="sdk-for-android-explore-CXR" class="section detail">
 
     ### CXR
 
@@ -5378,8 +5321,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CYM" class="section detail">
+<div id="sdk-for-android-explore-CYM" class="section detail">
 
     ### CYM
 
@@ -5397,8 +5339,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CYP" class="section detail">
+<div id="sdk-for-android-explore-CYP" class="section detail">
 
     ### CYP
 
@@ -5416,8 +5357,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CZE" class="section detail">
+<div id="sdk-for-android-explore-CZE" class="section detail">
 
     ### CZE
 
@@ -5435,8 +5375,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DEU" class="section detail">
+<div id="sdk-for-android-explore-DEU" class="section detail">
 
     ### DEU
 
@@ -5454,8 +5393,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DJI" class="section detail">
+<div id="sdk-for-android-explore-DJI" class="section detail">
 
     ### DJI
 
@@ -5473,8 +5411,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DMA" class="section detail">
+<div id="sdk-for-android-explore-DMA" class="section detail">
 
     ### DMA
 
@@ -5492,8 +5429,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DNK" class="section detail">
+<div id="sdk-for-android-explore-DNK" class="section detail">
 
     ### DNK
 
@@ -5511,8 +5447,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DOM" class="section detail">
+<div id="sdk-for-android-explore-DOM" class="section detail">
 
     ### DOM
 
@@ -5530,8 +5465,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-DZA" class="section detail">
+<div id="sdk-for-android-explore-DZA" class="section detail">
 
     ### DZA
 
@@ -5549,8 +5483,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ECU" class="section detail">
+<div id="sdk-for-android-explore-ECU" class="section detail">
 
     ### ECU
 
@@ -5568,8 +5501,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-EGY" class="section detail">
+<div id="sdk-for-android-explore-EGY" class="section detail">
 
     ### EGY
 
@@ -5587,8 +5519,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ERI" class="section detail">
+<div id="sdk-for-android-explore-ERI" class="section detail">
 
     ### ERI
 
@@ -5606,8 +5537,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ESH" class="section detail">
+<div id="sdk-for-android-explore-ESH" class="section detail">
 
     ### ESH
 
@@ -5625,8 +5555,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ESP" class="section detail">
+<div id="sdk-for-android-explore-ESP" class="section detail">
 
     ### ESP
 
@@ -5644,8 +5573,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-EST" class="section detail">
+<div id="sdk-for-android-explore-EST" class="section detail">
 
     ### EST
 
@@ -5663,8 +5591,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ETH" class="section detail">
+<div id="sdk-for-android-explore-ETH" class="section detail">
 
     ### ETH
 
@@ -5682,8 +5609,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FIN" class="section detail">
+<div id="sdk-for-android-explore-FIN" class="section detail">
 
     ### FIN
 
@@ -5701,8 +5627,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FJI" class="section detail">
+<div id="sdk-for-android-explore-FJI" class="section detail">
 
     ### FJI
 
@@ -5720,8 +5645,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FLK" class="section detail">
+<div id="sdk-for-android-explore-FLK" class="section detail">
 
     ### FLK
 
@@ -5739,8 +5663,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FRA" class="section detail">
+<div id="sdk-for-android-explore-FRA" class="section detail">
 
     ### FRA
 
@@ -5758,8 +5681,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FRO" class="section detail">
+<div id="sdk-for-android-explore-FRO" class="section detail">
 
     ### FRO
 
@@ -5777,8 +5699,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FSM" class="section detail">
+<div id="sdk-for-android-explore-FSM" class="section detail">
 
     ### FSM
 
@@ -5796,8 +5717,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GAB" class="section detail">
+<div id="sdk-for-android-explore-GAB" class="section detail">
 
     ### GAB
 
@@ -5815,8 +5735,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GBR" class="section detail">
+<div id="sdk-for-android-explore-GBR" class="section detail">
 
     ### GBR
 
@@ -5834,8 +5753,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GEO" class="section detail">
+<div id="sdk-for-android-explore-GEO" class="section detail">
 
     ### GEO
 
@@ -5853,8 +5771,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GHA" class="section detail">
+<div id="sdk-for-android-explore-GHA" class="section detail">
 
     ### GHA
 
@@ -5872,8 +5789,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GIB" class="section detail">
+<div id="sdk-for-android-explore-GIB" class="section detail">
 
     ### GIB
 
@@ -5891,8 +5807,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GIN" class="section detail">
+<div id="sdk-for-android-explore-GIN" class="section detail">
 
     ### GIN
 
@@ -5910,8 +5825,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GLP" class="section detail">
+<div id="sdk-for-android-explore-GLP" class="section detail">
 
     ### GLP
 
@@ -5929,8 +5843,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GMB" class="section detail">
+<div id="sdk-for-android-explore-GMB" class="section detail">
 
     ### GMB
 
@@ -5948,8 +5861,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GNB" class="section detail">
+<div id="sdk-for-android-explore-GNB" class="section detail">
 
     ### GNB
 
@@ -5967,8 +5879,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GNQ" class="section detail">
+<div id="sdk-for-android-explore-GNQ" class="section detail">
 
     ### GNQ
 
@@ -5986,8 +5897,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GRC" class="section detail">
+<div id="sdk-for-android-explore-GRC" class="section detail">
 
     ### GRC
 
@@ -6005,8 +5915,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GRD" class="section detail">
+<div id="sdk-for-android-explore-GRD" class="section detail">
 
     ### GRD
 
@@ -6024,8 +5933,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GRL" class="section detail">
+<div id="sdk-for-android-explore-GRL" class="section detail">
 
     ### GRL
 
@@ -6043,8 +5951,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GTM" class="section detail">
+<div id="sdk-for-android-explore-GTM" class="section detail">
 
     ### GTM
 
@@ -6062,8 +5969,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GUF" class="section detail">
+<div id="sdk-for-android-explore-GUF" class="section detail">
 
     ### GUF
 
@@ -6081,8 +5987,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GUM" class="section detail">
+<div id="sdk-for-android-explore-GUM" class="section detail">
 
     ### GUM
 
@@ -6100,8 +6005,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GUY" class="section detail">
+<div id="sdk-for-android-explore-GUY" class="section detail">
 
     ### GUY
 
@@ -6119,8 +6023,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HKG" class="section detail">
+<div id="sdk-for-android-explore-HKG" class="section detail">
 
     ### HKG
 
@@ -6138,8 +6041,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HND" class="section detail">
+<div id="sdk-for-android-explore-HND" class="section detail">
 
     ### HND
 
@@ -6157,8 +6059,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HRV" class="section detail">
+<div id="sdk-for-android-explore-HRV" class="section detail">
 
     ### HRV
 
@@ -6176,8 +6077,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HTI" class="section detail">
+<div id="sdk-for-android-explore-HTI" class="section detail">
 
     ### HTI
 
@@ -6195,8 +6095,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HUN" class="section detail">
+<div id="sdk-for-android-explore-HUN" class="section detail">
 
     ### HUN
 
@@ -6214,8 +6113,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IDN" class="section detail">
+<div id="sdk-for-android-explore-IDN" class="section detail">
 
     ### IDN
 
@@ -6233,8 +6131,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IMN" class="section detail">
+<div id="sdk-for-android-explore-IMN" class="section detail">
 
     ### IMN
 
@@ -6252,8 +6149,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IND" class="section detail">
+<div id="sdk-for-android-explore-IND" class="section detail">
 
     ### IND
 
@@ -6271,8 +6167,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IOT" class="section detail">
+<div id="sdk-for-android-explore-IOT" class="section detail">
 
     ### IOT
 
@@ -6290,8 +6185,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IRL" class="section detail">
+<div id="sdk-for-android-explore-IRL" class="section detail">
 
     ### IRL
 
@@ -6309,8 +6203,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IRN" class="section detail">
+<div id="sdk-for-android-explore-IRN" class="section detail">
 
     ### IRN
 
@@ -6328,8 +6221,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-IRQ" class="section detail">
+<div id="sdk-for-android-explore-IRQ" class="section detail">
 
     ### IRQ
 
@@ -6347,8 +6239,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ISL" class="section detail">
+<div id="sdk-for-android-explore-ISL" class="section detail">
 
     ### ISL
 
@@ -6366,8 +6257,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ISR" class="section detail">
+<div id="sdk-for-android-explore-ISR" class="section detail">
 
     ### ISR
 
@@ -6385,8 +6275,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ITA" class="section detail">
+<div id="sdk-for-android-explore-ITA" class="section detail">
 
     ### ITA
 
@@ -6404,8 +6293,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-JAM" class="section detail">
+<div id="sdk-for-android-explore-JAM" class="section detail">
 
     ### JAM
 
@@ -6423,8 +6311,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-JOR" class="section detail">
+<div id="sdk-for-android-explore-JOR" class="section detail">
 
     ### JOR
 
@@ -6442,8 +6329,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-JPN" class="section detail">
+<div id="sdk-for-android-explore-JPN" class="section detail">
 
     ### JPN
 
@@ -6461,8 +6347,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KAZ" class="section detail">
+<div id="sdk-for-android-explore-KAZ" class="section detail">
 
     ### KAZ
 
@@ -6480,8 +6365,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KEN" class="section detail">
+<div id="sdk-for-android-explore-KEN" class="section detail">
 
     ### KEN
 
@@ -6499,8 +6383,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KGZ" class="section detail">
+<div id="sdk-for-android-explore-KGZ" class="section detail">
 
     ### KGZ
 
@@ -6518,8 +6401,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KHM" class="section detail">
+<div id="sdk-for-android-explore-KHM" class="section detail">
 
     ### KHM
 
@@ -6537,8 +6419,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KIR" class="section detail">
+<div id="sdk-for-android-explore-KIR" class="section detail">
 
     ### KIR
 
@@ -6556,8 +6437,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KNA" class="section detail">
+<div id="sdk-for-android-explore-KNA" class="section detail">
 
     ### KNA
 
@@ -6575,8 +6455,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KOR" class="section detail">
+<div id="sdk-for-android-explore-KOR" class="section detail">
 
     ### KOR
 
@@ -6594,8 +6473,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-KWT" class="section detail">
+<div id="sdk-for-android-explore-KWT" class="section detail">
 
     ### KWT
 
@@ -6613,8 +6491,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LAO" class="section detail">
+<div id="sdk-for-android-explore-LAO" class="section detail">
 
     ### LAO
 
@@ -6632,8 +6509,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LBN" class="section detail">
+<div id="sdk-for-android-explore-LBN" class="section detail">
 
     ### LBN
 
@@ -6651,8 +6527,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LBR" class="section detail">
+<div id="sdk-for-android-explore-LBR" class="section detail">
 
     ### LBR
 
@@ -6670,8 +6545,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LBY" class="section detail">
+<div id="sdk-for-android-explore-LBY" class="section detail">
 
     ### LBY
 
@@ -6689,8 +6563,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LCA" class="section detail">
+<div id="sdk-for-android-explore-LCA" class="section detail">
 
     ### LCA
 
@@ -6708,8 +6581,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LIE" class="section detail">
+<div id="sdk-for-android-explore-LIE" class="section detail">
 
     ### LIE
 
@@ -6727,8 +6599,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LKA" class="section detail">
+<div id="sdk-for-android-explore-LKA" class="section detail">
 
     ### LKA
 
@@ -6746,8 +6617,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LSO" class="section detail">
+<div id="sdk-for-android-explore-LSO" class="section detail">
 
     ### LSO
 
@@ -6765,8 +6635,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LTU" class="section detail">
+<div id="sdk-for-android-explore-LTU" class="section detail">
 
     ### LTU
 
@@ -6784,8 +6653,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LUX" class="section detail">
+<div id="sdk-for-android-explore-LUX" class="section detail">
 
     ### LUX
 
@@ -6803,8 +6671,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LVA" class="section detail">
+<div id="sdk-for-android-explore-LVA" class="section detail">
 
     ### LVA
 
@@ -6822,8 +6689,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MAC" class="section detail">
+<div id="sdk-for-android-explore-MAC" class="section detail">
 
     ### MAC
 
@@ -6841,8 +6707,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MAF" class="section detail">
+<div id="sdk-for-android-explore-MAF" class="section detail">
 
     ### MAF
 
@@ -6860,8 +6725,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MAR" class="section detail">
+<div id="sdk-for-android-explore-MAR" class="section detail">
 
     ### MAR
 
@@ -6879,8 +6743,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MCO" class="section detail">
+<div id="sdk-for-android-explore-MCO" class="section detail">
 
     ### MCO
 
@@ -6898,8 +6761,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MDA" class="section detail">
+<div id="sdk-for-android-explore-MDA" class="section detail">
 
     ### MDA
 
@@ -6917,8 +6779,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MDG" class="section detail">
+<div id="sdk-for-android-explore-MDG" class="section detail">
 
     ### MDG
 
@@ -6936,8 +6797,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MDV" class="section detail">
+<div id="sdk-for-android-explore-MDV" class="section detail">
 
     ### MDV
 
@@ -6955,8 +6815,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MEX" class="section detail">
+<div id="sdk-for-android-explore-MEX" class="section detail">
 
     ### MEX
 
@@ -6974,8 +6833,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MHL" class="section detail">
+<div id="sdk-for-android-explore-MHL" class="section detail">
 
     ### MHL
 
@@ -6993,8 +6851,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MKD" class="section detail">
+<div id="sdk-for-android-explore-MKD" class="section detail">
 
     ### MKD
 
@@ -7012,8 +6869,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MLI" class="section detail">
+<div id="sdk-for-android-explore-MLI" class="section detail">
 
     ### MLI
 
@@ -7031,8 +6887,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MLT" class="section detail">
+<div id="sdk-for-android-explore-MLT" class="section detail">
 
     ### MLT
 
@@ -7050,8 +6905,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MMR" class="section detail">
+<div id="sdk-for-android-explore-MMR" class="section detail">
 
     ### MMR
 
@@ -7069,8 +6923,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MNE" class="section detail">
+<div id="sdk-for-android-explore-MNE" class="section detail">
 
     ### MNE
 
@@ -7088,8 +6941,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MNG" class="section detail">
+<div id="sdk-for-android-explore-MNG" class="section detail">
 
     ### MNG
 
@@ -7107,8 +6959,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MNP" class="section detail">
+<div id="sdk-for-android-explore-MNP" class="section detail">
 
     ### MNP
 
@@ -7126,8 +6977,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MOZ" class="section detail">
+<div id="sdk-for-android-explore-MOZ" class="section detail">
 
     ### MOZ
 
@@ -7145,8 +6995,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MRT" class="section detail">
+<div id="sdk-for-android-explore-MRT" class="section detail">
 
     ### MRT
 
@@ -7164,8 +7013,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MSR" class="section detail">
+<div id="sdk-for-android-explore-MSR" class="section detail">
 
     ### MSR
 
@@ -7183,8 +7031,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MTQ" class="section detail">
+<div id="sdk-for-android-explore-MTQ" class="section detail">
 
     ### MTQ
 
@@ -7202,8 +7049,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MUS" class="section detail">
+<div id="sdk-for-android-explore-MUS" class="section detail">
 
     ### MUS
 
@@ -7221,8 +7067,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MWI" class="section detail">
+<div id="sdk-for-android-explore-MWI" class="section detail">
 
     ### MWI
 
@@ -7240,8 +7085,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MYS" class="section detail">
+<div id="sdk-for-android-explore-MYS" class="section detail">
 
     ### MYS
 
@@ -7259,8 +7103,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MYT" class="section detail">
+<div id="sdk-for-android-explore-MYT" class="section detail">
 
     ### MYT
 
@@ -7278,8 +7121,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NAM" class="section detail">
+<div id="sdk-for-android-explore-NAM" class="section detail">
 
     ### NAM
 
@@ -7297,8 +7139,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NCL" class="section detail">
+<div id="sdk-for-android-explore-NCL" class="section detail">
 
     ### NCL
 
@@ -7316,8 +7157,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NER" class="section detail">
+<div id="sdk-for-android-explore-NER" class="section detail">
 
     ### NER
 
@@ -7335,8 +7175,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NFK" class="section detail">
+<div id="sdk-for-android-explore-NFK" class="section detail">
 
     ### NFK
 
@@ -7354,8 +7193,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NGA" class="section detail">
+<div id="sdk-for-android-explore-NGA" class="section detail">
 
     ### NGA
 
@@ -7373,8 +7211,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NIC" class="section detail">
+<div id="sdk-for-android-explore-NIC" class="section detail">
 
     ### NIC
 
@@ -7392,8 +7229,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NIU" class="section detail">
+<div id="sdk-for-android-explore-NIU" class="section detail">
 
     ### NIU
 
@@ -7411,8 +7247,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NLD" class="section detail">
+<div id="sdk-for-android-explore-NLD" class="section detail">
 
     ### NLD
 
@@ -7430,8 +7265,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NOR" class="section detail">
+<div id="sdk-for-android-explore-NOR" class="section detail">
 
     ### NOR
 
@@ -7449,8 +7283,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NPL" class="section detail">
+<div id="sdk-for-android-explore-NPL" class="section detail">
 
     ### NPL
 
@@ -7468,8 +7301,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NRU" class="section detail">
+<div id="sdk-for-android-explore-NRU" class="section detail">
 
     ### NRU
 
@@ -7487,8 +7319,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NZL" class="section detail">
+<div id="sdk-for-android-explore-NZL" class="section detail">
 
     ### NZL
 
@@ -7506,8 +7337,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OMN" class="section detail">
+<div id="sdk-for-android-explore-OMN" class="section detail">
 
     ### OMN
 
@@ -7525,8 +7355,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PAK" class="section detail">
+<div id="sdk-for-android-explore-PAK" class="section detail">
 
     ### PAK
 
@@ -7544,8 +7373,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PAN" class="section detail">
+<div id="sdk-for-android-explore-PAN" class="section detail">
 
     ### PAN
 
@@ -7563,8 +7391,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PCN" class="section detail">
+<div id="sdk-for-android-explore-PCN" class="section detail">
 
     ### PCN
 
@@ -7582,8 +7409,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PER" class="section detail">
+<div id="sdk-for-android-explore-PER" class="section detail">
 
     ### PER
 
@@ -7601,8 +7427,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PHL" class="section detail">
+<div id="sdk-for-android-explore-PHL" class="section detail">
 
     ### PHL
 
@@ -7620,8 +7445,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PLW" class="section detail">
+<div id="sdk-for-android-explore-PLW" class="section detail">
 
     ### PLW
 
@@ -7639,8 +7463,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PNG" class="section detail">
+<div id="sdk-for-android-explore-PNG" class="section detail">
 
     ### PNG
 
@@ -7658,8 +7481,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-POL" class="section detail">
+<div id="sdk-for-android-explore-POL" class="section detail">
 
     ### POL
 
@@ -7677,8 +7499,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PRI" class="section detail">
+<div id="sdk-for-android-explore-PRI" class="section detail">
 
     ### PRI
 
@@ -7696,8 +7517,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PRK" class="section detail">
+<div id="sdk-for-android-explore-PRK" class="section detail">
 
     ### PRK
 
@@ -7715,8 +7535,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PRT" class="section detail">
+<div id="sdk-for-android-explore-PRT" class="section detail">
 
     ### PRT
 
@@ -7734,8 +7553,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PRY" class="section detail">
+<div id="sdk-for-android-explore-PRY" class="section detail">
 
     ### PRY
 
@@ -7753,8 +7571,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PSE" class="section detail">
+<div id="sdk-for-android-explore-PSE" class="section detail">
 
     ### PSE
 
@@ -7772,8 +7589,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PYF" class="section detail">
+<div id="sdk-for-android-explore-PYF" class="section detail">
 
     ### PYF
 
@@ -7791,8 +7607,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-QAT" class="section detail">
+<div id="sdk-for-android-explore-QAT" class="section detail">
 
     ### QAT
 
@@ -7810,8 +7625,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-REU" class="section detail">
+<div id="sdk-for-android-explore-REU" class="section detail">
 
     ### REU
 
@@ -7829,8 +7643,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ROU" class="section detail">
+<div id="sdk-for-android-explore-ROU" class="section detail">
 
     ### ROU
 
@@ -7848,8 +7661,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RUS" class="section detail">
+<div id="sdk-for-android-explore-RUS" class="section detail">
 
     ### RUS
 
@@ -7867,8 +7679,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RWA" class="section detail">
+<div id="sdk-for-android-explore-RWA" class="section detail">
 
     ### RWA
 
@@ -7886,8 +7697,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SAU" class="section detail">
+<div id="sdk-for-android-explore-SAU" class="section detail">
 
     ### SAU
 
@@ -7905,8 +7715,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SDN" class="section detail">
+<div id="sdk-for-android-explore-SDN" class="section detail">
 
     ### SDN
 
@@ -7924,8 +7733,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SEN" class="section detail">
+<div id="sdk-for-android-explore-SEN" class="section detail">
 
     ### SEN
 
@@ -7943,8 +7751,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SGP" class="section detail">
+<div id="sdk-for-android-explore-SGP" class="section detail">
 
     ### SGP
 
@@ -7962,8 +7769,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SGS" class="section detail">
+<div id="sdk-for-android-explore-SGS" class="section detail">
 
     ### SGS
 
@@ -7981,8 +7787,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SHN" class="section detail">
+<div id="sdk-for-android-explore-SHN" class="section detail">
 
     ### SHN
 
@@ -8000,8 +7805,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SJM" class="section detail">
+<div id="sdk-for-android-explore-SJM" class="section detail">
 
     ### SJM
 
@@ -8019,8 +7823,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SLB" class="section detail">
+<div id="sdk-for-android-explore-SLB" class="section detail">
 
     ### SLB
 
@@ -8038,8 +7841,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SLE" class="section detail">
+<div id="sdk-for-android-explore-SLE" class="section detail">
 
     ### SLE
 
@@ -8057,8 +7859,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SLV" class="section detail">
+<div id="sdk-for-android-explore-SLV" class="section detail">
 
     ### SLV
 
@@ -8076,8 +7877,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SMR" class="section detail">
+<div id="sdk-for-android-explore-SMR" class="section detail">
 
     ### SMR
 
@@ -8095,8 +7895,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SOM" class="section detail">
+<div id="sdk-for-android-explore-SOM" class="section detail">
 
     ### SOM
 
@@ -8114,8 +7913,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SPM" class="section detail">
+<div id="sdk-for-android-explore-SPM" class="section detail">
 
     ### SPM
 
@@ -8133,8 +7931,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SRB" class="section detail">
+<div id="sdk-for-android-explore-SRB" class="section detail">
 
     ### SRB
 
@@ -8152,8 +7949,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SSD" class="section detail">
+<div id="sdk-for-android-explore-SSD" class="section detail">
 
     ### SSD
 
@@ -8171,8 +7967,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-STP" class="section detail">
+<div id="sdk-for-android-explore-STP" class="section detail">
 
     ### STP
 
@@ -8190,8 +7985,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SUR" class="section detail">
+<div id="sdk-for-android-explore-SUR" class="section detail">
 
     ### SUR
 
@@ -8209,8 +8003,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SVK" class="section detail">
+<div id="sdk-for-android-explore-SVK" class="section detail">
 
     ### SVK
 
@@ -8228,8 +8021,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SVN" class="section detail">
+<div id="sdk-for-android-explore-SVN" class="section detail">
 
     ### SVN
 
@@ -8247,8 +8039,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SWE" class="section detail">
+<div id="sdk-for-android-explore-SWE" class="section detail">
 
     ### SWE
 
@@ -8266,8 +8057,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SWZ" class="section detail">
+<div id="sdk-for-android-explore-SWZ" class="section detail">
 
     ### SWZ
 
@@ -8285,8 +8075,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SXM" class="section detail">
+<div id="sdk-for-android-explore-SXM" class="section detail">
 
     ### SXM
 
@@ -8304,8 +8093,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SYC" class="section detail">
+<div id="sdk-for-android-explore-SYC" class="section detail">
 
     ### SYC
 
@@ -8323,8 +8111,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SYR" class="section detail">
+<div id="sdk-for-android-explore-SYR" class="section detail">
 
     ### SYR
 
@@ -8342,8 +8129,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TCA" class="section detail">
+<div id="sdk-for-android-explore-TCA" class="section detail">
 
     ### TCA
 
@@ -8361,8 +8147,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TCD" class="section detail">
+<div id="sdk-for-android-explore-TCD" class="section detail">
 
     ### TCD
 
@@ -8380,8 +8165,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TGO" class="section detail">
+<div id="sdk-for-android-explore-TGO" class="section detail">
 
     ### TGO
 
@@ -8399,8 +8183,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-THA" class="section detail">
+<div id="sdk-for-android-explore-THA" class="section detail">
 
     ### THA
 
@@ -8418,8 +8201,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TJK" class="section detail">
+<div id="sdk-for-android-explore-TJK" class="section detail">
 
     ### TJK
 
@@ -8437,8 +8219,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TKL" class="section detail">
+<div id="sdk-for-android-explore-TKL" class="section detail">
 
     ### TKL
 
@@ -8456,8 +8237,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TKM" class="section detail">
+<div id="sdk-for-android-explore-TKM" class="section detail">
 
     ### TKM
 
@@ -8475,8 +8255,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TLS" class="section detail">
+<div id="sdk-for-android-explore-TLS" class="section detail">
 
     ### TLS
 
@@ -8494,8 +8273,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TON" class="section detail">
+<div id="sdk-for-android-explore-TON" class="section detail">
 
     ### TON
 
@@ -8513,8 +8291,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TTO" class="section detail">
+<div id="sdk-for-android-explore-TTO" class="section detail">
 
     ### TTO
 
@@ -8532,8 +8309,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TUN" class="section detail">
+<div id="sdk-for-android-explore-TUN" class="section detail">
 
     ### TUN
 
@@ -8551,8 +8327,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TUR" class="section detail">
+<div id="sdk-for-android-explore-TUR" class="section detail">
 
     ### TUR
 
@@ -8570,8 +8345,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TUV" class="section detail">
+<div id="sdk-for-android-explore-TUV" class="section detail">
 
     ### TUV
 
@@ -8589,8 +8363,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TWN" class="section detail">
+<div id="sdk-for-android-explore-TWN" class="section detail">
 
     ### TWN
 
@@ -8608,8 +8381,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TZA" class="section detail">
+<div id="sdk-for-android-explore-TZA" class="section detail">
 
     ### TZA
 
@@ -8627,8 +8399,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UGA" class="section detail">
+<div id="sdk-for-android-explore-UGA" class="section detail">
 
     ### UGA
 
@@ -8646,8 +8417,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UKR" class="section detail">
+<div id="sdk-for-android-explore-UKR" class="section detail">
 
     ### UKR
 
@@ -8665,8 +8435,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-URY" class="section detail">
+<div id="sdk-for-android-explore-URY" class="section detail">
 
     ### URY
 
@@ -8684,8 +8453,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-USA" class="section detail">
+<div id="sdk-for-android-explore-USA" class="section detail">
 
     ### USA
 
@@ -8703,8 +8471,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UZB" class="section detail">
+<div id="sdk-for-android-explore-UZB" class="section detail">
 
     ### UZB
 
@@ -8722,8 +8489,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VAT" class="section detail">
+<div id="sdk-for-android-explore-VAT" class="section detail">
 
     ### VAT
 
@@ -8741,8 +8507,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VCT" class="section detail">
+<div id="sdk-for-android-explore-VCT" class="section detail">
 
     ### VCT
 
@@ -8760,8 +8525,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VEN" class="section detail">
+<div id="sdk-for-android-explore-VEN" class="section detail">
 
     ### VEN
 
@@ -8779,8 +8543,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VGB" class="section detail">
+<div id="sdk-for-android-explore-VGB" class="section detail">
 
     ### VGB
 
@@ -8798,8 +8561,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VIR" class="section detail">
+<div id="sdk-for-android-explore-VIR" class="section detail">
 
     ### VIR
 
@@ -8817,8 +8579,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VNM" class="section detail">
+<div id="sdk-for-android-explore-VNM" class="section detail">
 
     ### VNM
 
@@ -8836,8 +8597,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-VUT" class="section detail">
+<div id="sdk-for-android-explore-VUT" class="section detail">
 
     ### VUT
 
@@ -8855,8 +8615,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-WLF" class="section detail">
+<div id="sdk-for-android-explore-WLF" class="section detail">
 
     ### WLF
 
@@ -8874,8 +8633,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-WSM" class="section detail">
+<div id="sdk-for-android-explore-WSM" class="section detail">
 
     ### WSM
 
@@ -8893,8 +8651,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-YEM" class="section detail">
+<div id="sdk-for-android-explore-YEM" class="section detail">
 
     ### YEM
 
@@ -8912,8 +8669,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ZAF" class="section detail">
+<div id="sdk-for-android-explore-ZAF" class="section detail">
 
     ### ZAF
 
@@ -8931,8 +8687,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ZMB" class="section detail">
+<div id="sdk-for-android-explore-ZMB" class="section detail">
 
     ### ZMB
 
@@ -8950,8 +8705,7 @@ standard using alpha-3 codes.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ZWE" class="section detail">
+<div id="sdk-for-android-explore-ZWE" class="section detail">
 
     ### ZWE
 
@@ -8971,11 +8725,9 @@ standard using alpha-3 codes.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -8998,8 +8750,7 @@ standard using alpha-3 codes.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

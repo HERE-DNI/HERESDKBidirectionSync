@@ -37,8 +37,7 @@ A map measure range.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -142,8 +141,7 @@ A map measure range.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -187,8 +185,7 @@ A map measure range.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -295,11 +292,9 @@ A map measure range.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-kind" class="section detail">
+<div id="sdk-for-android-explore-kind" class="section detail">
 
     ### kind
 
@@ -318,8 +313,7 @@ A map measure range.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-minimumValue"
+<div id="sdk-for-android-explore-minimumValue"
     class="section detail">
 
     ### minimumValue
@@ -338,8 +332,7 @@ A map measure range.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maximumValue"
+<div id="sdk-for-android-explore-maximumValue"
     class="section detail">
 
     ### maximumValue
@@ -360,11 +353,9 @@ A map measure range.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasure.Kind,double,double)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasure.Kind,double,double)"
     class="section detail">
 
     ### MapMeasureRange
@@ -399,11 +390,9 @@ A map measure range.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -427,8 +416,7 @@ A map measure range.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

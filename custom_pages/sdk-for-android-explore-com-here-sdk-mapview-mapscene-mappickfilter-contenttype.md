@@ -58,8 +58,7 @@ Type of the map content to be picked.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -81,8 +80,7 @@ Type of the map content to be picked.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -168,8 +166,7 @@ Type of the map content to be picked.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -319,11 +316,9 @@ Type of the map content to be picked.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-MAP_ITEMS" class="section detail">
+<div id="sdk-for-android-explore-MAP_ITEMS" class="section detail">
 
     ### MAP_ITEMS
 
@@ -342,8 +337,7 @@ Type of the map content to be picked.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MAP_CONTENT"
+<div id="sdk-for-android-explore-MAP_CONTENT"
     class="section detail">
 
     ### MAP_CONTENT
@@ -374,8 +368,7 @@ Type of the map content to be picked.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CUSTOM_LAYER_DATA"
+<div id="sdk-for-android-explore-CUSTOM_LAYER_DATA"
     class="section detail">
 
     ### CUSTOM_LAYER_DATA
@@ -397,11 +390,9 @@ Type of the map content to be picked.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -424,8 +415,7 @@ Type of the map content to be picked.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

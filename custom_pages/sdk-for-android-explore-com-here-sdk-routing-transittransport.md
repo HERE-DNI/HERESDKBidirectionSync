@@ -37,8 +37,7 @@ Holds all the transit transport information.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -224,8 +223,7 @@ Holds all the transit transport information.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -272,8 +270,7 @@ Holds all the transit transport information.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -380,11 +377,9 @@ Holds all the transit transport information.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-mode" class="section detail">
+<div id="sdk-for-android-explore-mode" class="section detail">
 
     ### mode
 
@@ -402,8 +397,7 @@ Holds all the transit transport information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-name" class="section detail">
+<div id="sdk-for-android-explore-name" class="section detail">
 
     ### name
 
@@ -423,8 +417,7 @@ Holds all the transit transport information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-headsign" class="section detail">
+<div id="sdk-for-android-explore-headsign" class="section detail">
 
     ### headsign
 
@@ -444,8 +437,7 @@ Holds all the transit transport information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-category" class="section detail">
+<div id="sdk-for-android-explore-category" class="section detail">
 
     ### category
 
@@ -466,8 +458,7 @@ Holds all the transit transport information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-color" class="section detail">
+<div id="sdk-for-android-explore-color" class="section detail">
 
     ### color
 
@@ -486,8 +477,7 @@ Holds all the transit transport information.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-textColor" class="section detail">
+<div id="sdk-for-android-explore-textColor" class="section detail">
 
     ### textColor
 
@@ -507,11 +497,9 @@ Holds all the transit transport information.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.TransitMode,java.lang.String,java.lang.String,java.lang.String,com.here.sdk.core.Color,com.here.sdk.core.Color)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.TransitMode,java.lang.String,java.lang.String,java.lang.String,com.here.sdk.core.Color,com.here.sdk.core.Color)"
     class="section detail">
 
     ### TransitTransport
@@ -572,11 +560,9 @@ Holds all the transit transport information.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -600,8 +586,7 @@ Holds all the transit transport information.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

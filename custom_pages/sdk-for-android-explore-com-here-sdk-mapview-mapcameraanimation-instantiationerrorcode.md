@@ -59,8 +59,7 @@ MapCameraAnimation .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -82,8 +81,7 @@ MapCameraAnimation .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -484,8 +482,7 @@ MapCameraAnimation .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -635,11 +632,9 @@ MapCameraAnimation .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-EMPTY_TRACK_LIST"
+<div id="sdk-for-android-explore-EMPTY_TRACK_LIST"
     class="section detail">
 
     ### EMPTY_TRACK_LIST
@@ -658,8 +653,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_POSITION_TRACKS"
+<div id="sdk-for-android-explore-MULTIPLE_CAMERA_POSITION_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_POSITION_TRACKS
@@ -678,8 +672,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK"
+<div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK"
     class="section detail">
 
     ### CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK
@@ -699,8 +692,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
+<div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK
@@ -720,8 +712,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
+<div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
     class="section detail">
 
     ### CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK
@@ -741,8 +732,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_ORIENTATION_TRACKS"
+<div id="sdk-for-android-explore-MULTIPLE_CAMERA_ORIENTATION_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_ORIENTATION_TRACKS
@@ -761,8 +751,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
+<div id="sdk-for-android-explore-CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK
@@ -782,8 +771,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
+<div id="sdk-for-android-explore-CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
     class="section detail">
 
     ### CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK
@@ -803,8 +791,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS"
+<div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS
@@ -824,8 +811,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK"
+<div id="sdk-for-android-explore-CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK
@@ -845,8 +831,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
+<div id="sdk-for-android-explore-CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK
@@ -866,8 +851,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS"
+<div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS
@@ -887,8 +871,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK"
+<div id="sdk-for-android-explore-CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK
@@ -908,8 +891,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
+<div id="sdk-for-android-explore-CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK
@@ -929,8 +911,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS"
+<div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS
@@ -950,8 +931,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK"
+<div id="sdk-for-android-explore-CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK
@@ -971,8 +951,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
+<div id="sdk-for-android-explore-CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK
@@ -992,8 +971,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS"
+<div id="sdk-for-android-explore-MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS
@@ -1013,8 +991,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS"
+<div id="sdk-for-android-explore-MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS
@@ -1034,8 +1011,7 @@ MapCameraAnimation .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS"
+<div id="sdk-for-android-explore-MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS
@@ -1057,11 +1033,9 @@ MapCameraAnimation .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1084,8 +1058,7 @@ MapCameraAnimation .
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

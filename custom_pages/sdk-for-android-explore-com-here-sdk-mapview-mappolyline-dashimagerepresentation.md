@@ -59,8 +59,7 @@ for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -70,8 +69,7 @@ for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -136,8 +134,7 @@ for new releases without a deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -304,11 +301,9 @@ for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### DashImageRepresentation
@@ -365,8 +360,7 @@ for new releases without a deprecation process.
     In case of invalid input parameters.
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapMeasureDependentRenderSize,com.here.sdk.mapview.MapImage)"
     class="section detail">
 
     ### DashImageRepresentation
@@ -431,11 +425,9 @@ for new releases without a deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-getDashImage()"
+<div id="sdk-for-android-explore-getDashImage()"
     class="section detail">
 
     ### getDashImage
@@ -458,8 +450,7 @@ for new releases without a deprecation process.
     Image to be rendered in place of dash space.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDashLength()"
+<div id="sdk-for-android-explore-getDashLength()"
     class="section detail">
 
     ### getDashLength
@@ -483,8 +474,7 @@ for new releases without a deprecation process.
     stretched.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getGapLength()"
+<div id="sdk-for-android-explore-getGapLength()"
     class="section detail">
 
     ### getGapLength
@@ -506,8 +496,7 @@ for new releases without a deprecation process.
     The map measure dependent length of a gap between dash images.
 
     </div>
-
-  - <div id="sdk-for-android-explore-getDashWidth()"
+<div id="sdk-for-android-explore-getDashWidth()"
     class="section detail">
 
     ### getDashWidth

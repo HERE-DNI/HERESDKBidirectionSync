@@ -37,8 +37,7 @@ The location reference to the traffic incident.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -172,8 +171,7 @@ The location reference to the traffic incident.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -217,8 +215,7 @@ The location reference to the traffic incident.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -325,11 +322,9 @@ The location reference to the traffic incident.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-description"
+<div id="sdk-for-android-explore-description"
     class="section detail">
 
     ### description
@@ -355,8 +350,7 @@ The location reference to the traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-polyline" class="section detail">
+<div id="sdk-for-android-explore-polyline" class="section detail">
 
     ### polyline
 
@@ -377,8 +371,7 @@ The location reference to the traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-additionalPolylines"
+<div id="sdk-for-android-explore-additionalPolylines"
     class="section detail">
 
     ### additionalPolylines
@@ -400,8 +393,7 @@ The location reference to the traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-lengthInMeters"
+<div id="sdk-for-android-explore-lengthInMeters"
     class="section detail">
 
     ### lengthInMeters
@@ -422,11 +414,9 @@ The location reference to the traffic incident.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolyline,java.util.List,int)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolyline,java.util.List,int)"
     class="section detail">
 
     ### TrafficLocation
@@ -469,11 +459,9 @@ The location reference to the traffic incident.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -497,8 +485,7 @@ The location reference to the traffic incident.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

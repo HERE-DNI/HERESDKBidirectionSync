@@ -31,8 +31,7 @@ Handle of a load request.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -88,11 +87,9 @@ Handle of a load request.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-cancel()" class="section detail">
+<div id="sdk-for-android-explore-cancel()" class="section detail">
 
     ### cancel
 

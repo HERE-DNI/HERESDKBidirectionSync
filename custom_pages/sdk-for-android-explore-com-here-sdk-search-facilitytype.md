@@ -55,8 +55,7 @@ deprecation process.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -78,8 +77,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -567,8 +565,7 @@ deprecation process.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -718,11 +715,9 @@ deprecation process.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-HOTEL" class="section detail">
+<div id="sdk-for-android-explore-HOTEL" class="section detail">
 
     ### HOTEL
 
@@ -740,8 +735,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RESTAURANT" class="section detail">
+<div id="sdk-for-android-explore-RESTAURANT" class="section detail">
 
     ### RESTAURANT
 
@@ -759,8 +753,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CAFE" class="section detail">
+<div id="sdk-for-android-explore-CAFE" class="section detail">
 
     ### CAFE
 
@@ -778,8 +771,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MALL" class="section detail">
+<div id="sdk-for-android-explore-MALL" class="section detail">
 
     ### MALL
 
@@ -797,8 +789,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SUPERMARKET"
+<div id="sdk-for-android-explore-SUPERMARKET"
     class="section detail">
 
     ### SUPERMARKET
@@ -817,8 +808,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SPORT" class="section detail">
+<div id="sdk-for-android-explore-SPORT" class="section detail">
 
     ### SPORT
 
@@ -836,8 +826,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RECREATION_AREA"
+<div id="sdk-for-android-explore-RECREATION_AREA"
     class="section detail">
 
     ### RECREATION_AREA
@@ -856,8 +845,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-NATURE" class="section detail">
+<div id="sdk-for-android-explore-NATURE" class="section detail">
 
     ### NATURE
 
@@ -875,8 +863,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MUSEUM" class="section detail">
+<div id="sdk-for-android-explore-MUSEUM" class="section detail">
 
     ### MUSEUM
 
@@ -894,8 +881,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BIKE_SHARING"
+<div id="sdk-for-android-explore-BIKE_SHARING"
     class="section detail">
 
     ### BIKE_SHARING
@@ -914,8 +900,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUS_STOP" class="section detail">
+<div id="sdk-for-android-explore-BUS_STOP" class="section detail">
 
     ### BUS_STOP
 
@@ -933,8 +918,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TAXI_STAND" class="section detail">
+<div id="sdk-for-android-explore-TAXI_STAND" class="section detail">
 
     ### TAXI_STAND
 
@@ -952,8 +936,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRAM_STOP" class="section detail">
+<div id="sdk-for-android-explore-TRAM_STOP" class="section detail">
 
     ### TRAM_STOP
 
@@ -971,8 +954,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-METRO_STATION"
+<div id="sdk-for-android-explore-METRO_STATION"
     class="section detail">
 
     ### METRO_STATION
@@ -991,8 +973,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-TRAIN_STATION"
+<div id="sdk-for-android-explore-TRAIN_STATION"
     class="section detail">
 
     ### TRAIN_STATION
@@ -1011,8 +992,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-AIRPORT" class="section detail">
+<div id="sdk-for-android-explore-AIRPORT" class="section detail">
 
     ### AIRPORT
 
@@ -1030,8 +1010,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-PARKING_LOT"
+<div id="sdk-for-android-explore-PARKING_LOT"
     class="section detail">
 
     ### PARKING_LOT
@@ -1050,8 +1029,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CARPOOL_PARKING"
+<div id="sdk-for-android-explore-CARPOOL_PARKING"
     class="section detail">
 
     ### CARPOOL_PARKING
@@ -1070,8 +1048,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FUEL_STATION"
+<div id="sdk-for-android-explore-FUEL_STATION"
     class="section detail">
 
     ### FUEL_STATION
@@ -1090,8 +1067,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-WIFI" class="section detail">
+<div id="sdk-for-android-explore-WIFI" class="section detail">
 
     ### WIFI
 
@@ -1109,8 +1085,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-BUSINESS" class="section detail">
+<div id="sdk-for-android-explore-BUSINESS" class="section detail">
 
     ### BUSINESS
 
@@ -1128,8 +1103,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-EDUCATION" class="section detail">
+<div id="sdk-for-android-explore-EDUCATION" class="section detail">
 
     ### EDUCATION
 
@@ -1147,8 +1121,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FINANCE" class="section detail">
+<div id="sdk-for-android-explore-FINANCE" class="section detail">
 
     ### FINANCE
 
@@ -1166,8 +1139,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HEALTH" class="section detail">
+<div id="sdk-for-android-explore-HEALTH" class="section detail">
 
     ### HEALTH
 
@@ -1185,8 +1157,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SERVICE" class="section detail">
+<div id="sdk-for-android-explore-SERVICE" class="section detail">
 
     ### SERVICE
 
@@ -1204,8 +1175,7 @@ deprecation process.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-STORE" class="section detail">
+<div id="sdk-for-android-explore-STORE" class="section detail">
 
     ### STORE
 
@@ -1225,11 +1195,9 @@ deprecation process.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1252,8 +1220,7 @@ deprecation process.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

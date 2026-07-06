@@ -53,8 +53,7 @@ Impact of a traffic incident.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -76,8 +75,7 @@ Impact of a traffic incident.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -195,8 +193,7 @@ Impact of a traffic incident.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -346,11 +343,9 @@ Impact of a traffic incident.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-CRITICAL" class="section detail">
+<div id="sdk-for-android-explore-CRITICAL" class="section detail">
 
     ### CRITICAL
 
@@ -369,8 +364,7 @@ Impact of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MAJOR" class="section detail">
+<div id="sdk-for-android-explore-MAJOR" class="section detail">
 
     ### MAJOR
 
@@ -388,8 +382,7 @@ Impact of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-MINOR" class="section detail">
+<div id="sdk-for-android-explore-MINOR" class="section detail">
 
     ### MINOR
 
@@ -407,8 +400,7 @@ Impact of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-LOW" class="section detail">
+<div id="sdk-for-android-explore-LOW" class="section detail">
 
     ### LOW
 
@@ -427,8 +419,7 @@ Impact of a traffic incident.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-UNKNOWN" class="section detail">
+<div id="sdk-for-android-explore-UNKNOWN" class="section detail">
 
     ### UNKNOWN
 
@@ -449,11 +440,9 @@ Impact of a traffic incident.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -476,8 +465,7 @@ Impact of a traffic incident.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

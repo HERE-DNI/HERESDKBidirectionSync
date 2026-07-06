@@ -58,8 +58,7 @@ Describes a reason for failing to create an Easing .
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -81,8 +80,7 @@ Describes a reason for failing to create an Easing .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -203,8 +201,7 @@ Describes a reason for failing to create an Easing .
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -354,11 +351,9 @@ Describes a reason for failing to create an Easing .
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-SAMPLED_DATA_POINT_COUNT_TOO_SMALL"
+<div id="sdk-for-android-explore-SAMPLED_DATA_POINT_COUNT_TOO_SMALL"
     class="section detail">
 
     ### SAMPLED_DATA_POINT_COUNT_TOO_SMALL
@@ -378,8 +373,7 @@ Describes a reason for failing to create an Easing .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID"
+<div id="sdk-for-android-explore-SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID"
     class="section detail">
 
     ### SAMPLED_DATA_POINTS_FIRST_X_VALUE_INVALID
@@ -399,8 +393,7 @@ Describes a reason for failing to create an Easing .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID"
+<div id="sdk-for-android-explore-SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID"
     class="section detail">
 
     ### SAMPLED_DATA_POINTS_LAST_X_VALUE_INVALID
@@ -420,8 +413,7 @@ Describes a reason for failing to create an Easing .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SAMPLED_DATA_X_VALUE_OUT_OF_RANGE"
+<div id="sdk-for-android-explore-SAMPLED_DATA_X_VALUE_OUT_OF_RANGE"
     class="section detail">
 
     ### SAMPLED_DATA_X_VALUE_OUT_OF_RANGE
@@ -441,8 +433,7 @@ Describes a reason for failing to create an Easing .
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-SAMPLED_DATA_X_VALUES_NON_MONOTONIC"
+<div id="sdk-for-android-explore-SAMPLED_DATA_X_VALUES_NON_MONOTONIC"
     class="section detail">
 
     ### SAMPLED_DATA_X_VALUES_NON_MONOTONIC
@@ -464,11 +455,9 @@ Describes a reason for failing to create an Easing .
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -491,8 +480,7 @@ Describes a reason for failing to create an Easing .
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

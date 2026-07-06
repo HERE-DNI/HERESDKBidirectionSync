@@ -40,8 +40,7 @@ Encapsulates state of the camera.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -169,8 +168,7 @@ Encapsulates state of the camera.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -215,8 +213,7 @@ Encapsulates state of the camera.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -267,11 +264,9 @@ Encapsulates state of the camera.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-targetCoordinates"
+<div id="sdk-for-android-explore-targetCoordinates"
     class="section detail">
 
     ### targetCoordinates
@@ -293,8 +288,7 @@ Encapsulates state of the camera.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-orientationAtTarget"
+<div id="sdk-for-android-explore-orientationAtTarget"
     class="section detail">
 
     ### orientationAtTarget
@@ -313,8 +307,7 @@ Encapsulates state of the camera.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-distanceToTargetInMeters"
+<div id="sdk-for-android-explore-distanceToTargetInMeters"
     class="section detail">
 
     ### distanceToTargetInMeters
@@ -332,8 +325,7 @@ Encapsulates state of the camera.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-zoomLevel" class="section detail">
+<div id="sdk-for-android-explore-zoomLevel" class="section detail">
 
     ### zoomLevel
 
@@ -352,11 +344,9 @@ Encapsulates state of the camera.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientation,double,double)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientation,double,double)"
     class="section detail">
 
     ### State

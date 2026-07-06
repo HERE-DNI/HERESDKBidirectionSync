@@ -54,8 +54,7 @@ shipped by the truck.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -77,8 +76,7 @@ shipped by the truck.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-enum-constant-summary"
+<div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -302,8 +300,7 @@ shipped by the truck.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -453,11 +450,9 @@ shipped by the truck.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-enum-constant-detail"
+<div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-
-  - <div id="sdk-for-android-explore-EXPLOSIVE" class="section detail">
+<div id="sdk-for-android-explore-EXPLOSIVE" class="section detail">
 
     ### EXPLOSIVE
 
@@ -475,8 +470,7 @@ shipped by the truck.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-GAS" class="section detail">
+<div id="sdk-for-android-explore-GAS" class="section detail">
 
     ### GAS
 
@@ -494,8 +488,7 @@ shipped by the truck.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-FLAMMABLE" class="section detail">
+<div id="sdk-for-android-explore-FLAMMABLE" class="section detail">
 
     ### FLAMMABLE
 
@@ -513,8 +506,7 @@ shipped by the truck.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-COMBUSTIBLE"
+<div id="sdk-for-android-explore-COMBUSTIBLE"
     class="section detail">
 
     ### COMBUSTIBLE
@@ -533,8 +525,7 @@ shipped by the truck.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-ORGANIC" class="section detail">
+<div id="sdk-for-android-explore-ORGANIC" class="section detail">
 
     ### ORGANIC
 
@@ -552,8 +543,7 @@ shipped by the truck.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-POISON" class="section detail">
+<div id="sdk-for-android-explore-POISON" class="section detail">
 
     ### POISON
 
@@ -571,8 +561,7 @@ shipped by the truck.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-RADIOACTIVE"
+<div id="sdk-for-android-explore-RADIOACTIVE"
     class="section detail">
 
     ### RADIOACTIVE
@@ -591,8 +580,7 @@ shipped by the truck.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-CORROSIVE" class="section detail">
+<div id="sdk-for-android-explore-CORROSIVE" class="section detail">
 
     ### CORROSIVE
 
@@ -610,8 +598,7 @@ shipped by the truck.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-POISONOUS_INHALATION"
+<div id="sdk-for-android-explore-POISONOUS_INHALATION"
     class="section detail">
 
     ### POISONOUS_INHALATION
@@ -630,8 +617,7 @@ shipped by the truck.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-HARMFUL_TO_WATER"
+<div id="sdk-for-android-explore-HARMFUL_TO_WATER"
     class="section detail">
 
     ### HARMFUL_TO_WATER
@@ -650,8 +636,7 @@ shipped by the truck.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-OTHER" class="section detail">
+<div id="sdk-for-android-explore-OTHER" class="section detail">
 
     ### OTHER
 
@@ -671,11 +656,9 @@ shipped by the truck.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-values()" class="section detail">
+<div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -698,8 +681,7 @@ shipped by the truck.
     they are declared
 
     </div>
-
-  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
+<div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

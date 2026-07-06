@@ -56,8 +56,7 @@ passenger wants to leave the taxi.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-field-summary"
+<div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -341,8 +340,7 @@ passenger wants to leave the taxi.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-summary"
+<div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -414,8 +412,7 @@ passenger wants to leave the taxi.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -534,11 +531,9 @@ passenger wants to leave the taxi.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-field-detail"
+<div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-
-  - <div id="sdk-for-android-explore-routeOptions"
+<div id="sdk-for-android-explore-routeOptions"
     class="section detail">
 
     ### routeOptions
@@ -563,8 +558,7 @@ passenger wants to leave the taxi.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-textOptions"
+<div id="sdk-for-android-explore-textOptions"
     class="section detail">
 
     ### textOptions
@@ -590,8 +584,7 @@ passenger wants to leave the taxi.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-avoidanceOptions"
+<div id="sdk-for-android-explore-avoidanceOptions"
     class="section detail">
 
     ### avoidanceOptions
@@ -617,8 +610,7 @@ passenger wants to leave the taxi.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-tollOptions"
+<div id="sdk-for-android-explore-tollOptions"
     class="section detail">
 
     ### tollOptions
@@ -644,8 +636,7 @@ passenger wants to leave the taxi.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-lastCharacterOfLicensePlate"
+<div id="sdk-for-android-explore-lastCharacterOfLicensePlate"
     class="section detail">
 
     ### lastCharacterOfLicensePlate
@@ -682,8 +673,7 @@ passenger wants to leave the taxi.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-maxSpeedOnSegments"
+<div id="sdk-for-android-explore-maxSpeedOnSegments"
     class="section detail">
 
     ### maxSpeedOnSegments
@@ -711,8 +701,7 @@ passenger wants to leave the taxi.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-allowDriveThroughTaxiRoads"
+<div id="sdk-for-android-explore-allowDriveThroughTaxiRoads"
     class="section detail">
 
     ### allowDriveThroughTaxiRoads
@@ -738,8 +727,7 @@ passenger wants to leave the taxi.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-carSpecifications"
+<div id="sdk-for-android-explore-carSpecifications"
     class="section detail">
 
     ### carSpecifications
@@ -766,11 +754,9 @@ passenger wants to leave the taxi.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-constructor-detail"
+<div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-
-  - <div id="sdk-for-android-explore-<init>()" class="section detail">
+<div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TaxiOptions
 
@@ -793,8 +779,7 @@ passenger wants to leave the taxi.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteOptions,com.here.sdk.routing.RouteTextOptions,com.here.sdk.routing.AvoidanceOptions)"
+<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteOptions,com.here.sdk.routing.RouteTextOptions,com.here.sdk.routing.AvoidanceOptions)"
     class="section detail">
 
     ### TaxiOptions
@@ -840,11 +825,9 @@ passenger wants to leave the taxi.
     </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
+<div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -874,8 +857,7 @@ passenger wants to leave the taxi.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-
-  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
+<div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

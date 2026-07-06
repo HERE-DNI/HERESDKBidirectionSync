@@ -29,8 +29,7 @@ the screen.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -86,11 +85,9 @@ the screen.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-onTap(com.here.sdk.core.Point2D)"
+<div id="sdk-for-android-explore-onTap(com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### onTap

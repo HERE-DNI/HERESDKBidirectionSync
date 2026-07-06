@@ -40,8 +40,7 @@ instance is created.
 </div>
 
 <div class="section summary">
-
-- <div id="sdk-for-android-explore-nested-class-summary"
+<div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -123,8 +122,7 @@ instance is created.
   </div>
 
   </div>
-
-- <div id="sdk-for-android-explore-method-summary"
+<div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -297,11 +295,9 @@ instance is created.
 </div>
 
 <div class="section details">
-
-- <div id="sdk-for-android-explore-method-detail"
+<div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-
-  - <div id="sdk-for-android-explore-filterTrafficIncidents(java.util.List)"
+<div id="sdk-for-android-explore-filterTrafficIncidents(java.util.List)"
     class="section detail">
 
     ### filterTrafficIncidents
@@ -336,8 +332,7 @@ instance is created.
     then the traffic filter will be applied ignoring this element.
 
     </div>
-
-  - <div id="sdk-for-android-explore-resetTrafficIncidentFilter()"
+<div id="sdk-for-android-explore-resetTrafficIncidentFilter()"
     class="section detail">
 
     ### resetTrafficIncidentFilter
@@ -359,8 +354,7 @@ instance is created.
     </div>
 
     </div>
-
-  - <div id="sdk-for-android-explore-setTrafficRefreshPeriod(com.here.time.Duration)"
+<div id="sdk-for-android-explore-setTrafficRefreshPeriod(com.here.time.Duration)"
     class="section detail">
 
     ### setTrafficRefreshPeriod
@@ -408,8 +402,7 @@ instance is created.
     indicates what went wrong.
 
     </div>
-
-  - <div id="sdk-for-android-explore-resetTrafficRefreshPeriod()"
+<div id="sdk-for-android-explore-resetTrafficRefreshPeriod()"
     class="section detail">
 
     ### resetTrafficRefreshPeriod
