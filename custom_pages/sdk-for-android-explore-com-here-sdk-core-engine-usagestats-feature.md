@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<UsageStats.Feature>com.here.sdk.core.engine.UsageStats.Feature
+java.lang.Enum\<UsageStats.Feature\>com.here.sdk.core.engine.UsageStats.Feature
 → java.lang.Enum → UsageStats.Feature →
 com.here.sdk.core.engine.UsageStats.Feature
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">UsageStats.Feature</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[UsageStats.Feature](sdk-for-android-explore-com-here-sdk-core-engine-usagestats-feature "enum class in com.here.sdk.core.engine")\></span>
 
 </div>
 
@@ -58,7 +58,8 @@ Represents the feature enum associated with the gathered usage stats.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -80,7 +81,8 @@ Represents the feature enum associated with the gathered usage stats.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -494,7 +496,8 @@ Represents the feature enum associated with the gathered usage stats.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -577,34 +580,34 @@ Represents the feature enum associated with the gathered usage stats.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
   class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>`, `<a
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
   class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>`, `<a
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
   class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>`, `<a
+  title="class or interface in java.lang"><code>name</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
   class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>`, `<a
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
   class="external-link"
   title="class or interface in java.lang"><code>valueOf</code></a>
@@ -620,19 +623,19 @@ Represents the feature enum associated with the gathered usage stats.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -644,9 +647,11 @@ Represents the feature enum associated with the gathered usage stats.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-DETAILED_RENDERING"
+
+  - <div id="sdk-for-android-explore-DETAILED_RENDERING"
     class="section detail">
 
     ### DETAILED_RENDERING
@@ -675,7 +680,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-EV_RENDERING"
+
+  - <div id="sdk-for-android-explore-EV_RENDERING"
     class="section detail">
 
     ### EV_RENDERING
@@ -706,7 +712,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-EV_SEARCH" class="section detail">
+
+  - <div id="sdk-for-android-explore-EV_SEARCH" class="section detail">
 
     ### EV_SEARCH
 
@@ -736,7 +743,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NAVIGATION" class="section detail">
+
+  - <div id="sdk-for-android-explore-NAVIGATION" class="section detail">
 
     ### NAVIGATION
 
@@ -773,7 +781,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PLACES" class="section detail">
+
+  - <div id="sdk-for-android-explore-PLACES" class="section detail">
 
     ### PLACES
 
@@ -792,7 +801,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RDS_TRAFFIC"
+
+  - <div id="sdk-for-android-explore-RDS_TRAFFIC"
     class="section detail">
 
     ### RDS_TRAFFIC
@@ -821,7 +831,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RENDERING" class="section detail">
+
+  - <div id="sdk-for-android-explore-RENDERING" class="section detail">
 
     ### RENDERING
 
@@ -849,7 +860,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ROUTER" class="section detail">
+
+  - <div id="sdk-for-android-explore-ROUTER" class="section detail">
 
     ### ROUTER
 
@@ -891,7 +903,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ROUTING" class="section detail">
+
+  - <div id="sdk-for-android-explore-ROUTING" class="section detail">
 
     ### ROUTING
 
@@ -921,7 +934,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SATELLITES" class="section detail">
+
+  - <div id="sdk-for-android-explore-SATELLITES" class="section detail">
 
     ### SATELLITES
 
@@ -941,7 +955,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SEARCH" class="section detail">
+
+  - <div id="sdk-for-android-explore-SEARCH" class="section detail">
 
     ### SEARCH
 
@@ -968,7 +983,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SEARCH_ONLINE"
+
+  - <div id="sdk-for-android-explore-SEARCH_ONLINE"
     class="section detail">
 
     ### SEARCH_ONLINE
@@ -995,7 +1011,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TRANSIT" class="section detail">
+
+  - <div id="sdk-for-android-explore-TRANSIT" class="section detail">
 
     ### TRANSIT
 
@@ -1021,7 +1038,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TRANSIT_ROUTING_ENGINE"
+
+  - <div id="sdk-for-android-explore-TRANSIT_ROUTING_ENGINE"
     class="section detail">
 
     ### TRANSIT_ROUTING_ENGINE
@@ -1042,7 +1060,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TRAFFIC" class="section detail">
+
+  - <div id="sdk-for-android-explore-TRAFFIC" class="section detail">
 
     ### TRAFFIC
 
@@ -1063,7 +1082,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TRAFFIC_VECTOR_TILES"
+
+  - <div id="sdk-for-android-explore-TRAFFIC_VECTOR_TILES"
     class="section detail">
 
     ### TRAFFIC_VECTOR_TILES
@@ -1084,7 +1104,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TRUCK" class="section detail">
+
+  - <div id="sdk-for-android-explore-TRUCK" class="section detail">
 
     ### TRUCK
 
@@ -1112,7 +1133,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-VECTOR_TILES"
+
+  - <div id="sdk-for-android-explore-VECTOR_TILES"
     class="section detail">
 
     ### VECTOR_TILES
@@ -1135,7 +1157,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OTHER" class="section detail">
+
+  - <div id="sdk-for-android-explore-OTHER" class="section detail">
 
     ### OTHER
 
@@ -1155,7 +1178,8 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-POSITIONING"
+
+  - <div id="sdk-for-android-explore-POSITIONING"
     class="section detail">
 
     ### POSITIONING
@@ -1178,9 +1202,11 @@ Represents the feature enum associated with the gathered usage stats.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1203,7 +1229,8 @@ Represents the feature enum associated with the gathered usage stats.
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

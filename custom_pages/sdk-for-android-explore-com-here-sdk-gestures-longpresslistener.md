@@ -29,7 +29,8 @@ after tapping and holding the finger for a long time on the screen.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -86,9 +87,11 @@ after tapping and holding the finger for a long time on the screen.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onLongPress(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-onLongPress(com.here.sdk.gestures.GestureState,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### onLongPress

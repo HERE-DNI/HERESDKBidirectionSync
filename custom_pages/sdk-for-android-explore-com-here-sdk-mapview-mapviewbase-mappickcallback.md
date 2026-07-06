@@ -41,7 +41,8 @@ Callback for a pick request. In case of an error the result is not set.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -97,9 +98,11 @@ Callback for a pick request. In case of an error the result is not set.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onPickMap(com.here.sdk.mapview.MapPickResult)"
+
+  - <div id="sdk-for-android-explore-onPickMap(com.here.sdk.mapview.MapPickResult)"
     class="section detail">
 
     ### onPickMap

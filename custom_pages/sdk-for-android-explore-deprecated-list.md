@@ -12,7 +12,8 @@ slug: "sdk-for-android-explore-deprecated-list"
   Constants](sdk-for-android-explore-deprecated-list#enum-constant)
 
 <!-- -->
-<div id="sdk-for-android-explore-class">
+
+- <div id="sdk-for-android-explore-class">
 
   <div class="caption">
 
@@ -313,7 +314,8 @@ slug: "sdk-for-android-explore-deprecated-list"
   </div>
 
 <!-- -->
-<div id="sdk-for-android-explore-enum-class">
+
+- <div id="sdk-for-android-explore-enum-class">
 
   <div class="caption">
 
@@ -372,7 +374,8 @@ slug: "sdk-for-android-explore-deprecated-list"
   </div>
 
 <!-- -->
-<div id="sdk-for-android-explore-field">
+
+- <div id="sdk-for-android-explore-field">
 
   <div class="caption">
 
@@ -496,7 +499,8 @@ slug: "sdk-for-android-explore-deprecated-list"
   </div>
 
 <!-- -->
-<div id="sdk-for-android-explore-method">
+
+- <div id="sdk-for-android-explore-method">
 
   <div class="caption">
 
@@ -1582,7 +1586,8 @@ slug: "sdk-for-android-explore-deprecated-list"
   </div>
 
 <!-- -->
-<div id="sdk-for-android-explore-constructor">
+
+- <div id="sdk-for-android-explore-constructor">
 
   <div class="caption">
 
@@ -1681,7 +1686,8 @@ slug: "sdk-for-android-explore-deprecated-list"
   </div>
 
 <!-- -->
-<div id="sdk-for-android-explore-enum-constant">
+
+- <div id="sdk-for-android-explore-enum-constant">
 
   <div class="caption">
 

@@ -35,7 +35,8 @@ which only require static images, markers should be used.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -179,9 +180,11 @@ which only require static images, markers should be used.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-unpin()" class="section detail">
+
+  - <div id="sdk-for-android-explore-unpin()" class="section detail">
 
     ### unpin
 
@@ -198,7 +201,8 @@ which only require static images, markers should be used.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-getGeoCoordinates()"
+
+  - <div id="sdk-for-android-explore-getGeoCoordinates()"
     class="section detail">
 
     ### getGeoCoordinates
@@ -219,7 +223,8 @@ which only require static images, markers should be used.
     The current GeoCoordinates.
 
     </div>
-<div id="sdk-for-android-explore-setGeoCoordinates(com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-setGeoCoordinates(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### setGeoCoordinates
@@ -243,7 +248,8 @@ which only require static images, markers should be used.
     `geoCoordinates` - Desired GeoCoordinates for this view pin.
 
     </div>
-<div id="sdk-for-android-explore-setAnchorPoint(com.here.sdk.core.Anchor2D)"
+
+  - <div id="sdk-for-android-explore-setAnchorPoint(com.here.sdk.core.Anchor2D)"
     class="section detail">
 
     ### setAnchorPoint
@@ -271,7 +277,8 @@ which only require static images, markers should be used.
     `ViewPin`.
 
     </div>
-<div id="sdk-for-android-explore-getAnchorPoint()"
+
+  - <div id="sdk-for-android-explore-getAnchorPoint()"
     class="section detail">
 
     ### getAnchorPoint

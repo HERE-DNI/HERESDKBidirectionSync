@@ -39,7 +39,8 @@ the configuration.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -121,7 +122,8 @@ the configuration.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -253,7 +255,8 @@ the configuration.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -316,7 +319,8 @@ the configuration.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -328,34 +332,34 @@ the configuration.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -367,9 +371,11 @@ the configuration.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-name" class="section detail">
+
+  - <div id="sdk-for-android-explore-name" class="section detail">
 
     ### name
 
@@ -389,7 +395,8 @@ the configuration.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-provider" class="section detail">
+
+  - <div id="sdk-for-android-explore-provider" class="section detail">
 
     ### provider
 
@@ -407,7 +414,8 @@ the configuration.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-cache" class="section detail">
+
+  - <div id="sdk-for-android-explore-cache" class="section detail">
 
     ### cache
 
@@ -425,7 +433,8 @@ the configuration.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ignoreExpiredData"
+
+  - <div id="sdk-for-android-explore-ignoreExpiredData"
     class="section detail">
 
     ### ignoreExpiredData
@@ -446,9 +455,11 @@ the configuration.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache)"
+
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache)"
     class="section detail">
 
     ### RasterDataSourceConfiguration
@@ -486,7 +497,8 @@ the configuration.
     Local cache configuration.
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache,boolean)"
+
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache,boolean)"
     class="section detail">
 
     ### RasterDataSourceConfiguration

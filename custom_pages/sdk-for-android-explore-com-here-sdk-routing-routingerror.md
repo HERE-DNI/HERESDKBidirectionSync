@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-routingerror"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<RoutingError>com.here.sdk.routing.RoutingError →
+java.lang.Enum\<RoutingError\>com.here.sdk.routing.RoutingError →
 java.lang.Enum → RoutingError → com.here.sdk.routing.RoutingError
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">RoutingError</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[RoutingError](sdk-for-android-explore-com-here-sdk-routing-routingerror "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -53,7 +53,8 @@ route.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -75,7 +76,8 @@ route.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -553,7 +555,8 @@ route.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -636,34 +639,34 @@ route.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
   class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>`, `<a
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
   class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>`, `<a
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
   class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>`, `<a
+  title="class or interface in java.lang"><code>name</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
   class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>`, `<a
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
   class="external-link"
   title="class or interface in java.lang"><code>valueOf</code></a>
@@ -679,19 +682,19 @@ route.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -703,9 +706,11 @@ route.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-INTERNAL_ERROR"
+
+  - <div id="sdk-for-android-explore-INTERNAL_ERROR"
     class="section detail">
 
     ### INTERNAL_ERROR
@@ -724,7 +729,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-INVALID_PARAMETER"
+
+  - <div id="sdk-for-android-explore-INVALID_PARAMETER"
     class="section detail">
 
     ### INVALID_PARAMETER
@@ -743,7 +749,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SERVER_UNREACHABLE"
+
+  - <div id="sdk-for-android-explore-SERVER_UNREACHABLE"
     class="section detail">
 
     ### SERVER_UNREACHABLE
@@ -762,7 +769,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-HTTP_ERROR" class="section detail">
+
+  - <div id="sdk-for-android-explore-HTTP_ERROR" class="section detail">
 
     ### HTTP_ERROR
 
@@ -780,7 +788,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-AUTHENTICATION_FAILED"
+
+  - <div id="sdk-for-android-explore-AUTHENTICATION_FAILED"
     class="section detail">
 
     ### AUTHENTICATION_FAILED
@@ -799,7 +808,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FORBIDDEN" class="section detail">
+
+  - <div id="sdk-for-android-explore-FORBIDDEN" class="section detail">
 
     ### FORBIDDEN
 
@@ -818,7 +828,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-EXCEEDED_USAGE_LIMIT"
+
+  - <div id="sdk-for-android-explore-EXCEEDED_USAGE_LIMIT"
     class="section detail">
 
     ### EXCEEDED_USAGE_LIMIT
@@ -837,7 +848,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PARSING_ERROR"
+
+  - <div id="sdk-for-android-explore-PARSING_ERROR"
     class="section detail">
 
     ### PARSING_ERROR
@@ -858,7 +870,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NO_ROUTE_FOUND"
+
+  - <div id="sdk-for-android-explore-NO_ROUTE_FOUND"
     class="section detail">
 
     ### NO_ROUTE_FOUND
@@ -877,7 +890,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TIMED_OUT" class="section detail">
+
+  - <div id="sdk-for-android-explore-TIMED_OUT" class="section detail">
 
     ### TIMED_OUT
 
@@ -895,7 +909,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OFFLINE" class="section detail">
+
+  - <div id="sdk-for-android-explore-OFFLINE" class="section detail">
 
     ### OFFLINE
 
@@ -913,7 +928,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NO_ISOLINE_FOUND"
+
+  - <div id="sdk-for-android-explore-NO_ISOLINE_FOUND"
     class="section detail">
 
     ### NO_ISOLINE_FOUND
@@ -932,7 +948,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NO_ROUTE_HANDLE"
+
+  - <div id="sdk-for-android-explore-NO_ROUTE_HANDLE"
     class="section detail">
 
     ### NO_ROUTE_HANDLE
@@ -953,7 +970,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OPERATION_CANCELLED"
+
+  - <div id="sdk-for-android-explore-OPERATION_CANCELLED"
     class="section detail">
 
     ### OPERATION_CANCELLED
@@ -972,7 +990,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-COULD_NOT_MATCH_DESTINATION"
+
+  - <div id="sdk-for-android-explore-COULD_NOT_MATCH_DESTINATION"
     class="section detail">
 
     ### COULD_NOT_MATCH_DESTINATION
@@ -994,7 +1013,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-COULD_NOT_MATCH_ORIGIN"
+
+  - <div id="sdk-for-android-explore-COULD_NOT_MATCH_ORIGIN"
     class="section detail">
 
     ### COULD_NOT_MATCH_ORIGIN
@@ -1016,7 +1036,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FAILED_ROUTE_HANDLE_CREATION"
+
+  - <div id="sdk-for-android-explore-FAILED_ROUTE_HANDLE_CREATION"
     class="section detail">
 
     ### FAILED_ROUTE_HANDLE_CREATION
@@ -1035,7 +1056,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-IMPORT_FAILED"
+
+  - <div id="sdk-for-android-explore-IMPORT_FAILED"
     class="section detail">
 
     ### IMPORT_FAILED
@@ -1054,7 +1076,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NO_REACHABLE_CHARGING_STATION_FOUND"
+
+  - <div id="sdk-for-android-explore-NO_REACHABLE_CHARGING_STATION_FOUND"
     class="section detail">
 
     ### NO_REACHABLE_CHARGING_STATION_FOUND
@@ -1073,7 +1096,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ROUTE_CALCULATION_FAILED"
+
+  - <div id="sdk-for-android-explore-ROUTE_CALCULATION_FAILED"
     class="section detail">
 
     ### ROUTE_CALCULATION_FAILED
@@ -1092,7 +1116,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ROUTE_LENGTH_LIMIT_EXCEEDED"
+
+  - <div id="sdk-for-android-explore-ROUTE_LENGTH_LIMIT_EXCEEDED"
     class="section detail">
 
     ### ROUTE_LENGTH_LIMIT_EXCEEDED
@@ -1111,7 +1136,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING"
+
+  - <div id="sdk-for-android-explore-VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING"
     class="section detail">
 
     ### VIOLATED_TRANSPORT_MODE_IN_ROUTE_HANDLE_DECODING
@@ -1131,7 +1157,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PROXY_AUTHENTICATION_FAILED"
+
+  - <div id="sdk-for-android-explore-PROXY_AUTHENTICATION_FAILED"
     class="section detail">
 
     ### PROXY_AUTHENTICATION_FAILED
@@ -1150,7 +1177,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PROXY_SERVER_UNREACHABLE"
+
+  - <div id="sdk-for-android-explore-PROXY_SERVER_UNREACHABLE"
     class="section detail">
 
     ### PROXY_SERVER_UNREACHABLE
@@ -1169,7 +1197,8 @@ route.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ACTIVE_MAP_UPDATE"
+
+  - <div id="sdk-for-android-explore-ACTIVE_MAP_UPDATE"
     class="section detail">
 
     ### ACTIVE_MAP_UPDATE
@@ -1191,9 +1220,11 @@ route.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1216,7 +1247,8 @@ route.
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

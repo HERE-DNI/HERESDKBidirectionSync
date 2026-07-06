@@ -42,7 +42,8 @@ scene.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -99,9 +100,11 @@ scene.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onLoadScene(com.here.sdk.mapview.MapError)"
+
+  - <div id="sdk-for-android-explore-onLoadScene(com.here.sdk.mapview.MapError)"
     class="section detail">
 
     ### onLoadScene

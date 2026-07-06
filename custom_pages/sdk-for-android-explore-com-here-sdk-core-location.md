@@ -37,7 +37,8 @@ Describes a location in the world at a given time.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -403,7 +404,8 @@ Describes a location in the world at a given time.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -446,7 +448,8 @@ Describes a location in the world at a given time.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -520,28 +523,28 @@ Describes a location in the world at a given time.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -553,9 +556,11 @@ Describes a location in the world at a given time.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-coordinates"
+
+  - <div id="sdk-for-android-explore-coordinates"
     class="section detail">
 
     ### coordinates
@@ -574,7 +579,8 @@ Describes a location in the world at a given time.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-bearingInDegrees"
+
+  - <div id="sdk-for-android-explore-bearingInDegrees"
     class="section detail">
 
     ### bearingInDegrees
@@ -601,7 +607,8 @@ Describes a location in the world at a given time.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-speedInMetersPerSecond"
+
+  - <div id="sdk-for-android-explore-speedInMetersPerSecond"
     class="section detail">
 
     ### speedInMetersPerSecond
@@ -623,7 +630,8 @@ Describes a location in the world at a given time.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-time" class="section detail">
+
+  - <div id="sdk-for-android-explore-time" class="section detail">
 
     ### time
 
@@ -643,7 +651,8 @@ Describes a location in the world at a given time.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-horizontalAccuracyInMeters"
+
+  - <div id="sdk-for-android-explore-horizontalAccuracyInMeters"
     class="section detail">
 
     ### horizontalAccuracyInMeters
@@ -665,7 +674,8 @@ Describes a location in the world at a given time.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-verticalAccuracyInMeters"
+
+  - <div id="sdk-for-android-explore-verticalAccuracyInMeters"
     class="section detail">
 
     ### verticalAccuracyInMeters
@@ -691,7 +701,8 @@ Describes a location in the world at a given time.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-bearingAccuracyInDegrees"
+
+  - <div id="sdk-for-android-explore-bearingAccuracyInDegrees"
     class="section detail">
 
     ### bearingAccuracyInDegrees
@@ -713,7 +724,8 @@ Describes a location in the world at a given time.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-speedAccuracyInMetersPerSecond"
+
+  - <div id="sdk-for-android-explore-speedAccuracyInMetersPerSecond"
     class="section detail">
 
     ### speedAccuracyInMetersPerSecond
@@ -735,7 +747,8 @@ Describes a location in the world at a given time.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-timestampSinceBoot"
+
+  - <div id="sdk-for-android-explore-timestampSinceBoot"
     class="section detail">
 
     ### timestampSinceBoot
@@ -758,7 +771,8 @@ Describes a location in the world at a given time.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-locationTechnology"
+
+  - <div id="sdk-for-android-explore-locationTechnology"
     class="section detail">
 
     ### locationTechnology
@@ -778,7 +792,8 @@ Describes a location in the world at a given time.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-source" class="section detail">
+
+  - <div id="sdk-for-android-explore-source" class="section detail">
 
     ### source
 
@@ -797,7 +812,8 @@ Describes a location in the world at a given time.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-gnssTime" class="section detail">
+
+  - <div id="sdk-for-android-explore-gnssTime" class="section detail">
 
     ### gnssTime
 
@@ -817,7 +833,8 @@ Describes a location in the world at a given time.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-pitchInDegrees"
+
+  - <div id="sdk-for-android-explore-pitchInDegrees"
     class="section detail">
 
     ### pitchInDegrees
@@ -841,9 +858,11 @@ Describes a location in the world at a given time.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### Location
@@ -871,9 +890,11 @@ Describes a location in the world at a given time.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -897,7 +918,8 @@ Describes a location in the world at a given time.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

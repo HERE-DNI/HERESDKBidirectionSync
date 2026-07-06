@@ -37,7 +37,8 @@ completed.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -94,9 +95,11 @@ completed.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onTaskCompleted(com.here.sdk.core.threading.TaskOutcome)"
+
+  - <div id="sdk-for-android-explore-onTaskCompleted(com.here.sdk.core.threading.TaskOutcome)"
     class="section detail">
 
     ### onTaskCompleted

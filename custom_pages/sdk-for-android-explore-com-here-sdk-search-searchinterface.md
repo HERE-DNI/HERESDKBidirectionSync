@@ -31,7 +31,8 @@ Provides the interface for the online and offline search engines.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -238,9 +239,11 @@ Provides the interface for the online and offline search engines.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
     class="section detail">
 
     ### searchByText
@@ -282,7 +285,8 @@ Provides the interface for the online and offline search engines.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByAddress(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByAddress(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
     class="section detail">
 
     ### searchByAddress
@@ -327,7 +331,8 @@ Provides the interface for the online and offline search engines.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByCategory(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByCategory(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
     class="section detail">
 
     ### searchByCategory
@@ -369,7 +374,8 @@ Provides the interface for the online and offline search engines.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByCoordinates(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByCoordinates(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
     class="section detail">
 
     ### searchByCoordinates
@@ -414,7 +420,8 @@ Provides the interface for the online and offline search engines.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByPlaceId(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByPlaceId(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)"
     class="section detail">
 
     ### searchByPlaceId
@@ -457,7 +464,8 @@ Provides the interface for the online and offline search engines.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByPickedPlace(com.here.sdk.core.PickedPlace,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByPickedPlace(com.here.sdk.core.PickedPlace,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)"
     class="section detail">
 
     ### searchByPickedPlace
@@ -506,7 +514,8 @@ Provides the interface for the online and offline search engines.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)"
+
+  - <div id="sdk-for-android-explore-suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)"
     class="section detail">
 
     ### suggestByText

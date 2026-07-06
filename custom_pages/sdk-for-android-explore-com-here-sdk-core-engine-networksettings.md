@@ -38,7 +38,8 @@ initialization.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -173,7 +174,8 @@ initialization.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -215,7 +217,8 @@ initialization.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -289,28 +292,28 @@ initialization.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -322,9 +325,11 @@ initialization.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-proxySettings"
+
+  - <div id="sdk-for-android-explore-proxySettings"
     class="section detail">
 
     ### proxySettings
@@ -344,7 +349,8 @@ initialization.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-domainNameSystemServers"
+
+  - <div id="sdk-for-android-explore-domainNameSystemServers"
     class="section detail">
 
     ### domainNameSystemServers
@@ -354,7 +360,7 @@ initialization.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[NetworkEndpoint](sdk-for-android-explore-com-here-sdk-core-networkendpoint "class in com.here.sdk.core")></span> <span class="element-name">domainNameSystemServers</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[NetworkEndpoint](sdk-for-android-explore-com-here-sdk-core-networkendpoint "class in com.here.sdk.core")\></span> <span class="element-name">domainNameSystemServers</span>
 
     </div>
 
@@ -368,7 +374,8 @@ initialization.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-certificates"
+
+  - <div id="sdk-for-android-explore-certificates"
     class="section detail">
 
     ### certificates
@@ -389,7 +396,8 @@ initialization.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-diagnosticsOutputPath"
+
+  - <div id="sdk-for-android-explore-diagnosticsOutputPath"
     class="section detail">
 
     ### diagnosticsOutputPath
@@ -416,9 +424,11 @@ initialization.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### NetworkSettings
 
@@ -437,9 +447,11 @@ initialization.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -463,7 +475,8 @@ initialization.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

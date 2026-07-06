@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-search-placetype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<PlaceType>com.here.sdk.search.PlaceType →
+java.lang.Enum\<PlaceType\>com.here.sdk.search.PlaceType →
 java.lang.Enum → PlaceType → com.here.sdk.search.PlaceType
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">PlaceType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[PlaceType](sdk-for-android-explore-com-here-sdk-search-placetype "enum class in com.here.sdk.search")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[PlaceType](sdk-for-android-explore-com-here-sdk-search-placetype "enum class in com.here.sdk.search")\></span>
 
 </div>
 
@@ -52,7 +52,8 @@ Specifies place type of Place result from a search query.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -74,7 +75,8 @@ Specifies place type of Place result from a search query.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -203,7 +205,8 @@ Specifies place type of Place result from a search query.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -286,34 +289,34 @@ Specifies place type of Place result from a search query.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
   class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>`, `<a
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
   class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>`, `<a
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
   class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>`, `<a
+  title="class or interface in java.lang"><code>name</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
   class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>`, `<a
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
   class="external-link"
   title="class or interface in java.lang"><code>valueOf</code></a>
@@ -329,19 +332,19 @@ Specifies place type of Place result from a search query.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -353,9 +356,11 @@ Specifies place type of Place result from a search query.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-POI" class="section detail">
+
+  - <div id="sdk-for-android-explore-POI" class="section detail">
 
     ### POI
 
@@ -373,7 +378,8 @@ Specifies place type of Place result from a search query.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ADDRESS" class="section detail">
+
+  - <div id="sdk-for-android-explore-ADDRESS" class="section detail">
 
     ### ADDRESS
 
@@ -392,7 +398,8 @@ Specifies place type of Place result from a search query.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-AREA" class="section detail">
+
+  - <div id="sdk-for-android-explore-AREA" class="section detail">
 
     ### AREA
 
@@ -410,7 +417,8 @@ Specifies place type of Place result from a search query.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-STREET" class="section detail">
+
+  - <div id="sdk-for-android-explore-STREET" class="section detail">
 
     ### STREET
 
@@ -428,7 +436,8 @@ Specifies place type of Place result from a search query.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-INTERSECTION"
+
+  - <div id="sdk-for-android-explore-INTERSECTION"
     class="section detail">
 
     ### INTERSECTION
@@ -448,7 +457,8 @@ Specifies place type of Place result from a search query.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-UNKNOWN" class="section detail">
+
+  - <div id="sdk-for-android-explore-UNKNOWN" class="section detail">
 
     ### UNKNOWN
 
@@ -468,9 +478,11 @@ Specifies place type of Place result from a search query.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -493,7 +505,8 @@ Specifies place type of Place result from a search query.
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

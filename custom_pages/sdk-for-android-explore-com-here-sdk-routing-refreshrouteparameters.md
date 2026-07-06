@@ -38,7 +38,8 @@ from a specific location on it.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -173,7 +174,8 @@ from a specific location on it.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -256,7 +258,8 @@ from a specific location on it.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -330,28 +333,28 @@ from a specific location on it.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -363,9 +366,11 @@ from a specific location on it.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-routeHandle"
+
+  - <div id="sdk-for-android-explore-routeHandle"
     class="section detail">
 
     ### routeHandle
@@ -384,7 +389,8 @@ from a specific location on it.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-startingPoint"
+
+  - <div id="sdk-for-android-explore-startingPoint"
     class="section detail">
 
     ### startingPoint
@@ -418,7 +424,8 @@ from a specific location on it.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-startingSectionIndex"
+
+  - <div id="sdk-for-android-explore-startingSectionIndex"
     class="section detail">
 
     ### startingSectionIndex
@@ -444,7 +451,8 @@ from a specific location on it.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-traveledDistanceOnStartingSectionInMeters"
+
+  - <div id="sdk-for-android-explore-traveledDistanceOnStartingSectionInMeters"
     class="section detail">
 
     ### traveledDistanceOnStartingSectionInMeters
@@ -471,9 +479,11 @@ from a specific location on it.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint)"
     class="section detail">
 
     ### RefreshRouteParameters
@@ -504,7 +514,8 @@ from a specific location on it.
     Identify the new starting point of the route.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,int,int)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,int,int)"
     class="section detail">
 
     ### RefreshRouteParameters
@@ -540,7 +551,8 @@ from a specific location on it.
     already traveled.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.RouteHandle,com.here.sdk.routing.Waypoint,int,int)"
     class="section detail">
 
     ### RefreshRouteParameters
@@ -584,9 +596,11 @@ from a specific location on it.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -610,7 +624,8 @@ from a specific location on it.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

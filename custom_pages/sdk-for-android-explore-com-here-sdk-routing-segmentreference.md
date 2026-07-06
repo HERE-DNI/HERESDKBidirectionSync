@@ -40,7 +40,8 @@ deprecation process.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -228,7 +229,8 @@ deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -381,7 +383,8 @@ deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -478,28 +481,28 @@ deprecation process.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -511,9 +514,11 @@ deprecation process.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-segmentId" class="section detail">
+
+  - <div id="sdk-for-android-explore-segmentId" class="section detail">
 
     ### segmentId
 
@@ -534,7 +539,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-travelDirection"
+
+  - <div id="sdk-for-android-explore-travelDirection"
     class="section detail">
 
     ### travelDirection
@@ -553,7 +559,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-offsetStart"
+
+  - <div id="sdk-for-android-explore-offsetStart"
     class="section detail">
 
     ### offsetStart
@@ -575,7 +582,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-offsetEnd" class="section detail">
+
+  - <div id="sdk-for-android-explore-offsetEnd" class="section detail">
 
     ### offsetEnd
 
@@ -596,7 +604,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-tilePartitionId"
+
+  - <div id="sdk-for-android-explore-tilePartitionId"
     class="section detail">
 
     ### tilePartitionId
@@ -615,7 +624,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-localId" class="section detail">
+
+  - <div id="sdk-for-android-explore-localId" class="section detail">
 
     ### localId
 
@@ -637,9 +647,11 @@ deprecation process.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### SegmentReference
 
@@ -656,7 +668,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-<init>(java.lang.String)"
     class="section detail">
 
     ### SegmentReference
@@ -683,7 +696,8 @@ deprecation process.
     platform catalogs.
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection)"
+
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection)"
     class="section detail">
 
     ### SegmentReference
@@ -716,7 +730,8 @@ deprecation process.
     Travel direction of the segment.
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double)"
+
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double)"
     class="section detail">
 
     ### SegmentReference
@@ -758,7 +773,8 @@ deprecation process.
     direction in case of undirected segments)
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double)"
+
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double)"
     class="section detail">
 
     ### SegmentReference
@@ -808,7 +824,8 @@ deprecation process.
     direction in case of undirected segments)
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long)"
+
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long)"
     class="section detail">
 
     ### SegmentReference
@@ -863,7 +880,8 @@ deprecation process.
     segment. As in HERE Map Content.
 
     </div>
-<div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long,java.lang.Long)"
+
+  - <div id="sdk-for-android-explore-<init>(java.lang.String,com.here.sdk.routing.TravelDirection,double,double,long,java.lang.Long)"
     class="section detail">
 
     ### SegmentReference
@@ -927,9 +945,11 @@ deprecation process.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -953,7 +973,8 @@ deprecation process.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -974,7 +995,8 @@ deprecation process.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-fromString(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-fromString(java.lang.String)"
     class="section detail">
 
     ### fromString

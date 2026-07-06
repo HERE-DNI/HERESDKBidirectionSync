@@ -42,7 +42,8 @@ deprecation process.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -100,7 +101,8 @@ deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -272,34 +274,34 @@ deprecation process.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -311,9 +313,11 @@ deprecation process.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-add(com.here.sdk.mapview.datasource.PointData)"
+
+  - <div id="sdk-for-android-explore-add(com.here.sdk.mapview.datasource.PointData)"
     class="section detail">
 
     ### add
@@ -338,7 +342,8 @@ deprecation process.
     Point to be added.
 
     </div>
-<div id="sdk-for-android-explore-add(java.util.List)"
+
+  - <div id="sdk-for-android-explore-add(java.util.List)"
     class="section detail">
 
     ### add
@@ -348,7 +353,7 @@ deprecation process.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">add</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PointData](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata "class in com.here.sdk.mapview.datasource")> points)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PointData](sdk-for-android-explore-com-here-sdk-mapview-datasource-pointdata "class in com.here.sdk.mapview.datasource")\> points)</span>
 
     </div>
 
@@ -365,7 +370,8 @@ deprecation process.
     Point positions.
 
     </div>
-<div id="sdk-for-android-explore-removeAll()"
+
+  - <div id="sdk-for-android-explore-removeAll()"
     class="section detail">
 
     ### removeAll
@@ -383,7 +389,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-forEach(com.here.sdk.mapview.datasource.PointDataSource.PointDataProcessor)"
+
+  - <div id="sdk-for-android-explore-forEach(com.here.sdk.mapview.datasource.PointDataSource.PointDataProcessor)"
     class="section detail">
 
     ### forEach
@@ -410,7 +417,8 @@ deprecation process.
     Point data processor.
 
     </div>
-<div id="sdk-for-android-explore-removeIf(com.here.sdk.mapview.datasource.PointDataSource.PointDataProcessor)"
+
+  - <div id="sdk-for-android-explore-removeIf(com.here.sdk.mapview.datasource.PointDataSource.PointDataProcessor)"
     class="section detail">
 
     ### removeIf
@@ -437,7 +445,8 @@ deprecation process.
     Point data processor.
 
     </div>
-<div id="sdk-for-android-explore-destroy()" class="section detail">
+
+  - <div id="sdk-for-android-explore-destroy()" class="section detail">
 
     ### destroy
 

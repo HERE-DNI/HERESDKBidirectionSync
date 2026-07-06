@@ -55,7 +55,8 @@ may be useful for debug purposes.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -113,7 +114,8 @@ may be useful for debug purposes.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -615,34 +617,34 @@ may be useful for debug purposes.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -654,9 +656,11 @@ may be useful for debug purposes.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### SearchEngine
 
@@ -680,7 +684,8 @@ may be useful for debug purposes.
     Indicates what went wrong when the instantiation was attempted.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.engine.SDKNativeEngine)"
     class="section detail">
 
     ### SearchEngine
@@ -713,9 +718,11 @@ may be useful for debug purposes.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-search(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-search(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
     class="section detail">
 
     ### search
@@ -758,7 +765,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-search(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-search(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
     class="section detail">
 
     ### search
@@ -804,7 +812,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-search(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-search(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallbackExtended)"
     class="section detail">
 
     ### search
@@ -847,7 +856,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-search(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-search(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
     class="section detail">
 
     ### search
@@ -892,7 +902,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-search(com.here.sdk.core.GeoCircle,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-search(com.here.sdk.core.GeoCircle,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
     class="section detail">
 
     ### search
@@ -939,7 +950,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-search(com.here.sdk.core.GeoCircle,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-search(com.here.sdk.core.GeoCircle,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
     class="section detail">
 
     ### search
@@ -986,7 +998,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-sendRequest(java.lang.String,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-sendRequest(java.lang.String,com.here.sdk.search.SearchCallback)"
     class="section detail">
 
     ### sendRequest
@@ -1028,7 +1041,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-sendRequest(java.lang.String,com.here.sdk.search.SearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-sendRequest(java.lang.String,com.here.sdk.search.SearchCallbackExtended)"
     class="section detail">
 
     ### sendRequest
@@ -1070,7 +1084,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-search(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-search(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallbackExtended)"
     class="section detail">
 
     ### search
@@ -1112,7 +1127,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-suggest(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallbackExtended)"
+
+  - <div id="sdk-for-android-explore-suggest(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallbackExtended)"
     class="section detail">
 
     ### suggest
@@ -1153,7 +1169,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-setCustomOption(java.lang.String,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-setCustomOption(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### setCustomOption
@@ -1232,7 +1249,8 @@ may be useful for debug purposes.
     Error in case when setting the option fails.
 
     </div>
-<div id="sdk-for-android-explore-setEVInterface(com.here.sdk.search.EVSearchInterface)"
+
+  - <div id="sdk-for-android-explore-setEVInterface(com.here.sdk.search.EVSearchInterface)"
     class="section detail">
 
     ### setEVInterface
@@ -1259,7 +1277,8 @@ may be useful for debug purposes.
     The EV search interface implementation.
 
     </div>
-<div id="sdk-for-android-explore-searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
     class="section detail">
 
     ### searchByText
@@ -1305,7 +1324,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByAddress(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByAddress(com.here.sdk.search.AddressQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
     class="section detail">
 
     ### searchByAddress
@@ -1354,7 +1374,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByCategory(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByCategory(com.here.sdk.search.CategoryQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
     class="section detail">
 
     ### searchByCategory
@@ -1400,7 +1421,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByCoordinates(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByCoordinates(com.here.sdk.core.GeoCoordinates,com.here.sdk.search.SearchOptions,com.here.sdk.search.SearchCallback)"
     class="section detail">
 
     ### searchByCoordinates
@@ -1449,7 +1471,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByPlaceId(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByPlaceId(com.here.sdk.search.PlaceIdQuery,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)"
     class="section detail">
 
     ### searchByPlaceId
@@ -1496,7 +1519,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-searchByPickedPlace(com.here.sdk.core.PickedPlace,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)"
+
+  - <div id="sdk-for-android-explore-searchByPickedPlace(com.here.sdk.core.PickedPlace,com.here.sdk.core.LanguageCode,com.here.sdk.search.PlaceIdSearchCallback)"
     class="section detail">
 
     ### searchByPickedPlace
@@ -1549,7 +1573,8 @@ may be useful for debug purposes.
     Handle that will be used to manipulate the execution of the task.
 
     </div>
-<div id="sdk-for-android-explore-suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)"
+
+  - <div id="sdk-for-android-explore-suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)"
     class="section detail">
 
     ### suggestByText

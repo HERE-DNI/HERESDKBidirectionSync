@@ -31,7 +31,8 @@ Result handler of a load tile request.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -111,9 +112,11 @@ Result handler of a load tile request.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-loaded(com.here.sdk.mapview.datasource.TileKey,byte[],com.here.sdk.mapview.datasource.TileSource.TileMetadata)"
+
+  - <div id="sdk-for-android-explore-loaded(com.here.sdk.mapview.datasource.TileKey,byte[],com.here.sdk.mapview.datasource.TileSource.TileMetadata)"
     class="section detail">
 
     ### loaded
@@ -147,7 +150,8 @@ Result handler of a load tile request.
     Loaded tile metadata.
 
     </div>
-<div id="sdk-for-android-explore-failed(com.here.sdk.mapview.datasource.TileKey)"
+
+  - <div id="sdk-for-android-explore-failed(com.here.sdk.mapview.datasource.TileKey)"
     class="section detail">
 
     ### failed

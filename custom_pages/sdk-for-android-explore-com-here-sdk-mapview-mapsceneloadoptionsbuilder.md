@@ -42,7 +42,8 @@ without a deprecation process.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -149,7 +150,8 @@ without a deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -191,7 +193,8 @@ without a deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -383,34 +386,34 @@ without a deprecation process.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -422,9 +425,11 @@ without a deprecation process.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MapSceneLoadOptionsBuilder
 
@@ -443,9 +448,11 @@ without a deprecation process.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-withMapScheme(com.here.sdk.mapview.MapScheme)"
+
+  - <div id="sdk-for-android-explore-withMapScheme(com.here.sdk.mapview.MapScheme)"
     class="section detail">
 
     ### withMapScheme
@@ -474,7 +481,8 @@ without a deprecation process.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-withConfigurationFile(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-withConfigurationFile(java.lang.String)"
     class="section detail">
 
     ### withConfigurationFile
@@ -505,7 +513,8 @@ without a deprecation process.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-withEnabledFeatures(java.util.Map)"
+
+  - <div id="sdk-for-android-explore-withEnabledFeatures(java.util.Map)"
     class="section detail">
 
     ### withEnabledFeatures
@@ -520,7 +529,7 @@ without a deprecation process.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>> enabledFeatures)</span>
+    class="external-link" title="class or interface in java.lang">String</a>\> enabledFeatures)</span>
 
     </div>
 
@@ -539,7 +548,8 @@ without a deprecation process.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-withDisabledFeatures(java.util.List)"
+
+  - <div id="sdk-for-android-explore-withDisabledFeatures(java.util.List)"
     class="section detail">
 
     ### withDisabledFeatures
@@ -552,7 +562,7 @@ without a deprecation process.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>> disabledFeatures)</span>
+    class="external-link" title="class or interface in java.lang">String</a>\> disabledFeatures)</span>
 
     </div>
 
@@ -571,7 +581,8 @@ without a deprecation process.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-withWatermarkStyle(com.here.sdk.mapview.WatermarkStyle)"
+
+  - <div id="sdk-for-android-explore-withWatermarkStyle(com.here.sdk.mapview.WatermarkStyle)"
     class="section detail">
 
     ### withWatermarkStyle
@@ -599,7 +610,8 @@ without a deprecation process.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-withOverridingMapStyle(com.here.sdk.mapview.Style)"
+
+  - <div id="sdk-for-android-explore-withOverridingMapStyle(com.here.sdk.mapview.Style)"
     class="section detail">
 
     ### withOverridingMapStyle
@@ -628,7 +640,8 @@ without a deprecation process.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-build()" class="section detail">
+
+  - <div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

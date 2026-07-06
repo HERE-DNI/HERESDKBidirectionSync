@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-transitmode"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<TransitMode>com.here.sdk.routing.TransitMode →
+java.lang.Enum\<TransitMode\>com.here.sdk.routing.TransitMode →
 java.lang.Enum → TransitMode → com.here.sdk.routing.TransitMode
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">TransitMode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[TransitMode](sdk-for-android-explore-com-here-sdk-routing-transitmode "enum class in com.here.sdk.routing")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TransitMode](sdk-for-android-explore-com-here-sdk-routing-transitmode "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -52,7 +52,8 @@ Public transit mode
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -74,7 +75,8 @@ Public transit mode
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -368,7 +370,8 @@ Public transit mode
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -451,34 +454,34 @@ Public transit mode
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
   class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>`, `<a
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
   class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>`, `<a
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
   class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>`, `<a
+  title="class or interface in java.lang"><code>name</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
   class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>`, `<a
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
   class="external-link"
   title="class or interface in java.lang"><code>valueOf</code></a>
@@ -494,19 +497,19 @@ Public transit mode
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -518,9 +521,11 @@ Public transit mode
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-HIGH_SPEED_TRAIN"
+
+  - <div id="sdk-for-android-explore-HIGH_SPEED_TRAIN"
     class="section detail">
 
     ### HIGH_SPEED_TRAIN
@@ -539,7 +544,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-INTERCITY_TRAIN"
+
+  - <div id="sdk-for-android-explore-INTERCITY_TRAIN"
     class="section detail">
 
     ### INTERCITY_TRAIN
@@ -558,7 +564,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-INTER_REGIONAL_TRAIN"
+
+  - <div id="sdk-for-android-explore-INTER_REGIONAL_TRAIN"
     class="section detail">
 
     ### INTER_REGIONAL_TRAIN
@@ -577,7 +584,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-REGIONAL_TRAIN"
+
+  - <div id="sdk-for-android-explore-REGIONAL_TRAIN"
     class="section detail">
 
     ### REGIONAL_TRAIN
@@ -596,7 +604,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CITY_TRAIN" class="section detail">
+
+  - <div id="sdk-for-android-explore-CITY_TRAIN" class="section detail">
 
     ### CITY_TRAIN
 
@@ -614,7 +623,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BUS" class="section detail">
+
+  - <div id="sdk-for-android-explore-BUS" class="section detail">
 
     ### BUS
 
@@ -632,7 +642,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FERRY" class="section detail">
+
+  - <div id="sdk-for-android-explore-FERRY" class="section detail">
 
     ### FERRY
 
@@ -650,7 +661,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SUBWAY" class="section detail">
+
+  - <div id="sdk-for-android-explore-SUBWAY" class="section detail">
 
     ### SUBWAY
 
@@ -668,7 +680,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LIGHT_RAIL" class="section detail">
+
+  - <div id="sdk-for-android-explore-LIGHT_RAIL" class="section detail">
 
     ### LIGHT_RAIL
 
@@ -686,7 +699,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PRIVATE_BUS"
+
+  - <div id="sdk-for-android-explore-PRIVATE_BUS"
     class="section detail">
 
     ### PRIVATE_BUS
@@ -705,7 +719,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-INCLINED" class="section detail">
+
+  - <div id="sdk-for-android-explore-INCLINED" class="section detail">
 
     ### INCLINED
 
@@ -723,7 +738,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-AERIAL" class="section detail">
+
+  - <div id="sdk-for-android-explore-AERIAL" class="section detail">
 
     ### AERIAL
 
@@ -741,7 +757,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-BUS_RAPID" class="section detail">
+
+  - <div id="sdk-for-android-explore-BUS_RAPID" class="section detail">
 
     ### BUS_RAPID
 
@@ -759,7 +776,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MONORAIL" class="section detail">
+
+  - <div id="sdk-for-android-explore-MONORAIL" class="section detail">
 
     ### MONORAIL
 
@@ -777,7 +795,8 @@ Public transit mode
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FLIGHT" class="section detail">
+
+  - <div id="sdk-for-android-explore-FLIGHT" class="section detail">
 
     ### FLIGHT
 
@@ -797,9 +816,11 @@ Public transit mode
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -822,7 +843,8 @@ Public transit mode
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

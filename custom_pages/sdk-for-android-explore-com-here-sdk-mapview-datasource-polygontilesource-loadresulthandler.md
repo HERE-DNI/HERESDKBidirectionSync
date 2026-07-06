@@ -31,7 +31,8 @@ Result handler of a load tile request.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -111,9 +112,11 @@ Result handler of a load tile request.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)"
+
+  - <div id="sdk-for-android-explore-loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)"
     class="section detail">
 
     ### loaded
@@ -124,7 +127,7 @@ Result handler of a load tile request.
     [TileKey](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilekey "class in com.here.sdk.mapview.datasource") tileKey,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PolygonData](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata "class in com.here.sdk.mapview.datasource")> data,
+    class="external-link" title="class or interface in java.util">List</a>\<[PolygonData](sdk-for-android-explore-com-here-sdk-mapview-datasource-polygondata "class in com.here.sdk.mapview.datasource")\> data,
     @NonNull
     [TileSource.TileMetadata](sdk-for-android-explore-com-here-sdk-mapview-datasource-tilesource-tilemetadata "class in com.here.sdk.mapview.datasource") metadata)</span>
 
@@ -150,7 +153,8 @@ Result handler of a load tile request.
     Loaded tile metadata.
 
     </div>
-<div id="sdk-for-android-explore-failed(com.here.sdk.mapview.datasource.TileKey)"
+
+  - <div id="sdk-for-android-explore-failed(com.here.sdk.mapview.datasource.TileKey)"
     class="section detail">
 
     ### failed

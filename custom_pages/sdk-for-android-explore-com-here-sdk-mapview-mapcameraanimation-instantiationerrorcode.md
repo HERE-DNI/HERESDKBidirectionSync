@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantia
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<MapCameraAnimation.InstantiationErrorCode>com.here.sdk.mapview.MapCameraAnimation.InstantiationErrorCode
+java.lang.Enum\<MapCameraAnimation.InstantiationErrorCode\>com.here.sdk.mapview.MapCameraAnimation.InstantiationErrorCode
 → java.lang.Enum → MapCameraAnimation.InstantiationErrorCode →
 com.here.sdk.mapview.MapCameraAnimation.InstantiationErrorCode
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">MapCameraAnimation.InstantiationErrorCode</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[MapCameraAnimation.InstantiationErrorCode](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationerrorcode "enum class in com.here.sdk.mapview")\></span>
 
 </div>
 
@@ -59,7 +59,8 @@ MapCameraAnimation .
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -81,7 +82,8 @@ MapCameraAnimation .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -482,7 +484,8 @@ MapCameraAnimation .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -565,34 +568,34 @@ MapCameraAnimation .
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
   class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>`, `<a
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
   class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>`, `<a
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
   class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>`, `<a
+  title="class or interface in java.lang"><code>name</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
   class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>`, `<a
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
   class="external-link"
   title="class or interface in java.lang"><code>valueOf</code></a>
@@ -608,19 +611,19 @@ MapCameraAnimation .
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -632,9 +635,11 @@ MapCameraAnimation .
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-EMPTY_TRACK_LIST"
+
+  - <div id="sdk-for-android-explore-EMPTY_TRACK_LIST"
     class="section detail">
 
     ### EMPTY_TRACK_LIST
@@ -653,7 +658,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MULTIPLE_CAMERA_POSITION_TRACKS"
+
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_POSITION_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_POSITION_TRACKS
@@ -672,7 +678,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK"
+
+  - <div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK"
     class="section detail">
 
     ### CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_TARGET_TRACK
@@ -692,7 +699,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
+
+  - <div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK
@@ -712,7 +720,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
+
+  - <div id="sdk-for-android-explore-CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
     class="section detail">
 
     ### CAMERA_POSITION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK
@@ -732,7 +741,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MULTIPLE_CAMERA_ORIENTATION_TRACKS"
+
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_ORIENTATION_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_ORIENTATION_TRACKS
@@ -751,7 +761,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
+
+  - <div id="sdk-for-android-explore-CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_ORIENTATION_TRACK
@@ -771,7 +782,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
+
+  - <div id="sdk-for-android-explore-CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK"
     class="section detail">
 
     ### CAMERA_ORIENTATION_MODIFIED_BY_CAMERA_LOOKAT_DISTANCE_TRACK
@@ -791,7 +803,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS"
+
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_LOOKAT_TARGET_TRACKS
@@ -811,7 +824,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK"
+
+  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_POSITION_TRACK
@@ -831,7 +845,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
+
+  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_TARGET_MODIFIED_BY_CAMERA_ORIENTATION_TRACK
@@ -851,7 +866,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS"
+
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_LOOKAT_ORIENTATION_TRACKS
@@ -871,7 +887,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK"
+
+  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_POSITION_TRACK
@@ -891,7 +908,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
+
+  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_ORIENTATION_MODIFIED_BY_CAMERA_ORIENTATION_TRACK
@@ -911,7 +929,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS"
+
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_LOOKAT_DISTANCE_TRACKS
@@ -931,7 +950,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK"
+
+  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_POSITION_TRACK
@@ -951,7 +971,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
+
+  - <div id="sdk-for-android-explore-CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK"
     class="section detail">
 
     ### CAMERA_LOOKAT_DISTANCE_MODIFIED_BY_CAMERA_ORIENTATION_TRACK
@@ -971,7 +992,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS"
+
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_FIELD_OF_VIEW_TRACKS
@@ -991,7 +1013,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS"
+
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_FOCAL_LENGTH_TRACKS
@@ -1011,7 +1034,8 @@ MapCameraAnimation .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS"
+
+  - <div id="sdk-for-android-explore-MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS"
     class="section detail">
 
     ### MULTIPLE_CAMERA_PRINCIPAL_POINT_TRACKS
@@ -1033,9 +1057,11 @@ MapCameraAnimation .
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1058,7 +1084,8 @@ MapCameraAnimation .
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

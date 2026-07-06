@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-featu
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<LayerConfiguration.Feature>com.here.sdk.core.engine.LayerConfiguration.Feature
+java.lang.Enum\<LayerConfiguration.Feature\>com.here.sdk.core.engine.LayerConfiguration.Feature
 → java.lang.Enum → LayerConfiguration.Feature →
 com.here.sdk.core.engine.LayerConfiguration.Feature
 
@@ -45,7 +45,7 @@ Enclosing class:
 </span><span class="element-name type-name-label">LayerConfiguration.Feature</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[LayerConfiguration.Feature](sdk-for-android-explore-com-here-sdk-core-engine-layerconfiguration-feature "enum class in com.here.sdk.core.engine")\></span>
 
 </div>
 
@@ -76,7 +76,8 @@ might have overlapping sets of enabled layer groups.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -98,7 +99,8 @@ might have overlapping sets of enabled layer groups.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -563,7 +565,8 @@ might have overlapping sets of enabled layer groups.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -646,34 +649,34 @@ might have overlapping sets of enabled layer groups.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
   class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>`, `<a
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
   class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>`, `<a
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
   class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>`, `<a
+  title="class or interface in java.lang"><code>name</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
   class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>`, `<a
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
   class="external-link"
   title="class or interface in java.lang"><code>valueOf</code></a>
@@ -689,19 +692,19 @@ might have overlapping sets of enabled layer groups.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -713,9 +716,11 @@ might have overlapping sets of enabled layer groups.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-DETAIL_RENDERING"
+
+  - <div id="sdk-for-android-explore-DETAIL_RENDERING"
     class="section detail">
 
     ### DETAIL_RENDERING
@@ -740,7 +745,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-NAVIGATION" class="section detail">
+
+  - <div id="sdk-for-android-explore-NAVIGATION" class="section detail">
 
     ### NAVIGATION
 
@@ -764,7 +770,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OFFLINE_SEARCH"
+
+  - <div id="sdk-for-android-explore-OFFLINE_SEARCH"
     class="section detail">
 
     ### OFFLINE_SEARCH
@@ -786,7 +793,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OFFLINE_SEARCH_GLOBAL"
+
+  - <div id="sdk-for-android-explore-OFFLINE_SEARCH_GLOBAL"
     class="section detail">
 
     ### OFFLINE_SEARCH_GLOBAL
@@ -836,7 +844,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OFFLINE_ROUTING"
+
+  - <div id="sdk-for-android-explore-OFFLINE_ROUTING"
     class="section detail">
 
     ### OFFLINE_ROUTING
@@ -861,7 +870,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RENDERING" class="section detail">
+
+  - <div id="sdk-for-android-explore-RENDERING" class="section detail">
 
     ### RENDERING
 
@@ -883,7 +893,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TRUCK" class="section detail">
+
+  - <div id="sdk-for-android-explore-TRUCK" class="section detail">
 
     ### TRUCK
 
@@ -910,7 +921,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LANDMARKS_3D"
+
+  - <div id="sdk-for-android-explore-LANDMARKS_3D"
     class="section detail">
 
     ### LANDMARKS_3D
@@ -939,7 +951,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-EV" class="section detail">
+
+  - <div id="sdk-for-android-explore-EV" class="section detail">
 
     ### EV
 
@@ -959,7 +972,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TRUCK_SERVICE_ATTRIBUTES"
+
+  - <div id="sdk-for-android-explore-TRUCK_SERVICE_ATTRIBUTES"
     class="section detail">
 
     ### TRUCK_SERVICE_ATTRIBUTES
@@ -980,7 +994,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-FUEL_STATION_ATTRIBUTES"
+
+  - <div id="sdk-for-android-explore-FUEL_STATION_ATTRIBUTES"
     class="section detail">
 
     ### FUEL_STATION_ATTRIBUTES
@@ -1001,7 +1016,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OFFLINE_BUS_ROUTING"
+
+  - <div id="sdk-for-android-explore-OFFLINE_BUS_ROUTING"
     class="section detail">
 
     ### OFFLINE_BUS_ROUTING
@@ -1023,7 +1039,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-JUNCTION_VIEW_3X4"
+
+  - <div id="sdk-for-android-explore-JUNCTION_VIEW_3X4"
     class="section detail">
 
     ### JUNCTION_VIEW_3X4
@@ -1046,7 +1063,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-JUNCTION_VIEW_16X9"
+
+  - <div id="sdk-for-android-explore-JUNCTION_VIEW_16X9"
     class="section detail">
 
     ### JUNCTION_VIEW_16X9
@@ -1070,7 +1088,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-JUNCTION_SIGN_3X4"
+
+  - <div id="sdk-for-android-explore-JUNCTION_SIGN_3X4"
     class="section detail">
 
     ### JUNCTION_SIGN_3X4
@@ -1091,7 +1110,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-JUNCTION_SIGN_3X5"
+
+  - <div id="sdk-for-android-explore-JUNCTION_SIGN_3X5"
     class="section detail">
 
     ### JUNCTION_SIGN_3X5
@@ -1112,7 +1132,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-JUNCTION_SIGN_4X3"
+
+  - <div id="sdk-for-android-explore-JUNCTION_SIGN_4X3"
     class="section detail">
 
     ### JUNCTION_SIGN_4X3
@@ -1133,7 +1154,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-JUNCTION_SIGN_5X3"
+
+  - <div id="sdk-for-android-explore-JUNCTION_SIGN_5X3"
     class="section detail">
 
     ### JUNCTION_SIGN_5X3
@@ -1154,7 +1176,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-JUNCTION_SIGN_16X9"
+
+  - <div id="sdk-for-android-explore-JUNCTION_SIGN_16X9"
     class="section detail">
 
     ### JUNCTION_SIGN_16X9
@@ -1175,7 +1198,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TERRAIN" class="section detail">
+
+  - <div id="sdk-for-android-explore-TERRAIN" class="section detail">
 
     ### TERRAIN
 
@@ -1202,7 +1226,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-DETAILED_TERRAIN"
+
+  - <div id="sdk-for-android-explore-DETAILED_TERRAIN"
     class="section detail">
 
     ### DETAILED_TERRAIN
@@ -1223,7 +1248,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ADAS" class="section detail">
+
+  - <div id="sdk-for-android-explore-ADAS" class="section detail">
 
     ### ADAS
 
@@ -1243,7 +1269,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-EHORIZON" class="section detail">
+
+  - <div id="sdk-for-android-explore-EHORIZON" class="section detail">
 
     ### EHORIZON
 
@@ -1265,7 +1292,8 @@ might have overlapping sets of enabled layer groups.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RDS_TRAFFIC"
+
+  - <div id="sdk-for-android-explore-RDS_TRAFFIC"
     class="section detail">
 
     ### RDS_TRAFFIC
@@ -1290,9 +1318,11 @@ might have overlapping sets of enabled layer groups.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -1315,7 +1345,8 @@ might have overlapping sets of enabled layer groups.
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

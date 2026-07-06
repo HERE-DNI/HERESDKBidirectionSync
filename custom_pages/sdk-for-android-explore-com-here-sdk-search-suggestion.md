@@ -43,7 +43,8 @@ focused search.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -73,7 +74,7 @@ focused search.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
   class="external-link"
-  title="class or interface in java.util"><code>Map</code></a>`<`[`HighlightType`](sdk-for-android-explore-com-here-sdk-search-highlighttype "enum class in com.here.sdk.search")`,`<a
+  title="class or interface in java.util"><code>Map</code></a>`<`[`HighlightType`](sdk-for-android-explore-com-here-sdk-search-highlighttype "enum class in com.here.sdk.search"), <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
   class="external-link"
   title="class or interface in java.util"><code>List</code></a>`<`[`IndexRange`](sdk-for-android-explore-com-here-sdk-search-indexrange "class in com.here.sdk.search")`>>`
@@ -228,34 +229,34 @@ focused search.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -267,9 +268,11 @@ focused search.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getHighlights()"
+
+  - <div id="sdk-for-android-explore-getHighlights()"
     class="section detail">
 
     ### getHighlights
@@ -281,7 +284,7 @@ focused search.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
     class="external-link" title="class or interface in java.util">Map</a>\<[HighlightType](sdk-for-android-explore-com-here-sdk-search-highlighttype "enum class in com.here.sdk.search"),<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[IndexRange](sdk-for-android-explore-com-here-sdk-search-indexrange "class in com.here.sdk.search")>></span> <span class="element-name">getHighlights</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[IndexRange](sdk-for-android-explore-com-here-sdk-search-indexrange "class in com.here.sdk.search")\>\></span> <span class="element-name">getHighlights</span>()
 
     </div>
 
@@ -299,7 +302,8 @@ focused search.
     value.
 
     </div>
-<div id="sdk-for-android-explore-getTitle()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getTitle()" class="section detail">
 
     ### getTitle
 
@@ -322,7 +326,8 @@ focused search.
     The localized title for the suggestion.
 
     </div>
-<div id="sdk-for-android-explore-getType()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getType()" class="section detail">
 
     ### getType
 
@@ -343,7 +348,8 @@ focused search.
     Type of the suggestion.
 
     </div>
-<div id="sdk-for-android-explore-getPlace()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getPlace()" class="section detail">
 
     ### getPlace
 
@@ -365,7 +371,8 @@ focused search.
     The suggested place.
 
     </div>
-<div id="sdk-for-android-explore-getId()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getId()" class="section detail">
 
     ### getId
 
@@ -395,7 +402,8 @@ focused search.
     information.
 
     </div>
-<div id="sdk-for-android-explore-getHref()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getHref()" class="section detail">
 
     ### getHref
 

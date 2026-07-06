@@ -37,7 +37,8 @@ Contains the information required to create a road shield image.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -204,7 +205,8 @@ Contains the information required to create a road shield image.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -250,7 +252,8 @@ Contains the information required to create a road shield image.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -262,34 +265,34 @@ Contains the information required to create a road shield image.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -301,9 +304,11 @@ Contains the information required to create a road shield image.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-routeType" class="section detail">
+
+  - <div id="sdk-for-android-explore-routeType" class="section detail">
 
     ### routeType
 
@@ -323,7 +328,8 @@ Contains the information required to create a road shield image.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-countryCode"
+
+  - <div id="sdk-for-android-explore-countryCode"
     class="section detail">
 
     ### countryCode
@@ -345,7 +351,8 @@ Contains the information required to create a road shield image.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-stateCode" class="section detail">
+
+  - <div id="sdk-for-android-explore-stateCode" class="section detail">
 
     ### stateCode
 
@@ -370,7 +377,8 @@ Contains the information required to create a road shield image.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-routeNumberName"
+
+  - <div id="sdk-for-android-explore-routeNumberName"
     class="section detail">
 
     ### routeNumberName
@@ -406,7 +414,8 @@ Contains the information required to create a road shield image.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-shieldText" class="section detail">
+
+  - <div id="sdk-for-android-explore-shieldText" class="section detail">
 
     ### shieldText
 
@@ -430,9 +439,11 @@ Contains the information required to create a road shield image.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
     class="section detail">
 
     ### RoadShieldIconProperties
@@ -491,12 +502,11 @@ Contains the information required to create a road shield image.
     a `Route` object. Typically, the string contains the number of a
     road, such as "E100". Internally, the text is parsed with a RegEx
     pattern and the results will be used along with other properties
-    such as `routeType`, `countryCode` and `stateCode` to identify the
+    such as `routeType, countryCode` and `stateCode` to identify the
     visual representation of a road shield icon. Note that the actual
     text which will be displayed on the road shield icon is set with
     [`shieldText`](sdk-for-android-explore-com-here-sdk-mapview-roadshieldiconproperties#shieldText).
-    In order to determine the visuals of the icon, `countryCode`,
-    `routeType` and eventually the `stateCode` is in most cases
+    In order to determine the visuals of the icon, `countryCode, routeType` and eventually the `stateCode` is in most cases
     sufficient to determine the type of road shield. In this case an
     empty string should be passed. **Note:** Texts that contain a
     `CardinalDirection` are currently not supported and may lead to

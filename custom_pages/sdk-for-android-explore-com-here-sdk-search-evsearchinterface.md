@@ -34,7 +34,8 @@ deprecation process.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -92,9 +93,11 @@ deprecation process.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-search(java.util.List,com.here.sdk.search.EVSearchCallback)"
+
+  - <div id="sdk-for-android-explore-search(java.util.List,com.here.sdk.search.EVSearchCallback)"
     class="section detail">
 
     ### search
@@ -107,7 +110,7 @@ deprecation process.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>> ids,
+    class="external-link" title="class or interface in java.lang">String</a>\> ids,
     @NonNull
     [EVSearchCallback](sdk-for-android-explore-com-here-sdk-search-evsearchcallback "interface in com.here.sdk.search") callback)</span>
 

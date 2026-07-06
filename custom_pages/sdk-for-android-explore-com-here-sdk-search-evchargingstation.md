@@ -42,7 +42,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -567,7 +568,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -609,7 +611,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -683,28 +686,28 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -716,9 +719,11 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-supplierName"
+
+  - <div id="sdk-for-android-explore-supplierName"
     class="section detail">
 
     ### supplierName
@@ -741,7 +746,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-connectorTypeName"
+
+  - <div id="sdk-for-android-explore-connectorTypeName"
     class="section detail">
 
     ### connectorTypeName
@@ -766,7 +772,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-connectorTypeId"
+
+  - <div id="sdk-for-android-explore-connectorTypeId"
     class="section detail">
 
     ### connectorTypeId
@@ -792,7 +799,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-powerFeedTypeName"
+
+  - <div id="sdk-for-android-explore-powerFeedTypeName"
     class="section detail">
 
     ### powerFeedTypeName
@@ -819,7 +827,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-powerFeedTypeId"
+
+  - <div id="sdk-for-android-explore-powerFeedTypeId"
     class="section detail">
 
     ### powerFeedTypeId
@@ -844,7 +853,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxPowerInKilowatts"
+
+  - <div id="sdk-for-android-explore-maxPowerInKilowatts"
     class="section detail">
 
     ### maxPowerInKilowatts
@@ -866,7 +876,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-connectorCount"
+
+  - <div id="sdk-for-android-explore-connectorCount"
     class="section detail">
 
     ### connectorCount
@@ -889,7 +900,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-availableConnectorCount"
+
+  - <div id="sdk-for-android-explore-availableConnectorCount"
     class="section detail">
 
     ### availableConnectorCount
@@ -914,7 +926,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-occupiedConnectorCount"
+
+  - <div id="sdk-for-android-explore-occupiedConnectorCount"
     class="section detail">
 
     ### occupiedConnectorCount
@@ -939,7 +952,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-outOfServiceConnectorCount"
+
+  - <div id="sdk-for-android-explore-outOfServiceConnectorCount"
     class="section detail">
 
     ### outOfServiceConnectorCount
@@ -964,7 +978,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-reservedConnectorCount"
+
+  - <div id="sdk-for-android-explore-reservedConnectorCount"
     class="section detail">
 
     ### reservedConnectorCount
@@ -989,7 +1004,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-lastUpdated"
+
+  - <div id="sdk-for-android-explore-lastUpdated"
     class="section detail">
 
     ### lastUpdated
@@ -1013,7 +1029,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-chargingMode"
+
+  - <div id="sdk-for-android-explore-chargingMode"
     class="section detail">
 
     ### chargingMode
@@ -1036,7 +1053,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-voltageRangeInVolts"
+
+  - <div id="sdk-for-android-explore-voltageRangeInVolts"
     class="section detail">
 
     ### voltageRangeInVolts
@@ -1060,7 +1078,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-currentRangeInAmperes"
+
+  - <div id="sdk-for-android-explore-currentRangeInAmperes"
     class="section detail">
 
     ### currentRangeInAmperes
@@ -1084,7 +1103,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-phaseCount" class="section detail">
+
+  - <div id="sdk-for-android-explore-phaseCount" class="section detail">
 
     ### phaseCount
 
@@ -1106,7 +1126,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-hasFixedCable"
+
+  - <div id="sdk-for-android-explore-hasFixedCable"
     class="section detail">
 
     ### hasFixedCable
@@ -1130,7 +1151,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-physicalReference"
+
+  - <div id="sdk-for-android-explore-physicalReference"
     class="section detail">
 
     ### physicalReference
@@ -1155,9 +1177,11 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### EVChargingStation
 
@@ -1176,9 +1200,11 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -1202,7 +1228,8 @@ enable LayerConfiguration.Feature.EV in SDKOptions.layerConfiguration .
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

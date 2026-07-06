@@ -38,7 +38,8 @@ Represents a maneuver within an indoor section.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -274,34 +275,34 @@ Represents a maneuver within an indoor section.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -313,9 +314,11 @@ Represents a maneuver within an indoor section.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getAction()"
+
+  - <div id="sdk-for-android-explore-getAction()"
     class="section detail">
 
     ### getAction
@@ -337,7 +340,8 @@ Represents a maneuver within an indoor section.
     The action type of this maneuver.
 
     </div>
-<div id="sdk-for-android-explore-getCoordinate()"
+
+  - <div id="sdk-for-android-explore-getCoordinate()"
     class="section detail">
 
     ### getCoordinate
@@ -359,7 +363,8 @@ Represents a maneuver within an indoor section.
     The geographic coordinates of this maneuver.
 
     </div>
-<div id="sdk-for-android-explore-getOffset()"
+
+  - <div id="sdk-for-android-explore-getOffset()"
     class="section detail">
 
     ### getOffset
@@ -380,7 +385,8 @@ Represents a maneuver within an indoor section.
     The offset of this maneuver from the start of the section.
 
     </div>
-<div id="sdk-for-android-explore-getSectionIndex()"
+
+  - <div id="sdk-for-android-explore-getSectionIndex()"
     class="section detail">
 
     ### getSectionIndex
@@ -401,7 +407,8 @@ Represents a maneuver within an indoor section.
     The section index this maneuver belongs to.
 
     </div>
-<div id="sdk-for-android-explore-getLengthInMeters()"
+
+  - <div id="sdk-for-android-explore-getLengthInMeters()"
     class="section detail">
 
     ### getLengthInMeters
@@ -422,7 +429,8 @@ Represents a maneuver within an indoor section.
     The length of this maneuver in meters.
 
     </div>
-<div id="sdk-for-android-explore-getDuration()"
+
+  - <div id="sdk-for-android-explore-getDuration()"
     class="section detail">
 
     ### getDuration
@@ -444,7 +452,8 @@ Represents a maneuver within an indoor section.
     The duration to complete this maneuver.
 
     </div>
-<div id="sdk-for-android-explore-getLevelZIndex()"
+
+  - <div id="sdk-for-android-explore-getLevelZIndex()"
     class="section detail">
 
     ### getLevelZIndex
@@ -465,7 +474,8 @@ Represents a maneuver within an indoor section.
     The vertical level index of this maneuver.
 
     </div>
-<div id="sdk-for-android-explore-getIndoorSpaceData()"
+
+  - <div id="sdk-for-android-explore-getIndoorSpaceData()"
     class="section detail">
 
     ### getIndoorSpaceData
@@ -489,7 +499,8 @@ Represents a maneuver within an indoor section.
     the IndoorManeuverAction is ENTER_ACTION or LEAVE_ACTION.
 
     </div>
-<div id="sdk-for-android-explore-getIndoorLevelChangeData()"
+
+  - <div id="sdk-for-android-explore-getIndoorLevelChangeData()"
     class="section detail">
 
     ### getIndoorLevelChangeData

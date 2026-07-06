@@ -37,7 +37,8 @@ The options to specify restrictions for route calculations.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -350,7 +351,8 @@ The options to specify restrictions for route calculations.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -392,7 +394,8 @@ The options to specify restrictions for route calculations.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -466,28 +469,28 @@ The options to specify restrictions for route calculations.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -499,9 +502,11 @@ The options to specify restrictions for route calculations.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-roadFeatures"
+
+  - <div id="sdk-for-android-explore-roadFeatures"
     class="section detail">
 
     ### roadFeatures
@@ -511,7 +516,7 @@ The options to specify restrictions for route calculations.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")></span> <span class="element-name">roadFeatures</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[RoadFeatures](sdk-for-android-explore-com-here-sdk-routing-roadfeatures "enum class in com.here.sdk.routing")\></span> <span class="element-name">roadFeatures</span>
 
     </div>
 
@@ -522,7 +527,8 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-countries" class="section detail">
+
+  - <div id="sdk-for-android-explore-countries" class="section detail">
 
     ### countries
 
@@ -531,7 +537,7 @@ The options to specify restrictions for route calculations.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")></span> <span class="element-name">countries</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[CountryCode](sdk-for-android-explore-com-here-sdk-core-countrycode "enum class in com.here.sdk.core")\></span> <span class="element-name">countries</span>
 
     </div>
 
@@ -545,7 +551,8 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-avoidBoundingBoxAreasOptions"
+
+  - <div id="sdk-for-android-explore-avoidBoundingBoxAreasOptions"
     class="section detail">
 
     ### avoidBoundingBoxAreasOptions
@@ -555,7 +562,7 @@ The options to specify restrictions for route calculations.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[AvoidBoundingBoxAreaOptions](sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions "class in com.here.sdk.routing")></span> <span class="element-name">avoidBoundingBoxAreasOptions</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[AvoidBoundingBoxAreaOptions](sdk-for-android-explore-com-here-sdk-routing-avoidboundingboxareaoptions "class in com.here.sdk.routing")\></span> <span class="element-name">avoidBoundingBoxAreasOptions</span>
 
     </div>
 
@@ -567,7 +574,8 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-avoidPolygonAreasOptions"
+
+  - <div id="sdk-for-android-explore-avoidPolygonAreasOptions"
     class="section detail">
 
     ### avoidPolygonAreasOptions
@@ -577,7 +585,7 @@ The options to specify restrictions for route calculations.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[AvoidPolygonAreaOptions](sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions "class in com.here.sdk.routing")></span> <span class="element-name">avoidPolygonAreasOptions</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[AvoidPolygonAreaOptions](sdk-for-android-explore-com-here-sdk-routing-avoidpolygonareaoptions "class in com.here.sdk.routing")\></span> <span class="element-name">avoidPolygonAreasOptions</span>
 
     </div>
 
@@ -590,7 +598,8 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-avoidCorridorAreasOptions"
+
+  - <div id="sdk-for-android-explore-avoidCorridorAreasOptions"
     class="section detail">
 
     ### avoidCorridorAreasOptions
@@ -600,7 +609,7 @@ The options to specify restrictions for route calculations.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[AvoidCorridorAreaOptions](sdk-for-android-explore-com-here-sdk-routing-avoidcorridorareaoptions "class in com.here.sdk.routing")></span> <span class="element-name">avoidCorridorAreasOptions</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[AvoidCorridorAreaOptions](sdk-for-android-explore-com-here-sdk-routing-avoidcorridorareaoptions "class in com.here.sdk.routing")\></span> <span class="element-name">avoidCorridorAreasOptions</span>
 
     </div>
 
@@ -613,7 +622,8 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-zoneCategories"
+
+  - <div id="sdk-for-android-explore-zoneCategories"
     class="section detail">
 
     ### zoneCategories
@@ -623,7 +633,7 @@ The options to specify restrictions for route calculations.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ZoneCategory](sdk-for-android-explore-com-here-sdk-routing-zonecategory "enum class in com.here.sdk.routing")></span> <span class="element-name">zoneCategories</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[ZoneCategory](sdk-for-android-explore-com-here-sdk-routing-zonecategory "enum class in com.here.sdk.routing")\></span> <span class="element-name">zoneCategories</span>
 
     </div>
 
@@ -636,7 +646,8 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-segments" class="section detail">
+
+  - <div id="sdk-for-android-explore-segments" class="section detail">
 
     ### segments
 
@@ -645,7 +656,7 @@ The options to specify restrictions for route calculations.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[SegmentReference](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")></span> <span class="element-name">segments</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[SegmentReference](sdk-for-android-explore-com-here-sdk-routing-segmentreference "class in com.here.sdk.routing")\></span> <span class="element-name">segments</span>
 
     </div>
 
@@ -663,7 +674,8 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-exceptZoneIds"
+
+  - <div id="sdk-for-android-explore-exceptZoneIds"
     class="section detail">
 
     ### exceptZoneIds
@@ -675,7 +687,7 @@ The options to specify restrictions for route calculations.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">exceptZoneIds</span>
+    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">exceptZoneIds</span>
 
     </div>
 
@@ -692,7 +704,8 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-zoneIds" class="section detail">
+
+  - <div id="sdk-for-android-explore-zoneIds" class="section detail">
 
     ### zoneIds
 
@@ -703,7 +716,7 @@ The options to specify restrictions for route calculations.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">zoneIds</span>
+    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">zoneIds</span>
 
     </div>
 
@@ -719,7 +732,8 @@ The options to specify restrictions for route calculations.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-avoidedTruckRoadTypes"
+
+  - <div id="sdk-for-android-explore-avoidedTruckRoadTypes"
     class="section detail">
 
     ### avoidedTruckRoadTypes
@@ -729,7 +743,7 @@ The options to specify restrictions for route calculations.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")></span> <span class="element-name">avoidedTruckRoadTypes</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TruckRoadType](sdk-for-android-explore-com-here-sdk-transport-truckroadtype "enum class in com.here.sdk.transport")\></span> <span class="element-name">avoidedTruckRoadTypes</span>
 
     </div>
 
@@ -743,9 +757,11 @@ The options to specify restrictions for route calculations.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### AvoidanceOptions
 
@@ -764,9 +780,11 @@ The options to specify restrictions for route calculations.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -790,7 +808,8 @@ The options to specify restrictions for route calculations.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

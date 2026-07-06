@@ -38,7 +38,8 @@ Manage the lights and their attributes in a scene.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -173,7 +174,8 @@ Manage the lights and their attributes in a scene.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -375,34 +377,34 @@ Manage the lights and their attributes in a scene.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -414,9 +416,11 @@ Manage the lights and their attributes in a scene.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-setColor(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.core.Color,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)"
+
+  - <div id="sdk-for-android-explore-setColor(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.core.Color,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)"
     class="section detail">
 
     ### setColor
@@ -453,7 +457,8 @@ Manage the lights and their attributes in a scene.
     Optional callback that will receive the result of this operation.
 
     </div>
-<div id="sdk-for-android-explore-setIntensity(com.here.sdk.mapview.MapSceneLights.Category,double,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)"
+
+  - <div id="sdk-for-android-explore-setIntensity(com.here.sdk.mapview.MapSceneLights.Category,double,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)"
     class="section detail">
 
     ### setIntensity
@@ -492,7 +497,8 @@ Manage the lights and their attributes in a scene.
     Optional callback that will receive the result of this operation.
 
     </div>
-<div id="sdk-for-android-explore-setDirection(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.mapview.MapSceneLights.Direction,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)"
+
+  - <div id="sdk-for-android-explore-setDirection(com.here.sdk.mapview.MapSceneLights.Category,com.here.sdk.mapview.MapSceneLights.Direction,com.here.sdk.mapview.MapSceneLights.AttributeSettingCallback)"
     class="section detail">
 
     ### setDirection
@@ -528,7 +534,8 @@ Manage the lights and their attributes in a scene.
     Optional callback that will receive the result of this operation.
 
     </div>
-<div id="sdk-for-android-explore-getColor(com.here.sdk.mapview.MapSceneLights.Category)"
+
+  - <div id="sdk-for-android-explore-getColor(com.here.sdk.mapview.MapSceneLights.Category)"
     class="section detail">
 
     ### getColor
@@ -557,7 +564,8 @@ Manage the lights and their attributes in a scene.
     from the loaded scene or MapScene is not intitialized.
 
     </div>
-<div id="sdk-for-android-explore-getIntensity(com.here.sdk.mapview.MapSceneLights.Category)"
+
+  - <div id="sdk-for-android-explore-getIntensity(com.here.sdk.mapview.MapSceneLights.Category)"
     class="section detail">
 
     ### getIntensity
@@ -588,7 +596,8 @@ Manage the lights and their attributes in a scene.
     missing from the loaded scene or MapScene is not intitialized.
 
     </div>
-<div id="sdk-for-android-explore-getDirection(com.here.sdk.mapview.MapSceneLights.Category)"
+
+  - <div id="sdk-for-android-explore-getDirection(com.here.sdk.mapview.MapSceneLights.Category)"
     class="section detail">
 
     ### getDirection
@@ -617,7 +626,8 @@ Manage the lights and their attributes in a scene.
     missing from the loaded scene or MapScene is not intitialized.
 
     </div>
-<div id="sdk-for-android-explore-reset()" class="section detail">
+
+  - <div id="sdk-for-android-explore-reset()" class="section detail">
 
     ### reset
 

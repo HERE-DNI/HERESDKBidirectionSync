@@ -38,7 +38,8 @@ interest (POI) etc.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -406,34 +407,34 @@ interest (POI) etc.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -445,9 +446,11 @@ interest (POI) etc.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-serializeCompact()"
+
+  - <div id="sdk-for-android-explore-serializeCompact()"
     class="section detail">
 
     ### serializeCompact
@@ -474,7 +477,8 @@ interest (POI) etc.
     The serialized place
 
     </div>
-<div id="sdk-for-android-explore-deserialize(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-deserialize(java.lang.String)"
     class="section detail">
 
     ### deserialize
@@ -514,7 +518,8 @@ interest (POI) etc.
     Indicates what went wrong during deserialization attempt.
 
     </div>
-<div id="sdk-for-android-explore-getTitle()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getTitle()" class="section detail">
 
     ### getTitle
 
@@ -537,7 +542,8 @@ interest (POI) etc.
     The localized title for the resource.
 
     </div>
-<div id="sdk-for-android-explore-getId()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getId()" class="section detail">
 
     ### getId
 
@@ -564,7 +570,8 @@ interest (POI) etc.
     information.
 
     </div>
-<div id="sdk-for-android-explore-getPlaceType()"
+
+  - <div id="sdk-for-android-explore-getPlaceType()"
     class="section detail">
 
     ### getPlaceType
@@ -586,7 +593,8 @@ interest (POI) etc.
     The place type.
 
     </div>
-<div id="sdk-for-android-explore-getAreaType()"
+
+  - <div id="sdk-for-android-explore-getAreaType()"
     class="section detail">
 
     ### getAreaType
@@ -615,7 +623,8 @@ interest (POI) etc.
     [`PlaceType.AREA`](sdk-for-android-explore-com-here-sdk-search-placetype#AREA).
 
     </div>
-<div id="sdk-for-android-explore-getAddress()"
+
+  - <div id="sdk-for-android-explore-getAddress()"
     class="section detail">
 
     ### getAddress
@@ -647,7 +656,8 @@ interest (POI) etc.
     [`PlaceIdQuery`](sdk-for-android-explore-com-here-sdk-search-placeidquery "class in com.here.sdk.search").
 
     </div>
-<div id="sdk-for-android-explore-getDetails()"
+
+  - <div id="sdk-for-android-explore-getDetails()"
     class="section detail">
 
     ### getDetails
@@ -669,7 +679,8 @@ interest (POI) etc.
     The place's detailed information.
 
     </div>
-<div id="sdk-for-android-explore-getGeoCoordinates()"
+
+  - <div id="sdk-for-android-explore-getGeoCoordinates()"
     class="section detail">
 
     ### getGeoCoordinates
@@ -692,7 +703,8 @@ interest (POI) etc.
     The geographic coordinates of the place.
 
     </div>
-<div id="sdk-for-android-explore-isCoordinatesInterpolated()"
+
+  - <div id="sdk-for-android-explore-isCoordinatesInterpolated()"
     class="section detail">
 
     ### isCoordinatesInterpolated
@@ -719,7 +731,8 @@ interest (POI) etc.
     were interpolated or not.
 
     </div>
-<div id="sdk-for-android-explore-getAccessPoints()"
+
+  - <div id="sdk-for-android-explore-getAccessPoints()"
     class="section detail">
 
     ### getAccessPoints
@@ -729,7 +742,7 @@ interest (POI) etc.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")></span> <span class="element-name">getAccessPoints</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[GeoCoordinates](sdk-for-android-explore-com-here-sdk-core-geocoordinates "class in com.here.sdk.core")\></span> <span class="element-name">getAccessPoints</span>()
 
     </div>
 
@@ -760,7 +773,8 @@ interest (POI) etc.
     parking lot.
 
     </div>
-<div id="sdk-for-android-explore-getBoundingBox()"
+
+  - <div id="sdk-for-android-explore-getBoundingBox()"
     class="section detail">
 
     ### getBoundingBox
@@ -784,7 +798,8 @@ interest (POI) etc.
     place.
 
     </div>
-<div id="sdk-for-android-explore-getDistanceInMeters()"
+
+  - <div id="sdk-for-android-explore-getDistanceInMeters()"
     class="section detail">
 
     ### getDistanceInMeters
@@ -809,7 +824,8 @@ interest (POI) etc.
     The distance from the search center to the place in meters.
 
     </div>
-<div id="sdk-for-android-explore-getPoliticalView()"
+
+  - <div id="sdk-for-android-explore-getPoliticalView()"
     class="section detail">
 
     ### getPoliticalView

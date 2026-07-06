@@ -41,7 +41,8 @@ is mandatory or the calculation will fail.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -202,7 +203,8 @@ is mandatory or the calculation will fail.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -285,7 +287,8 @@ is mandatory or the calculation will fail.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div class="inherited-list">
@@ -297,34 +300,34 @@ is mandatory or the calculation will fail.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -336,9 +339,11 @@ is mandatory or the calculation will fail.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-rangeType" class="section detail">
+
+  - <div id="sdk-for-android-explore-rangeType" class="section detail">
 
     ### rangeType
 
@@ -356,7 +361,8 @@ is mandatory or the calculation will fail.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-rangeValues"
+
+  - <div id="sdk-for-android-explore-rangeValues"
     class="section detail">
 
     ### rangeValues
@@ -369,7 +375,7 @@ is mandatory or the calculation will fail.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">rangeValues</span>
+    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">rangeValues</span>
 
     </div>
 
@@ -383,7 +389,8 @@ is mandatory or the calculation will fail.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-isolineCalculationMode"
+
+  - <div id="sdk-for-android-explore-isolineCalculationMode"
     class="section detail">
 
     ### isolineCalculationMode
@@ -403,7 +410,8 @@ is mandatory or the calculation will fail.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxPoints" class="section detail">
+
+  - <div id="sdk-for-android-explore-maxPoints" class="section detail">
 
     ### maxPoints
 
@@ -432,7 +440,8 @@ is mandatory or the calculation will fail.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-isolineDirection"
+
+  - <div id="sdk-for-android-explore-isolineDirection"
     class="section detail">
 
     ### isolineDirection
@@ -454,9 +463,11 @@ is mandatory or the calculation will fail.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List)"
     class="section detail">
 
     ### Calculation
@@ -470,7 +481,7 @@ is mandatory or the calculation will fail.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>> rangeValues)</span>
+    title="class or interface in java.lang">Integer</a>\> rangeValues)</span>
 
     </div>
 
@@ -484,7 +495,8 @@ is mandatory or the calculation will fail.
     Range values.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.RoutePlaceDirection)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.RoutePlaceDirection)"
     class="section detail">
 
     ### Calculation
@@ -498,7 +510,7 @@ is mandatory or the calculation will fail.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>> rangeValues,
+    title="class or interface in java.lang">Integer</a>\> rangeValues,
     @NonNull
     [RoutePlaceDirection](sdk-for-android-explore-com-here-sdk-routing-routeplacedirection "enum class in com.here.sdk.routing") isolineDirection)</span>
 
@@ -518,7 +530,8 @@ is mandatory or the calculation will fail.
     The isoline direction.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode)"
     class="section detail">
 
     ### Calculation
@@ -532,7 +545,7 @@ is mandatory or the calculation will fail.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>> rangeValues,
+    title="class or interface in java.lang">Integer</a>\> rangeValues,
     @NonNull
     [IsolineCalculationMode](sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode "enum class in com.here.sdk.routing") isolineCalculationMode)</span>
 
@@ -552,7 +565,8 @@ is mandatory or the calculation will fail.
     The isoline calculation mode.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode,java.lang.Integer,com.here.sdk.routing.RoutePlaceDirection)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.IsolineRangeType,java.util.List,com.here.sdk.routing.IsolineCalculationMode,java.lang.Integer,com.here.sdk.routing.RoutePlaceDirection)"
     class="section detail">
 
     ### Calculation
@@ -566,7 +580,7 @@ is mandatory or the calculation will fail.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>> rangeValues,
+    title="class or interface in java.lang">Integer</a>\> rangeValues,
     @NonNull
     [IsolineCalculationMode](sdk-for-android-explore-com-here-sdk-routing-isolinecalculationmode "enum class in com.here.sdk.routing") isolineCalculationMode,
     @Nullable <a

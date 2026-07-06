@@ -45,7 +45,8 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -311,34 +312,34 @@ APIs may change for new releases without a deprecation process.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -350,9 +351,11 @@ APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getAttributeNames()"
+
+  - <div id="sdk-for-android-explore-getAttributeNames()"
     class="section detail">
 
     ### getAttributeNames
@@ -364,7 +367,7 @@ APIs may change for new releases without a deprecation process.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
-    class="external-link" title="class or interface in java.lang">String</a>></span> <span class="element-name">getAttributeNames</span>()
+    class="external-link" title="class or interface in java.lang">String</a>\></span> <span class="element-name">getAttributeNames</span>()
 
     </div>
 
@@ -382,7 +385,8 @@ APIs may change for new releases without a deprecation process.
     The list of attribute names.
 
     </div>
-<div id="sdk-for-android-explore-getValueType(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getValueType(java.lang.String)"
     class="section detail">
 
     ### getValueType
@@ -417,7 +421,8 @@ APIs may change for new releases without a deprecation process.
     Attribute value type or `null` if it is not contained.
 
     </div>
-<div id="sdk-for-android-explore-getAsString(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getAsString(java.lang.String)"
     class="section detail">
 
     ### getAsString
@@ -454,7 +459,8 @@ APIs may change for new releases without a deprecation process.
     Attribute value.
 
     </div>
-<div id="sdk-for-android-explore-getString(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getString(java.lang.String)"
     class="section detail">
 
     ### getString
@@ -491,7 +497,8 @@ APIs may change for new releases without a deprecation process.
     Attribute value.
 
     </div>
-<div id="sdk-for-android-explore-getInt64(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getInt64(java.lang.String)"
     class="section detail">
 
     ### getInt64
@@ -528,7 +535,8 @@ APIs may change for new releases without a deprecation process.
     Attribute value.
 
     </div>
-<div id="sdk-for-android-explore-getFloat(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getFloat(java.lang.String)"
     class="section detail">
 
     ### getFloat
@@ -565,7 +573,8 @@ APIs may change for new releases without a deprecation process.
     Attribute value.
 
     </div>
-<div id="sdk-for-android-explore-getDouble(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getDouble(java.lang.String)"
     class="section detail">
 
     ### getDouble
@@ -602,7 +611,8 @@ APIs may change for new releases without a deprecation process.
     Attribute value.
 
     </div>
-<div id="sdk-for-android-explore-getBoolean(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getBoolean(java.lang.String)"
     class="section detail">
 
     ### getBoolean
@@ -640,7 +650,8 @@ APIs may change for new releases without a deprecation process.
     Attribute value.
 
     </div>
-<div id="sdk-for-android-explore-getValue(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-getValue(java.lang.String)"
     class="section detail">
 
     ### getValue

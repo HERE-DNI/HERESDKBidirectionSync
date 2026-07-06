@@ -38,7 +38,8 @@ span usually has some geometry associated with it.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -642,34 +643,34 @@ span usually has some geometry associated with it.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -681,9 +682,11 @@ span usually has some geometry associated with it.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getShieldText(com.here.sdk.routing.LocalizedRoadNumber)"
+
+  - <div id="sdk-for-android-explore-getShieldText(com.here.sdk.routing.LocalizedRoadNumber)"
     class="section detail">
 
     ### getShieldText
@@ -715,7 +718,8 @@ span usually has some geometry associated with it.
     Text on the road shield to display.
 
     </div>
-<div id="sdk-for-android-explore-getGeometry()"
+
+  - <div id="sdk-for-android-explore-getGeometry()"
     class="section detail">
 
     ### getGeometry
@@ -739,7 +743,8 @@ span usually has some geometry associated with it.
     object representing the polyline of this span.
 
     </div>
-<div id="sdk-for-android-explore-getLengthInMeters()"
+
+  - <div id="sdk-for-android-explore-getLengthInMeters()"
     class="section detail">
 
     ### getLengthInMeters
@@ -760,7 +765,8 @@ span usually has some geometry associated with it.
     The length of this span in meters.
 
     </div>
-<div id="sdk-for-android-explore-getNoticeIndexes()"
+
+  - <div id="sdk-for-android-explore-getNoticeIndexes()"
     class="section detail">
 
     ### getNoticeIndexes
@@ -773,7 +779,7 @@ span usually has some geometry associated with it.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">getNoticeIndexes</span>()
+    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getNoticeIndexes</span>()
 
     </div>
 
@@ -797,7 +803,8 @@ span usually has some geometry associated with it.
     carefully before proceeding.
 
     </div>
-<div id="sdk-for-android-explore-getSegmentReference()"
+
+  - <div id="sdk-for-android-explore-getSegmentReference()"
     class="section detail">
 
     ### getSegmentReference
@@ -819,7 +826,8 @@ span usually has some geometry associated with it.
     The segment reference of this span.
 
     </div>
-<div id="sdk-for-android-explore-getTrafficIncidentIndexes()"
+
+  - <div id="sdk-for-android-explore-getTrafficIncidentIndexes()"
     class="section detail">
 
     ### getTrafficIncidentIndexes
@@ -832,7 +840,7 @@ span usually has some geometry associated with it.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">getTrafficIncidentIndexes</span>()
+    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getTrafficIncidentIndexes</span>()
 
     </div>
 
@@ -862,7 +870,8 @@ span usually has some geometry associated with it.
     built route as well.
 
     </div>
-<div id="sdk-for-android-explore-getSectionPolylineOffset()"
+
+  - <div id="sdk-for-android-explore-getSectionPolylineOffset()"
     class="section detail">
 
     ### getSectionPolylineOffset
@@ -891,7 +900,8 @@ span usually has some geometry associated with it.
     a point in the section's geometry.
 
     </div>
-<div id="sdk-for-android-explore-getDynamicSpeedInfo()"
+
+  - <div id="sdk-for-android-explore-getDynamicSpeedInfo()"
     class="section detail">
 
     ### getDynamicSpeedInfo
@@ -913,7 +923,8 @@ span usually has some geometry associated with it.
     The dynamic speed information on the span.
 
     </div>
-<div id="sdk-for-android-explore-getStreetAttributes()"
+
+  - <div id="sdk-for-android-explore-getStreetAttributes()"
     class="section detail">
 
     ### getStreetAttributes
@@ -923,7 +934,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getStreetAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[StreetAttributes](sdk-for-android-explore-com-here-sdk-routing-streetattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getStreetAttributes</span>()
 
     </div>
 
@@ -937,7 +948,8 @@ span usually has some geometry associated with it.
     The list of street attributes on the span.
 
     </div>
-<div id="sdk-for-android-explore-getCarAttributes()"
+
+  - <div id="sdk-for-android-explore-getCarAttributes()"
     class="section detail">
 
     ### getCarAttributes
@@ -947,7 +959,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getCarAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getCarAttributes</span>()
 
     </div>
 
@@ -961,7 +973,8 @@ span usually has some geometry associated with it.
     The list of car access attributes on the span.
 
     </div>
-<div id="sdk-for-android-explore-getTruckAttributes()"
+
+  - <div id="sdk-for-android-explore-getTruckAttributes()"
     class="section detail">
 
     ### getTruckAttributes
@@ -971,7 +984,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getTruckAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getTruckAttributes</span>()
 
     </div>
 
@@ -985,7 +998,8 @@ span usually has some geometry associated with it.
     The list of truck access attributes on the span.
 
     </div>
-<div id="sdk-for-android-explore-getScooterAttributes()"
+
+  - <div id="sdk-for-android-explore-getScooterAttributes()"
     class="section detail">
 
     ### getScooterAttributes
@@ -995,7 +1009,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getScooterAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[AccessAttributes](sdk-for-android-explore-com-here-sdk-routing-accessattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getScooterAttributes</span>()
 
     </div>
 
@@ -1009,7 +1023,8 @@ span usually has some geometry associated with it.
     The list of scooter access attributes on the span.
 
     </div>
-<div id="sdk-for-android-explore-getWalkAttributes()"
+
+  - <div id="sdk-for-android-explore-getWalkAttributes()"
     class="section detail">
 
     ### getWalkAttributes
@@ -1019,7 +1034,7 @@ span usually has some geometry associated with it.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")></span> <span class="element-name">getWalkAttributes</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[WalkAttributes](sdk-for-android-explore-com-here-sdk-routing-walkattributes "enum class in com.here.sdk.routing")\></span> <span class="element-name">getWalkAttributes</span>()
 
     </div>
 
@@ -1033,7 +1048,8 @@ span usually has some geometry associated with it.
     The list of walk attributes on the span.
 
     </div>
-<div id="sdk-for-android-explore-getStreetNames()"
+
+  - <div id="sdk-for-android-explore-getStreetNames()"
     class="section detail">
 
     ### getStreetNames
@@ -1055,7 +1071,8 @@ span usually has some geometry associated with it.
     The street names on the span.
 
     </div>
-<div id="sdk-for-android-explore-getRoadNumbers()"
+
+  - <div id="sdk-for-android-explore-getRoadNumbers()"
     class="section detail">
 
     ### getRoadNumbers
@@ -1083,7 +1100,8 @@ span usually has some geometry associated with it.
     (`RouteType`).
 
     </div>
-<div id="sdk-for-android-explore-getSpeedLimitInMetersPerSecond()"
+
+  - <div id="sdk-for-android-explore-getSpeedLimitInMetersPerSecond()"
     class="section detail">
 
     ### getSpeedLimitInMetersPerSecond
@@ -1107,7 +1125,8 @@ span usually has some geometry associated with it.
     The speed limit in meters per second on the span.
 
     </div>
-<div id="sdk-for-android-explore-getConsumptionInKilowattHours()"
+
+  - <div id="sdk-for-android-explore-getConsumptionInKilowattHours()"
     class="section detail">
 
     ### getConsumptionInKilowattHours
@@ -1133,7 +1152,8 @@ span usually has some geometry associated with it.
     span.
 
     </div>
-<div id="sdk-for-android-explore-getFunctionalRoadClass()"
+
+  - <div id="sdk-for-android-explore-getFunctionalRoadClass()"
     class="section detail">
 
     ### getFunctionalRoadClass
@@ -1155,7 +1175,8 @@ span usually has some geometry associated with it.
     The functional road class of the span.
 
     </div>
-<div id="sdk-for-android-explore-getDuration()"
+
+  - <div id="sdk-for-android-explore-getDuration()"
     class="section detail">
 
     ### getDuration
@@ -1186,7 +1207,8 @@ span usually has some geometry associated with it.
     the traffic.
 
     </div>
-<div id="sdk-for-android-explore-getBaseDuration()"
+
+  - <div id="sdk-for-android-explore-getBaseDuration()"
     class="section detail">
 
     ### getBaseDuration
@@ -1216,7 +1238,8 @@ span usually has some geometry associated with it.
     without taking into consideration the delays caused by the traffic.
 
     </div>
-<div id="sdk-for-android-explore-getCountryCode()"
+
+  - <div id="sdk-for-android-explore-getCountryCode()"
     class="section detail">
 
     ### getCountryCode
@@ -1242,7 +1265,8 @@ span usually has some geometry associated with it.
     available.
 
     </div>
-<div id="sdk-for-android-explore-getStateCode()"
+
+  - <div id="sdk-for-android-explore-getStateCode()"
     class="section detail">
 
     ### getStateCode
@@ -1276,7 +1300,8 @@ span usually has some geometry associated with it.
     letters. The value is `null` when no data is available.
 
     </div>
-<div id="sdk-for-android-explore-getNoThroughRestrictionsIndexes()"
+
+  - <div id="sdk-for-android-explore-getNoThroughRestrictionsIndexes()"
     class="section detail">
 
     ### getNoThroughRestrictionsIndexes
@@ -1289,7 +1314,7 @@ span usually has some geometry associated with it.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">getNoThroughRestrictionsIndexes</span>()
+    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">getNoThroughRestrictionsIndexes</span>()
 
     </div>
 

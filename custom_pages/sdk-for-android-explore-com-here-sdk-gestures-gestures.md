@@ -44,7 +44,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -510,34 +511,34 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -549,9 +550,11 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-enableDefaultAction(com.here.sdk.gestures.GestureType)"
+
+  - <div id="sdk-for-android-explore-enableDefaultAction(com.here.sdk.gestures.GestureType)"
     class="section detail">
 
     ### enableDefaultAction
@@ -575,7 +578,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     The gesture type.
 
     </div>
-<div id="sdk-for-android-explore-disableDefaultAction(com.here.sdk.gestures.GestureType)"
+
+  - <div id="sdk-for-android-explore-disableDefaultAction(com.here.sdk.gestures.GestureType)"
     class="section detail">
 
     ### disableDefaultAction
@@ -599,7 +603,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     The gesture type.
 
     </div>
-<div id="sdk-for-android-explore-getTapListener()"
+
+  - <div id="sdk-for-android-explore-getTapListener()"
     class="section detail">
 
     ### getTapListener
@@ -623,7 +628,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a tap gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setTapListener(com.here.sdk.gestures.TapListener)"
+
+  - <div id="sdk-for-android-explore-setTapListener(com.here.sdk.gestures.TapListener)"
     class="section detail">
 
     ### setTapListener
@@ -648,7 +654,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a tap gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getDoubleTapListener()"
+
+  - <div id="sdk-for-android-explore-getDoubleTapListener()"
     class="section detail">
 
     ### getDoubleTapListener
@@ -672,7 +679,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a double-tap gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setDoubleTapListener(com.here.sdk.gestures.DoubleTapListener)"
+
+  - <div id="sdk-for-android-explore-setDoubleTapListener(com.here.sdk.gestures.DoubleTapListener)"
     class="section detail">
 
     ### setDoubleTapListener
@@ -698,7 +706,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a double-tap gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getPinchRotateListener()"
+
+  - <div id="sdk-for-android-explore-getPinchRotateListener()"
     class="section detail">
 
     ### getPinchRotateListener
@@ -722,7 +731,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a pinch-rotate gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setPinchRotateListener(com.here.sdk.gestures.PinchRotateListener)"
+
+  - <div id="sdk-for-android-explore-setPinchRotateListener(com.here.sdk.gestures.PinchRotateListener)"
     class="section detail">
 
     ### setPinchRotateListener
@@ -748,7 +758,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a pinch-rotate gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getLongPressListener()"
+
+  - <div id="sdk-for-android-explore-getLongPressListener()"
     class="section detail">
 
     ### getLongPressListener
@@ -772,7 +783,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a long-press gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setLongPressListener(com.here.sdk.gestures.LongPressListener)"
+
+  - <div id="sdk-for-android-explore-setLongPressListener(com.here.sdk.gestures.LongPressListener)"
     class="section detail">
 
     ### setLongPressListener
@@ -798,7 +810,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a long-press gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getPanListener()"
+
+  - <div id="sdk-for-android-explore-getPanListener()"
     class="section detail">
 
     ### getPanListener
@@ -822,7 +835,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a pan gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setPanListener(com.here.sdk.gestures.PanListener)"
+
+  - <div id="sdk-for-android-explore-setPanListener(com.here.sdk.gestures.PanListener)"
     class="section detail">
 
     ### setPanListener
@@ -847,7 +861,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a pan gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getTwoFingerTapListener()"
+
+  - <div id="sdk-for-android-explore-getTwoFingerTapListener()"
     class="section detail">
 
     ### getTwoFingerTapListener
@@ -871,7 +886,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a two-finger tap gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setTwoFingerTapListener(com.here.sdk.gestures.TwoFingerTapListener)"
+
+  - <div id="sdk-for-android-explore-setTwoFingerTapListener(com.here.sdk.gestures.TwoFingerTapListener)"
     class="section detail">
 
     ### setTwoFingerTapListener
@@ -897,7 +913,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a two-finger tap gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getTwoFingerPanListener()"
+
+  - <div id="sdk-for-android-explore-getTwoFingerPanListener()"
     class="section detail">
 
     ### getTwoFingerPanListener
@@ -921,7 +938,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a two-finger pan gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-setTwoFingerPanListener(com.here.sdk.gestures.TwoFingerPanListener)"
+
+  - <div id="sdk-for-android-explore-setTwoFingerPanListener(com.here.sdk.gestures.TwoFingerPanListener)"
     class="section detail">
 
     ### setTwoFingerPanListener
@@ -947,7 +965,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     that notifies when a two-finger pan gesture occurs.
 
     </div>
-<div id="sdk-for-android-explore-getScrollHandler()"
+
+  - <div id="sdk-for-android-explore-getScrollHandler()"
     class="section detail">
 
     ### getScrollHandler
@@ -970,7 +989,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     Scroll handler.
 
     </div>
-<div id="sdk-for-android-explore-getScaleHandler()"
+
+  - <div id="sdk-for-android-explore-getScaleHandler()"
     class="section detail">
 
     ### getScaleHandler
@@ -993,7 +1013,8 @@ https://developer.android.com/reference/androidx/car/app/SurfaceCallback
     Scale handler.
 
     </div>
-<div id="sdk-for-android-explore-getFlingHandler()"
+
+  - <div id="sdk-for-android-explore-getFlingHandler()"
     class="section detail">
 
     ### getFlingHandler

@@ -39,7 +39,8 @@ coordinates of the tile, respectively, and have values ranging from 0 to
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -101,9 +102,11 @@ coordinates of the tile, respectively, and have values ranging from 0 to
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onTileUrlRequest(int,int,int)"
+
+  - <div id="sdk-for-android-explore-onTileUrlRequest(int,int,int)"
     class="section detail">
 
     ### onTileUrlRequest

@@ -11,7 +11,8 @@ slug: "sdk-for-android-explore-constant-values"
 
 <div id="sdk-for-android-explore-com.here.sdk.core"
 class="section constants-summary">
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.core.[PolylineSimplifier.Options](sdk-for-android-explore-com-here-sdk-core-polylinesimplifier-options "class in com.here.sdk.core")
 
@@ -58,7 +59,8 @@ class="section constants-summary">
   </div>
 
 <!-- -->
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.core.engine.com.here.sdk.core.engine.UsageStats.MethodNames
 
@@ -276,7 +278,8 @@ class="section constants-summary">
   </div>
 
 <!-- -->
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.ev.[EVChargingConnectorType](sdk-for-android-explore-com-here-sdk-ev-evchargingconnectortype "class in com.here.sdk.ev")
 
@@ -1166,7 +1169,8 @@ class="section constants-summary">
   </div>
 
 <!-- -->
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.mapview.[MapCameraLimits](sdk-for-android-explore-com-here-sdk-mapview-mapcameralimits "class in com.here.sdk.mapview")
 
@@ -1265,7 +1269,8 @@ class="section constants-summary">
   </div>
 
   </div>
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.mapview.[MapFeatureModes](sdk-for-android-explore-com-here-sdk-mapview-mapfeaturemodes "class in com.here.sdk.mapview")
 
@@ -1607,7 +1612,8 @@ class="section constants-summary">
   </div>
 
   </div>
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.mapview.[MapFeatures](sdk-for-android-explore-com-here-sdk-mapview-mapfeatures "class in com.here.sdk.mapview")
 
@@ -1867,7 +1873,8 @@ class="section constants-summary">
   </div>
 
 <!-- -->
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.search.[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")
 
@@ -3406,7 +3413,8 @@ class="section constants-summary">
   </div>
 
   </div>
-<div class="caption">
+
+- <div class="caption">
 
   com.here.sdk.search.[POIPaymentMethod](sdk-for-android-explore-com-here-sdk-search-poipaymentmethod "class in com.here.sdk.search")
 

@@ -35,7 +35,8 @@ releases without a deprecation process.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -114,9 +115,11 @@ releases without a deprecation process.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getFreeFlowSpeedInMetersPerSecond()"
+
+  - <div id="sdk-for-android-explore-getFreeFlowSpeedInMetersPerSecond()"
     class="section detail">
 
     ### getFreeFlowSpeedInMetersPerSecond
@@ -139,7 +142,8 @@ releases without a deprecation process.
     traffic is present.
 
     </div>
-<div id="sdk-for-android-explore-getJamFactor()"
+
+  - <div id="sdk-for-android-explore-getJamFactor()"
     class="section detail">
 
     ### getJamFactor

@@ -39,7 +39,8 @@ over time.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -255,34 +256,34 @@ over time.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -294,9 +295,11 @@ over time.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-createAnimation(com.here.sdk.mapview.MapCameraUpdate,com.here.time.Duration,com.here.sdk.animation.Easing)"
+
+  - <div id="sdk-for-android-explore-createAnimation(com.here.sdk.mapview.MapCameraUpdate,com.here.time.Duration,com.here.sdk.animation.Easing)"
     class="section detail">
 
     ### createAnimation
@@ -344,7 +347,8 @@ over time.
     MapCameraAnimation instance
 
     </div>
-<div id="sdk-for-android-explore-createAnimation(com.here.sdk.mapview.MapCameraKeyframeTrack)"
+
+  - <div id="sdk-for-android-explore-createAnimation(com.here.sdk.mapview.MapCameraKeyframeTrack)"
     class="section detail">
 
     ### createAnimation
@@ -374,7 +378,8 @@ over time.
     MapCameraAnimation instance
 
     </div>
-<div id="sdk-for-android-explore-createAnimation(java.util.List)"
+
+  - <div id="sdk-for-android-explore-createAnimation(java.util.List)"
     class="section detail">
 
     ### createAnimation
@@ -386,7 +391,7 @@ over time.
     static</span> <span class="return-type">[MapCameraAnimation](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation "class in com.here.sdk.mapview")</span> <span class="element-name">createAnimation</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")> tracks)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapCameraKeyframeTrack](sdk-for-android-explore-com-here-sdk-mapview-mapcamerakeyframetrack "class in com.here.sdk.mapview")\> tracks)</span>
     throws
     <span class="exceptions">[MapCameraAnimation.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapcameraanimation-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -425,7 +430,8 @@ over time.
     Indicates an instantiation issue.
 
     </div>
-<div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,double,com.here.time.Duration)"
+
+  - <div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,double,com.here.time.Duration)"
     class="section detail">
 
     ### flyTo
@@ -463,7 +469,7 @@ over time.
 
     `bowFactor` -
 
-    A bow factor that specifies how high (bowFactor > 0) or low
+    A bow factor that specifies how high (bowFactor \> 0) or low
     (bowFactor \< 0) the camera will fly. The highest (bowFactor = 1) or
     lowest point (bowFactor = -1) of the ballistic animation curve is
     relative to the travel distance between current camera target and
@@ -484,7 +490,8 @@ over time.
     MapCameraAnimation instance
 
     </div>
-<div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,double,com.here.time.Duration)"
+
+  - <div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,double,com.here.time.Duration)"
     class="section detail">
 
     ### flyTo
@@ -528,7 +535,7 @@ over time.
 
     `bowFactor` -
 
-    A bow factor that specifies how high (bowFactor > 0) or low
+    A bow factor that specifies how high (bowFactor \> 0) or low
     (bowFactor \< 0) the camera will fly. The highest (bowFactor = 1) or
     lowest point (bowFactor = -1) of the ballistic animation curve is
     relative to the travel distance between current camera target and
@@ -549,7 +556,8 @@ over time.
     MapCameraAnimation instance
 
     </div>
-<div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)"
+
+  - <div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)"
     class="section detail">
 
     ### flyTo
@@ -594,7 +602,7 @@ over time.
 
     `bowFactor` -
 
-    A bow factor that specifies how high (bowFactor > 0) or low
+    A bow factor that specifies how high (bowFactor \> 0) or low
     (bowFactor \< 0) the camera will fly. The highest (bowFactor = 1) or
     lowest point (bowFactor = -1) of the ballistic animation curve is
     relative to the travel distance between current camera target and
@@ -615,7 +623,8 @@ over time.
     MapCameraAnimation instance
 
     </div>
-<div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)"
+
+  - <div id="sdk-for-android-explore-flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)"
     class="section detail">
 
     ### flyTo
@@ -666,7 +675,7 @@ over time.
 
     `bowFactor` -
 
-    A bow factor that specifies how high (bowFactor > 0) or low
+    A bow factor that specifies how high (bowFactor \> 0) or low
     (bowFactor \< 0) the camera will fly. The highest (bowFactor = 1) or
     lowest point (bowFactor = -1) of the ballistic animation curve is
     relative to the travel distance between current camera target and

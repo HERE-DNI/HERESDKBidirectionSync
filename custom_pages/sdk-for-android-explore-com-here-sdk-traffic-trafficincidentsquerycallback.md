@@ -42,7 +42,8 @@ error.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -100,9 +101,11 @@ error.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onTrafficIncidentsFetched(com.here.sdk.traffic.TrafficQueryError,java.util.List)"
+
+  - <div id="sdk-for-android-explore-onTrafficIncidentsFetched(com.here.sdk.traffic.TrafficQueryError,java.util.List)"
     class="section detail">
 
     ### onTrafficIncidentsFetched
@@ -113,7 +116,7 @@ error.
     [TrafficQueryError](sdk-for-android-explore-com-here-sdk-traffic-trafficqueryerror "enum class in com.here.sdk.traffic") queryError,
     @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncident](sdk-for-android-explore-com-here-sdk-traffic-trafficincident "class in com.here.sdk.traffic")> result)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TrafficIncident](sdk-for-android-explore-com-here-sdk-traffic-trafficincident "class in com.here.sdk.traffic")\> result)</span>
 
     </div>
 

@@ -37,7 +37,8 @@ Gives the details of a transit section.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -226,7 +227,8 @@ Gives the details of a transit section.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -268,7 +270,8 @@ Gives the details of a transit section.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -342,28 +345,28 @@ Gives the details of a transit section.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -375,9 +378,11 @@ Gives the details of a transit section.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-transport" class="section detail">
+
+  - <div id="sdk-for-android-explore-transport" class="section detail">
 
     ### transport
 
@@ -395,7 +400,8 @@ Gives the details of a transit section.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-intermediateStops"
+
+  - <div id="sdk-for-android-explore-intermediateStops"
     class="section detail">
 
     ### intermediateStops
@@ -405,7 +411,7 @@ Gives the details of a transit section.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TransitStop](sdk-for-android-explore-com-here-sdk-routing-transitstop "class in com.here.sdk.routing")></span> <span class="element-name">intermediateStops</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TransitStop](sdk-for-android-explore-com-here-sdk-routing-transitstop "class in com.here.sdk.routing")\></span> <span class="element-name">intermediateStops</span>
 
     </div>
 
@@ -417,7 +423,8 @@ Gives the details of a transit section.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-agency" class="section detail">
+
+  - <div id="sdk-for-android-explore-agency" class="section detail">
 
     ### agency
 
@@ -435,7 +442,8 @@ Gives the details of a transit section.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-attributions"
+
+  - <div id="sdk-for-android-explore-attributions"
     class="section detail">
 
     ### attributions
@@ -445,7 +453,7 @@ Gives the details of a transit section.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Attribution](sdk-for-android-explore-com-here-sdk-routing-attribution "class in com.here.sdk.routing")></span> <span class="element-name">attributions</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Attribution](sdk-for-android-explore-com-here-sdk-routing-attribution "class in com.here.sdk.routing")\></span> <span class="element-name">attributions</span>
 
     </div>
 
@@ -456,7 +464,8 @@ Gives the details of a transit section.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-fares" class="section detail">
+
+  - <div id="sdk-for-android-explore-fares" class="section detail">
 
     ### fares
 
@@ -465,7 +474,7 @@ Gives the details of a transit section.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Fare](sdk-for-android-explore-com-here-sdk-routing-fare "class in com.here.sdk.routing")></span> <span class="element-name">fares</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[Fare](sdk-for-android-explore-com-here-sdk-routing-fare "class in com.here.sdk.routing")\></span> <span class="element-name">fares</span>
 
     </div>
 
@@ -478,7 +487,8 @@ Gives the details of a transit section.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-incidents" class="section detail">
+
+  - <div id="sdk-for-android-explore-incidents" class="section detail">
 
     ### incidents
 
@@ -487,7 +497,7 @@ Gives the details of a transit section.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[TransitIncident](sdk-for-android-explore-com-here-sdk-routing-transitincident "class in com.here.sdk.routing")></span> <span class="element-name">incidents</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[TransitIncident](sdk-for-android-explore-com-here-sdk-routing-transitincident "class in com.here.sdk.routing")\></span> <span class="element-name">incidents</span>
 
     </div>
 
@@ -500,9 +510,11 @@ Gives the details of a transit section.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.routing.Agency)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.routing.Agency)"
     class="section detail">
 
     ### TransitSectionDetails
@@ -528,9 +540,11 @@ Gives the details of a transit section.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -554,7 +568,8 @@ Gives the details of a transit section.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

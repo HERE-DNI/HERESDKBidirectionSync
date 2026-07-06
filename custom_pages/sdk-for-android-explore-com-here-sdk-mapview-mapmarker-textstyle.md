@@ -41,7 +41,8 @@ Styling options for the text of a MapMarker .
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -149,7 +150,8 @@ Styling options for the text of a MapMarker .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -235,7 +237,8 @@ Styling options for the text of a MapMarker .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -412,34 +415,34 @@ Styling options for the text of a MapMarker .
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -451,9 +454,11 @@ Styling options for the text of a MapMarker .
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### TextStyle
 
@@ -476,7 +481,8 @@ Styling options for the text of a MapMarker .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-<init>(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List)"
+
+  - <div id="sdk-for-android-explore-<init>(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List)"
     class="section detail">
 
     ### TextStyle
@@ -490,7 +496,7 @@ Styling options for the text of a MapMarker .
     [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") textOutlineColor,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker.TextStyle.Placement](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement "enum class in com.here.sdk.mapview")> placements)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker.TextStyle.Placement](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement "enum class in com.here.sdk.mapview")\> placements)</span>
     throws
     <span class="exceptions">[MapMarker.TextStyle.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -539,7 +545,8 @@ Styling options for the text of a MapMarker .
     In case of invalid input parameters.
 
     </div>
-<div id="sdk-for-android-explore-<init>(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-<init>(double,com.here.sdk.core.Color,double,com.here.sdk.core.Color,java.util.List,java.lang.String)"
     class="section detail">
 
     ### TextStyle
@@ -553,7 +560,7 @@ Styling options for the text of a MapMarker .
     [Color](sdk-for-android-explore-com-here-sdk-core-color "class in com.here.sdk.core") textOutlineColor,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker.TextStyle.Placement](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement "enum class in com.here.sdk.mapview")> placements,
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker.TextStyle.Placement](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement "enum class in com.here.sdk.mapview")\> placements,
     @NonNull <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html"
     class="external-link" title="class or interface in java.lang">String</a> fontName)</span>
@@ -615,9 +622,11 @@ Styling options for the text of a MapMarker .
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getFontName()"
+
+  - <div id="sdk-for-android-explore-getFontName()"
     class="section detail">
 
     ### getFontName
@@ -641,7 +650,8 @@ Styling options for the text of a MapMarker .
     The font used in the text style.
 
     </div>
-<div id="sdk-for-android-explore-getTextSize()"
+
+  - <div id="sdk-for-android-explore-getTextSize()"
     class="section detail">
 
     ### getTextSize
@@ -662,7 +672,8 @@ Styling options for the text of a MapMarker .
     The text size in pixels.
 
     </div>
-<div id="sdk-for-android-explore-getTextColor()"
+
+  - <div id="sdk-for-android-explore-getTextColor()"
     class="section detail">
 
     ### getTextColor
@@ -684,7 +695,8 @@ Styling options for the text of a MapMarker .
     The text color.
 
     </div>
-<div id="sdk-for-android-explore-getTextOutlineSize()"
+
+  - <div id="sdk-for-android-explore-getTextOutlineSize()"
     class="section detail">
 
     ### getTextOutlineSize
@@ -705,7 +717,8 @@ Styling options for the text of a MapMarker .
     The text outline size in pixels.
 
     </div>
-<div id="sdk-for-android-explore-getTextOutlineColor()"
+
+  - <div id="sdk-for-android-explore-getTextOutlineColor()"
     class="section detail">
 
     ### getTextOutlineColor
@@ -727,7 +740,8 @@ Styling options for the text of a MapMarker .
     The text outline color.
 
     </div>
-<div id="sdk-for-android-explore-getPlacements()"
+
+  - <div id="sdk-for-android-explore-getPlacements()"
     class="section detail">
 
     ### getPlacements
@@ -737,7 +751,7 @@ Styling options for the text of a MapMarker .
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker.TextStyle.Placement](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement "enum class in com.here.sdk.mapview")></span> <span class="element-name">getPlacements</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker.TextStyle.Placement](sdk-for-android-explore-com-here-sdk-mapview-mapmarker-textstyle-placement "enum class in com.here.sdk.mapview")\></span> <span class="element-name">getPlacements</span>()
 
     </div>
 

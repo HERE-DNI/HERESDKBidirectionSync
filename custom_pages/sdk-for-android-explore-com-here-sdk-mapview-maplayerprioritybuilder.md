@@ -93,7 +93,8 @@ assignment can be done for all types of data: points, lines, polygons.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -135,7 +136,8 @@ assignment can be done for all types of data: points, lines, polygons.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -380,34 +382,34 @@ assignment can be done for all types of data: points, lines, polygons.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -419,9 +421,11 @@ assignment can be done for all types of data: points, lines, polygons.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MapLayerPriorityBuilder
 
@@ -440,9 +444,11 @@ assignment can be done for all types of data: points, lines, polygons.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-withCategory(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-withCategory(java.lang.String)"
     class="section detail">
 
     ### withCategory
@@ -477,7 +483,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-inGroup(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-inGroup(java.lang.String)"
     class="section detail">
 
     ### inGroup
@@ -524,7 +531,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-renderedFirst()"
+
+  - <div id="sdk-for-android-explore-renderedFirst()"
     class="section detail">
 
     ### renderedFirst
@@ -559,7 +567,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-renderedLast()"
+
+  - <div id="sdk-for-android-explore-renderedLast()"
     class="section detail">
 
     ### renderedLast
@@ -594,7 +603,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-renderedBeforeLayer(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-renderedBeforeLayer(java.lang.String)"
     class="section detail">
 
     ### renderedBeforeLayer
@@ -640,7 +650,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-renderedBeforeLayer(java.lang.String,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-renderedBeforeLayer(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### renderedBeforeLayer
@@ -695,7 +706,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-renderedAfterLayer(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-renderedAfterLayer(java.lang.String)"
     class="section detail">
 
     ### renderedAfterLayer
@@ -741,7 +753,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-renderedAfterLayer(java.lang.String,java.lang.String)"
+
+  - <div id="sdk-for-android-explore-renderedAfterLayer(java.lang.String,java.lang.String)"
     class="section detail">
 
     ### renderedAfterLayer
@@ -796,7 +809,8 @@ assignment can be done for all types of data: points, lines, polygons.
     This class instance.
 
     </div>
-<div id="sdk-for-android-explore-build()" class="section detail">
+
+  - <div id="sdk-for-android-explore-build()" class="section detail">
 
     ### build
 

@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<TrafficIncidentType>com.here.sdk.traffic.TrafficIncidentType
+java.lang.Enum\<TrafficIncidentType\>com.here.sdk.traffic.TrafficIncidentType
 → java.lang.Enum → TrafficIncidentType →
 com.here.sdk.traffic.TrafficIncidentType
 
@@ -40,7 +40,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">TrafficIncidentType</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[TrafficIncidentType](sdk-for-android-explore-com-here-sdk-traffic-trafficincidenttype "enum class in com.here.sdk.traffic")\></span>
 
 </div>
 
@@ -53,7 +53,8 @@ Category of a traffic incident.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -75,7 +76,8 @@ Category of a traffic incident.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -320,7 +322,8 @@ Category of a traffic incident.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -403,34 +406,34 @@ Category of a traffic incident.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
   class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>`, `<a
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
   class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>`, `<a
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
   class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>`, `<a
+  title="class or interface in java.lang"><code>name</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
   class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>`, `<a
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
   class="external-link"
   title="class or interface in java.lang"><code>valueOf</code></a>
@@ -446,19 +449,19 @@ Category of a traffic incident.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -470,9 +473,11 @@ Category of a traffic incident.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-ACCIDENT" class="section detail">
+
+  - <div id="sdk-for-android-explore-ACCIDENT" class="section detail">
 
     ### ACCIDENT
 
@@ -490,7 +495,8 @@ Category of a traffic incident.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CONGESTION" class="section detail">
+
+  - <div id="sdk-for-android-explore-CONGESTION" class="section detail">
 
     ### CONGESTION
 
@@ -508,7 +514,8 @@ Category of a traffic incident.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CONSTRUCTION"
+
+  - <div id="sdk-for-android-explore-CONSTRUCTION"
     class="section detail">
 
     ### CONSTRUCTION
@@ -527,7 +534,8 @@ Category of a traffic incident.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-DISABLED_VEHICLE"
+
+  - <div id="sdk-for-android-explore-DISABLED_VEHICLE"
     class="section detail">
 
     ### DISABLED_VEHICLE
@@ -546,7 +554,8 @@ Category of a traffic incident.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MASS_TRANSIT"
+
+  - <div id="sdk-for-android-explore-MASS_TRANSIT"
     class="section detail">
 
     ### MASS_TRANSIT
@@ -565,7 +574,8 @@ Category of a traffic incident.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PLANNED_EVENT"
+
+  - <div id="sdk-for-android-explore-PLANNED_EVENT"
     class="section detail">
 
     ### PLANNED_EVENT
@@ -584,7 +594,8 @@ Category of a traffic incident.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ROAD_HAZARD"
+
+  - <div id="sdk-for-android-explore-ROAD_HAZARD"
     class="section detail">
 
     ### ROAD_HAZARD
@@ -604,7 +615,8 @@ Category of a traffic incident.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-WEATHER" class="section detail">
+
+  - <div id="sdk-for-android-explore-WEATHER" class="section detail">
 
     ### WEATHER
 
@@ -622,7 +634,8 @@ Category of a traffic incident.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ROAD_CLOSURE"
+
+  - <div id="sdk-for-android-explore-ROAD_CLOSURE"
     class="section detail">
 
     ### ROAD_CLOSURE
@@ -641,7 +654,8 @@ Category of a traffic incident.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LANE_RESTRICTION"
+
+  - <div id="sdk-for-android-explore-LANE_RESTRICTION"
     class="section detail">
 
     ### LANE_RESTRICTION
@@ -660,7 +674,8 @@ Category of a traffic incident.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OTHER" class="section detail">
+
+  - <div id="sdk-for-android-explore-OTHER" class="section detail">
 
     ### OTHER
 
@@ -679,7 +694,8 @@ Category of a traffic incident.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-UNKNOWN" class="section detail">
+
+  - <div id="sdk-for-android-explore-UNKNOWN" class="section detail">
 
     ### UNKNOWN
 
@@ -700,9 +716,11 @@ Category of a traffic incident.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -725,7 +743,8 @@ Category of a traffic incident.
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

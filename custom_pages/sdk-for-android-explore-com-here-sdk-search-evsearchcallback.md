@@ -40,7 +40,8 @@ deprecation process.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -98,9 +99,11 @@ deprecation process.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onEVCP3SearchCompleted(com.here.sdk.search.EVSearchError,java.util.List)"
+
+  - <div id="sdk-for-android-explore-onEVCP3SearchCompleted(com.here.sdk.search.EVSearchError,java.util.List)"
     class="section detail">
 
     ### onEVCP3SearchCompleted
@@ -111,7 +114,7 @@ deprecation process.
     [EVSearchError](sdk-for-android-explore-com-here-sdk-search-evsearcherror "enum class in com.here.sdk.search") error,
     @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingLocation](sdk-for-android-explore-com-here-sdk-search-evcharginglocation "class in com.here.sdk.search")> chargingLocations)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[EVChargingLocation](sdk-for-android-explore-com-here-sdk-search-evcharginglocation "class in com.here.sdk.search")\> chargingLocations)</span>
 
     </div>
 

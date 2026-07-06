@@ -39,7 +39,8 @@ creation, in order to provide search on custom places.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -270,7 +271,8 @@ creation, in order to provide search on custom places.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -312,7 +314,8 @@ creation, in order to provide search on custom places.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -456,28 +459,28 @@ creation, in order to provide search on custom places.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -489,9 +492,11 @@ creation, in order to provide search on custom places.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-title" class="section detail">
+
+  - <div id="sdk-for-android-explore-title" class="section detail">
 
     ### title
 
@@ -512,7 +517,8 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-externalIDs"
+
+  - <div id="sdk-for-android-explore-externalIDs"
     class="section detail">
 
     ### externalIDs
@@ -522,7 +528,7 @@ creation, in order to provide search on custom places.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[ExternalID](sdk-for-android-explore-com-here-sdk-core-externalid "class in com.here.sdk.core")></span> <span class="element-name">externalIDs</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[ExternalID](sdk-for-android-explore-com-here-sdk-core-externalid "class in com.here.sdk.core")\></span> <span class="element-name">externalIDs</span>
 
     </div>
 
@@ -537,7 +543,8 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-type" class="section detail">
+
+  - <div id="sdk-for-android-explore-type" class="section detail">
 
     ### type
 
@@ -555,7 +562,8 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-categories" class="section detail">
+
+  - <div id="sdk-for-android-explore-categories" class="section detail">
 
     ### categories
 
@@ -564,7 +572,7 @@ creation, in order to provide search on custom places.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")></span> <span class="element-name">categories</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[PlaceCategory](sdk-for-android-explore-com-here-sdk-search-placecategory "class in com.here.sdk.search")\></span> <span class="element-name">categories</span>
 
     </div>
 
@@ -576,7 +584,8 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-address" class="section detail">
+
+  - <div id="sdk-for-android-explore-address" class="section detail">
 
     ### address
 
@@ -595,7 +604,8 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-location" class="section detail">
+
+  - <div id="sdk-for-android-explore-location" class="section detail">
 
     ### location
 
@@ -614,7 +624,8 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-business" class="section detail">
+
+  - <div id="sdk-for-android-explore-business" class="section detail">
 
     ### business
 
@@ -633,7 +644,8 @@ creation, in order to provide search on custom places.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-web" class="section detail">
+
+  - <div id="sdk-for-android-explore-web" class="section detail">
 
     ### web
 
@@ -654,9 +666,11 @@ creation, in order to provide search on custom places.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### GeoPlace
 
@@ -675,9 +689,11 @@ creation, in order to provide search on custom places.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -701,7 +717,8 @@ creation, in order to provide search on custom places.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 
@@ -722,7 +739,8 @@ creation, in order to provide search on custom places.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-makeMyPlace(java.lang.String,com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-makeMyPlace(java.lang.String,com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### makeMyPlace
@@ -762,7 +780,8 @@ creation, in order to provide search on custom places.
     [`GeoPlace`](sdk-for-android-explore-com-here-sdk-search-geoplace "class in com.here.sdk.search").
 
     </div>
-<div id="sdk-for-android-explore-getID()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getID()" class="section detail">
 
     ### getID
 
@@ -785,7 +804,8 @@ creation, in order to provide search on custom places.
     The place id.
 
     </div>
-<div id="sdk-for-android-explore-isMyPlace()"
+
+  - <div id="sdk-for-android-explore-isMyPlace()"
     class="section detail">
 
     ### isMyPlace

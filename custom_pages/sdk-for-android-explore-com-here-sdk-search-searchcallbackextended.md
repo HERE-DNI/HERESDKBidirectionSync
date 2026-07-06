@@ -39,7 +39,8 @@ at the same time - or not null at the same time.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -98,9 +99,11 @@ at the same time - or not null at the same time.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onSearchExtendedCompleted(com.here.sdk.search.SearchError,java.util.List,com.here.sdk.search.ResponseDetails)"
+
+  - <div id="sdk-for-android-explore-onSearchExtendedCompleted(com.here.sdk.search.SearchError,java.util.List,com.here.sdk.search.ResponseDetails)"
     class="section detail">
 
     ### onSearchExtendedCompleted
@@ -111,7 +114,7 @@ at the same time - or not null at the same time.
     [SearchError](sdk-for-android-explore-com-here-sdk-search-searcherror "enum class in com.here.sdk.search") searchError,
     @Nullable <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")> places,
+    class="external-link" title="class or interface in java.util">List</a>\<[Place](sdk-for-android-explore-com-here-sdk-search-place "class in com.here.sdk.search")\> places,
     @Nullable
     [ResponseDetails](sdk-for-android-explore-com-here-sdk-search-responsedetails "class in com.here.sdk.search") responseDetails)</span>
 

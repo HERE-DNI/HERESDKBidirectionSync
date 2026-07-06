@@ -49,7 +49,8 @@ releases without a deprecation process.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -301,34 +302,34 @@ releases without a deprecation process.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -340,9 +341,11 @@ releases without a deprecation process.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getLocation()"
+
+  - <div id="sdk-for-android-explore-getLocation()"
     class="section detail">
 
     ### getLocation
@@ -364,7 +367,8 @@ releases without a deprecation process.
     Defines the location affected by traffic flow.
 
     </div>
-<div id="sdk-for-android-explore-getSpeedInMetersPerSecond()"
+
+  - <div id="sdk-for-android-explore-getSpeedInMetersPerSecond()"
     class="section detail">
 
     ### getSpeedInMetersPerSecond
@@ -390,7 +394,8 @@ releases without a deprecation process.
     exceed the legal speed limit.
 
     </div>
-<div id="sdk-for-android-explore-getSpeedUncappedInMetersPerSecond()"
+
+  - <div id="sdk-for-android-explore-getSpeedUncappedInMetersPerSecond()"
     class="section detail">
 
     ### getSpeedUncappedInMetersPerSecond
@@ -419,7 +424,8 @@ releases without a deprecation process.
     roadway right now; may exceed the legal speed limit.
 
     </div>
-<div id="sdk-for-android-explore-getJamTendency()"
+
+  - <div id="sdk-for-android-explore-getJamTendency()"
     class="section detail">
 
     ### getJamTendency
@@ -449,7 +455,8 @@ releases without a deprecation process.
     decreasing, or constant.
 
     </div>
-<div id="sdk-for-android-explore-getConfidence()"
+
+  - <div id="sdk-for-android-explore-getConfidence()"
     class="section detail">
 
     ### getConfidence
@@ -484,7 +491,8 @@ releases without a deprecation process.
     included in the speed calculation.
 
     </div>
-<div id="sdk-for-android-explore-getTraversability()"
+
+  - <div id="sdk-for-android-explore-getTraversability()"
     class="section detail">
 
     ### getTraversability
@@ -506,7 +514,8 @@ releases without a deprecation process.
     The traversability of roadway.
 
     </div>
-<div id="sdk-for-android-explore-getJunctionsTraversability()"
+
+  - <div id="sdk-for-android-explore-getJunctionsTraversability()"
     class="section detail">
 
     ### getJunctionsTraversability
@@ -528,7 +537,8 @@ releases without a deprecation process.
     The traversability of junctions along the affected road.
 
     </div>
-<div id="sdk-for-android-explore-getFreeFlowSpeedInMetersPerSecond()"
+
+  - <div id="sdk-for-android-explore-getFreeFlowSpeedInMetersPerSecond()"
     class="section detail">
 
     ### getFreeFlowSpeedInMetersPerSecond
@@ -555,7 +565,8 @@ releases without a deprecation process.
     traffic is present.
 
     </div>
-<div id="sdk-for-android-explore-getJamFactor()"
+
+  - <div id="sdk-for-android-explore-getJamFactor()"
     class="section detail">
 
     ### getJamFactor

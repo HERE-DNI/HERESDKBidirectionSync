@@ -51,7 +51,8 @@ still on the map and are considered for picking and clustering.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -159,7 +160,8 @@ still on the map and are considered for picking and clustering.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -221,7 +223,8 @@ still on the map and are considered for picking and clustering.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -439,34 +442,34 @@ still on the map and are considered for picking and clustering.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -478,9 +481,11 @@ still on the map and are considered for picking and clustering.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMarkerCluster.ImageStyle)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMarkerCluster.ImageStyle)"
     class="section detail">
 
     ### MapMarkerCluster
@@ -506,7 +511,8 @@ still on the map and are considered for picking and clustering.
     The visual representation for the cluster.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMarkerCluster.ImageStyle,com.here.sdk.mapview.MapMarkerCluster.CounterStyle)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMarkerCluster.ImageStyle,com.here.sdk.mapview.MapMarkerCluster.CounterStyle)"
     class="section detail">
 
     ### MapMarkerCluster
@@ -542,9 +548,11 @@ still on the map and are considered for picking and clustering.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-addMapMarker(com.here.sdk.mapview.MapMarker)"
+
+  - <div id="sdk-for-android-explore-addMapMarker(com.here.sdk.mapview.MapMarker)"
     class="section detail">
 
     ### addMapMarker
@@ -570,7 +578,8 @@ still on the map and are considered for picking and clustering.
     The marker.
 
     </div>
-<div id="sdk-for-android-explore-addMapMarkers(java.util.List)"
+
+  - <div id="sdk-for-android-explore-addMapMarkers(java.util.List)"
     class="section detail">
 
     ### addMapMarkers
@@ -580,7 +589,7 @@ still on the map and are considered for picking and clustering.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapMarkers</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")> markers)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\> markers)</span>
 
     </div>
 
@@ -598,7 +607,8 @@ still on the map and are considered for picking and clustering.
     The list of markers.
 
     </div>
-<div id="sdk-for-android-explore-removeMapMarker(com.here.sdk.mapview.MapMarker)"
+
+  - <div id="sdk-for-android-explore-removeMapMarker(com.here.sdk.mapview.MapMarker)"
     class="section detail">
 
     ### removeMapMarker
@@ -623,7 +633,8 @@ still on the map and are considered for picking and clustering.
     The marker.
 
     </div>
-<div id="sdk-for-android-explore-removeMapMarkers(java.util.List)"
+
+  - <div id="sdk-for-android-explore-removeMapMarkers(java.util.List)"
     class="section detail">
 
     ### removeMapMarkers
@@ -633,7 +644,7 @@ still on the map and are considered for picking and clustering.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapMarkers</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")> markers)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\> markers)</span>
 
     </div>
 
@@ -650,7 +661,8 @@ still on the map and are considered for picking and clustering.
     The list of markers.
 
     </div>
-<div id="sdk-for-android-explore-removeAllMapMarkers()"
+
+  - <div id="sdk-for-android-explore-removeAllMapMarkers()"
     class="section detail">
 
     ### removeAllMapMarkers
@@ -668,7 +680,8 @@ still on the map and are considered for picking and clustering.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-getMarkers()"
+
+  - <div id="sdk-for-android-explore-getMarkers()"
     class="section detail">
 
     ### getMarkers
@@ -678,7 +691,7 @@ still on the map and are considered for picking and clustering.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")></span> <span class="element-name">getMarkers</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMarker](sdk-for-android-explore-com-here-sdk-mapview-mapmarker "class in com.here.sdk.mapview")\></span> <span class="element-name">getMarkers</span>()
 
     </div>
 
@@ -693,7 +706,8 @@ still on the map and are considered for picking and clustering.
     The list of map markers which currently belong to this cluster.
 
     </div>
-<div id="sdk-for-android-explore-getOpacity()"
+
+  - <div id="sdk-for-android-explore-getOpacity()"
     class="section detail">
 
     ### getOpacity
@@ -715,7 +729,8 @@ still on the map and are considered for picking and clustering.
     image used for marker cluster.
 
     </div>
-<div id="sdk-for-android-explore-setOpacity(double)"
+
+  - <div id="sdk-for-android-explore-setOpacity(double)"
     class="section detail">
 
     ### setOpacity

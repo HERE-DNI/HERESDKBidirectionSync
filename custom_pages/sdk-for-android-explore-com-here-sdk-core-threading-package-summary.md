@@ -10,7 +10,8 @@ package <span class="element-name">com.here.sdk.core.threading</span>
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-related-package-summary">
+
+- <div id="sdk-for-android-explore-related-package-summary">
 
   <div class="caption">
 
@@ -83,7 +84,8 @@ package <span class="element-name">com.here.sdk.core.threading</span>
   </div>
 
   </div>
-<div id="sdk-for-android-explore-class-summary">
+
+- <div id="sdk-for-android-explore-class-summary">
 
   <div class="summary-table two-column-summary">
 

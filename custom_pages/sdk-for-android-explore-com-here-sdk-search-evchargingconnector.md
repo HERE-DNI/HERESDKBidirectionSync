@@ -40,7 +40,8 @@ deprecation process.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -307,7 +308,8 @@ deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -349,7 +351,8 @@ deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -423,28 +426,28 @@ deprecation process.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -456,9 +459,11 @@ deprecation process.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-id" class="section detail">
+
+  - <div id="sdk-for-android-explore-id" class="section detail">
 
     ### id
 
@@ -478,7 +483,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-connectorType"
+
+  - <div id="sdk-for-android-explore-connectorType"
     class="section detail">
 
     ### connectorType
@@ -500,7 +506,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-format" class="section detail">
+
+  - <div id="sdk-for-android-explore-format" class="section detail">
 
     ### format
 
@@ -518,7 +525,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-powerType" class="section detail">
+
+  - <div id="sdk-for-android-explore-powerType" class="section detail">
 
     ### powerType
 
@@ -536,7 +544,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxVoltageInVolts"
+
+  - <div id="sdk-for-android-explore-maxVoltageInVolts"
     class="section detail">
 
     ### maxVoltageInVolts
@@ -554,7 +563,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxCurrentInAmperes"
+
+  - <div id="sdk-for-android-explore-maxCurrentInAmperes"
     class="section detail">
 
     ### maxCurrentInAmperes
@@ -572,7 +582,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-maxPowerInWatts"
+
+  - <div id="sdk-for-android-explore-maxPowerInWatts"
     class="section detail">
 
     ### maxPowerInWatts
@@ -596,7 +607,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-termsAndConditionsUrl"
+
+  - <div id="sdk-for-android-explore-termsAndConditionsUrl"
     class="section detail">
 
     ### termsAndConditionsUrl
@@ -617,7 +629,8 @@ deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-tariffIndexes"
+
+  - <div id="sdk-for-android-explore-tariffIndexes"
     class="section detail">
 
     ### tariffIndexes
@@ -630,7 +643,7 @@ deprecation process.
     class="external-link" title="class or interface in java.util">List</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html"
     class="external-link"
-    title="class or interface in java.lang">Integer</a>></span> <span class="element-name">tariffIndexes</span>
+    title="class or interface in java.lang">Integer</a>\></span> <span class="element-name">tariffIndexes</span>
 
     </div>
 
@@ -646,9 +659,11 @@ deprecation process.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### EVChargingConnector
 
@@ -667,9 +682,11 @@ deprecation process.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -693,7 +710,8 @@ deprecation process.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

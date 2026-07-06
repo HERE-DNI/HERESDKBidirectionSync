@@ -32,7 +32,7 @@ class="section class-description">
 
 A visual representation of an arrow on the map. It consists of a tail -
 a polyline with an arbitrary number of points - and a head at its end.
-The map arrows are only visible on zoom levels >= 13. Altitude
+The map arrows are only visible on zoom levels \>= 13. Altitude
 component of GeoPolyline 's vertices is ignored.
 
 </div>
@@ -40,7 +40,8 @@ component of GeoPolyline 's vertices is ignored.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -84,7 +85,8 @@ component of GeoPolyline 's vertices is ignored.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -114,7 +116,7 @@ component of GeoPolyline 's vertices is ignored.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
   class="external-link"
-  title="class or interface in java.util"><code>Map</code></a>`<`[`MapMeasure`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview")`,`<a
+  title="class or interface in java.util"><code>Map</code></a>`<`[`MapMeasure`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview"), <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
   title="class or interface in java.lang"><code>Double</code></a>`>`
@@ -219,34 +221,34 @@ component of GeoPolyline 's vertices is ignored.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -258,9 +260,11 @@ component of GeoPolyline 's vertices is ignored.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolyline,double,com.here.sdk.core.Color)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.core.GeoPolyline,double,com.here.sdk.core.Color)"
     class="section detail">
 
     ### MapArrow
@@ -300,9 +304,11 @@ component of GeoPolyline 's vertices is ignored.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getMeasureDependentTailWidth()"
+
+  - <div id="sdk-for-android-explore-getMeasureDependentTailWidth()"
     class="section detail">
 
     ### getMeasureDependentTailWidth
@@ -314,7 +320,7 @@ component of GeoPolyline 's vertices is ignored.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
     class="external-link" title="class or interface in java.util">Map</a>\<[MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview"),<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>></span> <span class="element-name">getMeasureDependentTailWidth</span>()
+    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">getMeasureDependentTailWidth</span>()
 
     </div>
 
@@ -337,7 +343,8 @@ component of GeoPolyline 's vertices is ignored.
     [`MapMeasure`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview").
 
     </div>
-<div id="sdk-for-android-explore-setMeasureDependentTailWidth(java.util.Map)"
+
+  - <div id="sdk-for-android-explore-setMeasureDependentTailWidth(java.util.Map)"
     class="section detail">
 
     ### setMeasureDependentTailWidth
@@ -349,7 +356,7 @@ component of GeoPolyline 's vertices is ignored.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
     class="external-link" title="class or interface in java.util">Map</a>\<[MapMeasure](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview"),<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>> value)</span>
+    class="external-link" title="class or interface in java.lang">Double</a>\> value)</span>
 
     </div>
 
@@ -380,7 +387,8 @@ component of GeoPolyline 's vertices is ignored.
     [`MapMeasure`](sdk-for-android-explore-com-here-sdk-mapview-mapmeasure "class in com.here.sdk.mapview").
 
     </div>
-<div id="sdk-for-android-explore-getVisibilityRanges()"
+
+  - <div id="sdk-for-android-explore-getVisibilityRanges()"
     class="section detail">
 
     ### getVisibilityRanges
@@ -390,7 +398,7 @@ component of GeoPolyline 's vertices is ignored.
     <span class="annotations">@NonNull
     </span><span class="modifiers">public</span> <span class="return-type"><a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")></span> <span class="element-name">getVisibilityRanges</span>()
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\></span> <span class="element-name">getVisibilityRanges</span>()
 
     </div>
 
@@ -410,7 +418,8 @@ component of GeoPolyline 's vertices is ignored.
     The list of visibility ranges, in which the map arrow is visible.
 
     </div>
-<div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
+
+  - <div id="sdk-for-android-explore-setVisibilityRanges(java.util.List)"
     class="section detail">
 
     ### setVisibilityRanges
@@ -420,7 +429,7 @@ component of GeoPolyline 's vertices is ignored.
     <span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><span class="parameters">(@NonNull
     <a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html"
-    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")> value)</span>
+    class="external-link" title="class or interface in java.util">List</a>\<[MapMeasureRange](sdk-for-android-explore-com-here-sdk-mapview-mapmeasurerange "class in com.here.sdk.mapview")\> value)</span>
 
     </div>
 

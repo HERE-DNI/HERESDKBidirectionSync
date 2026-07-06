@@ -28,7 +28,8 @@ Listener for RasterDataSource events.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -106,9 +107,11 @@ Listener for RasterDataSource events.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onRasterDataSourceReady()"
+
+  - <div id="sdk-for-android-explore-onRasterDataSourceReady()"
     class="section detail">
 
     ### onRasterDataSourceReady
@@ -126,7 +129,8 @@ Listener for RasterDataSource events.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-onRasterDataSourceError(com.here.sdk.mapview.datasource.RasterDataSourceError)"
+
+  - <div id="sdk-for-android-explore-onRasterDataSourceError(com.here.sdk.mapview.datasource.RasterDataSourceError)"
     class="section detail">
 
     ### onRasterDataSourceError

@@ -33,7 +33,8 @@ may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -112,9 +113,11 @@ may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-onFramePrepared()"
+
+  - <div id="sdk-for-android-explore-onFramePrepared()"
     class="section detail">
 
     ### onFramePrepared
@@ -135,7 +138,8 @@ may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-onRenderTargetReleased()"
+
+  - <div id="sdk-for-android-explore-onRenderTargetReleased()"
     class="section detail">
 
     ### onRenderTargetReleased

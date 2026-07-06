@@ -29,7 +29,8 @@ intended to be executed by a thread.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -85,9 +86,11 @@ intended to be executed by a thread.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-run()" class="section detail">
+
+  - <div id="sdk-for-android-explore-run()" class="section detail">
 
     ### run
 

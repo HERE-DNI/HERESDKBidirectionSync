@@ -51,7 +51,8 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -255,34 +256,34 @@ TrafficIncidentBase.getDescription() always returns an empty string.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -294,9 +295,11 @@ TrafficIncidentBase.getDescription() always returns an empty string.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-getOriginalId()"
+
+  - <div id="sdk-for-android-explore-getOriginalId()"
     class="section detail">
 
     ### getOriginalId
@@ -321,7 +324,8 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     Unique traffic event ID.
 
     </div>
-<div id="sdk-for-android-explore-getCoordinates()"
+
+  - <div id="sdk-for-android-explore-getCoordinates()"
     class="section detail">
 
     ### getCoordinates
@@ -343,7 +347,8 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     The geographic coordinates of the traffic incident.
 
     </div>
-<div id="sdk-for-android-explore-getImpact()"
+
+  - <div id="sdk-for-android-explore-getImpact()"
     class="section detail">
 
     ### getImpact
@@ -371,7 +376,8 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     The impact of the incident.
 
     </div>
-<div id="sdk-for-android-explore-getType()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getType()" class="section detail">
 
     ### getType
 
@@ -398,7 +404,8 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     The category of the incident.
 
     </div>
-<div id="sdk-for-android-explore-getDescription()"
+
+  - <div id="sdk-for-android-explore-getDescription()"
     class="section detail">
 
     ### getDescription
@@ -429,7 +436,8 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     location information.
 
     </div>
-<div id="sdk-for-android-explore-getStartTime()"
+
+  - <div id="sdk-for-android-explore-getStartTime()"
     class="section detail">
 
     ### getStartTime
@@ -460,7 +468,8 @@ TrafficIncidentBase.getDescription() always returns an empty string.
     incident should not be considered.
 
     </div>
-<div id="sdk-for-android-explore-getEndTime()"
+
+  - <div id="sdk-for-android-explore-getEndTime()"
     class="section detail">
 
     ### getEndTime

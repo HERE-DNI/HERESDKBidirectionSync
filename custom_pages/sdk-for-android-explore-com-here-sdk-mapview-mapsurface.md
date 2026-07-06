@@ -45,7 +45,8 @@ use the MapView instead.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -108,7 +109,8 @@ use the MapView instead.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -199,7 +201,8 @@ use the MapView instead.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -865,34 +868,34 @@ use the MapView instead.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -904,9 +907,11 @@ use the MapView instead.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>()" class="section detail">
+
+  - <div id="sdk-for-android-explore-<init>()" class="section detail">
 
     ### MapSurface
 
@@ -923,7 +928,8 @@ use the MapView instead.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapViewOptions)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapViewOptions)"
     class="section detail">
 
     ### MapSurface
@@ -944,7 +950,8 @@ use the MapView instead.
     `options` - The options
 
     </div>
-<div id="sdk-for-android-explore-<init>(android.content.Context)"
+
+  - <div id="sdk-for-android-explore-<init>(android.content.Context)"
     class="section detail">
 
     ### MapSurface
@@ -965,7 +972,8 @@ use the MapView instead.
     `context` - The Application context
 
     </div>
-<div id="sdk-for-android-explore-<init>(android.content.Context,com.here.sdk.mapview.MapViewOptions)"
+
+  - <div id="sdk-for-android-explore-<init>(android.content.Context,com.here.sdk.mapview.MapViewOptions)"
     class="section detail">
 
     ### MapSurface
@@ -991,9 +999,11 @@ use the MapView instead.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-isValid()" class="section detail">
+
+  - <div id="sdk-for-android-explore-isValid()" class="section detail">
 
     ### isValid
 
@@ -1021,7 +1031,8 @@ use the MapView instead.
     `true` if this `MapSurface` is valid, `false` otherwise.
 
     </div>
-<div id="sdk-for-android-explore-destroy()" class="section detail">
+
+  - <div id="sdk-for-android-explore-destroy()" class="section detail">
 
     ### destroy
 
@@ -1042,7 +1053,8 @@ use the MapView instead.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)"
+
+  - <div id="sdk-for-android-explore-setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)"
     class="section detail">
 
     ### setOnReadyListener
@@ -1068,7 +1080,8 @@ use the MapView instead.
     unregister any previously register listener.
 
     </div>
-<div id="sdk-for-android-explore-attachSurface(android.content.Context,android.view.Surface,int,int)"
+
+  - <div id="sdk-for-android-explore-attachSurface(android.content.Context,android.view.Surface,int,int)"
     class="section detail">
 
     ### attachSurface
@@ -1104,7 +1117,8 @@ use the MapView instead.
     if surface is invalid and cannot be used.
 
     </div>
-<div id="sdk-for-android-explore-attachSurface(android.content.Context,android.view.Surface,int,int,com.here.sdk.mapview.MapSurface.RenderListener)"
+
+  - <div id="sdk-for-android-explore-attachSurface(android.content.Context,android.view.Surface,int,int,com.here.sdk.mapview.MapSurface.RenderListener)"
     class="section detail">
 
     ### attachSurface
@@ -1152,7 +1166,8 @@ use the MapView instead.
     if surface is invalid and cannot be used.
 
     </div>
-<div id="sdk-for-android-explore-destroySurface()"
+
+  - <div id="sdk-for-android-explore-destroySurface()"
     class="section detail">
 
     ### destroySurface
@@ -1170,7 +1185,8 @@ use the MapView instead.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-redraw(java.lang.Runnable)"
+
+  - <div id="sdk-for-android-explore-redraw(java.lang.Runnable)"
     class="section detail">
 
     ### redraw
@@ -1196,7 +1212,8 @@ use the MapView instead.
     The runnable to be executed after completion.
 
     </div>
-<div id="sdk-for-android-explore-pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)"
+
+  - <div id="sdk-for-android-explore-pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)"
     class="section detail">
 
     ### pick
@@ -1244,7 +1261,8 @@ use the MapView instead.
     thread when pick operation completes.
 
     </div>
-<div id="sdk-for-android-explore-geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### geoToViewCoordinates
@@ -1295,7 +1313,8 @@ use the MapView instead.
     - [`MapView.OnReadyListener`](sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener "interface in com.here.sdk.mapview")
 
     </div>
-<div id="sdk-for-android-explore-addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
+
+  - <div id="sdk-for-android-explore-addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
     class="section detail">
 
     ### addLifecycleListener
@@ -1331,7 +1350,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
+
+  - <div id="sdk-for-android-explore-removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)"
     class="section detail">
 
     ### removeLifecycleListener
@@ -1368,7 +1388,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-onResume()" class="section detail">
+
+  - <div id="sdk-for-android-explore-onResume()" class="section detail">
 
     ### onResume
 
@@ -1385,7 +1406,8 @@ use the MapView instead.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-onPause()" class="section detail">
+
+  - <div id="sdk-for-android-explore-onPause()" class="section detail">
 
     ### onPause
 
@@ -1402,7 +1424,8 @@ use the MapView instead.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-viewToGeoCoordinates(com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-viewToGeoCoordinates(com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### viewToGeoCoordinates
@@ -1454,7 +1477,8 @@ use the MapView instead.
     - [`MapView.OnReadyListener`](sdk-for-android-explore-com-here-sdk-mapview-mapview-onreadylistener "interface in com.here.sdk.mapview")
 
     </div>
-<div id="sdk-for-android-explore-getGestures()"
+
+  - <div id="sdk-for-android-explore-getGestures()"
     class="section detail">
 
     ### getGestures
@@ -1490,7 +1514,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getPixelScale()"
+
+  - <div id="sdk-for-android-explore-getPixelScale()"
     class="section detail">
 
     ### getPixelScale
@@ -1527,7 +1552,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getViewportSize()"
+
+  - <div id="sdk-for-android-explore-getViewportSize()"
     class="section detail">
 
     ### getViewportSize
@@ -1559,7 +1585,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getFrameRate()"
+
+  - <div id="sdk-for-android-explore-getFrameRate()"
     class="section detail">
 
     ### getFrameRate
@@ -1592,7 +1619,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-setFrameRate(int)"
+
+  - <div id="sdk-for-android-explore-setFrameRate(int)"
     class="section detail">
 
     ### setFrameRate
@@ -1626,7 +1654,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)"
+
+  - <div id="sdk-for-android-explore-takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)"
     class="section detail">
 
     ### takeScreenshot
@@ -1648,7 +1677,8 @@ use the MapView instead.
     completed
 
     </div>
-<div id="sdk-for-android-explore-setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### setWatermarkLocation
@@ -1709,7 +1739,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getWatermarkSize()"
+
+  - <div id="sdk-for-android-explore-getWatermarkSize()"
     class="section detail">
 
     ### getWatermarkSize
@@ -1742,7 +1773,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-setShadowQuality(com.here.sdk.mapview.ShadowQuality)"
+
+  - <div id="sdk-for-android-explore-setShadowQuality(com.here.sdk.mapview.ShadowQuality)"
     class="section detail">
 
     ### setShadowQuality
@@ -1777,7 +1809,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getShadowQuality()"
+
+  - <div id="sdk-for-android-explore-getShadowQuality()"
     class="section detail">
 
     ### getShadowQuality
@@ -1808,7 +1841,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getCamera()"
+
+  - <div id="sdk-for-android-explore-getCamera()"
     class="section detail">
 
     ### getCamera
@@ -1843,7 +1877,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getMapScene()"
+
+  - <div id="sdk-for-android-explore-getMapScene()"
     class="section detail">
 
     ### getMapScene
@@ -1880,7 +1915,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getMapContext()"
+
+  - <div id="sdk-for-android-explore-getMapContext()"
     class="section detail">
 
     ### getMapContext
@@ -1915,7 +1951,8 @@ use the MapView instead.
     if MapSurface object is not valid.
 
     </div>
-<div id="sdk-for-android-explore-getHereMap()"
+
+  - <div id="sdk-for-android-explore-getHereMap()"
     class="section detail">
 
     ### getHereMap

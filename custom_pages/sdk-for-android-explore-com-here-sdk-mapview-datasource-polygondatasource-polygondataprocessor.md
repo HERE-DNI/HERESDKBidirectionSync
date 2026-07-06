@@ -42,7 +42,8 @@ coordinates and attributes.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -99,9 +100,11 @@ coordinates and attributes.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-process(com.here.sdk.mapview.datasource.PolygonDataAccessor)"
+
+  - <div id="sdk-for-android-explore-process(com.here.sdk.mapview.datasource.PolygonDataAccessor)"
     class="section detail">
 
     ### process

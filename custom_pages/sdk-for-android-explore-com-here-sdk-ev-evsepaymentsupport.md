@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<EVSEPaymentSupport>com.here.sdk.ev.EVSEPaymentSupport →
+java.lang.Enum\<EVSEPaymentSupport\>com.here.sdk.ev.EVSEPaymentSupport →
 java.lang.Enum → EVSEPaymentSupport → com.here.sdk.ev.EVSEPaymentSupport
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">EVSEPaymentSupport</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[EVSEPaymentSupport](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[EVSEPaymentSupport](sdk-for-android-explore-com-here-sdk-ev-evsepaymentsupport "enum class in com.here.sdk.ev")\></span>
 
 </div>
 
@@ -55,7 +55,8 @@ Related APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -77,7 +78,8 @@ Related APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -417,7 +419,8 @@ Related APIs may change for new releases without a deprecation process.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -500,34 +503,34 @@ Related APIs may change for new releases without a deprecation process.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
   class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>`, `<a
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
   class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>`, `<a
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
   class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>`, `<a
+  title="class or interface in java.lang"><code>name</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
   class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>`, `<a
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
   class="external-link"
   title="class or interface in java.lang"><code>valueOf</code></a>
@@ -543,19 +546,19 @@ Related APIs may change for new releases without a deprecation process.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -567,9 +570,11 @@ Related APIs may change for new releases without a deprecation process.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-CHIP_CARD" class="section detail">
+
+  - <div id="sdk-for-android-explore-CHIP_CARD" class="section detail">
 
     ### CHIP_CARD
 
@@ -587,7 +592,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CONTACTLESS_CARD"
+
+  - <div id="sdk-for-android-explore-CONTACTLESS_CARD"
     class="section detail">
 
     ### CONTACTLESS_CARD
@@ -606,7 +612,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CREDIT_CARD"
+
+  - <div id="sdk-for-android-explore-CREDIT_CARD"
     class="section detail">
 
     ### CREDIT_CARD
@@ -626,7 +633,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-DEBIT_CARD" class="section detail">
+
+  - <div id="sdk-for-android-explore-DEBIT_CARD" class="section detail">
 
     ### DEBIT_CARD
 
@@ -645,7 +653,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-PED_TERMINAL"
+
+  - <div id="sdk-for-android-explore-PED_TERMINAL"
     class="section detail">
 
     ### PED_TERMINAL
@@ -664,7 +673,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RFID_READER"
+
+  - <div id="sdk-for-android-explore-RFID_READER"
     class="section detail">
 
     ### RFID_READER
@@ -683,7 +693,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-AUTH_BY_CAR_PLUG_AND_CHARGE"
+
+  - <div id="sdk-for-android-explore-AUTH_BY_CAR_PLUG_AND_CHARGE"
     class="section detail">
 
     ### AUTH_BY_CAR_PLUG_AND_CHARGE
@@ -704,7 +715,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-AUTH_BY_CAR_AUTOCHARGE"
+
+  - <div id="sdk-for-android-explore-AUTH_BY_CAR_AUTOCHARGE"
     class="section detail">
 
     ### AUTH_BY_CAR_AUTOCHARGE
@@ -724,7 +736,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ONLINE_APPLE_PAY"
+
+  - <div id="sdk-for-android-explore-ONLINE_APPLE_PAY"
     class="section detail">
 
     ### ONLINE_APPLE_PAY
@@ -743,7 +756,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ONLINE_PAYPAL"
+
+  - <div id="sdk-for-android-explore-ONLINE_PAYPAL"
     class="section detail">
 
     ### ONLINE_PAYPAL
@@ -762,7 +776,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ONLINE_CREDIT_CARD"
+
+  - <div id="sdk-for-android-explore-ONLINE_CREDIT_CARD"
     class="section detail">
 
     ### ONLINE_CREDIT_CARD
@@ -781,7 +796,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ONLINE_GOOGLE_PAY"
+
+  - <div id="sdk-for-android-explore-ONLINE_GOOGLE_PAY"
     class="section detail">
 
     ### ONLINE_GOOGLE_PAY
@@ -800,7 +816,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ONLINE_BANK_PAYMENT"
+
+  - <div id="sdk-for-android-explore-ONLINE_BANK_PAYMENT"
     class="section detail">
 
     ### ONLINE_BANK_PAYMENT
@@ -819,7 +836,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TERMINAL_QR_CODE"
+
+  - <div id="sdk-for-android-explore-TERMINAL_QR_CODE"
     class="section detail">
 
     ### TERMINAL_QR_CODE
@@ -838,7 +856,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-TERMINAL_SMS"
+
+  - <div id="sdk-for-android-explore-TERMINAL_SMS"
     class="section detail">
 
     ### TERMINAL_SMS
@@ -857,7 +876,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-OPERATOR_APP"
+
+  - <div id="sdk-for-android-explore-OPERATOR_APP"
     class="section detail">
 
     ### OPERATOR_APP
@@ -877,7 +897,8 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MOBILE_PAYMENT"
+
+  - <div id="sdk-for-android-explore-MOBILE_PAYMENT"
     class="section detail">
 
     ### MOBILE_PAYMENT
@@ -902,9 +923,11 @@ Related APIs may change for new releases without a deprecation process.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -927,7 +950,8 @@ Related APIs may change for new releases without a deprecation process.
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

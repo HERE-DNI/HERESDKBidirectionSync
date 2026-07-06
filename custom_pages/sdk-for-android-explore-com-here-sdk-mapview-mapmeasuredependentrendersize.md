@@ -37,7 +37,8 @@ Represents a render size, described as map measure dependent values.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -121,7 +122,8 @@ Represents a render size, described as map measure dependent values.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-field-summary"
+
+- <div id="sdk-for-android-explore-field-summary"
   class="section field-summary">
 
   <div class="caption">
@@ -182,7 +184,7 @@ Represents a render size, described as map measure dependent values.
   title="class or interface in java.util"><code>Map</code></a>`<`<a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
-  title="class or interface in java.lang"><code>Double</code></a>`,`<a
+  title="class or interface in java.lang"><code>Double</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
   class="external-link"
   title="class or interface in java.lang"><code>Double</code></a>`>`
@@ -234,7 +236,8 @@ Represents a render size, described as map measure dependent values.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-summary"
+
+- <div id="sdk-for-android-explore-constructor-summary"
   class="section constructor-summary">
 
   <div class="caption">
@@ -296,7 +299,8 @@ Represents a render size, described as map measure dependent values.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -370,28 +374,28 @@ Represents a render size, described as map measure dependent values.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -403,9 +407,11 @@ Represents a render size, described as map measure dependent values.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-field-detail"
+
+- <div id="sdk-for-android-explore-field-detail"
   class="section field-details">
-<div id="sdk-for-android-explore-measureKind"
+
+  - <div id="sdk-for-android-explore-measureKind"
     class="section detail">
 
     ### measureKind
@@ -425,7 +431,8 @@ Represents a render size, described as map measure dependent values.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-sizeUnit" class="section detail">
+
+  - <div id="sdk-for-android-explore-sizeUnit" class="section detail">
 
     ### sizeUnit
 
@@ -444,7 +451,8 @@ Represents a render size, described as map measure dependent values.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-sizes" class="section detail">
+
+  - <div id="sdk-for-android-explore-sizes" class="section detail">
 
     ### sizes
 
@@ -458,7 +466,7 @@ Represents a render size, described as map measure dependent values.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>></span> <span class="element-name">sizes</span>
+    class="external-link" title="class or interface in java.lang">Double</a>\></span> <span class="element-name">sizes</span>
 
     </div>
 
@@ -474,9 +482,11 @@ Represents a render size, described as map measure dependent values.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-constructor-detail"
+
+- <div id="sdk-for-android-explore-constructor-detail"
   class="section constructor-details">
-<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasure.Kind,com.here.sdk.mapview.RenderSize.Unit,java.util.Map)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.MapMeasure.Kind,com.here.sdk.mapview.RenderSize.Unit,java.util.Map)"
     class="section detail">
 
     ### MapMeasureDependentRenderSize
@@ -493,7 +503,7 @@ Represents a render size, described as map measure dependent values.
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
     class="external-link" title="class or interface in java.lang">Double</a>,<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>> sizes)</span>
+    class="external-link" title="class or interface in java.lang">Double</a>\> sizes)</span>
     throws
     <span class="exceptions">[MapMeasureDependentRenderSize.InstantiationException](sdk-for-android-explore-com-here-sdk-mapview-mapmeasuredependentrendersize-instantiationexception "class in com.here.sdk.mapview")</span>
 
@@ -527,7 +537,8 @@ Represents a render size, described as map measure dependent values.
     keys or values.
 
     </div>
-<div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.RenderSize.Unit,double)"
+
+  - <div id="sdk-for-android-explore-<init>(com.here.sdk.mapview.RenderSize.Unit,double)"
     class="section detail">
 
     ### MapMeasureDependentRenderSize
@@ -567,9 +578,11 @@ Represents a render size, described as map measure dependent values.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-equals(java.lang.Object)"
+
+  - <div id="sdk-for-android-explore-equals(java.lang.Object)"
     class="section detail">
 
     ### equals
@@ -593,7 +606,8 @@ Represents a render size, described as map measure dependent values.
     title="class or interface in java.lang"><code>Object</code></a>
 
     </div>
-<div id="sdk-for-android-explore-hashCode()" class="section detail">
+
+  - <div id="sdk-for-android-explore-hashCode()" class="section detail">
 
     ### hashCode
 

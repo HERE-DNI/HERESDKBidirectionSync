@@ -12,7 +12,7 @@ slug: "sdk-for-android-explore-com-here-sdk-routing-maneuveraction"
 <div class="inheritance" title="Inheritance Tree">
 
 java.lang.Object →
-java.lang.Enum\<ManeuverAction>com.here.sdk.routing.ManeuverAction →
+java.lang.Enum\<ManeuverAction\>com.here.sdk.routing.ManeuverAction →
 java.lang.Enum → ManeuverAction → com.here.sdk.routing.ManeuverAction
 
 </div>
@@ -39,7 +39,7 @@ title="class or interface in java.lang.constant"><code>Constable</code></a>
 </span><span class="element-name type-name-label">ManeuverAction</span>
 <span class="extends-implements">extends <a
 href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html"
-class="external-link" title="class or interface in java.lang">Enum</a>\<[ManeuverAction](sdk-for-android-explore-com-here-sdk-routing-maneuveraction "enum class in com.here.sdk.routing")></span>
+class="external-link" title="class or interface in java.lang">Enum</a>\<[ManeuverAction](sdk-for-android-explore-com-here-sdk-routing-maneuveraction "enum class in com.here.sdk.routing")\></span>
 
 </div>
 
@@ -52,7 +52,8 @@ Maneuver action type.
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="inherited-list">
@@ -74,7 +75,8 @@ Maneuver action type.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-enum-constant-summary"
+
+- <div id="sdk-for-android-explore-enum-constant-summary"
   class="section constants-summary">
 
   <div class="caption">
@@ -993,7 +995,8 @@ Maneuver action type.
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -1076,34 +1079,34 @@ Maneuver action type.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#compareTo(E)"
   class="external-link"
-  title="class or interface in java.lang"><code>compareTo</code></a>`, `<a
+  title="class or interface in java.lang"><code>compareTo</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#describeConstable()"
   class="external-link"
-  title="class or interface in java.lang"><code>describeConstable</code></a>`, `<a
+  title="class or interface in java.lang"><code>describeConstable</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#getDeclaringClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getDeclaringClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getDeclaringClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#name()"
   class="external-link"
-  title="class or interface in java.lang"><code>name</code></a>`, `<a
+  title="class or interface in java.lang"><code>name</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#ordinal()"
   class="external-link"
-  title="class or interface in java.lang"><code>ordinal</code></a>`, `<a
+  title="class or interface in java.lang"><code>ordinal</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html#valueOf(java.lang.Class,java.lang.String)"
   class="external-link"
   title="class or interface in java.lang"><code>valueOf</code></a>
@@ -1119,19 +1122,19 @@ Maneuver action type.
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -1143,9 +1146,11 @@ Maneuver action type.
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-enum-constant-detail"
+
+- <div id="sdk-for-android-explore-enum-constant-detail"
   class="section constant-details">
-<div id="sdk-for-android-explore-DEPART" class="section detail">
+
+  - <div id="sdk-for-android-explore-DEPART" class="section detail">
 
     ### DEPART
 
@@ -1163,7 +1168,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ARRIVE" class="section detail">
+
+  - <div id="sdk-for-android-explore-ARRIVE" class="section detail">
 
     ### ARRIVE
 
@@ -1182,7 +1188,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_U_TURN"
+
+  - <div id="sdk-for-android-explore-LEFT_U_TURN"
     class="section detail">
 
     ### LEFT_U_TURN
@@ -1201,7 +1208,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SHARP_LEFT_TURN"
+
+  - <div id="sdk-for-android-explore-SHARP_LEFT_TURN"
     class="section detail">
 
     ### SHARP_LEFT_TURN
@@ -1220,7 +1228,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_TURN" class="section detail">
+
+  - <div id="sdk-for-android-explore-LEFT_TURN" class="section detail">
 
     ### LEFT_TURN
 
@@ -1238,7 +1247,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SLIGHT_LEFT_TURN"
+
+  - <div id="sdk-for-android-explore-SLIGHT_LEFT_TURN"
     class="section detail">
 
     ### SLIGHT_LEFT_TURN
@@ -1257,7 +1267,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-CONTINUE_ON"
+
+  - <div id="sdk-for-android-explore-CONTINUE_ON"
     class="section detail">
 
     ### CONTINUE_ON
@@ -1276,7 +1287,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SLIGHT_RIGHT_TURN"
+
+  - <div id="sdk-for-android-explore-SLIGHT_RIGHT_TURN"
     class="section detail">
 
     ### SLIGHT_RIGHT_TURN
@@ -1295,7 +1307,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_TURN" class="section detail">
+
+  - <div id="sdk-for-android-explore-RIGHT_TURN" class="section detail">
 
     ### RIGHT_TURN
 
@@ -1313,7 +1326,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-SHARP_RIGHT_TURN"
+
+  - <div id="sdk-for-android-explore-SHARP_RIGHT_TURN"
     class="section detail">
 
     ### SHARP_RIGHT_TURN
@@ -1332,7 +1346,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_U_TURN"
+
+  - <div id="sdk-for-android-explore-RIGHT_U_TURN"
     class="section detail">
 
     ### RIGHT_U_TURN
@@ -1351,7 +1366,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_EXIT" class="section detail">
+
+  - <div id="sdk-for-android-explore-LEFT_EXIT" class="section detail">
 
     ### LEFT_EXIT
 
@@ -1369,7 +1385,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_EXIT" class="section detail">
+
+  - <div id="sdk-for-android-explore-RIGHT_EXIT" class="section detail">
 
     ### RIGHT_EXIT
 
@@ -1387,7 +1404,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_RAMP" class="section detail">
+
+  - <div id="sdk-for-android-explore-LEFT_RAMP" class="section detail">
 
     ### LEFT_RAMP
 
@@ -1405,7 +1423,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_RAMP" class="section detail">
+
+  - <div id="sdk-for-android-explore-RIGHT_RAMP" class="section detail">
 
     ### RIGHT_RAMP
 
@@ -1423,7 +1442,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_FORK" class="section detail">
+
+  - <div id="sdk-for-android-explore-LEFT_FORK" class="section detail">
 
     ### LEFT_FORK
 
@@ -1441,7 +1461,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-MIDDLE_FORK"
+
+  - <div id="sdk-for-android-explore-MIDDLE_FORK"
     class="section detail">
 
     ### MIDDLE_FORK
@@ -1460,7 +1481,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_FORK" class="section detail">
+
+  - <div id="sdk-for-android-explore-RIGHT_FORK" class="section detail">
 
     ### RIGHT_FORK
 
@@ -1478,7 +1500,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ENTER_HIGHWAY_FROM_LEFT"
+
+  - <div id="sdk-for-android-explore-ENTER_HIGHWAY_FROM_LEFT"
     class="section detail">
 
     ### ENTER_HIGHWAY_FROM_LEFT
@@ -1501,7 +1524,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-ENTER_HIGHWAY_FROM_RIGHT"
+
+  - <div id="sdk-for-android-explore-ENTER_HIGHWAY_FROM_RIGHT"
     class="section detail">
 
     ### ENTER_HIGHWAY_FROM_RIGHT
@@ -1524,7 +1548,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_ENTER"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_ENTER"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_ENTER
@@ -1544,7 +1569,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_ENTER"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_ENTER"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_ENTER
@@ -1564,7 +1590,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_PASS"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_PASS"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_PASS
@@ -1584,7 +1611,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_PASS"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_PASS"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_PASS
@@ -1604,7 +1632,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT1"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT1"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_EXIT1
@@ -1624,7 +1653,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT2"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT2"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_EXIT2
@@ -1644,7 +1674,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT3"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT3"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_EXIT3
@@ -1664,7 +1695,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT4"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT4"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_EXIT4
@@ -1684,7 +1716,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT5"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT5"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_EXIT5
@@ -1704,7 +1737,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT6"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT6"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_EXIT6
@@ -1724,7 +1758,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT7"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT7"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_EXIT7
@@ -1744,7 +1779,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT8"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT8"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_EXIT8
@@ -1764,7 +1800,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT9"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT9"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_EXIT9
@@ -1784,7 +1821,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT10"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT10"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_EXIT10
@@ -1804,7 +1842,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT11"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT11"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_EXIT11
@@ -1824,7 +1863,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT12"
+
+  - <div id="sdk-for-android-explore-LEFT_ROUNDABOUT_EXIT12"
     class="section detail">
 
     ### LEFT_ROUNDABOUT_EXIT12
@@ -1844,7 +1884,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT1"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT1"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_EXIT1
@@ -1864,7 +1905,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT2"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT2"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_EXIT2
@@ -1884,7 +1926,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT3"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT3"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_EXIT3
@@ -1904,7 +1947,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT4"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT4"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_EXIT4
@@ -1924,7 +1968,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT5"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT5"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_EXIT5
@@ -1944,7 +1989,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT6"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT6"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_EXIT6
@@ -1964,7 +2010,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT7"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT7"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_EXIT7
@@ -1984,7 +2031,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT8"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT8"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_EXIT8
@@ -2004,7 +2052,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT9"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT9"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_EXIT9
@@ -2024,7 +2073,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT10"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT10"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_EXIT10
@@ -2044,7 +2094,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT11"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT11"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_EXIT11
@@ -2064,7 +2115,8 @@ Maneuver action type.
     </div>
 
     </div>
-<div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT12"
+
+  - <div id="sdk-for-android-explore-RIGHT_ROUNDABOUT_EXIT12"
     class="section detail">
 
     ### RIGHT_ROUNDABOUT_EXIT12
@@ -2086,9 +2138,11 @@ Maneuver action type.
     </div>
 
   </div>
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-values()" class="section detail">
+
+  - <div id="sdk-for-android-explore-values()" class="section detail">
 
     ### values
 
@@ -2111,7 +2165,8 @@ Maneuver action type.
     they are declared
 
     </div>
-<div id="sdk-for-android-explore-valueOf(java.lang.String)"
+
+  - <div id="sdk-for-android-explore-valueOf(java.lang.String)"
     class="section detail">
 
     ### valueOf

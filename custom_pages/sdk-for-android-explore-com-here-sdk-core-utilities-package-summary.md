@@ -10,7 +10,8 @@ package <span class="element-name">com.here.sdk.core.utilities</span>
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-related-package-summary">
+
+- <div id="sdk-for-android-explore-related-package-summary">
 
   <div class="caption">
 

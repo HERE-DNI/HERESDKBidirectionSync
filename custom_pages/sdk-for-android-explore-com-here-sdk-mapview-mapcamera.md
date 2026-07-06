@@ -72,7 +72,7 @@ distance , zoom-level and scale determine how much of the world is
 visible on the HERE map. Distance , zoom-level and scale are directly
 connected and changing one will automatically change the others as well
 (except for distance / scale changes that map to zoom-level values \< 0
-or > 23). distance : the distance from the camera to the look-at target
+or \> 23). distance : the distance from the camera to the look-at target
 on the surface of the Earth, in meters zoom-level : the map zoom level,
 in the range \[0, 3\]. The relation between the width of the equator in
 logical pixels w and the zoom level z is: w = 256 \* 2^(z) scale : the
@@ -118,7 +118,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 </div>
 
 <div class="section summary">
-<div id="sdk-for-android-explore-nested-class-summary"
+
+- <div id="sdk-for-android-explore-nested-class-summary"
   class="section nested-class-summary">
 
   <div class="caption">
@@ -224,7 +225,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
   </div>
 
   </div>
-<div id="sdk-for-android-explore-method-summary"
+
+- <div id="sdk-for-android-explore-method-summary"
   class="section method-summary">
 
   <div id="sdk-for-android-explore-method-summary-table">
@@ -833,34 +835,34 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
   <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#clone()"
   class="external-link"
-  title="class or interface in java.lang"><code>clone</code></a>`, `<a
+  title="class or interface in java.lang"><code>clone</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object)"
   class="external-link"
-  title="class or interface in java.lang"><code>equals</code></a>`, `<a
+  title="class or interface in java.lang"><code>equals</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#finalize()"
   class="external-link"
-  title="class or interface in java.lang"><code>finalize</code></a>`, `<a
+  title="class or interface in java.lang"><code>finalize</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#getClass()"
   class="external-link"
-  title="class or interface in java.lang"><code>getClass</code></a>`, `<a
+  title="class or interface in java.lang"><code>getClass</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#hashCode()"
   class="external-link"
-  title="class or interface in java.lang"><code>hashCode</code></a>`, `<a
+  title="class or interface in java.lang"><code>hashCode</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notify()"
   class="external-link"
-  title="class or interface in java.lang"><code>notify</code></a>`, `<a
+  title="class or interface in java.lang"><code>notify</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#notifyAll()"
   class="external-link"
-  title="class or interface in java.lang"><code>notifyAll</code></a>`, `<a
+  title="class or interface in java.lang"><code>notifyAll</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#toString()"
   class="external-link"
-  title="class or interface in java.lang"><code>toString</code></a>`, `<a
+  title="class or interface in java.lang"><code>toString</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait()"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long)"
   class="external-link"
-  title="class or interface in java.lang"><code>wait</code></a>`, `<a
+  title="class or interface in java.lang"><code>wait</code></a>, <a
   href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html#wait(long,int)"
   class="external-link"
   title="class or interface in java.lang"><code>wait</code></a>
@@ -872,9 +874,11 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
 </div>
 
 <div class="section details">
-<div id="sdk-for-android-explore-method-detail"
+
+- <div id="sdk-for-android-explore-method-detail"
   class="section method-details">
-<div id="sdk-for-android-explore-setFarPlaneConfiguration(java.util.Map)"
+
+  - <div id="sdk-for-android-explore-setFarPlaneConfiguration(java.util.Map)"
     class="section detail">
 
     ### setFarPlaneConfiguration
@@ -886,7 +890,7 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html"
     class="external-link" title="class or interface in java.util">Map</a>\<<a
     href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html"
-    class="external-link" title="class or interface in java.lang">Double</a>,[MapCamera.FarPlaneConfiguration](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-farplaneconfiguration "class in com.here.sdk.mapview")> configs)</span>
+    class="external-link" title="class or interface in java.lang">Double</a>,[MapCamera.FarPlaneConfiguration](sdk-for-android-explore-com-here-sdk-mapview-mapcamera-farplaneconfiguration "class in com.here.sdk.mapview")\> configs)</span>
 
     </div>
 
@@ -899,9 +903,9 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     minDistance1, t) Effective far plane for the current frame is:
     farPlaneInMeters = max( minDistance(z), distanceToTargetInMeters \*
     distanceFactor(z) ) Sample Configuration (balanced
-    quality/performance, tune per zoom level): 14.4 ->
-    FarPlaneConfiguration(1.3) 18.34 -> FarPlaneConfiguration(2.0)
-    19.60 -> FarPlaneConfiguration(1.3) minDistanceInMeters remains
+    quality/performance, tune per zoom level): 14.4 -\>
+    FarPlaneConfiguration(1.3) 18.34 -\> FarPlaneConfiguration(2.0)
+    19.60 -\> FarPlaneConfiguration(1.3) minDistanceInMeters remains
     default in this case. Passing an empty map clears the per-zoom
     override and restores the default behavior. Non-finite zoom levels
     or values are ignored. Distance factors are clamped to 0.1 to 10.0.
@@ -915,7 +919,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Per-zoom override mapping from zoom level to distance configuration.
 
     </div>
-<div id="sdk-for-android-explore-addListener(com.here.sdk.mapview.MapCameraListener)"
+
+  - <div id="sdk-for-android-explore-addListener(com.here.sdk.mapview.MapCameraListener)"
     class="section detail">
 
     ### addListener
@@ -941,7 +946,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     The listener to add.
 
     </div>
-<div id="sdk-for-android-explore-removeListener(com.here.sdk.mapview.MapCameraListener)"
+
+  - <div id="sdk-for-android-explore-removeListener(com.here.sdk.mapview.MapCameraListener)"
     class="section detail">
 
     ### removeListener
@@ -966,7 +972,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Listener to be removed from receiving state notifications.
 
     </div>
-<div id="sdk-for-android-explore-removeListeners()"
+
+  - <div id="sdk-for-android-explore-removeListeners()"
     class="section detail">
 
     ### removeListeners
@@ -984,7 +991,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-applyUpdate(com.here.sdk.mapview.MapCameraUpdate)"
+
+  - <div id="sdk-for-android-explore-applyUpdate(com.here.sdk.mapview.MapCameraUpdate)"
     class="section detail">
 
     ### applyUpdate
@@ -1010,7 +1018,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     The update that gets applied to camera.
 
     </div>
-<div id="sdk-for-android-explore-dryApplyUpdate(com.here.sdk.mapview.MapCameraUpdate,com.here.sdk.mapview.MapCamera.DryCameraUpdateCallback)"
+
+  - <div id="sdk-for-android-explore-dryApplyUpdate(com.here.sdk.mapview.MapCameraUpdate,com.here.sdk.mapview.MapCamera.DryCameraUpdateCallback)"
     class="section detail">
 
     ### dryApplyUpdate
@@ -1044,7 +1053,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     on the main thread.
 
     </div>
-<div id="sdk-for-android-explore-startAnimation(com.here.sdk.mapview.MapCameraAnimation)"
+
+  - <div id="sdk-for-android-explore-startAnimation(com.here.sdk.mapview.MapCameraAnimation)"
     class="section detail">
 
     ### startAnimation
@@ -1074,7 +1084,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     The animation to be started.
 
     </div>
-<div id="sdk-for-android-explore-startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)"
+
+  - <div id="sdk-for-android-explore-startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)"
     class="section detail">
 
     ### startAnimation
@@ -1112,7 +1123,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     the animation gets cancelled or completed.
 
     </div>
-<div id="sdk-for-android-explore-cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)"
+
+  - <div id="sdk-for-android-explore-cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)"
     class="section detail">
 
     ### cancelAnimation
@@ -1137,7 +1149,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     The animation to be cancelled.
 
     </div>
-<div id="sdk-for-android-explore-cancelAnimations()"
+
+  - <div id="sdk-for-android-explore-cancelAnimations()"
     class="section detail">
 
     ### cancelAnimations
@@ -1156,7 +1169,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     </div>
 
     </div>
-<div id="sdk-for-android-explore-orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### orbitBy
@@ -1187,7 +1201,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Pixel point in view coordinates around which orbiting occurs.
 
     </div>
-<div id="sdk-for-android-explore-zoomBy(double,com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-zoomBy(double,com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### zoomBy
@@ -1229,7 +1244,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Pixel point in view coordinates around which zooming occurs.
 
     </div>
-<div id="sdk-for-android-explore-zoomTo(double)"
+
+  - <div id="sdk-for-android-explore-zoomTo(double)"
     class="section detail">
 
     ### zoomTo
@@ -1256,7 +1272,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     The zoom level to set, clamped to the range of \[0, 22\].
 
     </div>
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates)"
+
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates)"
     class="section detail">
 
     ### lookAt
@@ -1284,7 +1301,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Geodetic coordinates at which the camera will point.
 
     </div>
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMeasure)"
+
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -1318,7 +1336,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     point, scale or zoom level.
 
     </div>
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
+
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)"
     class="section detail">
 
     ### lookAt
@@ -1361,7 +1380,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     point, scale or zoom level.
 
     </div>
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate)"
+
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate)"
     class="section detail">
 
     ### lookAt
@@ -1395,7 +1415,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Desired orientation of the camera
 
     </div>
-<div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)"
+
+  - <div id="sdk-for-android-explore-lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)"
     class="section detail">
 
     ### lookAt
@@ -1440,7 +1461,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     geographical target area is displayed.
 
     </div>
-<div id="sdk-for-android-explore-setDistanceToTarget(double)"
+
+  - <div id="sdk-for-android-explore-setDistanceToTarget(double)"
     class="section detail">
 
     ### setDistanceToTarget
@@ -1465,7 +1487,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     clamped to 100 meters.
 
     </div>
-<div id="sdk-for-android-explore-setOrientationAtTarget(com.here.sdk.core.GeoOrientationUpdate)"
+
+  - <div id="sdk-for-android-explore-setOrientationAtTarget(com.here.sdk.core.GeoOrientationUpdate)"
     class="section detail">
 
     ### setOrientationAtTarget
@@ -1489,7 +1512,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Desired orientation of the camera.
 
     </div>
-<div id="sdk-for-android-explore-getState()" class="section detail">
+
+  - <div id="sdk-for-android-explore-getState()" class="section detail">
 
     ### getState
 
@@ -1512,7 +1536,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     the map view.
 
     </div>
-<div id="sdk-for-android-explore-getPrincipalPoint()"
+
+  - <div id="sdk-for-android-explore-getPrincipalPoint()"
     class="section detail">
 
     ### getPrincipalPoint
@@ -1543,7 +1568,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     render the current target coordinates at the new principal point.
 
     </div>
-<div id="sdk-for-android-explore-setPrincipalPoint(com.here.sdk.core.Point2D)"
+
+  - <div id="sdk-for-android-explore-setPrincipalPoint(com.here.sdk.core.Point2D)"
     class="section detail">
 
     ### setPrincipalPoint
@@ -1562,8 +1588,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     target coordinates at the new principal point. By default, the
     principal point is located at the center of the map view. It is set
     in pixels relative to the map view's origin top-left (0, 0). Values
-    outside the map view's dimensions (x \< 0 \|\| x > width, y \< 0
-    \|\| y > height) will be rejected silently and the current
+    outside the map view's dimensions (x \< 0 \|\| x \> width, y \< 0
+    \|\| y \> height) will be rejected silently and the current
     principal point is kept. The value of the principal point is
     adjusted when the dimensions of the map view change, so that it
     stays in the same point relative to width and height. Meaning that
@@ -1584,7 +1610,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     render the current target coordinates at the new principal point.
 
     </div>
-<div id="sdk-for-android-explore-getBoundingBox()"
+
+  - <div id="sdk-for-android-explore-getBoundingBox()"
     class="section detail">
 
     ### getBoundingBox
@@ -1616,7 +1643,8 @@ cancelAnimation(com.here.sdk.mapview.MapCameraAnimation) .
     Currently visible map area encompassed in a GeoBox.
 
     </div>
-<div id="sdk-for-android-explore-getLimits()"
+
+  - <div id="sdk-for-android-explore-getLimits()"
     class="section detail">
 
     ### getLimits
